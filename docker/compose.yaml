@@ -9,7 +9,7 @@ services:
     volumes:
       - mongo-data:/data/db
   zoomumba:
-    image: "zoomumba:latest"
+    image: "ghcr.io/michielvde1253/zoomumba-private-server:main"
     restart: always
     environment:
       STAFF_PASSWORD: "YPUcIiKnGbVJgis" # Change this
