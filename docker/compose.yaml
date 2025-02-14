@@ -1,0 +1,24 @@
+name: zoomumba-recreation
+services:
+  mongodb:
+    image: "mongo:latest"
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: zoomumba # Change this
+      MONGO_INITDB_ROOT_PASSWORD: zoomumba # Change this
+    volumes:
+      - mongo-data:/data/db
+  zoomumba:
+    image: "zoomumba:latest"
+    restart: always
+    environment:
+      STAFF_PASSWORD: "YPUcIiKnGbVJgis" # Change this
+      MONGO_URI: "mongodb://zoomumba:zoomumba@mongodb:27017/"
+  cloudflared:
+    image: "cloudflare/cloudflared:latest"
+    restart: always
+    command: tunnel run
+    environment:
+      TUNNEL_TOKEN: ""
+volumes:
+  mongo-data:

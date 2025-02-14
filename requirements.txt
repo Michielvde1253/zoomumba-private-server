@@ -2,3 +2,4 @@ flask
 bcrypt
 pymongo
 python-dotenv
+Flask-HTTPAuth

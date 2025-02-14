@@ -48,7 +48,8 @@ print(" [+] Loading init data...")
 
 p = Path(__file__).parents[0]
 
-LOCAL_DEV_MODE = True
+load_dotenv()
+LOCAL_DEV_MODE = os.getenv("LOCAL_DEV_MODE") == "1"
 
 if LOCAL_DEV_MODE:
     host = "127.0.0.1"
@@ -275,10 +276,7 @@ def crossdomain():
 
 @app.route("/assets/<path:path>")
 def static_assets_loader(path):
-    if LOCAL_DEV_MODE:
-        return send_from_directory(ASSETS_DIR, path)
-    else:
-        return redirect("https://cdn.jsdelivr.net/gh/michielvde1253/zoomumba-private-server/assets/" + path)
+    return send_from_directory(ASSETS_DIR, path)
     
 
 @app.route("/templates/styles/<path:path>")
