@@ -1,9 +1,10 @@
 import time
 from utils import shopUtils
+from utils import roadPathfindingUtils
 
-empty_cage = {"id":-1,"uId":0,"fId":0,"cId":1,"sId":0,"level":1,"x":34,"y":84,"r":0,"male":0,"female":0,"child":0,"build":1605824682,"breed":0,"clean":0,"feed":0,"water":0,"cuddle":0,"sick":0,"health":0,"sfeed":0,"eventId":0,"evEnd":0,"drops":{"cu":{"col":0,"eItem":0,"eCol":0},"cl":{"col":{"id":244,"amount":1},"eItem":0,"eCol":0},"wa":{"col":0,"eItem":0,"eCol":0},"fe":{"col":0,"pp":2,"pl":0,"eItem":0,"eCol":0},"sf":{"col":0,"pp":2,"pl":0,"eItem":0},"pf":{"col":0,"pp":2,"pl":0,"eItem":0},"hl":{"pp":2,"pl":0},"sh":{"pp":3,"pl":0},"eb":{"pp":2,"pl":0},"db":{"pp":2,"pl":0}}}
-empty_animal = {"id":-1,"uId":0,"aId":0,"sId":0,"cId":0,"fId":0,"fTime":0}
-empty_road = {"id": -1,"uId": 0,"fId": 0,"rId": 6,"act": 1,"x": 24,"y": 72,"r": 0,"deco": 0,"trashbin": 6341202}
+empty_cage = {"id":-1,"uId":0,"fId":0,"cId":1,"sId":0,"act":0,"level":1,"x":34,"y":84,"r":0,"male":0,"female":0,"child":0,"build":1605824682,"breed":0,"clean":0,"feed":0,"water":0,"cuddle":0,"sick":0,"health":0,"sfeed":0,"eventId":0,"evEnd":0,"drops":{"cu":{"col":0,"eItem":0,"eCol":0},"cl":{"col":{"id":244,"amount":1},"eItem":0,"eCol":0},"wa":{"col":0,"eItem":0,"eCol":0},"fe":{"col":0,"pp":2,"pl":0,"eItem":0,"eCol":0},"sf":{"col":0,"pp":2,"pl":0,"eItem":0},"pf":{"col":0,"pp":2,"pl":0,"eItem":0},"hl":{"pp":2,"pl":0},"sh":{"pp":3,"pl":0},"eb":{"pp":2,"pl":0},"db":{"pp":2,"pl":0}}}
+empty_animal = {"id":-1,"uId":0,"aId":0,"sId":0,"cId":0,"fId":0,"fTime":0,"act":0}
+empty_road = {"id": -1,"uId": 0,"fId": 0,"rId": 6,"act": 0,"x": 24,"y": 72,"r": 0,"deco": 0,"trashbin": 6341202}
 
 def handle_fieldFia(request, user_id, obj, json_data, config_data):
     current_field_id = json_data["uObj"]["current_field"]
@@ -31,6 +32,9 @@ def handle_fieldFia(request, user_id, obj, json_data, config_data):
             # Buy item
             config_data_for_cage = config_data["gameItems"]["cages"][str(request["cId"])]
             shopUtils.buy_from_shop(config_data_for_cage, json_data["uObj"]["uLvl"], json_data)
+
+            # Check for nearby roads and set to active if needed
+            json_data["fObj"]["cages"][str(current_field_id)][str(new_cage["id"])]["act"] = int(roadPathfindingUtils.is_building_active(json_data, request["x"], request["y"], config_data_for_cage["width"], config_data_for_cage["height"]))
 
             # Send objects to game
             obj["fObj"] = json_data["fObj"]
@@ -161,6 +165,9 @@ def handle_fieldFia(request, user_id, obj, json_data, config_data):
             config_data_for_road = config_data["gameItems"]["roads"][str(request["rId"])]
             shopUtils.buy_from_shop(config_data_for_road, json_data["uObj"]["uLvl"], json_data)
 
+            # Check all buildings around the road and change them to active if needed:
+            roadPathfindingUtils.check_all_buildings_around_tile(json_data, config_data, request["x"], request["y"])
+
             # Send objects to game
             obj["fObj"] = json_data["fObj"]
             obj["req"] = request["req:"] # typo by bigpoint lol
@@ -177,9 +184,10 @@ def handle_fieldFia(request, user_id, obj, json_data, config_data):
         case "cSt": # COLLECT_STORE_MONEY
             # the fTime in player json seems to be unused?
 
-            config_data_for_store = config_data["gameItems"]["stores"][str(request["id"])]
-
             store = json_data["fObj"]["stores"][str(current_field_id)][str(request["id"])]
+            store_id = store["stId"]
+            
+            config_data_for_store = config_data["gameItems"]["stores"][str(store_id)]
 
             if(int(time.time()) >= store["collect"]):
                 store["collect"] = int(time.time()) + config_data_for_store["collectTime"]
@@ -201,6 +209,33 @@ def handle_fieldFia(request, user_id, obj, json_data, config_data):
             obj["req"] = request["req:"] # typo by bigpoint lol
             obj["uObj"] = json_data["uObj"]
             obj["res"] = json_data["res"]
+
+        case "mC": # MOVE_CAGE
+
+            json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["x"] = request["x"]
+            json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["y"] = request["y"]
+
+            cage_id = json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["cId"]
+            config_data_for_cage = config_data["gameItems"]["cages"][str(cage_id)]
+
+            # Check for nearby roads and set to active if needed
+            json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["act"] = int(roadPathfindingUtils.is_building_active(json_data, request["x"], request["y"], config_data_for_cage["width"], config_data_for_cage["height"]))
+
+            # Send objects to game
+            obj["req"] = request["req:"] # typo by bigpoint lol
+            obj["fObj"] = json_data["fObj"]
+
+        case "mR": # MOVE_CAGE
+
+            json_data["fObj"]["roads"][str(current_field_id)][str(request["id"])]["x"] = request["x"]
+            json_data["fObj"]["roads"][str(current_field_id)][str(request["id"])]["y"] = request["y"]
+
+            # Check all buildings around the road and change them to active if needed:
+            roadPathfindingUtils.check_all_buildings_around_tile(json_data, config_data, request["x"], request["y"])
+
+            # Send objects to game
+            obj["req"] = request["req:"] # typo by bigpoint lol
+            obj["fObj"] = json_data["fObj"]
 
         case _:
             print("field.fia case not handled.")
