@@ -243,7 +243,7 @@ def gamepage():
     else:
         host_url = host_name
 
-    return render_template("play.html", tutS=tutS, tutT=tutT, userid=session["userid"], token=token, SERVERIP=host_url, isHTTPS=int(LOCAL_DEV_MODE == True))
+    return render_template("play.html", tutS=tutS, tutT=tutT, userid=session["userid"], token=token, SERVERIP=host_url, isHTTPS=int(LOCAL_DEV_MODE == False))
 
 @app.route("/emulate")
 @auth.login_required
