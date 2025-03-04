@@ -660,10 +660,39 @@ var lplocaleMEB   = 'CA';
                 <a class="bgcdw_remindpassword" target="_self" href="https://web.archive.org/web/20201224223629/https://accountcenter.bpsecure.com/PasswordReminder?pid=441&amp;lang=en">Forgot your password?</a>
             </div>
             <fieldset class="bgcdw_login_form_buttons">
-<input class="bgcdw_button bgcdw_login_form_login" type="submit" value="Login"><input class="bgcdw_button bgcdw_login_form_register" type="button" onclick="window.location='/Signup/';return false;" value="Register">
+<input class="bgcdw_button bgcdw_login_form_login" type="submit" value="Login"><input class="bgcdw_button bgcdw_login_form_register" type="button" onclick="window.location='/?action=externalSignUp';return false;" value="Register">
 </fieldset>
 </form>
     </div>
+<script type="text/javascript">
+    // Show error message (if there is one)
+    // Top tier code :troll:
+    if ("{{msg}}" == "") {
+        const container = document.querySelector('.bgc_error_translations');
+        const errorDivs = container.querySelectorAll('[data-error-key]');
+
+        errorDivs.forEach(div => {
+            const errorKey = div.getAttribute('data-error-key');
+    
+            // Remove the div if the data-error-key does not match the specified keepKey
+            div.remove();
+        });
+    } else {
+        const container = document.querySelector('.bgc_error_translations');
+        const errorDivs = container.querySelectorAll('[data-error-key]');
+
+        errorDivs.forEach(div => {
+            const errorKey = div.getAttribute('data-error-key');
+    
+            // Remove the div if the data-error-key does not match the specified keepKey
+            console.log(errorKey)
+            console.log("{{msg}}")
+            if (errorKey !== "{{msg}}") {
+                div.remove();
+            }
+        });
+    }
+</script>
 </div>
                 <div id="gl_facebook_like"></div>
                 <div id="googlePlusLike"></div>
@@ -840,35 +869,6 @@ All rights reserved
         oNewDiv.appendChild(oCloseDiv);
         oNewDiv.appendChild(oText);
         document.body.appendChild(oNewDiv);
-    }
-</script>
-<script type="text/javascript">
-    // Show error message (if there is one)
-    // Top tier code :troll:
-    if ("{{msg}}" == "") {
-        const container = document.querySelector('.bgc_error_translations');
-        const errorDivs = container.querySelectorAll('[data-error-key]');
-
-        errorDivs.forEach(div => {
-            const errorKey = div.getAttribute('data-error-key');
-    
-            // Remove the div if the data-error-key does not match the specified keepKey
-            div.remove();
-        });
-    } else {
-        const container = document.querySelector('.bgc_error_translations');
-        const errorDivs = container.querySelectorAll('[data-error-key]');
-
-        errorDivs.forEach(div => {
-            const errorKey = div.getAttribute('data-error-key');
-    
-            // Remove the div if the data-error-key does not match the specified keepKey
-            console.log(errorKey)
-            console.log("{{msg}}")
-            if (errorKey !== "{{msg}}") {
-                div.remove();
-            }
-        });
     }
 </script>
 </div>
