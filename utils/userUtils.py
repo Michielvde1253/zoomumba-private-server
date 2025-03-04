@@ -51,7 +51,7 @@ def save_zoo(collection, user_id, added, removed, modified):
         collection.update_one({"id": user_id}, update_query)
 
 def calculate_level_based_on_xp(xp, config_data):
-    for i in range(config_data["main"]["u_level"]):
+    for i in range(len(config_data["main"]["u_level"])):
         if xp < int(config_data["main"]["u_level"][i]):
             return i
     return 0

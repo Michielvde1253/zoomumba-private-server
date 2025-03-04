@@ -67,10 +67,7 @@ auth = HTTPBasicAuth()
 @auth.verify_password
 def verify_password(username, password):
     # username = account id you want to emulate
-    print(password)
-    print(os.getenv('STAFF_PASSWORD'))
     if password == os.getenv('STAFF_PASSWORD'):
-        print("yes")
         return username
 
 ######################
@@ -324,14 +321,14 @@ def handle_request():
     # Add entrance fee for current field
     current_field_id = json_data["uObj"]["current_field"]
     entrance_fee_per_second = attractionUtils.calculate_entrance_fee_per_hour(json_data, config_data, current_field_id) / 3600
-    print(f"Entrance fee per second = {entrance_fee_per_second}")
+
     time_since_last_push = obj["sData"]["time"] - json_data["pfObj"][current_field_id]["lastPush"]
-    print(f"Time since last push = {time_since_last_push}")
+
     entrance_fee_gained = entrance_fee_per_second * time_since_last_push
-    print(f"Entrance fee gained = {entrance_fee_gained}")
     json_data["uObj"]["entranceFee"] += round(entrance_fee_gained)
+
     entrance_fee_limit = attractionUtils.calculate_entrance_fee_limit(json_data)
-    print(f"Entrance fee limit = {entrance_fee_limit}")
+
     if json_data["uObj"]["entranceFee"] > entrance_fee_limit:
         json_data["uObj"]["entranceFee"] = entrance_fee_limit
 
@@ -348,10 +345,21 @@ def handle_request():
             print("Command " + command + " not handled")
     total_response["obj"] = obj
 
+    # Remove level-up from previous command
+    json_data["uObj"]["lvlUp"] = None
+
+    # Calculate level based on xp, show level up message if needed
+    old_level = json_data["uObj"]["uLvl"]
+    new_level = userUtils.calculate_level_based_on_xp(json_data["uObj"]["uEp"], config_data)
+    json_data["uObj"]["uLvl"] = new_level
+
+    if old_level != new_level:
+        json_data["uObj"]["lvlUp"] = 1
+
     # Save last push time
     json_data["pfObj"][current_field_id]["lastPush"] = obj["sData"]["time"]
-    # Save to database
 
+    # Save to database
     added, removed, modified = userUtils.get_differences(initial_json_data, json_data)
     userUtils.save_zoo(data_db, int(request.args["uId"]), added, removed, modified)
     return total_response

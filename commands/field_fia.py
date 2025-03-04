@@ -5,11 +5,17 @@ from utils import roadPathfindingUtils
 empty_cage = {"id":-1,"uId":0,"fId":0,"cId":1,"sId":0,"act":0,"level":1,"x":34,"y":84,"r":0,"male":0,"female":0,"child":0,"build":1605824682,"breed":0,"clean":0,"feed":0,"water":0,"cuddle":0,"sick":0,"health":0,"sfeed":0,"eventId":0,"evEnd":0,"drops":{"cu":{"col":0,"eItem":0,"eCol":0},"cl":{"col":{"id":244,"amount":1},"eItem":0,"eCol":0},"wa":{"col":0,"eItem":0,"eCol":0},"fe":{"col":0,"pp":2,"pl":0,"eItem":0,"eCol":0},"sf":{"col":0,"pp":2,"pl":0,"eItem":0},"pf":{"col":0,"pp":2,"pl":0,"eItem":0},"hl":{"pp":2,"pl":0},"sh":{"pp":3,"pl":0},"eb":{"pp":2,"pl":0},"db":{"pp":2,"pl":0}}}
 empty_animal = {"id":-1,"uId":0,"aId":0,"sId":0,"cId":0,"fId":0,"fTime":0,"act":0}
 empty_road = {"id": -1,"uId": 0,"fId": 0,"rId": 6,"act": 0,"x": 24,"y": 72,"r": 0,"deco": 0,"trashbin": 6341202}
+empty_deco = {"id": -1,"uId": 0,"fId": 0,"dId": 76,"act": 0,"x": 37,"y": 82,"r": 0,"build": 1315636007}
 
 def handle_fieldFia(request, user_id, obj, json_data, config_data):
     current_field_id = json_data["uObj"]["current_field"]
 
     match request["fia"]:
+
+        #############
+        # BUY ITEMS #
+        #############
+
         case "bC": # BUY_CAGE
             # Create field object if needed
             if str(current_field_id) not in json_data["fObj"]["cages"]:
@@ -98,50 +104,6 @@ def handle_fieldFia(request, user_id, obj, json_data, config_data):
             obj["animals"] = json_data["animals"]
             obj["req"] = request["req:"] # typo by bigpoint lol
 
-        case ("fAC" | "wAC"): # FEED_ANIMAL_CAGE or WATER_ANIMAL_CAGE
-            current_time = int(time.time())
-            species_id = json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["sId"]
-            config_data_for_species = config_data["gameItems"]["animalsSpecies"][str(species_id)]
-
-            if request["fia"] == "fAC":
-                food_id = config_data_for_species["foodId"]
-                food_per_animal = config_data_for_species["foodPerAnimal"]
-            elif request["fia"] == "wAC":
-                food_id = 1
-                food_per_animal = config_data_for_species["waterPerAnimal"]
-
-            # To-do: is there a better way to count the animals?
-            count_males = json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["male"]
-            count_females = json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["female"]
-            count_childs = json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["child"]
-            count_total = count_males + count_females + count_childs
-
-            total_food_cost = food_per_animal * count_total
-
-            if json_data["res"][str(food_id)]["cnt"] >= total_food_cost:
-                if request["fia"] == "fAC":
-                    json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["feed"] = current_time + config_data_for_species["feedTime"]
-                elif request["fia"] == "wAC":
-                    json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["water"] = current_time + config_data_for_species["waterTime"]
-                json_data["res"][str(food_id)]["cnt"] -= total_food_cost
-
-            obj["uObj"] = json_data["uObj"]
-            obj["fObj"] = json_data["fObj"]
-            obj["res"] = json_data["res"]
-
-        case ("cAC" | "cuAC"): # CLEAN_ANIMAL_CAGE or CUDDLE_ANIMAL_CAGE
-            current_time = int(time.time())
-            species_id = json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["sId"]
-            config_data_for_species = config_data["gameItems"]["animalsSpecies"][str(species_id)]
-
-            if request["fia"] == "cAC":
-                json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["clean"] = current_time + config_data_for_species["cleanTime"]
-            elif request["fia"] == "cuAC":
-                json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["cuddle"] = current_time + config_data_for_species["cuddleTime"]
-
-            obj["uObj"] = json_data["uObj"]
-            obj["fObj"] = json_data["fObj"]
-
         case "bR": # BUY_ROAD
             # Create field object if needed
             if str(current_field_id) not in json_data["fObj"]["roads"]:
@@ -173,6 +135,125 @@ def handle_fieldFia(request, user_id, obj, json_data, config_data):
             obj["req"] = request["req:"] # typo by bigpoint lol
             obj["uObj"] = json_data["uObj"]
 
+        case "bD": # BUY_DECO
+            # Create field object if needed
+            if str(current_field_id) not in json_data["fObj"]["decos"]:
+                json_data["fObj"]["decos"][str(current_field_id)] = {}
+
+            # Initialize new road
+            new_deco = empty_deco.copy()
+            new_deco["id"] = json_data["next_object_id"]
+            new_deco["uId"] = user_id
+            new_deco["fId"] = current_field_id
+            new_deco["dId"] = request["dId"]
+            new_deco["x"] = request["x"]
+            new_deco["y"] = request["y"]
+            new_deco["r"] = request["r"]
+            new_deco["build"] = int(time.time()) + 10
+
+            json_data["next_object_id"] += 1
+            json_data["fObj"]["decos"][str(current_field_id)][str(new_deco["id"])] = new_deco
+
+            # Buy item
+            config_data_for_deco = config_data["gameItems"]["decos"][str(request["dId"])]
+            shopUtils.buy_from_shop(config_data_for_road, json_data["uObj"]["uLvl"], json_data)
+
+            # Check for nearby roads and set to active if needed
+            json_data["fObj"]["decos"][str(current_field_id)][str(new_deco["id"])]["act"] = int(roadPathfindingUtils.is_building_active(json_data, request["x"], request["y"], config_data_for_deco["width"], config_data_for_deco["height"]))
+
+            # Send objects to game
+            obj["fObj"] = json_data["fObj"]
+            obj["req"] = request["req:"] # typo by bigpoint lol
+            obj["uObj"] = json_data["uObj"]
+
+        case "bIr": # BUY_RESOURCE
+
+            # Buy item
+            config_data_for_resource = config_data["gameItems"]["resources"][str(request["irId"])]
+            shopUtils.buy_multiple_from_shop(config_data_for_resource, json_data["uObj"]["uLvl"], json_data, request["cnt"])
+            json_data["res"][str(request["irId"])]["cnt"] += request["cnt"]
+
+            # Send objects to game
+            obj["req"] = request["req:"] # typo by bigpoint lol
+            obj["uObj"] = json_data["uObj"]
+            obj["res"] = json_data["res"]
+
+        #################
+        # ANIMALS STUFF #
+        #################
+
+        case ("fAC" | "wAC"): # FEED_ANIMAL_CAGE or WATER_ANIMAL_CAGE
+            current_time = int(time.time())
+
+            cage = json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]
+
+            species_id = cage["sId"]
+            config_data_for_species = config_data["gameItems"]["animalsSpecies"][str(species_id)]
+
+            # To-do: is there a better way to count the animals?
+            count_males = cage["male"]
+            count_females = cage["female"]
+            count_childs = cage["child"]
+            count_total = count_males + count_females + count_childs
+
+            if request["fia"] == "fAC":
+                food_id = config_data_for_species["foodId"]
+                food_per_animal = config_data_for_species["foodPerAnimal"]
+            elif request["fia"] == "wAC":
+                food_id = 1
+                food_per_animal = config_data_for_species["waterPerAnimal"]
+
+            total_food_cost = food_per_animal * count_total
+
+            if json_data["res"][str(food_id)]["cnt"] >= total_food_cost:
+
+                if request["fia"] == "fAC":
+                    if json_data["uObj"]["uTut"] == 0: # During tutorial no exp is given
+                        json_data["uObj"]["uEp"] += shopUtils.get_cage_calculated_xp(cage, "feed", config_data, json_data["uObj"]["uLvl"], count_total)
+
+                    cage["feed"] = current_time + config_data_for_species["feedTime"]
+
+                elif request["fia"] == "wAC":
+                    if json_data["uObj"]["uTut"] == 0: # During tutorial no exp is given
+                        json_data["uObj"]["uEp"] += shopUtils.get_cage_calculated_xp(cage, "water", config_data, json_data["uObj"]["uLvl"], count_total)
+
+                    cage["water"] = current_time + config_data_for_species["waterTime"]
+
+                json_data["res"][str(food_id)]["cnt"] -= total_food_cost
+
+            obj["uObj"] = json_data["uObj"]
+            obj["fObj"] = json_data["fObj"]
+            obj["res"] = json_data["res"]
+
+        case ("cAC" | "cuAC"): # CLEAN_ANIMAL_CAGE or CUDDLE_ANIMAL_CAGE
+            current_time = int(time.time())
+
+            cage = json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]
+
+            species_id = cage["sId"]
+            config_data_for_species = config_data["gameItems"]["animalsSpecies"][str(species_id)]
+
+            # To-do: is there a better way to count the animals?
+            count_males = cage["male"]
+            count_females = cage["female"]
+            count_childs = cage["child"]
+            count_total = count_males + count_females + count_childs
+
+            if request["fia"] == "cAC":
+                if json_data["uObj"]["uTut"] == 0: # During tutorial no exp is given
+                    json_data["uObj"]["uEp"] += shopUtils.get_cage_calculated_xp(cage, "clean", config_data, json_data["uObj"]["uLvl"], count_total)
+
+                cage["clean"] = current_time + config_data_for_species["cleanTime"]
+
+            elif request["fia"] == "cuAC":
+                if json_data["uObj"]["uTut"] == 0: # During tutorial no exp is given
+                    json_data["uObj"]["uEp"] += shopUtils.get_cage_calculated_xp(cage, "cuddle", config_data, json_data["uObj"]["uLvl"], count_total)
+
+                cage["cuddle"] = current_time + config_data_for_species["cuddleTime"]
+
+            obj["uObj"] = json_data["uObj"]
+            obj["fObj"] = json_data["fObj"]
+
         case "cEf": # COLLECT_ENTRANCE_FEE
             json_data["uObj"]["uCv"] += json_data["uObj"]["entranceFee"]
             json_data["uObj"]["entranceFee"] = 0
@@ -198,18 +279,6 @@ def handle_fieldFia(request, user_id, obj, json_data, config_data):
             obj["uObj"] = json_data["uObj"]
             obj["fObj"] = json_data["fObj"]
 
-        case "bIr": # BUY_RESOURCE
-
-            # Buy item
-            config_data_for_resource = config_data["gameItems"]["resources"][str(request["irId"])]
-            shopUtils.buy_multiple_from_shop(config_data_for_resource, json_data["uObj"]["uLvl"], json_data, request["cnt"])
-            json_data["res"][str(request["irId"])]["cnt"] += request["cnt"]
-
-            # Send objects to game
-            obj["req"] = request["req:"] # typo by bigpoint lol
-            obj["uObj"] = json_data["uObj"]
-            obj["res"] = json_data["res"]
-
         case "mC": # MOVE_CAGE
 
             json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]["x"] = request["x"]
@@ -225,7 +294,7 @@ def handle_fieldFia(request, user_id, obj, json_data, config_data):
             obj["req"] = request["req:"] # typo by bigpoint lol
             obj["fObj"] = json_data["fObj"]
 
-        case "mR": # MOVE_CAGE
+        case "mR": # MOVE_ROAD
 
             json_data["fObj"]["roads"][str(current_field_id)][str(request["id"])]["x"] = request["x"]
             json_data["fObj"]["roads"][str(current_field_id)][str(request["id"])]["y"] = request["y"]
