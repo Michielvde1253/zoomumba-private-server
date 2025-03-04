@@ -57,15 +57,12 @@ def get_exp_proportional_value(temp, percentage, input):
     res = 1
     for value in input:
         res += value
-    print(input)
-    print(temp)
-    print(percentage)
-    print(res)
     return int(temp * percentage * res)
 
 def get_cage_calculated_xp(cage, action_type, config_data, user_level, count_animals):
     # Calculate the xp you get when feeding, cuddling, ... a cage.
     # https://github.com/Michielvde1253/zoomumba-client/blob/20248990cf91a0f12581a26079e8366331438748/com/bigpoint/zoomumba/model/app/gameEvents/UserResourcesProxy.as#L117
+
     cage_id = cage["cId"]
     species_id = cage["sId"]
     level = cage["level"]
@@ -76,6 +73,9 @@ def get_cage_calculated_xp(cage, action_type, config_data, user_level, count_ani
 
     xp_bonus = upgrade_cage_config["xpBonus"]
 
+
+    # The original game client has a bug here (a check for an active event that always returns true, giving that bonus even if the event isn't active)
+    # Fixed this in our client, although this will create an inconsistency with the old zoomumba
     if config_data_for_species["cages"][str(cage_id)] == 2: # "Good" bonus
         attraction_cagebonus = 0.1
     else:
