@@ -23,7 +23,7 @@ We're still looking for some of Zoomumba's assets. If you have them or know how 
 ## List of game commands
 I'm not 100% sure if all of these are still being used in the latest version of Zoomumba, but I hope it gives an indication of the progress of this private server.
 
-Current progress: 13/173
+Current progress: 20/173
 
 - [ ] achievement.ga - GET_ACHIEVEMENTS
 - [ ] advBreedEvt.getConfig - ADVANCED_BREEDING_EVENT_CONFIG
@@ -68,7 +68,7 @@ Current progress: 13/173
 - [ ] field.fia - BUY_ASSISTANT
 - [ ] field.fia - BUY_BREEDING_LAB
 - [x] field.fia - BUY_CAGE
-- [ ] field.fia - BUY_DECO
+- [x] field.fia - BUY_DECO
 - [ ] field.fia - BUY_NURSERY
 - [ ] field.fia - BUY_PREMIUM
 - [ ] field.fia - BUY_PREMIUM_WITH_COUNT
@@ -76,14 +76,14 @@ Current progress: 13/173
 - [x] field.fia - BUY_ROAD
 - [ ] field.fia - BUY_STORE
 - [ ] field.fia - BUY_TRASHBIN
-- [ ] field.fia - CLEAN_ANIMAL_CAGE
+- [x] field.fia - CLEAN_ANIMAL_CAGE
 - [ ] field.fia - CLEAR_ASSISTANT_TIMER
 - [ ] field.fia - CLEAR_TRASH_BIN
 - [ ] field.fia - CLEAR_TRASH_ROAD
 - [x] field.fia - COLLECT_ENTRANCE_FEE
 - [x] field.fia - COLLECT_STORE_MONEY
-- [ ] field.fia - CUDDLE_ANIMAL_CAGE
-- [ ] field.fia - DIRECT_BREED
+- [x] field.fia - CUDDLE_ANIMAL_CAGE
+- [x] field.fia - DIRECT_BREED
 - [ ] field.fia - END_ADVANCED_BREEDING_NET
 - [ ] field.fia - END_NURSERY_BREEDING
 - [x] field.fia - FEED_ANIMAL_CAGE
@@ -91,10 +91,10 @@ Current progress: 13/173
 - [ ] field.fia - INSTANT_NURSERY_BREEDING
 - [ ] field.fia - MOVE_ANIMAL_CAGE
 - [ ] field.fia - MOVE_BREEDING_LAB
-- [ ] field.fia - MOVE_CAGE
+- [x] field.fia - MOVE_CAGE
 - [ ] field.fia - MOVE_DECO
 - [ ] field.fia - MOVE_NURSERY
-- [ ] field.fia - MOVE_ROAD
+- [x] field.fia - MOVE_ROAD
 - [ ] field.fia - MOVE_STORE
 - [ ] field.fia - MOVE_TRASH_BIN
 - [ ] field.fia - POWER_FEED_ANIMAL_CAGE

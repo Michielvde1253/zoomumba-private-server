@@ -27,15 +27,16 @@ def calculate_static_attraction(json_data, config_data, field_id):
 
     return total_static_attraction
 
-def calculate_current_attraction(json_data, config_data, field_id):
+def calculate_current_and_max_attraction(json_data, config_data, field_id):
     # Animals
     total_current_attraction = 0
+    max_attraction = 0
     for j in json_data["fObj"]["cages"][field_id]:
         i = json_data["fObj"]["cages"][field_id][j]
         sId = i["sId"]
         cId = i["cId"]
 
-        if sId == 0 or i["act"] == 0: # Only look at non-empty cages that are connected to a road
+        if sId <= 0 or i["act"] == 0: # Only look at non-empty cages that are connected to a road
             continue
 
         count_males = i["male"]
@@ -64,13 +65,21 @@ def calculate_current_attraction(json_data, config_data, field_id):
             
         # https://github.com/Michielvde1253/zoomumba-client/blob/20248990cf91a0f12581a26079e8366331438748/com/bigpoint/zoomumba/model/playfield/PlayfieldSettingsProxy.as#L270
 
-        total_current_attraction = attraction_animals * attraction_health * attraction_cagebonus
+        # this might need to be round() instead of math.ceil()
+        total_current_attraction += math.ceil(attraction_animals * attraction_health * attraction_cagebonus)
+        max_attraction += math.ceil(attraction_animals * 1.5 * attraction_cagebonus)
 
-    return total_current_attraction
+    return total_current_attraction, max_attraction
 
 def calculate_attraction(json_data, config_data, field_id):
-    attraction = calculate_static_attraction(json_data, config_data, field_id) + calculate_current_attraction(json_data, config_data, field_id)
-    print(f"The attraction is {attraction}")
+    static_attraction = calculate_static_attraction(json_data, config_data, field_id)
+    current_attraction = calculate_current_and_max_attraction(json_data, config_data, field_id)[0]
+    max_attraction = calculate_current_and_max_attraction(json_data, config_data, field_id)[0]
+
+    if static_attraction > (0.2 * max_attraction):
+        static_attraction = math.floor(max_attraction)
+    attraction = static_attraction + current_attraction
+    print(f"[DEBUG] The attraction is {attraction}")
     return attraction
 
 def calculate_entrance_fee_per_hour(json_data, config_data, field_id):

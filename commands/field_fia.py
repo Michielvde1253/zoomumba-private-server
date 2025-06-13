@@ -254,6 +254,16 @@ def handle_fieldFia(request, user_id, obj, json_data, config_data):
             obj["uObj"] = json_data["uObj"]
             obj["fObj"] = json_data["fObj"]
 
+        case "bdAC": # DIRECT_BREED
+            cage = json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]
+            cage["child"] += 1
+
+            cage["breed"] = 0
+
+            species_id = cage["sId"]
+            config_data_for_species = config_data["gameItems"]["species"][str(species_id)]
+            shopUtils.reduce_real_currency(config_data_for_species["directBreedReal"], json_data)
+
         case "cEf": # COLLECT_ENTRANCE_FEE
             json_data["uObj"]["uCv"] += json_data["uObj"]["entranceFee"]
             json_data["uObj"]["entranceFee"] = 0

@@ -69,7 +69,7 @@ def handle_tutorialRs(request, user_id, obj, json_data, config_data):
         config_data_for_species = config_data["gameItems"]["animalsSpecies"]["1"]
 
         new_cage = empty_cage.copy()
-        new_cage["id"] = -5 # weird id???
+        new_cage["id"] = 107 # -5 used in the game client, but i suppose that's a placeholder
         new_cage["uId"] = user_id
         new_cage["fId"] = current_field_id
         new_cage["cId"] = 1
@@ -88,7 +88,7 @@ def handle_tutorialRs(request, user_id, obj, json_data, config_data):
         new_cage["sick"] = current_time - 10
         new_cage["health"] = current_time + config_data_for_species["healthTime"] - 10
 
-        json_data["fObj"]["cages"][current_field_id]["-5"] = new_cage
+        json_data["fObj"]["cages"][current_field_id]["107"] = new_cage
 
     if request["s"] == 9:
         # Set entrance fee to 500

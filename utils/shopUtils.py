@@ -115,3 +115,10 @@ def get_cage_calculated_xp(cage, action_type, config_data, user_level, count_ani
 
     print(f"[DEBUG] Rewarded xp: {result}")
     return result
+
+def reduce_real_currency(amount, json_data):
+        if (json_data["uObj"]["uCr"] - amount) >= 0:
+            json_data["uObj"]["uCr"] -= amount
+        else:
+            # to-do: disconnect user
+            print("Negative resources")

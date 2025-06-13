@@ -38,7 +38,8 @@ available_commands = {
     "tutorial.rS": handle_tutorialRs,
     "field.fia": handle_fieldFia,
     "gameitems.get": handle_gameitemsGet,
-    "swfOpt.set": handle_swfOptSet
+    "swfOpt.set": handle_swfOptSet,
+    "managementCenter.get": handle_managementCenterGet
 }
 
 #########################
@@ -317,20 +318,6 @@ def handle_request():
     if session["token"] != all_data["token"] and not LOCAL_DEV_MODE:
         print("Wrong token")
         return
-    
-    # Add entrance fee for current field
-    current_field_id = json_data["uObj"]["current_field"]
-    entrance_fee_per_second = attractionUtils.calculate_entrance_fee_per_hour(json_data, config_data, current_field_id) / 3600
-
-    time_since_last_push = obj["sData"]["time"] - json_data["pfObj"][current_field_id]["lastPush"]
-
-    entrance_fee_gained = entrance_fee_per_second * time_since_last_push
-    json_data["uObj"]["entranceFee"] += round(entrance_fee_gained)
-
-    entrance_fee_limit = attractionUtils.calculate_entrance_fee_limit(json_data)
-
-    if json_data["uObj"]["entranceFee"] > entrance_fee_limit:
-        json_data["uObj"]["entranceFee"] = entrance_fee_limit
 
     # Handle commands
     callstack = json.loads(request.form["json"])["callstack"]
@@ -355,6 +342,21 @@ def handle_request():
 
     if old_level != new_level:
         json_data["uObj"]["lvlUp"] = 1
+
+    # Add entrance fee for current field
+    current_field_id = json_data["uObj"]["current_field"]
+
+    time_since_last_push = obj["sData"]["time"] - json_data["pfObj"][current_field_id]["lastPush"]
+    
+    entrance_fee_per_second = attractionUtils.calculate_entrance_fee_per_hour(json_data, config_data, current_field_id) / 3600
+
+    entrance_fee_gained = entrance_fee_per_second * time_since_last_push
+    json_data["uObj"]["entranceFee"] += round(entrance_fee_gained)
+
+    entrance_fee_limit = attractionUtils.calculate_entrance_fee_limit(json_data)
+
+    if json_data["uObj"]["entranceFee"] > entrance_fee_limit:
+        json_data["uObj"]["entranceFee"] = entrance_fee_limit
 
     # Save last push time
     json_data["pfObj"][current_field_id]["lastPush"] = obj["sData"]["time"]
