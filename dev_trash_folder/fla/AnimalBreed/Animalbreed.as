@@ -5,32 +5,53 @@
 	import flash.display.DisplayObject;
 	import flash.utils.getDefinitionByName;
 	import flash.events.*;
+	import flash.external.ExternalInterface;
 
 	public class Animalbreed extends Sprite {
-		
-		private var clipsToLoad: Array = ["labelMC_time", "labelMC_breedInfo", "labelMC_instantBaby", "labelMC_amount", "labelMC_cost", "TF_titleSymbol", "header_icon", "breed_icon", "dummy_icon", "silver_icon", "gold_icon", "time_icon", "dividers", "TF_descriptionSymbol", "TF_instantdescriptionSymbol"];
-		
+
+		private var clipsToLoad: Array = [
+			"labelMC_time", "labelMC_breedInfo", "labelMC_instantBaby",
+			"labelMC_amount", "labelMC_cost", "TF_Text", "header_icon",
+			"breed_icon", "dummy_icon", "silver_icon", "gold_icon", "time_icon",
+			"dividers", "TF_description", "TF_instantdescription"
+		];
+
+		private var loadedClips: Array = [];
+
 		public function Animalbreed() {
 			super();
-			var i:* = null
-			var load:MovieClip = null;
-			var load_textfield:TextField = null;
-			for (i in this.clipsToLoad){
-				var loadClass: Class = getDefinitionByName(this.clipsToLoad[i]) as Class;
-				load = new loadClass() as MovieClip;
-				load.name = this.clipsToLoad[i];
-				if(load.name.indexOf("TF_") != -1){
-					load_textfield = load.getChildByName("TF_Text") as TextField;
-					addChild(load_textfield as TextField);
-				} else {
-					addChild(load as DisplayObject);
-				}
-				addEventListener(Event.ADDED_TO_STAGE, onAddedToStage, false, 0, true);
+			addEventListener(Event.ADDED_TO_STAGE, onAddedToStage, false, 0, true);
+			addEventListener(Event.REMOVED_FROM_STAGE, onRemovedFromStage, false, 0, true);
+			
+			initializeClips();
+		}
+
+		private function initializeClips(): void {
+			var loadClass: Class = getDefinitionByName("AnimalBreedContent") as Class;
+			var load: MovieClip = new loadClass() as MovieClip;
+			for each (var clipName:String in clipsToLoad) {
+				var child: DisplayObject = load.getChildByName(clipName);
+				addChild(child);
 			}
 		}
-	
-		private function onAddedToStage(param1: Event): void {
+
+		private function onAddedToStage(event: Event): void {
+		}
+
+		private function onRemovedFromStage(event: Event): void {
+			//cleanup();
+		}
+
+		private function cleanup(): void {
+			//ExternalInterface.call("console.log", "hello!");
+			// Remove all dynamically added children
+			//for each(var item: DisplayObject in loadedClips) {
+			//	ExternalInterface.call("console.log", "yo!");
+			//	//if (item && contains(item)) {
+			//	removeChild(item);
+			//	//}
+			//}
+			//loadedClips = [];
 		}
 	}
-	
 }
