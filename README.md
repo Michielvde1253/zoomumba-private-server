@@ -23,7 +23,7 @@ We're still looking for some of Zoomumba's assets. If you have them or know how 
 ## List of game commands
 I'm not 100% sure if all of these are still being used in the latest version of Zoomumba, but I hope it gives an indication of the progress of this private server.
 
-Current progress: 20/173
+Current progress: 24/173
 
 - [ ] achievement.ga - GET_ACHIEVEMENTS
 - [ ] advBreedEvt.getConfig - ADVANCED_BREEDING_EVENT_CONFIG
@@ -140,7 +140,7 @@ Current progress: 20/173
 - [ ] halloween2012.putDrop - HALLOWEEN2012_PUT_DROPICON
 - [ ] init.getNeighbour - GET_NEIGHBOUR
 - [x] init.getUser - GET_USER
-- [ ] init.sP - SWITCH_PLAYFIELD
+- [x] init.sP - SWITCH_PLAYFIELD
 - [ ] inv.get - INVENTORY_GET
 - [ ] inventory.iva - MOVE_ANIMAL_FROM_FIELD_TO_INVENTORY
 - [ ] inventory.iva - MOVE_ANIMAL_FROM_INVENTORY_TO_CAGE
@@ -157,7 +157,7 @@ Current progress: 20/173
 - [ ] mail.gob - MAIL_GET_OUTBOX
 - [ ] mail.rm - MAIL_IS_READ
 - [ ] mail.sm - MAIL_SEND_BY_ID
-- [ ] managementCenter.get - MANAGEMENT_CENTER_GET
+- [x] managementCenter.get - MANAGEMENT_CENTER_GET
 - [ ] managementCenter.upgrade - MANAGEMENT_CENTER_UPGRADE
 - [ ] packs.buy - BUY_PROMO_PACK
 - [ ] push.get - PUSH

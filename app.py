@@ -39,7 +39,8 @@ available_commands = {
     "field.fia": handle_fieldFia,
     "gameitems.get": handle_gameitemsGet,
     "swfOpt.set": handle_swfOptSet,
-    "managementCenter.get": handle_managementCenterGet
+    "managementCenter.get": handle_managementCenterGet,
+    "init.sP": handle_switchPlayfield
 }
 
 #########################
@@ -290,7 +291,7 @@ def styles(path):
 def handle_request():
     print(request.form["json"])
     total_response = {}
-    total_response["callstack"] = [[]]
+    total_response["callstack"] = {}
     obj = {}
 
     # Load from database
@@ -327,7 +328,11 @@ def handle_request():
             print("Command " + command + " handled")
             handler = available_commands[command]
             handler(i[command], request.args["uId"], obj, json_data, config_data)
-            total_response["callstack"][0].append({"t":1,"v":""})
+            if "req:" in i[command]:
+                total_response["callstack"][i[command]["req:"]] = []
+                # i've no idea what this is
+                total_response["callstack"][i[command]["req:"]].append({"t":1,"v":""})
+                total_response["callstack"][i[command]["req:"]].append({"t":1,"v":""})
         else:
             print("Command " + command + " not handled")
     total_response["obj"] = obj
