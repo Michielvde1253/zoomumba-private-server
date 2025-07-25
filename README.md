@@ -58,8 +58,8 @@ Current progress: 20/173
 - [ ] easter.putEgg - EASTER_PUT_EGG
 - [ ] error.set - LOG_FLASH_ERROR
 - [ ] field.eFbC - EXTEND_FORGOTTEN_ZOO_TOOLS_BUY
-- [ ] field.fia - BREED_END
-- [ ] field.fia - BREED_START
+- [x] field.fia - BREED_END
+- [x] field.fia - BREED_START
 - [ ] field.fia - BUILD_CAGE_BUY
 - [ ] field.fia - BUILD_DECO_BUY
 - [ ] field.fia - BUILD_STORE_BUY

@@ -122,3 +122,10 @@ def reduce_real_currency(amount, json_data):
         else:
             # to-do: disconnect user
             print("Negative resources")
+
+def reduce_virtual_currency(amount, json_data):
+        if (json_data["uObj"]["uCv"] - amount) >= 0:
+            json_data["uObj"]["uCv"] -= amount
+        else:
+            # to-do: disconnect user
+            print("Negative resources")
