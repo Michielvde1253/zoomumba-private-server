@@ -27,7 +27,7 @@ img {
 body {
   font: 12px Arial, sans-serif;
   font-weight: bold;
-  background-color: #6BAA55;
+  background-color: #70b558;
 }
 
 .footer {
@@ -77,8 +77,8 @@ body {
 .internalHome .client-frame {
   position: absolute;
   width: 986px;
-  height: 551px;
-  top: 153px;
+  height: 564px;
+  top: 140px;
   left: 78px;
 }
 
