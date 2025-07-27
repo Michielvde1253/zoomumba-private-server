@@ -50,40 +50,19 @@ body {
 }
 
 .internalHome .frame-bg-left {
-  background-image: url(./bg_left.jpg);
+  background-image: url(.././img/global/bg_game_left.png);
   background-position: top right;
   background-repeat: no-repeat;
   width: 50%;
 }
 
 .internalHome .frame-bg-center {
-  width: 1255px;
-  background-image: url(./background.jpg);
+  background-image: url(.././img/en/bg_game_frame.png);
   background-repeat: no-repeat;
 }
 
 .internalHome .frame-bg-right {
-  background-image: url(./bg_right.jpg);
-  background-position: top left;
-  background-repeat: no-repeat;
-  width: 50%;
-}
-
-.internalHome .frame-bg-left-vercel {
-  background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/bg_left.jpg);
-  background-position: top right;
-  background-repeat: no-repeat;
-  width: 50%;
-}
-
-.internalHome .frame-bg-center-vercel {
-  width: 1255px;
-  background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/bg_center.jpg);
-  background-repeat: no-repeat;
-}
-
-.internalHome .frame-bg-right-vercel {
-  background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/bg_right.jpg);
+  background-image: url(.././img/global/bg_game_right.png);
   background-position: top left;
   background-repeat: no-repeat;
   width: 50%;
@@ -91,14 +70,14 @@ body {
 
 .internalHome .frame-container {
   position: relative;
-  width: 1254px;
+  width: 1260px;
   height: 853px;
 }
 
 .internalHome .client-frame {
   position: absolute;
   width: 986px;
-  height: 566px;
+  height: 551px;
   top: 153px;
   left: 78px;
 }
@@ -139,6 +118,6 @@ body {
 .internalHome .footer {
   position: absolute;
   text-align: center;
-  top: 764px;
+  top: 706px;
   width: 1225px;
 }
