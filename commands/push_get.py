@@ -18,6 +18,8 @@ def handle_pushGet(request, user_id, obj, json_data, config_data):
 
     # Spawn trash
     json_data["pfObj"][current_field_id]["trashroads"] += round(time_since_last_push * 0.05)
+    if json_data["pfObj"][current_field_id]["trashroads"] > 30240: # 1 week
+        json_data["pfObj"][current_field_id]["trashroads"] = 30240
     # Approximately, based on Tomonok's saved network session
     # I'm not sure if this is supposed to be a constant, or dependant on certain factors
 

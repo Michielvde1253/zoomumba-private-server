@@ -205,6 +205,7 @@ def register():
     new_player_data = userUtils.replace_placeholders(new_player_data, "01PLACEHOLDER_USERID", "01" + str(id))
     new_player_data = userUtils.replace_placeholders(new_player_data, "PLACEHOLDER_SID", secret_id)
     new_player_data["uObj"]["uName"] = username
+    new_player_data["pfObj"]["01" + str(id)]["lastPush"] = int(time.time())
     # NOTE:
     # We handle field ids different than the original game, instead of a random (probably global) number we do
     # fId = fType (with leading 0 if needed) + userid
@@ -335,8 +336,6 @@ def handle_request():
                 # t = 0 means error (1 = no error)
                 # v = type of error (see https://github.com/Michielvde1253/zoomumba-client/blob/54f7352098a0ced11ae3a7eaf0d8a5169f52a02c/src/com/bigpoint/zoomumba/controller/net2/ErrorHandlerCommand.as#L4)
                 total_response["callstack"][i[command]["req:"]].append({"t":1,"v":""})
-            elif command == "push.get":
-                total_response["callstack"] = [[{"t":1,"v":""}]]
         else:
             print("Command " + command + " not handled")
     total_response["obj"] = obj
