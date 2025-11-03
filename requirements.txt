@@ -3,3 +3,4 @@ bcrypt
 pymongo
 python-dotenv
 Flask-HTTPAuth
+Gunicorn
