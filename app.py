@@ -40,7 +40,8 @@ available_commands = {
     "gameitems.get": handle_gameitemsGet,
     "swfOpt.set": handle_swfOptSet,
     "managementCenter.get": handle_managementCenterGet,
-    "init.sP": handle_switchPlayfield
+    "init.sP": handle_switchPlayfield,
+    "push.get": handle_pushGet
 }
 
 #########################
@@ -78,7 +79,8 @@ def verify_password(username, password):
 print(" [+] Connecting to database...")
 
 client = MongoClient(os.getenv('MONGO_URI'))
-db = client["zoo-dev"]
+db_id = "zoo-dev" if LOCAL_DEV_MODE else "zoo"
+db = client[db_id]
 auth_db = db["zoo-auth"]
 data_db = db["zoo-data"]
 
@@ -242,7 +244,7 @@ def gamepage():
     else:
         host_url = host_name
 
-    return render_template("play.html", tutS=tutS, tutT=tutT, userid=session["userid"], token=token, SERVERIP=host_url, isHTTPS=int(LOCAL_DEV_MODE == False))
+    return render_template("play.html", tutS=tutS, tutT=tutT, userid=session["userid"], token=token, SERVERIP=host_url, isHTTPS=int(LOCAL_DEV_MODE == False), DEBUGSWF="-DEBUG" if LOCAL_DEV_MODE else "")
 
 @app.route("/emulate")
 @auth.login_required
@@ -330,9 +332,11 @@ def handle_request():
             handler(i[command], request.args["uId"], obj, json_data, config_data)
             if "req:" in i[command]:
                 total_response["callstack"][i[command]["req:"]] = []
-                # i've no idea what this is
+                # t = 0 means error (1 = no error)
+                # v = type of error (see https://github.com/Michielvde1253/zoomumba-client/blob/54f7352098a0ced11ae3a7eaf0d8a5169f52a02c/src/com/bigpoint/zoomumba/controller/net2/ErrorHandlerCommand.as#L4)
                 total_response["callstack"][i[command]["req:"]].append({"t":1,"v":""})
-                total_response["callstack"][i[command]["req:"]].append({"t":1,"v":""})
+            elif command == "push.get":
+                total_response["callstack"] = [[{"t":1,"v":""}]]
         else:
             print("Command " + command + " not handled")
     total_response["obj"] = obj
@@ -343,28 +347,10 @@ def handle_request():
     # Calculate level based on xp, show level up message if needed
     old_level = json_data["uObj"]["uLvl"]
     new_level = userUtils.calculate_level_based_on_xp(json_data["uObj"]["uEp"], config_data)
-    json_data["uObj"]["uLvl"] = new_level
 
     if old_level != new_level:
+        json_data["uObj"]["uLvl"] = new_level
         json_data["uObj"]["lvlUp"] = 1
-
-    # Add entrance fee for current field
-    current_field_id = json_data["uObj"]["current_field"]
-
-    time_since_last_push = obj["sData"]["time"] - json_data["pfObj"][current_field_id]["lastPush"]
-    
-    entrance_fee_per_second = attractionUtils.calculate_entrance_fee_per_hour(json_data, config_data, current_field_id) / 3600
-
-    entrance_fee_gained = entrance_fee_per_second * time_since_last_push
-    json_data["uObj"]["entranceFee"] += round(entrance_fee_gained)
-
-    entrance_fee_limit = attractionUtils.calculate_entrance_fee_limit(json_data)
-
-    if json_data["uObj"]["entranceFee"] > entrance_fee_limit:
-        json_data["uObj"]["entranceFee"] = entrance_fee_limit
-
-    # Save last push time
-    json_data["pfObj"][current_field_id]["lastPush"] = obj["sData"]["time"]
 
     # Save to database
     added, removed, modified = userUtils.get_differences(initial_json_data, json_data)

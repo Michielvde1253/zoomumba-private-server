@@ -43,9 +43,10 @@ def calculate_current_and_max_attraction(json_data, config_data, field_id):
         count_females = i["female"]
         count_childs = i["child"]
 
-        attraction_animals = count_males * config_data["gameItems"]["animalsSpecies"][str(sId)]["attraction"][0]
-        attraction_animals += count_females * config_data["gameItems"]["animalsSpecies"][str(sId)]["attraction"][1]
-        attraction_animals += count_childs * config_data["gameItems"]["animalsSpecies"][str(sId)]["attraction"][2]
+        species = config_data["gameItems"]["animalsSpecies"][str(sId)]
+        attraction_animals = count_males * species["attraction"][0]
+        attraction_animals += count_females * species["attraction"][1]
+        attraction_animals += count_childs * species["attraction"][2]
 
         current_time = int(time.time())
         attraction_health = 0.1
@@ -58,7 +59,7 @@ def calculate_current_and_max_attraction(json_data, config_data, field_id):
         if i["cuddle"] > current_time:
             attraction_health += 0.5
 
-        if config_data["gameItems"]["animalsSpecies"][str(sId)]["cages"][str(cId)] == 1: # "Crazy" bonus
+        if str(cId) in species["cages"] and species["cages"][str(cId)] == 1: # "Crazy" bonus
             attraction_cagebonus = 1.1
         else:
             attraction_cagebonus = 1

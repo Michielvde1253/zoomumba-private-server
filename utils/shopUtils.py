@@ -76,7 +76,7 @@ def get_cage_calculated_xp(cage, action_type, config_data, user_level, count_ani
 
     # The original game client has a bug here (a check for an active event that always returns true, giving that bonus even if the event isn't active)
     # Fixed this in our client, although this will create an inconsistency with the old zoomumba
-    if config_data_for_species["cages"][str(cage_id)] == 2: # "Good" bonus
+    if str(cage_id) in config_data_for_species["cages"] and config_data_for_species["cages"][str(cage_id)] == 2: # "Good" bonus
         attraction_cagebonus = 0.1
     else:
         attraction_cagebonus = 0

@@ -22,11 +22,11 @@
                <div class="cobrand"><img id="PartnerCobrandLogo" src="https://pit-835.bpsecure.com/published/cobrands/0_696_1.png" /></div>
                <div class="user-info"></div>
                <div class="socialIcons">
-                  <!-- We don't have a discord server right now -->
+                  <!-- Hide social media icons -->
                   <!-- <div class="socialIcons-discord"><a href="https://discord.gg/rdpFXhja5Q" target="_blank"><i class="fa-brands fa-discord"></i></a></div> -->
-                  <div class="socialIcons-facebook"><a href="https://www.facebook.com/skyrama/" target="_blank"><i class="fa-brands fa-square-facebook"></i></a></div>
-                  <div class="socialIcons-twitter"><a href="https://twitter.com/skyrama_com/" target="_blank"><i class="fa-brands fa-square-twitter"></i></a></div>
-                  <div class="socialIcons-youtube"><a href="https://www.youtube.com/bigpoint/" target="_blank"><i class="fa-brands fa-square-youtube"></i></a></div>
+                  <!--<div class="socialIcons-facebook"><a href="https://www.facebook.com/skyrama/" target="_blank"><i class="fa-brands fa-square-facebook"></i></a></div>-->
+                  <!--<div class="socialIcons-twitter"><a href="https://twitter.com/skyrama_com/" target="_blank"><i class="fa-brands fa-square-twitter"></i></a></div>-->
+                  <!--<div class="socialIcons-youtube"><a href="https://www.youtube.com/bigpoint/" target="_blank"><i class="fa-brands fa-square-youtube"></i></a></div>-->
                </div>
                <div class="client-frame">
                   <div class="payment hidden" id="payment">
@@ -54,7 +54,7 @@
                      &nbsp;·&nbsp;
                      All rights reserved
                      &nbsp;·&nbsp;
-                     This game is a fan-made game and is in no way affiliated to Bigpoint GmbH.
+                     This game is fan-made and is in no way affiliated to Bigpoint GmbH.
                      &nbsp;·&nbsp;
                      <a class="gl_footer_element_link" id="gl_footer_element_link_logo" href="https://www.bigpoint.net/" target="_blank"><img class="gl_footer_element_image" id="gl_footer_element_image_logo" src="https://pit-835.bpsecure.com/published/globalfooter/bigpoint_logo_light.png" alt=""/></a>
                   </div>
@@ -100,7 +100,7 @@
           name: 'Skyrama_Flash_Name'
       };
       
-      swfobject.embedSWF('{{ASSETSIP}}/assets/swf/Zoomumba.swf?__cv=144b4732e1ce320eca16c53e28066900', 'client-placeholder', '100%', '100%', '10.2.0', '{{ASSETSIP}}/assets/js/expressInstall.swf', flashVars, flashParams, flashAttributes);
+      swfobject.embedSWF('/assets/swf/Zoomumba{{DEBUGSWF}}.swf', 'client-placeholder', '100%', '100%', '10.2.0', '/assets/js/expressInstall.swf', flashVars, flashParams, flashAttributes);
       
       function hideClient() {
           $('#client-content').css("visibility", "hidden");
