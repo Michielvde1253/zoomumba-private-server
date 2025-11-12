@@ -4,8 +4,8 @@
       "code": "HEADSTART",
       "description": "Example voucher",
       "rewards": {
-        "virtual_currency": 5000,
-        "real_currency": 50,
+        "virtual_currency": 500000,
+        "real_currency": 1000,
         "xp": 100000000
       },
       "max_uses": -1,
