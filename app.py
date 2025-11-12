@@ -41,7 +41,8 @@ available_commands = {
     "swfOpt.set": handle_swfOptSet,
     "managementCenter.get": handle_managementCenterGet,
     "init.sP": handle_switchPlayfield,
-    "push.get": handle_pushGet
+    "push.get": handle_pushGet,
+    "coupon.redeem": handle_couponRedeem
 }
 
 #########################
@@ -256,6 +257,7 @@ def emulate():
     tutS = json_data["zoo"]["uObj"]["tutS"]
     tutT = json_data["zoo"]["uObj"]["tutT"]
     token = json_data["token"]
+    session["token"] = token
 
     # Quick ducktape fix to remove the http(s):// from the host url (because the flashvars need it like that)
     # There's probably a more efficient way than to check this every time again
@@ -302,6 +304,8 @@ def handle_request():
     json_data = all_data["zoo"]
     initial_json_data = copy.deepcopy(json_data) # Make a copy so we can compare differences later (probably not very efficient but should do for now)
 
+    json_data["pfObj"]["011"]["lastPush"] = 0
+
     # Send secret id
     if "sid" in request.form:
         obj["zoo_sid"] = request.form["sid"]
@@ -338,9 +342,8 @@ def handle_request():
                 total_response["callstack"][i[command]["req:"]].append({"t":1,"v":""})
         else:
             print("Command " + command + " not handled")
-    total_response["obj"] = obj
 
-    # Remove level-up from previous command
+    # Remove level-up from last time if needed
     json_data["uObj"]["lvlUp"] = None
 
     # Calculate level based on xp, show level up message if needed
@@ -348,8 +351,16 @@ def handle_request():
     new_level = userUtils.calculate_level_based_on_xp(json_data["uObj"]["uEp"], config_data)
 
     if old_level != new_level:
+        # Give rewards
+        if new_level <= 10:
+            json_data["uObj"]["uCv"] += (250 + new_level * 250)
+        else:
+            json_data["uObj"]["uCr"] += 3
         json_data["uObj"]["uLvl"] = new_level
-        json_data["uObj"]["lvlUp"] = 1
+        json_data["uObj"]["lvlUp"] = 1 # Show level-up popup
+        obj["uObj"] = json_data["uObj"]
+
+    total_response["obj"] = obj
 
     # Save to database
     added, removed, modified = userUtils.get_differences(initial_json_data, json_data)

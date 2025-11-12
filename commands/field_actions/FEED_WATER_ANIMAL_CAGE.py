@@ -41,5 +41,11 @@ def handle_feedWaterAnimalCage(request, user_id, obj, json_data, config_data, cu
         json_data["res"][str(food_id)]["cnt"] -= total_food_cost
 
     obj["uObj"] = json_data["uObj"]
-    obj["fObj"] = json_data["fObj"]
+    if "fObj" not in obj:
+        obj["fObj"] = {}
+    if "cages" not in obj["fObj"]:
+        obj["fObj"]["cages"] = {}
+    if current_field_id not in obj["fObj"]["cages"]:
+        obj["fObj"]["cages"][current_field_id] = {}
+    obj["fObj"]["cages"][current_field_id][str(request["id"])] = cage
     obj["res"] = json_data["res"]

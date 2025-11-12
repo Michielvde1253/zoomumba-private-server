@@ -5,5 +5,4 @@ def handle_switchPlayfield(request, user_id, obj, json_data, config_data):
     type = str(request["type"])
     json_data["uObj"]["current_field"] = json_data["fIds"][type]
 
-    obj["req"] = request["req:"]
     obj["fObj"] = json_data["fObj"]

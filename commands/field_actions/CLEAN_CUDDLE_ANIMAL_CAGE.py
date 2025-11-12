@@ -28,4 +28,11 @@ def handle_cleanCuddleAnimalCage(request, user_id, obj, json_data, config_data, 
         cage["cuddle"] = current_time + config_data_for_species["cuddleTime"]
 
     obj["uObj"] = json_data["uObj"]
-    obj["fObj"] = json_data["fObj"]
+    if "fObj" not in obj:
+        obj["fObj"] = {}
+    if "cages" not in obj["fObj"]:
+        obj["fObj"]["cages"] = {}
+    if current_field_id not in obj["fObj"]["cages"]:
+        obj["fObj"]["cages"][current_field_id] = {}
+    obj["fObj"]["cages"][current_field_id][str(request["id"])] = cage
+    obj["res"] = json_data["res"]

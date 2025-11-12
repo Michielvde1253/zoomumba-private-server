@@ -29,6 +29,5 @@ def handle_buyRoad(request, user_id, obj, json_data, config_data, current_field_
     roadPathfindingUtils.check_all_buildings_around_tile(json_data, config_data, request["x"], request["y"])
 
     # Send objects to game
-    obj["fObj"] = json_data["fObj"]
-    obj["req"] = request["req:"] # typo by bigpoint lol
+    obj["fObj"] = json_data["fObj"] # To-do: send only modified buildings
     obj["uObj"] = json_data["uObj"]

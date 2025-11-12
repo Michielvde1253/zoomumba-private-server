@@ -1,7 +1,8 @@
 
 # Zoomumba Private Server
 
-Zoomumba Private Server is an attempt to create a custom server for Zoomumba, a Bigpoint game. It is still in very early stages and not playable at this moment.
+Zoomumba Private Server is an attempt to create a custom server for Zoomumba, a Bigpoint game.
+Discord server: https://discord.gg/ukC5bEnqaC
 
 ## Legal Issues
 
@@ -9,21 +10,19 @@ This repository is made by Zoomumba fans, for Zoomumba fans. It's made out of no
 
 ## How to play
 
-This private server is still under development. Be sure to check back later!
+A demo server is available at https://zoomumba-private-server.onrender.com/, but remember that this only a test server. Progress can be reset at any time and many features are not working yet.
 
 ## How to run the code locally
 
-Install the libraries from requirements.txt and start server.py. It's as simple as that!
+Install the libraries from requirements.txt, set up a MongoDB database and create a .env file like in the example. Then, simply run app.py!
 
-You will need a browser that supports Flash (and Flash Player itself) to run the game. Alternatively, you can use [Flash Browser](https://flash.pm).
+You will need a browser that supports Flash (and Flash Player itself) to run the game. Alternatively, you can use [Flash Browser](https://github.com/radubirsan/FlashBrowser).
 
 ## Assets
 We're still looking for some of Zoomumba's assets. If you have them or know how to get them, feel free to contact us!
 
 ## List of game commands
 I'm not 100% sure if all of these are still being used in the latest version of Zoomumba, but I hope it gives an indication of the progress of this private server.
-
-Current progress: 24/173
 
 - [ ] achievement.ga - GET_ACHIEVEMENTS
 - [ ] advBreedEvt.getConfig - ADVANCED_BREEDING_EVENT_CONFIG
@@ -47,7 +46,7 @@ Current progress: 24/173
 - [ ] communityPayin.redeem - COMMUNITY_PAYIN_REDEEM
 - [x] config.getConfig - GET_CONFIG
 - [x] config.getCv - GET_CV_LIST
-- [ ] coupon.redeem - REDEEM_BONUS_CODE
+- [x] coupon.redeem - REDEEM_BONUS_CODE
 - [ ] craftingCenter.cbc - CRAFTING_COLLECT
 - [ ] craftingCenter.dbct - CRAFTING_TIME_DECREASE
 - [ ] craftingCenter.gac - CRAFTING_GET_REWARD
@@ -74,12 +73,12 @@ Current progress: 24/173
 - [ ] field.fia - BUY_PREMIUM_WITH_COUNT
 - [x] field.fia - BUY_RESOURCE
 - [x] field.fia - BUY_ROAD
-- [ ] field.fia - BUY_STORE
+- [x] field.fia - BUY_STORE
 - [ ] field.fia - BUY_TRASHBIN
 - [x] field.fia - CLEAN_ANIMAL_CAGE
 - [ ] field.fia - CLEAR_ASSISTANT_TIMER
 - [ ] field.fia - CLEAR_TRASH_BIN
-- [ ] field.fia - CLEAR_TRASH_ROAD
+- [x] field.fia - CLEAR_TRASH_ROAD
 - [x] field.fia - COLLECT_ENTRANCE_FEE
 - [x] field.fia - COLLECT_STORE_MONEY
 - [x] field.fia - CUDDLE_ANIMAL_CAGE
@@ -92,10 +91,10 @@ Current progress: 24/173
 - [ ] field.fia - MOVE_ANIMAL_CAGE
 - [ ] field.fia - MOVE_BREEDING_LAB
 - [x] field.fia - MOVE_CAGE
-- [ ] field.fia - MOVE_DECO
+- [x] field.fia - MOVE_DECO
 - [ ] field.fia - MOVE_NURSERY
 - [x] field.fia - MOVE_ROAD
-- [ ] field.fia - MOVE_STORE
+- [x] field.fia - MOVE_STORE
 - [ ] field.fia - MOVE_TRASH_BIN
 - [ ] field.fia - POWER_FEED_ANIMAL_CAGE
 - [ ] field.fia - POWER_FEED_ASSISTANT
@@ -160,7 +159,7 @@ Current progress: 24/173
 - [x] managementCenter.get - MANAGEMENT_CENTER_GET
 - [ ] managementCenter.upgrade - MANAGEMENT_CENTER_UPGRADE
 - [ ] packs.buy - BUY_PROMO_PACK
-- [ ] push.get - PUSH
+- [x] push.get - PUSH
 - [ ] quest.cQ - CANCEL_QUEST
 - [ ] quest.gNQ - BUY_NEW_QUESTS
 - [ ] quest.gQ - GET_QUESTS

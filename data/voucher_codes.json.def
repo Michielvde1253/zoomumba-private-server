@@ -1,0 +1,17 @@
+{
+  "vouchers": [
+    {
+      "code": "HEADSTART",
+      "description": "Example voucher",
+      "rewards": {
+        "virtual_currency": 5000,
+        "real_currency": 50,
+        "xp": 100000000
+      },
+      "max_uses": -1,
+      "current_uses": 0,
+      "expires": 1794489903,
+      "active": true
+    }
+  ]
+}

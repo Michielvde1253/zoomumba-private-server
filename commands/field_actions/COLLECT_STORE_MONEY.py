@@ -13,6 +13,11 @@ def handle_collectStoreMoney(request, user_id, obj, json_data, config_data, curr
         json_data["uObj"]["uCv"] += config_data_for_store["collectVirtual"]
 
     # Send objects to game
-    obj["req"] = request["req:"] # typo by bigpoint lol
     obj["uObj"] = json_data["uObj"]
-    obj["fObj"] = json_data["fObj"]
+    if "fObj" not in obj:
+        obj["fObj"] = {}
+    if "stores" not in obj["fObj"]:
+        obj["fObj"]["stores"] = {}
+    if current_field_id not in obj["fObj"]["stores"]:
+        obj["fObj"]["stores"][current_field_id] = {}
+    obj["fObj"]["stores"][current_field_id][str(request["id"])] = store

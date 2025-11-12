@@ -7,6 +7,5 @@ def handle_buyResource(request, user_id, obj, json_data, config_data, current_fi
     json_data["res"][str(request["irId"])]["cnt"] += request["cnt"]
 
     # Send objects to game
-    obj["req"] = request["req:"] # typo by bigpoint lol
     obj["uObj"] = json_data["uObj"]
     obj["res"] = json_data["res"]

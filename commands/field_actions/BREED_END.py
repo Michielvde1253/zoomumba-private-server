@@ -4,4 +4,10 @@ def handle_breedEnd(request, user_id, obj, json_data, config_data, current_field
     cage["child"] += 1
     cage["breed"] = 0 
 
-    obj["fObj"] = json_data["fObj"]
+    if "fObj" not in obj:
+        obj["fObj"] = {}
+    if "cages" not in obj["fObj"]:
+        obj["fObj"]["cages"] = {}
+    if current_field_id not in obj["fObj"]["cages"]:
+        obj["fObj"]["cages"][current_field_id] = {}
+    obj["fObj"]["cages"][current_field_id][str(request["id"])] = cage

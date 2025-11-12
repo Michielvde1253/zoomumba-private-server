@@ -18,8 +18,10 @@ def handle_pushGet(request, user_id, obj, json_data, config_data):
 
     # Spawn trash
     json_data["pfObj"][current_field_id]["trashroads"] += round(time_since_last_push * 0.05)
-    if json_data["pfObj"][current_field_id]["trashroads"] > 30240: # 1 week
-        json_data["pfObj"][current_field_id]["trashroads"] = 30240
+    print(f"Spawning {round(time_since_last_push * 0.05)}")
+    cap = 100 * json_data["uObj"]["uLvl"] # Making the xp cap based on the current level, because otherwise lower levels would get WAY to much xp
+    if json_data["pfObj"][current_field_id]["trashroads"] > cap:
+        json_data["pfObj"][current_field_id]["trashroads"] = cap
     # Approximately, based on Tomonok's saved network session
     # I'm not sure if this is supposed to be a constant, or dependant on certain factors
 
@@ -42,7 +44,6 @@ def handle_pushGet(request, user_id, obj, json_data, config_data):
     obj["push"] = "" # Not sure what this is
     obj["pwrUp"] = json_data["pwrUp"]
     obj["qObj"] = json_data["qObj"]
-    obj["sData"] = json_data["sData"]
     obj["uFrI"] = json_data["uFrI"]
     obj["uFs"] = json_data["uFs"]
     obj["uObj"] = json_data["uObj"]

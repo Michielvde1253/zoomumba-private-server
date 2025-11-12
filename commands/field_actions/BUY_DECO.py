@@ -30,5 +30,4 @@ def handle_buyDeco(request, user_id, obj, json_data, config_data, current_field_
 
     # Send objects to game
     obj["fObj"] = json_data["fObj"]
-    obj["req"] = request["req:"] # typo by bigpoint lol
     obj["uObj"] = json_data["uObj"]

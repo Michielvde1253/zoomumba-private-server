@@ -52,7 +52,12 @@ def handle_buyAnimalCage(request, user_id, obj, json_data, config_data, current_
     shopUtils.buy_from_shop(config_data_for_animal, json_data["uObj"]["uLvl"], json_data)
 
     # Send objects to game
-    obj["fObj"] = json_data["fObj"]
+    if "fObj" not in obj:
+        obj["fObj"] = {}
+    if "cages" not in obj["fObj"]:
+        obj["fObj"]["cages"] = {}
+    if current_field_id not in obj["fObj"]["cages"]:
+        obj["fObj"]["cages"][current_field_id] = {}
+    obj["fObj"]["cages"][current_field_id][str(request["id"])] = cage
     obj["uObj"] = json_data["uObj"]
     obj["animals"] = json_data["animals"]
-    obj["req"] = request["req:"] # typo by bigpoint lol

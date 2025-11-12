@@ -17,7 +17,10 @@ available_field_actions = {
     "cEf": handle_collectEntranceFee,
     "cSt": handle_collectStoreMoney,
     "mC": handle_moveCage,
-    "mR": handle_moveRoad
+    "mR": handle_moveRoad,
+    "cTr": handle_clearTrashRoad,
+    "mD": handle_moveDeco,
+    "mSt": handle_moveStore
 }
 
 def handle_fieldFia(request, user_id, obj, json_data, config_data):

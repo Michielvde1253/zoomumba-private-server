@@ -29,6 +29,11 @@ def handle_buyStore(request, user_id, obj, json_data, config_data, current_field
     json_data["fObj"]["stores"][str(current_field_id)][str(new_store["id"])]["act"] = int(roadPathfindingUtils.is_building_active(json_data, request["x"], request["y"], config_data_for_store["width"], config_data_for_store["height"]))
 
     # Send objects to game
-    obj["fObj"] = json_data["fObj"]
-    obj["req"] = request["req:"] # typo by bigpoint lol
+    if "fObj" not in obj:
+        obj["fObj"] = {}
+    if "stores" not in obj["fObj"]:
+        obj["fObj"]["stores"] = {}
+    if current_field_id not in obj["fObj"]["stores"]:
+        obj["fObj"]["stores"][current_field_id] = {}
+    obj["fObj"]["stores"][current_field_id][str(new_store["id"])] = json_data["fObj"]["stores"][str(current_field_id)][str(new_store["id"])]
     obj["uObj"] = json_data["uObj"]

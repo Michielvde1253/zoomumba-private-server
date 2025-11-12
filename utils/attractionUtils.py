@@ -89,4 +89,5 @@ def calculate_entrance_fee_per_hour(json_data, config_data, field_id):
 def calculate_entrance_fee_limit(json_data):
     # https://github.com/Michielvde1253/zoomumba-client/blob/20248990cf91a0f12581a26079e8366331438748/com/bigpoint/zoorama/view/actionMenu/GateActionMenu.as#L158
     level = json_data["uObj"]["uLvl"]
-    return round((65 * math.pow(level, 2) - 350 * level + 7500) / 500) * 500
+    #return round((65 * math.pow(level, 2) - 350 * level + 7500) / 500) * 500
+    return 4500 + 500 * level
