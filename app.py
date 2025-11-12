@@ -304,8 +304,6 @@ def handle_request():
     json_data = all_data["zoo"]
     initial_json_data = copy.deepcopy(json_data) # Make a copy so we can compare differences later (probably not very efficient but should do for now)
 
-    json_data["pfObj"]["011"]["lastPush"] = 0
-
     # Send secret id
     if "sid" in request.form:
         obj["zoo_sid"] = request.form["sid"]
