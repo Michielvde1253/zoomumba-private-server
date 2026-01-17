@@ -1165,54 +1165,54 @@
   },
   "managementCenterData": {
     "post": {
-      "builded": 1,
+      "builded": 0,
       "level": 0,
       "attentionState": 0
     },
     "quest": {
-      "builded": 1,
+      "builded": 0,
       "level": 0,
       "attentionState": 0
     },
     "bank": {
-      "builded": 1,
+      "builded": 0,
       "level": 0,
       "attentionState": 0
     },
     "tombola": {
-      "builded": 1,
+      "builded": 0,
       "level": 0,
       "attentionState": 0
     },
     "breedingstation": {
-      "builded": 1,
+      "builded": 0,
       "uId": 164826,
       "level": 0,
       "attentionState": 0
     },
     "kindergarden": {
-      "builded": 1,
+      "builded": 0,
       "uId": 163189,
       "level": 0,
       "attentionState": 0
     },
     "safari": {
-      "builded": 1,
+      "builded": 0,
       "level": 0,
       "attentionState": 0
     },
     "watertower": {
-      "builded": 1,
+      "builded": 0,
       "level": 8,
       "attentionState": 0
     },
     "storage": {
-      "builded": 1,
+      "builded": 0,
       "level": 8,
       "attentionState": 0
     },
     "cinema": {
-      "builded": 1,
+      "builded": 0,
       "level": 0,
       "attentionState": 0
     },
@@ -1222,13 +1222,13 @@
       "attentionState": 0
     },
     "recycling": {
-      "builded": 1,
+      "builded": 0,
       "level": 8,
       "attentionState": 0,
       "newbie": 0
     },
     "crafting": {
-      "builded": 1,
+      "builded": 0,
       "level": 0,
       "attentionState": 0,
       "newbie": 0

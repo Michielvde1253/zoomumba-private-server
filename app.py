@@ -42,7 +42,8 @@ available_commands = {
     "managementCenter.get": handle_managementCenterGet,
     "init.sP": handle_switchPlayfield,
     "push.get": handle_pushGet,
-    "coupon.redeem": handle_couponRedeem
+    "coupon.redeem": handle_couponRedeem,
+    "tombola.bTT": handle_tombolaBuyTicket
 }
 
 #########################

@@ -4,6 +4,7 @@ empty_road = {"id": -1,"uId": 0,"fId": 0,"rId": 6,"act": 0,"x": 24,"y": 72,"r": 
 empty_deco = {"id": -1,"uId": 0,"fId": 0,"dId": 76,"act": 0,"x": 37,"y": 82,"r": 0,"build": 1315636007}
 empty_store = {"id": -1,"uId": 0,"fId": 0,"stId": 1,"act": 0,"x": 32,"y": 86,"r": 0,"build": 1313749616,"collect": 1387812591,"fTime": 1387796606}
 
+TOMBOLA_TICKET_PRICE = 2  # hardcoded because so does the client
 
 def get_empty_cage():
     return empty_cage.copy()
