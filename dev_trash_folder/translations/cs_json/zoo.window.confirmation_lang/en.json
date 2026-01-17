@@ -1,0 +1,19 @@
+{
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.closegame.title": "Ukončit hru",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.map.buyzooandextention": "Toto zoo ještě není k dispozici. Můžeš ho odemknout dosáhnutím %level% rozšíření v následující zoo: %zooName%. Nebo ho odemkni okamžitě za %zooDollar% zoodolarů.",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.map.buyzooandlevel": "K odemknutí tohoto zoo musíš mít level %level%. Nebo ho odemkni okamžitě za %zooDollar% zoodolarů.",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.map.level": "K odemknutí tohoto zoo musíš mít level %level%.",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.map.buy": "Chceš koupit zoo rozšíření?",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.title.buy": "Koupit",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.closegame.info": "Chceš ZooMumbu<br>skutečně ukončit?",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.shop.buyitemreal.title": "Koupit předměty",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.shop.buyitemreal.info": "Chceš tento předmět skutečně koupit?",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.shop.buyMove.title": "Koupit tah",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.shop.buyMove.info": "Chceš provést tento tah za zoodolary?",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.sellitemaction.title": "Prodat",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.sellitemaction.info": "Chceš tento předmět skutečně prodat?",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.sendeventitemtoinventory.title": "Upozornění",
+    "zoo.window.confirmation_lang;zoo.window.confirmation;zoo.window.confirmation.sendeventitemtoinventory.info": "Pokud umístíš výběh do svého inventáře, ztratí svůj akční upgrade.<br><br>Chceš pokračovat?",
+    "zoo.window.confirmation_lang;zoo.window.confirmation.gift;zoo.window.confirmation.gift.title": "Pozor!",
+    "zoo.window.confirmation_lang;zoo.window.confirmation.gift;zoo.window.confirmation.gift.info": "Ještě sis nevybral svých 5 kamarádů! Pokud budeš pokračovat, Tvé dárky propadnou. To by byla škoda ... Chceš přesto pokračovat?"
+}

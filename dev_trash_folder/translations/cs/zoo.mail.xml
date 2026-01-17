@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.mail.tabs">
+  <item name="zoo.mail.tabs.inbox"><![CDATA[Doručená pošta]]></item>
+  <item name="zoo.mail.tabs.outbox"><![CDATA[Odchozí pošta]]></item>
+  <item name="zoo.mail.tabs.newMail"><![CDATA[Nová zpráva]]></item>
+  <item name="zoo.mail.tabs.contactList"><![CDATA[Adresář]]></item>
+ </category>
+ <category name="zoo.mail.general">
+  <item name="zoo.mail.general.pagination"><![CDATA[Strana %x% z %y%]]></item>
+  <item name="zoo.mail.general.message"><![CDATA[Zpráva]]></item>
+  <item name="zoo.mail.general.send"><![CDATA[Odeslat]]></item>
+  <item name="zoo.mail.general.close"><![CDATA[Zavřít]]></item>
+  <item name="zoo.mail.general.userWrote"><![CDATA[%user% napsal:]]></item>
+  <item name="zoo.mail.general.userSent"><![CDATA[Napsal jsi hráči %user%:]]></item>
+ </category>
+ <category name="zoo.mail.column">
+  <item name="zoo.mail.column.action"><![CDATA[Akce]]></item>
+  <item name="zoo.mail.column.messageSender"><![CDATA[Odesílatel]]></item>
+  <item name="zoo.mail.column.messageReceiver"><![CDATA[Příjemce]]></item>
+  <item name="zoo.mail.column.messageTitle"><![CDATA[Předmět]]></item>
+  <item name="zoo.mail.column.messageDate"><![CDATA[Datum]]></item>
+  <item name="zoo.mail.column.playerName"><![CDATA[Jméno hráče]]></item>
+  <item name="zoo.mail.column.level"><![CDATA[Level]]></item>
+ </category>
+ <category name="zoo.mail.info">
+  <item name="zoo.mail.info.addUserTitle"><![CDATA[Přidat]]></item>
+  <item name="zoo.mail.info.addUserQuestion"><![CDATA[Chceš hráče %user% skutečně připojit do svého adresáře?]]></item>
+  <item name="zoo.mail.info.deleteMessageTitle"><![CDATA[Smazat]]></item>
+  <item name="zoo.mail.info.deleteMessageQuestion"><![CDATA[Chceš tuto zprávu skutečně smazat? ]]></item>
+  <item name="zoo.mail.info.deleteContactTitle"><![CDATA[Smazat]]></item>
+  <item name="zoo.mail.info.deleteContactQuestion"><![CDATA[Chceš hráče %user% opravdu odstranit ze svého adresáře?]]></item>
+  <item name="zoo.mail.info.noRecipientTitle"><![CDATA[Chyba]]></item>
+  <item name="zoo.mail.info.noRecipientMessage"><![CDATA[Tento hráč neexistuje.]]></item>
+  <item name="zoo.mail.info.sentOkTitle"><![CDATA[Odeslané]]></item>
+  <item name="zoo.mail.info.noAddSelf"><![CDATA[Nemůžeš přidat sám sebe do svého adresáře.]]></item>
+  <item name="zoo.mail.info.sentOkMessage"><![CDATA[Tvoje zpráva byla úspěšně odeslána.]]></item>
+  <item name="zoo.mail.info.addUserMessage"><![CDATA[Zadej jméno hráče nebo jeho ID, pokud ho chceš přidat do svého adresáře.]]></item>
+  <item name="zoo.mail.info.multipleUserFound"><![CDATA[Toto jméno se vyskytuje často. Prosím, zadej ID hráče, které je jednoznačné a jedinečné.]]></item>
+  <item name="zoo.mail.info.writeMailError.noUserName"><![CDATA[Zadej nějakého příjemce, aby tvoje zpráva mohla být odeslána.]]></item>
+  <item name="zoo.mail.info.writeMailError.noSubject"><![CDATA[Zadej prosím předmět, aby tvoje zpráva mohla být odeslána.]]></item>
+  <item name="zoo.mail.info.writeMailError.noMessage"><![CDATA[Zadej prosím text zprávy, aby tvoje zpráva mohla být odeslána.]]></item>
+  <item name="zoo.mail.info.writeMailError.noSelfSend"><![CDATA[Nemůžeš poslat zprávu sám sobě.]]></item>
+  <item name="zoo.mail.info.writeMailError.notFriend"><![CDATA[Bohužel můžeš odeslat zprávy pouze hráčům, kteří jsou na tvém seznamu přátel.]]></item>
+  <item name="zoo.mail.info.writeMailError.userAlreadyExists"><![CDATA[Tento hráč již byl přidán do tvého adresáře.]]></item>
+ </category>
+</language>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.storage.moreSpace">
+  <item name="zoo.storage.moreSpace.title"><![CDATA[Rozšiř svou zoo!]]></item>
+  <item name="zoo.storage.moreSpace.text"><![CDATA[Tento předmět můžeš koupit až tehdy, pokud budeš mít %neededExpansion% rozšíření zoo. Momentálně máš jen %userExpansion%rozšíření zoo. Chceš svou zoo rozšířit hned teď, aby sis mohl tento předmět koupit?]]></item>
+ </category>
+ <category name="zoo.storage.firstExpansion">
+  <item name="zoo.storage.firstExpansion.title"><![CDATA[Vodárenská věž & sklad]]></item>
+  <item name="zoo.storage.firstExpansion.text"><![CDATA[Skvělé! Konečně máš dostatek místa k postavení první vodárenské věže a skladu se zásobami. V inventáři máš oba předměty zdarma. A hurá se vším ho hry!]]></item>
+ </category>
+ <category name="zoo.storage.buy">
+  <item name="zoo.storage.buy.belowWater"><![CDATA[Maximální kapacita vodárenské věže je %capacity%. Tato hodnota se nedá navýšit ani koupí této budovy. Chceš ji i přesto koupit?]]></item>
+  <item name="zoo.storage.buy.belowFood"><![CDATA[Máximální kapacita Tvého zásobovacího skladu je %capacity%. Tato hodnota se nedá navýšit ani koupí této budovy. Chceš ji i přesto koupit?]]></item>
+  <item name="zoo.storage.buy.maxWater"><![CDATA[Máš k dispozici %capacity% z kapacity množství vody. Více už mít nemůžeš. Tato budova Ti kapacitu nerozšíří. Chceš ji i přesto koupit?]]></item>
+  <item name="zoo.storage.buy.maxFood"><![CDATA[Máš k dispozici %capacity% z úložné kapacity skladu. Více už mít nemůžeš. Tato budova Ti kapacitu nerozšíří. Chceš ji i přesto koupit?]]></item>
+ </category>
+ <category name="zoo.storage.capacity">
+  <item name="zoo.storage.capacity.title"><![CDATA[Úložná kapacita]]></item>
+  <item name="zoo.storage.capacity.text"><![CDATA[Tvá zvířata potřebují hodně krmiva a vody. Tady se můžeš podívat, kolik máš od každého k dispozici a o kolik se dají rozšířit.]]></item>
+  <item name="zoo.storage.capacity.water"><![CDATA[Voda - kapacita]]></item>
+  <item name="zoo.storage.capacity.food"><![CDATA[Krmivo - kapacita]]></item>
+ </category>
+</language>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.error.user">
+  <item name="zoo.error.user.unknown"><![CDATA[Tento hráč bohužel neexistuje.]]></item>
+  <item name="zoo.error.user.notEnoughCr"><![CDATA[Na to bohužel nemáš dost zoodolarů.]]></item>
+  <item name="zoo.error.user.notEnoughCv"><![CDATA[Na to bohužel nemáš dost zoogrošů.]]></item>
+  <item name="zoo.error.user.notRequiredLevel"><![CDATA[Ještě jsi nedosáhl potřebný level.]]></item>
+ </category>
+ <category name="zoo.error.login">
+  <item name="zoo.error.login.head"><![CDATA[Chyba přihlášení]]></item>
+  <item name="zoo.error.login.text"><![CDATA[Vyskytla se chyba při přihlášení. Zkontroluj prosím svoje údaje a zkus to znovu.]]></item>
+  <item name="zoo.error.login.blocked"><![CDATA[Byl jsi zablokován administrátorem.]]></item>
+  <item name="zoo.error.login.100.title"><![CDATA[Chyba]]></item>
+  <item name="zoo.error.login.100.info"><![CDATA[Bonusový kód už jsi na tomto kontě využil, opakovaně to není možné.]]></item>
+ </category>
+ <category name="zoo.error.conf">
+  <item name="zoo.error.conf.unknownObj"><![CDATA[Neznámý objekt]]></item>
+  <item name="zoo.error.conf.notBuyable"><![CDATA[Předmět se momentálně nedá koupit]]></item>
+  <item name="zoo.error.conf.notEvent"><![CDATA[Položka není momentálně použitelná]]></item>
+ </category>
+ <category name="zoo.error.badData">
+  <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Omlouváme se!]]></item>
+  <item name="zoo.error.badData.dailyQuests.text"><![CDATA[Oh! Vyskytla se chyba. Chyba byla nahlášena týmu!]]></item>
+ </category>
+ <category name="zoo.error.field">
+  <item name="zoo.error.field.unknownObj"><![CDATA[Objekt není ve hře k dispozici.]]></item>
+  <item name="zoo.error.field.blocked"><![CDATA[Obsazené pole]]></item>
+  <item name="zoo.error.field.breedFailed"><![CDATA[Chov se nezdařil. Tvoje zvířata se bohužel nedočkala potomka.]]></item>
+  <item name="zoo.error.field.wrongSpecies"><![CDATA[Nevhodné zvíře pro tento výběh]]></item>
+  <item name="zoo.error.field.maxChildReached"><![CDATA[Dosáhl jsi maximální počet mláďat.]]></item>
+  <item name="zoo.error.field.maleAdultNeeded"><![CDATA[K tomu potřebuješ samečka.]]></item>
+  <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[K tomu potřebuješ samičku.]]></item>
+  <item name="zoo.error.field.maxChildReached"><![CDATA[Dosáhl jsi maximální počet mláďat.]]></item>
+  <item name="zoo.error.field.maxAdultReached"><![CDATA[Dosáhl jsi maximální počet dospělých jedinců.]]></item>
+  <item name="zoo.error.field.buildingNotFinished"><![CDATA[Tato budova je zatím ve výstavbě.]]></item>
+ </category>
+ <category name="zoo.error.db">
+  <item name="zoo.error.db.failUpdate"><![CDATA[Aktualizace databanky se nezdařila.]]></item>
+ </category>
+ <category name="zoo.error.invite">
+  <item name="zoo.error.invite.requesterror"><![CDATA[Vyskytla se chyba.]]></item>
+  <item name="zoo.error.invite.recruitexists"><![CDATA[Tohoto uživatele už jsi pozval.]]></item>
+  <item name="zoo.error.invite.global"><![CDATA[Je dosaženo limitu pro pozvání. Počkej prosím 24 hodin, až budě moci opět poslat pozvání (ke všem hrám).]]></item>
+  <item name="zoo.error.invite.instance"><![CDATA[Je dosaženo limitu pro pozvání. Počkej prosím 24 hodin, až budě moci opět poslat pozvání (ke všem hrám).]]></item>
+  <item name="zoo.error.invite.error"><![CDATA[Vyskytla se chyba... prosím, zkus to později znovu.]]></item>
+ </category>
+</language>

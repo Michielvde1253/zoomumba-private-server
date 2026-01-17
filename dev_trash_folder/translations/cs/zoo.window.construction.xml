@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.window.construction">
+  <item name="zoo.window.construction.title"><![CDATA[Výstavba]]></item>
+  <item name="zoo.window.construction.info"><![CDATA[Info]]></item>
+  <item name="zoo.window.construction.buildinginfo"><![CDATA[Téměř hotovo! Už jen:]]></item>
+  <item name="zoo.window.construction.buildinginfo2"><![CDATA[Nebo získej předmět okamžitě (bez výstavby):]]></item>
+  <item name="zoo.window.construction.button.buydirectly"><![CDATA[Koupit hned]]></item>
+ </category>
+</language>

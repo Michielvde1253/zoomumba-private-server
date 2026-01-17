@@ -1,0 +1,5 @@
+Denní bonus za přihlášení
+Přihlas se denně - stojí to za to! Získej super ceny každý den!
+Tvá denní odměna:
+Den: %day%
+Akční obchod

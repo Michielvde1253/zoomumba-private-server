@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.shop.category">
+  <item name="zoo.shop.category.animals"><![CDATA[Zvířata]]></item>
+  <item name="zoo.shop.category.cages"><![CDATA[Výběhy]]></item>
+  <item name="zoo.shop.category.stores"><![CDATA[Budova]]></item>
+  <item name="zoo.shop.category.deco"><![CDATA[Dekorace]]></item>
+  <item name="zoo.shop.category.resources"><![CDATA[Krmivo]]></item>
+  <item name="zoo.shop.category.assistants"><![CDATA[Asistenti]]></item>
+  <item name="zoo.shop.category.specials"><![CDATA[Doplňky]]></item>
+  <item name="zoo.shop.category.roads"><![CDATA[Cesty]]></item>
+  <item name="zoo.shop.category.material"><![CDATA[Material]]></item>
+ </category>
+ <category name="zoo.shop.tabbar">
+  <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Tudy se dostaneš do dílny]]></item>
+ </category>
+</language>

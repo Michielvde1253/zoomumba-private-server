@@ -1,0 +1,6 @@
+{
+    "zoo.user_lang;zoo.user;zoo.user.name": "Jméno hráče",
+    "zoo.user_lang;zoo.user;zoo.user.id": "ID hráče",
+    "zoo.user_lang;zoo.user;zoo.user.notAuth.title": "Ověření",
+    "zoo.user_lang;zoo.user;zoo.user.notAuth.info": "Ověření se nezdařilo. Přihlas se prosím znovu."
+}

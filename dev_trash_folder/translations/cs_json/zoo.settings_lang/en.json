@@ -1,0 +1,5 @@
+{
+    "zoo.settings_lang;zoo.settings.general;zoo.settings.general.numberSeparator": "\\u00A0 ",
+    "zoo.settings_lang;zoo.settings.general;zoo.settings.general.numberSepMinDigits": "5",
+    "zoo.settings_lang;zoo.settings.general;zoo.settings.general.decimalSeparator": "."
+}

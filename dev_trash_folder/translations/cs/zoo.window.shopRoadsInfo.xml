@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.window.shopRoadsInfo">
+  <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Štěrkovitá cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Tato štěrkovitá cesta spojuje tvoje výběhy v zoo. Kvalitní síť cest pomáhá tvým návštěvníkům při orientaci a zavede je ke všem výběhům.]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Modrobílý chodník]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Tato modrobílá cesta z kamenných kostek nejenom hezky vypadá, ale je také skvělým povrchem pro kočárky, koloběžky a kolečkové brusle. Pohyb bez problémů a kvalitní zábava, to je super!]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Písková cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[Ve stepi se jen zřídka najde zpevněná cesta. Chceš, aby tvoje zoo připomínala divokou přírodu!]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Růžovobílý chodník]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Jak milé: Tato kamenná cesta z cenných růžových mozaikových kamínků je něco opravdu zvláštního. Dokonalé předváděcí molo pro návštěvnice na vysokých podpatcích.]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Černobílý chodník]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Černo-bílé ušlechtilé kameny ve formě mozaiky lemují krásně tuto cestičku. Jsou opracovány s velkou pečlivostí a stávají se tak skvostem tvé zoo.]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[Kamenitá cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Tak jako ve volné přírodě vyrůstají malé trsy trávy z mezer mezi kameny. Nic pro pedanty, ale milovníkům přírody se to bude jistě líbit.]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Oblázková cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Tato oblázková cesta hezky vypadá a jistě se na ní nikdo nesmekne. Bezpečná a pěkná, co víc si přát?]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Hliněná cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[Hliněné cesty jsou populární v Africe. Zvyšují autenticitu tvojí zoo a mnoho zvířat se bude cítit jako doma.]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Vodní cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Cáky, cáky, cák! Nasaď si gumáky, nafoukni si gumový člun a popadni gumovou kachničku - na této cestě bude hodně vody!]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Ledová cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Juchů! Ledová cesta - to bude zábava! Tvé návštěvníky bude klouzání po zamrzlé cestě bavit. Pozor, není solená!]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Savanová cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[Dobře vyšlapaná cesta se vine celou savanou. Je vhodná pro vyhledávání stop jako na safari.]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Pouštní cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Pod spalujícím žárem slunce fouká písek přes poušť, načež zahladí jakékoli stopy.]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Kamenná cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Tato cesta je dosti hrbolatá. Jsou na ní velké kameny a balvany, a proto je dobrá obuv nutností. Pozor, ať neupadneš!]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Tundrová stezka]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[Na této stezce budou tví návštěvníci potřebovat kompas. Je také moudré se držet vyšlapané cesty.]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Sněhová cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[Lepkavý sníh leží na sněhové cestě, po které se budou tví návštěvníci plahočit ve svých teplých botách. Všechno je tu tak krásné!]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Pustinná stezka]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[V pustině je nejlepší nevybočit z cesty. Všude jsou toxiny a odpad. Gumové boty s dobrou podrážkou jsou povinné!]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Alpská trasa]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Tato turistická trasa tě povede nahoru a dolů přes Alpy. Dobré boty s pevnou podporou pro kotníky tě ochrání před vymknutím!]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Jeskynní cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Měj oči otevřené, abys neuklouznul. Možná, že mezi kameny zahlédneš třpytivé zrnko zlata.]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Lesní cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[V deštivých dnech může být tato cesta trochu zablácená, ale v létě je les naprosto idylický.]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Pobřežní cesta]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Procházka naboso po třpytivém písku, mušlích, mořských řasách a občas nějakých hvězdicích je zdraví velmi prospěšná!]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Magická stezka]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[Zářivě modrá stezka, která není z tohoto světa, se může zdát děsivá, ale i dobrodružná. Kampak asi vede?]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Stezka Cukrové země]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Křup! Jejda! Stoupl jsi na bonbon? Dávej pozor, na cestě jsou i žvýkačky! Jak je to tu krásně barevné!]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Stezka bambusovým lesem]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[Mlha se nese obrovským, téměř neprostupným bambusovým lesem. Z dálky je slyšet klepání datla. Jednoduše idylické!]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Stezka pralesem]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Kdo se v této džungli nechce houpat z liány na liánu, může jít pěšky po této dobře prošlapané stezce. Pozor: Z času na čas může přes cestu přelézt had nebo pavouk.]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[Cesta močálem]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[Tví návštěvníci by měli pamatovat na to, aby se v močálu drželi správné trasy. Stačí jedno šlápnutí vedle a propadnou se do bahna!]]></item>
+  <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Dřevěná plošina]]></item>
+  <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Není nic lepšího než chůze po dřevěném molu a vrzání lodní paluby. Tví návštěvníci budou mít opravdový pobřežní zážitek.]]></item>
+ </category>
+</language>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.tutorial.tour">
+  <item name="zoo.tutorial.tour.1"><![CDATA[Vítej v ZooMumbě, tvé bláznivé zoologické zahradě! Jmenuji se Soňa a vysvětlím ti krok za krokem, jak hra funguje.<br><br>V obchodě si můžeš koupit různé zvířecí výběhy, které poté umístíš na hrací pole.]]></item>
+  <item name="zoo.tutorial.tour.2"><![CDATA[Klikni na výběh a kup si zvíře. Všímej si přitom, zda kupuješ samečka nebo samičku. <br><br>Pokud máš ve výběhu oba, můžeš brzy očekávat mladé!]]></item>
+  <item name="zoo.tutorial.tour.3"><![CDATA[Pravidelně se o svá zvířata starej, mazli se a hraj si s nimi. Pak budou šťastná a spokojená. Zkus to!]]></item>
+  <item name="zoo.tutorial.tour.4"><![CDATA[Svoje výběhy, budovy a atrakce musíš propojit cestami, které vedou ke vchodu, aby mohli návštěvníci všechno obdivovat.]]></item>
+  <item name="zoo.tutorial.tour.5"><![CDATA[V obchodě získej krmivo a všechno, po čem zvířata touží: maso, ovoce, trávu - prostě se zde porozhlédni!]]></item>
+  <item name="zoo.tutorial.tour.6"><![CDATA[Od 2. levelu v obchodě získáš také budovy a stánky, které udělají tvoji zoo pro návštěvníky ještě atraktivnější. <br><br>Příjmy z peněz za vstupné do tvé zoo si můžeš pravidelně vyzvednout v hlavní budově.]]></item>
+  <item name="zoo.tutorial.tour.7"><![CDATA[Čím víc návštěvníků přivítáš ve své zoo, tím víc odpadků budeš muset uklidit. <br><br>Udržuj svou zoo stále čistou a sbírej odpadky. Pak budou tvoji návštěvníci spokojeni!]]></item>
+  <item name="zoo.tutorial.tour.8"><![CDATA[Čím víc spokojených návštěvníků bude mít tvoje zoo, tím výš bude stoupat zoometr.<br><br>Jdi do toho 
+a postav nejúžasnější zoo na světě – ve hře ZooMumba! Dobře se bav!]]></item>
+ </category>
+ <category name="zoo.tutorial.general">
+  <item name="zoo.tutorial.general.forgive.title"><![CDATA[Přeskočit]]></item>
+  <item name="zoo.tutorial.general.forgive.text"><![CDATA[Chceš tento krok opravdu přeskočit?]]></item>
+  <item name="zoo.tutorial.general.award"><![CDATA[Úkol %currentTask% úspěšně ukončen. Celkový počet úkolů: %totalTasks%]]></item>
+ </category>
+ <category name="zoo.tutorial.title">
+  <item name="zoo.tutorial.title.0"><![CDATA[Vítej ve hře ZooMumba!]]></item>
+  <item name="zoo.tutorial.title.1"><![CDATA[Chyť tučňáky]]></item>
+  <item name="zoo.tutorial.title.2"><![CDATA[Nakrm tučňáky]]></item>
+  <item name="zoo.tutorial.title.3"><![CDATA[Péče a mazlení]]></item>
+  <item name="zoo.tutorial.title.4"><![CDATA[Buduj výběhy]]></item>
+  <item name="zoo.tutorial.title.5"><![CDATA[Hurá se zvířaty do výběhů]]></item>
+  <item name="zoo.tutorial.title.6"><![CDATA[Vytvoř novou cestu]]></item>
+  <item name="zoo.tutorial.title.7"><![CDATA[Pryč s odpadem!]]></item>
+  <item name="zoo.tutorial.title.8"><![CDATA[Krmení navíc]]></item>
+  <item name="zoo.tutorial.title.9"><![CDATA[Chovej mláďata]]></item>
+  <item name="zoo.tutorial.title.10"><![CDATA[Možnost výdělku]]></item>
+  <item name="zoo.tutorial.title.11"><![CDATA[Skoro se Ti to povedlo!]]></item>
+  <item name="zoo.tutorial.title.12"><![CDATA[Jupíí, zvládl jsi to!]]></item>
+  <item name="zoo.tutorial.title.13"><![CDATA[Jupíí! Pozvi teď přátele!]]></item>
+  <item name="zoo.tutorial.title.14"><![CDATA[Začíná safari!]]></item>
+ </category>
+ <category name="zoo.tutorial.main">
+  <item name="zoo.tutorial.main.0"><![CDATA[Smím se představit? Jmenuji se Soňa vysvětlím Ti, jak taková bláznivá zoo-hra funguje. Jsi připravený? Tak jen do toho, řediteli zoo!]]></item>
+  <item name="zoo.tutorial.main.1"><![CDATA[Stala se malá nehoda! Tučnáci utekli z výběhu! Pomoz mi rychle s jejich pochytáním a vrať je zpátky do výběhu.]]></item>
+  <item name="zoo.tutorial.main.2"><![CDATA[Super! Z neustálého pobíhání mají hlad a žízeň. Dej jim dostatek vody a ryb. Klikni na výběh, pak na ryby a na vědro.]]></item>
+  <item name="zoo.tutorial.main.3"><![CDATA[Klikni na kartáč a vyčisti výběh. Vidíš, už září čistotou! A ještě chvilka pohlazení pro tyto poblázněné ploutvonožce - klikni na medvídka.]]></item>
+  <item name="zoo.tutorial.main.4"><![CDATA[To je paráda! Opravdu to se zvířaty umíš! Teď můžeš vybudovat výběhy. Zajdi do obchodu, klikni na výběh a umísti ho v zoo.]]></item>
+  <item name="zoo.tutorial.main.5"><![CDATA[Dej do voliéry pár ukecaných papoušků. Klikni na voliéru, vyber v obchodě samičku a samečka a umísti je.]]></item>
+  <item name="zoo.tutorial.main.6"><![CDATA[Spoj výběhy cestičkami. Čím lepší propojení vytvoříš, tím atraktivnější Tvá zoo bude. Vytvoř cestu k voliéře papoušků.]]></item>
+  <item name="zoo.tutorial.main.7"><![CDATA[S návaly turistů Ti přibude i dost odpadků. Vypořádej se s nimi jedním kliknutím na lopatku.]]></item>
+  <item name="zoo.tutorial.main.8"><![CDATA[Obstarej si v obchodě krmivo pro všechna svá zvířata. Na dnešek potřebuješ ovoce pro nakrmení papoušků.]]></item>
+  <item name="zoo.tutorial.main.9"><![CDATA[Pokud máš samečka a samičku pohromadě, klikni na tlačítko "Chov" a pak na "Koupit hned".]]></item>
+  <item name="zoo.tutorial.main.10"><![CDATA[Budovy v zoo produkují zoogroše, posbírej pravidelně své příjmy. Klikni jednoduše na zoogroše nad budovou.]]></item>
+  <item name="zoo.tutorial.main.11"><![CDATA[A je to hotovo. Ještě nějaké dotazy? Tak si přečti v klidu tipy. Pohybuj jednoduše myší: Budeš tak ještě mazanější!]]></item>
+  <item name="zoo.tutorial.main.12"><![CDATA[Můžeme si potřást rukou, kolego. Stal jsi se prověřeným ředitelem zoo. Tvoje nasbírané znalosti zoo opravdu proslavily. A to je důvod k radosti!]]></item>
+  <item name="zoo.tutorial.main.13"><![CDATA[Pššt ... už jsi to věděl? Teď můžeš do hry pozvat své kamarády. Stačí jednoduše poslat email a můžete společně začít.]]></item>
+  <item name="zoo.tutorial.main.14"><![CDATA[Hurá! Dosáhl jsi na 7. level: Svět safari Ti teď leží u nohou. Přidej plyn a klikni na džíp v řídícím centru nebo se podívej do menu v hlavní budově. Do toho!]]></item>
+ </category>
+ <category name="zoo.tutorial.hint">
+  <item name="zoo.tutorial.hint.0"><![CDATA[NONE]]></item>
+  <item name="zoo.tutorial.hint.1"><![CDATA[NONE]]></item>
+  <item name="zoo.tutorial.hint.2"><![CDATA[Nakrm svá zvířata superkrmivem a získej body zkušenosti navíc.]]></item>
+  <item name="zoo.tutorial.hint.3"><![CDATA[Podle kočky náladovky poznáš, jak jsou zvířata spokojená. Čím více se o ně budeš starat, tím budou spokojenější.]]></item>
+  <item name="zoo.tutorial.hint.4"><![CDATA[Klikni na stavbu, abys zkrátil dobu výstavby.]]></item>
+  <item name="zoo.tutorial.hint.5"><![CDATA[Pokud chceš odchovat mláďata, dávej pozor, ať dáš do výběhu samečka a samičku.]]></item>
+  <item name="zoo.tutorial.hint.6"><![CDATA[Dbej na to, aby byly Tvé výběhy propojené cestičkami. Jinak ztratí Tvá zoo atraktivitu.]]></item>
+  <item name="zoo.tutorial.hint.7"><![CDATA[Starej se o koše na odpadky, ať je Tvá zoo čistá.]]></item>
+  <item name="zoo.tutorial.hint.8"><![CDATA[Nakrm svá zvířata častěji nejlepším krmivem. Dostaneš za to množství bodů zkušenosti.]]></item>
+  <item name="zoo.tutorial.hint.9"><![CDATA[Dudlík Ti ukáže, pokud bude Tvůj chov ukončen.]]></item>
+  <item name="zoo.tutorial.hint.10"><![CDATA[Dochází ti herní měna? Tak získej další! Klikni na zlatý pytlík.]]></item>
+  <item name="zoo.tutorial.hint.13"><![CDATA[Zadej emailovou adresu kamaráda, kterého chceš pozvat do hry.]]></item>
+  <item name="zoo.tutorial.hint.14"><![CDATA[Do různých regionů safari potřebuješ různé množství benzínu. Do uzavřených regionů ale vjet nemůžeš.]]></item>
+ </category>
+ <category name="zoo.tutorial.success">
+  <item name="zoo.tutorial.success.title"><![CDATA[Dobře!]]></item>
+  <item name="zoo.tutorial.success.step.1"><![CDATA[Super! Tučňáci jsou zase zpátky ve výběhu. Klikni na šipku, aby ses dostal k dalšímu kroku.]]></item>
+  <item name="zoo.tutorial.success.step.2"><![CDATA[Mňam! Tvoji tučňáci jsou teď sytí. Klikni na šipku a pokračuj dále!]]></item>
+  <item name="zoo.tutorial.success.step.3"><![CDATA[Skvělý výkon! Veselí ploutvonožci jsou teď čistí a spokojení. Klikni na šipku a pokračuj!]]></item>
+  <item name="zoo.tutorial.success.step.4"><![CDATA[Práce první třídy! Tvůj výběh už stojí. Klikni na šipku a dostaneš se k dalšímu kroku.]]></item>
+  <item name="zoo.tutorial.success.step.5"><![CDATA[Jupíí! Ve své zoo máš od teď i papoušky. Klikni na šipku a pokračuj!]]></item>
+  <item name="zoo.tutorial.success.step.6"><![CDATA[Jen tak dále! Návštěvníci obdivují nové výběhy. Klikni na šipku a pokračuj dále.]]></item>
+  <item name="zoo.tutorial.success.step.7"><![CDATA[Perfektní! Od teď se cestičky blýskají čistotou. Klikni na šipku a pokračuj!]]></item>
+  <item name="zoo.tutorial.success.step.8"><![CDATA[jak výtečné! I papoušci už jsou sytí. Klikni na šipku a pokračuj!]]></item>
+  <item name="zoo.tutorial.success.step.9"><![CDATA[Jak roztomilé! Adoptoval jsi úspěšně papouščí potomky. Klikni na šipku a pokračuj!]]></item>
+  <item name="zoo.tutorial.success.step.10"><![CDATA[Skvělé! V kase to teď pěkně cinká! Už máš skoro vše hotové! Rychle, klikni ještě jednou na šipku.]]></item>
+  <item name="zoo.tutorial.success.step.11"><![CDATA[Jak jednoduché! Stal ses už skoro profíkem ve sbírání bodů v menu. Ještě jedno kliknutí a jsi na konci naší malé cesty.]]></item>
+ </category>
+</language>

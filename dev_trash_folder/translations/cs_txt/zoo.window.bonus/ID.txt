@@ -1,0 +1,10 @@
+zoo.window.bonus;zoo.window.bonus;zoo.window.bonus.main.title
+zoo.window.bonus;zoo.window.bonus;zoo.window.bonus.main.info
+zoo.window.bonus;zoo.window.bonus;zoo.window.bonus.success.title
+zoo.window.bonus;zoo.window.bonus;zoo.window.bonus.success.info
+zoo.window.bonus;zoo.window.bonus.error;zoo.window.bonus.error.invalid.title
+zoo.window.bonus;zoo.window.bonus.error;zoo.window.bonus.error.invalid.info
+zoo.window.bonus;zoo.window.bonus.error;zoo.window.bonus.error.participated.title
+zoo.window.bonus;zoo.window.bonus.error;zoo.window.bonus.error.participated.info
+zoo.window.bonus;zoo.window.bonus.error;zoo.window.bonus.error.bruteforce.title
+zoo.window.bonus;zoo.window.bonus.error;zoo.window.bonus.error.bruteforce.info

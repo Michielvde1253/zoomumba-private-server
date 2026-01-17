@@ -1,0 +1,2 @@
+zoo.window.wishes;zoo.window.wishes;zoo.window.wishes.title
+zoo.window.wishes;zoo.window.wishes;zoo.window.wishes.text

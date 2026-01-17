@@ -1,0 +1,17 @@
+Recyklace
+V odpadu najdeš spoustu surovin, které můžeš recyklovat a vyrobit zde cenné materiály.
+Stav tvého skladu: %count% <br> z celkové kapacity %maxcount%
+Vyráběj suroviny z posbíraného odpadu. Doba, která je potřebná k výrobě těchto materiálů je vidět nalevo. Níže je vidět potřebné množství odpadu a počet zoogrošů. Vyber, kolik surovin chceš vyrobit. Pokaždé, když něco vyrobíš, máš šanci získat vzácnou surovinu. Tuto šanci můžeš zvýšit použitím super filtru.
+Super filtr
+Zvyš svou šanci na získání vzácné suroviny o %percent%%
+Šance na získání vzácné suroviny: %percent%%
+Spustit recyklaci
+Použít filtr
+Odstranit filtr
+Zhotovit
+Teď pronajmout
+K dispozici
+Vyzvednout
+Start
+Zvolit
+Tento materiál použij k výrobě následujících položek:

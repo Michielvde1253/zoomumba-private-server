@@ -1,0 +1,30 @@
+Tento hráč bohužel neexistuje.
+Na to bohužel nemáš dost zoodolarů.
+Na to bohužel nemáš dost zoogrošů.
+Ještě jsi nedosáhl potřebný level.
+Chyba přihlášení
+Vyskytla se chyba při přihlášení. Zkontroluj prosím svoje údaje a zkus to znovu.
+Byl jsi zablokován administrátorem.
+Chyba
+Bonusový kód už jsi na tomto kontě využil, opakovaně to není možné.
+Neznámý objekt
+Předmět se momentálně nedá koupit
+Položka není momentálně použitelná
+Omlouváme se!
+Oh! Vyskytla se chyba. Chyba byla nahlášena týmu!
+Objekt není ve hře k dispozici.
+Obsazené pole
+Chov se nezdařil. Tvoje zvířata se bohužel nedočkala potomka.
+Nevhodné zvíře pro tento výběh
+Dosáhl jsi maximální počet mláďat.
+K tomu potřebuješ samečka.
+K tomu potřebuješ samičku.
+Dosáhl jsi maximální počet mláďat.
+Dosáhl jsi maximální počet dospělých jedinců.
+Tato budova je zatím ve výstavbě.
+Aktualizace databanky se nezdařila.
+Vyskytla se chyba.
+Tohoto uživatele už jsi pozval.
+Je dosaženo limitu pro pozvání. Počkej prosím 24 hodin, až budě moci opět poslat pozvání (ke všem hrám).
+Je dosaženo limitu pro pozvání. Počkej prosím 24 hodin, až budě moci opět poslat pozvání (ke všem hrám).
+Vyskytla se chyba... prosím, zkus to později znovu.

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.window.shopResourceInfo">
+  <item name="zoo.window.shopResourceInfo.titel_1"><![CDATA[Voda]]></item>
+  <item name="zoo.window.shopResourceInfo.text_1"><![CDATA[Tvoje zvířata potřebují osvěžení! Udělej jim radost chladivou vodou!]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_2"><![CDATA[Tráva]]></item>
+  <item name="zoo.window.shopResourceInfo.text_2"><![CDATA[Není lepší způsob jak uspokojit hladový žaludek, než se nakrmit výbornou zelenou trávou. A s trochou štěstí bude v trávě i nějaký hmyz jako bonus:-) Mňam!]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_3"><![CDATA[Maso]]></item>
+  <item name="zoo.window.shopResourceInfo.text_3"><![CDATA[Kdo by neměl radost z pořádného kusu masa? Takový šťavnatý steak je opravdová pochoutka!]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_4"><![CDATA[Ryby]]></item>
+  <item name="zoo.window.shopResourceInfo.text_4"><![CDATA[Ryby jsou zdravé! A pro mnoho zvířat oblíbená potrava. Nemusíš si dělat starosti s kucháním nebo porcováním, tvoje zvířata si pochutnají na všem!]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_5"><![CDATA[Ovoce]]></item>
+  <item name="zoo.window.shopResourceInfo.text_5"><![CDATA[Sladké šťavnaté ovoce - kdo by mohl odolat. Tady najdeš ovoce pro všechna zvířata!]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_6"><![CDATA[Obilí]]></item>
+  <item name="zoo.window.shopResourceInfo.text_6"><![CDATA[Obilí je důležitým zdrojem potravy pro tvoje zvířata. Díky němu zůstanou stále čilá a zdravá!]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_7"><![CDATA[Lék]]></item>
+  <item name="zoo.window.shopResourceInfo.text_7"><![CDATA[Nějaké z tvých zvířat se necítí dobře? Tento lék ho jistě postaví zase na nohy.]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_8"><![CDATA[Superkrmivo]]></item>
+  <item name="zoo.window.shopResourceInfo.text_8"><![CDATA[Se superkrmivem získáš dvojnásobné BZ.]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_9"><![CDATA[Superlék]]></item>
+  <item name="zoo.window.shopResourceInfo.text_9"><![CDATA[V případě silné infekce je potřeba použít opravdu účinný lék. Rychle sem se superlékem. Kromě toho zvyšuješ se superléky svou šanci na hodnotné odměny, které "vyskakují" z výběhu.]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_10"><![CDATA[Nejlepší krmivo]]></item>
+  <item name="zoo.window.shopResourceInfo.text_10"><![CDATA[Nejlepší krmivo ti poskytne čtyřnásobek tlapek ke zkrášlení výběhů.]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_11"><![CDATA[Esence z tolije]]></item>
+  <item name="zoo.window.shopResourceInfo.text_11"><![CDATA[Esence z tolije zkracuje dobu odchovu o 50%.]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_12"><![CDATA[Růstový lektvar]]></item>
+  <item name="zoo.window.shopResourceInfo.text_12"><![CDATA[S růstovým lektvarem vyrostou tví maličcí dvakrát rychleji!]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_13"><![CDATA[Odpad]]></item>
+  <item name="zoo.window.shopResourceInfo.text_13"><![CDATA[Je až neuvěřitelné, co všechno lidé vyhodí! Recykluj odpad a postav z materiálů nové předměty pro tvé zoo.]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_14"><![CDATA[Super filtr]]></item>
+  <item name="zoo.window.shopResourceInfo.text_14"><![CDATA[Pokud recykluješ odpad pomocí super filtru, zvýšíš svou šanci na získání vzácných materiálů.]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_15"><![CDATA[Booster pro řemeslníka]]></item>
+  <item name="zoo.window.shopResourceInfo.text_15"><![CDATA[Tato směs chmele a energetického nápoje je přesně to, co tví řemeslníci potřebují pro zvýšení energie. Takhle dokončí práci ještě rychleji.]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_16"><![CDATA[Řasy]]></item>
+  <item name="zoo.window.shopResourceInfo.text_16"><![CDATA[Zelené vodní rostliny plné cenných živin! Mňam!]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_17"><![CDATA[Plankton]]></item>
+  <item name="zoo.window.shopResourceInfo.text_17"><![CDATA[Planktony jsou mikroorganismy, které jsou potravou pro mnoho oceánských živočichů.]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_18"><![CDATA[Kreveta]]></item>
+  <item name="zoo.window.shopResourceInfo.text_18"><![CDATA[Nejen lidé, ale i zvířata milují krevety!]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_19"><![CDATA[Mlži]]></item>
+  <item name="zoo.window.shopResourceInfo.text_19"><![CDATA[Pochutnej si na měkkém masíčku, které se skrývá uvnitř. Kdo by takové pochoutce odolal?]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_20"><![CDATA[Vodní filtr]]></item>
+  <item name="zoo.window.shopResourceInfo.text_20"><![CDATA[Používej dobrý filtr, ať máš vodu v nádržích křišťálově čistou.]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_21"><![CDATA[Super rybí žrádlo]]></item>
+  <item name="zoo.window.shopResourceInfo.text_21"><![CDATA[Super rybí žrádlo poskytuje vyváženou stravu pro mořské živočichy všech tvarů a velikostí. Naservíruj ho a získej dvojitou dávku BZ!]]></item>
+  <item name="zoo.window.shopResourceInfo.titel_22"><![CDATA[Exkluzivní rybí žrádlo]]></item>
+  <item name="zoo.window.shopResourceInfo.text_22"><![CDATA[Exkluzivní žrádlo pro exkluzivní ryby. Nakrm tvá zvířata tímto žrádlem a získej dvakrát tolik perel!]]></item>
+ </category>
+</language>

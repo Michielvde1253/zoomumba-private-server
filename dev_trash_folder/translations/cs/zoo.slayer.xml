@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.slayer.friends">
+  <item name="zoo.slayer.friends.title"><![CDATA[Přátelé]]></item>
+  <item name="zoo.slayer.friends.message"><![CDATA[Pošli zprávu tomuto příteli]]></item>
+  <item name="zoo.slayer.friends.delete"><![CDATA[Opravdu chceš tohoto hráče vymazat ze tvého seznamu přátel?]]></item>
+  <item name="zoo.slayer.friends.visit"><![CDATA[Navštiv zoo tvého přítele]]></item>
+  <item name="zoo.slayer.friends.empty"><![CDATA[Zcela sám? Proč rychle nepozveš pár přátel, abyste si zahráli spolu? Víc lidí znamená víc zábavy!]]></item>
+ </category>
+ <category name="zoo.slayer.receivedInvites">
+  <item name="zoo.slayer.receivedInvites.title"><![CDATA[Obdržené žádosti o přátelství]]></item>
+  <item name="zoo.slayer.receivedInvites.accept"><![CDATA[Přijmout žádost o přátelství]]></item>
+  <item name="zoo.slayer.receivedInvites.deny"><![CDATA[Zamítnout žádost o přátelství]]></item>
+  <item name="zoo.slayer.receivedInvites.empty"><![CDATA[Bohužel nemáš žádné nové žádosti o přátelství.]]></item>
+ </category>
+ <category name="zoo.slayer.sentInvites">
+  <item name="zoo.slayer.sentInvites.title"><![CDATA[Odeslané žádosti o přátelství]]></item>
+  <item name="zoo.slayer.sentInvites.empty"><![CDATA[Neodeslal jsi žádné žádosti o přátelství.]]></item>
+ </category>
+ <category name="zoo.slayer.add">
+  <item name="zoo.slayer.add.title"><![CDATA[Pozvat přátele]]></item>
+  <item name="zoo.slayer.add.requested"><![CDATA[Bravo! Úspěšně jsi odeslal svou žádost o přátelství uživateli %useName%.]]></item>
+  <item name="zoo.slayer.add.text"><![CDATA[Už nechceš hrát hru ZooMumba sám a raději by sis užíval s jinými? Tak přizvi své přátele!]]></item>
+  <item name="zoo.slayer.add.byName"><![CDATA[Přizvi přátele hry ZooMumba.]]></item>
+  <item name="zoo.slayer.add.byName.message"><![CDATA[Sem vlož, prosím, hráčská jména svých přátel, kterým chceš odeslat žádost o přátelství.]]></item>
+  <item name="zoo.slayer.add.duplicated.message"><![CDATA[Při hledání jsme nalezli více než jedno hráčské jméno. Vyber, prosím, svého přítele z tohoto seznamu:]]></item>
+  <item name="zoo.slayer.add.self"><![CDATA[Nemůžeš přidat sám sebe do svého listu přátel!]]></item>
+  <item name="zoo.slayer.add.byMail"><![CDATA[Pozvi přátele emailem.]]></item>
+  <item name="zoo.slayer.add.byFB"><![CDATA[Pozvi přátele přes Facebook.]]></item>
+  <item name="zoo.slayer.add.button"><![CDATA[Pozvat]]></item>
+ </category>
+</language>

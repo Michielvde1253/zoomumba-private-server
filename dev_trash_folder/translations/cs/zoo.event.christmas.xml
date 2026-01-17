@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.event.christmas.comic">
+  <item name="zoo.event.christmas.comic.1.header"><![CDATA[Veselé Vánoce!]]></item>
+  <item name="zoo.event.christmas.comic.1.text"><![CDATA[Od 21. prosince do 2. ledna se vše ve tvé zoo točí kolem Vánoc! Ozdob svůj vánoční stromeček a pomoz mi zachránit Vánoce!]]></item>
+  <item name="zoo.event.christmas.comic.2"><![CDATA[Odchovej nejprve 8 létajících sobů a potom jednoho Santova Rudolfa pro jeho sáně. Za každého soba, kterého mu přineseš, dostaneš dárek.]]></item>
+  <item name="zoo.event.christmas.comic.3"><![CDATA[Čas od času ti Santa také daruje ozdobu na tvůj vánoční stromeček. Na závěr si budeš moci svůj ozdobený stromeček nechat.]]></item>
+  <item name="zoo.event.christmas.comic.4"><![CDATA[Hurá, máme tady taky jednu speciální vánoční sbírku! Starej se o svá zvířata a sbírej vánoční předměty. Ty můžeš také použít pro chov sobů!]]></item>
+  <item name="zoo.event.christmas.comic.5.header"><![CDATA[Skvělá překvapení ve vánočním obchodě]]></item>
+  <item name="zoo.event.christmas.comic.5.text"><![CDATA[Proměň svoji zoo v pestrobarevný Zimní svět: s mnoha novými a oblíbenými vánočními dekoracemi.]]></item>
+  <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Veselé Vánoce a mnoho zábavy při Vánoční události!]]></item>
+ </category>
+ <category name="zoo.event.christmas.layer">
+  <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[To je hrůza! Santovi sobi se rozutekli a on teď nemůže rozvážet dárky! Přines mu 8 létajících sobů a Santova Rudolfa a umísti je před jeho sáně. Jako poděkování dostaneš skvělé dárky!]]></item>
+  <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Santa se vydává na cestu do:]]></item>
+  <item name="zoo.event.christmas.layer.congrats"><![CDATA[Vyhrál jsi:]]></item>
+  <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Podívej se na svůj vánoční stromeček na parkovišti!]]></item>
+  <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Sežeň svému avatarovi nový ohoz!]]></item>
+  <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Rychle se podívej do svého inventáře!]]></item>
+  <item name="zoo.event.christmas.layer.success.title"><![CDATA[Děkujeme]]></item>
+  <item name="zoo.event.christmas.layer.success.text"><![CDATA[Tví sobi už se nemohou dočkat, až vyrazí na cestu. Díky tobě jsou Vánoce zachráněny!]]></item>
+  <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Díky]]></item>
+  <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Chybí bohužel ještě pár sobů, nicméně já už musím opravdu vyrazit! Ale neboj se, já už to nějak zařídím - konec konců jsem Santa Klaus!]]></item>
+  <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[Tvůj nazdobený vánoční stromeček z parkoviště je teď ve tvém inventáři.]]></item>
+  <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Nejprve dej Santovi 8 létajících sobů!]]></item>
+  <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Santa už má 8 létajících sobů a už potřebuje jen svého Rudolfa!]]></item>
+ </category>
+ <category name="zoo.event.christmas.rewards">
+  <item name="zoo.event.christmas.rewards.tree"><![CDATA[Vánoční ozdoba]]></item>
+  <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Vánoční ohoz]]></item>
+  <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Párek sov sněžných]]></item>
+ </category>
+ <category name="zoo.event.christmas.tooltip">
+  <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Počet samečků létajících sobů ve tvém inventáři.]]></item>
+  <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Počet samiček létajících sobů ve tvém inventáři.]]></item>
+  <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Než Santovi přineseš jeho Rudolfa, potřebuje nejprve 8 létajících sobů.]]></item>
+  <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Počet samečků Santových Rudolfů ve tvém inventáři.]]></item>
+  <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Počet samiček Santových Rudolfů ve tvém inventáři.]]></item>
+ </category>
+</language>

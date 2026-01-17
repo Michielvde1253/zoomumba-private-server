@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.eventABtrade.button">
+  <item name="zoo.eventABtrade.button.trade"><![CDATA[Vyměnit]]></item>
+ </category>
+ <category name="zoo.eventABtrade.layer">
+  <item name="zoo.eventABtrade.layer.intro"><![CDATA[Haló, já jsem Lukáš, ředitel zoo v sousedním městě. Slyšel jsem, že tvoje zvířecí zdravotní sestra, Soňa Starostlivá, odchovává nové zvířecí druhy, které mě velmi zajímají. Za každého samečka druhu %priceSpecies% ti dám samečka druhu %rewardSpecies% a nebo samici za samici. Po dobu mé přítomností se doba líhnutí tvého druhu %priceGenus%s zkrátí z 20 na 2 hodiny! Tak jdeš do toho?]]></item>
+  <item name="zoo.eventABtrade.layer.end"><![CDATA[Nyní se vracím do své zoo.  Mnohokrát děkuji a snad se zase brzy uvidíme!]]></item>
+ </category>
+</language>

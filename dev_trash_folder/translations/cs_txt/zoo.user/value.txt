@@ -1,0 +1,4 @@
+Jméno hráče
+ID hráče
+Ověření
+Ověření se nezdařilo. Přihlas se prosím znovu.

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.window.upgrade">
+  <item name="zoo.window.upgrade.info"><![CDATA[Proveď upgrade svých výběhů, zkrášli je udělej svou svou zoo ještě atraktivnější.]]></item>
+  <item name="zoo.window.upgrade.button"><![CDATA[Upgrade]]></item>
+  <item name="zoo.window.upgrade.easter.info"><![CDATA[Od 21.-27.4. prohopsá velikonoční zajíc Tvou zoo a zanechá v ní vejce. Sbírej je a vyměň za velikonoční zkrášlení výběhů, velikonoční zajíce a výběhy.]]></item>
+ </category>
+</language>

@@ -1,0 +1,16 @@
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.9.title
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.9.text
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.10.title
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.10.text
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.11.title
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.11.text
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.12.title
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.12.text
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.13.title
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.13.text
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.14.title
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.14.text
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.15.title
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.15.text
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.16.title
+zoo.shop.specials;zoo.shop.specials.powerUps;zoo.shop.specials.powerUps.16.text

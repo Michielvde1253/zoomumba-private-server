@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.advancedBreed">
+  <item name="zoo.advancedBreed.info.1"><![CDATA[Ahoj! Já jsem Soňa Starostlivá, zdravotní sestra tady v zoo. Už se těšíš na chování nových miloučkých mláďat? Já ti vysvětlím, jak to funguje! Nejprve se musíš rozhodnout, který zvířecí druh chceš chovat.]]></item>
+  <item name="zoo.advancedBreed.info.2"><![CDATA[Zvol si ze svého inventáře dvě dospělá zvířata, ze kterých se mají stát rodiče. Čím jsou vzácnější, tím je větší pravděpodobnost, že se narodí ještě vzácnější mládě. Rodiče však musí pro tento chov zůstat u mě.]]></item>
+  <item name="zoo.advancedBreed.info.3"><![CDATA[Když použiješ doplňkové nasbírané předměty, silné krmivo, superkrmivo nebo superléky, zvýší se tvoje šance na odchov obzvláště vzácného mláděte. Čím více má předmět srdcí, tím větší šance!]]></item>
+  <item name="zoo.advancedBreed.info.4"><![CDATA[Už jsi téměř dokončil přípravu! Prověř ještě jednou svou volbu, než to vypukne. Chceš něco změnit? Žádný problém, použij prostě tlačítko „Zpět“! ]]></item>
+  <item name="zoo.advancedBreed.summary"><![CDATA[Chovný pokus spotřeboval tato zvířata a předměty:]]></item>
+ </category>
+ <category name="zoo.advancedBreed.tooltip">
+  <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Chovná stanice připravena]]></item>
+  <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Zde se právě chová]]></item>
+  <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Mládě je na světě!]]></item>
+  <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Mláďátka jsou tady!]]></item>
+ </category>
+ <category name="zoo.advancedBreed.button">
+  <item name="zoo.advancedBreed.button.start"><![CDATA[Začít chov]]></item>
+  <item name="zoo.advancedBreed.button.elixir"><![CDATA[Použij esenci]]></item>
+ </category>
+ <category name="zoo.advancedBreed.layer">
+  <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Opravdu chceš začít svůj chov bez podpůrných prostředků? Rozmysli si to dobře - s přísadami máš větší šanci na vzácné mládě.]]></item>
+  <item name="zoo.advancedBreed.layer.abort"><![CDATA[Jsi zrovna vprostřed příprav. Chceš chovnou stanici opravdu opustit?]]></item>
+  <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Chovná stanice]]></item>
+  <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Zrovna se rodí mláďata těmto zvířatům:]]></item>
+  <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Zbývající čas:]]></item>
+  <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Esence z tolije]]></item>
+  <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Esence z tolije zkracuje dobu odchovu o 50%. ]]></item>
+  <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hurá - máš potomka! Toho roztomilého drobečka najdeš ve svém inventáři:]]></item>
+  <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hurá - máš potomka! Toho roztomilého uličníka najdeš ve svém inventáři:]]></item>
+  <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Přemísti maličkého do zvířecí školky, aby mohl vyrůst.]]></item>
+  <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Přiveď ty maličké do zvířecí školky, aby mohli vyrůst.]]></item>
+  <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Pozor: Tady se zrovna provádí odchov! Pokud nyní stanici přesuneš do inventáře, proces se přeruší a přijdeš o všechna zvířata i podpůrné prostředky. Opravdu chceš provést přesun ihned?]]></item>
+  <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Pozor: Tady se zrovna provádí odchov! Když nyní stanici prodáš, bude proces přerušen a všechna zvířata a podpůrné prostředky budou ztraceny. Opravdu chceš stanici nyní prodat?]]></item>
+  <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Pokud je proces rozmnožování dokončen až po skončení události, obdržíš pouze 1 mládě.]]></item>
+ </category>
+</language>

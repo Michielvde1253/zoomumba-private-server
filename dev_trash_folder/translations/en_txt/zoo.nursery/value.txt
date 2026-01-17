@@ -1,0 +1,16 @@
+This is where the cub's growing up.
+Ready to grow
+Tvé mládě vyrostlo!
+Ahoj, já jsem Týna a starám se o tvá mláďata. V mojí zvířecí školce vyrůstají v dospělá zvířata. Zvol si ze svého inventáře mládě, které chceš nechat vyrůst.
+Raise
+Použij esenci
+Vychovat ihned
+Animal breeding
+Tento prcek bude ihned odchován:
+Zbývající čas:
+Vychovat ihned
+Než bys řekl švec, bude tvůj drobek dospělý!
+Růstový lektvar zkracuje dobu odchovu o 50 %.
+Jupíí! Toto mládě vyrostlo a bylo přesunuto do tvého inventáře:
+Pozor: Zde zrovna vyrůstá mládě! Když přesuneš školku do inventáře, bude proces přerušen. Opravdu chceš provést přesun ihned?
+Pozor: Zde zrovna vyrůstá mládě! Když školku nyní prodáš, bude proces přerušen. Opravdu chceš školku prodat ihned?

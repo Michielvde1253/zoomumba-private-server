@@ -1,0 +1,25 @@
+Prodat
+Kolik chceš prodat?
+DŮLEŽITÉ
+Pokud chceš svá zvířata s výběhy přesunout do inventáře, musejí být nejdříve zdravá a spokojená.
+Dárky
+Inventář
+Tlapky
+Perly
+Doplňky
+Odpad
+Ochrana životního prostředí s opětovným využitím: Recykluj odpad v recyklačním zařízení a suroviny použij k výrobě něčeho potřebného.
+Objem tvého odpadu:
+Čím lépe se o zvířata budeš starat, tím více tlapek nasbíráš. Můžeš pak pomocí nich zkrášlit své výběhy.<br> <br>Aktuální stav získaných tlapek:
+Čím více se budeš o svá zvířata starat, tím více perel získáš ke zkrášlení svých habitatů.<br><br>Aktuální stav perel:
+VŠUDE PUSTO PRÁZDNO?<br>Momentálně zeje Tvůj inventář prázdnotou.<br>Proč se nekoukneš do obchodu nebo nezajdeš na safari?
+Použij
+Jméno hráče
+ID hráče
+To je krása! Tvůj kamarád Ti poslal dárek. Rychle ho rozbal!
+Rozbalit
+Jaká škoda! Momentálně nemáš žádné nové dárky ... Ale nebuď smutný, brzy zase něco přijde.
+Zaplatit
+Kolik zvířat chceš zaplatit?
+Všechno do inventáře
+Opravdu chceš všechno poslat do inventáře? Upozornění: Tvá zvířata musí být předtím čistá, nakrmená a šťastná.

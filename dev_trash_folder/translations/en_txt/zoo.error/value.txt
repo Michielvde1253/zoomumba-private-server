@@ -1,0 +1,29 @@
+This player doesn't exist.
+You don't have enough zoodolars for that.
+You don't have enough zoogros for that.
+You haven't reached the necessary level.
+Login error
+An error occurred while signing in. Please check your details and try again.
+You have been blocked by an administrator.
+Error
+You have already used the bonus code on this account, it is not possible to use it again.
+Unknown object
+The item is currently unavailable for purchase
+Item is not currently applicable
+We're sorry!
+Oh! An error occurred. The issue has been reported to the team!
+Object is not available in the game.
+Field occupied
+Breeding failed. Unfortunately, your animals didn’t produce any offspring.
+Unsuitable animal for this enclosure.
+You have reached the maximum number of pups.
+You need a male for that.
+You need a female for that.
+You've reached the maximum number of adults.
+This building is still under construction.
+Databank update failed.
+An error has occurred.
+You've already invited this user.
+The invitation limit has been reached. Please wait 24 hours before you can send another invitation (for all games).
+The invitation limit has been reached. Please wait 24 hours before you can send another invitation (for all games).
+An error occurred... please try again later.

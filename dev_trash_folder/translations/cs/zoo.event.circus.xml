@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.event.circus">
+  <item name="zoo.event.circus.bubble"><![CDATA[Vítejte v putovním cirkuse!<br>Představujeme tajuplnou bednu! Kup si jednu bednu a dostaneš jedno z 10 zvířat. Můžeš mít najednou až 20 beden, přičemž každá bedna se dá otevřít až za 5 hodin. Dobře se bav!]]></item>
+  <item name="zoo.event.circus.prizes"><![CDATA[Zvířata:]]></item>
+  <item name="zoo.event.circus.infoTitle"><![CDATA[Srdečně blahopřejeme!]]></item>
+  <item name="zoo.event.circus.infoText"><![CDATA[Do tvého inventáře přibyla následující zvířata: %animal%.  Obstarej ještě více tajuplných beden k získání ještě více ojedinělých zvířat!]]></item>
+  <item name="zoo.event.circus.warningTitle"><![CDATA[Och, to je nám líto!]]></item>
+  <item name="zoo.event.circus.warningText"><![CDATA[Už máš 20 tajuplných beden. Počkej, dokud se jedna z nich neotevře a pak si obstarej další bednu.]]></item>
+  <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Tajuplná bedna se otevře za: %amount% ]]></item>
+  <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Klikni k zobrazení svých zvířat]]></item>
+  <item name="zoo.event.circus.autoBookTitle"><![CDATA[Vítej zpět!]]></item>
+  <item name="zoo.event.circus.autoBookText"><![CDATA[Zatímco jsi byl pryč, dostali tvá zvířata z tajuplné bedny žízeň. Chovatelka Soňa se o ně postarala a přinesla do svého inventáře. Rychle se podívej!]]></item>
+ </category>
+</language>

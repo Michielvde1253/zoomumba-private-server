@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.premium.title">
+  <item name="zoo.premium.title.0"><![CDATA[Zástupce David]]></item>
+  <item name="zoo.premium.title.1"><![CDATA[Krmič Honza]]></item>
+  <item name="zoo.premium.title.2"><![CDATA[Napáječ Pavel]]></item>
+  <item name="zoo.premium.title.3"><![CDATA[Uklizeč Slávek]]></item>
+  <item name="zoo.premium.title.4"><![CDATA[Chovatelka Soňa]]></item>
+  <item name="zoo.premium.title.5"><![CDATA[Popelář Jirka]]></item>
+  <item name="zoo.premium.title.6"><![CDATA[Pokladník Kešík]]></item>
+  <item name="zoo.premium.title.7"><![CDATA[Dr. Lynn]]></item>
+  <item name="zoo.premium.title.11"><![CDATA[Větší zoo]]></item>
+  <item name="zoo.premium.title.12"><![CDATA[Maxi zoo-rozšíření]]></item>
+  <item name="zoo.premium.title.13"><![CDATA[Rozšíření zoo]]></item>
+  <item name="zoo.premium.title.14"><![CDATA[Rozšíření zoo]]></item>
+  <item name="zoo.premium.title.15"><![CDATA[Velikonoční zajíc]]></item>
+  <item name="zoo.premium.title.16"><![CDATA[Velikonoční pomocnice]]></item>
+  <item name="zoo.premium.title.23"><![CDATA[Narozeninový koláč]]></item>
+  <item name="zoo.premium.title.126"><![CDATA[Maximální rozšíření zoo]]></item>
+  <item name="zoo.premium.title.29"><![CDATA[Maximální rozšíření zoo]]></item>
+  <item name="zoo.premium.title.30"><![CDATA[Maximální rozšíření zoo]]></item>
+  <item name="zoo.premium.title.125"><![CDATA[Rozšíření zoo]]></item>
+  <item name="zoo.premium.title.35"><![CDATA[Rozšíření zoo]]></item>
+  <item name="zoo.premium.title.36"><![CDATA[Rozšíření zoo]]></item>
+  <item name="zoo.premium.title.37"><![CDATA[Maximální rozšíření zoo]]></item>
+  <item name="zoo.premium.title.38"><![CDATA[Maximální rozšíření zoo]]></item>
+  <item name="zoo.premium.title.123"><![CDATA[Kyselé]]></item>
+  <item name="zoo.premium.title.124"><![CDATA[Sladké]]></item>
+  <item name="zoo.premium.title.128"><![CDATA[Narozeninový koláč]]></item>
+  <item name="zoo.premium.title.130"><![CDATA[Rozšíření zoo]]></item>
+  <item name="zoo.premium.title.132"><![CDATA[Rozšíření zoo]]></item>
+  <item name="zoo.premium.title.2001"><![CDATA[Sud vody]]></item>
+  <item name="zoo.premium.title.2002"><![CDATA[Vodárenská věž]]></item>
+  <item name="zoo.premium.title.2003"><![CDATA[Vodní pramen]]></item>
+  <item name="zoo.premium.title.2004"><![CDATA[Skladovací bedna]]></item>
+  <item name="zoo.premium.title.2005"><![CDATA[Skladiště]]></item>
+  <item name="zoo.premium.title.2006"><![CDATA[Podzemní sklad]]></item>
+ </category>
+ <category name="zoo.premium.infoText">
+  <item name="zoo.premium.infoText.0"><![CDATA[Zaměstnáváš-li 6 asistentů (vyjma Dr. Lynna), pomáhá ti spoluředitel s personálem. Jednoduše kliknout a 6 pomocníků se dá do práce.]]></item>
+  <item name="zoo.premium.infoText.1"><![CDATA[Honza, asistent krmení, se stará o to, aby tvoje zvířata byla vždy sytá a spokojená. Pokud máš dost zoogrošů na krmení, klikni na něj a Honza pak pracuje pilně a spolehlivě.]]></item>
+  <item name="zoo.premium.infoText.2"><![CDATA[Pavel se stará o napájení zvířat. Pokud na něj klikneš, obstará pravidelně vodu pro tvá zvířata. Ale jen tehdy, pokud máš dostatek zoogrošů.]]></item>
+  <item name="zoo.premium.infoText.3"><![CDATA[Uklizeč Slávek se stará o hygienu a čistotu tvých zvířat. Pokud na něj klikneš, vyčistí výběhy a zajistí útulný domov pro tvá zvířata.]]></item>
+  <item name="zoo.premium.infoText.4"><![CDATA[Všichni se těší na Soňu! Klikni na ni a najmi si ji: Bude se mazlit s tvými zvířaty, takže se nebudou nudit a budou zářit spokojeností.]]></item>
+  <item name="zoo.premium.infoText.5"><![CDATA[Jirka svědomitě zametá každou cestičku a neunikne mu ani žádný odpadkový koš. Pořádek musí být, do zanedbané zoo se návštěvníci nevracejí. Najmi si ho jedním kliknutím a on zařídí veškerou práci.]]></item>
+  <item name="zoo.premium.infoText.6"><![CDATA[Šikovný opičák Kešík to s čísly umí: Klikni na něj a najmi si ho. Přinese ti tržbu ze všech postavených obchodů a budov.]]></item>
+  <item name="zoo.premium.infoText.7"><![CDATA[Paní doktorka Lynn je zodpovědná za zdraví tvých zvířat. Když na ni klikneš, dodá všem nemocným zvířatům vhodné léky!]]></item>
+  <item name="zoo.premium.infoText.11"><![CDATA[Od levelu %nextExpandLevel% se tvé zoo zvětší. Nemáš chuť čekat? Tak si své zoo rozšiř teď hned.]]></item>
+  <item name="zoo.premium.infoText.12"><![CDATA[Neztrácej čas a rozšiř svou zoo o 100% jediným kliknutím! S maxi zoo-rozšířením si ušetříš mezikroky a budeš mít k dispozici okamžitě max. plochu. Neváhej!]]></item>
+  <item name="zoo.premium.infoText.13"><![CDATA[Kup si rozšíření pro svou skrytou zoo za zoodolary.]]></item>
+  <item name="zoo.premium.infoText.14"><![CDATA[Vyměňuj své nasbírané nástroje, a rozšiř tak svou skrytou zoo.]]></item>
+  <item name="zoo.premium.infoText.15"><![CDATA[Od 21.4. do 27.4. prohopsá velikonoční zajíc Tvou zoo a zanechá v ní vejce. Sbírej je a vyměň za velikonoční zkrášlení výběhů, velikonoční zajíce a velikonoční výběhy.]]></item>
+  <item name="zoo.premium.infoText.16"><![CDATA[Jak praktické! Od 21. do 27.4. Ti při sbírání vajíček pomůže velikonoční pomocnice Sonja. Dokonce i pokud se odhlásíš! Vejce pak vyměníš za velikonoční zkrášlení výběhů, velikonoční zajíce a velikonoční výběhy.]]></item>
+  <item name="zoo.premium.infoText.23"><![CDATA[Kup si tento koláč k rychlejšímu získání narozeninového vylepšení pro své výběhy. Dostaneš tím více balónků a můžeš získat i více narozeninových cen.]]></item>
+  <item name="zoo.premium.infoText.29"><![CDATA[Neztrácej čas a rozšiř svou zoo jediným kliknutím na 100 %! S max. rozšířením zoo si ušetříš zdlouhavé mezikroky a okamžitě budeš mít k dispozici maximální plochu. Neváhej!]]></item>
+  <item name="zoo.premium.infoText.30"><![CDATA[Neztrácej čas a rozšiř svou zoo o 100% jediným kliknutím! S maxi zoo-rozšířením si ušetříš mezikroky a budeš mít k dispozici okamžitě max. plochu. Neváhej!]]></item>
+  <item name="zoo.premium.infoText.35"><![CDATA[Rozšiř si své zoo za zoodolary.]]></item>
+  <item name="zoo.premium.infoText.125"><![CDATA[Kup si rozšíření pro toto zoo za zoodolary.]]></item>
+  <item name="zoo.premium.infoText.36"><![CDATA[Rozšiř své zoo za nástroje, které jsi nasbíral.]]></item>
+  <item name="zoo.premium.infoText.126"><![CDATA[Neztrácej čas a rozšiř svou zoo o 100% jediným kliknutím! S maxi zoo-rozšířením si ušetříš mezikroky a budeš mít k dispozici okamžitě max. plochu. Neváhej!]]></item>
+  <item name="zoo.premium.infoText.37"><![CDATA[Neztrácej čas a rozšiř své zoo o 100% jediným kliknutím! S maxi zoo-rozšířením si ušetříš mezikroky a budeš mít k dispozici okamžitě max. plochu. Neváhej!]]></item>
+  <item name="zoo.premium.infoText.38"><![CDATA[Neztrácej čas a rozšiř své zoo o 100% jediným kliknutím! S maxi zoo-rozšířením si ušetříš mezikroky a budeš mít k dispozici okamžitě max. plochu. Neváhej!]]></item>
+  <item name="zoo.premium.infoText.123"><![CDATA[Vyměňuj malé netopýry za kyselé, abys odemkl nové Halloweenské odměny. ]]></item>
+  <item name="zoo.premium.infoText.124"><![CDATA[Vyměňuj malé netopýry za sladké, abys odemkl nové Halloweenské odměny. ]]></item>
+  <item name="zoo.premium.infoText.128"><![CDATA[Kup si tento koláč k rychlejšímu získání narozeninového vylepšení pro své výběhy. Dostaneš tím více balónků a můžeš získat i více narozeninových cen.]]></item>
+  <item name="zoo.premium.infoText.130"><![CDATA[Kup si rozšíření pro zoo na pobřeží za zoodolary.]]></item>
+  <item name="zoo.premium.infoText.132"><![CDATA[Pořiď si rozšíření pro Podmořský svět za zoodolary.]]></item>
+  <item name="zoo.premium.infoText.2001"><![CDATA[Tento sud s vodou je pěkný doplněk do zoo a přidá i pocit venkova.]]></item>
+  <item name="zoo.premium.infoText.2002"><![CDATA[Jaký gigant! Tato vodárenská věž bude vidět široko daleko.]]></item>
+  <item name="zoo.premium.infoText.2003"><![CDATA[Už to teče. Vodní pramen poskytne občerstvující vodu pro tvé zoo. Vodo, jen teč!]]></item>
+  <item name="zoo.premium.infoText.2004"><![CDATA[Praktické! Skladovací bedny jsou perfektní pro lezení, sezení a dovádění. Děti mají rády dřevěné bedny.]]></item>
+  <item name="zoo.premium.infoText.2005"><![CDATA[Jak geniální! Skladiště je super místo pro hru na schovávanou. A v zimě je tu spoustu místa pro balíky sena.]]></item>
+  <item name="zoo.premium.infoText.2006"><![CDATA[Super úschovna! V podzemním skladu je hodně zajímavých věcí. Ale hlavně je tento sklad velmi tajuplný ... co je tam asi schováno?]]></item>
+ </category>
+ <category name="zoo.premium.window.renew">
+  <item name="zoo.premium.window.renew.text"><![CDATA[Oh! Pracovní smlouva s tímto asistentem vypršela. Chceš smlouvu prodloužit?]]></item>
+ </category>
+ <category name="zoo.premium.elixir">
+  <item name="zoo.premium.elixir.title"><![CDATA[Esence z tolije]]></item>
+  <item name="zoo.premium.elixir.text"><![CDATA[Tajný recept nasazený při chovu zkracuje chovný proces o 50%]]></item>
+ </category>
+ <category name="zoo.premium.breedingLab">
+  <item name="zoo.premium.breedingLab.title"><![CDATA[Chovná stanice]]></item>
+  <item name="zoo.premium.breedingLab.text"><![CDATA[Umísti do své hlavní nebo utajené zoo chovnou stanici, abys mohl chovat vzácná zvířata.]]></item>
+ </category>
+ <category name="zoo.premium.nursery">
+  <item name="zoo.premium.nursery.title"><![CDATA[Zvířecí školka]]></item>
+  <item name="zoo.premium.nursery.text"><![CDATA[Umísti do své hlavní nebo utajené zoo chovnou stanici, ať mají tvá mláďat kde vyrůstat.]]></item>
+ </category>
+ <category name="zoo.premium.assist.title">
+  <item name="zoo.premium.assist.title.0"><![CDATA[Zástupce David]]></item>
+  <item name="zoo.premium.assist.title.1"><![CDATA[Krmič Honza]]></item>
+  <item name="zoo.premium.assist.title.2"><![CDATA[Napáječ Pavel]]></item>
+  <item name="zoo.premium.assist.title.3"><![CDATA[Uklízeč Slávek]]></item>
+  <item name="zoo.premium.assist.title.4"><![CDATA[Chovatelka Soňa]]></item>
+  <item name="zoo.premium.assist.title.5"><![CDATA[Popelář Jirka]]></item>
+  <item name="zoo.premium.assist.title.6"><![CDATA[Kešík, finanční asistent]]></item>
+  <item name="zoo.premium.assist.title.7"><![CDATA[Dr. Lynn]]></item>
+  <item name="zoo.premium.assist.title.8"><![CDATA[Jindra]]></item>
+  <item name="zoo.premium.assist.title.9"><![CDATA[Matěj]]></item>
+  <item name="zoo.premium.assist.title.10"><![CDATA[Franta]]></item>
+  <item name="zoo.premium.assist.title.11"><![CDATA[Janička]]></item>
+ </category>
+ <category name="zoo.premium.assist.infoText">
+  <item name="zoo.premium.assist.infoText.0"><![CDATA[Zaměstnáš-li 6 asistentů (vyjma Dr. Lynn), spoluředitel ti pomůže s personálem. Jednoduše na ně klikni a všichni se dají hned do práce.]]></item>
+  <item name="zoo.premium.assist.infoText.1"><![CDATA[Krmič Honza se stará o to, aby tvá zvířata byla vždy nakrmená - pokud máš ovšem dostatek zoogrošů na pokrytí těchto nákladů.]]></item>
+  <item name="zoo.premium.assist.infoText.2"><![CDATA[Klikni na Pavla a ten se postará o napojení zvířat - pokud máš ovšem dostatek zoogrošů na pokrytí těchto nákladů.]]></item>
+  <item name="zoo.premium.assist.infoText.3"><![CDATA[Uklízeč Slávek se stará o hygienu a čistotu tvých zvířat. Když na něj klikneš, vyčistí ti výběhy a zajistí útulný domov pro tvá zvířata.]]></item>
+  <item name="zoo.premium.assist.infoText.4"><![CDATA[Chovatelka Soňa pečuje o tvá zvířata, objímá je a nabízí jim lásku, kterou si zaslouží. Klikni na ni a sleduj ji při práci!]]></item>
+  <item name="zoo.premium.assist.infoText.5"><![CDATA[Jirka svědomitě zametá každou cestičku a žádný odpadkový koš mu neunikne. Pořádek přece musí být. Najmi si ho jedním kliknutím a hned se dá do práce!]]></item>
+  <item name="zoo.premium.assist.infoText.6"><![CDATA[Šikovný opičák Kešík to s čísly umí. Klikni na něj a sebere za tebe tržbu ze všech budov v zoo!]]></item>
+  <item name="zoo.premium.assist.infoText.7"><![CDATA[Doktorka Lynn je zodpovědná za zdraví tvých zvířat. Když na ni klikneš, dodá všem nemocným zvířatům vhodné léky!]]></item>
+  <item name="zoo.premium.assist.infoText.8"><![CDATA[Klikni na Jindru a ten nakrmí všechny tvé mořské živočichy! Řasy, planktony nebo rybí žrádlo - Jindra ví co dělat!]]></item>
+  <item name="zoo.premium.assist.infoText.9"><![CDATA[Matěj vždy drží v ruce hadici! Klikni na něj a naplní ti nádrže na vodu, ale ujisti se, že máš dostatek zdrojů na pokrytí nákladů!]]></item>
+  <item name="zoo.premium.assist.infoText.10"><![CDATA[Franta je bazénový technik. Klikni na něj a vyčistí ti vodní plochy, vymění filtry a zajistí, aby byla voda čistá a bezpečná pro všechna zvířata.]]></item>
+  <item name="zoo.premium.assist.infoText.11"><![CDATA[Janička je trenérka mořských savců. Hraje si se zvířaty a učí je různé triky! Klikni na ni a najmi si ji.]]></item>
+ </category>
+</language>

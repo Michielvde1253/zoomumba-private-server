@@ -1,0 +1,3 @@
+zoo.settings;zoo.settings.general;zoo.settings.general.decimalSeparator
+zoo.settings;zoo.settings.general;zoo.settings.general.numberSeparator
+zoo.settings;zoo.settings.general;zoo.settings.general.numberSepMinDigits

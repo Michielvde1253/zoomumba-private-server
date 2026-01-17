@@ -1,0 +1,24 @@
+Ahoj, řediteli zoo!<br>Tady si můžeš hru ZooMumba individuálně nastavit, jak si přeješ! Měj hru takovou, jaká Tě bude nejvíce bavit!
+zap.
+vyp.
+nízká
+střední
+vysoká
+Grafika
+Kvalita
+Upravit účet
+Tady můžeš upravit údaje svého herního účtu, např. svoji emailovou adresu.
+Tooltipy
+Návštěvníci
+Přání návštěvníků
+Zvuk
+Hudba
+Zvukové efekty
+upravit
+konto
+Konfigurace
+Hlavní budova
+Vyber si podle svého vkusu vchodovou budovu zoo. Máš k dispozici hlavní budovy v závislosti na Tvém levelu.<br>Tak bude Tvá zoo více a více přizpůsobená jen Tobě!
+Animace
+Počet animací zvířat
+Vyrovnávací paměť

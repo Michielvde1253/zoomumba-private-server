@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.eventValentine.comic">
+  <item name="zoo.eventValentine.comic.1"><![CDATA[Vítejte při naší Svato-Valentýnské události! Od 8.2. do 15.2. tady bude ta správná romantická atmosféra! Pobav se při naší Svato-Valentýnské hře a těš se na spoustu skvělých cen!]]></item>
+  <item name="zoo.eventValentine.comic.1.1"><![CDATA[Mrkni, jak na to:]]></item>
+  <item name="zoo.eventValentine.comic.2"><![CDATA[Starej se o svá zvířata a sbírej při tom svato-valentýnské předměty: Srdce, Zamilovaná psaníčka a Amorovy šípy a luk. S nimi můžeš během romantické Svato-Valentýnské hry vyhrát rozkošná překvapení!]]></item>
+  <item name="zoo.eventValentine.comic.3"><![CDATA[Se svými nasbíranými předměty se můžeš pohybovat po hracím poli a sbírat tak výhry.: Čekají na tebe majestátní jeleni a zásoby esence z tolije a růstových lektvarů!]]></item>
+  <item name="zoo.eventValentine.comic.3.1"><![CDATA[Mrkni také do obchodu - najdeš tam užitečné posilovače, které ti zajistí ještě větší úspěch a zábavu ve hře!]]></item>
+ </category>
+ <category name="zoo.eventValentine.tooltip">
+  <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Po dobu 1 hodiny zdvojnásobuje počet svato-valentýnských předmětů.]]></item>
+  <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Znovu spustit deskovou hru]]></item>
+ </category>
+ <category name="zoo.eventValentine.layer">
+  <item name="zoo.eventValentine.layer.end"><![CDATA[Naše Svato-Valentýnská událost je téměř u konce! Nadále už nebudeš dostávat žádné luky, psaní nebo srdíčka. Ale nevzdávej to! Na výhru valentýnských odměn máš ještě tolik času:]]></item>
+  <item name="zoo.eventValentine.layer.restart"><![CDATA[Nyní, když už jsi vyhrál jelena s laní, můžeš deskovou hru spustit znovu! Jednoduše klikni na zelenou fajfku nebo na nové tlačítko na hrací desce!]]></item>
+ </category>
+</language>

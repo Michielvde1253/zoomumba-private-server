@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.window.waterstorehouse">
+  <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Vodní věž]]></item>
+  <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Budova skladu]]></item>
+  <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Zvířata potřebují hodně vody. Rozšiř svoji vodní věž stupeň po stupni a ujisti se, že máš s rostoucí zoo dostatek vody pro všechny.]]></item>
+  <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Tvá zvířata potřebují hodně krmiva. Rozšiř svůj sklad stupeň po stupni a ujisti se, že máš s rostoucí zoo dostatek krmiva pro všechny.]]></item>
+  <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Bravo! Rozšířil jsi sklad až do maximálního stupně.]]></item>
+  <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[Bravo! Rozšířil jsi vodní věž až do maximálního stupně.]]></item>
+  <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Aktuální stupeň rozšíření: %have% / %max%]]></item>
+  <item name="zoo.window.waterstorehouse.bartext.water"><![CDATA[Aktuální kapacita vodní věže]]></item>
+  <item name="zoo.window.waterstorehouse.bartext.store"><![CDATA[Aktuální kapacita skladu]]></item>
+  <item name="zoo.window.waterstorehouse.buy.titel"><![CDATA[Rozšířit]]></item>
+  <item name="zoo.window.waterstorehouse.buy.text"><![CDATA[Chtěl bys<br>rozšířit své zoo?]]></item>
+  <item name="zoo.window.waterstorehouse.buy.upgraderc"><![CDATA[Rozšířit za zoodolary]]></item>
+  <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Rozšířit za zoogroše]]></item>
+  <item name="zoo.window.waterstorehouse.buy.nextcap"><![CDATA[Nová velikost:]]></item>
+ </category>
+</language>

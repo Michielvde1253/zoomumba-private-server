@@ -1,0 +1,14 @@
+Vodní věž
+Budova skladu
+Zvířata potřebují hodně vody. Rozšiř svoji vodní věž stupeň po stupni a ujisti se, že máš s rostoucí zoo dostatek vody pro všechny.
+Tvá zvířata potřebují hodně krmiva. Rozšiř svůj sklad stupeň po stupni a ujisti se, že máš s rostoucí zoo dostatek krmiva pro všechny.
+Bravo! Rozšířil jsi sklad až do maximálního stupně.
+Bravo! Rozšířil jsi vodní věž až do maximálního stupně.
+Aktuální stupeň rozšíření: %have% / %max%
+Aktuální kapacita vodní věže
+Aktuální kapacita skladu
+Rozšířit
+Chtěl bys<br>rozšířit své zoo?
+Rozšířit za zoodolary
+Rozšířit za zoogroše
+Nová velikost:

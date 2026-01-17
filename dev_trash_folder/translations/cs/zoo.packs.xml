@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.packs.resources">
+  <item name="zoo.packs.resources.title.1"><![CDATA[Balíček se superkrmivem "Dobrý začátek"]]></item>
+  <item name="zoo.packs.resources.text.1"><![CDATA[Tento balíček obsahuje 40 jednotek superkrmiva a 5 tlapek. Dostaneš tím 40x dvojité BZ při krmení a zaznamenáš pokrok při zkrášlení svých výběhů!]]></item>
+  <item name="zoo.packs.resources.title.2"><![CDATA[Balíček se superkrmivem "Mistr"]]></item>
+  <item name="zoo.packs.resources.text.2"><![CDATA[Tento balíček obsahuje 125 jednotek superkrmiva a 20 tlapek. Dostaneš tím 125x dvojité BZ a zaznamenáš pokrok při zkrášlení svých výběhů!]]></item>
+  <item name="zoo.packs.resources.title.3"><![CDATA[Balíček se superkrmivem "Expert"]]></item>
+  <item name="zoo.packs.resources.text.3"><![CDATA[Tento balíček obsahuje 350 jednotek superkrmiva a 30 tlapek, ale také 5 dárků s 5 jednotkami superkrmiva pro 5 Tvých kamarádů. A tak mají z tohoto balíčku také užitek!]]></item>
+ </category>
+</language>

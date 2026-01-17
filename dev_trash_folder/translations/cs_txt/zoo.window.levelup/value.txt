@@ -1,0 +1,7 @@
+Level-up
+Bravo!   Dosáhl jsi level %level% a získal jsi tak nové možnosti ve hře:
+A získáš:
+Kromě toho jsi obdržel nové denní úkoly.
+Postup do vyššího levelu
+Bravo! Dosáhl jsi level %level% a ve hře se ti otvírá:
+V levelu %level% tě čeká:

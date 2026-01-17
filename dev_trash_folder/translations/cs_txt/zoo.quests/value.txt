@@ -1,0 +1,61 @@
+Denní úkoly
+Vyznamenání
+Sbírky
+V každé zoo je denně potřeba udělat spoustu práce: každá pomocná ruka se hodí! Ujmi se těchto denních úkolů a vyřiď je.
+Nové úkoly za:
+Denní úkoly
+Za malý poplatek tady můžeš získat nové denní úkoly. Chtěl bys?
+Úkol
+Odměna
+Zahájit\núkol
+Získat\nodměnu
+Přerušit\núkol
+Úkol
+Plníš už jiný úkol. Uzavři nejprve aktivní úkol, než se pustíš do dalšího.
+Storno
+Pokud přerušíš tento úkol, bude z tvého seznamu úkolů odstraněn. Chceš ho opravdu přerušit?
+Srdečně blahopřejeme!
+Svůj úkol jsi úspěšně dokončil a obdržíš následující odměnu:
+Příklady čtení
+Příklad 1: Rozděl 50 balíků krmiva mezi libovolná zvířata.<br>Příklad 2: Vychovej 2 lví mláďata.
+Dobře! Následující úkol jsi zvládl úspěšně:
+Mistr v mazlení
+Přítel zvířat
+Chovatelští experti
+Obchodník/obchodnice
+Mistr steaků
+Pořádek musí být
+Celozrnný fanoušek
+Dobrá práce
+Tráva je zábava
+Vitamínový závislák
+Čerstvá ryba  
+Hasič žízně
+Pomazli se se svými zvířaty %val%-mal.
+Vlastni %val% zvířat.
+Chovej %val% mláďat.
+Inkasuj %val%-násobek příjmů v zoogroších za tvé budovy.
+Zkrm %val%-násobek kusů masa.
+Vystav %val% odpadkový koš.
+Zkrm %val% obilí.
+Vydělej %val% XP vysypáním odpadkového koše.
+Zkrm %val% trávy.
+Zkrm %val% ovoce.
+Zkrm %val% ryb.
+Napoj svá zvířata %val% vody.
+Tvá zvířata se radují, neboť jsi uvolnil nový dílek puzzle v bronzové sadě.
+Tvá zvířata se radují, neboť jsi uvolnil nový dílek puzzle ve stříbrné sadě.
+Tvá zvířata se radují, neboť jsi uvolnil nový dílek puzzle ve zlaté sadě.
+Tvá zvířata se radují, neboť jsi uvolnil nový dílek puzzle v platinové sadě.
+Jdi teď do svého okna s úkoly, aby sis prohlédl obrázek!
+Bronzová sada 
+Stříbrná sada
+Zlatá sada
+Platinová sada
+Srdečně blahopřejeme! Úspěšně jsi splnil všechny úkoly v bronzové sadě a obdržíš zato následující odměny:
+Srdečně blahopřejeme! Úspěšně jsi splnil všechny úkoly ve stříbrné sadě a obdržíš zato následující odměny:
+Srdečně blahopřejeme! Úspěšně jsi splnil všechny úkoly ve zlaté sadě a obdržíš zato následující odměny:
+Srdečně blahopřejeme! Úspěšně jsi splnil všechny úkoly v platinové sadě a obdržíš zato následující odměny:
+Jdi nyní do svého okna s úkoly, aby sis prohlédl zcela uvolněný obrázek!
+Příklady čtení
+Příklad 1: Zkrm 50x krmivo mezi libovolná zvířata.<br>Příklad 2: Vychovej 2 lví mláďata.

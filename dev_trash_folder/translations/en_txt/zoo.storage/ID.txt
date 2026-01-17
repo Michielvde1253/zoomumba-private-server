@@ -1,0 +1,12 @@
+zoo.storage;zoo.storage.moreSpace;zoo.storage.moreSpace.title
+zoo.storage;zoo.storage.moreSpace;zoo.storage.moreSpace.text
+zoo.storage;zoo.storage.firstExpansion;zoo.storage.firstExpansion.title
+zoo.storage;zoo.storage.firstExpansion;zoo.storage.firstExpansion.text
+zoo.storage;zoo.storage.buy;zoo.storage.buy.belowWater
+zoo.storage;zoo.storage.buy;zoo.storage.buy.belowFood
+zoo.storage;zoo.storage.buy;zoo.storage.buy.maxWater
+zoo.storage;zoo.storage.buy;zoo.storage.buy.maxFood
+zoo.storage;zoo.storage.capacity;zoo.storage.capacity.title
+zoo.storage;zoo.storage.capacity;zoo.storage.capacity.text
+zoo.storage;zoo.storage.capacity;zoo.storage.capacity.water
+zoo.storage;zoo.storage.capacity;zoo.storage.capacity.food

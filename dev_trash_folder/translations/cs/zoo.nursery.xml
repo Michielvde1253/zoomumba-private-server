@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.nursery">
+  <item name="zoo.nursery.info"><![CDATA[Ahoj, já jsem Týna a starám se o tvá mláďata. V mojí zvířecí školce vyrůstají v dospělá zvířata. Zvol si ze svého inventáře mládě, které chceš nechat vyrůst.]]></item>
+ </category>
+ <category name="zoo.nursery.tooltip">
+  <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Připraven k růstu]]></item>
+  <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Zde zrovna vyrůstá mládě.]]></item>
+  <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Tvé mládě vyrostlo!]]></item>
+ </category>
+ <category name="zoo.nursery.button">
+  <item name="zoo.nursery.button.raise"><![CDATA[Vychovat]]></item>
+  <item name="zoo.nursery.button.elixir"><![CDATA[Použij esenci]]></item>
+  <item name="zoo.nursery.button.instantRaise"><![CDATA[Vychovat ihned]]></item>
+ </category>
+ <category name="zoo.nursery.layer">
+  <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Odchov zvířat]]></item>
+  <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+  <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Zbývající čas:]]></item>
+  <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Vychovat ihned]]></item>
+  <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Než bys řekl švec, bude tvůj drobek dospělý!]]></item>
+  <item name="zoo.nursery.layer.elixir.text"><![CDATA[Růstový lektvar zkracuje dobu odchovu o 50 %. ]]></item>
+  <item name="zoo.nursery.layer.success"><![CDATA[Jupíí! Toto mládě vyrostlo a bylo přesunuto do tvého inventáře:]]></item>
+  <item name="zoo.nursery.layer.inventorize"><![CDATA[Pozor: Zde zrovna vyrůstá mládě! Když přesuneš školku do inventáře, bude proces přerušen. Opravdu chceš provést přesun ihned?]]></item>
+  <item name="zoo.nursery.layer.sellNursery"><![CDATA[Pozor: Zde zrovna vyrůstá mládě! Když školku nyní prodáš, bude proces přerušen. Opravdu chceš školku prodat ihned?]]></item>
+ </category>
+</language>

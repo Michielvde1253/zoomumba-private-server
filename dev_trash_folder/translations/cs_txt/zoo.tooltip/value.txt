@@ -1,0 +1,218 @@
+Pro přehled o Tvé <br>kapacitě vodárenské věže a budově skladu klikni sem.
+Už jsi dosáhl limitu
+Ještě ti chybí %xp bodů<br>do dalšího levelu.
+Kliknutím levým tlačítkem myši zkopíruješ uživatelské údaje do schránky
+Klikni pro další informace.
+Tady vidíš, kolik máš zoogrošů.
+Tady vidíš, kolik máš zoodolarů.
+Potřebuješ pomoc? Tutoriál ti ukáže, jak na to.
+Logout
+Tady najdeš nastavení<br>tvojí zoologické zahrady.
+Očekáváš opravdové zvuky zoo?<br>Tak poslouchej!
+Někdy potřebuješ pohled z větší blízkosti.<br>Přibliž si každý výběh!
+Klikni zde k zobrazení nebo zakrytí horní lišty!
+Klikni zde k zobrazení nebo zakrytí dolní lišty!
+Oj, to je blízko! To by mohlo být nebezpečné!<br>Raději trochu ustup, aby tě nějaké zvíře nepokousalo!
+Dokonalý přehled! Tady vidíš celou zoo jako na dlani!
+Každá zoo potřebuje reklamu. Udělej si tady fotku, abys mohl lákal návštěvníky.
+V obchodě najdeš vše, co potřebuješ,<br> aby se tvoje zoo proslavila a přitahovala návštěvníky.
+Kup si tady zvířata pro svoji zoo.<br>Ale předtím musíš postavit výběh, aby zvíře mělo kde bydlet.<br>Důležité: Rozhodni se, jestli si chceš koupit <br>samečka nebo samičku.
+Čím víc hvězdiček, tím exkluzivnější a exotičtější je dané zvíře.
+Body atraktivity
+Potřebuješ k tomu %neededExpansion% rozšíření zoo.<br> Momentálně máš jen %userExpansion%rozšíření zoo.<br> Aby sis tento předmět mohl koupit, musíš rozšířit svou zoo.
+Tuto položku už vlastníš. Podívej se do inventáře.<br> Pro jeho otevření klikni sem.
+Různá zvířata potřebují také různá životní prostředí. Vyber si tady výběh,<br> ve kterém má žít tvoje zvíře. Jednoduše ho kup a umísti v zoo.
+Tyto budovy nejenom skvěle vypadají,<br>ale navíc ještě plní pokladnu.<br>Tady najdeš vše, po čem touží návštěvníci zoo.
+V opravdové zoo musí také panovat odpovídající atmosféra. Různé dekorativní předměty<br> jistě zvětší atraktivitu tvojí zoo.
+Máš ještě dost krmiva? Podívej se sem! Pokud ti krmivo dochází,<br> klikni na "Koupit" a doplň rychle svoje zásoby.
+Ředitelé zoo mají plné ruce práce!<br> Tito pomocníci převezmou mnoho tvých závazků!
+Propoj svoje výběhy a atrakce pomocí chodníků, <br>aby se návštěvníci mohli všude dostat.
+Tento předmět nemůžeš bohužel<br>v této části zoo použít.
+Posouvej nebo obracej svoje výběhy<br>a budovy nebo je prodávej.
+Přemístit
+Ještě potřebuješ (počet: %amount%) vajíček
+Potřebuješ %amount% (počet: %collectable%)
+Kup si (počet: %amount%) velikonočních vajíček zde.
+Kup si %amount% náhodných předmětů zde.
+Obrátit
+Prodat
+Herní režim
+Do inventáře
+Všechno do inventáře
+Máš málo peněz?<br>Tak zajdi do banky!
+Ředitel zoo má mnoho práce.<br>Tady najdeš svoje úkoly!
+Tato funkce ještě momentálně není aktivní.
+Zaměstnej tady pomocníky pro svou zoo.
+Tady najdeš svoji zoo-poštu: Pošli zprávy svým kamarádům,<br>využívej bonusové kódy a sbírej trofeje. 
+Ve svém zoo-skladu najdeš předměty, které jsi nasbíral během hry.
+Klikni sem pro rozložení nebo sklopení zoometru.
+Na zoometru vlevo uvidíš, jak atraktivní je tvoje zoo.<br>Klikni sem a získáš detailní informace<br> k atraktivitě zoo a tipy na její vylepšení.
+Atraktivita tvé zoo je právě %attraction%.<br> Tvoje zoo má aktuální příjem přibližně %moneyMainBuilding% zoogrošů za hodinu.
+Atraktivita tvé zoo je právě %attraction%.<br> Klikni sem, abys viděl příjmy zoogrošů.
+S budovami v tvé zoo vyděláváš momentálně %storemoney% zoogrošů za hodinu.<br>Klikni sem, ať vidíš počet návštěvníků.
+%visitors% návštěvníků za hodinu.<br> Klikni sem, ať vidíš atraktivitu tvé zoo.
+Chybí spojení s cestou!
+Zaměstnáváš-li 6 asistentů (vyjma Dr. Lynna),<br>bude automaticky aktivní spoluředitel. Klikni na něj a 6 pomocníků<br>se dá hned do práce.
+Honza, asistent krmení
+Super krmivo: Klikni sem a Honza nakrmí zvířata <br>superkrmivem a automaticky ho pro tebe i nakoupí!
+Nejlepší krmivo: Klikni sem a Honza nakrmí zvířata <br>tím nejlepším krmivem a automaticky ho pro tebe i nakoupí!
+Pavel, asistent napájení
+Slávek, uklizeč
+Soňa, chovatelka
+Jirka, popelář
+Kešík, finanční asistent
+Dr. Lynn, veterinářka
+Podání super léku: Klikni zde a paní doktorka Lynn vyléčí tvá zvířata<br>super lékem a také ho automaticky nakoupí, až se spotřebuje!
+Jindra, krmič ryb
+Matěj, expert na vodu
+Franta, bazénový technik
+Janička, trenérka mořských savců
+Pošli zprávy svým přátelům<br>nebo si čti zprávy, které ti poslali.
+Máš bonusový kód? <br>Tak si ho tady vyber!
+Otevřít novinky
+Nemáš chuť hrát sám?<br/> Pozvi své přátele.
+Stáhnout toolbar
+Možný chov zvířat
+Chov zvířat ukončen
+Kup si další pokus!
+Tudy se dostaneš do skryté zoo.
+Tudy se dostaneš do zoo
+Tudy se dostaneš na mapu zoo
+Tudy do hlavní zoo
+Velikonoční pomocnice Soňa
+30% booster BZ
+100% booster BZ
+30% booster tlapek
+100% booster tlapek
+30% booster zoogrošů
+100% booster zoogrošů
+Balíček BZ
+Balíček tlapek
+Otevři menu s bonusem
+Zavři menu s bonusem
+Breeding Upgrade
+Poslat zprávu tomuto hráči
+Odpovědět
+Smazat zprávu
+Přidat hráče do adresáře
+Odstranit hráče z adresáře
+V tvé zoo si teď můžeš vyzvednout %waitingPP% zoogrošů.
+Během tvé nepřítomnosti navštívilo zoo <br>%visitorsAbsence% návštěvníků.
+Momentálně navštíví tvou zoo každou hodinu <br>%CurrentVisitorsPerHour% návštěvníků.
+Mistr mazlík
+Tvá zvířata potřebují hodně lásky,<br> měl bys ses tedy se všemi jednou pěkně důkladně pomazlit.<br>Klikni na výběh a pak na symbol medvídka.
+Přítel zvířat:
+Skutečný přítel zvířat má rád všechna zvířata a drží<br>je ve skupině, aby nebyla sama.
+Chovatelští experti:
+Pouze tehdy, pokus se tvá zvířata budou cítit zcela v pohodě,<br>budou mít mladé.
+Obchodník/obchodnice:
+Aby tvá zvířata nešilhala<br>hlady, potřebuješ příjmy ze svých budov.<br>Rychle, nasbírej je kliknutím, jakmile se<br>objeví značka zoogrošů!
+Mistr steaků:
+Tví dravci ocení pořádný<br>kus masa na zub. Nakrm je!
+Pořádek musí být:
+Tví návštěvníci mají rádi čisté zoo,<br>přesto dělají nepořádek v každém koutě.<br> Předejdi tomu a vystav koše na odpadky.
+Celozrnný fanoušek:
+Nyní si přijdou na své fanoušci obilí.<br> Nakrm zvířata, která mají ráda obilí.
+Dobrá práce:
+Jakmile jsou odpadkové koše plné,<br>měl bys je rychle vyprázdnit, jinak smrdí
+Tráva je zábava:
+Chutná, šťavnatá, zelená tráva.<br> Tu má rada spousta zvířat.<br>Udělej jim radost a nakrm býložravce.
+Vitamínový závislák:
+Naservíruj milovníkům ovoce mezi<br>tvými zvířaty skvělý ovocný koktejl.
+Čerstvá ryba:
+Teď se servíruje ryba:<br>Od smažené ryby s hranolky až po filé z candáta,<br>konzumenti ryb mezi tvými zvířaty se na ně těší!  
+Hasič žízně:
+Veselá mokrá vodní bitva pro všechna zvířata:<br>Každý musí pít, od vodní myši až po obyvatele pouště.
+Klikni sem, aby ses dostal do svého okna s úkoly.
+Pokračovat dalším krokem
+Další tipy
+Skrýt tip
+Přeskočit tento krok
+Okno nejdříve skrýt
+Otevřít seznam přátel
+Zavřít seznam přátel
+ID hráče: %friendId% <br>Jméno hráče: %friendname% <br>Level: %friendlevel%
+Tvůj kamarád (kamarádka) %friendname% má také zoo. Navštiv ji!
+ID hráče: %friendId%<br>Přezdívka: %friendname%<br>XP: %friendXP% 
+Hlavní budova (level 1-9)
+Hlavní budova (level 10-29)
+Hlavní budova (level 20-29)
+Hlavní budova (level 30-39)
+Hlavní budova (level 40+)
+Hlavní budova SevenGames
+Hlavní zoo
+Skryté zoo
+Nové zoo
+Zoo na břehu řeky
+Zoo na pobřeží
+Klikni sem a posbírej vstupné.
+Tudy k podmořskému světu
+Tudy na safari
+Tudy k výběru hlavní budovy
+Tudy se jde k avatarovi
+Tudy se dostaneš do skryté zoo.
+Tudy se dostaneš do zoo na břehu řeky
+Tudy se dostaneš do zoo na pobřeží
+Tudy se dostaneš do řídícího centra
+Tudy do Podmořského světa
+Tudy se dostaneš do zoo
+Klikni sem k výběru vstupného<br> ze skryté zoo.
+Tudy ke kolu štěstí!
+Kolo štěstí je teď k dispozici od 3. levelu.
+Tudy se dostaneš ke sběratelskému albu.
+Tudy se dostaneš k odměnám.
+Zvířata
+Výběhy
+Asistenti
+Tady vidíš, kolik<br>zoodolarů a zoogrošů vlastníš.
+Tady vidíš, kolik<br>nástrojů a tlapek vlastníš.
+Klikni k otevření nastavení.
+Momentálně máš %currentxp% BZ.<br>Do dalšího levelu potřebuješ ještě %xp% BZ.
+Tady vidíš kolik <br>odpadu a tlapek vlastníš.
+Zde vidíš, kolik máš odpadu a <br>kolik máš perel.
+Můžeš se podívat ještě na %count% videí.
+Klikni zde pro shlédnutí videí, za které obdržíš odměnu.
+Aktualizovat
+Zamítnout žádost o přátelství
+Zde vidíš chovatelský stupeň tvého zvířete. Čím vyšší chovatelský stupeň, tím větší pokrok zvířata přináší.
+Putovní cirkus je na určitý čas zpět na farmě. Tvoje šance získat vzácná zvířata a několik beden!
+Zvířecí mobil je tady! Běž se podívat a využij svoji šanci chovat vzácná zvířata!
+Chov dvojčat: Během akce chovu dvojčat získáš v chovné stanici dvě mláďata!
+Lukáš, ředitel zoo, přijel na návštěvu! Během akce výměny zvířat můžeš chovat zvířata a vyměnit je za vzácnější plemena.
+Valentýnská akce: Vyhraj romantické ceny! Sbírej vyskakující předměty a dodej je. Prodej zvířata z tvého inventáře a pracuj společně s ostatními řediteli zoo a získejte skvělé ceny za zdolání plyšové hory!
+Zoo pošta
+Vodní věž
+Dílna
+Zoo banka
+Budova skladu
+Chovná stanice
+Úkoly
+Putovní cirkus
+Zvířecí školka
+Kino
+Mlýn
+Kolo štěstí
+Safari
+Ukazatel
+Recyklační zařízení
+Dílna
+Pošli zprávy, použij bonusové kódy a sbírej trofeje.
+Vytvoř více místa pro tvoji vodní zásobu.
+Již brzy: Výroba produktů
+Vyber peníze z banky nebo použij výhodné balíčky.
+Vytvoř více místa pro krmivo.
+Chovej zvířecí poddruhy od 5. levelu.
+Splň denní úkoly, sbírej odměny a vyznamenání.
+Putovní cirkus má spoustu vzácných živočichů. Obstarej si nějaké pro své zoo, až se zase zastaví.
+Od 5. levelu můžeš poslat svá mláďata do školky (pouze pro chov zvířat).
+Sleduj až 3 filmy denně.
+Již brzy: Vyrob speciální krmivo
+Od 3. levelu si můžeš zatočit na kole štěstí. Tip: Každý den, který se přihlásíš, si můžeš zatočit zdarma!
+Od 7. levelu můžeš mít safari a vyhrát tak super ceny a nová zvířata!
+Zpět k zoo
+Použij suroviny z odpadu a vyrob cenné stavební materiály.
+Postav nové předměty pro tvé zoo, aby bylo ještě více atraktivní a jedinečné.
+Tato budova není momentálně přístupná.
+Pro přístup do budovy %building% musíš mít alespoň level %level%. 
+Pro přístup do budovy %building% musíš mít alespoň level %level%. Nebo získej okamžitý přístup za %zoodollar% zoodolarů.
+Zisky budou k dispozici k vyzvednutí za %time%.

@@ -1,0 +1,16 @@
+zoo.nursery;zoo.nursery.tooltip;zoo.nursery.tooltip.nurseryRaising
+zoo.nursery;zoo.nursery.tooltip;zoo.nursery.tooltip.nurseryEmpty
+zoo.nursery;zoo.nursery.tooltip;zoo.nursery.tooltip.nurseryDone
+zoo.nursery;zoo.nursery;zoo.nursery.info
+zoo.nursery;zoo.nursery.button;zoo.nursery.button.raise
+zoo.nursery;zoo.nursery.button;zoo.nursery.button.elixir
+zoo.nursery;zoo.nursery.button;zoo.nursery.button.instantRaise
+zoo.nursery;zoo.nursery.layer;zoo.nursery.layer.inProgress.title
+zoo.nursery;zoo.nursery.layer;zoo.nursery.layer.inProgress.text
+zoo.nursery;zoo.nursery.layer;zoo.nursery.layer.inProgress.time
+zoo.nursery;zoo.nursery.layer;zoo.nursery.layer.instantRaise.title
+zoo.nursery;zoo.nursery.layer;zoo.nursery.layer.instantRaise.text
+zoo.nursery;zoo.nursery.layer;zoo.nursery.layer.elixir.text
+zoo.nursery;zoo.nursery.layer;zoo.nursery.layer.success
+zoo.nursery;zoo.nursery.layer;zoo.nursery.layer.inventorize
+zoo.nursery;zoo.nursery.layer;zoo.nursery.layer.sellNursery

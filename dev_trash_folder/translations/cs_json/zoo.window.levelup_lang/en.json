@@ -1,0 +1,9 @@
+{
+    "zoo.window.levelup_lang;zoo.window.levelup;zoo.window.levelup.title": "Level-up",
+    "zoo.window.levelup_lang;zoo.window.levelup;zoo.window.levelup.info": "Bravo!   Dosáhl jsi level %level% a získal jsi tak nové možnosti ve hře:",
+    "zoo.window.levelup_lang;zoo.window.levelup;zoo.window.levelup.gainmoney": "A získáš:",
+    "zoo.window.levelup_lang;zoo.window.levelup;zoo.window.levelup.quests.renew": "Kromě toho jsi obdržel nové denní úkoly.",
+    "zoo.window.levelup_lang;zoo.window.levelup;zoo.window.levelup.v2.title": "Postup do vyššího levelu",
+    "zoo.window.levelup_lang;zoo.window.levelup;zoo.window.levelup.v2.info.level.current": "Bravo! Dosáhl jsi level %level% a ve hře se ti otvírá:",
+    "zoo.window.levelup_lang;zoo.window.levelup;zoo.window.levelup.v2.info.level.next": "V levelu %level% tě čeká:"
+}

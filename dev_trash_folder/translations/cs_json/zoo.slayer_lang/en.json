@@ -1,0 +1,23 @@
+{
+    "zoo.slayer_lang;zoo.slayer.friends;zoo.slayer.friends.title": "Přátelé",
+    "zoo.slayer_lang;zoo.slayer.friends;zoo.slayer.friends.message": "Pošli zprávu tomuto příteli",
+    "zoo.slayer_lang;zoo.slayer.friends;zoo.slayer.friends.delete": "Opravdu chceš tohoto hráče vymazat ze tvého seznamu přátel?",
+    "zoo.slayer_lang;zoo.slayer.friends;zoo.slayer.friends.visit": "Navštiv zoo tvého přítele",
+    "zoo.slayer_lang;zoo.slayer.friends;zoo.slayer.friends.empty": "Zcela sám? Proč rychle nepozveš pár přátel, abyste si zahráli spolu? Víc lidí znamená víc zábavy!",
+    "zoo.slayer_lang;zoo.slayer.receivedInvites;zoo.slayer.receivedInvites.title": "Obdržené žádosti o přátelství",
+    "zoo.slayer_lang;zoo.slayer.receivedInvites;zoo.slayer.receivedInvites.accept": "Přijmout žádost o přátelství",
+    "zoo.slayer_lang;zoo.slayer.receivedInvites;zoo.slayer.receivedInvites.deny": "Zamítnout žádost o přátelství",
+    "zoo.slayer_lang;zoo.slayer.receivedInvites;zoo.slayer.receivedInvites.empty": "Bohužel nemáš žádné nové žádosti o přátelství.",
+    "zoo.slayer_lang;zoo.slayer.sentInvites;zoo.slayer.sentInvites.title": "Odeslané žádosti o přátelství",
+    "zoo.slayer_lang;zoo.slayer.sentInvites;zoo.slayer.sentInvites.empty": "Neodeslal jsi žádné žádosti o přátelství.",
+    "zoo.slayer_lang;zoo.slayer.add;zoo.slayer.add.title": "Pozvat přátele",
+    "zoo.slayer_lang;zoo.slayer.add;zoo.slayer.add.requested": "Bravo! Úspěšně jsi odeslal svou žádost o přátelství uživateli %useName%.",
+    "zoo.slayer_lang;zoo.slayer.add;zoo.slayer.add.text": "Už nechceš hrát hru ZooMumba sám a raději by sis užíval s jinými? Tak přizvi své přátele!",
+    "zoo.slayer_lang;zoo.slayer.add;zoo.slayer.add.byName": "Přizvi přátele hry ZooMumba.",
+    "zoo.slayer_lang;zoo.slayer.add;zoo.slayer.add.byName.message": "Sem vlož, prosím, hráčská jména svých přátel, kterým chceš odeslat žádost o přátelství.",
+    "zoo.slayer_lang;zoo.slayer.add;zoo.slayer.add.duplicated.message": "Při hledání jsme nalezli více než jedno hráčské jméno. Vyber, prosím, svého přítele z tohoto seznamu:",
+    "zoo.slayer_lang;zoo.slayer.add;zoo.slayer.add.self": "Nemůžeš přidat sám sebe do svého listu přátel!",
+    "zoo.slayer_lang;zoo.slayer.add;zoo.slayer.add.byMail": "Pozvi přátele emailem.",
+    "zoo.slayer_lang;zoo.slayer.add;zoo.slayer.add.byFB": "Pozvi přátele přes Facebook.",
+    "zoo.slayer_lang;zoo.slayer.add;zoo.slayer.add.button": "Pozvat"
+}

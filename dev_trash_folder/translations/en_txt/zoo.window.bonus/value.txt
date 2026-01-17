@@ -1,0 +1,10 @@
+Bonus code
+Do you have a ZooMumba bonus code? Simply enter it here and receive your bonus right away!
+Congratulations,
+Great, you entered the bonus code correctly and received your reward. We wish you lots of fun!
+Error
+Unfortunately, the bonus code is incorrect. Please check the code and try again.
+Error
+You’ve already claimed this bonus code.
+Error
+You’ve entered the bonus code incorrectly too many times. Please wait a few minutes before trying again.

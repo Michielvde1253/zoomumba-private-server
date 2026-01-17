@@ -1,0 +1,18 @@
+{
+    "zoo.nursery_lang;zoo.nursery;zoo.nursery.info": "Ahoj, já jsem Týna a starám se o tvá mláďata. V mojí zvířecí školce vyrůstají v dospělá zvířata. Zvol si ze svého inventáře mládě, které chceš nechat vyrůst.",
+    "zoo.nursery_lang;zoo.nursery.tooltip;zoo.nursery.tooltip.nurseryEmpty": "Připraven k růstu",
+    "zoo.nursery_lang;zoo.nursery.tooltip;zoo.nursery.tooltip.nurseryRaising": "Zde zrovna vyrůstá mládě.",
+    "zoo.nursery_lang;zoo.nursery.tooltip;zoo.nursery.tooltip.nurseryDone": "Tvé mládě vyrostlo!",
+    "zoo.nursery_lang;zoo.nursery.button;zoo.nursery.button.raise": "Vychovat",
+    "zoo.nursery_lang;zoo.nursery.button;zoo.nursery.button.elixir": "Použij esenci",
+    "zoo.nursery_lang;zoo.nursery.button;zoo.nursery.button.instantRaise": "Vychovat ihned",
+    "zoo.nursery_lang;zoo.nursery.layer;zoo.nursery.layer.inProgress.title": "Odchov zvířat",
+    "zoo.nursery_lang;zoo.nursery.layer;zoo.nursery.layer.inProgress.text": "Tento prcek bude ihned odchován:",
+    "zoo.nursery_lang;zoo.nursery.layer;zoo.nursery.layer.inProgress.time": "Zbývající čas:",
+    "zoo.nursery_lang;zoo.nursery.layer;zoo.nursery.layer.instantRaise.title": "Vychovat ihned",
+    "zoo.nursery_lang;zoo.nursery.layer;zoo.nursery.layer.instantRaise.text": "Než bys řekl švec, bude tvůj drobek dospělý!",
+    "zoo.nursery_lang;zoo.nursery.layer;zoo.nursery.layer.elixir.text": "Růstový lektvar zkracuje dobu odchovu o 50 %. ",
+    "zoo.nursery_lang;zoo.nursery.layer;zoo.nursery.layer.success": "Jupíí! Toto mládě vyrostlo a bylo přesunuto do tvého inventáře:",
+    "zoo.nursery_lang;zoo.nursery.layer;zoo.nursery.layer.inventorize": "Pozor: Zde zrovna vyrůstá mládě! Když přesuneš školku do inventáře, bude proces přerušen. Opravdu chceš provést přesun ihned?",
+    "zoo.nursery_lang;zoo.nursery.layer;zoo.nursery.layer.sellNursery": "Pozor: Zde zrovna vyrůstá mládě! Když školku nyní prodáš, bude proces přerušen. Opravdu chceš školku prodat ihned?"
+}

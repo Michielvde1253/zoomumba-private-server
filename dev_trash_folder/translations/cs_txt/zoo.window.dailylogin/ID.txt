@@ -1,0 +1,5 @@
+zoo.window.dailylogin;zoo.window.dailylogin;zoo.window.dailylogin.title
+zoo.window.dailylogin;zoo.window.dailylogin;zoo.window.dailylogin.info
+zoo.window.dailylogin;zoo.window.dailylogin;zoo.window.dailylogin.reward
+zoo.window.dailylogin;zoo.window.dailylogin;zoo.window.dailylogin.day
+zoo.window.dailylogin;zoo.window.dailylogin;zoo.window.dailylogin.eventshop

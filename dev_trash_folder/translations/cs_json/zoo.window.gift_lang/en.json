@@ -1,0 +1,11 @@
+{
+    "zoo.window.gift_lang;zoo.window.gift.superFeedPack;zoo.window.gift.superFeedPack.info": "Dnes v nabídce - balíčky se superkrmivem! Vyber si mezi 3 možnostmi: \"Dobrý začátek\", \"Mistr\" a \"Expert\". Jako expert můžeš poslat další dárky svým 5 přátelům. Neváhej!",
+    "zoo.window.gift_lang;zoo.window.gift.recipients;zoo.window.gift.recipients.headerGift": "Dárek",
+    "zoo.window.gift_lang;zoo.window.gift.recipients;zoo.window.gift.recipients.headerUsername": "Jméno hráče",
+    "zoo.window.gift_lang;zoo.window.gift.recipients;zoo.window.gift.recipients.headerUserID": "ID hráče",
+    "zoo.window.gift_lang;zoo.window.gift.recipients;zoo.window.gift.recipients.info": "Vyber 5 kamarádů a pošli každému dárek:",
+    "zoo.window.gift_lang;zoo.window.gift.recipients;zoo.window.gift.recipients.button.send": "Obdarovat",
+    "zoo.window.gift_lang;zoo.window.gift.unwrapped;zoo.window.gift.unwrapped.title": "To bude překvapení!",
+    "zoo.window.gift_lang;zoo.window.gift.unwrapped;zoo.window.gift.unwrapped.text.1": "Získal jsi následující dárek:",
+    "zoo.window.gift_lang;zoo.window.gift.unwrapped;zoo.window.gift.unwrapped.text.2": "Tvůj dárek bude odepsán z Tvého konta hned po rozbalení."
+}

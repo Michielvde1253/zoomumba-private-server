@@ -1,0 +1,13 @@
+zoo.window.bank;zoo.window.bank;zoo.window.bank.title
+zoo.window.bank;zoo.window.bank;zoo.window.bank.info
+zoo.window.bank;zoo.window.bank;zoo.window.bank.button.buyzoodollar.title
+zoo.window.bank;zoo.window.bank;zoo.window.bank.button.buyzoodollar.info
+zoo.window.bank;zoo.window.bank;zoo.window.bank.button.premium.title
+zoo.window.bank;zoo.window.bank;zoo.window.bank.button.premium.info
+zoo.window.bank;zoo.window.bank;zoo.window.bank.button.startpaket.title
+zoo.window.bank;zoo.window.bank;zoo.window.bank.button.startpaket.info
+zoo.window.bank;zoo.window.bank;zoo.window.bank.button.cashaction.title
+zoo.window.bank;zoo.window.bank;zoo.window.bank.button.cashaction.info
+zoo.window.bank;zoo.window.bank;zoo.window.bank.currency.title
+zoo.window.bank;zoo.window.bank;zoo.window.bank.currency.info
+zoo.window.bank;zoo.window.bank;zoo.window.bank.exchange.btnLabel

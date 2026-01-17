@@ -1,0 +1,836 @@
+Keř
+Několik keřů se postará o potřebnou zeleň ve tvé zoo a zkrášlí prostory mezi cestami a chodníky. Čím je tvůj park zelenější, tím lépe se zde cítí zvířata i návštěvníci!
+Lavička
+Au, au, jak bolí nohy! Po celém dni chození mezi výběhy už mají nohy dost. Taková lavička přímo vyzývá k odpočinku, a kdo si na ni sedne, může zblízka sledovat exotická zvířata.
+Fontána
+Pozooor! Tento porcelánový slon je opravdovým uměleckým dílem a vnese příjemnou atmosféru do tvé zoo. A navíc chrlí ze svého chobotu vodu, takže představuje dekorativní fontánu.
+Medvěd svobody
+Medvěd svobody ve tvé zoo! Zvířata všech druhů tady žijí pokojně spolu, aniž by si překážela.
+Rybník
+Takový rybník uklidňuje a uvolňuje, pravá oáza! Žije v něm mnoho malých zvířat, pro které nepotřebuješ žádný výběh. Návštěvníci zoo u rybníka rádi odpočívají.
+Hřiště
+Hřiště pro všechny děti, uličníky a malé rošťáky. Stále se tady něco děje!
+Jedle
+To je krásná vůně! Už jsi někdy zažil vůni jedlí ve volné přírodě? To je paráda! Pro tvou zoo jsou jedle optimální dekorací, protože zůstávají i v zimě zelené.
+Vodopád
+Jako ve volné přírodě! Vodopád změní tvoji zoo na park s divokými zvířaty s nádechem divočiny a dobrodružství.
+Palmy
+A co takhle nádech Karibiku? Tak neváhej a kup si palmy! Návštěva tvé zoo bude díky těmto nádherným palmám pravou dovolenou.
+Můstek
+Můstek nad jezírkem v parku, to je čistá romantika! Tato malá oáza vyzývá ke snění a dělá z výletu do zoo mimořádný zážitek.
+Květinový záhon
+Máš rád pestré květiny a výrazné barvy? Tak si obstarej hezký květinový záhon. Vypadá nejen roztomile, ale přitahuje také včely. Veselé bzučení oživí tvoji zoo.
+Dodo - socha
+Postav pomník pro vyhynulého blbouna nejapného! Tato socha z bílého italského mramoru je symbolem ochrany všech druhů zvířat a způsobí pozdvižení ve tvé zoo!
+Kvetoucí třešně
+Tento třešňový strom je po celý rok obsypán květy, takže se návštěvníci tvé zoo můžou cítit jako na slavnosti kvetoucích třešní v Japonsku.
+Bílý plot
+Bílý laťkový plot vypadá příjemně a upraveně. Dobrá věc, pokud se rozhodneš ohradit část své zoo.
+Totem
+Vinnetou, Apačové, orlí pera a divocí indiánští koně jsou tvojí vášní? V tom případě patří do tvé zoo také totem. Podle indiánské tradice je symbolem harmonie a spojení se zvířaty.
+Pouliční lampa
+Pouliční lampa ve staroanglickém stylu dodá tvojí zoo vznešenou atmosféru. Kdo by se tady necítil jako za starých viktoriánských časů?
+Baobab
+Mnoho tvých zvířat zná baobab ze svého přirozeného životního prostředí, ze Sahary. Díky baobabu se pro ně stane tvoje zoo rajskou zahradou.
+Balvan
+Tento hnědý bludný balvan je vzácným odkazem z poslední doby ledové.
+Trs trávy
+Je libo ještě trochu zeleně? Díky několika trsům trávy můžeš ze své zoo vytvořit divokou louku.
+Keřík
+Pro opravdové milovníky zeleně! Zasaď několik keříků a udělej ze své zoo pěkný park.
+Brémští muzikanti
+Ukaž, že máš srdce pro zvířata! Postav pomník čtyřem muzikantům z Brém! To je skutečně hezká socha!
+Obelisk
+Takový obelisk způsobí ve tvé zoo pozdvižení! Davy návštěvníků ho budou obdivovat a fotit se u něho.
+Papyrus
+Tato exotická bylina má dlouhou historii. Kdysi se používal k výrobě materiálu na psaní, ve tvé zoo je papyrus nádhernou dekorací.
+Malé jezírko
+Vodní plochy jsou oblíbené! Veselé šplouchání, romantické místečko... takové krásné jezírko bude jistě přitahovat pohledy návštěvníků tvé zoo.
+Kmen stromu
+Takový starý kmen stromu je velmi žádaný dekorativní objekt pro milovníky přírody. Nemusíš se stát přímo dřevorubcem, dovez si jednoduše kmen až sem!
+Stromek
+Někdy jde jen pěkný vzhled! Takový malý stromek na správném místě je tou pomyslnou třešničkou na dortu mezi tvými dekoracemi v zoo. Vyzkoušej to!
+Kaktus
+Chceš navodit atmosféru divokého západu? Tak potom pro tebe něco máme! Díky tomuto autentickému kaktusu se budeš cítit jako ve westernu!
+Kulatý kaktus
+Přišel jsi tomu na chuť a stavíš si vlastní westernové městečko? Nebo se ti prostě líbí kaktusy? Na tom nezáleží, o kulatý kaktus se snadno pečuje!
+Pouštní keře
+Trochu suché trávy a kámen z opravdové pouště, tím vneseš oblíbený westernový prvek do své zoo. Návštěvníkům se to bude jistě líbit!
+Týpí
+Týpí do tvé zoo vnese atmosféru indiánských kmenů a nespoutané divočiny z doby zlatokopů. Vinnetou, Old Shatterhand a Apačové dodnes inspirují všechny bez rozdílu věku.
+Ukazatel cesty
+Ztratil ses v rozlehlých stepích a žádný ranč na dohled? Za takový ukazatel v severoamerické divočině by skupina uprchlíků tehdy dala vše.
+Balík slámy
+Několik balíků slámy propůjčí tvé zoo nádech vesnické atmosféry. Jednoduché a tak účinné!
+Piknikový stolek
+Návštěvníci zoo si rádi udělají přestávku. Piknikový stolek je skvělá věc.
+Růžový keř
+Krásné růže propůjčí tvé zoo magickou atmosféru a jejich intenzivní barvy zaujmou kolemjdoucí návštěvníky.
+Motýli
+Návštěvníci zoo se nezajímají pouze o divoká zvířata. Tito krásní motýli poletují mezi výběhy a potěší děti i dospělé.
+Pavilon
+Jaký krásný pavilon! To je ideální místo pro romantické setkání! Jako stvořené pro zamilované.
+King Kong
+Akce! Wow, King Kong ve tvé zoo! Skvělé představení a křik na mrakodrapu Empire State Building.
+Studna pro zvířata
+Brouzdaliště! Tato dekorativní kamenná studna je ozdobena milými zvířátky.  Hezká dekorace ukáže návštěvníkům, jak moc ti leží na srdci atmosféra ve tvém zoo.
+Sněhulák
+Hurá! Sněží! Postav si sněhuláka a nech si díky němu zasněžit svou zoo. Klikni na sněhuláka, pokud chceš funkci sněžení spustit nebo zastavit.
+Vánoční stromek
+Čím by byly Vánoce bez vánočního stromku? S pěkně ozdobeným stromkem bude tvoje zoo v čase adventu vypadat opravdu vánočně. K dostání jen krátkou dobu!
+Perníkový panáček
+Takovému perníku nemůže nikdo odolat. Ou, tady už si někdo smlsnul! Je to prostě lahůdka, chceš také ochutnat? K dostání jen krátkou dobu!
+Labutí rybník
+Labuť plave majestátně po rybníce, který je velmi vzácný, a stává se tak exkluzivní dekorací Tvé zoo.
+Ohniště
+Zapomeň na každodenní šeď, odvaž se a užívej divoké přírody! U ohniště se z každého návštěvníka stane civilizací nespoutaný křovák nebo amazonka. Je to opravdová zábava pro všechny!
+Velký strom
+Jaký úžasný kmen, který patří nepřehlédnutelnému stromu s impozantní korunou. Ten nadchne všechny návštěvníky! Je tím pravým místem pro piknik.
+Bambus
+Tyto zelenající se rostliny rostou jako houby po dešti. Některé tohoto druhu patří k nejrychleji rostoucím rostlinám na světě. Bezpochyby budou pro návštěvníky lákadlem.
+Akácie
+Kuriozita gigantických rozměrů... na světě roste až 1450 druhů akácií! Jestli se všechny nechají vysadit do výběhů? Impozantní akácie bude v každém případě tou nejhezčí korunkou každé cestičky k výběhům.
+Cypřiše
+Na tyto stále zelené rostliny je opravdu spolehnutí. Od visících, s vysokou korunou přes sloupovité a rozmáchlé typy - existuje množství variant. Jedna je prostě hezčí než druhá.
+Kapradí
+Kapradí má rádo tmu a vlhko. Prospívá mu podnebí, které panuje v pralese. Ale právě, když svítí slunce, září jeho stébla obzvlášť lákavě.
+Mucholapka podivná
+Pěkně nechutné jméno pro hezkou rostlinu. Ale její označení není náhodné - jde koneckonců o masožravou kytku. Mouchy a mravenci, dejte si v její blízkosti pozor!
+Petrklíč
+Petrklíči se říká také primule. Jméno má podle květenství, které se podobá svazku klíčů. Jen se na něj pozorně podívej! Není to úžasné?
+Rákosí
+Rákos je tráva rozšířená po celém světě. Se svými dlouhými listy působí zajímavě a nikdo ji nepřehlédne. Roste nejčastěji na březích, kde má nejlepší podmínky k rozvinutí krásného květu.
+Srdíčková koule
+Srdíčka pro zvířata! Díky této láskyplné dekoraci k Tobě jako řediteli ZOO přiletí množství srdíček. Nedá se jim opravdu odolat, ale jsou k dostání bohužel jen krátkou dobu. Kliknutím na kouli se rozsypou po celé ZOO. Opětovné kliknutí záplavu srdíček zastaví.
+Růžová stolička
+Tady láska jen kvete! Kdo by tady nechtěl chvíli pobýt? Toto žádané místečko je po krátkou dobu k dostání v zoo-obchodě. Ach, jak romatické!
+Socha zlatého medvěda
+Něco exkluzivního a zvláštního. Jako poděkování mohou tohoto medvěda získat všichni obzvlášť pilní ředitelé zoo. Bude korunou Tvé zahrady.
+Zenová zahrada
+Inspirace z dálného východu. Zenová zahrada pocházející z Japonska přináší do Tvé zoo harmonii.  Návštěvníci ocení tuto oázu duševního klidu. Zhluboka nadechnout a meditace začíná: Ommm ...
+Paví křoví
+Chceš mít v zoo více barev? Pestrá kombinace křovin a květin ve formě páva se postará o dostatek vzrušení v Tvé ZOO.
+Zahrada s narcisy
+Jak pěkně voní jaro! Záplava žlutých květin dodá Tvé zoo nádech jara. A radost návštěvníků bude hned ještě větší!
+Velikonoční soška
+Pomník pro pilného velikonočního zajíce! Jeho podoba vytesaná do kamene se mu bude určitě líbit - a Tvým návštěvníkům také.
+Zahrada s tulipány
+Krásný růžový koberec tulipánů nadchne nejen na jaře! Tvoji návštěvníci jsou celí bez sebe, jak krásně květiny voní a i zvířata k nim s radostí přičichnou!
+Velikonoční narcisy
+Působivý záhon narcisů se postará o velikonoční náladu, ale je k dostání jen po omezenou dobu!
+Medvědí socha
+Medvědí mámy milují svá mláďata! Tato roztomilá socha je symbolem mateřské lásky. Návštěvníci přicházejí v houfech, aby si pomník prohlédli.
+Socha Buddhy
+Buddha vyzařuje klid a vyrovnanost. Návštěvníci mají rádi tuto mírumilovnou sochu a vracejí se pak spokojeně domů.
+Pagoda
+Návštěvníci si rádi odpočinou v této malé pagodě a poddávají se asijské atmosféře.
+Socha hokejisty
+Socha lvího hokejisty je oslavou finského hokejového týmu "Leijonat", který vyhrál v roce 2011 mistrovství světa. Srdečně blahopřejeme!
+Africká chalupa
+Pravá pralesní atmosféra v ZOO! V této chalupě ozdobené tiki maskami se Tví návštěvníci cítí jako v džungli.
+Sfinga
+Myslíš si, že mají sfingy citlivé nosy? Žádný strach - obzvlášť velký nos této sfingy je opravdovým radarem!
+Plán ZOO
+Tvoje ZOO se pěkně rozšiřuje. Při takovém množství atrakcí mohou návštěvníci lehce ztratit orientaci. Ale díky plánu ZOO teď přesně vědí, kam jít.
+Ptačí budka
+Víš už o tom? Ptáčci štěbetají v ptačí budce a rádi Ti poví, co je nového. Vyplatí se proto dobře poslouchat.
+Potopený chrám
+Dobrodružství přímo v ZOO! Kdo zahlédne v bažinách potopenou ruinu chrámu, nevyjde už z údivu.
+Srub
+Už jsi to slyšel? Srub je pěkná chaloupka ze dřeva a  příjemné místečko ke grilování!
+Narozeninová socha
+Z čeho má medvěd takovou radost? To je přece jasné! ZooMumba má narozeniny! O důvod víc k náladě na párty a pro exkluzivní medvědí sochu!
+Koalí skalka
+Kousek Austrálie ve Tvé zoo! Tato pěkná skalka se hodí obzvlášť pěkně ke koalímu výběhu.
+Narozeninový balón
+Ať žije ZooMumba! Tenhle pěkný vzdušný balón přitáhne zraky všech ke Tvé zoo! A náramně se hodí k narozeninám!
+Dělo se šampaňským
+Ať létají špunty! ZooMumba má už 10 mil. hráčů! Připíjíme na Vás všechny!
+Halloweenská pouliční lampa 
+Tato halloweenská pouliční lampa vrhá hrůzostrašně pěkné fialové světlo na cestičky ve tvé zoo. 
+Halloweenská lavička 
+Nabídni přece svým hostům místo na této strašidelné lavičce - pokud se odváží ... 
+Halloweenský strom 
+Tento pokroucený strom se strašidelně svíjí nad hlavami tvých hostů. To bude už u vchodu začátek strašidelné halloweenské zábavy.
+Halloweenská pouliční dýně
+Vše je připraveno: Strašidelné dýně s jejich veselými pokřivenými grimasami zdobí cestu k Halloweenu.
+
+
+
+
+Čarodějnická chatrč
+Hihihihihi, řehtají se čarodějnice.  Létají na svých metlách kolem čarodějnické boudy a straší návštěvníky.  Z toho má jeden husí kůži! 
+Vánoční vak
+Jako skvělý ředitel zoo si také zasloužíš extra velký vak s dárky. Hlavně si neužeň kýlu!
+Cukrové hůlky
+Sladké, lepivé a pěkné - kdo ti tuto ozdobu spořádá, bude potrestán bolestmi zubů!
+Cukrové hůlky
+Sladké, lepivé a pěkné - kdo ti tuto ozdobu spořádá, bude potrestán bolestmi zubů!
+Cukrové hůlky
+Sladké, lepivé a pěkné - kdo ti tuto ozdobu spořádá, bude potrestán bolestmi zubů!
+Ledová lavička
+Je tak pěkná a blyštivá, to si pak jeden nedělá nic z toho, že mu přimrzl zadek.
+Ledová lampa
+Nechej svá zvířata a výběhy rozzářit zimním světlem.
+Socha Santy
+Vlastní socha vytesaná z ledu - tady na sebe může být Santa opravdu pyšný!
+Louskáček na ořechy
+Tady se budou radovat nejen tví sloni, co tak tak rádi ořechy.
+Světelný sob
+Tisíc malých lampiček dělá z tohoto soba pravděpodobně nejblyštivějšího obyvatele tvých zoo.
+Vánoční stromeček 2011
+Vyrostla štíhlá jedlička...! Tvůj krásný nazdobený stromeček přiměje i tvá pouštní zvířata podlehnout zimní náladě!
+Vánoční stromeček 2011
+Vyrostla štíhlá jedlička...! Při pohledu na tvůj krásný nazdobený stromeček podlehnou zimní náladě i tvá pouštní zvířata!
+Vánoční stromeček 2011
+Vyrostla štíhlá jedlička...! Při pohledu na tvůj krásný nazdobený stromeček podlehnou zimní náladě i tvá pouštní zvířata!
+Vánoční stromeček 2011
+Vyrostla štíhlá jedlička...! Při pohledu na tvůj krásný nazdobený stromeček podlehnou zimní náladě i tvá pouštní zvířata!
+Vánoční stromeček 2011
+Vyrostla štíhlá jedlička...! Při pohledu na tvůj krásný nazdobený stromeček podlehnou zimní náladě i tvá pouštní zvířata!
+VIP ocenění
+Jedinečná, zářivá a otestovaná tučnáky - speciální cena pro toho nejoddanějšího hráče hry Zoomumba. Skutečný skvost!
+Australský outback - obchod
+Následuj klokana do australského outback obchodu nebo si ho přidej do své vlastní zoo. Přinesou tvému řediteli spoustu zoogrošů! 
+Piñata
+V Mexiku se tento roztomilý koník plní různými bonbóny a nechybí na žádné slavnosti.
+Dárek
+Na každých narozeninách jsou dárky, to je jasné! Zkrášli si své zoo slavnostními balíčky pro tu správnou atmosféru.
+Dárek
+Na každých narozeninách jsou dárky, to je jasné! Zkrášli si své zoo slavnostními balíčky pro tu správnou atmosféru.
+Dárek
+Na každých narozeninách jsou dárky, to je jasné! Zkrášli si své zoo slavnostními balíčky pro tu správnou atmosféru.
+Narozeninový dort
+Všechno nejlepší! Uspořádej narozeninovou párty se super narozeninovým dortem! Každé zvíře dostane kousek. Mňam!
+Protěž
+Vysoko v Alpách, obklopenou nejvyššími vrcholy, můžeš spatřit tuto krásnou květinu - protěž. Je velmi obtížné ji nalézt, za to je velmi cenná!
+Santův dům
+Víš, kde Santa Claus bydlí? Na severním pólu, samozřejmě! Jednou za rok obletí svět na svých saních a rozdává lidem a zvířatům dárky. Byl jsi letos hodný?
+Romantický piknik
+Co je více romantického než piknik v přírodě? Šťastný konec zaručen: návštěvníkům zoo se rozhoří srdíčka láskou!
+Balónek lásky
+Láska se šíří kolem! Někdy je prchlivá, jako tento balón. Když přijde, tak už ji nepusť!
+Červené růže
+Keř červených růží! Červená je jako láska! Rychle, vystav je! Možná si návštěvníci tajně pár utrhnou pro jejich milé?
+Zamilovaná žabka
+Kvak, kvak! Copak to leze z úst té žáby? Oh! To jsou srdíčka! Možná si tak žádá o polibek?
+Levandulové pole
+Sladká vůně levandule se vane venkovem. Levandule je skvělá na vaření a vypadá jednoduše nádherně.
+Eiffelova věž
+Majestátní Eiffelova věž se tyčí nad ostatními budovami. Tato ikonická stavba je jedna z nejznámějších památek ve Francii.
+Umělec z Montmartre
+Díky obratné a umělecké zdatnosti dokáže umělec vytvořit rychlé karikatury ze svých modelů. Kdo je další?
+Žluté tričko
+Tento malý tučňák udělal vše pro to, aby vyhrál další etapu Tour de France. Za odměnu získal žluté tričko!
+Francouzská trikolóra
+Ať žije Francie! Vztyčme francouzskou vlajku a přinesme do zoo trochu francouzské "joie de vivre"!
+Maďarská farma
+Tato maďarská farma má krásnou doškovou střechu a typický vchod lemovaný cihlami.
+Studna
+Zásoby podzemních vod v této krajině jsou velmi vysoké a studny jsou proto velmi praktické.
+Narozeninová girlanda
+Vyzdob všechny pěšinky v zoo narozeninovými girlandami.
+Narozeninové praporky
+Čas na výzdobu - vytvoříme krásné zoo se zářivými narozeninovými praporky!
+Narozeninová lavička
+Tady jsou dárky, tamhle jsou dárky, všude jsou dárky! Pár jich je i na lavičce. Pro koho jsou? Třeba je rozbalí návštěvníci zoo?
+Narozeninová lampa
+Pro tuto speciální příležitost jsou i lampy vyzdobené v tom nejlepším světle!
+Narozeninový stůl
+Tento narozeninový stůl je plný chutného jídla a výborného pití. To je hostina!
+Narozeninové stromečky
+Pod tímto stromem budou mít návštěvníci zoo dvojnásobnou zábavu.
+Plot z proutí
+Přidej do svého zoo venkovský šmrnc. Ručně vyrobený plot z proutí zkrášlí tvé zoo a dodá tradiční dojem.
+Sud
+Tento dřevěný sud obsahuje maďarské víno z kraje Balaton. Dřevo pomáhá docílit té správné chuti.
+Maďarská vlajka
+Maďarsko je krásná země s úrodnou oblastí kolem Dunaje. Maďarské tradice jsou známé po celém světě.
+Australská vlajka
+Australská vlajka kombinuje britskou vlajku, sedmicípou hvězdu a jižní kříž.
+Indická vlajka
+Existuje mnoho pravidel při zacházení s indickou vlajkou. Například - při východu slunce musí být vyvěšena a při západu svěšena.
+Náhrobní kámen
+Ááááááááá! Strašidelné scény se začínají objevovat po celé zoo. Jaká strašidelná tajemství čekají tvé zákazníky pod tímto náhrobním kamenem?
+Ektoplazmatická louže
+Slizká zelená ektoplazma se vaří v těchto loužích. Z této hmoty jsou duchové a je neuvěřitelně citlivá na světlo.
+Studna nářků
+Ve větru jsou slyšet strašidelné zvuky duchů... Možná se nám něco snaží říct...
+Chapadlová socha
+Je živá nebo mrtvá? Chapadlová socha je celá pokrytá substancí z želé, kterou sama vylučuje. Malá chapadla se po tobě sápají, fuj! Je určitě naživu!
+Rakev
+Kdopak to dělá ty zvuky ve studni? Jsou to duše zemřelých návštěvníků zoo? Jak se tam dostali? Na to raději ani nemyslet...
+Hrůzostrašné tykve
+Áááááá! Tyto obludné tykve určitě vylekají i tvé návštěvníky!
+Německá vlajka
+Německá vlajka má tři vodorovné pruhy v barvách černé, červené a zlaté. Od sjednocení se také stala vlajkou východního Německa.
+Americká vlajka
+Spojené státy americké jsou takzvaným obřím kotlem lidí a kultur různých národů. Vlajka USA je přezdívaná "Stars and Stripes".  Hvězdy symbolizují 50 současných států a pruhy znázorňují 13 zakladatelských států. Víš, jak se jmenují?
+Kukuřičné pole
+Populární letní aktivitou v USA je tvoření kukuřičných bludišť na kukuřičných polích. Farmáři vytváří cestičky abstraktních vzorů jako jsou UFO, mapy nebo pohádkové motivy. Vytvoř si své vlastní kukuřičné bludiště ve tvé zoo!
+Kukuřičné pole se strašákem
+Pokud chceš ochránit svá kukuřičná pole, budeš potřebovat strašáka. Jinak ti ptáci ukradnou všechnu kukuřici a na večeři díkůvzdání ti bude scházet příloha.
+Otec zakladatel - socha
+Tady vidíš otce zakladatele tvé zoo - tučňáky! S klobouky na hlavách vypadají tak majestátně.
+Značka "Route 66"
+Route 66 je známá jako hlavní ulice Ameriky, protože běží přes téměř celou délku země. Je symbolem svobody a dobrodružství.
+Jukebox
+Jukeboxy a rock 'n' roll jdou ruku v ruce. Pro americké fanoušky jsou tyto nostalgické jukeboxy sběratelné.
+Andělé
+Naši pracovití andělíčci na fóru poskytnou pomoc v každé situaci. Jsou mezi hráči velmi oblíbení. Pomáhají naší komunitě vždy, nejen během Vánoc!
+Ledová princezna
+Jak pěkně se ta ledová princezna točí! Mezi tvými návštěvníky je velmi oblíbená!
+Zmrzlý strom
+Brr, tomu stromu musí být pořádná zima - visí z něj dokonce rampouchy! V zimním slunci se ale pěkně leskne a třpytí. Krásné!
+Sněhová koule
+Trochu zatřepej ... a sleduj jak sněží! Jupí! Sněhulák ve sněhové kouli má z vloček ohromnou radost.
+Vánoční punčocha
+Punčochy se tradičně věsí nad krbem a jsou plné až po okraj různými dobrotami ... pokud jsi byl hodný. Ti, kteří zlobili dostanou punčochy plné uhlí.
+Břišní tanečnice
+Tanči jako krásná Salomé! Naše orientální tanečnice je opravdová umělkyně: svými svůdnými pohyby svádí své publikum. I tučňáci při této podívané tají dech! Je senzační!
+Egyptská vlajka
+Saladinův orel zdobí červeno-bílo-černou vlajku Egypta. Je také známý jako orel arabský a je umístěn přímo uprostřed bílého pruhu.
+Sarkofág
+Egyptské sarkofágy nejsou zdobeny neobvyklými hieroglyfy nebo reliéfy, ale měj se na pozoru, pokud jeden otevřeš, může na tebe padnout kletba faraonů! Kdoví, třeba se uvnitř skrývá strašidelná mumie!
+Egyptský obelisk
+Obelisky byly postaveny před pyramidy jako symbol síly boha slunce Ra. Jako zkamenělé paprsky symbolizují boha slunce a jeho spojení s vládcem pozemské říše - faraonem!
+Pyramida
+Tato majestátní pohřebiště králů mají spoustu pohřebních komor a labyrintů. Temná kouzla je chrání před vykrádači hrobů - kdokoli otevře pohřební komoru bude proklet! Hrobní kameny a nápisy o tomto svědčí. Pokud je to pravda! Buď opatrný!
+Amorek Adamicus
+Vzdej hold poslovi lásky s touto mramorovou soškou. Kohokoli střelí svým šípem se šíleně zamiluje. Velmi romantické!
+Srdcový strom
+Tento nádherný srdcový strom vytvoří každému návštěvníku úsměv na tváři a každé zvíře na ně bude s údivem hledět. Jak je krásný!
+Růžová pergola
+Růžová pergola přidá každé zoo nádech romantiky. Tví návštěvníci se budou procházet od jednoho výběhu k druhému jako v zahradě lásky. 
+Zamilované labutě
+Postav pomník ve jménu lásky! Socha zamilovaných labutí je ztělesněním krásy. Stačí jeden pohled a srdce pokvetou radostí.
+Srdcová kašna
+Srdcová kašna je ideálním místem pro romantický slib z lásky.
+Jarní zem
+Všechno se zelená! Tato jarní dekorace přidá velikonoční náladu do tvé zoo - krásně zelená jarní louka plná kvetoucích květin a cvrlikajících ptáků. Čistá blaženost!
+Velikonoční strom
+Spousta barevných velikonočních vajíček! Podle jedné tradice se stromy zdobí barevnými vajíčky. To je atrakce, kterou si tví návštěvníci nenechají ujít. Budou stát kolem jako hejno kachen!
+Velikonoční vajíčko s ušima
+Ale ne! Velikonoční vajíčko s ušima? Vyklube se z něj velikonoční zajíček? Nebo je z čokolády? Opravdový poutač pro tvé zoo.
+Čokoládový velikonoční zajíček
+Oh! Kdopak ukousl uši čokoládovému zajíčkovi? To musel být buď hladový návštěvník zoo nebo milovník čokolády!
+Zelený plot
+Neposkvrněná příroda! Dřevěné kůly a husté keře - tento přírodní plot splyne s okolím Alp, luk i lesů. Ideální ohraničení přírodního výběhu v zoo.
+Dřevěný plot
+Tento dřevěný plot má rustikální vzhled a perfektně splývá s přírodou. Nenápadně ohraničuje různé oblasti v zoo.
+Horská deska
+S touto horskou deskou splynou vaše lesní, horské i luční výběhy ideálně s okolím a vytvoří to nejkouzelnější prostředí pro zvířata.
+Skalní deska
+Chybí ti příjemná jeskynní atmosféra? Žádný problém! Vyzdob okolí jeskynních výběhů skalními deskami a vytvoř jedinečnou atmosféru v každém detailu.
+Laťkový plot s kameny
+Kopáči jeskyní používají úlomky kamenů a dřevěné kůly k výrobě plotu. Zapadá ideálně do prostředí, že?
+Lavička na horské louce
+Výhled z hor je prý úžasný. Dej si pauzu a užij si ho!
+Horská pastvina
+Jedině na horské louce se můžeš nadechnout toho nejčerstvějšího vzduchu.
+Horská jedlička
+Slyšíš to cvrlikání z jedliček? Jaká zvířata se tam schovávají a užívají si ten krásný výhled?
+Africká lavička
+Domorodci chodívali na lov v savaně vyzbrojeni štítem a kopím, ale tyto lovecké nástroje nyní dělají mnohem lepší dekoraci.
+Jedovatá namibijská klejcha
+Tyto stromové sukulenty vyrůstají do výšky až 150 cm. Jejich mléko je jedovaté a bývávalo používáno lovci k otrávení svých šípů.
+Africký plot
+Ploty jsou ojedinělou podívanou v otevřených prostorách savan, ale pokud se nějaké najdou, jsou obvykle vyrobeny z přírodních materiálů.
+Brána z oštěpů
+Osady v savaně musí být dobře chráněny. Vchod vyrobený z ohnutých oštěpů ukazuje, kdo je tady pánem.
+Pochodeň
+V savanách jsou hlavními elementy země, vzduch a oheň. Pochodeň poskytuje světlo a udržuje divoká zvířata daleko od její ohnivé záře.
+Dřevěná lavička
+Zhluboka se nadechni a zamiř do jeskynní krajiny. Nejdříve si udělej krátkou přestávku na této lavičce a zkontroluj si své vybavení!
+Jeskynní plot
+Jeskynní oblast by měla být vždy oplocena!
+Jeskynní podlaha
+Jeskynní prostory mají nad návštěvníky zoo zvláštní sílu. Vytvoř speciální atmosféru a polož kolem jeskyně podlahu.
+Šachta
+Jeskynní průzkumníci rádi vykopávají jednu nebo dvě šachty v místech, kde očekávají něco zvláštního. Ah, co je to tam dole?
+Lesní piknik
+Jaká by to byla procházka v lese bez pikniku pod stromy? Vytáhni sendviče!
+Lesní plot
+Dutý strom jako plot? V lese je všechno možné - ale není tak dutý, jak se zdá - žije tam hmyz, rostou houby a hnízdí tam i drobná zvířata.
+Lesní ohraničení
+Zřetelně vyznač hranice svého lesa: masivní prkna jsou k ohraničení ideální!
+Lesní půda
+Trochu chřastí, nějaké podrosty, pár keřů a kamení - lesní půda je domovem pro mnoho malých tvorů.
+Háj
+Milovníci přírody se v zeleném háji cítí jako doma. Užij si naprosto nedotčenou přírodu s malým rybníkem.
+Stromový dům
+Jaký skřítek si tu našel přístřeší? Ve stromovém domě zažijí děti spoustu dobrodružství.
+Pařezy
+V pustině už nerostou žádné rostliny. Avšak několik pařezů se dá vždycky najít. Použij je k ohraničení své pustiny v zoo.
+Shnilý plot
+Několik shnilých prken a pár kusu rezavého kovu - a plot v pustině je hotov!
+Pustá půda
+Tady už nic neroste! Opravdu? Po pusté zemi i přesto lezou odvážné malé mikroorganizmy.
+Neobdělaná země
+I když je země mrtvá, stále se dají najít keře, trávy a zvířata, kterým se tu daří.
+Lavička na šrot
+Který umělec se zvěčnil tímto sochařským dílem? Aha, to není sochařské dílo, ale lavička! Rychle, posaď se!
+Brána v pustině
+Dívej se, kam v pustině šlapeš! Nikdo neví, proč je tato oblast tak opuštěná, ale v trávě, blátě i v bažinách jsou toxiny. Tak si nezapomeň umýt ruce!
+Rybník
+Podívej, jak se bažinatým rostlinám v tomto rybníku daří! Moc se nepřibližuj, je to tu opravdu zablácené!
+Vodní lavička
+Vodní lavička? Co to je? No, je to něco jako vodní postel. Budeš se na ní cítit jako na vlnách! To je ale zábava!
+Vodní plot
+Tento plot z leštěného skla, čirého jako čistá voda, je ideálním doplňkem každé vodní krajiny. Jak se krásně leskne!
+Sopečná skalní stěna
+Suchá zeď ze sopečné horniny je dobrá k ochraně vodní plochy. Při povodních pomáhá nasát vodu a ochránit tak tvé zoo.
+Ptačí napajedlo
+Zde si mohou ptáčci vesele cákat a koupat se.
+Osvětlená fontána
+Musíš jít do koupelny za tmy? Tato osvětlená fontána je to správné řešení. Ideální pro noční sovy!
+Vodní svět
+Vytvoř ve tvém zoo fantastický vodní svět - krajinu plnou fontán, jezer a rybníků.
+Brána do vodního světa
+Tudy, prosím! Vyber si tuto nádhernou vodní bránu jako vstup do tvého vodního světa!
+Vřesoviště v tundře
+Rostliny a živočichové žijící v nepřátelském klima vřesovišť v tundře potřebují dobrou strategii pro přežití.
+Skalní poušť
+Permafrost v tundře neoplývá hojným životem. Místo toho zdobí její krajinu podivné pouštní kameny.
+Plot z parohů
+Tundry tohoto světa obývají sobi. Jakmile permafrost roztaje, dají se najít hromady parohů.
+Rašelinový dům
+V Laponsku si svá obydlí přizpůsobili podle tamního nepřátelského prostředí. V horní části je malý otvor, kudy vychází kouř z krbu.
+Buková lavička
+Toto odpočinkové místo bylo vyrobeno z bukového dřeva. Odtud stojí výhled na vřesoviště a louky opravdu za to.
+Zasněžená lavička
+No páni, to je mokrý! Tato zasněžená lavička může vypadat pohodlně, ale jakmile si sedneš, budeš mít celé pozadí mokré!
+Zasněžený plot
+To je krása! Keříky pokryty vrstvou sněhu vypadají jako měkké polštářky. Sladké sny!
+Zimní plot
+Malé sněhové vločky si našly cestu i na tento uzoučký plot. Perfektní doplněk pro tu nejkrásnější zasněženou krajinu!
+Sníh
+Kouzelná zimní krajina zve všechny na procházku. Jen se podívej na ty stopy v čerstvě napadlém sněhu!
+Zasněžená chýše
+Kdopak asi žije uvnitř této zasněžené chýše? Sněhulák? Nebo je to místo k odpočinku pro unavené lyžaře?
+Ledové kry
+Všechna zvířata žijící v chladném podnebí si ráda hrají na zamrzlých ledových krách - ať už tučňáci nebo lední medvědi. Nejraději je však mají mláďata!
+Ledová lavička
+Je to umělecká práce nebo hříčka přírody? Lavička budoucnosti vyrobená z ledu je jednoznačně uměleckou prací! Tento ručně vyrobený kousek však vydrží pouze ve chladném období.
+Ledový portál
+Nejen iglú jsou postavena z ledu! Vstup do tohoto ledového portálu a objev ledový zimní ráj.
+Zmrzlá růže
+Tato delikátní růže pokryta třpytivým ledem je prostě nádherná. Podívej, jak světlo proniká jejími jemnými plátky!
+Ledový plot
+Ohranič si ledovou krajinu tímto plotem. Silný led je velmi odolný proti mírným teplotním změnám, takže ti hned neroztaje.
+Travnaté duny
+Bouře jsou součástí pobřežního života. S použitím travnatých dun ochráníš své zoo před povodněmi.
+Plážový terén
+Připlavené předměty, tráva, mušle - ten pravý plážový terén. Duny všude kolem - připrav se na plážovou dovolenou!
+Kouzelné opevnění
+Ohrom své návštěvníky ohraničením svého zoo tímto kouzelným opevněním.
+Kouzelná dlažba
+Ponoř své návštěvníky do kouzelného světa fantazie pokrytím celého zoo kouzelnou dlažbou.
+Strom z cukrové vaty
+Načechraná cukrová vata je omotaná kolem tohoto stromu - nejen zvířata, ale i návštěvníci zoo si na ní určitě pochutnají!
+Mlsný jazýček
+Tento mrňous má opravdu mlsný jazýček! Vypadá to, že spořádal až příliš čokoládového pudingu! Podívej, jak je nervózní a sotva dýchá!
+Magická lavička
+Kouzelně zářící kořeny se vinou kolem blýskajících balvanů. Posaď se, jsi v kouzelném lese!
+Magický plot
+Tyto barevné dinosauří kosti obklopují park fantazie.
+Zářící pole
+Podivná flóra osvětluje toto zářící pole. Jaká tajemství asi skrývají?
+Divoké houby
+Kloboučky divokých hub vypadají opravdu roztomile. Ale nedotýkej se jich, mohou být jedovaté!
+Lavička z písku
+Pohodlná lavička vyrobená z písku. Jestli vydrží pod tvojí váhou... to budeš muset vyzkoušet!
+Písková duna
+Nevstupovat! Ochrana pobřežních dun je obzvláště důležitá! Koneckonců pomáhají zastavit povodně.
+Hledání pokladu
+Běháš rád po pláži? Hledáš poklad? Vyplavené trosky mohou skrývat hodnotné věci. Návštěvníky zoo čeká vzrušující dobrodružství!
+Hrad z písku
+Postavím ti hrad jako z pohádky! Jaká by to byla pobřežní krajina bez skvostného hradu z písku?
+Preclíkový plot
+Mňam, mňam ... nejez to! Preclíkový plot je ideální k ohraničení tvého lahodného ráje.
+Záhon z cukrové vaty
+Jak je krásně načechraná! Vynikající cukrová vata v měkoučkém záhonu. Nebesky dobrá a absolutně delikátní!
+Lékořicový piknik
+Ach ne, to lepí! Pokud budou návštěvníci zoo sedět na těchto stoličkách příliš dlouho, už se neodlepí!
+Brankář
+Fotbalové míče se kopou po celé Brazílii - co takhle si zahrát fotbal i ve tvé zoo?
+Samba tanečnice
+Jsi připraven na karneval v Riu? Samba tanečnice to v tvém zoo trochu rozproudí svými pohyby. Zatancují si s ní nejen zoo návštěvníci, ale i tvá zvířata!
+Banánovník
+Banány rostou i v Brazílii. Jsou skvělým zdrojem energie a jsou velmi populární mezi sportovci.
+Papoušek Zoomumbor
+Vznešený papoušek Zoomumbor kraluje na svém trůnu vysoko ve větvích. S rozevřenými křídly by byl ideální sochou na Cukrové homoli, že?
+Brazilská vlajka
+Žlutý kosočtverec na zeleném poli s modrým diskem znázorňuje hvězdnou oblohu nad Riem de Janeirem. 27 hvězd značí 26 států plus federální distrikt.
+Japonská vlajka
+Japonské vlajce se říká sluneční vlajka, protože zobrazuje červený kotouč jako symbol slunce na bílém pozadí.
+Skákací hrad žirafa
+Hop, hop, hop! Zábava pro všechny věkové kategorie. Jenom pozor, aby tví návštěvníci neskákali s plnými bříšky!
+Bazaltová lavička
+Bazaltové lavičky se tvoří, když horká láva zamrzne na zemském povrchu - tak se vytváří podivné útvary!
+Zeleň u rybníka
+Žáby, ryby, vážky a další drobní živočichové se shromažďují kolem takových pěkných rybníků jako je tento! Pěkný biotop!
+Mokřad
+Nazuj si gumáky, jdeme do bláta. Mláďata si ráda hrají v bahně - legrační činnost, kterou spatříš v mnohých výbězích.
+Rampouchový plot
+Špičaté zmrzlé rampouchy zastaví návštěvníky v podlézání plotů.
+Zmrzlá tráva
+Znáš ten zvuk, když jdeš po zmrzlém trávníku? To jsou ledové krystaly!
+Rybaření na ledu
+Tento malý rybář sedící před svým zimním domem přidá tvé ledové krajině na severském šarmu. Čerstvá ryba ze zmrzlé díry! Absolutní delikatesa!
+Lavina
+Pozor! Když padá lavina, oddělí se velké množství ledu a sněhu od horských svahů a vezmou s sebou vše, co jim stojí v cestě.
+Ledový stalagmit
+Tyto vzhůru rostoucí rampouchy jsou velmi ostré a můžeš se i říznout. Obrácené krápníky jsou velmi často nalezeny v jeskynních, kde voda kape ze stropu.
+Došková chata
+Tyto malé doškové chaty jsou velmi útulné. Jsou ideální v savanách - ochrání před sluncem, deštěm, větrem i před studenou nocí.
+Křovinatá savana
+Bylinné rostliny a holé skály poskytují přístřeší a potravu pro všechny druhy zvířat žijící v savaně.
+Pískovec
+Tento zlatě zbarvený pískovec se bude ideálně hodit do prostředí savan. Dobrá kamufláž je důležitá!
+Savanové lesy
+V savaně jsou typickými stromy akácie a baobaby. Velcí stepní býložravci si často ukousnou větev nebo okusují kůru.
+Pouštní piknik
+Létající koberec, karafa lahodné kaktusové šťávy a malé orientální občerstvení - co víc si přát?
+Pouštní lavička
+Místo k odpočinku na slunci? Tak se posaď na tuto pouštní lavičku a užij si to teplo. Jen nezapomeň na opalovací krém!
+Brána na poušti
+Poušť je pro zvířata nebezpečným prostředím. Nikde není žádná voda. Velká zvířata jsou tu jen kost a kůže. Dobře si rozmysli, než sem vstoupíš: Máš dost vody?
+Kvetoucí kaktus
+Podívej, co dokáže troška vody! Z tohoto pichlavého mrňouse vyrašily růžové květy. Jak krásné!
+Pouštní kaktus
+Pouštní kaktus ví, jak uchovávat vodu. Jeho malé jehličky píchnou každého, kdo se k nim přiblíží! Velmi chytré!
+Posunující se písečná duna
+Věděl jsi, že písečné duny nejen migrují, ale také zpívají? Když se písek sune dolů, jsou slyšet hlasité a hluboké zvuky. Poslouchej!
+Pouštní plot
+Tento plot inspirovaný ze Západu se bude náramně hodit do ponuré písečné krajiny.
+Pouštní ohraničení
+Dva dřevěné kolíky, lano a tvé pouštní ohraničení je hotovo!
+Oáza
+Mnoho pouštních poutníků si pomyslí, že je to přelud, ale je to opravdu oáza! Hurá!
+Solární plachta
+Stín je v poušti velmi vzácný! Rychle se schovej za touto solární plachtou a užij si krásnou vůni exotických koření na měkkém perském koberci.
+Kamenná lavička
+Solidní kamenné balvany s masivními dřevěnými prkny: jednoduché, pohodlné a praktické.
+Kamenná židle
+Kamenná židle je možná trochu tvrdá, ale je to zcela rozhodně sochařské umělecké dílo!
+Kamenná zeď
+Další kámen ve zdi: Tato stěna je velmi odolná díky svému solidnímu kamennému základu. Můžeš si na ni postavit různé dekorace nebo přes ni skákat.
+Kamenný plot
+Tento plot má velmi zajímavý tvar! Vypadá to, že tentokrát byl kameník velmi kreativní ... jaksi minimalistický, ale přesto kolosální!
+Kamenná brána
+Jak romantické! Jako za časů Romea a Julie - návštěvníci zoo se rádi projdou pod touto ohromnou kamennou bránou. Ideálně se bude hodit do kamenného prostředí.
+Cypřišové stromy
+Cypřiše jsou velmi dekorativní stromy a daří se jim v prostředí kolem kamení. Vypadají naprosto skvěle!
+Dlažební kostky
+Nerovné dlažební kostky přidají tvé zoo na jedinečnosti. Jako za starých časů!
+Kamenný monument
+Velmi zajímavé ... tento sochař měl asi rád lékořici. Něco takového se opravdu jen tak nevidí!
+Kamenný útvar
+Příroda jako sochař! Tento ohromný skalní útvar je příkladem pohybů tektonických desek. Skály navršené jedna na druhé jsou ideálním místem pro lezení.
+Břízová lavička
+Toto skvrnitě vzorované dřevo bylo proměněno na jednoduchou stylovou lavičku k odpočinku.
+Tundrová půda
+Tundra je vytvářena z vřesovišť, vrstev hlíny a mechu, rovněž jako horská tundra. Bez téměř lidského osídlení, kvůli nehostinnému podnebí, zde najdeš původní přírodní prostředí.
+Plot v tundře
+Tundra se nedá použít pro zemědělství kvůli klimatu, ale potulují se tu stáda sobů a kočovníků. Plot ti ukáže, kde tundra končí a kde začíná.
+Bříza v tundře
+V oblastech s řídkou vegetací se dají obvykle najít jen mechy, lišejníky a keře. A proto v pusté krajině vypadá bříza jako vzácný drahokam.
+Jezero v tundře
+Vegetační období trvá v tundře jeden až tři měsíce. Jak je to ale krásné, když to tu začne růst a kvést!
+Mýtina v zimním lese
+Nalákej své návštěvníky do této romantické zimní krajiny. Pěkný způsob, jak si užít zcela jiné podnebí! 
+Zasněžená zem
+Jemný prachový sníh padá na trávu, kamení a keříky. Lehký jako pírko a studený jako led.
+Lepivý sníh
+Super! Těžký, lepivý sníh je to nejlepší na tu pravou koulovačku! Nebo co takhle ... si postavit sněhuláka?
+Ledovcové hory
+Ledovce jsou prastaré ledové masy, které vznikají stlačením sněhu. V horách následně utváří i terén.
+Iglú
+Útulný sněhový domeček se používá jako útočiště při lovu v zemi věčného ledu.
+Alpská lavička
+V odlehlém místě si alpský pastevec dává schůzku na této lavičce s jeho dojičkou.
+Ledovcové jezero
+Sladkovodní jezero v horách napájené vodou z ledovců. Voda je čistá, průzračná a hlavně osvěžující!
+Toalety
+Malé srdíčko na dveřích pozná snad každý! Klidné místo pro každého!
+Ledovcové oblázky
+Ledovce se pohybují obrovskou silou přes hory a obrušují kameny na malé oblázky.
+Jeskynní kameny
+Během expedice do jeskyně možná narazíš na hromadu kamení. Toto kamení se postupně vytahuje na povrch.
+Důlní dráha
+Důlní dráha se používá při přepravě kamení v celém dolu.
+Brána do dolu
+Toto je vstup do jeskynní oblasti, která skrývá působivé krápníky a stalagmity a stejně tak i těžební lokality minerálů.
+Jeskynní stalagmit
+Když voda kape ze stropu, zanechává na zemi vodní kámen a pískové částice. Čím je stalagmite starší, tím je delší!
+Hořící sud
+I naši předkové to věděli: jeskyně nabízí ochranu před divokými zvířaty a v zimě poskytuje teplo. Oheň uvnitř jeskyně pomáhá udržovat zvířata a zimu venku.
+Lesní most
+Návštěvníci zoo se mohou projít po vrzajících dřevěných trámech v naprosto přírodním prostředí - jak nádherně navržená lesní oblast - zelené plíce tvé zoo!
+Lesní chýše
+Vyrobena ze dřeva a pokryta zelení - tento pohodlný srub je uvnitř tak útulný! Jen nezapal oheň!
+Lesní rybník
+Kvák, kvák! Tento malý rybníček je plný žab a pulců!
+Přírodní koupaliště
+Počasí na koupání? Zde je potápění dovoleno! Toto přírodní koupaliště přitáhne spoustu milovníků vody! To je zábava!
+Dlouhá Hana
+Tento masivní kamenný pilíř uprostřed vody se obvykle nazývá "Dlouhá Hana". Podívej, jaké má krásné křivky!
+Dům na kůlech
+Dobře připraven na příliv i odliv: tento dům zůstane suchý za každých okolností!
+Plážový košík
+Tento plážový koš tě ochrání před silným větrem i parným sluncem.
+Mělčina
+Zázrak přírody: při odlivu ustoupí voda od břehu a odhalí, co skrývala. Na mělčině můžeš najít spoustu věcí - hlavně různé trosky a červy!
+Muchomůrka čarovná
+Tato magická houba svítí v kouzelném lese tvého zoo. Chceš se jí dotknout? Kdo ví, jaký zázrak se může stát!
+Vějířová květina
+Tyto vějířové květiny vykukují z děr ven. Neuvěřitelné, co všechno se děje v podivuhodném lese fantazie.
+Portál fantazie
+Na tvé návštěvníky čeká kouzelný svět překvapení - projdi portálem a objev blankytnou faunu a flóru!
+Magický monolit
+Mnoho kultur věří, že monolity mají kouzelnou moc. V mihotavé záři hub se zdá, že tomu tak opravdu je!
+Plot v Cukrové zemi
+Sladký a lepkavý plot patří do každé Cukrové země. Má nádherně pestré barvy a je naprosto vynikající. Mňam, mňam!
+Portál do Cukrové země
+Sladké bonbónové hůlky lemují cestu do Cukrové země: sladká pochoutka pro malé i velké.
+Medová řeka
+Zlatý med teče dolů korytem řeky vyrobeného z čokolády a lékořice. Stačí si jen skočit šipku! No páni!
+Lízátko
+Nejen tvá zvířata se cítí jako doma v zemi mléka a medu. Návštěvníci zoo si také rádi pochutnají.
+Zmrzlinový strom
+Mňam, mňam, mňam! Strom z lahodné zmrzliny v příchutích vanilky a jahody. Rychle ho slízej, než se rozteče!
+Vodní díra
+Zavlažovací díra jako je tahle už ve vyprahlé poušti zachránila pár životů. Je to také oblíbené místo různých druhů zvířat.
+Skalní útvar
+Keře a malé stromy pěkně lemují tento skalní koutek. Lezení povoleno!
+Stavební značka
+Probíhá ve tvé zoo výstavba? Vyznač oblasti, které jsou ve výstavbě pomocí stavební značky. TIP: Vyzdob své zoo pravidelně, aby měli tví návštěvníci vždy něco nového k objevování!
+Potrubní katastrofa
+Olejová katastrofa? Chemická havárie? Nebo jen radioaktivní materiál? Ať je to co chce, to, co vytéká z potrubí, nevypadá dobře.
+Mrtvý strom
+Stromy se mohou dožít velmi vysokého věku, ale i oni umírají. Avšak i poté slouží jejich pařezy jako vhodný domov pro mnohé rostliny. Jen se podívej na ty výhonky, které z něho rostou!
+Piraňa - rostlina
+V pustině rostou podivné rostliny, jako je např. i tato piraňa. Je to samozřejmě mutace, ale moc se k ní nepřibližuj, nebo ti ukousne ruku!
+Čarodějův učeň
+Volám všechny duchy... ach nééé, co to tam leze ven z toho kanálu ... áááááááááh!
+Strašidelný močál
+Pozor! Nízko létající duchové! Vyhni se jim, když poletí kolem, jinak to špatně skončí!
+Vánoční ozdoby
+Jaké by to byly Vánoce bez vánočních ozdob? Pár dekorací zvýrazní každý vánoční domov - velmi pěkné!
+Koulovačka
+Juchůůů! Pořádně se obleč a vyraz ven na koulovačku! Jupí, to je zábava!
+Curling
+Když venku mrzne, co takhle vyrazit na led a vyzkoušet curling? Pořádně zameť, ať to klouže!
+Rudolf - socha
+Ať jsou Vánoce to pravé ořechové: vystav soba Rudolfa jako  monument ve tvé zoo. Nevypadá jako živý?
+Močálová bludička
+Tento vzácný světelný jev je pouze pár centimetrů vysoký a září jen pár vteřin v močálech nebo bažinách. Často se považuje za ducha. Huhuuu!
+Brána do bažiny 
+Co je potřeba v tmavé bažině? Dobrá lucerna! Brána do bažiny osvětluje vchod, pokud tedy lucerna správně svítí.
+Potopený vrak
+Tato bahenní loď byla kdysi opravdu krásná! Nyní leží na dně močálu, pokrytá řasami a bahnem. Myslíš, že se dá zachránit a znovu použít pro plavbu močálem?
+Bahenní koupel
+Potěšení pro tělo i duši! Uklidňující bahenní koupel zahřeje celé tělo a léčí ho díky protizánětlivým účinkům. To je dobrý pocit!
+Bažina
+Kdo ví, co leží na dně této bažiny? Staré pneumatiky jsou zde ideálním doplňkem a kvákajícím tvorům nabízí skvělý výhled.
+Potopená lavička
+Tato masivní lavička je pro tuto bahnitou půdu asi příliš těžká. Řasy a mech ji celou pokryly - a vypadá tak docela pohodlně!
+Mlha v bažině
+Šedivá mlha se pomalu táhne přes ponurou bažinu a vytváří velmi tajemnou atmosféru. Brrr!
+Hranice bažiny
+Tato bažina má bujnou vegetaci díky vlhké půdě, kudy protékají malé potůčky. Jen dávej pozor na ostnatý drát, ať se nepíchneš!
+Strom v bažině
+Tento odumřelý strom tyčí z močálu jako kostra. Až ti z toho leze mráz po zádech!
+Vyvýšený posed
+V tomto posedu dříve číhali lovci, ale teď je napůl shnilý a pomalu se potápí do bažiny.
+Adventní koledníci
+Každý rok se docela obyčejní hráči proměňují na nápomocné moderátory, kteří s radostí pomáhají ostatním hráčům s tipy a triky po celý rok. Podívej, jak krásně zdobí vánoční stromeček!
+Artefaktový plot
+Tento artefaktový plot je zdobený magickými kameny ze staré mayské kultury a používá se k ohraničení džungle od civilizace.
+Hadí brána
+Tajemní hadi vylézají z houští nepropustné džungle. Vstup pouze pro odvážné!
+Půda v džungli
+Velké listy, exotické a popínavé rostliny pokrývají artefakty dávných kultur.
+Visutý most
+Houpe se sem a tam! Přejdi tento most krok za krokem - je ale možné, že už je shnilý!
+Lavička v džungli
+Lvi byli uctíváni mnohými kulturami od nepaměti. Posaď se na tuto lavičku a zažij pocit krále džungle.
+Palmová rozhledna
+Svět neproniknutelné džungle plné švitoření a opičího křiku je nejlepší pozorovat z výšky. Podej mi dalekohled!
+Tábor v džungli
+Ti, kteří se statečně probojovali džunglí s mačetou v ruce přes neschůdný terén, si potřebují po příchodu do tábora trochu odpočinout.
+Brána v džungli
+Vykroč do tajemného světa přetékajícího exotickými zvířaty. V džungli stále existuje mnoho neobjevených druhů zvířat. Vydej se na svou expedici!
+Plot v džungli
+Zkroť divokou zvěř pomocí tohoto plotu a ohranič si džungli ve tvé zoo.
+Kakaovník
+Ta nejlepší čokoláda na světě se vyrábí z těchto bobů. Kakaové boby rostou vysoko v korunách tohoto majestátního stromu.
+Most milenců
+Podle jedné legendy ti láska vydrží věčně, když zamkneš zámek na mostě. Potom klíč vyhoď do řeky, aby zámek už nikdo nikdy neodemkl.
+Vysněný princ
+Stále čekáš na svého vysněného prince? Tento pohledný mládenec chce vyrazit na cestu do tvého srdce!
+Lavička v bažině
+Přechod bažinou je únavný. Na této solidní dřevěné lavičce v bažině si můžeš dát nohy nahoru a trochu si odpočinout.
+Dívčí síla
+Slavíme Mezinárodní den žen! Postav ve tvé zoo památník, který bude symbolizovat rovnost a světový mír. Společně uspějeme!
+Asijský plot
+Ohranič si s tímto barevným plotem asijskou tematickou oblast ve tvé zoo a vytvoř tak atmosféru harmonie.
+Brána torii
+Bránu torii zdobí krásné čínské lucerny. Je to symbolická vstupní brána před buddhistickými chrámy.
+Čínský most
+Tento most čínského stylu krásně zapadne do parku s asijskou architekturou.
+Bambusová lavička
+Tato lavička z pravého bambusového dřeva vypadá pohodlně a lákavě. Dopřej si přestávku a posaď se do měkkých polštářů.
+Vodní fontána
+Jemné tóny z této fontány jsou uklidňující. Nejen, že potěší tvé návštěvníky, ale i tvá zvířata si ráda poslechnou zvuky vody v pozadí.
+Bambusový plot
+Ohebný a poddajný bambus je ideální k zaplétání a výrobě bambusových plotů jako je tento.
+Kostka
+Vyzdob si zoo stylovým designem a architekturou a zkrášli si asijský koutek jednoduchými tvary připomínající minimalismus Dálného východu.
+Čajový obřad
+Cesta pokrytá rosou vede až do čajovny. Hosté zde zanechají všechny starosti a dopřejí si různé druhy čajů. Je to meditační rituál, který vyžaduje čas!
+Mávající kočka
+Mávající kočka neboli Maneki Neko je talisman pro štěstí. Je velmi populární v Japonsku, Číně a Thajsku. Mává levou tlapkou a zve návštěvníky dovnitř.
+Čínská vlajka
+Vlajka Čínské lidové republiky má červené pole a na něm žluté hvězdy. Červená je šťastnou barvou Číny.
+Thajská vlajka
+Thajské vlajce se také říká „Thong Trairong“, což znamená „tříbarevná“ vlajka.
+Žlutokap
+Žlutokap existuje pouze v Austrálii. Patří do řádu chřestotvarých, má dlouhý život a dokáže přežít i lesní požár.
+Totem
+Umění australských domorodců je ovlivněno přírodou a náboženskými rituály. Toto zvíře má až příliš mnoho skvrn, aby to byl tasmánský tygr. Co to tedy představuje? Možná nějakého boha?
+Bazén
+Kolem australských břehů žije několik druhů žraloků. Z toho důvodu je lepší si zaplavat v bazénu, ne?
+Boxerka Mathilda
+V Austrálii je známá klokaní boxerka, které se říká „Boxerka Mathilda“. Ve vaku má mládě, které ji povzbuzuje!
+Plovoucí svíčka
+Plovoucí svíčky se děsivě vznáší v zamlžené temné noci. Z jejich bledé záře každému naskakuje husí kůže.
+Bezhlavý jezdec
+Kdo jede tak pozdě v noci a větru? Socha bezhlavého jezdce slouží jako varování před hrůzostrašnými tvory, kteří během děsivých nocí straší v zoo.
+Kouzlo Patronus
+Toto kouzlo přivolá magickou bytost, která odpovídá charakteru kouzelníka. V tomto případě to bude kouzelná ... rybí houska!
+Létající koště
+Docela nepohodlný způsob létání používaný neohrabanými čaroději, kteří provádí divoké manévry ve vzduchu.
+Sněhový pluh
+Vrum! Tento nadmíru užitečný sněhový pluh je úžasnou hračkou pro profesionály i tučňáky, kteří rádi odhrnují sníh!
+Kouřící panáček
+Kouřící panáčci z Krušných hor původně sloužili jako nádobky pro pálení vonných kuželů. Nyní se používají jako tradiční vánoční ozdoby a jsou umístěny v blízkosti dárků.
+Ledové palmy
+Třpytivý led v ráji: když zamrznou i palmy, zaslechneš drkotající se zuby zvířat milující teplo.
+Snowboard
+Sjezdovka v zoo: snowboarding je super zábava nejen pro tučňáky!
+Měřič lásky
+Jak velký jsi romantik? To zjistíš pomocí tohoto zábavného stroje.
+Labutí lodička
+Jen ty a tvá milá na klidném jezeře. Nevšímej si ničeho kolem a vychutnej si kouzlo okamžiku!
+Socha lásky
+Je zcela jistě zajímavá a jedinečná. Je to ale pravé umění? To rozhodni ty!
+Hnízdečko lásky
+Ptáci to dělají. Včelky to dělají. Dokonce i vzdělané blechy to dělají. Každý se rád přitulí v hnízdečku lásky!
+Velikonoční tráva
+Dlouhá tráva je ideální ke schování velikonočních vajíček. Nebo i hraček, pamlsků pro psy a ztracených ponožek.
+Stanice: Malování vajíček
+Nauč se, jak se malují tradiční velikonoční vajíčka s barvou a lepidlem. Děti se vrátí domů celé zmalované!
+Stanice: Vyfukování vajíček
+Vyfukování vajíček je tradiční umění, kdy se odstraní obsah vajíčka, aniž by se skořápka rozbila nebo napraskla. Když se to nepodaří, může to nadělat pěkný nepořádek.
+Líhnoucí se velikonoční vejce
+*Prask* Co je uvnitř? Obrovské čokoládové kuře?
+Neptun
+Ať žije starověký bůh moře! I přes jeho hrůzostrašný vzhled je velmi sentimentální a má v oblibě krmivo pro ryby.
+Ponorka
+Žádná návštěva Podmořského světa se nemůže obejít bez výletu pod vodou. Zanedlouho budou všichni bydlet ve žluté ponorce.
+Odtok
+Když je voda špinavá, stačí vytáhnout špunt a nádrž znovu naplnit. Ať tě to nespláchne!
+Nafukovací ostrov
+Vezmi si svůj karibský domov s sebou! Jen si nezapomeň vzít někoho se silnými plícemi!
+Ostrov fantazie
+Jestli sis myslel, že přespíš v houpací síti, tak už je pozdě. Tučňáci tě předběhli.
+Bóje
+Říká se, že za větru tyto bóje zvoní a prokazují tak svou lásku.
+Potápěčská bublina
+Objev hlubiny oceánu ve stylu! Tato bublina má svírací paže, kterými můžeš sevřít jakýkoli poklad!
+Záchranný člun
+Jakmile na dně moře najdeš něco hodnotného, stačí to připoutat k tomuto člunu.
+Pirátský vrak
+Je neuvěřitelné, co všechno může vyplavat na povrch. Kdoví, co všechno se skrývá na dně moře!
+Vraní hnízdo
+Už je trochu zastaralé, ale tví návštěvníci si o něm nepřestávají vykládat. Je to také oblíbené místo pro hráče na schovávanou.
+Vrak lodě
+Ve vodním světě nesmí chybět starověký vrak, který znázorňuje moc oceánů.
+Ledovec
+Nepodceňuj zdánlivě neškodný ledovec. Pod hladinou se ho skrývá mnohem víc než se zdá.
+Ledové kry
+Tyto menší kusy ledu jsou zbytky ledové masy, které nás varují o změnách klimatu.
+Ledová kostka
+Neboj se o toho tučňáka. Za pár tisíc let se probudí v mnohem lepším světě. Slibujeme.
+Koráloví potápěči
+Nasaď si šnorchl a objev jedinečný život, který se skrývá pod vodní hladinou.
+Korálový ostrov
+Na tomto vzdáleném ostrově objevíš mořské houby a hvězdice. Společně si můžete uspořádat párty století!
+Celine Tučňáková
+Tvé srdce bude bít dál a dál díky této okouzlující dekoraci!
+Pirátský vor
+Každý pirát musí někde začít! Vydej se za dobrodružstvím a zanedlouho se vrátíš s pirátskou lodí, posádkou i pokladem!
+Skalní výchoz
+Skoč ze skalního výchozu rovnou do hlubin. Svůj domov zde nachází různé druhy měkkýšů a hmyzu.
+Tučňák trosečník
+Byl by život na pustém ostrově opravdu tak hrozný? Zeptej se Wilsona!
+Bez kánoe
+Kdo potřebuje k pádlování kánoi? Stačí přece popadnout něco plovoucího a hurá na vodu!
+Průzkumník
+Bóje jsou nezbytné k bezpečí na moři pro lodě, lidi i zvířata. Kdo ještě neviděl bóji poskakující na vodě a nepřiplaval k ní?
+Potápěč
+Potápění mezi rybkami. Co je lepšího?
+Želví ukazatel
+Těšíš se na Podmořský svět? Představ ho všem svým návštěvníkům a postav si tento ukazatel na nové herní pole!
+Aktivní sopka
+Začíná tu být horko? Občasná erupce je dobrá pro životní prostředí!
+Malá mořská víla
+Je sice trochu tichá, ale může být součástí tvého světa. Opravdová láska zlomí každé prokletí...
+Socha Atlantis
+Byla pod vodou po celá staletí, ale teď ji můžeš mít vystavenou ve svém Podmořském světě! Možná by to chtělo odstranit ty mořské řasy.
+Kouzelná zrcadla
+Tví návštěvníci se sami sobě zasmějí až se uvidí v těchto bláznivých zrcadlech tlustí, hubení, malí nebo vysocí.
+Flašinet
+Zahraj si pár klasických melodií na tomto flašinetu.
+Silák
+Vyzkoušej si svoji sílu! Zde uvidíš rozdíl mezi chlapy a kluky!
+Přesná trefa
+Umíš dobře házet? Tady si to můžeš vyzkoušet. Je to snadné, že...?
+Šílená laboratoř
+Copak se dá vytvořit v této laboratoři? Nezapomeň na to, že k oživení tvých tvorů budeš potřebovat blesk!
+Kostra dinosaura
+Vyjeď do bitvy na tomto dinosaurovi a sleduj, jak budou duchové prchat!
+Dýňový kočár
+Chceš se projet ve strašidelném stylu? Cestuj v komfortu díky tomuto speciálnímu vozidlu.
+Obrovská pavučina
+Pozor, ať se nezamotáš do jedné z těchto pavučin! Z nich tě nikdo nevymotá!
+Sob robot
+Jeho nos září červeněji a jasněji než cokoli jiného na noční obloze.
+Zimní slunce
+Kdo si chce dělat starosti s dárky a balením? Zajeď si místo toho na zimní dovolenou!
+Seznamy na poslední chvíli
+Máš na svátky všechno, co potřebuješ? To je v pořádku, my také ne.
+Vánoční hromada
+Tolik dárků! A kolik z nich skrývá ponožky?
+Loďka lásky
+Zazpívej své lásce serenádu přímo uprostřed jezera.
+SOS lásky
+S tímto hydroplánem se Amor dostane ke každé tísňové situaci!
+Účet napůl
+Vezmi svou milovanou na romantickou večeři. Co by se mohlo stát?
+Lázně na ostrově
+Unikni chladnému počasí a nech se hýčkat v těchto tropických lázních!
+Zapomenuté místo
+Kdyby mohlo kamení mluvit, dozvěděli bychom se o starých a zapomenutých chrámech. Tyto ruiny se nyní staly domovem pro mnohá zvířata žijící v tamních křovinách.
+Lev ochránce
+Statný ochránce stojí pyšně u vchodu starých paláců.
+Ztracená socha
+V chrámu Angkor schází jedné soše hlava. Byl to král? Nebo bůh? Kdoví?
+Chrámový jezdec
+Je tam chrámový jezdec s copem a ozbrojen banány!
+Tučňák Tweety
+Je to zpěvavý ptáček? Je to tučňák? Na jaře je možné všechno!
+Narozeninová párty
+Oslav s tučňáky výročí dle svého výběru. Kdo vlastně potřebuje důvod k oslavě? Pojďme na to!

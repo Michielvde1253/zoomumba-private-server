@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.window.settings">
+  <item name="zoo.window.settings.info"><![CDATA[Ahoj, řediteli zoo!<br>Tady si můžeš hru ZooMumba individuálně nastavit, jak si přeješ! Měj hru takovou, jaká Tě bude nejvíce bavit!]]></item>
+  <item name="zoo.window.settings.on"><![CDATA[zap.]]></item>
+  <item name="zoo.window.settings.off"><![CDATA[vyp.]]></item>
+  <item name="zoo.window.settings.quality.low"><![CDATA[nízká]]></item>
+  <item name="zoo.window.settings.quality.middle"><![CDATA[střední]]></item>
+  <item name="zoo.window.settings.quality.high"><![CDATA[vysoká]]></item>
+  <item name="zoo.window.settings.quality.title"><![CDATA[Grafika]]></item>
+  <item name="zoo.window.settings.quality.info"><![CDATA[Kvalita]]></item>
+  <item name="zoo.window.settings.account.title"><![CDATA[Upravit účet]]></item>
+  <item name="zoo.window.settings.account.info"><![CDATA[Tady můžeš upravit údaje svého herního účtu, např. svoji emailovou adresu.]]></item>
+  <item name="zoo.window.settings.title.tooltipps"><![CDATA[Tooltipy]]></item>
+  <item name="zoo.window.settings.title.visitors"><![CDATA[Návštěvníci]]></item>
+  <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Přání návštěvníků]]></item>
+  <item name="zoo.window.settings.title.sound"><![CDATA[Zvuk]]></item>
+  <item name="zoo.window.settings.title.sound.background"><![CDATA[Hudba]]></item>
+  <item name="zoo.window.settings.title.sound.effects"><![CDATA[Zvukové efekty]]></item>
+  <item name="zoo.window.settings.button.account"><![CDATA[upravit]]></item>
+  <item name="zoo.window.settings.tab.account"><![CDATA[konto]]></item>
+  <item name="zoo.window.settings.tab.config"><![CDATA[Konfigurace]]></item>
+  <item name="zoo.window.settings.tab.buildings"><![CDATA[Hlavní budova]]></item>
+  <item name="zoo.window.settings.buildings.info"><![CDATA[Vyber si podle svého vkusu vchodovou budovu zoo. Máš k dispozici hlavní budovy v závislosti na Tvém levelu.<br>Tak bude Tvá zoo více a více přizpůsobená jen Tobě!]]></item>
+  <item name="zoo.window.settings.anim.title"><![CDATA[Animace]]></item>
+  <item name="zoo.window.settings.anim.info"><![CDATA[Počet animací zvířat]]></item>
+  <item name="zoo.window.settings.saveAssets"><![CDATA[Vyrovnávací paměť]]></item>
+ </category>
+</language>

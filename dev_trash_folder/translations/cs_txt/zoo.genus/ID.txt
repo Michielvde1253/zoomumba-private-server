@@ -1,0 +1,14 @@
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.title.1
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.text.1
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.title.4
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.text.4
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.title.5
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.text.5
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.titel.9
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.text.9
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.title.12
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.text.12
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.title.13
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.text.13
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.title.32
+zoo.genus;zoo.window.shopAnimalInfo;zoo.genus.text.32

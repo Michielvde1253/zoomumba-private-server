@@ -1,0 +1,18 @@
+{
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.intro.blueprintRewards": "Nasbíral jsi %mycards% z %allcards% stavebních plánů!",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.intro.title": "Dílna",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.intro.text": "Řemeslníci a fandové pozor! Použij své materiály k vybudování nových výběhů, budov, dekorací nebo cest. Stačí si vybrat kategorii níže a pokračovat do další fáze výroby.",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.intro.chooseCategorie": "Vyber kategorii:",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.produce.text": "Je to velmi jednoduché: Vlevo dole vidíš co se právě vyrábí. Stavební plán ti ukáže, jaký materiál potřebuješ. Nad tím uvidíš čas výroby a počet tlapek, které musíš zaplatit. Pochopil jsi to? Dobře, tak klikni na \"Start\".",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.produce.button": "Start",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.progress.title": "Dílna",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.progress.text": "Výroba probíhá!",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.progress.time": "Trvání:",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.progress.instantRaise.title": "Vyrobit okamžitě",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.progress.instantRaise.text": "Ušetři si čas a dokonči výrobu okamžitě!",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.progress.instantRaise.button": "Dokončit",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.progress.layer.elixir.text": "Zrychli a dokonči výrobu za polovinu času.",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.progress.button.elixir": "Zrychlit",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.success.text": "Hurá! Všechno hotovo: předmět, který jsi právě vyrobil najdeš v inventáři!",
+    "zoo.window.crafting_lang;zoo.window.crafting;zoo.window.crafting.blueprint.text": "Hurá! Právě jsi obdržel stavební plán! Vyprav se do dílny a postav si nový předmět pro tvé zoo!"
+}

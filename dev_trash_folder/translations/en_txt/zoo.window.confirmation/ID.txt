@@ -1,0 +1,17 @@
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.map.buyzooandlevel
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.map.buyzooandextention
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.closegame.title
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.map.level
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.map.buy
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.title.buy
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.closegame.info
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.shop.buyitemreal.title
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.shop.buyitemreal.info
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.shop.buyMove.title
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.shop.buyMove.info
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.sellitemaction.title
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.sellitemaction.info
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.sendeventitemtoinventory.title
+zoo.window.confirmation;zoo.window.confirmation;zoo.window.confirmation.sendeventitemtoinventory.info
+zoo.window.confirmation;zoo.window.confirmation.gift;zoo.window.confirmation.gift.title
+zoo.window.confirmation;zoo.window.confirmation.gift;zoo.window.confirmation.gift.info

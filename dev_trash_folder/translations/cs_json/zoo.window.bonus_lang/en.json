@@ -1,0 +1,12 @@
+{
+    "zoo.window.bonus_lang;zoo.window.bonus;zoo.window.bonus.main.title": "Bonusový kód",
+    "zoo.window.bonus_lang;zoo.window.bonus;zoo.window.bonus.main.info": "Máš bonusový kód ZooMumba? Tak jej jednoduše zadej sem a ihned obdržíš svůj bonus!",
+    "zoo.window.bonus_lang;zoo.window.bonus;zoo.window.bonus.success.title": "Srdečně blahopřejeme,",
+    "zoo.window.bonus_lang;zoo.window.bonus;zoo.window.bonus.success.info": "Super, bonusový kód jsi zadal správně, a získal tak odměnu. Přejeme Ti příjemnou zábavu!",
+    "zoo.window.bonus_lang;zoo.window.bonus.error;zoo.window.bonus.error.invalid.title": "Chyba",
+    "zoo.window.bonus_lang;zoo.window.bonus.error;zoo.window.bonus.error.invalid.info": "Bonusový kód je bohužel nesprávný. Zkontroluj prosím kód a zkus to znovu.",
+    "zoo.window.bonus_lang;zoo.window.bonus.error;zoo.window.bonus.error.participated.title": "Chyba",
+    "zoo.window.bonus_lang;zoo.window.bonus.error;zoo.window.bonus.error.participated.info": "Tento bonusový kód sis už vybral.",
+    "zoo.window.bonus_lang;zoo.window.bonus.error;zoo.window.bonus.error.bruteforce.title": "Chyba",
+    "zoo.window.bonus_lang;zoo.window.bonus.error;zoo.window.bonus.error.bruteforce.info": "Bonusový kód jsi příliš často zadal nesprávně. Počkej prosím několik minut, než to zkusíš znovu."
+}

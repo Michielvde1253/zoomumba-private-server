@@ -1,0 +1,13 @@
+zoo.window.animalbreed;zoo.window.animalbreed;zoo.window.animalbreed.title
+zoo.window.animalbreed;zoo.window.animalbreed;zoo.window.animalbreed.info
+zoo.window.animalbreed;zoo.window.animalbreed;zoo.window.animalbreed.breedtitle
+zoo.window.animalbreed;zoo.window.animalbreed;zoo.window.animalbreed.breedinfo
+zoo.window.animalbreed;zoo.window.animalbreed;zoo.window.animalbreed.button.startbreeding
+zoo.window.animalbreed;zoo.window.animalbreed;zoo.window.animalbreed.babytitle
+zoo.window.animalbreed;zoo.window.animalbreed;zoo.window.animalbreed.babyinfo
+zoo.window.animalbreed;zoo.window.animalbreed;zoo.window.animalbreed.button.buydirectly
+zoo.window.animalbreed;zoo.window.animalbreed;zoo.window.animalbreed.button.breedstart
+zoo.window.animalbreed;zoo.window.animalbreed;zoo.window.animalbreed.success.title
+zoo.window.animalbreed;zoo.window.animalbreed;zoo.window.animalbreed.success.info
+zoo.window.animalbreed;zoo.window.animalbreed;zoo.window.animalbreed.failed.title
+zoo.window.animalbreed;zoo.window.animalbreed;zoo.window.animalbreed.failed.info

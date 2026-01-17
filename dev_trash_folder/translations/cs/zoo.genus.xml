@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.window.shopAnimalInfo">
+  <item name="zoo.genus.title.1"><![CDATA[Ara Arakanga]]></item>
+  <item name="zoo.genus.text.1"><![CDATA[Tito veselí papoušci jsou pořádně ukecaní! Chovej je vždy jako pár nebo skupinu. Návštěvníci milují tyto chytráky s pestrobarevným peřím!]]></item>
+  <item name="zoo.genus.title.4"><![CDATA[Plameňák růžový]]></item>
+  <item name="zoo.genus.text.4"><![CDATA[Tato krásná růžová zvířata přitahují pozornost návštěvníků. Jejich hlavním pokrmem je plankton, ale pochutnají si také na čerstvých rybách. Dobrota pro mlsné zobáčky!]]></item>
+  <item name="zoo.genus.title.5"><![CDATA[Zebra horská]]></item>
+  <item name="zoo.genus.text.5"><![CDATA[Pruhy, pruhy, všude samé pruhy! Až se ti motá hlava! Ve světě plném zebřích pruhů je to dobrá kamufláž, ale v našich končinách působí zebry docela komicky. Zebry rozhodně patří do každé Zoo, tak už se nenech přemlouvat!]]></item>
+  <item name="zoo.genus.titel.9"><![CDATA[Nosorožec]]></item>
+  <item name="zoo.genus.text.9"><![CDATA[Tito velcí tlustokožci jsou samotáři. Není se čemu divit, když na sobě nosí takové rohy! Navzdory jejich mocnému vzhledu se jen zřídkakdy pouští do zápasů. Chovej ale přesto raději společně jen samečka a samičku.]]></item>
+  <item name="zoo.genus.title.12"><![CDATA[Hroch obojživelný]]></item>
+  <item name="zoo.genus.text.12"><![CDATA[Na souši vypadají jako těžkopádné kolosy, ale zdání klame. Dej si pozor, abys je nerozzuřil, protože když už se jednou rozběhnou, není radno se jim stavět do cesty. Naštěstí jsou to pohodová zvířata, když se respektuje jejich soukromí.]]></item>
+  <item name="zoo.genus.title.13"><![CDATA[Žirafa mramorovaná]]></item>
+  <item name="zoo.genus.text.13"><![CDATA[Neustále vysoko v oblacích! Žirafy dosáhnou na ty nejsladší plody až na vrcholcích stromů. Potom není divu, že stromy jaksepatří spásají. S jejich dlouhými krky dosáhnou velmi vysoko a nejraději žerou mladé zelené lístky!]]></item>
+  <item name="zoo.genus.title.32"><![CDATA[Sob polární]]></item>
+  <item name="zoo.genus.text.32"><![CDATA[Sobi žijí ve stádech daleko na severu. I v tvrdých arktických podmínkách najdou nebojácní sobi místo k přežití.]]></item>
+ </category>
+</language>

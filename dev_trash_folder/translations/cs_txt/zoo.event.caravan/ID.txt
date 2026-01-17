@@ -1,0 +1,9 @@
+zoo.event.caravan;zoo.event.caravan;zoo.event.caravan.bubble
+zoo.event.caravan;zoo.event.caravan;zoo.event.caravan.borrow
+zoo.event.caravan;zoo.event.caravan;zoo.event.caravan.species
+zoo.event.caravan;zoo.event.caravan;zoo.event.caravan.getBaby
+zoo.event.caravan;zoo.event.caravan;zoo.event.caravan.success
+zoo.event.caravan;zoo.event.caravan;zoo.event.caravan.end
+zoo.event.caravan;zoo.event.caravan.tooltip;zoo.event.caravan.tooltip.timer
+zoo.event.caravan;zoo.event.caravan.tooltip;zoo.event.caravan.tooltip.counter
+zoo.event.caravan;zoo.event.caravan.tooltip;zoo.event.caravan.tooltip.inventorizeBabies

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.cinema.layer">
+  <item name="zoo.cinema.layer.intro"><![CDATA[Sledovat filmy a ještě za to dostávat tučné odměny?<br /><br />To se děje jenom v našem kině! Podívej se denně až na 3 klipy a získej za každý odměnu. Pro svou odměnu musíš klip zhlédnout až do konce.<br /><br />Jednoduše klikni na "Spusť film" a představení může začít!<br /><br />Pěknou zábavu!]]></item>
+  <item name="zoo.cinema.layer.selectReward"><![CDATA[Získej svoji odměnu!]]></item>
+  <item name="zoo.cinema.layer.play"><![CDATA[Spusť film!]]></item>
+  <item name="zoo.cinema.layer.noVideo"><![CDATA[V současnosti nejsou k dispozici žádná videa.]]></item>
+ </category>
+</language>

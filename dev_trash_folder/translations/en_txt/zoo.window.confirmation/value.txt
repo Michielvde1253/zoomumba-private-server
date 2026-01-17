@@ -1,0 +1,17 @@
+To unlock this zoo, you need to be at level %level%. Or unlock it immediately for %zooDollar% zoodollars.
+This zoo is not available yet. You can unlock it by reaching %level% expansions in the following zoo: %zooName%. Or unlock it immediately for %zooDollar% zoodollars.
+End game
+You need to be at level %level% to unlock this zoo.
+Do you want to buy a zoo expansion?
+Buy
+Do you really<br>want to exit ZooMumba?
+Buy items
+Do you really want to buy this item?
+Buy move
+Do you want to make this move for zoodollars?
+Sell
+Do you really want to sell this item?
+Warning
+If you place the enclosure into your inventory, it will lose its action upgrade.<br><br>Do you want to continue?
+Attention!
+You haven't selected your 5 friends yet! If you continue, your gifts will be lost. That would be a shame... Do you still want to continue?

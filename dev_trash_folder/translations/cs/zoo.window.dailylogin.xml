@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.window.dailylogin">
+  <item name="zoo.window.dailylogin.title"><![CDATA[Denní bonus za přihlášení]]></item>
+  <item name="zoo.window.dailylogin.info"><![CDATA[Přihlas se denně - stojí to za to! Získej super ceny každý den!]]></item>
+  <item name="zoo.window.dailylogin.reward"><![CDATA[Tvá denní odměna:]]></item>
+  <item name="zoo.window.dailylogin.day"><![CDATA[Den: %day%]]></item>
+  <item name="zoo.window.dailylogin.eventshop"><![CDATA[Akční obchod]]></item>
+ </category>
+</language>

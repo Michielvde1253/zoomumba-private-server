@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.quests.tabs">
+  <item name="zoo.quests.tabs.daily"><![CDATA[Denní úkoly]]></item>
+  <item name="zoo.quests.tabs.achievements"><![CDATA[Vyznamenání]]></item>
+  <item name="zoo.quests.tabs.collectables"><![CDATA[Sbírky]]></item>
+ </category>
+ <category name="zoo.quests.daily">
+  <item name="zoo.quests.daily.info"><![CDATA[V každé zoo je denně potřeba udělat spoustu práce: každá pomocná ruka se hodí! Ujmi se těchto denních úkolů a vyřiď je.]]></item>
+  <item name="zoo.quests.daily.nextquest.timestamp"><![CDATA[Nové úkoly za:]]></item>
+  <item name="zoo.quests.daily.refreshTitle"><![CDATA[Denní úkoly]]></item>
+  <item name="zoo.quests.daily.refreshQuestion"><![CDATA[Za malý poplatek tady můžeš získat nové denní úkoly. Chtěl bys?]]></item>
+  <item name="zoo.quests.daily.taskTitle"><![CDATA[Úkol]]></item>
+  <item name="zoo.quests.daily.rewardTitle"><![CDATA[Odměna]]></item>
+  <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Zahájit
+úkol]]></item>
+  <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Získat
+odměnu]]></item>
+  <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Přerušit
+úkol]]></item>
+  <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Úkol]]></item>
+  <item name="zoo.quests.daily.window.activequest.info"><![CDATA[Plníš už jiný úkol. Uzavři nejprve aktivní úkol, než se pustíš do dalšího.]]></item>
+  <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Storno]]></item>
+  <item name="zoo.quests.daily.window.abortquest.info"><![CDATA[Pokud přerušíš tento úkol, bude z tvého seznamu úkolů odstraněn. Chceš ho opravdu přerušit?]]></item>
+  <item name="zoo.quests.daily.window.achievereward.title"><![CDATA[Srdečně blahopřejeme!]]></item>
+  <item name="zoo.quests.daily.window.achievereward.info"><![CDATA[Svůj úkol jsi úspěšně dokončil a obdržíš následující odměnu:]]></item>
+ </category>
+ <category name="zoo.quests.help">
+  <item name="zoo.quests.help.daily.title"><![CDATA[Příklady čtení]]></item>
+  <item name="zoo.quests.help.daily.description"><![CDATA[Příklad 1: Rozděl 50 balíků krmiva mezi libovolná zvířata.<br>Příklad 2: Vychovej 2 lví mláďata.]]></item>
+ </category>
+ <category name="zoo.quests.achievements.individual">
+  <item name="zoo.quests.achievements.individual.info.congrats"><![CDATA[Dobře! Následující úkol jsi zvládl úspěšně:]]></item>
+  <item name="zoo.quests.achievements.individual.1.title"><![CDATA[Mistr v mazlení]]></item>
+  <item name="zoo.quests.achievements.individual.2.title"><![CDATA[Přítel zvířat]]></item>
+  <item name="zoo.quests.achievements.individual.3.title"><![CDATA[Chovatelští experti]]></item>
+  <item name="zoo.quests.achievements.individual.4.title"><![CDATA[Obchodník/obchodnice]]></item>
+  <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Mistr steaků]]></item>
+  <item name="zoo.quests.achievements.individual.6.title"><![CDATA[Pořádek musí být]]></item>
+  <item name="zoo.quests.achievements.individual.7.title"><![CDATA[Celozrnný fanoušek]]></item>
+  <item name="zoo.quests.achievements.individual.8.title"><![CDATA[Dobrá práce]]></item>
+  <item name="zoo.quests.achievements.individual.9.title"><![CDATA[Tráva je zábava]]></item>
+  <item name="zoo.quests.achievements.individual.10.title"><![CDATA[Vitamínový závislák]]></item>
+  <item name="zoo.quests.achievements.individual.11.title"><![CDATA[Čerstvá ryba  ]]></item>
+  <item name="zoo.quests.achievements.individual.12.title"><![CDATA[Hasič žízně]]></item>
+  <item name="zoo.quests.achievements.individual.1.requirement"><![CDATA[Pomazli se se svými zvířaty %val%-mal.]]></item>
+  <item name="zoo.quests.achievements.individual.2.requirement"><![CDATA[Vlastni %val% zvířat.]]></item>
+  <item name="zoo.quests.achievements.individual.3.requirement"><![CDATA[Chovej %val% mláďat.]]></item>
+  <item name="zoo.quests.achievements.individual.4.requirement"><![CDATA[Inkasuj %val%-násobek příjmů v zoogroších za tvé budovy.]]></item>
+  <item name="zoo.quests.achievements.individual.5.requirement"><![CDATA[Zkrm %val%-násobek kusů masa.]]></item>
+  <item name="zoo.quests.achievements.individual.6.requirement"><![CDATA[Vystav %val% odpadkový koš.]]></item>
+  <item name="zoo.quests.achievements.individual.7.requirement"><![CDATA[Zkrm %val% obilí.]]></item>
+  <item name="zoo.quests.achievements.individual.8.requirement"><![CDATA[Vydělej %val% XP vysypáním odpadkového koše.]]></item>
+  <item name="zoo.quests.achievements.individual.9.requirement"><![CDATA[Zkrm %val% trávy.]]></item>
+  <item name="zoo.quests.achievements.individual.10.requirement"><![CDATA[Zkrm %val% ovoce.]]></item>
+  <item name="zoo.quests.achievements.individual.11.requirement"><![CDATA[Zkrm %val% ryb.]]></item>
+  <item name="zoo.quests.achievements.individual.12.requirement"><![CDATA[Napoj svá zvířata %val% vody.]]></item>
+  <item name="zoo.quests.achievements.individual.bronze.congrats"><![CDATA[Tvá zvířata se radují, neboť jsi uvolnil nový dílek puzzle v bronzové sadě.]]></item>
+  <item name="zoo.quests.achievements.individual.silver.congrats"><![CDATA[Tvá zvířata se radují, neboť jsi uvolnil nový dílek puzzle ve stříbrné sadě.]]></item>
+  <item name="zoo.quests.achievements.individual.gold.congrats"><![CDATA[Tvá zvířata se radují, neboť jsi uvolnil nový dílek puzzle ve zlaté sadě.]]></item>
+  <item name="zoo.quests.achievements.individual.platinum.congrats"><![CDATA[Tvá zvířata se radují, neboť jsi uvolnil nový dílek puzzle v platinové sadě.]]></item>
+  <item name="zoo.quests.achievements.individual.open.achievements.info"><![CDATA[Jdi teď do svého okna s úkoly, aby sis prohlédl obrázek!]]></item>
+ </category>
+ <category name="zoo.quests.achievements.unlocked">
+  <item name="zoo.quests.achievements.unlocked.bronze.title"><![CDATA[Bronzová sada ]]></item>
+  <item name="zoo.quests.achievements.unlocked.silver.title"><![CDATA[Stříbrná sada]]></item>
+  <item name="zoo.quests.achievements.unlocked.gold.title"><![CDATA[Zlatá sada]]></item>
+  <item name="zoo.quests.achievements.unlocked.platinum.title"><![CDATA[Platinová sada]]></item>
+  <item name="zoo.quests.achievements.unlocked.bronze.description"><![CDATA[Srdečně blahopřejeme! Úspěšně jsi splnil všechny úkoly v bronzové sadě a obdržíš zato následující odměny:]]></item>
+  <item name="zoo.quests.achievements.unlocked.silver.description"><![CDATA[Srdečně blahopřejeme! Úspěšně jsi splnil všechny úkoly ve stříbrné sadě a obdržíš zato následující odměny:]]></item>
+  <item name="zoo.quests.achievements.unlocked.gold.description"><![CDATA[Srdečně blahopřejeme! Úspěšně jsi splnil všechny úkoly ve zlaté sadě a obdržíš zato následující odměny:]]></item>
+  <item name="zoo.quests.achievements.unlocked.platinum.description"><![CDATA[Srdečně blahopřejeme! Úspěšně jsi splnil všechny úkoly v platinové sadě a obdržíš zato následující odměny:]]></item>
+  <item name="zoo.quests.achievements.unlocked.open.achievements.info"><![CDATA[Jdi nyní do svého okna s úkoly, aby sis prohlédl zcela uvolněný obrázek!]]></item>
+ </category>
+ <category name="zoo.quests.achievements.unlocked">
+  <item name="zoo.quests.help.daily.title"><![CDATA[Příklady čtení]]></item>
+  <item name="zoo.quests.help.daily.description"><![CDATA[Příklad 1: Zkrm 50x krmivo mezi libovolná zvířata.<br>Příklad 2: Vychovej 2 lví mláďata.]]></item>
+ </category>
+</language>

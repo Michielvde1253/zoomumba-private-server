@@ -1,0 +1,14 @@
+{
+    "zoo.storage_lang;zoo.storage.moreSpace;zoo.storage.moreSpace.title": "Rozšiř svou zoo!",
+    "zoo.storage_lang;zoo.storage.moreSpace;zoo.storage.moreSpace.text": "Tento předmět můžeš koupit až tehdy, pokud budeš mít %neededExpansion% rozšíření zoo. Momentálně máš jen %userExpansion%rozšíření zoo. Chceš svou zoo rozšířit hned teď, aby sis mohl tento předmět koupit?",
+    "zoo.storage_lang;zoo.storage.firstExpansion;zoo.storage.firstExpansion.title": "Vodárenská věž & sklad",
+    "zoo.storage_lang;zoo.storage.firstExpansion;zoo.storage.firstExpansion.text": "Skvělé! Konečně máš dostatek místa k postavení první vodárenské věže a skladu se zásobami. V inventáři máš oba předměty zdarma. A hurá se vším ho hry!",
+    "zoo.storage_lang;zoo.storage.buy;zoo.storage.buy.belowWater": "Maximální kapacita vodárenské věže je %capacity%. Tato hodnota se nedá navýšit ani koupí této budovy. Chceš ji i přesto koupit?",
+    "zoo.storage_lang;zoo.storage.buy;zoo.storage.buy.belowFood": "Máximální kapacita Tvého zásobovacího skladu je %capacity%. Tato hodnota se nedá navýšit ani koupí této budovy. Chceš ji i přesto koupit?",
+    "zoo.storage_lang;zoo.storage.buy;zoo.storage.buy.maxWater": "Máš k dispozici %capacity% z kapacity množství vody. Více už mít nemůžeš. Tato budova Ti kapacitu nerozšíří. Chceš ji i přesto koupit?",
+    "zoo.storage_lang;zoo.storage.buy;zoo.storage.buy.maxFood": "Máš k dispozici %capacity% z úložné kapacity skladu. Více už mít nemůžeš. Tato budova Ti kapacitu nerozšíří. Chceš ji i přesto koupit?",
+    "zoo.storage_lang;zoo.storage.capacity;zoo.storage.capacity.title": "Úložná kapacita",
+    "zoo.storage_lang;zoo.storage.capacity;zoo.storage.capacity.text": "Tvá zvířata potřebují hodně krmiva a vody. Tady se můžeš podívat, kolik máš od každého k dispozici a o kolik se dají rozšířit.",
+    "zoo.storage_lang;zoo.storage.capacity;zoo.storage.capacity.water": "Voda - kapacita",
+    "zoo.storage_lang;zoo.storage.capacity;zoo.storage.capacity.food": "Krmivo - kapacita"
+}

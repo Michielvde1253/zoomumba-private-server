@@ -1,0 +1,3 @@
+zoo.window.upgrade;zoo.window.upgrade;zoo.window.upgrade.info
+zoo.window.upgrade;zoo.window.upgrade;zoo.window.upgrade.button
+zoo.window.upgrade;zoo.window.upgrade;zoo.window.upgrade.easter.info

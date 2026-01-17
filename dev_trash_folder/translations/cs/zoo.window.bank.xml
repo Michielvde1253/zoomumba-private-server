@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.window.bank">
+  <item name="zoo.window.bank.title"><![CDATA[Zoo banka]]></item>
+  <item name="zoo.window.bank.info"><![CDATA[Kdo dobře hospodaří, zbohatne! Nakupuj v zoo bance cenné zoodolary nebo využij naše atraktivní Premium nabídky!]]></item>
+  <item name="zoo.window.bank.button.buyzoodollar.title"><![CDATA[Koupit<br>zoodolary]]></item>
+  <item name="zoo.window.bank.button.buyzoodollar.info"><![CDATA[Dochází ti herní měna? To se může stát! Kdo chce mít úspěch, musí investovat!]]></item>
+  <item name="zoo.window.bank.button.premium.title"><![CDATA[Premium balíček]]></item>
+  <item name="zoo.window.bank.button.premium.info"><![CDATA[Využij Premium výhody a přitáhni do svojí zoo mnoho návštěvníků. Vyzkoušej to!]]></item>
+  <item name="zoo.window.bank.button.startpaket.title"><![CDATA[Asistenti]]></item>
+  <item name="zoo.window.bank.button.startpaket.info"><![CDATA[Nechceš být na všechno sám? Žádný problém! Zoo asistenti ti pomohou!]]></item>
+  <item name="zoo.window.bank.button.cashaction.title"><![CDATA[Cash for<br>Action]]></item>
+  <item name="zoo.window.bank.button.cashaction.info"><![CDATA[Potřebuješ finanční injekci? Tady najdeš skvělé nabídky! Vyber si poskytovatele a získej zoodolary!]]></item>
+  <item name="zoo.window.bank.currency.title"><![CDATA[Směnárna]]></item>
+  <item name="zoo.window.bank.currency.info"><![CDATA[Vyměň svoje zoodolary na zoogroše a vytvoř si na účtu dostatečné rezervy.]]></item>
+  <item name="zoo.window.bank.exchange.btnLabel"><![CDATA[Vyměnit]]></item>
+ </category>
+</language>

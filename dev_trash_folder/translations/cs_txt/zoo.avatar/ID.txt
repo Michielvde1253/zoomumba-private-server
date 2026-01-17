@@ -1,0 +1,6 @@
+zoo.avatar;zoo.avatar.heads
+zoo.avatar;zoo.avatar.eyes
+zoo.avatar;zoo.avatar.mouths
+zoo.avatar;zoo.avatar.hair
+zoo.avatar;zoo.avatar.hats
+zoo.avatar;zoo.avatar.clothes

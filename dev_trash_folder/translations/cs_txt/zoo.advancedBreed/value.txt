@@ -1,0 +1,25 @@
+Ahoj! Já jsem Soňa Starostlivá, zdravotní sestra tady v zoo. Už se těšíš na chování nových miloučkých mláďat? Já ti vysvětlím, jak to funguje! Nejprve se musíš rozhodnout, který zvířecí druh chceš chovat.
+Zvol si ze svého inventáře dvě dospělá zvířata, ze kterých se mají stát rodiče. Čím jsou vzácnější, tím je větší pravděpodobnost, že se narodí ještě vzácnější mládě. Rodiče však musí pro tento chov zůstat u mě.
+Když použiješ doplňkové nasbírané předměty, silné krmivo, superkrmivo nebo superléky, zvýší se tvoje šance na odchov obzvláště vzácného mláděte. Čím více má předmět srdcí, tím větší šance!
+Už jsi téměř dokončil přípravu! Prověř ještě jednou svou volbu, než to vypukne. Chceš něco změnit? Žádný problém, použij prostě tlačítko „Zpět“! 
+Chovný pokus spotřeboval tato zvířata a předměty:
+Chovná stanice připravena
+Zde se právě chová
+Mládě je na světě!
+Mláďátka jsou tady!
+Začít chov
+Použij esenci
+Opravdu chceš začít svůj chov bez podpůrných prostředků? Rozmysli si to dobře - s přísadami máš větší šanci na vzácné mládě.
+Jsi zrovna vprostřed příprav. Chceš chovnou stanici opravdu opustit?
+Chovná stanice
+Zrovna se rodí mláďata těmto zvířatům:
+Zbývající čas:
+Esence z tolije
+Esence z tolije zkracuje dobu odchovu o 50%. 
+Hurá - máš potomka! Toho roztomilého drobečka najdeš ve svém inventáři:
+Hurá - máš potomka! Toho roztomilého uličníka najdeš ve svém inventáři:
+Přemísti maličkého do zvířecí školky, aby mohl vyrůst.
+Přiveď ty maličké do zvířecí školky, aby mohli vyrůst.
+Pozor: Tady se zrovna provádí odchov! Pokud nyní stanici přesuneš do inventáře, proces se přeruší a přijdeš o všechna zvířata i podpůrné prostředky. Opravdu chceš provést přesun ihned?
+Pozor: Tady se zrovna provádí odchov! Když nyní stanici prodáš, bude proces přerušen a všechna zvířata a podpůrné prostředky budou ztraceny. Opravdu chceš stanici nyní prodat?
+Pokud je proces rozmnožování dokončen až po skončení události, obdržíš pouze 1 mládě.

@@ -1,0 +1,16 @@
+{
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.titel.water": "Vodní věž",
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.titel.store": "Budova skladu",
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.text.water": "Zvířata potřebují hodně vody. Rozšiř svoji vodní věž stupeň po stupni a ujisti se, že máš s rostoucí zoo dostatek vody pro všechny.",
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.text.store": "Tvá zvířata potřebují hodně krmiva. Rozšiř svůj sklad stupeň po stupni a ujisti se, že máš s rostoucí zoo dostatek krmiva pro všechny.",
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.textmax.store": "Bravo! Rozšířil jsi sklad až do maximálního stupně.",
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.textmax.water": "Bravo! Rozšířil jsi vodní věž až do maximálního stupně.",
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.leveltext": "Aktuální stupeň rozšíření: %have% / %max%",
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.bartext.water": "Aktuální kapacita vodní věže",
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.bartext.store": "Aktuální kapacita skladu",
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.buy.titel": "Rozšířit",
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.buy.text": "Chtěl bys<br>rozšířit své zoo?",
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.buy.upgraderc": "Rozšířit za zoodolary",
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.buy.upgradevc": "Rozšířit za zoogroše",
+    "zoo.window.waterstorehouse_lang;zoo.window.waterstorehouse;zoo.window.waterstorehouse.buy.nextcap": "Nová velikost:"
+}

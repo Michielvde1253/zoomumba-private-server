@@ -1,0 +1,5 @@
+{
+    "zoo.eventABtrade_lang;zoo.eventABtrade.button;zoo.eventABtrade.button.trade": "Vyměnit",
+    "zoo.eventABtrade_lang;zoo.eventABtrade.layer;zoo.eventABtrade.layer.intro": "Haló, já jsem Lukáš, ředitel zoo v sousedním městě. Slyšel jsem, že tvoje zvířecí zdravotní sestra, Soňa Starostlivá, odchovává nové zvířecí druhy, které mě velmi zajímají. Za každého samečka druhu %priceSpecies% ti dám samečka druhu %rewardSpecies% a nebo samici za samici. Po dobu mé přítomností se doba líhnutí tvého druhu %priceGenus%s zkrátí z 20 na 2 hodiny! Tak jdeš do toho?",
+    "zoo.eventABtrade_lang;zoo.eventABtrade.layer;zoo.eventABtrade.layer.end": "Nyní se vracím do své zoo.  Mnohokrát děkuji a snad se zase brzy uvidíme!"
+}

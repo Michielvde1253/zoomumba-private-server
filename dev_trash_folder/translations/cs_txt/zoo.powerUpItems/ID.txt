@@ -1,0 +1,2 @@
+zoo.powerUpItems;zoo.powerUpItems.setName.7
+zoo.powerUpItems;zoo.powerUpItems.setInfo.7

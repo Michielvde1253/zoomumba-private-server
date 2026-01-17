@@ -1,0 +1,19 @@
+{
+    "zoo.window.recycling_lang;zoo.window.recycling;zoo.window.recycling.title": "Recyklace",
+    "zoo.window.recycling_lang;zoo.window.recycling;zoo.window.recycling.info": "V odpadu najdeš spoustu surovin, které můžeš recyklovat a vyrobit zde cenné materiály.",
+    "zoo.window.recycling_lang;zoo.window.recycling;zoo.window.recycling.storage.info": "Stav tvého skladu: %count% <br> z celkové kapacity %maxcount%",
+    "zoo.window.recycling_lang;zoo.window.recycling;zoo.window.recycling.produce.text": "Vyráběj suroviny z posbíraného odpadu. Doba, která je potřebná k výrobě těchto materiálů je vidět nalevo. Níže je vidět potřebné množství odpadu a počet zoogrošů. Vyber, kolik surovin chceš vyrobit. Pokaždé, když něco vyrobíš, máš šanci získat vzácnou surovinu. Tuto šanci můžeš zvýšit použitím super filtru.",
+    "zoo.window.recycling_lang;zoo.window.recycling;zoo.window.recycling.produce.superfiltertitle": "Super filtr",
+    "zoo.window.recycling_lang;zoo.window.recycling;zoo.window.recycling.produce.superfiltertext": "Zvyš svou šanci na získání vzácné suroviny o %percent%%",
+    "zoo.window.recycling_lang;zoo.window.recycling;zoo.window.recycling.produce.rarechancetext": "Šance na získání vzácné suroviny: %percent%%",
+    "zoo.window.recycling_lang;zoo.window.recycling;zoo.window.recycling.produce.startrecycle": "Spustit recyklaci",
+    "zoo.window.recycling_lang;zoo.window.recycling;zoo.window.recycling.produce.insertfilter": "Použít filtr",
+    "zoo.window.recycling_lang;zoo.window.recycling;zoo.window.recycling.produce.deletefilter": "Odstranit filtr",
+    "zoo.window.recycling_lang;zoo.window.recycling;zoo.window.recycling.card.create": "Zhotovit",
+    "zoo.window.recycling_lang;zoo.window.recycling.slot;zoo.window.recycling.slot.title.buy": "Teď pronajmout",
+    "zoo.window.recycling_lang;zoo.window.recycling.slot;zoo.window.recycling.slot.title.chooseItem": "K dispozici",
+    "zoo.window.recycling_lang;zoo.window.recycling.slot;zoo.window.recycling.slot.button.processfinished": "Vyzvednout",
+    "zoo.window.recycling_lang;zoo.window.recycling.slot;zoo.window.recycling.slot.button.start": "Start",
+    "zoo.window.recycling_lang;zoo.window.recycling.slot;zoo.window.recycling.slot.button.chooseItem": "Zvolit",
+    "zoo.window.recycling_lang;zoo.window.recycling.info;zoo.window.recycling.info.switchInfo": "Tento materiál použij k výrobě následujících položek:"
+}

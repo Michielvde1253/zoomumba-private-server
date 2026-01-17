@@ -1,0 +1,36 @@
+Inbox
+New message
+Outbox
+Address book
+Page %x% of %y%
+Message
+Send
+Close
+%user% wrote:
+You wrote to player %user%:
+Action
+Sender
+Recipient
+Subject
+Date
+Player Name
+Level
+Add
+Do you really want to add player %user% to your address book?
+Delete
+Do you really want to delete this message?
+Delete
+Do you really want to remove player %user% from your address book?
+Error
+This player does not exist.
+Sent
+You cannot add yourself to your address book.
+Your message has been successfully sent.
+Please enter the player's name or ID if you want to add them to your address book.
+This name occurs frequently. Please enter the player's ID, which is unique and distinctive.
+Please enter a recipient so your message can be sent.
+Please enter a subject so your message can be sent.
+Please enter the message text so your message can be sent.
+You cannot send a message to yourself.
+Unfortunately, you can only send messages to players who are on your friends list.
+This player has already been added to your address book.

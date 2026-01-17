@@ -1,0 +1,21 @@
+Friends
+Send a message to this friend
+Are you sure you want to remove this player from your friends list?
+Visit your friend's zoo.
+All alone? Why not quickly invite a few friends to play together? More people means more fun!
+Friend requests received
+Accept friend request
+Decline friend request
+Unfortunately, you don't have any new friend requests.
+Sent friend requests
+You haven't sent any friend requests.
+Invite friends
+Bravo! You have successfully sent your friend request to user %useName%.
+Don't want to play ZooMumba alone anymore and would rather enjoy it with others? Invite your friends!
+Invite friends to play ZooMumba!
+Please enter the usernames of your friends to send a friendship request.
+We found more than one username while searching. Please select your friend from the list:
+You cannot add yourself to your own friend list!
+Invite friends by email.
+Invite friends via Facebook.
+Invite

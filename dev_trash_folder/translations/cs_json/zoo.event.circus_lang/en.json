@@ -1,0 +1,12 @@
+{
+    "zoo.event.circus_lang;zoo.event.circus;zoo.event.circus.bubble": "Vítejte v putovním cirkuse!<br>Představujeme tajuplnou bednu! Kup si jednu bednu a dostaneš jedno z 10 zvířat. Můžeš mít najednou až 20 beden, přičemž každá bedna se dá otevřít až za 5 hodin. Dobře se bav!",
+    "zoo.event.circus_lang;zoo.event.circus;zoo.event.circus.prizes": "Zvířata:",
+    "zoo.event.circus_lang;zoo.event.circus;zoo.event.circus.infoTitle": "Srdečně blahopřejeme!",
+    "zoo.event.circus_lang;zoo.event.circus;zoo.event.circus.infoText": "Do tvého inventáře přibyla následující zvířata: %animal%.  Obstarej ještě více tajuplných beden k získání ještě více ojedinělých zvířat!",
+    "zoo.event.circus_lang;zoo.event.circus;zoo.event.circus.warningTitle": "Och, to je nám líto!",
+    "zoo.event.circus_lang;zoo.event.circus;zoo.event.circus.warningText": "Už máš 20 tajuplných beden. Počkej, dokud se jedna z nich neotevře a pak si obstarej další bednu.",
+    "zoo.event.circus_lang;zoo.event.circus;zoo.event.circus.tooltipClosedBox": "Tajuplná bedna se otevře za: %amount% ",
+    "zoo.event.circus_lang;zoo.event.circus;zoo.event.circus.tooltipOpenedBox": "Klikni k zobrazení svých zvířat",
+    "zoo.event.circus_lang;zoo.event.circus;zoo.event.circus.autoBookTitle": "Vítej zpět!",
+    "zoo.event.circus_lang;zoo.event.circus;zoo.event.circus.autoBookText": "Zatímco jsi byl pryč, dostali tvá zvířata z tajuplné bedny žízeň. Chovatelka Soňa se o ně postarala a přinesla do svého inventáře. Rychle se podívej!"
+}

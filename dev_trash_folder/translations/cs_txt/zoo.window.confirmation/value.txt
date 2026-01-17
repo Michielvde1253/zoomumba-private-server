@@ -1,0 +1,17 @@
+Ukončit hru
+Toto zoo ještě není k dispozici. Můžeš ho odemknout dosáhnutím %level% rozšíření v následující zoo: %zooName%. Nebo ho odemkni okamžitě za %zooDollar% zoodolarů.
+K odemknutí tohoto zoo musíš mít level %level%. Nebo ho odemkni okamžitě za %zooDollar% zoodolarů.
+K odemknutí tohoto zoo musíš mít level %level%.
+Chceš koupit zoo rozšíření?
+Koupit
+Chceš ZooMumbu<br>skutečně ukončit?
+Koupit předměty
+Chceš tento předmět skutečně koupit?
+Koupit tah
+Chceš provést tento tah za zoodolary?
+Prodat
+Chceš tento předmět skutečně prodat?
+Upozornění
+Pokud umístíš výběh do svého inventáře, ztratí svůj akční upgrade.<br><br>Chceš pokračovat?
+Pozor!
+Ještě sis nevybral svých 5 kamarádů! Pokud budeš pokračovat, Tvé dárky propadnou. To by byla škoda ... Chceš přesto pokračovat?

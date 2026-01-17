@@ -1,0 +1,16 @@
+Nasbíral jsi %mycards% z %allcards% stavebních plánů!
+Dílna
+Řemeslníci a fandové pozor! Použij své materiály k vybudování nových výběhů, budov, dekorací nebo cest. Stačí si vybrat kategorii níže a pokračovat do další fáze výroby.
+Vyber kategorii:
+Je to velmi jednoduché: Vlevo dole vidíš co se právě vyrábí. Stavební plán ti ukáže, jaký materiál potřebuješ. Nad tím uvidíš čas výroby a počet tlapek, které musíš zaplatit. Pochopil jsi to? Dobře, tak klikni na "Start".
+Start
+Dílna
+Výroba probíhá!
+Trvání:
+Vyrobit okamžitě
+Ušetři si čas a dokonči výrobu okamžitě!
+Dokončit
+Zrychli a dokonči výrobu za polovinu času.
+Zrychlit
+Hurá! Všechno hotovo: předmět, který jsi právě vyrobil najdeš v inventáři!
+Hurá! Právě jsi obdržel stavební plán! Vyprav se do dílny a postav si nový předmět pro tvé zoo!

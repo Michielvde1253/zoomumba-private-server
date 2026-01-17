@@ -1,0 +1,61 @@
+Safari
+Kanystr benzínu
+Škoda! Bohužel je Tvůj level příliš nízký! Od levelu 7 to můžeš se safari tour pořádně rozjet!
+Vítej na safari plném dobrodružství: Vyhraj skvělé odměny a dokonce nová zvířata!  <br /><br />Stačí si v dalším kroku vybrat oblast, ve které chceš se safari začít.  <br /><br />Hurá do divočiny!
+Vyber si region
+Ve kterém regionu chceš se safari začít? Vyber si ho zde: V každém regionu jsou 3 oblasti, které můžeš aktivovat v závislosti na svém levelu.
+Ahooj dobrodruhu! Vyprav se na pořádné safari. Využij přitom žolíků, kteří Ti usnadní cestu do divočiny.<br><br>Důležité: Pro svou cestu si zvol jen jednoho z každého typu žolíků!
+Chceš investovat %skipTimerCost% zoodollarů a odstartovat safari hned?
+Jsi připravený na safari? Takže takhle to funguje: V dalším kroku uvidíš hru: skládá se z 9 až 25 zakrytých karet. Karty skrývají odměny nebo také stopy zvířat, po kterých půjdeš, abys získal hlavní výhru. Ale pozor: každá karta může skrývat také past!<br /><br />Vidíš ten kanystr s benzínem vpravo dole? Ukazuje Ti, kolik benzínu je ještě v nádrži Tvého džípu. Jakmile odkryješ kartu, spotřebuješ tak benzín.<br /><br />A teď k pravidlům hry: Na začátku si můžeš vybrat karty jen ze spodní řady. Klikni na kartu a ta se otočí. Tak uvidíš, jestli jsi něco našel a pokud ano, tak co to je. Poté si můžeš vybrat karty, které jsou nad nebo pod poslední kartou, ale také vpravo nebo vlevo od ní. Hra skončí, až najdeš zvíře. Ale skončí i tehdy, pokud už nebudeš mít benzín.<br /> <br />Zvyš své šance na skvělý nález se žolíkem z obchodu. Existují 2 typy žolíků: Karetní a navigační. Nech si pomoct při odkrývání karet karetním žolíkem - odkryje Ti karty navíc. Navigační žolík Tě díky kompasu povede správným směrem.<br /><br />Můžeš si s sebou na safari vzít jednoho žolíka z každého typu. Ať jsi žolíka použil nebo ne, na konci safari všichni propadají.
+Oje, narazil jsi na překážku. To je k zlosti, 1 kanystr benzínu je tak fuč.
+Super! Našel jsi %treasureCount% %treasureName%. Rychle, hledej dál, můžeš najít ještě plno pokladů.
+Super! Gratulace, podívej, co jsi objevil! Je to %animal%! Rychle do zoo, čeká už na Tebe v inventáři. Tím jsi safari úspěšně zakončil.
+Chceš safari opravdu ukončit? Pokud ano, nemůžeš už dnes začít žádné safari a Tvůj benzín a zásoby jsou fuč!
+Žádný žolík
+Jsi těsně před cílem! A Tvoje nádrž je bohužel prázdná. Chceš za pár zoodollarů natankovat a pokračovat v safari dál? Tak si vyber, kolik benzínu bys chtěl nakoupit.
+Množství kanystrů benzínu pro tento terén je %neededGas%. Zatím máš ale jen %missingGas%. Chceš nakoupit za zoodollary potřebný benzín?
+Zvol, prosím, kolik benzínu chceš nakoupit. Ale pozor: Nespotřebuješ-li na safari celou zásobu benzínu, zbytek propadne.
+Návod
+Vítej ve Tvém safari!<br /> Objev nevšední zvířata a skvělé poklady. Ale dávej pozor, kam se ubírají Tvé kroky. Všude číhají pasti. Podle druhu terénu spotřebuješ různé množství benzínu.<br /><br />Safari je u konce, jakmile je Tvá nádrž prázdná nebo pokud jsi našel zvíře.
+Do divočiny se dostaneš kliknutím na jedno ze spodních políček.
+Pohybuj se po přímých liniích na sever, jih, západ a východ.
+Své žolíky můžeš kdykoliv aktivovat. Mají pro Tebe cenné tipy, které Tě dovedou rychleji k cíli.
+K dispozici jsou následující typy terénů:<br />
+Jednoduchý terén
+Spotřebuješ 1 jednotku benzínu.
+Obtížnější terén
+Spotřebuješ 3 jednotky benzínu.
+Neprůchodný terén
+Zákaz vstupu
+Probádaný terén
+Spotřebuješ 1 jednotku benzínu.
+Můžeš najít následující předměty: <br />
+STOPY
+POKLAD
+Naznačují směr, kde se zvíře může zdržovat.
+Jupíí, poklad se skvělým překvapením.
+BARRIER
+Will cost you 1 gasoline unit.
+ENCOUNTER WITH AN ANIMAL
+If you encounter an animal, it belongs to you and the mission is over.
+Monkey, the advisor
+Sonya, the advisor
+Compass
+Fast travelling
+Everyone needs a little help from time to time. If you let the monkey help, you can reveal one randomly chosen card.<br /><br />Are you curious? Let's get to it!
+Do you want to reveal a certain card and advance in the safari?<br /><br /><br /> Use the help of the advisor Sonia. With her help, you will reveal the card of your choice. This will help you reach your goal faster. Good luck!
+Need help? Use the compass as a joker to mark a card for you. You will find the animal you are looking for or a trap on it. Are you eager to find out what is hidden on it? So hurry up and find out!
+But now to the point: Are you just crawling towards your goal step by step? Aren't you fast enough?<br /><br />Then use the joker: He will mark 3 cards for you, among which the animal you are looking for may be hidden, but also a trap.<br /><br />Animal or trap... Quick, look!
+You can start your safari after you reach level 7
+Jump into the jeep: Click here to start the safari!
+Back to the zoo
+Small
+Medium
+Big
+You get a certain amount of gasoline cans for each day.<br/> Want more now? Then shorten your waiting time with zoodollars!
+Click to buy more gasoline.
+This region will be accessible after you reach the level %regionLevel%.
+Start the safari
+Finalize safari
+Activate
+Deploy

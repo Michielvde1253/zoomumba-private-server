@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.window.recycling">
+  <item name="zoo.window.recycling.title"><![CDATA[Recyklace]]></item>
+  <item name="zoo.window.recycling.info"><![CDATA[V odpadu najdeš spoustu surovin, které můžeš recyklovat a vyrobit zde cenné materiály.]]></item>
+  <item name="zoo.window.recycling.storage.info"><![CDATA[Stav tvého skladu: %count% <br> z celkové kapacity %maxcount%]]></item>
+  <item name="zoo.window.recycling.produce.text"><![CDATA[Vyráběj suroviny z posbíraného odpadu. Doba, která je potřebná k výrobě těchto materiálů je vidět nalevo. Níže je vidět potřebné množství odpadu a počet zoogrošů. Vyber, kolik surovin chceš vyrobit. Pokaždé, když něco vyrobíš, máš šanci získat vzácnou surovinu. Tuto šanci můžeš zvýšit použitím super filtru.]]></item>
+  <item name="zoo.window.recycling.produce.superfiltertitle"><![CDATA[Super filtr]]></item>
+  <item name="zoo.window.recycling.produce.superfiltertext"><![CDATA[Zvyš svou šanci na získání vzácné suroviny o %percent%%]]></item>
+  <item name="zoo.window.recycling.produce.rarechancetext"><![CDATA[Šance na získání vzácné suroviny: %percent%%]]></item>
+  <item name="zoo.window.recycling.produce.startrecycle"><![CDATA[Spustit recyklaci]]></item>
+  <item name="zoo.window.recycling.produce.insertfilter"><![CDATA[Použít filtr]]></item>
+  <item name="zoo.window.recycling.produce.deletefilter"><![CDATA[Odstranit filtr]]></item>
+  <item name="zoo.window.recycling.card.create"><![CDATA[Zhotovit]]></item>
+ </category>
+ <category name="zoo.window.recycling.slot">
+  <item name="zoo.window.recycling.slot.title.buy"><![CDATA[Teď pronajmout]]></item>
+  <item name="zoo.window.recycling.slot.title.chooseItem"><![CDATA[K dispozici]]></item>
+  <item name="zoo.window.recycling.slot.button.processfinished"><![CDATA[Vyzvednout]]></item>
+  <item name="zoo.window.recycling.slot.button.start"><![CDATA[Start]]></item>
+  <item name="zoo.window.recycling.slot.button.chooseItem"><![CDATA[Zvolit]]></item>
+ </category>
+ <category name="zoo.window.recycling.info">
+  <item name="zoo.window.recycling.info.switchInfo"><![CDATA[Tento materiál použij k výrobě následujících položek:]]></item>
+ </category>
+</language>

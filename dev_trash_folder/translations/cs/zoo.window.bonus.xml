@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.window.bonus">
+  <item name="zoo.window.bonus.main.title"><![CDATA[Bonusový kód]]></item>
+  <item name="zoo.window.bonus.main.info"><![CDATA[Máš bonusový kód ZooMumba? Tak jej jednoduše zadej sem a ihned obdržíš svůj bonus!]]></item>
+  <item name="zoo.window.bonus.success.title"><![CDATA[Srdečně blahopřejeme,]]></item>
+  <item name="zoo.window.bonus.success.info"><![CDATA[Super, bonusový kód jsi zadal správně, a získal tak odměnu. Přejeme Ti příjemnou zábavu!]]></item>
+ </category>
+ <category name="zoo.window.bonus.error">
+  <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Chyba]]></item>
+  <item name="zoo.window.bonus.error.invalid.info"><![CDATA[Bonusový kód je bohužel nesprávný. Zkontroluj prosím kód a zkus to znovu.]]></item>
+  <item name="zoo.window.bonus.error.participated.title"><![CDATA[Chyba]]></item>
+  <item name="zoo.window.bonus.error.participated.info"><![CDATA[Tento bonusový kód sis už vybral.]]></item>
+  <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Chyba]]></item>
+  <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[Bonusový kód jsi příliš často zadal nesprávně. Počkej prosím několik minut, než to zkusíš znovu.]]></item>
+ </category>
+</language>

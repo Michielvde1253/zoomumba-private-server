@@ -1,0 +1,21 @@
+Přátelé
+Pošli zprávu tomuto příteli
+Opravdu chceš tohoto hráče vymazat ze tvého seznamu přátel?
+Navštiv zoo tvého přítele
+Zcela sám? Proč rychle nepozveš pár přátel, abyste si zahráli spolu? Víc lidí znamená víc zábavy!
+Obdržené žádosti o přátelství
+Přijmout žádost o přátelství
+Zamítnout žádost o přátelství
+Bohužel nemáš žádné nové žádosti o přátelství.
+Odeslané žádosti o přátelství
+Neodeslal jsi žádné žádosti o přátelství.
+Pozvat přátele
+Bravo! Úspěšně jsi odeslal svou žádost o přátelství uživateli %useName%.
+Už nechceš hrát hru ZooMumba sám a raději by sis užíval s jinými? Tak přizvi své přátele!
+Přizvi přátele hry ZooMumba.
+Sem vlož, prosím, hráčská jména svých přátel, kterým chceš odeslat žádost o přátelství.
+Při hledání jsme nalezli více než jedno hráčské jméno. Vyber, prosím, svého přítele z tohoto seznamu:
+Nemůžeš přidat sám sebe do svého listu přátel!
+Pozvi přátele emailem.
+Pozvi přátele přes Facebook.
+Pozvat

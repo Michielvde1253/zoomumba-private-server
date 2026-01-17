@@ -1,0 +1,5 @@
+zoo.window.construction;zoo.window.construction;zoo.window.construction.title
+zoo.window.construction;zoo.window.construction;zoo.window.construction.info
+zoo.window.construction;zoo.window.construction;zoo.window.construction.buildinginfo
+zoo.window.construction;zoo.window.construction;zoo.window.construction.buildinginfo2
+zoo.window.construction;zoo.window.construction;zoo.window.construction.button.buydirectly

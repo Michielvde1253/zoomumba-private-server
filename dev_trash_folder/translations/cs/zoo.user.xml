@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.user">
+  <item name="zoo.user.name"><![CDATA[Jméno hráče]]></item>
+  <item name="zoo.user.id"><![CDATA[ID hráče]]></item>
+  <item name="zoo.user.notAuth.title"><![CDATA[Ověření]]></item>
+  <item name="zoo.user.notAuth.info"><![CDATA[Ověření se nezdařilo. Přihlas se prosím znovu.]]></item>
+ </category>
+</language>

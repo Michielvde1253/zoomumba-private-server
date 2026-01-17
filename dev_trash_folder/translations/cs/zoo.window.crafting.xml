@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.window.crafting">
+  <item name="zoo.window.crafting.intro.blueprintRewards"><![CDATA[Nasbíral jsi %mycards% z %allcards% stavebních plánů!]]></item>
+  <item name="zoo.window.crafting.intro.title"><![CDATA[Dílna]]></item>
+  <item name="zoo.window.crafting.intro.text"><![CDATA[Řemeslníci a fandové pozor! Použij své materiály k vybudování nových výběhů, budov, dekorací nebo cest. Stačí si vybrat kategorii níže a pokračovat do další fáze výroby.]]></item>
+  <item name="zoo.window.crafting.intro.chooseCategorie"><![CDATA[Vyber kategorii:]]></item>
+  <item name="zoo.window.crafting.produce.text"><![CDATA[Je to velmi jednoduché: Vlevo dole vidíš co se právě vyrábí. Stavební plán ti ukáže, jaký materiál potřebuješ. Nad tím uvidíš čas výroby a počet tlapek, které musíš zaplatit. Pochopil jsi to? Dobře, tak klikni na "Start".]]></item>
+  <item name="zoo.window.crafting.produce.button"><![CDATA[Start]]></item>
+  <item name="zoo.window.crafting.progress.title"><![CDATA[Dílna]]></item>
+  <item name="zoo.window.crafting.progress.text"><![CDATA[Výroba probíhá!]]></item>
+  <item name="zoo.window.crafting.progress.time"><![CDATA[Trvání:]]></item>
+  <item name="zoo.window.crafting.progress.instantRaise.title"><![CDATA[Vyrobit okamžitě]]></item>
+  <item name="zoo.window.crafting.progress.instantRaise.text"><![CDATA[Ušetři si čas a dokonči výrobu okamžitě!]]></item>
+  <item name="zoo.window.crafting.progress.instantRaise.button"><![CDATA[Dokončit]]></item>
+  <item name="zoo.window.crafting.progress.layer.elixir.text"><![CDATA[Zrychli a dokonči výrobu za polovinu času.]]></item>
+  <item name="zoo.window.crafting.progress.button.elixir"><![CDATA[Zrychlit]]></item>
+  <item name="zoo.window.crafting.success.text"><![CDATA[Hurá! Všechno hotovo: předmět, který jsi právě vyrobil najdeš v inventáři!]]></item>
+  <item name="zoo.window.crafting.blueprint.text"><![CDATA[Hurá! Právě jsi obdržel stavební plán! Vyprav se do dílny a postav si nový předmět pro tvé zoo!]]></item>
+ </category>
+</language>

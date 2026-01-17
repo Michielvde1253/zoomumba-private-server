@@ -1,0 +1,66 @@
+Vítej v ZooMumbě, tvé bláznivé zoologické zahradě! Jmenuji se Soňa a vysvětlím ti krok za krokem, jak hra funguje.<br><br>V obchodě si můžeš koupit různé zvířecí výběhy, které poté umístíš na hrací pole.
+Klikni na výběh a kup si zvíře. Všímej si přitom, zda kupuješ samečka nebo samičku. <br><br>Pokud máš ve výběhu oba, můžeš brzy očekávat mladé!
+Pravidelně se o svá zvířata starej, mazli se a hraj si s nimi. Pak budou šťastná a spokojená. Zkus to!
+Svoje výběhy, budovy a atrakce musíš propojit cestami, které vedou ke vchodu, aby mohli návštěvníci všechno obdivovat.
+V obchodě získej krmivo a všechno, po čem zvířata touží: maso, ovoce, trávu - prostě se zde porozhlédni!
+Od 2. levelu v obchodě získáš také budovy a stánky, které udělají tvoji zoo pro návštěvníky ještě atraktivnější. <br><br>Příjmy z peněz za vstupné do tvé zoo si můžeš pravidelně vyzvednout v hlavní budově.
+Čím víc návštěvníků přivítáš ve své zoo, tím víc odpadků budeš muset uklidit. <br><br>Udržuj svou zoo stále čistou a sbírej odpadky. Pak budou tvoji návštěvníci spokojeni!
+Čím víc spokojených návštěvníků bude mít tvoje zoo, tím výš bude stoupat zoometr.<br><br>Jdi do toho \na postav nejúžasnější zoo na světě – ve hře ZooMumba! Dobře se bav!
+Přeskočit
+Chceš tento krok opravdu přeskočit?
+Úkol %currentTask% úspěšně ukončen. Celkový počet úkolů: %totalTasks%
+Vítej ve hře ZooMumba!
+Chyť tučňáky
+Nakrm tučňáky
+Péče a mazlení
+Buduj výběhy
+Hurá se zvířaty do výběhů
+Vytvoř novou cestu
+Pryč s odpadem!
+Krmení navíc
+Chovej mláďata
+Možnost výdělku
+Skoro se Ti to povedlo!
+Jupíí, zvládl jsi to!
+Jupíí! Pozvi teď přátele!
+Začíná safari!
+Smím se představit? Jmenuji se Soňa vysvětlím Ti, jak taková bláznivá zoo-hra funguje. Jsi připravený? Tak jen do toho, řediteli zoo!
+Stala se malá nehoda! Tučnáci utekli z výběhu! Pomoz mi rychle s jejich pochytáním a vrať je zpátky do výběhu.
+Super! Z neustálého pobíhání mají hlad a žízeň. Dej jim dostatek vody a ryb. Klikni na výběh, pak na ryby a na vědro.
+Klikni na kartáč a vyčisti výběh. Vidíš, už září čistotou! A ještě chvilka pohlazení pro tyto poblázněné ploutvonožce - klikni na medvídka.
+To je paráda! Opravdu to se zvířaty umíš! Teď můžeš vybudovat výběhy. Zajdi do obchodu, klikni na výběh a umísti ho v zoo.
+Dej do voliéry pár ukecaných papoušků. Klikni na voliéru, vyber v obchodě samičku a samečka a umísti je.
+Spoj výběhy cestičkami. Čím lepší propojení vytvoříš, tím atraktivnější Tvá zoo bude. Vytvoř cestu k voliéře papoušků.
+S návaly turistů Ti přibude i dost odpadků. Vypořádej se s nimi jedním kliknutím na lopatku.
+Obstarej si v obchodě krmivo pro všechna svá zvířata. Na dnešek potřebuješ ovoce pro nakrmení papoušků.
+Pokud máš samečka a samičku pohromadě, klikni na tlačítko "Chov" a pak na "Koupit hned".
+Budovy v zoo produkují zoogroše, posbírej pravidelně své příjmy. Klikni jednoduše na zoogroše nad budovou.
+A je to hotovo. Ještě nějaké dotazy? Tak si přečti v klidu tipy. Pohybuj jednoduše myší: Budeš tak ještě mazanější!
+Můžeme si potřást rukou, kolego. Stal jsi se prověřeným ředitelem zoo. Tvoje nasbírané znalosti zoo opravdu proslavily. A to je důvod k radosti!
+Pššt ... už jsi to věděl? Teď můžeš do hry pozvat své kamarády. Stačí jednoduše poslat email a můžete společně začít.
+Hurá! Dosáhl jsi na 7. level: Svět safari Ti teď leží u nohou. Přidej plyn a klikni na džíp v řídícím centru nebo se podívej do menu v hlavní budově. Do toho!
+NONE
+NONE
+Nakrm svá zvířata superkrmivem a získej body zkušenosti navíc.
+Podle kočky náladovky poznáš, jak jsou zvířata spokojená. Čím více se o ně budeš starat, tím budou spokojenější.
+Klikni na stavbu, abys zkrátil dobu výstavby.
+Pokud chceš odchovat mláďata, dávej pozor, ať dáš do výběhu samečka a samičku.
+Dbej na to, aby byly Tvé výběhy propojené cestičkami. Jinak ztratí Tvá zoo atraktivitu.
+Starej se o koše na odpadky, ať je Tvá zoo čistá.
+Nakrm svá zvířata častěji nejlepším krmivem. Dostaneš za to množství bodů zkušenosti.
+Dudlík Ti ukáže, pokud bude Tvůj chov ukončen.
+Dochází ti herní měna? Tak získej další! Klikni na zlatý pytlík.
+Zadej emailovou adresu kamaráda, kterého chceš pozvat do hry.
+Do různých regionů safari potřebuješ různé množství benzínu. Do uzavřených regionů ale vjet nemůžeš.
+Dobře!
+Super! Tučňáci jsou zase zpátky ve výběhu. Klikni na šipku, aby ses dostal k dalšímu kroku.
+Mňam! Tvoji tučňáci jsou teď sytí. Klikni na šipku a pokračuj dále!
+Skvělý výkon! Veselí ploutvonožci jsou teď čistí a spokojení. Klikni na šipku a pokračuj!
+Práce první třídy! Tvůj výběh už stojí. Klikni na šipku a dostaneš se k dalšímu kroku.
+Jupíí! Ve své zoo máš od teď i papoušky. Klikni na šipku a pokračuj!
+Jen tak dále! Návštěvníci obdivují nové výběhy. Klikni na šipku a pokračuj dále.
+Perfektní! Od teď se cestičky blýskají čistotou. Klikni na šipku a pokračuj!
+jak výtečné! I papoušci už jsou sytí. Klikni na šipku a pokračuj!
+Jak roztomilé! Adoptoval jsi úspěšně papouščí potomky. Klikni na šipku a pokračuj!
+Skvělé! V kase to teď pěkně cinká! Už máš skoro vše hotové! Rychle, klikni ještě jednou na šipku.
+Jak jednoduché! Stal ses už skoro profíkem ve sbírání bodů v menu. Ještě jedno kliknutí a jsi na konci naší malé cesty.

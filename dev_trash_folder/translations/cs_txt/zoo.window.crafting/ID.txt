@@ -1,0 +1,16 @@
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.intro.blueprintRewards
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.intro.title
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.intro.text
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.intro.chooseCategorie
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.produce.text
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.produce.button
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.progress.title
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.progress.text
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.progress.time
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.progress.instantRaise.title
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.progress.instantRaise.text
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.progress.instantRaise.button
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.progress.layer.elixir.text
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.progress.button.elixir
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.success.text
+zoo.window.crafting;zoo.window.crafting;zoo.window.crafting.blueprint.text

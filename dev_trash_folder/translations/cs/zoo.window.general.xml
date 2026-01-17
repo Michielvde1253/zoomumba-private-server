@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <item name="zoo.window.general.error"><![CDATA[Chyba]]></item>
+ <item name="zoo.window.general.petPenny_singular"><![CDATA[Zoogroš]]></item>
+ <item name="zoo.window.general.petPenny_plural"><![CDATA[Zoogrošů]]></item>
+ <item name="zoo.window.general.petPaw_singular"><![CDATA[Tlapka]]></item>
+ <item name="zoo.window.general.petPaw_plural"><![CDATA[Tlapek]]></item>
+ <item name="zoo.window.general.zooDollar_singular"><![CDATA[Zoodolar]]></item>
+ <item name="zoo.window.general.zooDollar_plural"><![CDATA[Zoodolarů]]></item>
+ <item name="zoo.window.general.xp_singular"><![CDATA[Bod zkušenosti]]></item>
+ <item name="zoo.window.general.xp_plural"><![CDATA[Bodů zkušeností]]></item>
+ <item name="zoo.window.general.attractivity_singular"><![CDATA[Atraktivita]]></item>
+ <item name="zoo.window.general.start"><![CDATA[Start]]></item>
+ <item name="zoo.window.general.skip"><![CDATA[Přeskočit]]></item>
+ <item name="zoo.window.general.next"><![CDATA[Další]]></item>
+ <item name="zoo.window.general.prev"><![CDATA[Zpět]]></item>
+ <item name="zoo.window.general.first"><![CDATA[První]]></item>
+ <item name="zoo.window.general.last"><![CDATA[Poslední]]></item>
+ <item name="zoo.window.general.congrats"><![CDATA[Srdečně blahopřejeme!]]></item>
+ <item name="zoo.window.general.specialOffer"><![CDATA[Akce!]]></item>
+ <item name="zoo.window.general.attention"><![CDATA[Pozor!]]></item>
+ <item name="zoo.window.general.sorry"><![CDATA[Omlouváme se]]></item>
+ <item name="zoo.window.general.goodbye"><![CDATA[Nashledanou!]]></item>
+ <item name="zoo.window.general.thankyou"><![CDATA[Díky!]]></item>
+ <item name="zoo.window.general.second"><![CDATA[sekunda]]></item>
+ <item name="zoo.window.general.seconds"><![CDATA[sekund]]></item>
+ <item name="zoo.window.general.minute"><![CDATA[minuta]]></item>
+ <item name="zoo.window.general.minutes"><![CDATA[min.]]></item>
+ <item name="zoo.window.general.hour"><![CDATA[hodina]]></item>
+ <item name="zoo.window.general.hours"><![CDATA[hodin]]></item>
+ <item name="zoo.window.general.day"><![CDATA[den]]></item>
+ <item name="zoo.window.general.days"><![CDATA[dny]]></item>
+ <item name="zoo.window.general.week"><![CDATA[Týden]]></item>
+ <item name="zoo.window.general.weeks"><![CDATA[týdnů]]></item>
+ <item name="zoo.window.general.month"><![CDATA[měsíc]]></item>
+ <item name="zoo.window.general.months"><![CDATA[měsíce]]></item>
+ <item name="zoo.window.general.year"><![CDATA[rok]]></item>
+ <item name="zoo.window.general.years"><![CDATA[let]]></item>
+</language>

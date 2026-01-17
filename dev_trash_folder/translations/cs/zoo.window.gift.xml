@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.window.gift.superFeedPack">
+  <item name="zoo.window.gift.superFeedPack.info"><![CDATA[Dnes v nabídce - balíčky se superkrmivem! Vyber si mezi 3 možnostmi: "Dobrý začátek", "Mistr" a "Expert". Jako expert můžeš poslat další dárky svým 5 přátelům. Neváhej!]]></item>
+ </category>
+ <category name="zoo.window.gift.recipients">
+  <item name="zoo.window.gift.recipients.headerGift"><![CDATA[Dárek]]></item>
+  <item name="zoo.window.gift.recipients.headerUsername"><![CDATA[Jméno hráče]]></item>
+  <item name="zoo.window.gift.recipients.headerUserID"><![CDATA[ID hráče]]></item>
+  <item name="zoo.window.gift.recipients.info"><![CDATA[Vyber 5 kamarádů a pošli každému dárek:]]></item>
+  <item name="zoo.window.gift.recipients.button.send"><![CDATA[Obdarovat]]></item>
+ </category>
+ <category name="zoo.window.gift.unwrapped">
+  <item name="zoo.window.gift.unwrapped.title"><![CDATA[To bude překvapení!]]></item>
+  <item name="zoo.window.gift.unwrapped.text.1"><![CDATA[Získal jsi následující dárek:]]></item>
+  <item name="zoo.window.gift.unwrapped.text.2"><![CDATA[Tvůj dárek bude odepsán z Tvého konta hned po rozbalení.]]></item>
+ </category>
+</language>

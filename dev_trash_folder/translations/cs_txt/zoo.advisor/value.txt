@@ -1,0 +1,60 @@
+Druhy zvířat
+Spokojenost
+Dekorace
+Chov zvířat
+Odpad
+Skvělé! Ve tvé zoo se opravdu nemůže nikdo rozčilovat nad nedostatkem různých druhů zvířat. Jen tak dále!
+Návštěvníkům se líbí, když můžou v zoologické zahradě obdivovat velké množství zvířat. Máš %currentspecies% různých druhů zvířat, to je opravdu dost!  Koukni se do zoo-obchodu, najdeš tam minimálně %missingspecies% dalších.
+Návštěvníci zoo chtějí vidět co nejvíce zvířat. V tvé zoo to ale opravdu stojí za to. Momentálně vlastníš %currentspecies% zvířat. V zoo-obchodě najdeš nejméně %missingspecies% dalších druhů.
+Kdo jde do zoo, chce vidět zvířata! V tvé zoo by mohl být výběr ještě větší: Momentálně máš %currentspecies% druhů zvířat. Zoo-obchod ti nabízí ještě minimálně %missingspecies% dalších.
+Oh! V tvé zoo není moc druhů zvířat. Návštěvníci mohou obdivovat %currentspecies% druhů, což zvládnou poměrně rychle. Rychle si kup ještě nejméně %missingspecies% dalších zvířat v Zoo-obchodě.
+Tvá zvířata jsou opravdu bezvýhradně spokojena. Jsi vzorným ředitelem zoo.
+Staráš se o svá zvířata skvěle, ale podívej, některá z nich si zaslouží ještě více pozornosti.
+Oh! Tvá zvířata se trochu nudí. Nemáš chuť si s nimi trochu pohrát, nakrmit je nebo napojit? To by pro ně bylo skvělé a byla by zase opravdu šťastná!
+Ojé! Tvá zvířata jsou smutná, protože se o ně nestaráš. Hraj si s nimi přece trochu! Trochu krmení a vody je také rozveselí. Pak ve tvé zoo znovu zazáří a potěší návštěvníky! 
+Ale ne! Tvá zvířata mají hlad a žízeň! No tak, starej se o ně! Až budou sytá a výběhy vyčištěné, bude zase zábavou si se zvířaty hrát!
+No, páni! Tvoje zoo je skvěle vyzdobená! Pro návštěvníky je toho opravdu hodně k vidění. Jen tak dále!
+Super! Pěkně jsi svoji zoo vyzdobil! Podívej se ještě do zoo-obchodu: najdeš tam spoustu dalších hezkých a vtipných dekorací. Tvoji návštěvníci mají rádi změnu!
+Tvá zoo je hezká, ale dá se toho ještě trochu změnit! V zoo-obchodě najdeš spoustu hezkých a vtipných dekorací.
+Praktické a funkční, ale trochu nudné. Více dekorací návštěvníci ocení. Ať všichni vidí, že umíš ukázat víc!
+Tvoje zoo by mohla být trochu více vyzdobená. Potěš své návštěvníky novými pozoruhodnými dekoracemi.
+Tolik roztomilých mláďat! Máš opravdu zlaté ruce a tvá zvířata tak mají hodně potomků. Super!
+Palcové titulky o mláďatech v zoo přitahují návštěvníky. Každý ředitel zoo ale najde vždy další možnosti zlepšení. Podívej: Momentálně můžeš odchovat %missingbabies% dalších mláďat.
+Zprávy o přírůstcích v zoo jsou známé široko daleko. Návštěvníci milují malá neohrabaná mláďata! Momentálně můžeš ale odchovat %missingbabies% dalších mláďat.
+Tvoje zoo by se mohla rozrůst o další potomky. Podívej: %missingbabies% párů si přeje momentálně mládě. Pokus se o rozmnožení chovu!
+V tvé zoo panuje starost o potomky: %missingbabies% párů si přeje momentálně mládě. Pokus se o rozmnožení chovu a okouzli návštěvníky pohledem na neohrabaná mláďata.
+Skvělé, tvá zoo je jako vymydlená!  A to se návštěvníkům líbí. Jen tak dále!
+Vedeš si dobře, ale tvá zoo by byla ještě hezčí, kdybys odklidil zbytky odpadu.
+Odpad v tvé zoo pomalu narůstá. Udělej konečně pořádek.
+V tvé zoo se povaluje hodně odpadků. Měl bys bezpodmínečně všechno uklidit a vyčistit.
+Tvoje zoo se utápí v odpadcích! Odkliď z cestiček hory odpadků a vyprázdni koše.
+V kategorii "Druhy zvířat" vidíš, zda jsou v tvé zoo zastoupeny všechny možné druhy zvířat.
+Kategorie "Spokojenost" ukazuje, jak jsou tvá zvířata momentálně spokojená.
+V kategorii "Dekorace" poznáš, zda jsou dekorace v tvé zoo pro návštěvníky atraktivní.
+Návštěvníci milují roztomilá mláďata! Položka "Chov zvířat" ti ukáže stupeň úspěšnosti tvého chovu. 
+Položka "Odpad" ti ukáže, jestli je tvá zoo čistá nebo zda návštěvníci zakopávají o hory odpadků.
+Použij klávesy 1 až 7 a dostaň se do obchodu rychleji.
+Použij písmenka Q, W, E a R, abys mohl předměty přesouvat (W), obracet (E), prodávat (R) nebo změnit herní režim (Q).
+Mysli na to, že bys měl použít bezpečné heslo, které nikomu nesdělíš!
+Tipy ke hře a různé další fuknce jako např. návštěvníci, efekty pozadí a zvukové efekty, můžeš zapnout nebo vypnout, aby hra bežela na slabších počítačích rychleji.
+Nakupuj v bance zoodolary. Občas je můžeš získat i jako odměnu za splnění denních úkolů. Dostaneš je i tehdy, pokud navýšíš dostatečně svůj level. 
+Tu a tam se objeví také akce s bonusovými kódy. Sleduj proto oficiální oznámení ve fóru.
+Tvá zvířata mohou náhodně onemocnět. Čím lépe se o ně staráš, tím déle zůstanou zdravá. Pokud ale tvé zvíře nemocné není, nemůžeš mu dát ani injekci.
+Tvá zvířata se cítí ve všech výbězích skvělě. A je jedno, do kterého výběhu je umístíš.
+Momentálně nemůžeš žádná zvířata přemístit do jiných výběhů.
+Pokud prodáš výběh, prodáš s ním zároveň i zvíře v něm.
+Ve hře existují dva typy surikat - normální a šedá surikata Béďa. Béďa se objevuje jen při určitých akcích a dá se koupit jen ve zvláštních dnech.
+Pokud klikneš na "adopce za zoodolar", máš 100% jistotu nového přírůstku a nemusíš na něj čekat.
+Své ZooMumba kamarády si můžeš uložit do adresáře.  Momentálně nemůžeš bohužel pozvat žádné sousedy.
+Čím více obchodů vlastníš, tím více zoogrošů vyděláš.
+Nemáš čas? Tak si najmi asistenty. Nezapomeň, že asistenti pracují jen, pokud na ně klikneš (nepracují automaticky).
+Najmeš-li si pokladníka Kešíka, zvýšíš své příjmy.
+Využívat asistenty se vyplatí: získáš tím více bodů zkušenosti.
+Pokud máš všechny asistenty, aktivuješ tím zástupce Davida - ten může nechat všechny asistenty pracovat jen pomocí jednoho kliku.
+Čím více odpadu jsi v zoo roztřídil, tím méně ho skončí na ulici.
+Kup si samečka i samičku z jednoho druhu a budeš mít brzy v zoo roztomilá mláďata.
+V hlavní budově si můžeš uložit jen určité množství vstupného. Proto si ho pravidelně vyzvedávej.
+Abys mohl mít zisky ze svých budov, musejí být vždy propojeny cestičkou. Jak jinak by se k nim návštěvníci mohli dostat?
+Měj oči pořád otevřené: V obchodě se čas od času objevují speciální zvířata nebo předměty, které můžeš nakoupit jen po přechodnou dobu.
+Nakrm svá zvířata superkrmivem, zůstanou pak déle sytá!
+Oh! Tvá zvířata jsou nemocná? Dej jim superléky a budou opět zdravá jako rybičky!

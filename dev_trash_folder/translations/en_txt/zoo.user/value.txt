@@ -1,0 +1,4 @@
+Player name
+Player ID
+Verification
+Verification failed. Please log in again.

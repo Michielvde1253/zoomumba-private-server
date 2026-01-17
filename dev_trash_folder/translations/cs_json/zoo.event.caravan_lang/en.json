@@ -1,0 +1,11 @@
+{
+    "zoo.event.caravan_lang;zoo.event.caravan;zoo.event.caravan.bubble": "Jsem na cestě do rezervace, kde chtějí zvýšit populaci mláďat -  %species%. Pomůžeš mi? Na 120 hodin ti půjčím pár - %species%. Za %amount% mláďat %species% dostaneš jednoho dospělého.",
+    "zoo.event.caravan_lang;zoo.event.caravan;zoo.event.caravan.borrow": "Vypůjčit pár",
+    "zoo.event.caravan_lang;zoo.event.caravan;zoo.event.caravan.species": "Anakonda",
+    "zoo.event.caravan_lang;zoo.event.caravan;zoo.event.caravan.getBaby": "Super! Nyní máš ve svém inventáři alespoň 5 mláďat. Vyměň je se mnou rychle za jednoho dospělého Orangutana!",
+    "zoo.event.caravan_lang;zoo.event.caravan;zoo.event.caravan.success": "Super! Opravdu jsi mi velmi pomohl! Nyní převezu mláďata do rezervace a tam je vypustím do přírody. Mnohokrát děkuji a zase někdy příště!",
+    "zoo.event.caravan_lang;zoo.event.caravan;zoo.event.caravan.end": "Zvířecí mobil je už zase na cestě do rezervace a odvezl si s sebou dvě zvířata, která sis vypůjčil. Tvá narozená mláďata najdeš v inventáři.",
+    "zoo.event.caravan_lang;zoo.event.caravan.tooltip;zoo.event.caravan.tooltip.timer": "Na výměnu mláďat ti zůstává ještě %count% hodin.",
+    "zoo.event.caravan_lang;zoo.event.caravan.tooltip;zoo.event.caravan.tooltip.counter": "Mláďata Orangutana ve tvém inventáři",
+    "zoo.event.caravan_lang;zoo.event.caravan.tooltip;zoo.event.caravan.tooltip.inventorizeBabies": "Mláďata Orangutana přesunout do inventáře."
+}

@@ -1,0 +1,10 @@
+Vítejte v putovním cirkuse!<br>Představujeme tajuplnou bednu! Kup si jednu bednu a dostaneš jedno z 10 zvířat. Můžeš mít najednou až 20 beden, přičemž každá bedna se dá otevřít až za 5 hodin. Dobře se bav!
+Zvířata:
+Srdečně blahopřejeme!
+Do tvého inventáře přibyla následující zvířata: %animal%.  Obstarej ještě více tajuplných beden k získání ještě více ojedinělých zvířat!
+Och, to je nám líto!
+Už máš 20 tajuplných beden. Počkej, dokud se jedna z nich neotevře a pak si obstarej další bednu.
+Tajuplná bedna se otevře za: %amount% 
+Klikni k zobrazení svých zvířat
+Vítej zpět!
+Zatímco jsi byl pryč, dostali tvá zvířata z tajuplné bedny žízeň. Chovatelka Soňa se o ně postarala a přinesla do svého inventáře. Rychle se podívej!

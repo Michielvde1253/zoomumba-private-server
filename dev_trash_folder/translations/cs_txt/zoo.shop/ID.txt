@@ -1,0 +1,10 @@
+zoo.shop;zoo.shop.category;zoo.shop.category.animals
+zoo.shop;zoo.shop.category;zoo.shop.category.cages
+zoo.shop;zoo.shop.category;zoo.shop.category.stores
+zoo.shop;zoo.shop.category;zoo.shop.category.deco
+zoo.shop;zoo.shop.category;zoo.shop.category.resources
+zoo.shop;zoo.shop.category;zoo.shop.category.assistants
+zoo.shop;zoo.shop.category;zoo.shop.category.specials
+zoo.shop;zoo.shop.category;zoo.shop.category.roads
+zoo.shop;zoo.shop.category;zoo.shop.category.material
+zoo.shop;zoo.shop.tabbar;zoo.shop.tabbar.ocean.empty

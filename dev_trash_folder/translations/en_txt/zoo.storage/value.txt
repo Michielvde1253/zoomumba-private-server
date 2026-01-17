@@ -1,0 +1,12 @@
+Expand your zoo!
+You can buy this item only when you have %neededExpansion% zoo expansions. Currently, you have only %userExpansion% zoo expansions. Do you want to expand your zoo right now so you can buy this item?
+Water tower & warehouse
+Great! You finally have enough space to build your first water tower and storage facility. Both items are free in your inventory. Now, let the game begin!
+The maximum capacity of the water tower is %capacity%. This value cannot be increased, even by purchasing this building. Do you still want to buy it?
+The maximum capacity of your supply storage is %capacity%. This value cannot be increased, even by purchasing this building. Do you still want to buy it?
+You have %capacity% of your water capacity available. You can't store any more. This building won't increase your capacity. Do you still want to buy it?
+You have %capacity% of your storage capacity available. You cannot store any more. This building will not increase your capacity. Do you still want to buy it?
+Storage capacity
+Your animals need a lot of feed and water. Here you can see how much of each you have available and how much you can expand.
+Water - capacity
+Feed - capacity

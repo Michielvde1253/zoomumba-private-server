@@ -1,0 +1,9 @@
+zoo.window.gift;zoo.window.gift.superFeedPack;zoo.window.gift.superFeedPack.info
+zoo.window.gift;zoo.window.gift.recipients;zoo.window.gift.recipients.headerGift
+zoo.window.gift;zoo.window.gift.recipients;zoo.window.gift.recipients.headerUsername
+zoo.window.gift;zoo.window.gift.recipients;zoo.window.gift.recipients.headerUserID
+zoo.window.gift;zoo.window.gift.recipients;zoo.window.gift.recipients.info
+zoo.window.gift;zoo.window.gift.recipients;zoo.window.gift.recipients.button.send
+zoo.window.gift;zoo.window.gift.unwrapped;zoo.window.gift.unwrapped.title
+zoo.window.gift;zoo.window.gift.unwrapped;zoo.window.gift.unwrapped.text.1
+zoo.window.gift;zoo.window.gift.unwrapped;zoo.window.gift.unwrapped.text.2

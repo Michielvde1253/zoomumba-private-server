@@ -1,0 +1,14 @@
+Warehouse building
+Animals need a lot of water. Upgrade your water tower level by level and make sure you have enough water for everyone as your zoo grows.
+Water Tower
+Your animals need a lot of food. Expand your storage level by level and make sure you have enough food for everyone as your zoo grows.
+Bravo! You've expanded the warehouse to the maximum level.
+Bravo! You've extended the water tower to the maximum level.
+Aktuální stupeň rozšíření: %have% / %max%
+Current capacity of the water tower
+Current capacity of the storage
+Expand
+Would you like to<br>expand your zoo?
+Expand for zoodollars
+Expand for zoogrosh
+New size:

@@ -1,0 +1,7 @@
+zoo.window.levelup;zoo.window.levelup;zoo.window.levelup.title
+zoo.window.levelup;zoo.window.levelup;zoo.window.levelup.info
+zoo.window.levelup;zoo.window.levelup;zoo.window.levelup.gainmoney
+zoo.window.levelup;zoo.window.levelup;zoo.window.levelup.quests.renew
+zoo.window.levelup;zoo.window.levelup;zoo.window.levelup.v2.title
+zoo.window.levelup;zoo.window.levelup;zoo.window.levelup.v2.info.level.current
+zoo.window.levelup;zoo.window.levelup;zoo.window.levelup.v2.info.level.next

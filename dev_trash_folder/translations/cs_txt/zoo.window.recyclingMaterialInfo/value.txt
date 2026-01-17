@@ -1,0 +1,116 @@
+Malá krabice s překvapením
+Jdi do toho a získej náhodný výběr materiálů. Tato krabice ti dá malou šanci na získání vzácných materiálů.
+Střední krabice s překvapením
+Nečekej. Toto je tvá šance získat náhodný výběr materiálů. Tato krabice ti dá vyšší šanci na získání vzácných materiálů.
+Velká krabice s překvapením
+Krabice pro profesionály! Najdeš v ní nejen náhodný výběr materiálů, ale budeš mít i velmi vysokou šanci na získání vzácných materiálů.
+Dřevěné prkno
+Toto není odpad, ale cenná surovina: s dřevěnými prkny můžeš postavit různé pokoje.
+Kulatina
+Někdy i kulatina skončí v odpadu! Dobré dřevo se hodí na nové projekty.
+Hřebík
+Hřebíky se vždy hodí. Drží všechno pěkně dohromady. 
+Šroub
+Šroub drží pohromadě to, co k sobě patří. Jediné, co potřebuješ, je šroubovák!
+Kámen
+Dokonce i jeskynní lidé věděli, co všechno se dá s kameny udělat. Nabroušené kameny jsou ideální pro řezání.
+Kamenná deska
+Je až neuvěřitelné, co všechno návštěvníci zoo vyhodí! Dobře zachovaná kamenná deska se ti bude hodit!
+Písek
+Písek je hodnotná komodita. Dokonce i sklo se vyrábí z písku. Věděl jsi to?
+Prachový písek
+Jemný, prachový písek je vzácný. Bez hrubých zrn může být písek měkký jako bavlna. Je také velmi důležitý pro tvé stavby.
+Hrouda země
+Dobrá půda je plná živin a je to skutečný přírodní produkt.
+Ornice
+Úrodná půda je obohacena organickou hmotou, která poskytuje živiny k mnoha účelům.
+Semeno
+Semena rostlin nepatří do odpadu, ale do země!
+Sazenička
+Tato malá sazenička má i kořeny. Vytáhni ji z odpadu a zachraň jí život!
+Plast
+Surovina, která se dá snadno roztavit. A hurá! Tady máš cennou surovinu pro mnoho účelů.
+Umělá hmota
+Lisovaná umělá hmota je základem mnoha skvělých výrobků. Roztav ji, vytvaruj a znovu použij!
+Provaz
+Kdo se opovážil tohle vyhodit? Provaz se dá znovu použít!
+Lano
+Užitečný kus vybavení k vázání, balení nebo utahování.
+Ruda
+Materiál obohacený kovem a rudou rozhodně nepatří do koše.
+Kov
+Kov je velmi cennou komoditou, které by ses měl rozhodně držet.
+Guma
+Elastická, pružná a ideální pro mnoho výtvorů.
+Kaučuk
+Tento originální přírodní produkt se dokonale hodí pro další zpracování.
+Štěrk
+Tyto malé kamínky rozhodně nejsou na vyhození. Něco takového budeš potřebovat na některé stavební projekty.
+Oblázky
+Tyto malé oblázky nemají pro mnohé návštěvníky zoo žádnou hodnotu. Ale ty je umíš ocenit!
+Lněné plátno
+Tento materiál je velmi odolný a tkaný z přírodních produktů.
+Hedvábí
+Tak jemné! Jemná tkanina získaná z kukly bource morušového.
+Voda
+Voda je jedním ze základních materiálů života. Vyskytuje se v různých stavech: kapalina, pevná nebo pára.
+Pitná voda
+Pitná voda je nejdůležitější komoditou ze všech. Filtrovaná voda je často potřebná k výrobě těch nejlepších produktů.
+Hlína
+Hlína je směs písku a jílu. Je to jeden z nejstarších stavebních materiálů.
+Cihla
+Mnoho cihel se vyrábí z pálené hlíny, a jiné zase z jílu. Výborně se s nimi pracuje a snadno se skladují. Jak praktické!
+Sklo
+Dříve se sklo vyrábělo z písku. Zahřeje se na velmi vysokou teplotu, pak se nafoukne a vytvaruje.
+Křišťál
+Oxid olovnatý se přidává do výroby křišťálu. Pak se vyleští, aby mělo sklo jemný reflexní efekt.
+Ornament
+Tento zlatý ornament je ideální pro výzdobu a dekoraci mnohých výrobků.
+Luční květina
+Jemné, voňavé luční květiny jsou velmi pěkné a užitečné pro vytváření nových dekorací.
+Leknín
+Tyto jedinečné, vonné bílé květy mají zlatý střed. Jsou ideální pro vodní krajiny.
+Ledová kostka
+Ledové kostky jsou ideální stavební materiály v chladných oblastech, např. vhodné pro zimní krajiny z ledových kostek!
+Šamanská maska
+Tato rituální maska má náboženský původ. Používá se k uctívání nebo odrazení bohů.
+Pouštní kaktus
+Kaktusy se dobře adaptují vyprahlým podmínkám a skvěle zadržují vodu.
+Fosilie
+Fosilie jsou zkamenělé bytosti, jejichž těla zanechala v sedimentu otlak.
+Bambusová třtina
+Bambusová třtina je skvělá jako dekorace v asijských zahradách.
+Bahenní jáma
+Žbluňk! Díra plná bláta - to v bažině není vůbec neobvyklé. Močálové rostliny milují mokré prostředí!
+Džunglí kámen
+Džunglí kámen, omotaný v liáně, je pevný stavební materiál.
+Větev břízy
+Břízy rostou velmi rychle. Díky své kůře, která se dá lehce sloupnout, se dají lehce rozpoznat.
+Sněhulák
+Dlouhý mrkvový nos a černé uhlové oči: sněhulák s hrncem na hlavě vypadá opravdu velmi stylově!
+Nebeský puding
+Lahodná čokoláda přelitá vanilkovou omáčkou a s třešní - dezert, který opravdu láká.
+Úponek
+Malé úponky klíčí z holé země. Jak pěkné!
+Tepelná lampa
+Udržuj své terárium teplé, aby poikilotermním živočichům nebyla zima.
+Hora
+Na povrchu pohoří jsou horniny a sníh, pod povrchem jsou zase půdní vrstvy.
+Minerály
+Kbelík plný drahokamů: něco se tam ve skále jiskří a září.
+Shnilá větev
+Shnilé zbytky stromů se vrší na lesní půdě a poskytují potravu pro mikroorganismy jako jsou houby.
+Hřebenatka
+Malý poklad nalezený na pláži a speciální symbol pro cestovatele.
+Muchomůrka čarovná
+Jaké tajemství skrývá tato magická zářící houba?
+Bóje
+Tato plovoucí zařízení jsou nezbytná k udržení bezpečí na moři.
+Rampouchy
+Led je opravdu „zázračný“ materiál. Používá se ke stavění domů, k vytesávání soch nebo k chlazení nápojů. Pozor, ať neroztaje.
+Dělová koule
+Piráti rádi střílí dělové koule na nepřátelské lodě. Většina z nich je ale na dně moře.
+Korál
+Vypadá jako rostlina, ale je to bezobratlý živočich. Jeho pevná kostra poskytuje domov pro spoustu živočichů.
+Kokosový ořech
+Kokosový ořech je nejvšestrannější ovoce na světě. Jeho tvrdá skořápka se dá použít ke spoustě účelům. A také dobře chutná!

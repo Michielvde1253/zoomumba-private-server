@@ -1,0 +1,10 @@
+zoo.window.minitutorial;zoo.window.minitutorial;zoo.window.minitutorial.title
+zoo.window.minitutorial;zoo.window.minitutorial;zoo.window.minitutorial.infopage.1
+zoo.window.minitutorial;zoo.window.minitutorial;zoo.window.minitutorial.infopage.2
+zoo.window.minitutorial;zoo.window.minitutorial;zoo.window.minitutorial.infopage.3
+zoo.window.minitutorial;zoo.window.minitutorial;zoo.window.minitutorial.infopage.4
+zoo.window.minitutorial;zoo.window.minitutorial;zoo.window.minitutorial.infopage.5
+zoo.window.minitutorial;zoo.window.minitutorial;zoo.window.minitutorial.infopage.6
+zoo.window.minitutorial;zoo.window.minitutorial;zoo.window.minitutorial.infopage.6b
+zoo.window.minitutorial;zoo.window.minitutorial;zoo.window.minitutorial.infopage.7
+zoo.window.minitutorial;zoo.window.minitutorial;zoo.window.minitutorial.infopage.8

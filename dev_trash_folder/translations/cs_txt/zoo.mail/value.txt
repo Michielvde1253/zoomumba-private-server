@@ -1,0 +1,36 @@
+Doručená pošta
+Odchozí pošta
+Nová zpráva
+Adresář
+Strana %x% z %y%
+Zpráva
+Odeslat
+Zavřít
+%user% napsal:
+Napsal jsi hráči %user%:
+Akce
+Odesílatel
+Příjemce
+Předmět
+Datum
+Jméno hráče
+Level
+Přidat
+Chceš hráče %user% skutečně připojit do svého adresáře?
+Smazat
+Chceš tuto zprávu skutečně smazat? 
+Smazat
+Chceš hráče %user% opravdu odstranit ze svého adresáře?
+Chyba
+Tento hráč neexistuje.
+Odeslané
+Nemůžeš přidat sám sebe do svého adresáře.
+Tvoje zpráva byla úspěšně odeslána.
+Zadej jméno hráče nebo jeho ID, pokud ho chceš přidat do svého adresáře.
+Toto jméno se vyskytuje často. Prosím, zadej ID hráče, které je jednoznačné a jedinečné.
+Zadej nějakého příjemce, aby tvoje zpráva mohla být odeslána.
+Zadej prosím předmět, aby tvoje zpráva mohla být odeslána.
+Zadej prosím text zprávy, aby tvoje zpráva mohla být odeslána.
+Nemůžeš poslat zprávu sám sobě.
+Bohužel můžeš odeslat zprávy pouze hráčům, kteří jsou na tvém seznamu přátel.
+Tento hráč již byl přidán do tvého adresáře.

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="zoo.collectables">
+  <category name="zoo.collectables.forgottenZoo">
+   <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Nástroje]]></item>
+   <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Sbírej nástroje a vyměň je za rozšíření pro Tvou skrytou zoo.<br> <br>Nástroje dostaneš v safari a na kole štěstí. Zajdi pak do obchodu a vyměň je.<br> <br>Zatím vlastníš tolik nástrojů:]]></item>
+   <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[Chceš rozšířit své skryté zoo za %tools% nástrojů a %zd% zoodolarů?]]></item>
+  </category>
+  <category name="zoo.collectables.easterEvent">
+   <item name="zoo.collectables.easterEvent.title"><![CDATA[Velikonoční vejce]]></item>
+   <item name="zoo.collectables.easterEvent.text"><![CDATA[Od 21. do 27.4. zažiješ záplavu velikonočních vajec! Sbírej je a vyměň za velikonoční zkrášlení výběhů, velikonoční zajíce a výběhy. Tvůj aktuální stav velikonočních vajíček:]]></item>
+  </category>
+  <category name="zoo.collectables.meadow">
+   <item name="zoo.collectables.meadow.main.title"><![CDATA[Louka]]></item>
+   <item name="zoo.collectables.meadow.main.text"><![CDATA[Na hezké, pestré louce roste mnoho trav, květin a šťavnatého jetele.]]></item>
+   <item name="zoo.collectables.meadow.flower.title"><![CDATA[Květiny]]></item>
+   <item name="zoo.collectables.meadow.flower.text"><![CDATA[Na jaře se louky promění v moře divokých květin. A ty chutnají Tvým zvířatům!]]></item>
+   <item name="zoo.collectables.meadow.log.title"><![CDATA[Pařez]]></item>
+   <item name="zoo.collectables.meadow.log.text"><![CDATA["Přechodná louka" vznikne vymýcením stromů. Jakmile je les pryč, vyrostou zde nejprve malé výhonky trávy.]]></item>
+   <item name="zoo.collectables.meadow.gnome.title"><![CDATA[Skřítci]]></item>
+   <item name="zoo.collectables.meadow.gnome.text"><![CDATA[Na loukách pobývají často také skřítci, kteří vylézají v noci ze svých úkrytů. Tyto plaché, ale milé bytosti sdílí často své domky se zajíci.]]></item>
+   <item name="zoo.collectables.meadow.mushroom.title"><![CDATA[Žampióny]]></item>
+   <item name="zoo.collectables.meadow.mushroom.text"><![CDATA[Luční žampióny jsou chutné houby a rostou např. v Severní Americe.]]></item>
+   <item name="zoo.collectables.meadow.sign.title"><![CDATA[Zdivočelá louka]]></item>
+   <item name="zoo.collectables.meadow.sign.text"><![CDATA[Pokud se o "přechodnou louku" nikdo dlouho nestará, vyroste na ní brzy zase divoký les.]]></item>
+  </category>
+  <category name="zoo.collectables.ice">
+   <item name="zoo.collectables.ice.main.title"><![CDATA[Led]]></item>
+   <item name="zoo.collectables.ice.main.text"><![CDATA[Nejen tučňáci a polární medvědi mají rádi studené klima, ale také polární liška si užije ledu a sněhu!]]></item>
+   <item name="zoo.collectables.ice.popsicle.title"><![CDATA[Nanuk]]></item>
+   <item name="zoo.collectables.ice.popsicle.text"><![CDATA[Sice to málokdo ví, ale i tučňáci mají rádi nanuky a občas je také ukradnou turistům.]]></item>
+   <item name="zoo.collectables.ice.cubes.title"><![CDATA[Ledové kostky]]></item>
+   <item name="zoo.collectables.ice.cubes.text"><![CDATA[Ledové kostky jsou perfektním způsobem, jak zchladit teplý nápoj. Poskytují osvěžení v parném létě.]]></item>
+   <item name="zoo.collectables.ice.skates.title"><![CDATA[Brusle]]></item>
+   <item name="zoo.collectables.ice.skates.text"><![CDATA[Bruslení je úžasný sport. Historikové se domnívají, že bylo vynalezeno asi před 4000 lety. K vynálezu přispěli pravděpodobně finové.]]></item>
+   <item name="zoo.collectables.ice.igloo.title"><![CDATA[Iglú]]></item>
+   <item name="zoo.collectables.ice.igloo.text"><![CDATA["Iglú" znamená pro eskymáky dům. Ti jsou prapůvodními obyvateli Severní Ameriky.]]></item>
+   <item name="zoo.collectables.ice.sign.title"><![CDATA[Rampouchy]]></item>
+   <item name="zoo.collectables.ice.sign.text"><![CDATA[Zářivé rampouchy se tvoří při mrazivých teplotách. Teplo slunce je samozřejmě zase roztopí.]]></item>
+  </category>
+  <category name="zoo.collectables.bamboo">
+   <item name="zoo.collectables.bamboo.main.title"><![CDATA[Bambusový háj]]></item>
+   <item name="zoo.collectables.bamboo.main.text"><![CDATA[Bambus je jedinou potravou medvídků panda a roste převážně v Asii.]]></item>
+   <item name="zoo.collectables.bamboo.branches.title"><![CDATA[Bambusová větev]]></item>
+   <item name="zoo.collectables.bamboo.branches.text"><![CDATA[Bambus je souhrnný název pro několik rodů dřevnatých trav.]]></item>
+   <item name="zoo.collectables.bamboo.lantern.title"><![CDATA[Lampión]]></item>
+   <item name="zoo.collectables.bamboo.lantern.text"><![CDATA[Pověs hezký lampión do Tvé bambusové zahrady, a prozáříš tak noc jemným světlem.]]></item>
+   <item name="zoo.collectables.bamboo.gong.title"><![CDATA[Gong]]></item>
+   <item name="zoo.collectables.bamboo.gong.text"><![CDATA[Gong je pěknou dekorací Tvé bambusové zahrady. A ten exotický zvuk... jako stvořený k zahájení meditace.]]></item>
+   <item name="zoo.collectables.bamboo.statue.title"><![CDATA[Asijská socha]]></item>
+   <item name="zoo.collectables.bamboo.statue.text"><![CDATA[Socha v asijském stylu dodá bambusové zahradě atmosféru klidu a míru.]]></item>
+   <item name="zoo.collectables.bamboo.sign.title"><![CDATA[Bambusová křídla]]></item>
+   <item name="zoo.collectables.bamboo.sign.text"><![CDATA[Už odedávna vytvářejí lidé křídla z bambusu. Díky lehkému, ale silnému materiálu se dá dosáhnout neuvěřitelných výšek.]]></item>
+  </category>
+  <category name="zoo.collectables.parrot">
+   <item name="zoo.collectables.parrot.main.title"><![CDATA[Papoušek]]></item>
+   <item name="zoo.collectables.parrot.main.text"><![CDATA[Někteří papoušci jsou známí jako pořádní mluvkové. Někteří z nich dokonce mluví v celých větách.]]></item>
+   <item name="zoo.collectables.parrot.plush.title"><![CDATA[Plyšový papoušek]]></item>
+   <item name="zoo.collectables.parrot.plush.text"><![CDATA[Papoušci jsou velmi sociálními a žádanými domácími mazlíčky. Potřebují ale dostatek místa, aby se pořádně vyřádili.]]></item>
+   <item name="zoo.collectables.parrot.paw.title"><![CDATA[Papouščí dráp]]></item>
+   <item name="zoo.collectables.parrot.paw.text"><![CDATA[Papoušci mají vlastně 4 drápky. Dva jsou vpředu a dva vzadu. A tak nespadnou z větve ani pokud usnou.]]></item>
+   <item name="zoo.collectables.parrot.pirateFlag.title"><![CDATA[Pirátská vlajka]]></item>
+   <item name="zoo.collectables.parrot.pirateFlag.text"><![CDATA[Papoušci jsou vlastně piráti, které zlí mágové proměnili v pestré ptáky.]]></item>
+   <item name="zoo.collectables.parrot.flagPeru.title"><![CDATA[Peru]]></item>
+   <item name="zoo.collectables.parrot.flagPeru.text"><![CDATA[Džungle v oblastech Amazonky v Peru je domovem mnoha papoušků. Prales jim poskytuje ideální životní prostor.]]></item>
+   <item name="zoo.collectables.parrot.sign.title"><![CDATA[Fanoušci ovoce]]></item>
+   <item name="zoo.collectables.parrot.sign.text"><![CDATA[Papoušci jedí sice rádi semínka a ořechy, ale pochutnají si také na ovoci. Je jedno, jestli je čerstvé nebo suché, hlavní je, aby bylo sladké.]]></item>
+  </category>
+  <category name="zoo.collectables.rabbit">
+   <item name="zoo.collectables.rabbit.main.title"><![CDATA[Zajíc]]></item>
+   <item name="zoo.collectables.rabbit.main.text"><![CDATA[Zajíci žijí v různých oblastech - od pouští přes lesy až po chladné polární kraje.]]></item>
+   <item name="zoo.collectables.rabbit.plush.title"><![CDATA[Plyšový zajíc]]></item>
+   <item name="zoo.collectables.rabbit.plush.text"><![CDATA[Zajíci tu byli po staletí. Fosílie dokazují, že tvorové, kteří se zajícům podobali, žili před 60 milióny lety v Číně.]]></item>
+   <item name="zoo.collectables.rabbit.paw.title"><![CDATA[Zaječí tlapka]]></item>
+   <item name="zoo.collectables.rabbit.paw.text"><![CDATA[Zaječí tlapky jsou v mnoha kulturách symbolem štěstí.]]></item>
+   <item name="zoo.collectables.rabbit.paint.title"><![CDATA[Barevná paleta]]></item>
+   <item name="zoo.collectables.rabbit.paint.text"><![CDATA[Jednou za rok dorazí velikonoční zajíc a schová čokoládu a barevná vajíčka.]]></item>
+   <item name="zoo.collectables.rabbit.flagPortugal.title"><![CDATA[Portugalsko]]></item>
+   <item name="zoo.collectables.rabbit.flagPortugal.text"><![CDATA[Evropští divocí zajíci žili původně v Portugalsku, Španělsku a severozápadní Africe. Dostali se už ale i do Austrálie.]]></item>
+   <item name="zoo.collectables.rabbit.sign.title"><![CDATA[Experti na zeleninu]]></item>
+   <item name="zoo.collectables.rabbit.sign.text"><![CDATA[Zajíci jsou vegetariáni. Nejraději jedí trávu, byliny, salát a pestré květy.]]></item>
+  </category>
+  <category name="zoo.collectables.penguin">
+   <item name="zoo.collectables.penguin.main.title"><![CDATA[Tučňák]]></item>
+   <item name="zoo.collectables.penguin.main.text"><![CDATA[Tučňáci jsou mořští ptáci i přesto, že nemůžou létat.]]></item>
+   <item name="zoo.collectables.penguin.plush.title"><![CDATA[Plyšový tučňák]]></item>
+   <item name="zoo.collectables.penguin.plush.text"><![CDATA[Tučňáci jsou velmi společenská a soutěživá zvířata, která se často baví tanci pod vodou.]]></item>
+   <item name="zoo.collectables.penguin.paw.title"><![CDATA[Ploutev tučňáka]]></item>
+   <item name="zoo.collectables.penguin.paw.text"><![CDATA[Chůze tučňáka po souši vypadá neohrabaně, ale ve vodě je tučňák mrštný plavec i potápěč.]]></item>
+   <item name="zoo.collectables.penguin.tuxedo.title"><![CDATA[Smoking]]></item>
+   <item name="zoo.collectables.penguin.tuxedo.text"><![CDATA[Někteří lidé říkají smokingu také tučňácký frak, protože nápadně připomíná vzhled právě tučňáka.]]></item>
+   <item name="zoo.collectables.penguin.flagAntarctica.title"><![CDATA[Antarktida]]></item>
+   <item name="zoo.collectables.penguin.flagAntarctica.text"><![CDATA[Subpolární ostrovy jsou ostrovem jednoho z největších a nejtěžších tučňáků - tučňáka císařského.]]></item>
+   <item name="zoo.collectables.penguin.sign.title"><![CDATA[Fanoušci ryb]]></item>
+   <item name="zoo.collectables.penguin.sign.text"><![CDATA[Tučňáci jsou vyložení labužníci. Nejraději mají ryby, ale nepohrdnou ani mořskými tvory.]]></item>
+  </category>
+  <category name="zoo.collectables.giantTurtle">
+   <item name="zoo.collectables.giantTurtle.main.title"><![CDATA[Želva obrovská]]></item>
+   <item name="zoo.collectables.giantTurtle.main.text"><![CDATA[Želvy se řadí mezi plazy. Nejčastěji žijí u vody nebo ve vodě. Největšími želvami jsou želvy vodní.]]></item>
+   <item name="zoo.collectables.giantTurtle.plush.title"><![CDATA[Plyšová želva]]></item>
+   <item name="zoo.collectables.giantTurtle.plush.text"><![CDATA[Mláďata želvy obrovské komunikují už ve vajíčku se svými sourozenci. Jednoduše do sebe navzájem vrážejí skořápkami vajíček.]]></item>
+   <item name="zoo.collectables.giantTurtle.paw.title"><![CDATA[Želví noha]]></item>
+   <item name="zoo.collectables.giantTurtle.paw.text"><![CDATA[Nohy vodní želvy mají mezi prsty plovací blány, zatímco suchozemské želvy mají nohy spíše jako pahýly.]]></item>
+   <item name="zoo.collectables.giantTurtle.chair.title"><![CDATA[Houpačka]]></item>
+   <item name="zoo.collectables.giantTurtle.chair.text"><![CDATA[Želvy sloní se mohou dožít více než 100 let. Nenaroste jim ale nikdy šedivá brada.]]></item>
+   <item name="zoo.collectables.giantTurtle.flagEcuador.title"><![CDATA[Ekvádor]]></item>
+   <item name="zoo.collectables.giantTurtle.flagEcuador.text"><![CDATA[Želvy sloní pocházejí ze souostroví Galapág, které patří k jihoamerickému Ekvádoru.]]></item>
+   <item name="zoo.collectables.giantTurtle.sign.title"><![CDATA[Specialisté na stravu]]></item>
+   <item name="zoo.collectables.giantTurtle.sign.text"><![CDATA[Většina želv jsou všežravci, některé druhy se však specializují jen na jeden druh potravy jako např. na medúzy.]]></item>
+  </category>
+  <category name="zoo.collectables.lion">
+   <item name="zoo.collectables.lion.main.title"><![CDATA[Lev]]></item>
+   <item name="zoo.collectables.lion.main.text"><![CDATA[Lvy jsou po tygrech druhými největšími kočkovitými šelmami na světě.]]></item>
+   <item name="zoo.collectables.lion.plush.title"><![CDATA[Plyšový lev]]></item>
+   <item name="zoo.collectables.lion.plush.text"><![CDATA[Bílí lvi jsou vlastně úplně normální lvi, jen jejich srst je vybělená sluncem.]]></item>
+   <item name="zoo.collectables.lion.paw.title"><![CDATA[Lví tlapa]]></item>
+   <item name="zoo.collectables.lion.paw.text"><![CDATA[Se svými velkými tlapami vzbuzují respekt a drápy uchytí pevně svou kořist.]]></item>
+   <item name="zoo.collectables.lion.crown.title"><![CDATA[Koruna ]]></item>
+   <item name="zoo.collectables.lion.crown.text"><![CDATA[Přestože obývají savany a stepi, označují se často za "krále džungle".]]></item>
+   <item name="zoo.collectables.lion.flagTanzania.title"><![CDATA[Tanzanie]]></item>
+   <item name="zoo.collectables.lion.flagTanzania.text"><![CDATA[Dnes žijí převážně v národních parcích jako např. v Tanzanii nebo na pobřeží východní Afriky.]]></item>
+   <item name="zoo.collectables.lion.sign.title"><![CDATA[Milovníci steaků]]></item>
+   <item name="zoo.collectables.lion.sign.text"><![CDATA[Lvi jsou jako všechny kočkovité šelmy masožravci. Živí se pakoni, zebrami a buvoly.]]></item>
+  </category>
+  <category name="zoo.collectables.peacock">
+   <item name="zoo.collectables.peacock.main.title"><![CDATA[Páv]]></item>
+   <item name="zoo.collectables.peacock.main.text"><![CDATA[Pávi jsou působiví exotičtí ptáci. V mnohých ZOO a parcích se pohybují jen tak volně.]]></item>
+   <item name="zoo.collectables.peacock.plush.title"><![CDATA[Plyšový páv]]></item>
+   <item name="zoo.collectables.peacock.plush.text"><![CDATA[Péra z pavího ocasu jsou nádherná. V řecké mytologii jsou paví oči symbolem strážce Arguse, který strážil Diovu milenku Io.]]></item>
+   <item name="zoo.collectables.peacock.paw.title"><![CDATA[Paví drápy]]></item>
+   <item name="zoo.collectables.peacock.paw.text"><![CDATA[Paví samci jsou pěkně ješitní. Dokážou si hodiny česat drápy svá krásná péra. A nakonec je rozprostřou v celé jejich kráse.]]></item>
+   <item name="zoo.collectables.peacock.mirror.title"><![CDATA[Zrcadlo]]></item>
+   <item name="zoo.collectables.peacock.mirror.text"><![CDATA[K probuzení zájmu samic se umějí pávi pěkně nakrucovat. Samičky s nimi zato také rády koketují.]]></item>
+   <item name="zoo.collectables.peacock.flagIndia.title"><![CDATA[Indie]]></item>
+   <item name="zoo.collectables.peacock.flagIndia.text"><![CDATA[V Indii je od roku 1963 páv národním ptákem. Indové si těchto opeřenců váží, protože loví jedovaté kobry.]]></item>
+   <item name="zoo.collectables.peacock.sign.title"><![CDATA[Milovník zrní]]></item>
+   <item name="zoo.collectables.peacock.sign.text"><![CDATA[Pávi jedí převážně obilí a zrní, ale čas od času si dají také květy a nějakého toho brouka.]]></item>
+  </category>
+  <category name="zoo.collectables.panda">
+   <item name="zoo.collectables.panda.main.title"><![CDATA[Panda]]></item>
+   <item name="zoo.collectables.panda.main.text"><![CDATA[Panda velká je černobílý medvěd. Jejím domovem se stala Čína.]]></item>
+   <item name="zoo.collectables.panda.plush.title"><![CDATA[Plyšová panda]]></item>
+   <item name="zoo.collectables.panda.plush.text"><![CDATA[Mláďátka pandy jsou opravdu velmi malá. Váží jen 100 až 200 gramů a mají cca 15-17 cm.]]></item>
+   <item name="zoo.collectables.panda.paw.title"><![CDATA[Tlapka pandy]]></item>
+   <item name="zoo.collectables.panda.paw.text"><![CDATA[Pandy velké mají zkřivený palec. S jeho pomocí mohou držet jídlo.]]></item>
+   <item name="zoo.collectables.panda.bowl.title"><![CDATA[Hůlky]]></item>
+   <item name="zoo.collectables.panda.bowl.text"><![CDATA[Šikovné pandy používají k napichování jídla bambusové tyčinky, stejně jako se v Asii jí hůlkami.]]></item>
+   <item name="zoo.collectables.panda.flagChina.title"><![CDATA[Čína]]></item>
+   <item name="zoo.collectables.panda.flagChina.text"><![CDATA[Poslední divoce žijící pandy obývají Čínu, největší zemi světa. Bohužel existuje jen málo těchto velkých pand.]]></item>
+   <item name="zoo.collectables.panda.sign.title"><![CDATA[Bambusový expert]]></item>
+   <item name="zoo.collectables.panda.sign.text"><![CDATA[Nejraději přežvykují pandy bambus, pochutnají si hlavně na listech a mladých větvičkách. Protože jsou to velká zvířata, spotřebují jich hodně.]]></item>
+  </category>
+  <category name="zoo.collectables.sonja">
+   <item name="zoo.collectables.sonja.main.title"><![CDATA[Chovatelka Soňa]]></item>
+   <item name="zoo.collectables.sonja.main.text"><![CDATA[Chovatelka Soňa se o zvířata umí perfektně postarat. Jen ona se dokáže mazlit se všemi zvířaty najednou.]]></item>
+   <item name="zoo.collectables.sonja.elephantToy.title"><![CDATA[Hračka slona]]></item>
+   <item name="zoo.collectables.sonja.elephantToy.text"><![CDATA[Opice jsou veselými společníky. Rádi si hrají např. s pestrobarevnými slony ze dřeva.]]></item>
+   <item name="zoo.collectables.sonja.spinningTop.title"><![CDATA[Káča]]></item>
+   <item name="zoo.collectables.sonja.spinningTop.text"><![CDATA[S vesele se točící káčou spraví Soňa náladu i tomu nejzachmuřenějšímu nosorožci.]]></item>
+   <item name="zoo.collectables.sonja.mouseToy.title"><![CDATA[Hračka myšky]]></item>
+   <item name="zoo.collectables.sonja.mouseToy.text"><![CDATA[Roztomilé domácí kočky nahánějí rády hračky myší, ale lvi upřednostňují spíše větší kořist.]]></item>
+   <item name="zoo.collectables.sonja.main.babyBear.title"><![CDATA[Medvědí mládě]]></item>
+   <item name="zoo.collectables.sonja.babyBear.text"><![CDATA[Medvědí mláďata by se pořád jen mazlila. Některé se od své pečovatelky nechtějí vůbec odtrhnout.]]></item>
+   <item name="zoo.collectables.sonja.sign.title"><![CDATA[Mistryně v mazlení]]></item>
+   <item name="zoo.collectables.sonja.sign.text"><![CDATA[Soňa je mistryní v mazlení. Zaměstnej ji a dostaneš za její služby o 12% BZ více!]]></item>
+  </category>
+  <category name="zoo.collectables.book">
+   <item name="zoo.collectables.book.tab.animals"><![CDATA[Zvířata]]></item>
+   <item name="zoo.collectables.book.tab.cages"><![CDATA[Výběhy]]></item>
+   <item name="zoo.collectables.book.tab.assistants"><![CDATA[Asistenti]]></item>
+   <item name="zoo.collectables.book.more"><![CDATA[Více ...]]></item>
+  </category>
+  <category name="zoo.collectables.rewards">
+   <item name="zoo.collectables.book.rewards.unlocked.title"><![CDATA[Výhra!]]></item>
+   <item name="zoo.collectables.book.rewards.unlocked.text"><![CDATA[Vyber si svou cenu:]]></item>
+   <item name="zoo.collectables.book.rewards.locked.title"><![CDATA[Sbírej dále ...]]></item>
+   <item name="zoo.collectables.book.rewards.locked.text"><![CDATA[... Tyto skvělé odměny čekají na Tebe:]]></item>
+   <item name="zoo.collectables.book.rewards.button"><![CDATA[Zvolit]]></item>
+  </category>
+ </category>
+</language>

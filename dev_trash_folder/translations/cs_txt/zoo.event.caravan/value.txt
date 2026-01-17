@@ -1,0 +1,9 @@
+Jsem na cestě do rezervace, kde chtějí zvýšit populaci mláďat -  %species%. Pomůžeš mi? Na 120 hodin ti půjčím pár - %species%. Za %amount% mláďat %species% dostaneš jednoho dospělého.
+Vypůjčit pár
+Anakonda
+Super! Nyní máš ve svém inventáři alespoň 5 mláďat. Vyměň je se mnou rychle za jednoho dospělého Orangutana!
+Super! Opravdu jsi mi velmi pomohl! Nyní převezu mláďata do rezervace a tam je vypustím do přírody. Mnohokrát děkuji a zase někdy příště!
+Zvířecí mobil je už zase na cestě do rezervace a odvezl si s sebou dvě zvířata, která sis vypůjčil. Tvá narozená mláďata najdeš v inventáři.
+Na výměnu mláďat ti zůstává ještě %count% hodin.
+Mláďata Orangutana ve tvém inventáři
+Mláďata Orangutana přesunout do inventáře.

@@ -1,0 +1,226 @@
+Prodej krmiva
+Krmení povoleno! Ale jen správným krmením. Namísto čokolády a jiných sladkostí tady najdeš zdravé krmivo pro každé zvíře.
+Stánek s hranolkami
+Hranolky, klobása a grilované kuře? Mňam! Stačí jen vůně a návštěvníkům se sbíhají sliny.
+Hračky
+Každý chce mít památku ze zoo. Roztomilá plyšová zvířata z automatu jsou opravdový hit!
+Nápoje
+Cola, pivo nebo kafe? Občas je potřeba se občerstvit!
+Stánek s hot dogy
+Sem s hot dogem! Rovnou do ruky chutná nejlépe. Stánek s hot dogy je skutečný zlatý důl.
+Zmrzlina
+Mňam, mňam! Zmrzlinu děti milují. Bez zmrzliny se ve tvojí zoo neobejdeš, prostě tam patří!
+Stánek s balónky
+Pestré balónky a spousta drobností zvýší návštěvnost tvojí zoo.
+Čajovna
+Čajovna je oázou pokoje ve tvojí zoo. Návštěvníci zde zapomínají na shon všedního dne.
+Záchod
+Každý si někdy musí odskočit! Toalety jsou tvojí vizitkou: Udržuj je stále v čistotě, aby měli návštěvníci z tvojí zoo dobrý dojem.
+Luxusní záchod
+Luxusní záchody s polstrovanými sedátky? To si návštěvníci pochvalují a rádi si za tento luxus také připlatí.
+Nádrž na vodu
+Starej se o dostatečné zásoby vody, aby měla tvoje zvířata vždy co pít. A musíš je také občas umýt.
+Stodola
+Uchovávej krmení ve stodole, aby zůstalo dlouho čerstvé. Dbej na to, abys měl vždy dostatek krmení pro zvířata.
+Pizza
+Jak v opravdové italské pizzerii! Tato pizza voní výjimečně dobře a přitáhne jistě hladové návštěvníky tvojí zoo.
+Palačinky
+Skvěle! Tenké palačinky s nutellou nebo marmeládou! A praví labužníci si objednají palačinky s jahodami a šlehačkou. Nebo raději palačinky na slano? Třeba se sýrem a šunkou, to je také výborná kombinace.
+Kiosk CBS
+Tento zvláštní a exkluzivní kiosk, který získáš pouze se svým bonusovým kódem, se postará o velký výběr časopisů ve tvé zoo!
+Americký bar
+Jukebox, mléčné koktejly, steaky a burgery: Americký bar přináší do tvé zoo atmosféru padesátých let.
+Párky na špejli
+Máš rád americké párky v těstíčku? Tak si je pořiď do své zoo! Jednou je zkusíš a už je musíš mít!
+Cukrárna
+Ale prosil bych se šlehačkou! Šálek horké kávy a pořádný zákusek prostě k opravdovému výletu patří.
+Kiosk průvodců audio
+Tvé publikum chce skutečnou zábavu: S průvodcem audio dostanou informace o tvých zvířatech přímo do ucha!
+Zoo skupina
+Je libo zábavu? Pak je toto vysoce kvalitní muzikantské kombo perfektní volbou pro tvůj koncert v zoo. Návštěvníkům se to líbí a rádi i něco věnují: Skupina ti dá denně 1 zoodolar!
+Gril bar
+Tví návštěvníci potřebují občas pořádný kus masa. A to platí i pro tvé zvířecí kamarády: Dobré maso z dobrého chovu chutná znamenitě.
+Perníkový obchod
+Nejen Jeníček s Mařenkou mají rádi perníkové domky, i tvoji návštěvníci o ně stojí. Počkej, brzy si smlsnou na stěnách a komíně!
+Pražené mandle
+Horké, sladké a opravdu chutné: pražené mandle a teplé kaštany zahřejí tvé návštěvníky v čase zimy.
+Stánek s ovocným punčem
+Horký ovocný punč v mrazivém počasí, to je přece skvělé! Postav ve své zoo stánek s punčem a brzy kolem něj budou postávat houfy návštěvníku! Jaký skvělý obchod!
+Obchod se suvenýry
+Cože? Byl jsi v zoo a nekoupil pro své blízké žádný upomínkový předmět? V obchodě se suvenýry najdeš plyšová zvířátka, gumové kačenky apod.
+Cukrová vata
+To je něco! Obrovská lepivá heboučká vata na dřívku!\n Na takovou cukrovou vatu se stojí fronty! Chutná totiž skvěle!
+Mléčný bar
+Mléko návštěvníky občerství a dodá jim energii! Tyto mléčné koktejly jsou zdravé a proslavené daleko za branami Tvé zoo!
+Popcorn
+Sladký nebo slaný? Hlavně, že jde o lahodný popcorn! Všichni mlsouni si na něm pochutnají! Ale pozor na zvědavé holuby ...
+Vyhlídková věž
+Ahooj, zdravím seshoraaa! Taková vyhlídková věž je opravdu geniální! Všechny výběhy jsou odsud vidět nejlépe. Návštěvníkovi tak leží celá zoo u nohou. Ještě dalekohled!
+Zázračné balóny
+Hurá! To bude radosti! Získej nový toolbar ze hry ZooMumba, zajisti si každodenní bonus a potěš své návštěvníky veselým stánkem se zázračnými balóny. A to nejlepší: Dostaneš více bodů zoogrošů!
+Koule s bonbóny
+Lentilky, žvýkačky, lízátka, lékořicoví hadi ... to je přece nebe na zemi pro všechny mlsné jazýčky! A čím by byla zoo bez koule plné sladkostí?
+Jízda formulí 1
+Vpřed a vzad - to je zábava! Po jízdě v červeném autíčku se cítí všichni návštěvníci zoo jako profíci formule 1. Brum, brum! 
+TODO: Studna přání
+TODO: Studna přání Popis
+
+
+Stánek s dýňovou šťávou
+Dýňová šťáva: Posilňující nápoj pro čarodějnice a čaroděje z celého světa.  Hmmm... to je dobrota!
+Čarodějnický kotlík 
+Podzimní dny budou temnější a chladnější. Co by více rozehřálo srdce a ruce tvých návštěvníků na cestě tvojí zoo, než šálek dýňové polévky?
+Stánek s kakaem
+Tvá zvířata zahřívají během zimy jejich hebké kožíšky. Tvým návštěvníkům pomáháme jinak: Teplým kakaem se šlehačkou! Mmmňam...
+Sushi obchod
+Chutná, zdravá a lehká strava: Nejen tučnáci mají rádi syrové ryby. Tví návštěvníci také ví, jak chutnají japonské delikatesy jako jsou Maki, Nigiri a Sashimi.
+Australský outback - obchod
+Následuj klokana do australského outback obchodu nebo si ho přidej do své vlastní zoo. Přinese tvému řediteli spoustu zoogrošů!
+Preclíkový stánek
+U tohoto preclíkového stánku se musíš na chvíli zastavit. Pekař Zenzi říká, že nejlepší preclíky jsou teplé a s trochou hrubé soli.
+Karibský bar
+Trochu karibské elegance pro tvé zoo! Karibský bar prodává chutné občerstvení a koktejly v tropické atmosféře. Dal by sis ZooMumba Sunrise koktejl nebo Piña ZooMumba? Bez alkoholu, samozřejmě!
+Mexický stánek
+Pikantní, ale velmi dobré: Plněné taco vždy dobře nasytí a podává se s masovou nebo zeleninovou náplní. Chutné a zdravé!
+Slizká ledová tříšť - bar
+Srk, srrk, srrrk. Slizké nápoje pro uhašení žízně. Mohou chutnat divně, ale jinak jsou vynikající! Tajuplné, slizké tříšťové koktejly pro tvé návštěvníky.
+Koblihový stánek
+Tolik barevných koblihů! Každý návštěvník má svou oblíbenou barvu - modrý, zelený nebo růžový koblih - každý je má rád!
+Stánek s fondue
+Mňam! Horký, tahavý sýr se postará o zahřátí v tomto studeném ročním období. V nabídce je tvrdý, měkký, děravý, smradlavý nebo plesnivý sýr - něco pro každého!
+Obchod s matrjoškami
+Kolik těchto panenek se do sebe vejde? Super hračka a suvenýr zabalený jako jeden kus.
+Kandovaná jablka
+Sladké, lepivé... a strašně dobré. Jablka chutnají obzvláště dobře obalené v cukru. A mají spoustu vitamínů!
+Stánek s tričky
+Tady můžeš koupit trička s jakýmkoli designem. Ať už je to logo zoa nebo potisk tvého oblíbeného zvířete. Tyto trička jsou skvělým způsobem, jak si zapamatovat tvůj den v zoo.
+Stánek s punčem
+Perfektní doplněk na každém vánočním trhu: stánek s punčem. Podávej svým návštěvníkům na zahřátí!
+Indické bistro
+Je libo něco ostřejšího? Vynikající indické kari s lahodnou rýží přenese tvé návštěvníky do světa indické kuchyně!
+Foto studio
+Jarní výlet do zoo by měl být zvěčněn veselou rodinnou fotografií. Úsměv, prosím!
+Stánek s churros
+Křupavé churros pro každého! Tento dezert, původem ze Španělska, se servíruje posypaný cukrem nebo namáčený v horké čokoládě. Tak jako tak, vaše chuťové pohárky si přijdou na své!
+Veřejná toaleta
+Konečně! Luxus na každém rohu! Tato moderní veřejná toaleta je hygienická a příjemná.
+Stánek s vaflemi
+Čerstvé vafle, čerstvé vafle! Vyber si podle libosti s čím je chceš - horké třešně, čokoláda nebo zmrzlina. Vynikající!
+Barbecue stánek
+Přímo z grilu - ochutnej výborné pochoutky celoročně, podávány mistrem grilu.
+Projížďky na ponících
+Hijéé! Popadni otěže a kupředu! Návštěvníci zoo se budou dobře bavit na zádech těchto roztomilých poníků! Jéé!
+Stánek s jahodami
+Začíná jahodová sezóna! Sladké, šťavnaté jahody nic nepřekoná! Možno konzumovat na koláči, se zmrzlinou nebo jen tak. Mlsat se dá i zdravě!
+Květinářství
+Návštěvníci zoo milují krásná květinová aranžmá! Nakupují kytice pro svá oblíbená zvířata. Snad si je zvířata nespletou se svačinou!
+Stánek s makaronkami
+Tyto barevné pěnové pamlsky nejsou snadné upéct. Zato ale chutnají báječně!
+Francouzská kavárna
+Oh là là! Je obvyklé, že Francouzi pijí kafe ve stoje. Hosté si mohou pochutnat i na croissantu a café au lait! Bon appétit!
+Stánek se škeblemi
+Škeble, hřebenatky, ústřice - podávají se jako hlavní jídlo nebo v pravé francouzské bouillabaisse!
+Dárkový stánek
+Ve hře ZooMumba všichni slavíme narozeniny! Ty, tvá zvířata, naši pomocníci ... Kdokoli potřebuje dárek si může vybrat tady!
+Gulášová kuchyně
+Maďaři milují tradiční guláš. Ideální jídlo během návštěvy zoo!
+Výrobce košíků
+Tradiční pletený koš je ideálním suvenýrem z návštěvy v zoo. Maďaři rozumí ručním pracím!
+Létající Holanďan
+Podle jedné legendy proplul kapitán na lodi duchů, zvaná Létající Holanďan, sedm moří.  Během Halloweenu se zastaví i ve tvé zoo, aby prodával rybí sandwiche. Mňam!
+Bar Bloody Mary
+Krvavá rajčatová šťáva a koření - Bar Bloody Mary má to ideální občerstvení pro upíry a podobné návštěvníky. Muhahahaha.
+Krocaní sandwich bar
+Po ohromné hostině ke dni díkůvzdání zůstalo spoustu jídla. Co takhle si připravit krocaní sandwich? Mmmm!
+Stánek s jablečnými koláči
+Americký jablečný koláč je klasika! Špetka skořice a listové těsto. Není nic lepšího! Sladká jablečná náplň je ideální pochoutkou během zimních měsíců. Nezapomeň na vanilkovou zmrzlinu!
+Seznam se se Santou
+To je sen! Seznam se osobně se Santou a řekni mu svá vánoční přání! Podívej, malý tučnák mu vyskočil do klína. Kdoví, jestli byl celý rok hodný!
+Stánek s cukrovinkami
+Toto cukroví pochází z Nizozemí a obvykle zobrazuje větrné mlýny nebo farmářské domy. Někdy zobrazuje obrázky sv. Mikuláše. Chutné i naučné!
+Stánek s baklavou
+Tento sladký zákusek obsahuje mandle, vlašské ořechy, pistácie, skořici, hřebíček a někdy i růžovou vodu a kardamon. Často se podává se silnou kávou mokka.
+Tržiště s kořením
+Hmm, to to ale voní! Koriandr, kardamon, kmín, anýz a samozřejmě drahý šafrán jsou nutností na každém orientálním trhu. Na kombinaci záleží!
+Stánek s plyšáky
+Většina zvířat v zoo je velmi chlupatá a zároveň i nebezpečná. Plyšáka si ale každý návštěvník může vzít domů. Jsou tak roztomilí!
+Stánek s čokoládou
+Co je klíč ke štěstí? Přece čokoláda! Bonboniéra je skutečný požitek. Tak si získáš srdce okamžitě. Chceš to vyzkoušet?
+Chrám zdraví
+Odpočinek v zoo - lázeň, masáže a kosmetické procedury v chrámu zdraví zaručí kompletní relaxaci!
+Stánek s velikonočními vajíčky
+Když se na jaře objeví první květy, schovávají velikonoční zajíčci barevná vajíčka. Naštěstí mají k dispozici super službu, abys je nemusel barvit sám - stánek s velikonočními vajíčky!
+Stánek s mrkvovou šťávou
+Máš rád mrkve? Strouhané, lisované, drcené nebo celé - mrkve mají spoustu vitaminu B a jsou dobré pro oči. Nakonec jen ti s orlím zrakem najdou barevná velikonoční vajíčka.
+Churrasco gril
+Stejně jako mnoho zvířat ve tvé zoo i návštěvníci milují maso. Ale opatrně, zatímco si maso prská na grilu, vůně se vane ke všem dravcům v zoo!
+Stánek se sýrovými kuličkami
+Křupavé na povrchu a roztavený sýr uvnitř. Mmmmm, tyto typické brazilské sýrové kuličky jsou nejlepší s čerstvou bylinkovou omáčkou.
+Prodejce balónků
+99 červených balónků a všechny další možné barvy. Když si jich koupíš dost, budeš se moci vznášet nad svým zoo! To bude výhled!
+Slizký punčový bar
+Polibek vdovy, krvavá Mary, zombi-punč nebo hokus pokus punč - co to je? To jsou slizké punče ze slizkého punčového baru!
+Seznam přání - bouda
+Co si tví návštěvníci přejí na Vánoce? V této boudě mohou napsat svá vánoční přání. Splní se jim?
+Továrna na bonbony
+Každý chce o Vánocích sladkosti. Továrna na bonbony je pro tyto případy ideální. Teď už ti pamlsky nedojdou!
+Srdcový zámek
+Nyní mohou tví návštěvníci symbolicky zapečetit svou lásku pro druhého u tohoto zámku. Nezapomeň na iniciály!
+Stánek s nudlemi
+Nudlová polévka rámen pochází z Číny, ale je populární i v Japonsku a Koreji. Tato polévka je vynikající s mořskými řasami zvanými nori, kuřetem, zeleninou nebo rybou.
+Didgeridová chýše
+Tradiční hudební nástroj australských domorodců vykouzlí ve tvé zoo exotické zvuky. Obvykle se vyrábí z kmene eukalyptu, který byl vyhloubený termity. Skutečný přírodní produkt!
+Stánek s pavlovou
+Tento chutný pěnový dort je plněný zmrzlinou a smetanou. Je sice lehký a vzdušný, ale má hodně kalorií. Pojmenovaný je po ruské baletce jménem Anna Pavlova. Je to také národní jídlo Austrálie!
+Stánek s mandragorou
+Kouzelná mandragora umí odčarovat a proměnit prokleté bytosti do původní podoby. Buď ale opatrný: Když ji vykořeníš, vydá ze sebe strašný zvuk, který může být smrtelný! Nasaď si sluchátka!
+Stánek s kouzelnými hůlkami
+Abrakadabra! Tři černé kočky! Kouzelná hůlka ti vykouzlí tvá tajná přání a mnohem víc. Nauč se ji správně ovládat a zanedlouho si vykouzlíš i králíka z klobouku!
+Stánek s cukrovím
+Pečeme, pečeme! Během Adventu se tradičně peče cukroví, tak hurá na to. Vynikající!
+Vánoční ozdoby
+Když je vánoční stromeček plný krásných ozdob, je jasné, že přišly Vánoce!
+Selfies
+Přitul se v této budce ke své milé a nechte se vyfotit! Návštěvníci si zde mohou pořídit spontánní selfie na celý život.
+Stan madam Starzy
+Co tě čeká v budoucnu? Láska? Nová práce? Proslulá věštkyně madam Starza odhalí všechna tajemství.
+Slepičí hnízdo
+Návštěvníci si mohou zakoupit nejen velikonoční vajíčka, ale i další zboží související se slepicemi, které mohou darovat svým příbuzným.
+Pečený cop
+Nech si upéct velikonoční cop! Tví návštěvníci si zde mohou koupit chlebové housky z celého světa!
+Pochoutky pro rybky
+V tomto speciálním obchodě si mohou návštěvníci koupit krmivo a nakrmit tak rybky v rybníku. Jen ať moc neztloustnou!
+Fish n’ Ships
+Občerstvení pro tvé návštěvníky! Není nic lepšího než tradiční ryba s hranolky pokapané vinným octem a zabalené do papíru.
+Nápoje
+Svěží nápoje pro každého - perlivé, neperlivé nebo zdravé smoothie. Tví návštěvníci si jistě vyberou.
+Na dně moře
+Suvenýry z Podmořského světa pro každého! Klíčenka krakatice obrovské, plyšový kraken nebo mazací guma ve tvaru vorvaně obrovského - tady najde ideální dárek každý.
+Studna přání
+Přej si něco! Tvá přání se stanou skutečností - alespoň ta, která mohou být splněna za zoogroše.
+Stánek s plyšáky
+Plyšové velryby, plyšové krakatice obrovské a dokonce i plyšové krakeny! Obstarej si roztomilé plyšové hračky z Podmořského světa zde!
+Maják
+Tví návštěvníci si tento jedinečný maják určitě zamilují.
+Tradiční kolotoč
+Kdo potřebuje plyšáky ze střelnice? Tví malí návštěvníci si jízdu na tomto starém kolotoči zamilují.
+Houpací loď
+Přitul se ke své drahé polovičce a pěkně se rozhoupejte. Ať se vám neudělá špatně!
+Jurská žebra
+Pochutnej si na tradičně upečených žebírkách z doby kamenné!
+Jantarové sny
+Co se skrývá uvnitř kousku jantaru? Kdoví? Možná si budeš moci vytvořit svůj vlastní dinosauří park!
+Čoko-la-la!
+Zahřej se vynikající čokoládou v tomto čokoládovém obchodě!
+Kaštanový expres
+Ty nejlepší pečené kaštany v celé zoo!
+Želví čaj
+Pochutnej si na výborných exotických a bylinných čajích v této tropické čajovně.
+Rybí hranolky
+Na tomhle si rozhodně pochutnáš. Přidej sůl, kečup, ocet nebo jen tak bez ničeho zabalené do papíru.
+Stánek se šťávou z cukrové třtiny
+Během horkého dne v Kambodži neosvěží nic lépe než šťáva z cukrové třtiny.
+Stánek s amokem
+Vyzkoušej amok! Toto tradiční kambodžské jídlo je kari vařené na páře v banánových listech. Dělá se z ryb, masa nebo tofu – určitě si pochutnáš!
+Speciální dobroty
+Chceš si najít v zoo mezi zvířaty kamarády? Tak popadni tyto speciální dobroty. Ale pozor, budou chtít další!
