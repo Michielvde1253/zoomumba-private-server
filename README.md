@@ -183,7 +183,7 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [x] swfCookie.set - SAVE_FLASH_COOKIE - STUBBED
 - [ ] swfOpt.set - SET_USER
 - [ ] test.testAdam - DEBUG_PHP_ACTION
-- [ ] tombola.bTT - BUY_FORTUNE_WHEEL_TICKET
+- [x] tombola.bTT - BUY_FORTUNE_WHEEL_TICKET
 - [ ] tombola.rTT - REDEEM_FORTUNE_WHEEL_TICKET
 - [x] tutorial.rS - TUTORIAL_STORE_STATS
 - [ ] user.swap - SWAP_CURRENCY
