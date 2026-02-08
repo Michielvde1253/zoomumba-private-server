@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Üdv a vándorcirkuszban! Bemutatkozik a Mystery Box! Vásárolj egy dobozt, és kapsz egyet 10 állat közül. Egyszerre akár 20 dobozod is lehet, és minden dobozt akár 5 óra alatt ki lehet nyitni. Jó szórakozást!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Állatok:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Szívből gratulálok!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[A következő állatok kerültek a készletedbe: %animal%. Szerezz még több titokzatos ládát, hogy még több egyedi állatot szerezz!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Ó, sajnáljuk!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Már van 20 titokzatos ládád. Várj meg, amíg az egyik kinyílik, és csak utána vegyél egy másikat.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[A rejtélyes doboz a következő összegért nyílik meg: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Kattints az állatok megtekintéséhez]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Üdv ismét!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Amíg távol voltál, az állataid megszomjaztak a titokzatos kennelből. Sonia tenyésztő gondoskodott róluk, és a készletébe vette őket. Nézd meg őket gyorsan!]]></item>
+  </category>
+</language>

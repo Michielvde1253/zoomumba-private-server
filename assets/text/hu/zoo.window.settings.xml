@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.settings">
+    <item name="zoo.window.settings.info"><![CDATA[Üdvözlöm, állatkerti igazgató!<br>Itt testreszabhatja a ZooMumba játékot a saját ízlése szerint! Válassza ki azt a játékot, amelyiket a legjobban élvezi!]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[-on]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[le]]></item>
+    <item name="zoo.window.settings.quality.low"><![CDATA[alacsony]]></item>
+    <item name="zoo.window.settings.quality.middle"><![CDATA[közepes]]></item>
+    <item name="zoo.window.settings.quality.high"><![CDATA[magas]]></item>
+    <item name="zoo.window.settings.quality.title"><![CDATA[Grafika]]></item>
+    <item name="zoo.window.settings.quality.info"><![CDATA[Minőség]]></item>
+    <item name="zoo.window.settings.account.title"><![CDATA[Fiók szerkesztése]]></item>
+    <item name="zoo.window.settings.account.info"><![CDATA[Itt szerkesztheted a játékfiókod adatait, például az e-mail címedet.]]></item>
+    <item name="zoo.window.settings.title.tooltipps"><![CDATA[Elemleírások]]></item>
+    <item name="zoo.window.settings.title.visitors"><![CDATA[Látogatók]]></item>
+    <item name="zoo.window.settings.title.visitorWishes"><![CDATA[A látogatók kívánságai]]></item>
+    <item name="zoo.window.settings.title.sound"><![CDATA[Hang]]></item>
+    <item name="zoo.window.settings.title.sound.background"><![CDATA[Zene]]></item>
+    <item name="zoo.window.settings.title.sound.effects"><![CDATA[Hangeffektek]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[igazítani]]></item>
+    <item name="zoo.window.settings.tab.account"><![CDATA[számla]]></item>
+    <item name="zoo.window.settings.tab.config"><![CDATA[Konfiguráció]]></item>
+    <item name="zoo.window.settings.tab.buildings"><![CDATA[Főépület]]></item>
+    <item name="zoo.window.settings.buildings.info"><![CDATA[Válaszd ki az állatkert bejáratát ízlésed szerint. A főépületek a szintedtől függően érhetők el.<br>Így az állatkerted egyre jobban rád lesz szabva!]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Animáció]]></item>
+    <item name="zoo.window.settings.anim.info"><![CDATA[Állatanimációk száma]]></item>
+    <item name="zoo.window.settings.saveAssets"><![CDATA[Puffer memória]]></item>
+  </category>
+</language>

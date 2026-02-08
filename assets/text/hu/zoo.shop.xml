@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop">
+    <category name="zoo.shop.category">
+      <item name="zoo.shop.category.animals"><![CDATA[Állatok]]></item>
+      <item name="zoo.shop.category.cages"><![CDATA[Élőhelyek]]></item>
+      <item name="zoo.shop.category.stores"><![CDATA[Épületek]]></item>
+      <item name="zoo.shop.category.deco"><![CDATA[Dekorációk]]></item>
+      <item name="zoo.shop.category.resources"><![CDATA[Takarmány]]></item>
+      <item name="zoo.shop.category.assistants"><![CDATA[Asszisztensek]]></item>
+      <item name="zoo.shop.category.specials"><![CDATA[Kiegészítők]]></item>
+      <item name="zoo.shop.category.roads"><![CDATA[Utak]]></item>
+      <item name="zoo.shop.category.material"><![CDATA[Anyag]]></item>
+    </category>
+    <category name="zoo.shop.tabbar">
+      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Így juthatsz el a műhelybe.]]></item>
+    </category>
+  </category>
+</language>

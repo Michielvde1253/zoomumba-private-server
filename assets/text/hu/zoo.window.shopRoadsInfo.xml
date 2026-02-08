@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Murvás út]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Ez a kavicsos ösvény összeköti az állatkert kifutóit. Egy minőségi ösvényhálózat segíti a látogatókat a tájékozódásban, és elvezeti őket az összes kifutóhoz.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Kék-fehér járda]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Ez a kék-fehér macskaköves ösvény nemcsak remekül néz ki, de remek felület babakocsival, rollerrel és görkorcsolyával is közlekedhetünk rajta. Gördülékeny mozgás és minőségi szórakozás, ez nagyszerű!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Homokút]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[Ritkán vannak aszfaltozott utak a sztyeppén. Azt szeretnéd, hogy az állatkerted hasonlítson a vadonra!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Rózsaszín és fehér járda]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Milyen bájos: Ez az értékes rózsaszín mozaikkövekből készült kőút igazán különleges. Tökéletes kifutó a magas sarkú cipőben látogatók számára.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Fekete-fehér járda]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[A mozaik formájában elhelyezkedő fekete-fehér drágakövek gyönyörűen szegélyezik ezt az utat. Nagy gondossággal kidolgozva állatkerted ékkövévé válnak.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[A sziklás út]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Akárcsak a vadonban, a kövek közötti résekből apró fűcsomók nőnek. Nem a pedánsoknak való, de a természet szerelmeseinek biztosan tetszeni fog.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Kavicsos ösvény]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Ez a kavicsos ösvény jól néz ki, és biztos vagyok benne, hogy senki sem fog elcsúszni rajta. Biztonságos és szép, mit kívánhatna még az ember?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Földút]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[A földutak népszerűek Afrikában. Hitelességeket kölcsönöznek az állatkertnek, és sok állat otthon érezheti magát rajtuk.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Vízi út]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Csobbanás, csobbanás, csobbanás! Vedd fel a gumicsizmát, fújd fel a gumicsónakodat és fogj egy gumikacsát - rengeteg víz lesz ezen a kiránduláson!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Jégút]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Hurrá! Egy jeges út - az jó móka lesz! A látogatóid jól fogják magukat érezni a jeges úton csúszkálva. Vigyázz, nincs sózva!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Savannah út]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[Egy kitaposott ösvény kanyarog a szavannán, így ideális hely a nyomok keresésére, akárcsak egy szafarin.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Sivatagi út]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[A nap perzselő heve alatt homok fúj a sivatagon, eltüntetve minden nyomát.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Kőösvény]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Ez az ösvény elég göröngyös. Nagy kövek és sziklák vannak rajta, ezért a jó lábbeli elengedhetetlen. Vigyázzatok, nehogy elessetek!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Tundra ösvény]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[A látogatóknak iránytűre lesz szükségük ezen az ösvényen, de bölcs dolog a kitaposott ösvényen maradni.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Havas út]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[Ragacsos hó hever a hóösvényen, amelyen a látogatók meleg bakancsukban ballagnak majd végig. Minden olyan gyönyörű itt!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Sivatagi ösvény]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[A vadonban a legjobb az úton maradni. Mindenhol méreganyagok és salakanyagok vannak. A jó talpú gumicsizma kötelező!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Alpesi útvonal]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Ez a túraútvonal fel és le visz az Alpokon keresztül. A jó minőségű, stabil bokatámaszt nyújtó cipők megvédenek a csúszástól!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Barlangösvény]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Tartsd nyitva a szemed, nehogy megcsússz! Talán megpillantasz egy csillogó aranyszemcsét a kövek között.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Erdei ösvény]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[Esős ​​napokon ez az ösvény kissé sáros lehet, de nyáron az erdő abszolút idilli.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Tengerparti út]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Mezítláb sétálni csillogó homokon, kagylókon, hínáron és alkalmanként egy kis tengeri csillagon nagyon jótékony hatással van az egészségre!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Varázslatos ösvény]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[A ragyogó kék ösvény, ami túlvilági, ijesztőnek tűnhet, de kalandos is. Hová vezet?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Cukorföldi ösvény]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Morzsa! Hoppá! Ráléptél egy cukorkára? Vigyázz, rágógumik vannak úton! Milyen gyönyörűen színes itt!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Bambusz erdei ösvény]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[A köd átgördül egy hatalmas, szinte áthatolhatatlan bambuszerdőn. A távolban harkály kopogása hallatszik. Egyszerűen idilli!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Erdei ösvény]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Ha nem akarsz indáról indára ugrálni ebben a dzsungelben, akkor sétálhatsz ezen a kitaposott ösvényen. Légy óvatos: időnként egy kígyó vagy pók keresztezheti az ösvényt.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[Az ösvény a mocsáron keresztül]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[A látogatóidnak emlékezniük kell arra, hogy a mocsárban a helyes úton maradjanak. Egyetlen rossz lépés, és a sárba esnek!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Fa platform]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Nincs is jobb annál, mint végigsétálni egy fa mólón, és hallgatni egy hajófedélzet nyikorgását. Látogatóid igazi tengerparti élményben részesülnek.]]></item>
+  </category>
+</language>

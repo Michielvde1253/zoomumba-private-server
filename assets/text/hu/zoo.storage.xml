@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.storage">
+    <category name="zoo.storage.moreSpace">
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Bővítsd az állatkerted!]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Ezt a tárgyat csak akkor vásárolhatod meg, ha %neededExpansion% állatkerti kiegészítőd van. Jelenleg csak %userExpansion% állatkerti kiegészítőd van. Szeretnéd most azonnal kibővíteni az állatkerted, hogy megvásárolhasd ezt a tárgyat?]]></item>
+    </category>
+    <category name="zoo.storage.firstExpansion">
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[Víztorony és raktár]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Remek! Végre van elég helyed megépíteni az első víztornyodat és raktárodat. Mindkét tárgy ingyenes a készletedben. Most pedig kezdődhet a játék!]]></item>
+    </category>
+    <category name="zoo.storage.buy">
+      <item name="zoo.storage.buy.belowWater"><![CDATA[A víztorony maximális kapacitása %kapacitás%. Ez az érték nem növelhető, még az épület megvásárlásával sem. Még mindig meg szeretnéd venni?]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[A készlettárolód maximális kapacitása %kapacitás%. Ez az érték nem növelhető, még az épület megvásárlásával sem. Még mindig meg szeretnéd venni?]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[A vízmennyiség %kapacitásának%-a áll rendelkezésre. Többet nem tárolhat. Ez az épület nem fogja növelni a kapacitását. Még mindig meg akarja venni?]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[A tárolókapacitás %capacity%-a elérhető. Többet nem tárolhat. Ez az épület nem fogja növelni a kapacitását. Még mindig meg szeretné vásárolni?]]></item>
+    </category>
+    <category name="zoo.storage.capacity">
+      <item name="zoo.storage.capacity.title"><![CDATA[Tárolási kapacitás]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[Az állataidnak sok takarmányra és vízre van szükségük. Itt láthatod, hogy mennyi áll rendelkezésedre ezekből, és mennyit tudsz bővíteni.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Vízkapacitás]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Takarmánykapacitás]]></item>
+    </category>
+  </category>
+</language>

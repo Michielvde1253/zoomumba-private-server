@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.collectables">
+    <category name="zoo.collectables.forgottenZoo">
+      <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Eszközök]]></item>
+      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Gyűjts össze szerszámokat, és cseréld be őket rejtett állatkerted kiegészítőire.<br> <br>Szerszámokat a szafarin és a szerencsekeréken kapsz. Ezután menj a boltba, és cseréld be őket.<br> <br>Eddig ennyi szerszámod van:]]></item>
+      <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[Szeretnéd bővíteni a rejtett állatkerted %tools% eszközökkel és %zd% állatkert dollárral?]]></item>
+    </category>
+    <category name="zoo.collectables.easterEvent">
+      <item name="zoo.collectables.easterEvent.title"><![CDATA[Húsvéti tojások]]></item>
+      <item name="zoo.collectables.easterEvent.text"><![CDATA[Április 21-től április 27-ig húsvéti tojások özönét tapasztalhatod meg! Gyűjtsd össze őket, és cseréld be húsvéti díszekre, húsvéti nyuszikra és más fészkekre. A jelenlegi húsvéti tojás állapotod:]]></item>
+    </category>
+    <category name="zoo.collectables.meadow">
+      <item name="zoo.collectables.meadow.main.title"><![CDATA[Rét]]></item>
+      <item name="zoo.collectables.meadow.main.text"><![CDATA[Sokféle fű, virág és pozsgás lóhere nő egy gyönyörű, színes réten.]]></item>
+      <item name="zoo.collectables.meadow.flower.title"><![CDATA[Virágok]]></item>
+      <item name="zoo.collectables.meadow.flower.text"><![CDATA[Tavasszal a rétek vadvirágok tengerévé változnak. És az állataid imádják őket!]]></item>
+      <item name="zoo.collectables.meadow.log.title"><![CDATA[Csikk]]></item>
+      <item name="zoo.collectables.meadow.log.text"><![CDATA[Az átmeneti rétet a fák kivágásával hozzák létre. Az erdő kiirtása után először apró fűhajtások nőnek ott.]]></item>
+      <item name="zoo.collectables.meadow.gnome.title"><![CDATA[Manószerű]]></item>
+      <item name="zoo.collectables.meadow.gnome.text"><![CDATA[A rétek gyakran adnak otthont tündéknek is, akik éjszaka előbújnak rejtekhelyükről. Ezek a félénk, de barátságos teremtmények gyakran osztják meg otthonaikat a nyulakkal.]]></item>
+      <item name="zoo.collectables.meadow.mushroom.title"><![CDATA[Gombák]]></item>
+      <item name="zoo.collectables.meadow.mushroom.text"><![CDATA[A gombák ízletes gombák, és például Észak-Amerikában nőnek.]]></item>
+      <item name="zoo.collectables.meadow.sign.title"><![CDATA[Vad rét]]></item>
+      <item name="zoo.collectables.meadow.sign.text"><![CDATA[Ha egy „átmeneti rétet” sokáig senki sem gondoz, hamarosan újra vad erdő nő rajta.]]></item>
+    </category>
+    <category name="zoo.collectables.ice">
+      <item name="zoo.collectables.ice.main.title"><![CDATA[Jég]]></item>
+      <item name="zoo.collectables.ice.main.text"><![CDATA[Nemcsak a pingvinek és a jegesmedvék szeretik a hideg éghajlatot, de a sarki róka is élvezi a jeget és a havat!]]></item>
+      <item name="zoo.collectables.ice.popsicle.title"><![CDATA[jégkrém]]></item>
+      <item name="zoo.collectables.ice.popsicle.text"><![CDATA[Kevesen tudják, de a pingvinek is szeretik a jégkrémet, és néha ellopják a turistáktól.]]></item>
+      <item name="zoo.collectables.ice.cubes.title"><![CDATA[Jégkockák]]></item>
+      <item name="zoo.collectables.ice.cubes.text"><![CDATA[A jégkockák tökéletesek egy forró ital lehűtésére. Felfrissülést nyújtanak egy forró nyári napon.]]></item>
+      <item name="zoo.collectables.ice.skates.title"><![CDATA[Korcsolya]]></item>
+      <item name="zoo.collectables.ice.skates.text"><![CDATA[A korcsolyázás egy lenyűgöző sport. A történészek úgy vélik, hogy körülbelül 4000 évvel ezelőtt találták fel. A finnek valószínűleg hozzájárultak a találmányhoz.]]></item>
+      <item name="zoo.collectables.ice.igloo.title"><![CDATA[Jégkunyhó]]></item>
+      <item name="zoo.collectables.ice.igloo.text"><![CDATA[Az iglu az eszkimók, Észak-Amerika őslakosainak otthonát jelenti.]]></item>
+      <item name="zoo.collectables.ice.sign.title"><![CDATA[Jégcsapok]]></item>
+      <item name="zoo.collectables.ice.sign.text"><![CDATA[A csillogó jégcsapok fagypont alatt keletkeznek. A nap melege persze újra megolvasztja őket.]]></item>
+    </category>
+    <category name="zoo.collectables.bamboo">
+      <item name="zoo.collectables.bamboo.main.title"><![CDATA[Bambuszliget]]></item>
+      <item name="zoo.collectables.bamboo.main.text"><![CDATA[A bambusz a pandák egyetlen tápláléka, és főként Ázsiában nő.]]></item>
+      <item name="zoo.collectables.bamboo.branches.title"><![CDATA[Bambusz ág]]></item>
+      <item name="zoo.collectables.bamboo.branches.text"><![CDATA[A bambusz több fás szárú fűnemzetség gyűjtőneve.]]></item>
+      <item name="zoo.collectables.bamboo.lantern.title"><![CDATA[Mécses]]></item>
+      <item name="zoo.collectables.bamboo.lantern.text"><![CDATA[Akassz egy szép lámpást a bambuszkertedbe, és dobd fel az éjszakát lágy fénnyel.]]></item>
+      <item name="zoo.collectables.bamboo.gong.title"><![CDATA[Gong]]></item>
+      <item name="zoo.collectables.bamboo.gong.text"><![CDATA[A gong szép dísze lehet a bambuszkertednek. És ez az egzotikus hang... mintha a meditáció beindítására szolgálna.]]></item>
+      <item name="zoo.collectables.bamboo.statue.title"><![CDATA[Ázsiai szobor]]></item>
+      <item name="zoo.collectables.bamboo.statue.text"><![CDATA[Egy ázsiai stílusú szobor nyugalmat és békét teremt a bambuszkertben.]]></item>
+      <item name="zoo.collectables.bamboo.sign.title"><![CDATA[Bambusz szárnyak]]></item>
+      <item name="zoo.collectables.bamboo.sign.text"><![CDATA[Az emberek már régóta készítenek szárnyakat bambuszból. A könnyű, mégis erős anyag lehetővé teszi számukra, hogy hihetetlen magasságokba érjenek.]]></item>
+    </category>
+    <category name="zoo.collectables.parrot">
+      <item name="zoo.collectables.parrot.main.title"><![CDATA[Papagáj]]></item>
+      <item name="zoo.collectables.parrot.main.text"><![CDATA[Néhány papagáj meglehetősen beszédes fajtáról ismert. Némelyikük teljes mondatokban is beszél.]]></item>
+      <item name="zoo.collectables.parrot.plush.title"><![CDATA[Plüss papagáj]]></item>
+      <item name="zoo.collectables.parrot.plush.text"><![CDATA[A papagájok nagyon társaságkedvelő és népszerű háziállatok, de sok helyre van szükségük a futkározáshoz.]]></item>
+      <item name="zoo.collectables.parrot.paw.title"><![CDATA[Papagáj karma]]></item>
+      <item name="zoo.collectables.parrot.paw.text"><![CDATA[A papagájoknak valójában 4 karmuk van. Kettő elöl és kettő hátul. Így nem esnek le az ágról, még akkor sem, ha elalszanak.]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.title"><![CDATA[Blackjack]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.text"><![CDATA[A papagájok valójában kalózok, akiket gonosz varázslók színes madarakká változtattak.]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.title"><![CDATA[Peru]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.text"><![CDATA[Peru Amazonas régiójának dzsungelei számos papagájnak adnak otthont, az esőerdő pedig ideális élőhelyet biztosít számukra.]]></item>
+      <item name="zoo.collectables.parrot.sign.title"><![CDATA[Gyümölcsrajongók]]></item>
+      <item name="zoo.collectables.parrot.sign.text"><![CDATA[A papagájok szeretnek magokat és dióféléket enni, de a gyümölcsöket is élvezik. Nem számít, hogy frissek vagy szárítottak, a lényeg, hogy édesek legyenek.]]></item>
+    </category>
+    <category name="zoo.collectables.rabbit">
+      <item name="zoo.collectables.rabbit.main.title"><![CDATA[Mezei nyúl]]></item>
+      <item name="zoo.collectables.rabbit.main.text"><![CDATA[A mezei nyulak sokféle területen élnek - a sivatagoktól az erdőkön át a hideg sarkvidékekig.]]></item>
+      <item name="zoo.collectables.rabbit.plush.title"><![CDATA[Plüss nyúl]]></item>
+      <item name="zoo.collectables.rabbit.plush.text"><![CDATA[A mezei nyulak évszázadok óta léteznek. A fosszíliák azt mutatják, hogy nyúlszerű lények éltek Kínában 60 millió évvel ezelőtt.]]></item>
+      <item name="zoo.collectables.rabbit.paw.title"><![CDATA[Nyúl lába]]></item>
+      <item name="zoo.collectables.rabbit.paw.text"><![CDATA[A nyúl lába sok kultúrában a szerencse szimbóluma.]]></item>
+      <item name="zoo.collectables.rabbit.paint.title"><![CDATA[Színpaletta]]></item>
+      <item name="zoo.collectables.rabbit.paint.text"><![CDATA[Évente egyszer megérkezik a húsvéti nyuszi, és csokoládét, valamint színes tojásokat rejt el.]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.title"><![CDATA[Portugália]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.text"><![CDATA[Az európai vadmezei eredetileg Portugáliában, Spanyolországban és Északnyugat-Afrikában éltek, de Ausztráliába is eljutottak.]]></item>
+      <item name="zoo.collectables.rabbit.sign.title"><![CDATA[Zöldségszakértők]]></item>
+      <item name="zoo.collectables.rabbit.sign.text"><![CDATA[A mezei nyulak vegetáriánusok. Inkább füvet, gyógynövényeket, salátát és színes virágokat esznek.]]></item>
+    </category>
+    <category name="zoo.collectables.penguin">
+      <item name="zoo.collectables.penguin.main.title"><![CDATA[Pingvin]]></item>
+      <item name="zoo.collectables.penguin.main.text"><![CDATA[A pingvinek tengeri madarak, annak ellenére, hogy nem tudnak repülni.]]></item>
+      <item name="zoo.collectables.penguin.plush.title"><![CDATA[Plüss pingvin]]></item>
+      <item name="zoo.collectables.penguin.plush.text"><![CDATA[A pingvinek nagyon társaságkedvelő és versengő állatok, amelyek gyakran szeretnek víz alatt táncolni.]]></item>
+      <item name="zoo.collectables.penguin.paw.title"><![CDATA[Pingvin uszony]]></item>
+      <item name="zoo.collectables.penguin.paw.text"><![CDATA[Egy pingvin járása a szárazföldön esetlennek tűnik, de a vízben a pingvin fürge úszó és búvár.]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.title"><![CDATA[Szmoking]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.text"><![CDATA[Vannak, akik pingvin frakknak is nevezik a szmokingot, mert feltűnően hasonlít a pingvin külsejére.]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.title"><![CDATA[Antarktisz]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.text"><![CDATA[A szubpoláris szigetek adnak otthont az egyik legnagyobb és legnehezebb pingvinnek - a császárpingvinnek.]]></item>
+      <item name="zoo.collectables.penguin.sign.title"><![CDATA[Halrajongók]]></item>
+      <item name="zoo.collectables.penguin.sign.text"><![CDATA[A pingvinek igazi ínyencek. Jobban szeretik a halakat, de a tengeri élőlényeket is élvezik.]]></item>
+    </category>
+    <category name="zoo.collectables.giantTurtle">
+      <item name="zoo.collectables.giantTurtle.main.title"><![CDATA[Óriásteknős]]></item>
+      <item name="zoo.collectables.giantTurtle.main.text"><![CDATA[A teknősök hüllők. Leggyakrabban víz közelében vagy vízben élnek. A legnagyobb teknősök a víziteknősök.]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.title"><![CDATA[Plüss teknős]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.text"><![CDATA[Az óriásteknősbébik még a tojásban kommunikálnak testvéreikkel. Egyszerűen egymásnak ütköznek a tojáshéjukkal.]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.title"><![CDATA[Teknős lába]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.text"><![CDATA[A víziteknősök lábai között úszóhártyák találhatók, míg a szárazföldi teknősök lábai inkább tuskókhoz hasonlítanak.]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.title"><![CDATA[Hinta]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.text"><![CDATA[Az elefántteknősök több mint 100 évig is élhetnek, de soha nem nő náluk ősz szakáll.]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.title"><![CDATA[Ecuador]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.text"><![CDATA[Az elefántteknősök a Galápagos-szigetekről származnak, amelyek Ecuadorhoz tartoznak Dél-Amerikában.]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.title"><![CDATA[Táplálkozási szakemberek]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.text"><![CDATA[A legtöbb teknős mindenevő, de egyes fajok, például a medúza, csak egyféle táplálékra specializálódtak.]]></item>
+    </category>
+    <category name="zoo.collectables.lion">
+      <item name="zoo.collectables.lion.main.title"><![CDATA[Oroszlán]]></item>
+      <item name="zoo.collectables.lion.main.text"><![CDATA[Az oroszlánok a tigrisek után a második legnagyobb macskafélék a világon.]]></item>
+      <item name="zoo.collectables.lion.plush.title"><![CDATA[Plüss oroszlán]]></item>
+      <item name="zoo.collectables.lion.plush.text"><![CDATA[A fehér oroszlánok valójában teljesen normális oroszlánok, csak a bundájukat fakította ki a nap.]]></item>
+      <item name="zoo.collectables.lion.paw.title"><![CDATA[Oroszlánmancs]]></item>
+      <item name="zoo.collectables.lion.paw.text"><![CDATA[Nagy mancsaikkal tiszteletet parancsolnak, karmaik pedig erősen megragadják zsákmányukat.]]></item>
+      <item name="zoo.collectables.lion.crown.title"><![CDATA[Korona]]></item>
+      <item name="zoo.collectables.lion.crown.text"><![CDATA[Bár szavannákon és sztyeppéken élnek, gyakran a „dzsungel királyainak” nevezik őket.]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.title"><![CDATA[Tanzánia]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.text"><![CDATA[Ma főként nemzeti parkokban élnek, például Tanzániában vagy Kelet-Afrika partjainál.]]></item>
+      <item name="zoo.collectables.lion.sign.title"><![CDATA[Steak szerelmeseinek]]></item>
+      <item name="zoo.collectables.lion.sign.text"><![CDATA[Az oroszlánok, mint minden macskaféle, ragadozók. Gnúkkal, zebrákkal és bivalyokkal táplálkoznak.]]></item>
+    </category>
+    <category name="zoo.collectables.peacock">
+      <item name="zoo.collectables.peacock.main.title"><![CDATA[Páva]]></item>
+      <item name="zoo.collectables.peacock.main.text"><![CDATA[A pávák lenyűgöző egzotikus madarak. Szabadon barangolnak számos állatkertben és parkban.]]></item>
+      <item name="zoo.collectables.peacock.plush.title"><![CDATA[Plüss páva]]></item>
+      <item name="zoo.collectables.peacock.plush.text"><![CDATA[A páva faroktollai gyönyörűek. A görög mitológiában a páva szemei ​​Argosz őrzőjét jelképezik, aki Zeusz szeretőjét, Iót őrizte.]]></item>
+      <item name="zoo.collectables.peacock.paw.title"><![CDATA[Páva karmai]]></item>
+      <item name="zoo.collectables.peacock.paw.text"><![CDATA[A hím pávák meglehetősen hiúak. Órákat tölthetnek azzal, hogy karmaikkal fésülködjenek gyönyörű tollaik között. Végül pedig teljes pompájukban széttárják azokat.]]></item>
+      <item name="zoo.collectables.peacock.mirror.title"><![CDATA[Tükör]]></item>
+      <item name="zoo.collectables.peacock.mirror.text"><![CDATA[A pávák elég menő mutatványokat tudnak végrehajtani, hogy felkeltsék a nőstények érdeklődését, és a nőstények szeretnek flörtölni is velük.]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.title"><![CDATA[India]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.text"><![CDATA[Indiában a páva 1963 óta a nemzeti madár. Az indiaiak azért értékelik ezeket a madarakat, mert mérgező kobrákra vadásznak.]]></item>
+      <item name="zoo.collectables.peacock.sign.title"><![CDATA[Gabonakedvelő]]></item>
+      <item name="zoo.collectables.peacock.sign.text"><![CDATA[A pávák többnyire gabonát és magvakat esznek, de időnként virágokat és alkalmanként bogarakat is esznek.]]></item>
+    </category>
+    <category name="zoo.collectables.panda">
+      <item name="zoo.collectables.panda.main.title"><![CDATA[Panda]]></item>
+      <item name="zoo.collectables.panda.main.text"><![CDATA[Az óriáspanda egy Kínából származó fekete-fehér medve.]]></item>
+      <item name="zoo.collectables.panda.plush.title"><![CDATA[Plüss panda]]></item>
+      <item name="zoo.collectables.panda.plush.text"><![CDATA[A pandabébik valóban nagyon kicsik. Mindössze 100-200 grammot nyomnak, és körülbelül 15-17 cm hosszúak.]]></item>
+      <item name="zoo.collectables.panda.paw.title"><![CDATA[Panda mancs]]></item>
+      <item name="zoo.collectables.panda.paw.text"><![CDATA[Az óriáspandáknak görbe hüvelykujjuk van. Ezzel tartják az ételt.]]></item>
+      <item name="zoo.collectables.panda.bowl.title"><![CDATA[Kínai evőpálcikák]]></item>
+      <item name="zoo.collectables.panda.bowl.text"><![CDATA[Az okos pandák bambuszpálcikákat használnak az étel nyársra húzásához, ahogyan az ázsiai emberek is pálcikával esznek.]]></item>
+      <item name="zoo.collectables.panda.flagChina.title"><![CDATA[Kína]]></item>
+      <item name="zoo.collectables.panda.flagChina.text"><![CDATA[Az utolsó vadon élő pandák Kínában élnek, a világ legnagyobb országában. Sajnos már csak néhány példány él belőlük.]]></item>
+      <item name="zoo.collectables.panda.sign.title"><![CDATA[Bambusz szakértő]]></item>
+      <item name="zoo.collectables.panda.sign.text"><![CDATA[A pandák szívesen rágcsálják a bambuszt, különösen a leveleit és a fiatal ágait. Mivel nagy állatok, sokat fogyasztanak belőle.]]></item>
+    </category>
+    <category name="zoo.collectables.sonja">
+      <item name="zoo.collectables.sonja.main.title"><![CDATA[Tenyésztő Soňa]]></item>
+      <item name="zoo.collectables.sonja.main.text"><![CDATA[Soňa tenyésztő tökéletesen tudja, hogyan gondoskodjon az állatokról. Csak ő tudja egyszerre az összes állatot megsimogatni.]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.title"><![CDATA[Elefántjáték]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.text"><![CDATA[A majmok vidám társak. Szeretnek például élénk színű fa elefántokkal játszani.]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.title"><![CDATA[Felső]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.text"><![CDATA[Vidáman forgó csigájával Soňa még a legmogorvább orrszarvút is képes felvidítani.]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.title"><![CDATA[Egérjáték]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.text"><![CDATA[Az aranyos házimacskák szeretnek játékegereket kergetni, de az oroszlánok a nagyobb zsákmányt részesítik előnyben.]]></item>
+      <item name="zoo.collectables.sonja.main.babyBear.title"><![CDATA[Medvebocs]]></item>
+      <item name="zoo.collectables.sonja.babyBear.text"><![CDATA[A medvebocsok folyton csak ölelkeznének. Néhányuk egyáltalán nem akar elhagyni a gondozóját.]]></item>
+      <item name="zoo.collectables.sonja.sign.title"><![CDATA[Az ölelkezés mestere]]></item>
+      <item name="zoo.collectables.sonja.sign.text"><![CDATA[Sonia az ölelkezés mestere. Béreld fel, és 12%-kal több bérletet kapsz a szolgáltatásaiért!]]></item>
+    </category>
+    <category name="zoo.collectables.book">
+      <item name="zoo.collectables.book.tab.animals"><![CDATA[Állatok]]></item>
+      <item name="zoo.collectables.book.tab.cages"><![CDATA[Legelők]]></item>
+      <item name="zoo.collectables.book.tab.assistants"><![CDATA[Asszisztensek]]></item>
+      <item name="zoo.collectables.book.more"><![CDATA[Több...]]></item>
+    </category>
+    <category name="zoo.collectables.rewards">
+      <item name="zoo.collectables.book.rewards.unlocked.title"><![CDATA[Győzelem!]]></item>
+      <item name="zoo.collectables.book.rewards.unlocked.text"><![CDATA[Válassza ki az árát:]]></item>
+      <item name="zoo.collectables.book.rewards.locked.title"><![CDATA[Gyűjts tovább...]]></item>
+      <item name="zoo.collectables.book.rewards.locked.text"><![CDATA[... Ezek a nagyszerű jutalmak várnak rád:]]></item>
+      <item name="zoo.collectables.book.rewards.button"><![CDATA[Válasszon]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Úton vagyok egy rezervátumba, ahol növelni akarják a - %species% populációját. Tudsz segíteni? Kölcsönadok neked egy pár - %species% madarat 120 órára. %amount% %species% kölyökért egy felnőttet kapsz.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Kölcsönözz egy párat]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Anakonda]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Remek! Most már legalább 5 kölyök van a készletedben. Cseréld el őket gyorsan velem egy felnőtt orangutánra!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Remek! Nagyon sokat segítettél! Most elviszem a bocsokat a rezervátumba, és ott szabadon engedem őket a vadonban. Nagyon köszönöm, és találkozunk legközelebb!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[Az állatos kisautó visszatért a rezervátumba, magával hozva két kölcsönkért állatot. Az újszülötteket a felszerelésedben találod.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Még %count% órád van a bocsok cseréjére.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Kölyök orangutánok a készletedben]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Tedd át az orangutánkölyköket a leltárba.]]></item>
+    </category>
+  </category>
+</language>

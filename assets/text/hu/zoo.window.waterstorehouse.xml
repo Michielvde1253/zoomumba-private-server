@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.waterstorehouse">
+    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Víztorony]]></item>
+    <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Raktárépület]]></item>
+    <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Az állatoknak sok vízre van szükségük. Fejleszd a víztornyodat szintről szintre, és gondoskodj róla, hogy mindenkinek legyen elég vized, ahogy az állatkert növekszik.]]></item>
+    <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Az állataidnak sok élelemre van szükségük. Bővítsd a raktárat szintenként, és gondoskodj róla, hogy mindenkinek legyen elég élelmed, ahogy az állatkert növekszik.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Bravó! A raktárat a maximum szintre bővítetted.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[Bravó! A víztornyot a maximumig emelted.]]></item>
+    <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Aktuální stupeň rozšíření: %have% / %max%]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.water"><![CDATA[A víztorony jelenlegi kapacitása]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.store"><![CDATA[A tároló jelenlegi kapacitása]]></item>
+    <item name="zoo.window.waterstorehouse.buy.titel"><![CDATA[Kibontás]]></item>
+    <item name="zoo.window.waterstorehouse.buy.text"><![CDATA[Szeretnéd bővíteni az állatkerted?]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgraderc"><![CDATA[Kibontás zoodollarsért]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Kibontás a zoogrosh számára]]></item>
+    <item name="zoo.window.waterstorehouse.buy.nextcap"><![CDATA[Új méret:]]></item>
+  </category>
+</language>

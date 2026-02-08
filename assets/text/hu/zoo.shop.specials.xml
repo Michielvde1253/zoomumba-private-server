@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[30%-os EP-növelő]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[A 30%-os boosterrel 1 órán át 30%-kal több BZ-t kapsz! Ha 2 ugyanolyan boostert vásárolsz, az idő meghosszabbodik. Tipp: Egy 30%-os és egy 100%-os BZ booster egyszerre érvényes, és 130%-kal több BZ-t adnak neked a teljes 1 órára.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[100%-os EP-növelő]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[A 100%-os BZ boosterrel 100%-kal több BZ-t kapsz az egész órára! Ha 2 ugyanolyan boostert vásárolsz, az idő meghosszabbodik. Tipp: egy 100%-os BZ booster és egy 30%-os BZ booster egyszerre érvényes, így 130%-kal több BZ-t kapsz az egész órára!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30%-os mancserősítő]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[A 30%-os Mancs Boosterrel 30%-kal több Mancsot kapsz az egész órára! Ha 2 ugyanolyan boostert vásárolsz, az idő meghosszabbodik. Tipp: egy 30%-os és egy 100%-os Mancs Booster egyszerre érvényes, így 130%-kal több Mancsot kapsz az egész órára!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100%-os mancserősítő]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[A 100%-os Mancs Boosterrel 100%-kal több Mancsot kapsz az egész órára! Ha 2 ugyanolyan boostert vásárolsz, az idő meghosszabbodik. Tipp: egy 100%-os és egy 30%-os Mancs Booster egyszerre érvényes, így 130%-kal több Mancsot kapsz az egész órára!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Társasjáték-erősítő]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[A társasjáték-boosterrel kétszer annyi gyűjthető tárgyat kapsz, amelyek 1 órán keresztül előbukkannak a bekerített terekből! Ha meg szeretnéd hosszabbítani ezt az időt, vásárolj több boostert.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[30%-os zoocoin-növelő]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[Egy 30%-os boosterrel 1 órán át 30% extra zoogrost kapsz a boltjaidból! Ha 2 ugyanolyan boostert vásárolsz, az idő meghosszabbodik. Tipp: Egy 30%-os és egy 100%-os zoogros booster egyszerre érvényes, és 130% extra zoogrost adnak neked a teljes 1 órára.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[100%-os zoocoin booster]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[100%-os boosterrel 1 órán át 100% extra zoogrost kapsz a boltjaidból! Ha 2 ugyanolyan boostert vásárolsz, az idő meghosszabbodik. Tipp: Egy 100%-os és egy 30%-os zoogros booster egyszerre érvényes, és 130% extra zoogrost adnak neked a teljes 1 órára.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Tenyésztőállomás-erősítő]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Ritka hibridek egyszerűen! A Tenyészállomás Booster biztosítja, hogy a fiókáid 24 órán belül legalább egy szinttel magasabb szintet érjenek el, mint valamelyik szülőjük legalacsonyabb szintje. De légy óvatos: A Booster csak akkor működik, ha a fiókát a Tenyészállomásról veszed át.]]></item>
+    </category>
+  </category>
+</language>

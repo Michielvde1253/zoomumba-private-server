@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Arakankara ara]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[Ezek a vidám papagájok nagyon beszédesek! Mindig párban vagy csoportban tartsd őket. A látogatók imádják ezeket az okos fickókat élénk színű tollaikkal!]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[Rózsaszín flamingó]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[Ezek a gyönyörű rózsaszín állatok vonzzák a látogatók figyelmét. Fő táplálékuk a plankton, de a friss halat is szívesen fogyasztják. Igazi csemege az édesszájú madaraknak!]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[Hegyi zebra]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[Csíkok, csíkok, csíkok mindenhol! Elképesztő! Egy zebrákkal teli világban ez jó álcázás, de a világnak ezen a részén a zebrák elég komikusan néznek ki. A zebráknak minden állatkertben a helyük, szóval ne tévesszen meg ez!]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Orrszarvú]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[Ezek a nagy vastagbőrűek magányos ragadozók. Nem csoda, hogy ilyen szarvakat viselnek! Erős megjelenésük ellenére ritkán keverednek harcokba. A legjobb azonban, ha csak egy hímet és egy nőstényt tartunk együtt.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[Kétéltű víziló]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[Szárazföldön nehézkes kolosszusoknak tűnnek, de a látszat csal. Vigyázz, ne haragudj rájuk, mert ha egyszer elkezdenek futni, nem tanácsos az útjukba állni. Szerencsére nyugodt állatok, ha tiszteletben tartják a magánéletüket.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Márványos zsiráf]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[Mindig magasan a felhőkben! A zsiráfok egészen a fák tetejéig érik el a legédesebb gyümölcsöket. Nem csoda hát, hogy a fákat jól legelik. Hosszú nyakukkal nagyon magasra nyúlnak, és a fiatal zöld leveleket szeretik a legjobban megenni!]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[Sarkvidéki rénszarvas]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[A rénszarvasok messzi északon élnek csordákban. Még a zord sarkvidéki körülmények között is találnak a rettenthetetlen rénszarvasok túlélésre alkalmas helyet.]]></item>
+    </category>
+  </category>
+</language>

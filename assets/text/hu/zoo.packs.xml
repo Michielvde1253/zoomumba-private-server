@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA["Jó kezdet" szuperélelmiszer csomag]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Ez a csomag 40 egység Superfood-ot és 5 Paws-ot tartalmaz. Ez 40-szeresére növeli az etetési intenzitást, és láthatóvá teszi a fejlődést a terráriumok szépítésében!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA["Mester" szuperélelmiszer csomag]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Ez a csomag 125 egység Superfood-ot és 20 Paws-t tartalmaz. Ez 125-szörös BZ-t biztosít, és segít szépíteni a kifutóidat!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA["Szakértői" szuperélelmiszer csomag]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Ez a csomag 350 egység szuperélelmiszert és 30 mancsot tartalmaz, de emellett 5 ajándékot is találsz 5 barátod számára, mindegyikben 5 egység szuperélelmiszerrel. Tehát ők is profitálhatnak ebből a csomagból!]]></item>
+    </category>
+  </category>
+</language>

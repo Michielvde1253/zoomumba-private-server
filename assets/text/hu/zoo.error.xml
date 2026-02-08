@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.error">
+    <category name="zoo.error.user">
+      <item name="zoo.error.user.unknown"><![CDATA[Ez a játékos nem létezik.]]></item>
+      <item name="zoo.error.user.notEnoughCr"><![CDATA[Nincs elég zoodolárod ehhez.]]></item>
+      <item name="zoo.error.user.notEnoughCv"><![CDATA[Nincs elég zoogrod ehhez.]]></item>
+      <item name="zoo.error.user.notRequiredLevel"><![CDATA[Nem érted el a szükséges szintet.]]></item>
+    </category>
+    <category name="zoo.error.login">
+      <item name="zoo.error.login.head"><![CDATA[Bejelentkezési hiba]]></item>
+      <item name="zoo.error.login.text"><![CDATA[Hiba történt a bejelentkezés során. Kérjük, ellenőrizze adatait, és próbálja újra.]]></item>
+      <item name="zoo.error.login.blocked"><![CDATA[Egy adminisztrátor letiltott.]]></item>
+      <item name="zoo.error.login.100.title"><![CDATA[Hiba]]></item>
+      <item name="zoo.error.login.100.info"><![CDATA[Már felhasználtad a bónuszkódot ezen a fiókon, nem lehet újra felhasználni.]]></item>
+    </category>
+    <category name="zoo.error.conf">
+      <item name="zoo.error.conf.unknownObj"><![CDATA[Ismeretlen tárgy]]></item>
+      <item name="zoo.error.conf.notBuyable"><![CDATA[A termék jelenleg nem vásárolható meg]]></item>
+      <item name="zoo.error.conf.notEvent"><![CDATA[A tétel jelenleg nem alkalmazható]]></item>
+    </category>
+    <category name="zoo.error.badData">
+      <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Sajnáljuk!]]></item>
+      <item name="zoo.error.badData.dailyQuests.text"><![CDATA[Ó! Hiba történt. A problémát jelentettük a csapatnak!]]></item>
+    </category>
+    <category name="zoo.error.field">
+      <item name="zoo.error.field.unknownObj"><![CDATA[Az objektum nem érhető el a játékban.]]></item>
+      <item name="zoo.error.field.blocked"><![CDATA[A mező foglalt]]></item>
+      <item name="zoo.error.field.breedFailed"><![CDATA[A tenyésztés kudarcot vallott. Sajnos az állataid nem hoztak létre utódokat.]]></item>
+      <item name="zoo.error.field.wrongSpecies"><![CDATA[Alkalmatlan állat erre a kifutóra.]]></item>
+      <item name="zoo.error.field.maxChildReached"><![CDATA[Elérted a kölykök maximális számát.]]></item>
+      <item name="zoo.error.field.maleAdultNeeded"><![CDATA[Ehhez egy férfi kell.]]></item>
+      <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[Ehhez egy nő kell.]]></item>
+      <item name="zoo.error.field.maxAdultReached"><![CDATA[Elérted a felnőttek maximális számát.]]></item>
+      <item name="zoo.error.field.buildingNotFinished"><![CDATA[Ez az épület még építés alatt áll.]]></item>
+    </category>
+    <category name="zoo.error.db">
+      <item name="zoo.error.db.failUpdate"><![CDATA[Az adatbank frissítése sikertelen.]]></item>
+    </category>
+    <category name="zoo.error.invite">
+      <item name="zoo.error.invite.requesterror"><![CDATA[Hiba történt.]]></item>
+      <item name="zoo.error.invite.recruitexists"><![CDATA[Már meghívtad ezt a felhasználót.]]></item>
+      <item name="zoo.error.invite.global"><![CDATA[Elérted a meghívók maximális számát. Kérjük, várj 24 órát, mielőtt újabb meghívót küldhetsz (minden játékra vonatkozóan).]]></item>
+      <item name="zoo.error.invite.instance"><![CDATA[Elérted a meghívók maximális számát. Kérjük, várj 24 órát, mielőtt újabb meghívót küldhetsz (minden játékra vonatkozóan).]]></item>
+      <item name="zoo.error.invite.error"><![CDATA[Hiba történt... kérjük, próbálja meg később.]]></item>
+    </category>
+  </category>
+</language>

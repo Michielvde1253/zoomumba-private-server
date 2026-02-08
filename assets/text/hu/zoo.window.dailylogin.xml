@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.dailylogin">
+    <item name="zoo.window.dailylogin.title"><![CDATA[Napi bejelentkezési bónusz]]></item>
+    <item name="zoo.window.dailylogin.info"><![CDATA[Jelentkezz be naponta - megéri! Nyerj nagyszerű nyereményeket minden nap!]]></item>
+    <item name="zoo.window.dailylogin.reward"><![CDATA[Napi jutalmad:]]></item>
+    <item name="zoo.window.dailylogin.day"><![CDATA[Nap: %nap%]]></item>
+    <item name="zoo.window.dailylogin.eventshop"><![CDATA[Különleges ajánlat]]></item>
+  </category>
+</language>

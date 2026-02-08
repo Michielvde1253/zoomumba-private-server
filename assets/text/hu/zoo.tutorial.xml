@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.tutorial">
+    <category name="zoo.tutorial.tour">
+      <item name="zoo.tutorial.tour.1"><![CDATA[Üdvözlünk a ZooMumba-ban, a bolondos állatkertedben! Sonja vagyok, és lépésről lépésre elmagyarázom, hogyan működik a játék.<br><br>A boltban különféle állatbejárókat vásárolhatsz, amelyeket aztán elhelyezhetsz a játéktéren.]]></item>
+      <item name="zoo.tutorial.tour.2"><![CDATA[Kattints a kifutóra és vegyél egy állatot. Figyelj oda, hogy hímet vagy nőstényt vásárolsz.<br><br>Ha mindkettő a kifutóban van, hamarosan utódokra számíthatsz!]]></item>
+      <item name="zoo.tutorial.tour.3"><![CDATA[Rendszeresen gondoskodj az állataidról, öleld meg őket, és játssz velük. Így boldogok és elégedettek lesznek. Próbáld ki!]]></item>
+      <item name="zoo.tutorial.tour.4"><![CDATA[A bejárathoz vezető ösvényekkel kell összekötnöd a kifutott területeket, épületeket és látnivalókat, hogy a látogatók mindent megcsodálhassanak.]]></item>
+      <item name="zoo.tutorial.tour.5"><![CDATA[Szerezz be takarmányt és mindent, amire állataid vágynak a boltban: húst, gyümölcsöt, füvet - csak nézz körül!]]></item>
+      <item name="zoo.tutorial.tour.6"><![CDATA[2. szinttől épületeket és standokat is vásárolhatsz a boltban, hogy még vonzóbbá tedd az állatkerted a látogatók számára. <br><br>A belépődíjakat rendszeresen beszedheted a főépületből.]]></item>
+      <item name="zoo.tutorial.tour.7"><![CDATA[Minél több látogatót fogadsz az állatkertedbe, annál több szemetet kell majd eltakarítanod. <br><br>Tartsd tisztán az állatkerted, és gyűjtsd össze a szemetet, hogy a látogatóid boldogok legyenek!]]></item>
+      <item name="zoo.tutorial.tour.8"><![CDATA[Minél több elégedett látogatója van az állatkertednek, annál magasabbra emelkedik a Zoometered.<br><br>Hajrá, és építsd meg a világ legcsodálatosabb állatkertjét – a ZooMumba-ban! Jó szórakozást!]]></item>
+    </category>
+    <category name="zoo.tutorial.general">
+      <item name="zoo.tutorial.general.forgive.title"><![CDATA[Kihagyás]]></item>
+      <item name="zoo.tutorial.general.forgive.text"><![CDATA[Biztosan kihagyod ezt a lépést?]]></item>
+      <item name="zoo.tutorial.general.award"><![CDATA[A(z) %currentTask% feladat sikeresen befejeződött. Összes feladat: %totalTasks%]]></item>
+    </category>
+    <category name="zoo.tutorial.title">
+      <item name="zoo.tutorial.title.0"><![CDATA[Üdvözlünk a ZooMumba játékban!]]></item>
+      <item name="zoo.tutorial.title.1"><![CDATA[Kapd el a pingvineket!]]></item>
+      <item name="zoo.tutorial.title.2"><![CDATA[Etesd meg a pingvineket!]]></item>
+      <item name="zoo.tutorial.title.3"><![CDATA[Gondoskodás és ölelés]]></item>
+      <item name="zoo.tutorial.title.4"><![CDATA[Építs bekerített területeket]]></item>
+      <item name="zoo.tutorial.title.5"><![CDATA[Hurrá, tereljük be az állatokat a kifutóikba!]]></item>
+      <item name="zoo.tutorial.title.6"><![CDATA[Új útvonal létrehozása]]></item>
+      <item name="zoo.tutorial.title.7"><![CDATA[Szabadulj meg a szeméttől!]]></item>
+      <item name="zoo.tutorial.title.8"><![CDATA[Extra etetés]]></item>
+      <item name="zoo.tutorial.title.9"><![CDATA[Tenyéssze az utódokat]]></item>
+      <item name="zoo.tutorial.title.10"><![CDATA[Kereseti lehetőség]]></item>
+      <item name="zoo.tutorial.title.11"><![CDATA[Majdnem eltaláltad!]]></item>
+      <item name="zoo.tutorial.title.12"><![CDATA[Jaj, megcsináltad!]]></item>
+      <item name="zoo.tutorial.title.13"><![CDATA[Jaj! Most hívd meg a barátaidat!]]></item>
+      <item name="zoo.tutorial.title.14"><![CDATA[Safari indul!]]></item>
+    </category>
+    <category name="zoo.tutorial.main">
+      <item name="zoo.tutorial.main.0"><![CDATA[Bemutatkozhatom? Sonja vagyok, és elmagyarázom, hogyan működik ez az őrült állatkerti játék. Készen állsz? Rajta, állatkert-igazgató!]]></item>
+      <item name="zoo.tutorial.main.1"><![CDATA[Történt egy kis baleset! A pingvinek megszöktek a kifutójukból! Segítsetek gyorsan elkapni és visszavinni őket a kifutójukba.]]></item>
+      <item name="zoo.tutorial.main.2"><![CDATA[Remek! A sok rohangálás után éhesek és szomjasak. Adj nekik sok vizet és halat. Kattints a kifutóra, majd a halra és a vödörre.]]></item>
+      <item name="zoo.tutorial.main.3"><![CDATA[Kattints a kefére és tisztítsd meg a házat. Látod? Most már csillogóan tiszta! És még egy kis ölelkezés ezeknek az őrült úszólábúaknak - kattints a plüssmackóra.]]></item>
+      <item name="zoo.tutorial.main.4"><![CDATA[Ez nagyszerű! Tényleg tudod, hogyan kell gondoskodni az állatokról! Most már építhetsz kifutókat. Menj a boltba, kattints a kifutóra, és helyezd el az állatkertedben.]]></item>
+      <item name="zoo.tutorial.main.5"><![CDATA[Tegyél néhány csevegős papagájt a madárházba. Kattints a madárházra, válassz ki egy nőstényt és egy hímet a boltból, és helyezd el őket.]]></item>
+      <item name="zoo.tutorial.main.6"><![CDATA[Kösd össze a kifutókat ösvényekkel. Minél jobbak a kapcsolatok, annál vonzóbb lesz az állatkerted. Készíts egy ösvényt a papagáj madárházához.]]></item>
+      <item name="zoo.tutorial.main.7"><![CDATA[A turisták beáramlásával rengeteg szemét is lesz. Ezt a lapáttal lehet elintézni.]]></item>
+      <item name="zoo.tutorial.main.8"><![CDATA[Vegyél eledelt az összes állatodnak a boltban. Ma gyümölcsre lesz szükséged, hogy megetesd a papagájokat.]]></item>
+      <item name="zoo.tutorial.main.9"><![CDATA[Ha van egy hím és egy nőstény egyeded együtt, kattints a „Tenyésztés” gombra, majd a „Vásárlás most” gombra.]]></item>
+      <item name="zoo.tutorial.main.10"><![CDATA[Az állatkertedben lévő épületek zoogrokat generálnak, ezért ügyelj arra, hogy rendszeresen begyűjtsd a bevételedet. Egyszerűen kattints az épület feletti zoogrokra.]]></item>
+      <item name="zoo.tutorial.main.11"><![CDATA[Kész is. Van valami kérdésed? Szánj rá időt, hogy elolvasd a tippeket. Egyszerűen mozgasd az egeret: még okosabb leszel!]]></item>
+      <item name="zoo.tutorial.main.12"><![CDATA[Kezet rázhatunk, kolléga. Ön elismert állatkerti igazgató lett. Az összegyűjtött tudása valóban híressé tette az állatkertjét. És ez ünneplésre méltó!]]></item>
+      <item name="zoo.tutorial.main.13"><![CDATA[Pszt... Tudtad? Most már meghívhatod a barátaidat a játékba. Csak küldj egy e-mailt, és máris elkezdhettek együtt játszani!]]></item>
+      <item name="zoo.tutorial.main.14"><![CDATA[Hurrá! Elérted a 7. szintet: A szafari világa a lábad előtt hever. Lépj a gázra és kattints a dzsipre a vezérlőközpontban, vagy nézd meg a menüt a főépületben. Hajrá!]]></item>
+    </category>
+    <category name="zoo.tutorial.hint">
+      <item name="zoo.tutorial.hint.0"><![CDATA[EGYIK SEM]]></item>
+      <item name="zoo.tutorial.hint.1"><![CDATA[EGYIK SEM]]></item>
+      <item name="zoo.tutorial.hint.2"><![CDATA[Etesd meg állataidat szupertáppal, és szerezz extra tapasztalati pontokat!]]></item>
+      <item name="zoo.tutorial.hint.3"><![CDATA[A szeszélyes macskáról láthatod, mennyire boldogok az állatok. Minél többet gondoskodsz róluk, annál boldogabbak lesznek.]]></item>
+      <item name="zoo.tutorial.hint.4"><![CDATA[Kattints az épületre az építési idő lerövidítéséhez.]]></item>
+      <item name="zoo.tutorial.hint.5"><![CDATA[Ha kölyköket szeretnél tenyészteni, mindenképpen helyezz el egy hímet és egy nőstényt a kifutóban.]]></item>
+      <item name="zoo.tutorial.hint.6"><![CDATA[Győződj meg róla, hogy a kifutók ösvényekkel vannak összekötve. Különben az állatkert elveszíti vonzerejét.]]></item>
+      <item name="zoo.tutorial.hint.7"><![CDATA[Gondoskodj a szemeteskukákról, hogy az állatkert tiszta maradjon.]]></item>
+      <item name="zoo.tutorial.hint.8"><![CDATA[Etesd az állataidat gyakrabban a legjobb takarmánnyal. Rengeteg tapasztalati pontot szerezhetsz érte!]]></item>
+      <item name="zoo.tutorial.hint.9"><![CDATA[A cumi megmutatja, mikor fejeződött be a szaporítás.]]></item>
+      <item name="zoo.tutorial.hint.10"><![CDATA[Kevés a játékbeli fizetőeszközöd? Szerezz még! Kattints az aranyzsákra.]]></item>
+      <item name="zoo.tutorial.hint.13"><![CDATA[Add meg annak a barátodnak az e-mail címét, akit meg szeretnél hívni a játékba.]]></item>
+      <item name="zoo.tutorial.hint.14"><![CDATA[A különböző szafari régiókba való belépéshez eltérő mennyiségű üzemanyagra van szükséged. Zárt régiókba azonban nem léphetsz be.]]></item>
+    </category>
+    <category name="zoo.tutorial.success">
+      <item name="zoo.tutorial.success.title"><![CDATA[Rendben!]]></item>
+      <item name="zoo.tutorial.success.step.1"><![CDATA[Remek! A pingvinek visszakerültek a kifutójukba. Kattints a nyílra a következő lépéshez.]]></item>
+      <item name="zoo.tutorial.success.step.2"><![CDATA[Nyami! A pingvinjeid megteltek. Kattints a nyílra a folytatáshoz!]]></item>
+      <item name="zoo.tutorial.success.step.3"><![CDATA[Remek munka! A vidám úszólábúak most már tiszták és boldogok. Kattints a nyílra a folytatáshoz!]]></item>
+      <item name="zoo.tutorial.success.step.4"><![CDATA[Kiváló munka! A doboz elkészült. Kattintson a nyílra a következő lépéshez.]]></item>
+      <item name="zoo.tutorial.success.step.5"><![CDATA[Hurrá! Most már vannak papagájok az állatkertedben! Kattints a nyílra a folytatáshoz!]]></item>
+      <item name="zoo.tutorial.success.step.6"><![CDATA[Csak így tovább! A látogatók csodálják az új kifutókat. Kattintson a nyílra a folytatáshoz!]]></item>
+      <item name="zoo.tutorial.success.step.7"><![CDATA[Tökéletes! Mostantól csillogóan tiszták az ösvények. Kattints a nyílra a folytatáshoz!]]></item>
+      <item name="zoo.tutorial.success.step.8"><![CDATA[Milyen csodálatos! A papagájok most már tele vannak. Kattints a nyílra a folytatáshoz!]]></item>
+      <item name="zoo.tutorial.success.step.9"><![CDATA[Milyen imádnivaló! Sikeresen örökbe fogadtál egy papagáj utódot. Kattints a nyílra a folytatáshoz!]]></item>
+      <item name="zoo.tutorial.success.step.10"><![CDATA[Remek! Özönlik a pénz! Már majdnem kész vagy! Gyorsan kattints még egyszer a nyílra.]]></item>
+      <item name="zoo.tutorial.success.step.11"><![CDATA[Milyen egyszerű! Már majdnem profi vagy a menüben a pontok gyűjtésében. Még egy kattintás, és a kis utazásunk végére érsz.]]></item>
+    </category>
+  </category>
+</language>

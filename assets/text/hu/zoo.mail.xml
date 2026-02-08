@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.mail">
+    <category name="zoo.mail.tabs">
+      <item name="zoo.mail.tabs.inbox"><![CDATA[Beérkezett üzenetek]]></item>
+      <item name="zoo.mail.tabs.outbox"><![CDATA[Kimenő üzenetek]]></item>
+      <item name="zoo.mail.tabs.newMail"><![CDATA[Új üzenet]]></item>
+      <item name="zoo.mail.tabs.contactList"><![CDATA[Címjegyzék]]></item>
+    </category>
+    <category name="zoo.mail.general">
+      <item name="zoo.mail.general.pagination"><![CDATA[%y% oldal %x%-a]]></item>
+      <item name="zoo.mail.general.message"><![CDATA[Üzenet]]></item>
+      <item name="zoo.mail.general.send"><![CDATA[Elküld]]></item>
+      <item name="zoo.mail.general.close"><![CDATA[Közeli]]></item>
+      <item name="zoo.mail.general.userWrote"><![CDATA[%user% írta:]]></item>
+      <item name="zoo.mail.general.userSent"><![CDATA[Ezt írtad %user% játékosnak:]]></item>
+    </category>
+    <category name="zoo.mail.column">
+      <item name="zoo.mail.column.action"><![CDATA[Akció]]></item>
+      <item name="zoo.mail.column.messageSender"><![CDATA[Feladó]]></item>
+      <item name="zoo.mail.column.messageReceiver"><![CDATA[Befogadó]]></item>
+      <item name="zoo.mail.column.messageTitle"><![CDATA[Téma]]></item>
+      <item name="zoo.mail.column.messageDate"><![CDATA[Dátum]]></item>
+      <item name="zoo.mail.column.playerName"><![CDATA[Játékos neve]]></item>
+      <item name="zoo.mail.column.level"><![CDATA[Szint]]></item>
+    </category>
+    <category name="zoo.mail.info">
+      <item name="zoo.mail.info.addUserTitle"><![CDATA[Hozzáadás]]></item>
+      <item name="zoo.mail.info.addUserQuestion"><![CDATA[Biztosan hozzá szeretnéd adni a(z) %user% játékost a címjegyzékedhez?]]></item>
+      <item name="zoo.mail.info.deleteMessageTitle"><![CDATA[Töröl]]></item>
+      <item name="zoo.mail.info.deleteMessageQuestion"><![CDATA[Biztosan törölni szeretné ezt az üzenetet?]]></item>
+      <item name="zoo.mail.info.deleteContactTitle"><![CDATA[Töröl]]></item>
+      <item name="zoo.mail.info.deleteContactQuestion"><![CDATA[Biztosan el szeretnéd távolítani a(z) %user% játékost a címjegyzékedből?]]></item>
+      <item name="zoo.mail.info.noRecipientTitle"><![CDATA[Hiba]]></item>
+      <item name="zoo.mail.info.noRecipientMessage"><![CDATA[Ez a játékos nem létezik.]]></item>
+      <item name="zoo.mail.info.sentOkTitle"><![CDATA[Küldött]]></item>
+      <item name="zoo.mail.info.noAddSelf"><![CDATA[Nem adhatod hozzá magad a címjegyzékedhez.]]></item>
+      <item name="zoo.mail.info.sentOkMessage"><![CDATA[Az üzeneted sikeresen elküldve.]]></item>
+      <item name="zoo.mail.info.addUserMessage"><![CDATA[Kérjük, add meg a játékos nevét vagy azonosítóját, ha hozzá szeretnéd adni a címjegyzékedhez.]]></item>
+      <item name="zoo.mail.info.multipleUserFound"><![CDATA[Ez a név gyakran előfordul. Kérjük, add meg a játékos azonosítóját, amely egyedi és megkülönböztető.]]></item>
+      <item name="zoo.mail.info.writeMailError.noUserName"><![CDATA[Kérjük, adjon meg egy címzettet, hogy az üzenetet elküldhessük.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSubject"><![CDATA[Kérjük, adjon meg egy tárgyat, hogy az üzenetet elküldhessük.]]></item>
+      <item name="zoo.mail.info.writeMailError.noMessage"><![CDATA[Kérjük, adja meg az üzenet szövegét, hogy elküldhessük az üzenetet.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSelfSend"><![CDATA[Nem küldhetsz üzenetet magadnak.]]></item>
+      <item name="zoo.mail.info.writeMailError.notFriend"><![CDATA[Sajnos csak azoknak a játékosoknak küldhetsz üzenetet, akik szerepelnek a barátlistádon.]]></item>
+      <item name="zoo.mail.info.writeMailError.userAlreadyExists"><![CDATA[Ez a lejátszó már hozzáadva van a címjegyzékedhez.]]></item>
+    </category>
+  </category>
+</language>

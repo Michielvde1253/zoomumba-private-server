@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.crafting">
+    <item name="zoo.window.crafting.intro.blueprintRewards"><![CDATA[Összegyűjtöttél %mycards% építési tervet az %allcards% tervből!]]></item>
+    <item name="zoo.window.crafting.intro.title"><![CDATA[Műhely]]></item>
+    <item name="zoo.window.crafting.intro.text"><![CDATA[Kézművesek és hobbibolya rajongók, vigyázat! Használjátok az anyagaitokat új terek, épületek, dekorációk vagy ösvények építésére. Egyszerűen válasszatok ki egy kategóriát az alábbiak közül, és folytassátok a gyártás következő szakaszával.]]></item>
+    <item name="zoo.window.crafting.intro.chooseCategorie"><![CDATA[Válasszon egy kategóriát:]]></item>
+    <item name="zoo.window.crafting.produce.text"><![CDATA[Nagyon egyszerű: A bal alsó sarokban láthatod, hogy mit gyártanak jelenleg. A kiviteli terv megmutatja, milyen anyagokra van szükséged. Felettük láthatod a gyártási időt és a fizetendő mancsok számát. Érted? Rendben, majd kattints a "Start" gombra.]]></item>
+    <item name="zoo.window.crafting.produce.button"><![CDATA[Indul]]></item>
+    <item name="zoo.window.crafting.progress.title"><![CDATA[Műhely]]></item>
+    <item name="zoo.window.crafting.progress.text"><![CDATA[Gyártás folyamatban!]]></item>
+    <item name="zoo.window.crafting.progress.time"><![CDATA[Időtartam:]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.title"><![CDATA[Azonnali gyártás]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.text"><![CDATA[Takarítson meg időt, és fejezze be a gyártást azonnal!]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.button"><![CDATA[Teljes]]></item>
+    <item name="zoo.window.crafting.progress.layer.elixir.text"><![CDATA[Gyorsítsa fel és fejezze be a termelést a felére csökkentett idő alatt.]]></item>
+    <item name="zoo.window.crafting.progress.button.elixir"><![CDATA[Gyorsítsd fel]]></item>
+    <item name="zoo.window.crafting.success.text"><![CDATA[Hurrá! Kész is: a most elkészített tárgy megtalálható a leltárodban!]]></item>
+    <item name="zoo.window.crafting.blueprint.text"><![CDATA[Hurrá! Kaptál egy építési tervet! Irány a műhely, és építs egy új elemet az állatkertedbe!]]></item>
+  </category>
+</language>

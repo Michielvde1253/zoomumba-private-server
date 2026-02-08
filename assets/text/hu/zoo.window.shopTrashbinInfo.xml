@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Szemetes]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Az emberek szemetet hagynak maguk után! Minél több szemetes van az állatkertben, annál kevesebbet kell takarítanod a látogatók után.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Múmia szemetes]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Fúj... Szemetet akarok!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Szemetes szellem]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuhhuuuuu... Szemét]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Szemetes vámpír]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Szükségem van valamire, amibe haraphatok. Add ide a szemeted!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Szemetes szörnyeteg]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmmm ... Szemét jó!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Születésnapi szemetes]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmm, csomagolópapír!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Bálna szemetes]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA["Lenyelem az összes szemeted!"]]></item>
+  </category>
+</language>

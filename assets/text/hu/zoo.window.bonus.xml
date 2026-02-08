@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bonus">
+    <item name="zoo.window.bonus.main.title"><![CDATA[Bónuszkód]]></item>
+    <item name="zoo.window.bonus.main.info"><![CDATA[Van ZooMumba bónuszkódod? Egyszerűen add meg itt, és azonnal megkapod a bónuszodat!]]></item>
+    <item name="zoo.window.bonus.success.title"><![CDATA[Gratulálok,]]></item>
+    <item name="zoo.window.bonus.success.info"><![CDATA[Remek, helyesen adtad meg a bónuszkódot és megkaptad a jutalmadat. Sok szórakozást kívánunk!]]></item>
+    <category name="zoo.window.bonus.error">
+      <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Hiba]]></item>
+      <item name="zoo.window.bonus.error.invalid.info"><![CDATA[Sajnos a bónuszkód helytelen. Kérjük, ellenőrizze a kódot, és próbálja újra.]]></item>
+      <item name="zoo.window.bonus.error.participated.title"><![CDATA[Hiba]]></item>
+      <item name="zoo.window.bonus.error.participated.info"><![CDATA[Már igényelted ezt a bónuszkódot.]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Hiba]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[Túl sokszor adtad meg helytelenül a bónuszkódot. Kérjük, várj néhány percet, mielőtt újra próbálkozol.]]></item>
+    </category>
+  </category>
+</language>

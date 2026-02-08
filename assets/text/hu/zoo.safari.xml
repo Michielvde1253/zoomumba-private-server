@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.safari">
+    <item name="zoo.safari.title"><![CDATA[Szafari]]></item>
+    <item name="zoo.safari.fuel_singular"><![CDATA[Benzintartály]]></item>
+    <category name="zoo.safari.errors">
+      <item name="zoo.safari.errors.notAvailable"><![CDATA[Kár! Sajnos túl alacsony a szinted! A 7. szinttől elkezdheted a szafari túrát!]]></item>
+    </category>
+    <category name="zoo.safari.welcomeWindow">
+      <item name="zoo.safari.welcomeWindow.infoText"><![CDATA[Üdvözlünk egy kalandokkal teli szafarin: Nyerj nagyszerű jutalmakat és akár új állatokat is! <br /><br />A következő lépésben csak válaszd ki azt a területet, ahol elkezdeni szeretnéd a szafaridat. <br /><br />Hurrá, irány a vadon!]]></item>
+    </category>
+    <category name="zoo.safari.regionWindow">
+      <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Válasszon egy régiót]]></item>
+      <item name="zoo.safari.startWindow.infoText"><![CDATA[Melyik régióban szeretnéd kezdeni a szafaridat? Válaszd ki itt: Minden régióban 3 területet aktiválhatsz a szintedtől függően.]]></item>
+    </category>
+    <category name="zoo.safari.shopWindow">
+      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Hé, kalandor! Menj egy igazi szafarira! Használd a jokereket, hogy könnyebben bejuss a vadonba.<br><br>Fontos: Minden jokertípusból csak egyet válassz az utadhoz!]]></item>
+      <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[Szeretnél %skipTimerCost% zoodollars értékű pénzt befektetni, és azonnal elkezdeni a szafaridat?]]></item>
+      <item name="zoo.safari.shopWindow.infoText"><![CDATA[Készen állsz egy szafarira? Így működik: A következő lépésben egy játékot fogsz látni: 9-25 lefelé fordított kártyából áll. A kártyák jutalmat vagy állatnyomokat rejtenek, amelyeket követve meg kell szerezned a fődíjat. De légy óvatos: minden kártya csapdát is rejthet!<br /><br />Látod azt a benzinkannát jobbra lent? Megmutatja, mennyi benzin van még a dzsiped tankjában. Amint felfedsz egy kártyát, elhasználsz egy kis benzint.<br /><br />És most a játék szabályai: Az elején csak az alsó sorból választhatsz kártyákat. Kattints egy kártyára, és az megfordul. Így láthatod, hogy találtál-e valamit, és ha igen, mit. Ezután választhatsz olyan kártyákat, amelyek az utolsó kártya felett vagy alatt vannak, valamint attól jobbra vagy balra. A játék véget ér, ha állatot találsz, de akkor is véget ér, ha kifogysz az üzemanyagodból.<br /> <br />Növeld az esélyeidet egy nagyszerű leletre a boltból származó jokerrel(?). Kétféle joker létezik: Kártya és Navigáció. Hagyd, hogy a Kártya Joker segítsen feltárni a kártyáidat - extra kártyákat fog felfedni számodra. A Navigáció Joker iránytűjének köszönhetően a helyes irányba fog vezetni.<br /><br />Mindegyik típusból egy jokert magaddal vihetsz a szafarira. Akár használtad a jokert, akár nem, a szafari végén elveszíted.]]></item>
+    </category>
+    <category name="zoo.safari.miniGame">
+      <item name="zoo.safari.miniGame.tileInfo.trap"><![CDATA[Hoppá, akadályba ütköztél. Ez bosszantó, elfogyott 1 kanna benzin.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.treasure"><![CDATA[Remek! Megtaláltad a(z) %treasureCount% %treasureName%. Siess, keress tovább, még sok kincset találhatsz.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.animal"><![CDATA[Gratulálok, nézd mit találtál! Ez %animal%! Siess az állatkertbe, vár rád a készletedben. Sikeresen teljesítetted a szafaridat.]]></item>
+      <item name="zoo.safari.miniGame.closeWarning"><![CDATA[Tényleg véget akarsz vetni a szafarinak? Ha igen, akkor ma nem kezdhetsz több szafarit, és elfogy a benzined és a készleted!]]></item>
+      <item name="zoo.safari.miniGame.noJoker"><![CDATA[Nincs joker]]></item>
+      <item name="zoo.safari.miniGame.buyGasThenEmpty"><![CDATA[Már majdnem megérkeztél az úti célodhoz! Sajnos üres a tankod. Tankolnál pár zoodollarért, és folytatnád a szafaridat? Válaszd ki, mennyi benzint szeretnél venni.]]></item>
+      <item name="zoo.safari.miniGame.buyMissingGas"><![CDATA[Az ehhez a terephez szükséges benzinkannák mennyisége %neededGas%. Azonban csak %missingGas%. van. Szeretnéd megvenni a szükséges benzint zoodollars-ból?]]></item>
+      <item name="zoo.safari.miniGame.buyGas"><![CDATA[Kérlek, válaszd ki, mennyi benzint szeretnél vásárolni. De légy óvatos: Ha nem használod el az összes benzinedet a szafarin, a maradék kárba vész.]]></item>
+    </category>
+    <category name="zoo.safari.minigameInfo">
+      <item name="zoo.safari.minigameInfo.title"><![CDATA[Utasítás]]></item>
+      <item name="zoo.safari.minigameInfo.1"><![CDATA[Üdv a szafarin!<br /> Fedezz fel szokatlan állatokat és hatalmas kincseket. De figyelj, merre vezetnek a lépteid. Csapdák leselkednek mindenhol. A terep típusától függően eltérő mennyiségű benzint fogsz használni.<br /><br />A szafari véget ér, amint kiürül a tankod, vagy ha állatot találsz.]]></item>
+      <item name="zoo.safari.minigameInfo.2"><![CDATA[A vadonba az alsó mezők egyikére kattintva léphetsz be.]]></item>
+      <item name="zoo.safari.minigameInfo.3"><![CDATA[Haladj egyenes vonalban északra, délre, nyugatra és keletre.]]></item>
+      <item name="zoo.safari.minigameInfo.4"><![CDATA[A jokereidet bármikor aktiválhatod. Értékes tippeket tartogatnak számodra, amelyek gyorsabban elvezetnek a célodhoz.]]></item>
+      <item name="zoo.safari.minigameInfo.terains"><![CDATA[A következő tereptípusok érhetők el:<br />]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.name"><![CDATA[Egyszerű terep]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.info"><![CDATA[1 egység benzint fogsz használni.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.name"><![CDATA[Nehezebb terep]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.info"><![CDATA[3 egység benzint fogsz használni.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.name"><![CDATA[Járhatatlan terep]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.info"><![CDATA[Belépés tilos]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.name"><![CDATA[Felfedezett terep]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.info"><![CDATA[1 egység benzint fogsz használni.]]></item>
+      <item name="zoo.safari.minigameInfo.events"><![CDATA[A következő tételeket találod: <br />]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.name"><![CDATA[ÁLLATNYOMOK]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.info"><![CDATA[Ezek jelzik az állat lehetséges helyét.]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.name"><![CDATA[KINCS]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.info"><![CDATA[Hurrá, egy kincs, nagy meglepetéssel!]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.name"><![CDATA[AKADÁLY]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.info"><![CDATA[1 benzinegységbe fog kerülni.]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.name"><![CDATA[TALÁLKOZÁS EGY ÁLLATTAL]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.info"><![CDATA[Ha egy állattal találkozol, az a tiéd, és a küldetésnek vége.]]></item>
+    </category>
+    <category name="zoo.safari.jokers">
+      <item name="zoo.safari.jokers.titel_1"><![CDATA[Majom, a tanácsadó]]></item>
+      <item name="zoo.safari.jokers.titel_2"><![CDATA[Sonya, a tanácsadó]]></item>
+      <item name="zoo.safari.jokers.titel_3"><![CDATA[Iránytű]]></item>
+      <item name="zoo.safari.jokers.titel_4"><![CDATA[Gyors utazás]]></item>
+      <item name="zoo.safari.jokers.text_1"><![CDATA[Mindenkinek szüksége van időnként egy kis segítségre. Ha hagyod, hogy a majom segítsen, felfedhetsz egy véletlenszerűen kiválasztott lapot.<br /><br />Kíváncsi vagy? Lássunk neki!]]></item>
+      <item name="zoo.safari.jokers.text_2"><![CDATA[Szeretnél felfedni egy bizonyos lapot, és előrelépni a szafarin?<br /><br /><br /> Használd Sonia tanácsadó segítségét. Az ő segítségével felfedheted a választott lapot. Ez segít gyorsabban elérni a célodat. Sok szerencsét!]]></item>
+      <item name="zoo.safari.jokers.text_3"><![CDATA[Segítségre van szükséged? Használd a körzőt jokerként, hogy megjelölj magadnak egy kártyát. Megtalálod rajta a keresett állatot vagy egy csapdát. Alig várod, hogy megtudd, mi van elrejtve rajta? Szóval siess, és derítsd ki!]]></item>
+      <item name="zoo.safari.jokers.text_4"><![CDATA[De most a lényegre térünk: Csak lépésről lépésre kúszol a célod felé? Nem vagy elég gyors?<br /><br />Akkor használd a dzsókert: Ő 3 kártyát jelöl ki neked, amelyek között lehet, hogy a keresett állat rejtőzik, de akár egy csapda is.<br /><br />Állat vagy csapda... Gyorsan, nézd!]]></item>
+    </category>
+    <category name="zoo.safari.tooltip">
+      <item name="zoo.safari.tooltip.cantStartSafari"><![CDATA[A szafarit a 7. szint elérése után kezdheted meg.]]></item>
+      <item name="zoo.safari.tooltip.startSafari"><![CDATA[Szállj be a dzsipbe: Kattints ide a szafari megkezdéséhez!]]></item>
+      <item name="zoo.safari.tooltip.backToZoo"><![CDATA[Vissza az állatkertbe]]></item>
+      <item name="zoo.safari.tooltip.regionSmall"><![CDATA[Kicsi]]></item>
+      <item name="zoo.safari.tooltip.regionMedium"><![CDATA[Közepes]]></item>
+      <item name="zoo.safari.tooltip.regionLarge"><![CDATA[Nagy]]></item>
+      <item name="zoo.safari.tooltip.skipTimerInShop"><![CDATA[Minden nap kapsz egy bizonyos mennyiségű benzineskannát.<br/> Többet szeretnél most? Akkor rövidítsd le a várakozási időt zoodollars-szal!]]></item>
+      <item name="zoo.safari.tooltip.buyGasInMinigame"><![CDATA[Kattintson ide, ha több benzint szeretne vásárolni.]]></item>
+      <item name="zoo.safari.tooltip.regeonLevelRequared"><![CDATA[Ez a régió a(z) %regionLevel%. szint elérése után válik elérhetővé.]]></item>
+    </category>
+    <category name="zoo.safari.button">
+      <item name="zoo.safari.button.startSafari"><![CDATA[Kezdje el a szafarit]]></item>
+      <item name="zoo.safari.button.endSafari"><![CDATA[Szafari befejezése]]></item>
+      <item name="zoo.safari.button.activate"><![CDATA[Aktiválás]]></item>
+      <item name="zoo.safari.button.use"><![CDATA[Telepítés]]></item>
+    </category>
+  </category>
+</language>

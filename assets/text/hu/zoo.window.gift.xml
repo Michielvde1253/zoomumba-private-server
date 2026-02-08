@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.gift">
+    <category name="zoo.window.gift.superFeedPack">
+      <item name="zoo.window.gift.superFeedPack.info"><![CDATA[Mai ajánlatunk - szuperélelmiszer csomagok! Válassz 3 lehetőség közül: "Jó kezdet", "Mester" és "Szakértő". Szakértőként további ajándékokat küldhetsz 5 barátodnak. Ne habozz!]]></item>
+    </category>
+    <category name="zoo.window.gift.recipients">
+      <item name="zoo.window.gift.recipients.headerGift"><![CDATA[Ajándék]]></item>
+      <item name="zoo.window.gift.recipients.headerUsername"><![CDATA[Játékos neve]]></item>
+      <item name="zoo.window.gift.recipients.headerUserID"><![CDATA[Játékosazonosító]]></item>
+      <item name="zoo.window.gift.recipients.info"><![CDATA[Válassz ki 5 barátot, és küldj mindegyiküknek egy ajándékot:]]></item>
+      <item name="zoo.window.gift.recipients.button.send"><![CDATA[Ajándék]]></item>
+    </category>
+    <category name="zoo.window.gift.unwrapped">
+      <item name="zoo.window.gift.unwrapped.title"><![CDATA[Az lesz a meglepetés!]]></item>
+      <item name="zoo.window.gift.unwrapped.text.1"><![CDATA[A következő ajándékot kaptad:]]></item>
+      <item name="zoo.window.gift.unwrapped.text.2"><![CDATA[Az ajándékot a kicsomagolás után azonnal levonjuk a számlájáról.]]></item>
+    </category>
+  </category>
+</language>

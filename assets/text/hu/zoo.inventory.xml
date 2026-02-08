@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.inventory">
+    <item name="zoo.inventory.sell.title"><![CDATA[Elad]]></item>
+    <item name="zoo.inventory.sell.info"><![CDATA[Hányat akarsz eladni?]]></item>
+    <item name="zoo.inventory.store.error.title"><![CDATA[FONTOS]]></item>
+    <item name="zoo.inventory.store.error.info"><![CDATA[Ha a kifutott állatokat a készletedbe szeretnéd helyezni, először egészségeseknek és elégedetteknek kell lenniük.]]></item>
+    <category name="zoo.inventory.tabs">
+      <item name="zoo.inventory.tabs.gifts"><![CDATA[ajándékok]]></item>
+      <item name="zoo.inventory.tabs.inventory"><![CDATA[Leltár]]></item>
+      <item name="zoo.inventory.tabs.pawprints"><![CDATA[Mancsok]]></item>
+      <item name="zoo.inventory.tabs.pearls"><![CDATA[Gyöngyök]]></item>
+      <item name="zoo.inventory.tabs.specials"><![CDATA[Kiegészítők]]></item>
+      <item name="zoo.inventory.tabs.trash"><![CDATA[Szemét]]></item>
+    </category>
+    <category name="zoo.inventory.trash">
+      <item name="zoo.inventory.trash.info"><![CDATA[Környezetvédelem újrahasznosítással: A hulladékot hasznosítsa újra egy újrahasznosító létesítményben, és a nyersanyagokból készítsen valami szükséges dolgot.]]></item>
+      <item name="zoo.inventory.trash.amount"><![CDATA[A szemét mennyisége:]]></item>
+    </category>
+    <category name="zoo.inventory.pawprints">
+      <item name="zoo.inventory.tabs.pawprints.info"><![CDATA[Minél jobban gondoskodsz az állataidról, annál több mancsot gyűjtesz. Ezeket aztán felhasználhatod a kifutóid fejlesztésére.<br> <br>Jelenleg összegyűjtött mancsok száma:]]></item>
+    </category>
+    <category name="zoo.inventory.pearls">
+      <item name="zoo.inventory.tabs.pearls.info"><![CDATA[Minél jobban gondoskodsz az állataidról, annál több gyöngyöt szerezhetsz élőhelyeid szépítésére.<br><br>Aktuális gyöngy állapot:]]></item>
+    </category>
+    <category name="zoo.inventory.inventory">
+      <item name="zoo.inventory.inventory.empty"><![CDATA[MINDEN ÜRES?<br>Jelenleg üres a készleted.<br>Miért nem nézed meg a boltot, vagy mész el egy szafarira?]]></item>
+      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Használat]]></item>
+    </category>
+    <category name="zoo.inventory.gifts">
+      <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Játékos neve]]></item>
+      <item name="zoo.inventory.gifts.headerUserID"><![CDATA[Játékosazonosító]]></item>
+      <item name="zoo.inventory.gifts.received"><![CDATA[Milyen szép! A barátod küldött neked egy ajándékot. Gyorsan, csomagold ki!]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Kibontás]]></item>
+      <item name="zoo.inventory.gifts.none"><![CDATA[Milyen kár! Jelenleg nincsenek új ajándékaid... De ne szomorkodj, hamarosan jön valami.]]></item>
+    </category>
+    <category name="zoo.inventory.move">
+      <item name="zoo.inventory.move.title"><![CDATA[Fizetés]]></item>
+      <item name="zoo.inventory.move.info"><![CDATA[Hány állatért akarsz fizetni?]]></item>
+    </category>
+    <category name="zoo.inventory.allin">
+      <item name="zoo.inventory.allin.title"><![CDATA[Mindent küldjön a készletbe]]></item>
+      <item name="zoo.inventory.allin.confirmation"><![CDATA[Biztosan mindent a leltárba akarsz küldeni? Figyelmeztetés: Az állataidnak tisztának, tápláltnak és boldognak kell lenniük, mielőtt ezt megteheted.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.avatar">
+    <item name="zoo.avatar.heads"><![CDATA[Készítsd el saját avatárodat itt, és mutasd meg a barátaidnak! Már kiválasztottad a nemedet? Aztán döntsd el az arcvonásaidat!]]></item>
+    <item name="zoo.avatar.eyes"><![CDATA[A szem a lélek tükre! Melyik illik hozzád a legjobban?]]></item>
+    <item name="zoo.avatar.mouths"><![CDATA[Mosolyogva, nevetve, vigyorogva... A szád megmutatja másoknak, hogy mit érzel!]]></item>
+    <item name="zoo.avatar.hair"><![CDATA[A hajszín és a frizura teljesen megváltoztathatja a megjelenésedet!]]></item>
+    <item name="zoo.avatar.hats"><![CDATA[A fejdísz (?) fontosnak tüntethet fel!]]></item>
+    <item name="zoo.avatar.clothes"><![CDATA[Válaszd ki a megfelelő öltözéket az állatkertbe.]]></item>
+  </category>
+</language>

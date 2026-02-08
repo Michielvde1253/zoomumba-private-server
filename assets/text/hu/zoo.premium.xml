@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.premium">
+    <category name="zoo.premium.title">
+      <item name="zoo.premium.title.0"><![CDATA[Dávid képviselő]]></item>
+      <item name="zoo.premium.title.1"><![CDATA[Krmić Honza]]></item>
+      <item name="zoo.premium.title.2"><![CDATA[Tápegység Pavel]]></item>
+      <item name="zoo.premium.title.3"><![CDATA[Tisztább Slavek]]></item>
+      <item name="zoo.premium.title.4"><![CDATA[Tenyésztő Soňa]]></item>
+      <item name="zoo.premium.title.5"><![CDATA[Jirka szemétszállító]]></item>
+      <item name="zoo.premium.title.6"><![CDATA[Kešík pénztáros]]></item>
+      <item name="zoo.premium.title.7"><![CDATA[Dr. Lynn]]></item>
+      <item name="zoo.premium.title.11"><![CDATA[Nagyobb állatkert]]></item>
+      <item name="zoo.premium.title.12"><![CDATA[Maxi állatkert bővítés]]></item>
+      <item name="zoo.premium.title.13"><![CDATA[Állatkert bővítése]]></item>
+      <item name="zoo.premium.title.14"><![CDATA[Állatkert bővítése]]></item>
+      <item name="zoo.premium.title.15"><![CDATA[húsvéti nyuszi]]></item>
+      <item name="zoo.premium.title.16"><![CDATA[Húsvéti segítő]]></item>
+      <item name="zoo.premium.title.23"><![CDATA[születésnapi torta]]></item>
+      <item name="zoo.premium.title.126"><![CDATA[Az állatkert maximális bővítése]]></item>
+      <item name="zoo.premium.title.29"><![CDATA[Az állatkert maximális bővítése]]></item>
+      <item name="zoo.premium.title.30"><![CDATA[Az állatkert maximális bővítése]]></item>
+      <item name="zoo.premium.title.125"><![CDATA[Állatkert bővítése]]></item>
+      <item name="zoo.premium.title.35"><![CDATA[Állatkert bővítése]]></item>
+      <item name="zoo.premium.title.36"><![CDATA[Állatkert bővítése]]></item>
+      <item name="zoo.premium.title.37"><![CDATA[Az állatkert maximális bővítése]]></item>
+      <item name="zoo.premium.title.38"><![CDATA[Az állatkert maximális bővítése]]></item>
+      <item name="zoo.premium.title.123"><![CDATA[Savanyú]]></item>
+      <item name="zoo.premium.title.124"><![CDATA[Édes]]></item>
+      <item name="zoo.premium.title.128"><![CDATA[születésnapi torta]]></item>
+      <item name="zoo.premium.title.130"><![CDATA[Állatkert bővítése]]></item>
+      <item name="zoo.premium.title.132"><![CDATA[Állatkert bővítése]]></item>
+      <item name="zoo.premium.title.2001"><![CDATA[Hordó víz]]></item>
+      <item name="zoo.premium.title.2002"><![CDATA[Víztorony]]></item>
+      <item name="zoo.premium.title.2003"><![CDATA[Vízforrás]]></item>
+      <item name="zoo.premium.title.2004"><![CDATA[Tárolódoboz]]></item>
+      <item name="zoo.premium.title.2005"><![CDATA[Raktár]]></item>
+      <item name="zoo.premium.title.2006"><![CDATA[Földalatti raktár]]></item>
+    </category>
+    <category name="zoo.premium.infoText">
+      <item name="zoo.premium.infoText.0"><![CDATA[Ha 6 asszisztenst alkalmazol (Dr. Lynn kivételével), akkor van egy társigazgatód és egy munkatársad, akik segítenek. Csak kattints, és a 6 asszisztens máris munkához lát.]]></item>
+      <item name="zoo.premium.infoText.1"><![CDATA[John, az etetési asszisztens gondoskodik arról, hogy állataid mindig jól tápláltak és boldogok legyenek. Ha elegendő zoogro-d van, amit megetethetsz, kattints rá, és John szorgalmasan és megbízhatóan fog dolgozni.]]></item>
+      <item name="zoo.premium.infoText.2"><![CDATA[Pavel gondoskodik az állatok itatásáról. Ha rákattintasz, rendszeresen ellátja az állataidat vízzel. De csak akkor, ha van elég zoogrosod.]]></item>
+      <item name="zoo.premium.infoText.3"><![CDATA[Slávek, a takarító gondoskodik állatai higiéniájáról és tisztaságáról. Ha rákattint, kitakarítja a kifutókat, és kényelmes otthont biztosít állatai számára.]]></item>
+      <item name="zoo.premium.infoText.4"><![CDATA[Mindenki Szonját várja! Kattints rá és alkalmazd: Ölelkezni fog az állataiddal, így nem fognak unatkozni, és ragyogni fognak az elégedettségtől.]]></item>
+      <item name="zoo.premium.infoText.5"><![CDATA[Jirka szorgalmasan söpör minden ösvényt, és egyetlen szemetest sem hagy ki. Rendnek kell lennie, a látogatók nem térnek vissza egy elhanyagolt állatkertbe. Egyetlen kattintással felbérelheted, és ő elvégzi az összes munkát.]]></item>
+      <item name="zoo.premium.infoText.6"><![CDATA[Az okos majom, Kešík jól bánik a számokkal: Kattints rá és béreld fel. Bevételt hoz neked minden általad épített üzletből és épületből.]]></item>
+      <item name="zoo.premium.infoText.7"><![CDATA[Dr. Lynn felelős az állataid egészségéért. Amikor rákattintasz, minden beteg állatnak beadja a megfelelő gyógyszert!]]></item>
+      <item name="zoo.premium.infoText.11"><![CDATA[%nextExpandLevel% szinttől az állatkerted bővülni fog. Nincs kedved várni? Szóval bővítsd ki az állatkerted most.]]></item>
+      <item name="zoo.premium.infoText.12"><![CDATA[Ne vesztegesd az időd, és bővítsd az állatkerted 100%-kal egyetlen kattintással! A maxi állatkert-bővítéssel megspórolhatod a köztes lépéseket, és azonnal a maximális terület áll majd rendelkezésedre. Ne habozz!]]></item>
+      <item name="zoo.premium.infoText.13"><![CDATA[Vásárolj kiegészítőket rejtett állatkertedhez zoodollarokból.]]></item>
+      <item name="zoo.premium.infoText.14"><![CDATA[Cseréld el az összegyűjtött eszközeidet, hogy kibővítsd a rejtett állatkerted.]]></item>
+      <item name="zoo.premium.infoText.15"><![CDATA[Április 21-től április 27-ig a húsvéti nyuszi tojásokat fog hullatni az állatkertedben. Gyűjtsd össze őket, és cseréld be húsvéti díszekre, húsvéti nyuszikra és húsvéti karámokra.]]></item>
+      <item name="zoo.premium.infoText.16"><![CDATA[Milyen praktikus! Április 21. és 27. között Sonja, húsvéti segítő segít tojásokat gyűjteni. Még akkor is, ha kijelentkezel! A tojásokat ezután húsvéti díszekre, húsvéti nyuszikra és húsvéti kabinokra cserélheted.]]></item>
+      <item name="zoo.premium.infoText.23"><![CDATA[Vedd meg ezt a tortát, hogy gyorsabban megkapd a születésnapi fejlesztést a kerti dekorációidhoz. Ezzel több lufit és több születésnapi ajándékot is szerezhetsz.]]></item>
+      <item name="zoo.premium.infoText.29"><![CDATA[Ne vesztegesd az időd, és bővítsd az állatkerted 100%-ra egyetlen kattintással! A maximális állatkert-bővítéssel megspórolhatod a fárasztó köztes lépéseket, és azonnal a maximális terület áll rendelkezésedre. Ne habozz!]]></item>
+      <item name="zoo.premium.infoText.30"><![CDATA[Ne vesztegesd az időd, és bővítsd az állatkerted 100%-kal egyetlen kattintással! A maxi állatkert-bővítéssel megspórolhatod a köztes lépéseket, és azonnal a maximális terület áll majd rendelkezésedre. Ne habozz!]]></item>
+      <item name="zoo.premium.infoText.35"><![CDATA[Bővítsd az állatkerted zoodollarokkal.]]></item>
+      <item name="zoo.premium.infoText.125"><![CDATA[Vásárolj egy kiegészítőt ehhez az állatkerthez zoodollarokból.]]></item>
+      <item name="zoo.premium.infoText.36"><![CDATA[Bővítsd az állatkerted az összegyűjtött eszközökkel.]]></item>
+      <item name="zoo.premium.infoText.126"><![CDATA[Ne vesztegesd az időd, és bővítsd az állatkerted 100%-kal egyetlen kattintással! A maxi állatkert-bővítéssel megspórolhatod a köztes lépéseket, és azonnal a maximális terület áll majd rendelkezésedre. Ne habozz!]]></item>
+      <item name="zoo.premium.infoText.37"><![CDATA[Ne vesztegesd az időd, és bővítsd az állatkerted 100%-kal egyetlen kattintással! A maxi állatkert-bővítéssel megspórolhatod a köztes lépéseket, és azonnal a maximális terület áll majd rendelkezésedre. Ne habozz!]]></item>
+      <item name="zoo.premium.infoText.38"><![CDATA[Ne vesztegesd az időd, és bővítsd az állatkerted 100%-kal egyetlen kattintással! A maxi állatkert-bővítéssel megspórolhatod a köztes lépéseket, és azonnal a maximális terület áll majd rendelkezésedre. Ne habozz!]]></item>
+      <item name="zoo.premium.infoText.123"><![CDATA[Cserélj kis denevéreket savanyúakra, hogy új halloweeni jutalmakat oldj fel.]]></item>
+      <item name="zoo.premium.infoText.124"><![CDATA[Cserélj kis denevéreket édességekre, hogy új halloweeni jutalmakat oldj fel.]]></item>
+      <item name="zoo.premium.infoText.128"><![CDATA[Vedd meg ezt a tortát, hogy gyorsabban megkapd a születésnapi fejlesztést a kerti dekorációidhoz. Ezzel több lufit és több születésnapi ajándékot is szerezhetsz.]]></item>
+      <item name="zoo.premium.infoText.130"><![CDATA[Vásárold meg a Coastal Zoo kiegészítőt Zoo dollárokból.]]></item>
+      <item name="zoo.premium.infoText.132"><![CDATA[Szerezd meg az Undersea World kiegészítőt a Zoodollars segítségével.]]></item>
+      <item name="zoo.premium.infoText.2001"><![CDATA[Ez a vizeshordó szép kiegészítője lehet az állatkertnek, és rusztikus hangulatot kölcsönöz neki.]]></item>
+      <item name="zoo.premium.infoText.2002"><![CDATA[Micsoda óriás! Ez a víztorony messziről látható lesz.]]></item>
+      <item name="zoo.premium.infoText.2003"><![CDATA[Most már folyik. A szökőkút frissítő vizet biztosít az állatkertednek. Víz, csak folyj!]]></item>
+      <item name="zoo.premium.infoText.2004"><![CDATA[Praktikus! A tárolódobozok tökéletesek mászáshoz, üléshez és játékhoz. A gyerekek imádják a faládákat.]]></item>
+      <item name="zoo.premium.infoText.2005"><![CDATA[Milyen nagyszerű! A pajta remek hely bújócska játékra. Télen pedig rengeteg hely van a szénabáláknak.]]></item>
+      <item name="zoo.premium.infoText.2006"><![CDATA[Remek raktárhelyiség! Sok érdekes dolog van a földalatti raktárhelyiségben. De mindenekelőtt ez a raktárhelyiség nagyon titokzatos... mi rejtőzik ott?]]></item>
+    </category>
+    <category name="zoo.premium.window.renew">
+      <item name="zoo.premium.window.renew.text"><![CDATA[Ó! Lejárt a munkaszerződése ennek az asszisztensnek. Meg akarja hosszabbítani a szerződést?]]></item>
+    </category>
+    <category name="zoo.premium.elixir">
+      <item name="zoo.premium.elixir.title"><![CDATA[Tolija lényege]]></item>
+      <item name="zoo.premium.elixir.text"><![CDATA[A tenyésztés során használt titkos recept 50%-kal lerövidíti a tenyésztési folyamatot]]></item>
+    </category>
+    <category name="zoo.premium.breedingLab">
+      <item name="zoo.premium.breedingLab.title"><![CDATA[Tenyésztőállomás]]></item>
+      <item name="zoo.premium.breedingLab.text"><![CDATA[Helyezz el egy tenyésztőállomást a fő vagy titkos állatkertedben ritka állatok tenyésztéséhez.]]></item>
+    </category>
+    <category name="zoo.premium.nursery">
+      <item name="zoo.premium.nursery.title"><![CDATA[Állatóvoda]]></item>
+      <item name="zoo.premium.nursery.text"><![CDATA[Helyezz el egy tenyésztőállomást a fő vagy titkos állatkertedben, hogy a kicsinyeidnek legyen hol felnőniük.]]></item>
+    </category>
+    <category name="zoo.premium.assist.title">
+      <item name="zoo.premium.assist.title.0"><![CDATA[Dávid képviselő]]></item>
+      <item name="zoo.premium.assist.title.1"><![CDATA[Krmić Honza]]></item>
+      <item name="zoo.premium.assist.title.2"><![CDATA[Tápegység Pavel]]></item>
+      <item name="zoo.premium.assist.title.3"><![CDATA[Tisztább Slavek]]></item>
+      <item name="zoo.premium.assist.title.4"><![CDATA[Tenyésztő Soňa]]></item>
+      <item name="zoo.premium.assist.title.5"><![CDATA[Jirka szemétszállító]]></item>
+      <item name="zoo.premium.assist.title.6"><![CDATA[Pénztáros, pénzügyi asszisztens]]></item>
+      <item name="zoo.premium.assist.title.7"><![CDATA[Dr. Lynn]]></item>
+      <item name="zoo.premium.assist.title.8"><![CDATA[Jindra]]></item>
+      <item name="zoo.premium.assist.title.9"><![CDATA[Máté]]></item>
+      <item name="zoo.premium.assist.title.10"><![CDATA[Frant]]></item>
+      <item name="zoo.premium.assist.title.11"><![CDATA[Jenny]]></item>
+    </category>
+    <category name="zoo.premium.assist.infoText">
+      <item name="zoo.premium.assist.infoText.0"><![CDATA[Ha 6 asszisztenst alkalmazol (Dr. Lynn kivételével), a társigazgató segíteni fog a személyzettel. Egyszerűen kattints rájuk, és máris munkához látnak.]]></item>
+      <item name="zoo.premium.assist.infoText.1"><![CDATA[A Feeder Honza gondoskodik arról, hogy az állataid mindig ehessenek – feltéve, hogy elegendő zoogro-d van a költségek fedezésére.]]></item>
+      <item name="zoo.premium.assist.infoText.2"><![CDATA[Kattints Pavelre, és ő gondoskodik az állatok összekapcsolásáról – feltéve, hogy van elég zoogrod a költségek fedezésére.]]></item>
+      <item name="zoo.premium.assist.infoText.3"><![CDATA[Slávek, a takarító gondoskodik állatai higiéniájáról és tisztaságáról. Amikor rákattint, kitakarítja a kifutóit, és kényelmes otthont biztosít állatai számára.]]></item>
+      <item name="zoo.premium.assist.infoText.4"><![CDATA[Soňa tenyésztő gondoskodik az állataidról, megöleli őket, és megadja nekik a megérdemelt szeretetet. Kattints rá, és nézd meg munka közben!]]></item>
+      <item name="zoo.premium.assist.infoText.5"><![CDATA[Jirka szorgalmasan söpör minden utat, és egyetlen szemetest sem hagy ki. Rendet kell tartani. Egyetlen kattintással felveheted, és azonnal munkához láthat!]]></item>
+      <item name="zoo.premium.assist.infoText.6"><![CDATA[Az okos majom, Kešík jól bánik a számokkal. Kattints rá, és ő gyűjti be neked az állatkert összes épületének bevételét!]]></item>
+      <item name="zoo.premium.assist.infoText.7"><![CDATA[Dr. Lynn felelős az állataid egészségéért. Amikor rákattintasz, minden beteg állatnak beadja a megfelelő gyógyszert!]]></item>
+      <item name="zoo.premium.assist.infoText.8"><![CDATA[Kattints Jindrára, és ő megetet minden tengeri élőlényt! Algák, planktonok vagy halak eledele - Jindra tudja, mit kell tennie!]]></item>
+      <item name="zoo.premium.assist.infoText.9"><![CDATA[Matej kezében mindig van egy tömlő! Kattints rá, és megtölti a víztartályaidat, de győződj meg róla, hogy van elég forrásod a költségek fedezésére!]]></item>
+      <item name="zoo.premium.assist.infoText.10"><![CDATA[Franta medenceszerelő. Kattints rá, és ő megtisztítja a vízfelületeidet, kicseréli a szűrőket, és gondoskodik arról, hogy a víz tiszta és biztonságos legyen az összes állat számára.]]></item>
+      <item name="zoo.premium.assist.infoText.11"><![CDATA[Janička tengeri emlősök idomítója. Játszik az állatokkal és különféle trükköket tanít nekik! Kattints rá és alkalmazd!]]></item>
+    </category>
+  </category>
+</language>

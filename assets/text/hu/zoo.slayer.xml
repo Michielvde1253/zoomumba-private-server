@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.slayer">
+    <category name="zoo.slayer.friends">
+      <item name="zoo.slayer.friends.title"><![CDATA[Barátok]]></item>
+      <item name="zoo.slayer.friends.message"><![CDATA[Küldj üzenetet ennek a barátodnak]]></item>
+      <item name="zoo.slayer.friends.delete"><![CDATA[Biztosan eltávolítod ezt a játékost a barátlistádról?]]></item>
+      <item name="zoo.slayer.friends.visit"><![CDATA[Látogasd meg a barátod állatkertjét.]]></item>
+      <item name="zoo.slayer.friends.empty"><![CDATA[Teljesen egyedül? Miért ne hívnál meg gyorsan néhány barátot, hogy együtt játsszanak? Több ember, több móka!]]></item>
+    </category>
+    <category name="zoo.slayer.receivedInvites">
+      <item name="zoo.slayer.receivedInvites.title"><![CDATA[Baráti kérelmek beérkeztek]]></item>
+      <item name="zoo.slayer.receivedInvites.accept"><![CDATA[Baráti kérés elfogadása]]></item>
+      <item name="zoo.slayer.receivedInvites.deny"><![CDATA[Baráti kérelem elutasítása]]></item>
+      <item name="zoo.slayer.receivedInvites.empty"><![CDATA[Sajnos nincsenek új ismerősként való felkéréseid.]]></item>
+    </category>
+    <category name="zoo.slayer.sentInvites">
+      <item name="zoo.slayer.sentInvites.title"><![CDATA[Elküldött barátkozási kérelmek]]></item>
+      <item name="zoo.slayer.sentInvites.empty"><![CDATA[Nem küldtél baráti kéréseket.]]></item>
+    </category>
+    <category name="zoo.slayer.add">
+      <item name="zoo.slayer.add.title"><![CDATA[Hívd meg a barátaidat]]></item>
+      <item name="zoo.slayer.add.requested"><![CDATA[Bravó! Sikeresen elküldted a barátkozási kérésedet %useName%. felhasználónak.]]></item>
+      <item name="zoo.slayer.add.text"><![CDATA[Nem szeretnél egyedül játszani a ZooMumba-val, és inkább másokkal élveznéd? Hívd meg a barátaidat!]]></item>
+      <item name="zoo.slayer.add.byName"><![CDATA[Hívd meg barátaidat ZooMumba játékra!]]></item>
+      <item name="zoo.slayer.add.byName.message"><![CDATA[Barátságkérés küldéséhez kérjük, adja meg barátai felhasználónevét.]]></item>
+      <item name="zoo.slayer.add.duplicated.message"><![CDATA[Több felhasználónevet is találtunk a keresés során. Kérjük, válassza ki az ismerősét a listából:]]></item>
+      <item name="zoo.slayer.add.self"><![CDATA[Nem veheted fel magad a saját ismerőseid listájára!]]></item>
+      <item name="zoo.slayer.add.byMail"><![CDATA[Hívd meg a barátaidat e-mailben.]]></item>
+      <item name="zoo.slayer.add.byFB"><![CDATA[Hívd meg a barátaidat a Facebookon keresztül.]]></item>
+      <item name="zoo.slayer.add.button"><![CDATA[Meghív]]></item>
+    </category>
+  </category>
+</language>

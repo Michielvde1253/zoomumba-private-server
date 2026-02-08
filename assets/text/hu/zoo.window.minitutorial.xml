@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.minitutorial">
+    <item name="zoo.window.minitutorial.title"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.minitutorial.infopage.1"><![CDATA[Üdvözlünk a ZooMumba játékban, az őrült állatkerti kalandodban! Sonja vagyok, és lépésről lépésre bemutatom, hogyan működik a játék.<br><br>A boltban különféle állatkifutókat vásárolhatsz, és elhelyezheted azokat az állatkerted területén.]]></item>
+    <item name="zoo.window.minitutorial.infopage.2"><![CDATA[Kattints a kifutóra, és vegyél egy állatot. Mindenképpen ellenőrizd, hogy hím vagy nőstény egyedet vásárolsz-e.<br><br> Ha mindkettő a kifutóban van, hamarosan bébi állatokra számíthatsz!]]></item>
+    <item name="zoo.window.minitutorial.infopage.3"><![CDATA[Rendszeresen gondoskodj az állataidról, öleld meg őket, és játssz velük. Így boldogok és elégedettek lesznek. Próbáld ki!]]></item>
+    <item name="zoo.window.minitutorial.infopage.4"><![CDATA[A kifutott területeket, épületeket és látnivalókat a bejárathoz vezető ösvényekkel kell összekötnöd, hogy a látogatók mindent megcsodálhassanak.]]></item>
+    <item name="zoo.window.minitutorial.infopage.5"><![CDATA[Szerezz be takarmányt és mindent, amire állataid vágynak a boltban: húst, gyümölcsöt, füvet - csak nézz körül!]]></item>
+    <item name="zoo.window.minitutorial.infopage.6"><![CDATA[2. szinttől épületeket és standokat is vásárolhatsz a boltban, így az állatkerted még vonzóbbá válik a látogatók számára. <br><br>A belépődíj bevételedet rendszeresen beszedheted a főépületből.]]></item>
+    <item name="zoo.window.minitutorial.infopage.6b"><![CDATA[Néhány ZooDollars egyenleggel kezdhetsz. Használd fel őket nagyszerű állatok és különleges látnivalók beszerzésére, vagy bérelj fel asszisztenseket. Ők segítenek majd az állatkerted karbantartásában és gondozásában. <br><br>És ha kifogysz a ZooDollars egyenlegedből, ne aggódj! Bármikor feltöltheted a ZooBankban.]]></item>
+    <item name="zoo.window.minitutorial.infopage.7"><![CDATA[Minél több látogatót fogadsz az állatkertedbe, annál több szemetet kell majd eltakarítanod. <br><br>Tartsd tisztán az állatkerted, és gyűjtsd össze a szemetet. A látogatóid értékelni fogják!]]></item>
+    <item name="zoo.window.minitutorial.infopage.8"><![CDATA[Minél több elégedett látogatója van az állatkertednek, annál magasabbra emelkedik a zoometered. <br><br>Kezdj el dolgozni, és építsd meg a világ legjobb állatkertjét - a ZooMumba-ban! Érezd jól magad!]]></item>
+  </category>
+</language>
