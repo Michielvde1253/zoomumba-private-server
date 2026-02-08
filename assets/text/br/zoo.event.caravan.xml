@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Estou a caminho de uma reserva onde querem aumentar a população de - %species%. Você pode me ajudar? Eu te empresto um casal de - %species% por 120 horas. Em troca de %amount% de filhotes de %species%, você recebe um adulto.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Pegue um par emprestado]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Anaconda]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Ótimo! Agora você tem pelo menos 5 bebês no seu inventário. Troque-os rapidamente comigo por um orangotango adulto!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Ótimo! Você me ajudou muito! Agora vou levar os filhotes para a reserva e soltá-los na natureza. Muito obrigada e até a próxima!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[O veículo de transporte de animais está de volta à reserva, trazendo consigo dois animais que você pegou emprestado. Você pode encontrar seus filhotes recém-nascidos no seu inventário.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Você tem %count% horas restantes para trocar os filhotes.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Bebês orangotangos em seu inventário]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Transfira os filhotes de orangotango para o inventário.]]></item>
+    </category>
+  </category>
+</language>

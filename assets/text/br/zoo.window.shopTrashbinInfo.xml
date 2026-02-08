@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Cesto de lixo]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[As pessoas deixam lixo para trás! Quanto mais lixeiras você tiver no seu zoológico, menos terá que limpar depois dos visitantes.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Lixeira de múmia]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Eca... quero lixo!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Fantasma da Lata de Lixo]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuhhuuuuu... Lixo]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Vampiro da Lata de Lixo]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Preciso de algo para morder. Me dê seu lixo!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Monstro da Lata de Lixo]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Hummm... Lixo bom!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Lixeira de aniversário]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Hummm, papel de embrulho!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Lixeira em forma de baleia]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA["Eu vou engolir todo o seu lixo!"]]></item>
+  </category>
+</language>

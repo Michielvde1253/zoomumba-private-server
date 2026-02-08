@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.safari">
+    <item name="zoo.safari.title"><![CDATA[Safári]]></item>
+    <item name="zoo.safari.fuel_singular"><![CDATA[Galão de gasolina]]></item>
+    <category name="zoo.safari.errors">
+      <item name="zoo.safari.errors.notAvailable"><![CDATA[Que pena! Infelizmente, seu nível é muito baixo! A partir do nível 7 você poderá iniciar o safári!]]></item>
+    </category>
+    <category name="zoo.safari.welcomeWindow">
+      <item name="zoo.safari.welcomeWindow.infoText"><![CDATA[Bem-vindo a um safári cheio de aventuras: Ganhe ótimas recompensas e até mesmo novos animais! <br /><br />Na próxima etapa, basta escolher a área onde deseja iniciar seu safári. <br /><br />Viva, rumo à natureza selvagem!]]></item>
+    </category>
+    <category name="zoo.safari.regionWindow">
+      <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Escolha uma região]]></item>
+      <item name="zoo.safari.startWindow.infoText"><![CDATA[Em qual região você deseja iniciar seu safári? Escolha aqui: Em cada região, existem 3 áreas que você pode ativar, dependendo do seu nível.]]></item>
+    </category>
+    <category name="zoo.safari.shopWindow">
+      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Ei, aventureiro! Parta para um safári de verdade. Use os curingas para facilitar sua jornada pela natureza selvagem.<br><br>Importante: Escolha apenas um curinga de cada tipo para sua viagem!]]></item>
+      <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[Deseja investir %skipTimerCost% zoodollars e começar seu safári imediatamente?]]></item>
+      <item name="zoo.safari.shopWindow.infoText"><![CDATA[Está pronto para um safári? Veja como funciona: Na próxima etapa, você verá um jogo: ele consiste em 9 a 25 cartas viradas para baixo. As cartas escondem recompensas ou rastros de animais que você seguirá para obter o prêmio principal. Mas cuidado: cada carta também pode esconder uma armadilha!<br /><br />Veja aquele galão de gasolina no canto inferior direito? Ele mostra quanto combustível resta no tanque do seu jipe. Assim que você revelar uma carta, consumirá um pouco de combustível.<br /><br />E agora, as regras do jogo: No início, você só pode escolher cartas da fileira inferior. Clique em uma carta e ela será virada. Dessa forma, você poderá ver se encontrou algo e, em caso afirmativo, o que é. Em seguida, você poderá escolher cartas que estejam acima ou abaixo da última carta, bem como à direita ou à esquerda dela. O jogo termina se você encontrar um animal, mas também termina quando seu combustível acabar.<br /><br />Aumente suas chances de encontrar um animal valioso com o curinga (?) da loja. Existem 2 tipos de curingas: Carta e Navegação. Deixe o Curinga de Cartas te ajudar a descobrir suas cartas - ele revelará cartas extras para você. O Curinga de Navegação te guiará na direção certa graças à sua bússola.<br /><br />Você pode levar um curinga de cada tipo com você no safári. Independentemente de você usar o curinga ou não, você o perde no final do safári.]]></item>
+    </category>
+    <category name="zoo.safari.miniGame">
+      <item name="zoo.safari.miniGame.tileInfo.trap"><![CDATA[Ops, você bateu em um obstáculo. Que chato, uma lata de gasolina se foi.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.treasure"><![CDATA[Ótimo! Você encontrou %treasureCount% %treasureName%. Depressa, continue procurando, você pode encontrar muitos outros tesouros.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.animal"><![CDATA[Parabéns, olha só o que você encontrou! É um %animal%! Corra para o zoológico, ele está te esperando no seu inventário. Você concluiu seu safári com sucesso.]]></item>
+      <item name="zoo.safari.miniGame.closeWarning"><![CDATA[Você realmente quer encerrar o safári? Se sim, você não poderá iniciar mais nenhum safári hoje e seu combustível e suprimentos terão acabado!]]></item>
+      <item name="zoo.safari.miniGame.noJoker"><![CDATA[Sem palhaçadas]]></item>
+      <item name="zoo.safari.miniGame.buyGasThenEmpty"><![CDATA[Você está quase chegando ao seu destino! Infelizmente, seu tanque está vazio. Deseja abastecer com alguns zoodólares e continuar seu safári? Escolha a quantidade de gasolina que deseja comprar.]]></item>
+      <item name="zoo.safari.miniGame.buyMissingGas"><![CDATA[A quantidade de galões de gasolina necessária para este terreno é %neededGas%. No entanto, você só tem %missingGas%. Deseja comprar a gasolina necessária com zoodólares?]]></item>
+      <item name="zoo.safari.miniGame.buyGas"><![CDATA[Por favor, escolha a quantidade de gasolina que deseja comprar. Mas atenção: se você não usar toda a gasolina durante o safári, o restante será desperdiçado.]]></item>
+    </category>
+    <category name="zoo.safari.minigameInfo">
+      <item name="zoo.safari.minigameInfo.title"><![CDATA[Instruções]]></item>
+      <item name="zoo.safari.minigameInfo.1"><![CDATA[Bem-vindo ao seu safári!<br />Descubra animais incomuns e grandes tesouros. Mas cuidado por onde anda. Armadilhas espreitam por toda parte. Dependendo do tipo de terreno, você usará diferentes quantidades de gasolina.<br /><br />O safári termina assim que seu tanque estiver vazio ou se você encontrar um animal.]]></item>
+      <item name="zoo.safari.minigameInfo.2"><![CDATA[Você pode entrar na área selvagem clicando em uma das caixas inferiores.]]></item>
+      <item name="zoo.safari.minigameInfo.3"><![CDATA[Desloque-se em linha reta para o norte, sul, oeste e leste.]]></item>
+      <item name="zoo.safari.minigameInfo.4"><![CDATA[Você pode ativar seus curingas a qualquer momento. Eles contêm dicas valiosas que o ajudarão a alcançar seu objetivo mais rapidamente.]]></item>
+      <item name="zoo.safari.minigameInfo.terains"><![CDATA[Os seguintes tipos de terreno estão disponíveis:<br />]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.name"><![CDATA[Terreno simples]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.info"><![CDATA[Você usará 1 unidade de gasolina.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.name"><![CDATA[Terreno mais difícil]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.info"><![CDATA[Você usará 3 unidades de gasolina.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.name"><![CDATA[Terreno intransitável]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.info"><![CDATA[Entrada proibida]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.name"><![CDATA[Terreno explorado]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.info"><![CDATA[Você usará 1 unidade de gasolina.]]></item>
+      <item name="zoo.safari.minigameInfo.events"><![CDATA[Você pode encontrar os seguintes itens: <br />]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.name"><![CDATA[PEGADAS DE ANIMAIS]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.info"><![CDATA[Eles indicam a direção onde o animal pode estar localizado.]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.name"><![CDATA[TESOURO]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.info"><![CDATA[Que legal, um tesouro com uma grande surpresa!]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.name"><![CDATA[BARREIRA]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.info"><![CDATA[Vai custar 1 unidade de gasolina.]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.name"><![CDATA[ENCONTRO COM UM ANIMAL]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.info"><![CDATA[Se você encontrar um animal, ele lhe pertence e a missão termina.]]></item>
+    </category>
+    <category name="zoo.safari.jokers">
+      <item name="zoo.safari.jokers.titel_1"><![CDATA[Macaco, o conselheiro]]></item>
+      <item name="zoo.safari.jokers.titel_2"><![CDATA[Sônia, a conselheira]]></item>
+      <item name="zoo.safari.jokers.titel_3"><![CDATA[Bússola]]></item>
+      <item name="zoo.safari.jokers.titel_4"><![CDATA[Viagem rápida]]></item>
+      <item name="zoo.safari.jokers.text_1"><![CDATA[Todo mundo precisa de uma ajudinha de vez em quando. Se você deixar o macaco ajudar, poderá revelar uma carta escolhida aleatoriamente.<br /><br />Está curioso? Vamos lá!]]></item>
+      <item name="zoo.safari.jokers.text_2"><![CDATA[Deseja revelar uma carta específica e avançar no safari?<br /><br /><br /> Utilize a ajuda da conselheira Sonia. Com a ajuda dela, você revelará a carta de sua escolha. Isso ajudará você a alcançar seu objetivo mais rapidamente. Boa sorte!]]></item>
+      <item name="zoo.safari.jokers.text_3"><![CDATA[Precisa de ajuda? Use a bússola como um curinga para marcar uma carta para você. Nela, você encontrará o animal que procura ou uma armadilha. Está ansioso para descobrir o que está escondido? Então, depressa, descubra!]]></item>
+      <item name="zoo.safari.jokers.text_4"><![CDATA[Mas vamos ao que interessa: você está avançando lentamente em direção ao seu objetivo, passo a passo? Não está sendo rápido o suficiente?<br /><br />Então use o curinga: ele revelará 3 cartas para você, entre as quais pode estar escondido o animal que você procura, mas também uma armadilha.<br /><br />Animal ou armadilha... Rápido, veja!]]></item>
+    </category>
+    <category name="zoo.safari.tooltip">
+      <item name="zoo.safari.tooltip.cantStartSafari"><![CDATA[Você pode começar seu safári depois de atingir o nível 7.]]></item>
+      <item name="zoo.safari.tooltip.startSafari"><![CDATA[Entre no jipe: Clique aqui para começar o safári!]]></item>
+      <item name="zoo.safari.tooltip.backToZoo"><![CDATA[De volta ao zoológico]]></item>
+      <item name="zoo.safari.tooltip.regionSmall"><![CDATA[Pequeno]]></item>
+      <item name="zoo.safari.tooltip.regionMedium"><![CDATA[Médio]]></item>
+      <item name="zoo.safari.tooltip.regionLarge"><![CDATA[Grande]]></item>
+      <item name="zoo.safari.tooltip.skipTimerInShop"><![CDATA[Você recebe uma certa quantidade de galões de gasolina por dia.<br/> Quer mais agora? Então reduza seu tempo de espera com zoodollars!]]></item>
+      <item name="zoo.safari.tooltip.buyGasInMinigame"><![CDATA[Clique para comprar mais gasolina.]]></item>
+      <item name="zoo.safari.tooltip.regeonLevelRequared"><![CDATA[Esta região ficará acessível após você atingir o nível %regionLevel%.]]></item>
+    </category>
+    <category name="zoo.safari.button">
+      <item name="zoo.safari.button.startSafari"><![CDATA[Comece o safári]]></item>
+      <item name="zoo.safari.button.endSafari"><![CDATA[Finalizar safari]]></item>
+      <item name="zoo.safari.button.activate"><![CDATA[Ativar]]></item>
+      <item name="zoo.safari.button.use"><![CDATA[Implantar]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Bem-vindos ao circo itinerante! Apresentamos a Caixa Misteriosa! Compre uma caixa e ganhe um de 10 animais. Você pode ter até 20 caixas ao mesmo tempo, e cada caixa pode ser aberta em até 5 horas. Divirta-se!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Animais:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Muitas felicidades!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[Os seguintes animais foram adicionados ao seu inventário: %animal%. Consiga ainda mais caixas misteriosas para obter animais ainda mais exclusivos!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Oh, desculpe!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Você já possui 20 baús misteriosos. Espere até que um deles se abra e então pegue outro baú.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[A caixa misteriosa será aberta para: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Clique para ver seus animais]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Bem vindo de volta!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Enquanto você estava fora, seus animais ficaram com sede por causa da caixa misteriosa. A criadora Sonia cuidou deles e os levou para o seu inventário. Dê uma olhada!]]></item>
+  </category>
+</language>
