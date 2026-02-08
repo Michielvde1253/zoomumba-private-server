@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
- <category name="zoo.window.recycling">
-  <item name="zoo.window.recycling.title"><![CDATA[Recyklace]]></item>
-  <item name="zoo.window.recycling.info"><![CDATA[V odpadu najdeš spoustu surovin, které můžeš recyklovat a vyrobit zde cenné materiály.]]></item>
-  <item name="zoo.window.recycling.storage.info"><![CDATA[Stav tvého skladu: %count% <br> z celkové kapacity %maxcount%]]></item>
-  <item name="zoo.window.recycling.produce.text"><![CDATA[Vyráběj suroviny z posbíraného odpadu. Doba, která je potřebná k výrobě těchto materiálů je vidět nalevo. Níže je vidět potřebné množství odpadu a počet zoogrošů. Vyber, kolik surovin chceš vyrobit. Pokaždé, když něco vyrobíš, máš šanci získat vzácnou surovinu. Tuto šanci můžeš zvýšit použitím super filtru.]]></item>
-  <item name="zoo.window.recycling.produce.superfiltertitle"><![CDATA[Super filtr]]></item>
-  <item name="zoo.window.recycling.produce.superfiltertext"><![CDATA[Zvyš svou šanci na získání vzácné suroviny o %percent%%]]></item>
-  <item name="zoo.window.recycling.produce.rarechancetext"><![CDATA[Šance na získání vzácné suroviny: %percent%%]]></item>
-  <item name="zoo.window.recycling.produce.startrecycle"><![CDATA[Spustit recyklaci]]></item>
-  <item name="zoo.window.recycling.produce.insertfilter"><![CDATA[Použít filtr]]></item>
-  <item name="zoo.window.recycling.produce.deletefilter"><![CDATA[Odstranit filtr]]></item>
-  <item name="zoo.window.recycling.card.create"><![CDATA[Zhotovit]]></item>
- </category>
- <category name="zoo.window.recycling.slot">
-  <item name="zoo.window.recycling.slot.title.buy"><![CDATA[Teď pronajmout]]></item>
-  <item name="zoo.window.recycling.slot.title.chooseItem"><![CDATA[K dispozici]]></item>
-  <item name="zoo.window.recycling.slot.button.processfinished"><![CDATA[Vyzvednout]]></item>
-  <item name="zoo.window.recycling.slot.button.start"><![CDATA[Start]]></item>
-  <item name="zoo.window.recycling.slot.button.chooseItem"><![CDATA[Zvolit]]></item>
- </category>
- <category name="zoo.window.recycling.info">
-  <item name="zoo.window.recycling.info.switchInfo"><![CDATA[Tento materiál použij k výrobě následujících položek:]]></item>
- </category>
+  <category name="zoo.window.recycling">
+    <item name="zoo.window.recycling.title"><![CDATA[Recycling]]></item>
+    <item name="zoo.window.recycling.info"><![CDATA[You will find a lot of raw materials in the waste that you can recycle and produce valuable materials.]]></item>
+    <item name="zoo.window.recycling.storage.info"><![CDATA[Your warehouse capacity: %count% <br> of the total capacity %maxcount%]]></item>
+    <item name="zoo.window.recycling.produce.text"><![CDATA[Craft resources from collected waste. The time it takes to craft these materials is shown on the left. Below you can see the amount of waste needed and the number of zoogros. Choose how many resources you want to craft. Every time you craft something, you have a chance to get a rare resource. You can increase this chance by using the super filter.]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertitle"><![CDATA[Super filter]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertext"><![CDATA[Increase your chance of obtaining a rare resource by %percent%%]]></item>
+    <item name="zoo.window.recycling.produce.rarechancetext"><![CDATA[Chance of obtaining a rare resource: %percent%%]]></item>
+    <item name="zoo.window.recycling.produce.startrecycle"><![CDATA[Start recycling]]></item>
+    <item name="zoo.window.recycling.produce.insertfilter"><![CDATA[Apply filter]]></item>
+    <item name="zoo.window.recycling.produce.deletefilter"><![CDATA[Remove filter]]></item>
+    <item name="zoo.window.recycling.card.create"><![CDATA[Make]]></item>
+    <category name="zoo.window.recycling.slot">
+      <item name="zoo.window.recycling.slot.title.buy"><![CDATA[Rent now]]></item>
+      <item name="zoo.window.recycling.slot.title.chooseItem"><![CDATA[Available]]></item>
+      <item name="zoo.window.recycling.slot.button.processfinished"><![CDATA[Pick up]]></item>
+      <item name="zoo.window.recycling.slot.button.start"><![CDATA[Start]]></item>
+      <item name="zoo.window.recycling.slot.button.chooseItem"><![CDATA[Choose]]></item>
+    </category>
+    <category name="zoo.window.recycling.info">
+      <item name="zoo.window.recycling.info.switchInfo"><![CDATA[Use this material to craft the following items:]]></item>
+    </category>
+  </category>
 </language>

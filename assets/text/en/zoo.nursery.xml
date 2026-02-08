@@ -1,27 +1,27 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
-  <category name="zoo.nursery.tooltip">
-    <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[This is where the cub's growing up.]]></item>
-    <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Ready to grow]]></item>
-    <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Tvé mládě vyrostlo!]]></item>
-  </category>
   <category name="zoo.nursery">
-    <item name="zoo.nursery.info"><![CDATA[Ahoj, já jsem Týna a starám se o tvá mláďata. V mojí zvířecí školce vyrůstají v dospělá zvířata. Zvol si ze svého inventáře mládě, které chceš nechat vyrůst.]]></item>
-  </category>
-  <category name="zoo.nursery.button">
-    <item name="zoo.nursery.button.raise"><![CDATA[Raise]]></item>
-    <item name="zoo.nursery.button.elixir"><![CDATA[Použij esenci]]></item>
-    <item name="zoo.nursery.button.instantRaise"><![CDATA[Vychovat ihned]]></item>
-  </category>
-  <category name="zoo.nursery.layer">
-    <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Animal breeding]]></item>
-    <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
-    <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Zbývající čas:]]></item>
-    <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Vychovat ihned]]></item>
-    <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Než bys řekl švec, bude tvůj drobek dospělý!]]></item>
-    <item name="zoo.nursery.layer.elixir.text"><![CDATA[Růstový lektvar zkracuje dobu odchovu o 50 %.]]></item>
-    <item name="zoo.nursery.layer.success"><![CDATA[Jupíí! Toto mládě vyrostlo a bylo přesunuto do tvého inventáře:]]></item>
-    <item name="zoo.nursery.layer.inventorize"><![CDATA[Pozor: Zde zrovna vyrůstá mládě! Když přesuneš školku do inventáře, bude proces přerušen. Opravdu chceš provést přesun ihned?]]></item>
-    <item name="zoo.nursery.layer.sellNursery"><![CDATA[Pozor: Zde zrovna vyrůstá mládě! Když školku nyní prodáš, bude proces přerušen. Opravdu chceš školku prodat ihned?]]></item>
+    <item name="zoo.nursery.info"><![CDATA[Hi, I'm Tina and I take care of your babies. They grow into adults in my animal nursery. Choose the baby you want to raise from your inventory.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Ready to grow]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[This is where the cub's growing up.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Your cub has grown up!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Raise]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Use essence]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Raise immediately]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Animal breeding]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Time remaining:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Raise immediately]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Before you know it, your little one will be an adult!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Growth Potion reduces breeding time by 50%.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Yippee! This baby has grown up and been moved to your inventory:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Attention: A baby is growing here! If you move the nursery to the inventory, the process will be interrupted. Are you sure you want to move it now?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Attention: A baby is growing here! If you sell the nursery now, the process will be interrupted. Are you sure you want to sell it now?]]></item>
+    </category>
   </category>
 </language>

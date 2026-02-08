@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.user">
-    <item name="zoo.user.name"><![CDATA[Player name]]></item>
-    <item name="zoo.user.id"><![CDATA[Player ID]]></item>
+    <item name="zoo.user.name"><![CDATA[Username]]></item>
+    <item name="zoo.user.id"><![CDATA[User ID]]></item>
     <item name="zoo.user.notAuth.title"><![CDATA[Verification]]></item>
     <item name="zoo.user.notAuth.info"><![CDATA[Verification failed. Please log in again.]]></item>
   </category>

@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.minitutorial">
-    <item name="zoo.window.minitutorial.title"><![CDATA[]]></item>
+    <item name="zoo.window.minitutorial.title"><![CDATA[#VALUE!]]></item>
     <item name="zoo.window.minitutorial.infopage.1"><![CDATA[Welcome to ZooMumba, your crazy zoo adventure! My name is Sonja, and I’ll guide you step by step on how the game works.<br><br>In the shop, you can buy various animal enclosures and place them on your zoo grounds.]]></item>
     <item name="zoo.window.minitutorial.infopage.2"><![CDATA[Click on the enclosure and buy an animal. Make sure to check whether you’re purchasing a male or a female.<br><br> If you have both in the enclosure, you can soon expect baby animals!]]></item>
     <item name="zoo.window.minitutorial.infopage.3"><![CDATA[Take care of your animals regularly, cuddle them, and play with them. That way, they will be happy and satisfied. Give it a try!]]></item>

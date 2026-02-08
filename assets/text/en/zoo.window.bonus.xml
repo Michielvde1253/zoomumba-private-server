@@ -1,17 +1,17 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.bonus">
     <item name="zoo.window.bonus.main.title"><![CDATA[Bonus code]]></item>
     <item name="zoo.window.bonus.main.info"><![CDATA[Do you have a ZooMumba bonus code? Simply enter it here and receive your bonus right away!]]></item>
     <item name="zoo.window.bonus.success.title"><![CDATA[Congratulations,]]></item>
     <item name="zoo.window.bonus.success.info"><![CDATA[Great, you entered the bonus code correctly and received your reward. We wish you lots of fun!]]></item>
-  </category>
-  <category name="zoo.window.bonus.error">
-    <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Error]]></item>
-    <item name="zoo.window.bonus.error.invalid.info"><![CDATA[Unfortunately, the bonus code is incorrect. Please check the code and try again.]]></item>
-    <item name="zoo.window.bonus.error.participated.title"><![CDATA[Error]]></item>
-    <item name="zoo.window.bonus.error.participated.info"><![CDATA[You’ve already claimed this bonus code.]]></item>
-    <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Error]]></item>
-    <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[You’ve entered the bonus code incorrectly too many times. Please wait a few minutes before trying again.]]></item>
+    <category name="zoo.window.bonus.error">
+      <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Error]]></item>
+      <item name="zoo.window.bonus.error.invalid.info"><![CDATA[Unfortunately, the bonus code is incorrect. Please check the code and try again.]]></item>
+      <item name="zoo.window.bonus.error.participated.title"><![CDATA[Error]]></item>
+      <item name="zoo.window.bonus.error.participated.info"><![CDATA[You’ve already claimed this bonus code.]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Error]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[You’ve entered the bonus code incorrectly too many times. Please wait a few minutes before trying again.]]></item>
+    </category>
   </category>
 </language>

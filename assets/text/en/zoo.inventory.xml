@@ -1,44 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
- <item name="zoo.inventory.sell.title"><![CDATA[Prodat]]></item>
- <item name="zoo.inventory.sell.info"><![CDATA[Kolik chceš prodat?]]></item>
- <item name="zoo.inventory.store.error.title"><![CDATA[DŮLEŽITÉ]]></item>
- <item name="zoo.inventory.store.error.info"><![CDATA[Pokud chceš svá zvířata s výběhy přesunout do inventáře, musejí být nejdříve zdravá a spokojená.]]></item>
- <category name="zoo.inventory.tabs">
-  <item name="zoo.inventory.tabs.gifts"><![CDATA[Dárky]]></item>
-  <item name="zoo.inventory.tabs.inventory"><![CDATA[Inventář]]></item>
-  <item name="zoo.inventory.tabs.pawprints"><![CDATA[Tlapky]]></item>
-  <item name="zoo.inventory.tabs.pearls"><![CDATA[Perly]]></item>
-  <item name="zoo.inventory.tabs.specials"><![CDATA[Doplňky]]></item>
-  <item name="zoo.inventory.tabs.trash"><![CDATA[Odpad]]></item>
- </category>
- <category name="zoo.inventory.trash">
-  <item name="zoo.inventory.trash.info"><![CDATA[Ochrana životního prostředí s opětovným využitím: Recykluj odpad v recyklačním zařízení a suroviny použij k výrobě něčeho potřebného.]]></item>
-  <item name="zoo.inventory.trash.amount"><![CDATA[Objem tvého odpadu:]]></item>
- </category>
- <category name="zoo.inventory.pawprints">
-  <item name="zoo.inventory.tabs.pawprints.info"><![CDATA[Čím lépe se o zvířata budeš starat, tím více tlapek nasbíráš. Můžeš pak pomocí nich zkrášlit své výběhy.<br> <br>Aktuální stav získaných tlapek:]]></item>
- </category>
- <category name="zoo.inventory.pearls">
-  <item name="zoo.inventory.tabs.pearls.info"><![CDATA[Čím více se budeš o svá zvířata starat, tím více perel získáš ke zkrášlení svých habitatů.<br><br>Aktuální stav perel:]]></item>
- </category>
- <category name="zoo.inventory.inventory">
-  <item name="zoo.inventory.inventory.empty"><![CDATA[VŠUDE PUSTO PRÁZDNO?<br>Momentálně zeje Tvůj inventář prázdnotou.<br>Proč se nekoukneš do obchodu nebo nezajdeš na safari?]]></item>
-  <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Použij]]></item>
- </category>
- <category name="zoo.inventory.gifts">
-  <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Jméno hráče]]></item>
-  <item name="zoo.inventory.gifts.headerUserID"><![CDATA[ID hráče]]></item>
-  <item name="zoo.inventory.gifts.received"><![CDATA[To je krása! Tvůj kamarád Ti poslal dárek. Rychle ho rozbal!]]></item>
-  <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Rozbalit]]></item>
-  <item name="zoo.inventory.gifts.none"><![CDATA[Jaká škoda! Momentálně nemáš žádné nové dárky ... Ale nebuď smutný, brzy zase něco přijde.]]></item>
- </category>
- <category name="zoo.inventory.move">
-  <item name="zoo.inventory.move.title"><![CDATA[Zaplatit]]></item>
-  <item name="zoo.inventory.move.info"><![CDATA[Kolik zvířat chceš zaplatit?]]></item>
- </category>
- <category name="zoo.inventory.allin">
-  <item name="zoo.inventory.allin.title"><![CDATA[Všechno do inventáře]]></item>
-  <item name="zoo.inventory.allin.confirmation"><![CDATA[Opravdu chceš všechno poslat do inventáře? Upozornění: Tvá zvířata musí být předtím čistá, nakrmená a šťastná.]]></item>
- </category>
+  <category name="zoo.inventory">
+    <item name="zoo.inventory.sell.title"><![CDATA[Sell]]></item>
+    <item name="zoo.inventory.sell.info"><![CDATA[How many do you want to sell?]]></item>
+    <item name="zoo.inventory.store.error.title"><![CDATA[IMPORTANT]]></item>
+    <item name="zoo.inventory.store.error.info"><![CDATA[If you want to move your animals with enclosures to your inventory, they must first be healthy and satisfied.]]></item>
+    <category name="zoo.inventory.tabs">
+      <item name="zoo.inventory.tabs.gifts"><![CDATA[Gifts]]></item>
+      <item name="zoo.inventory.tabs.inventory"><![CDATA[Inventory]]></item>
+      <item name="zoo.inventory.tabs.pawprints"><![CDATA[Paws]]></item>
+      <item name="zoo.inventory.tabs.pearls"><![CDATA[Pearls]]></item>
+      <item name="zoo.inventory.tabs.specials"><![CDATA[Accessories]]></item>
+      <item name="zoo.inventory.tabs.trash"><![CDATA[Trash]]></item>
+    </category>
+    <category name="zoo.inventory.trash">
+      <item name="zoo.inventory.trash.info"><![CDATA[Environmental protection with reuse: Recycle waste at a recycling facility and use the raw materials to make something needed.]]></item>
+      <item name="zoo.inventory.trash.amount"><![CDATA[Amount of trash:]]></item>
+    </category>
+    <category name="zoo.inventory.pawprints">
+      <item name="zoo.inventory.tabs.pawprints.info"><![CDATA[The more you take care of your animals, the more paws you will collect. You can then use them to improve your enclosures.<br> <br>Current amount of paws collected:]]></item>
+    </category>
+    <category name="zoo.inventory.pearls">
+      <item name="zoo.inventory.tabs.pearls.info"><![CDATA[The more you take care of your animals, the more pearls you will earn to beautify your habitats.<br><br>Current pearl status:]]></item>
+    </category>
+    <category name="zoo.inventory.inventory">
+      <item name="zoo.inventory.inventory.empty"><![CDATA[EVERYWHERE IS EMPTY?<br>Your inventory is currently empty.<br>Why don't you check out the store or go on a safari?]]></item>
+      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Use]]></item>
+    </category>
+    <category name="zoo.inventory.gifts">
+      <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Player name]]></item>
+      <item name="zoo.inventory.gifts.headerUserID"><![CDATA[Player ID]]></item>
+      <item name="zoo.inventory.gifts.received"><![CDATA[How beautiful! Your friend sent you a gift. Quickly, unwrap it!]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Expand]]></item>
+      <item name="zoo.inventory.gifts.none"><![CDATA[What a shame! You don't have any new gifts at the moment... But don't be sad, something will come soon.]]></item>
+    </category>
+    <category name="zoo.inventory.move">
+      <item name="zoo.inventory.move.title"><![CDATA[Pay]]></item>
+      <item name="zoo.inventory.move.info"><![CDATA[How many animals do you want to pay for?]]></item>
+    </category>
+    <category name="zoo.inventory.allin">
+      <item name="zoo.inventory.allin.title"><![CDATA[Send all to inventory]]></item>
+      <item name="zoo.inventory.allin.confirmation"><![CDATA[Are you sure you want to send everything to the inventory? Warning: Your animals must be clean, fed, and happy before you can do this.]]></item>
+    </category>
+  </category>
 </language>

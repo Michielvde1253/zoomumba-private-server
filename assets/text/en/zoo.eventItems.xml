@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
- <item name="zoo.eventItems.setName.3"><![CDATA[Jackova lucerna]]></item>
- <item name="zoo.eventItems.setInfo.3"><![CDATA[Strašidelné vyřezávané dýně, kterým se říká Jackovy lucerny, plápolají v temnotě halloweenské noci. Jeho hrozná grimasa je v třepotavém světle svíčky ještě děsivější. Uuuuááááááá. ]]></item>
- <item name="zoo.eventItems.setName.8"><![CDATA[Vánoční stromek]]></item>
- <item name="zoo.eventItems.setInfo.8"><![CDATA[Vyrostla štíhlá jedlička …!  Slavnostně vyzdobený stromek, kterému nechybí ani vánoční dárky.]]></item>
- <item name="zoo.eventItems.setName.12"><![CDATA[Srdíčko]]></item>
- <item name="zoo.eventItems.setInfo.12"><![CDATA[Zajisti si štěstí! Lidé v mnoha zemích věří, že když na Svatého Valentýna políbí kominíka, potká je velké štěstí!]]></item>
- <item name="zoo.eventItems.setName.21"><![CDATA[Narozeninový koláč]]></item>
- <item name="zoo.eventItems.setInfo.21"><![CDATA[Mňam! Čím by byly narozeniny bez kalorické dobroty?]]></item>
- <item name="zoo.eventItems.setName.62"><![CDATA[Narozeninový dort]]></item>
- <item name="zoo.eventItems.setInfo.62"><![CDATA[Mňam! Čím by byly narozeniny bez této kalorické dobroty?]]></item>
- <item name="zoo.eventItems.setName.78"><![CDATA[Kupa velikonočních vajíček]]></item>
- <item name="zoo.eventItems.setInfo.78"><![CDATA[Pěkná sbírka velikonočních vajíček. V minulosti se používala slepičí vajíčka, na která se malovalo. V dnešní době jsou obvyklejší čokoládová vajíčka.]]></item>
- <item name="zoo.eventItems.setName.846"><![CDATA[Duhové vejce]]></item>
- <item name="zoo.eventItems.setInfo.846"><![CDATA[Velikonoční vejce speciálně upravená pro zrakově postižené děti, aby se mohly zúčastnit velikonočního honu. Vajíčka pípají nebo hrají melodii.]]></item>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Jack-o'-lantern]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Spooky carved pumpkins, called Jack-o-lanterns, glow in the darkness of Halloween night. His hideous grimace is made even more terrifying by the flickering candlelight. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[Christmas tree]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[A slender fir tree has grown...! A festively decorated tree, complete with Christmas gifts.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Heart]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Bring on the good luck! People in many countries believe that kissing a chimney sweep on Valentine's Day will bring them great luck!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Birthday cake]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Yum! What would a birthday be without a caloric treat?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Birthday cake]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Yum! What would a birthday be without this caloric treat?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Pile of Easter eggs]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[A nice collection of Easter eggs. In the past, painted chicken eggs were used. Nowadays, chocolate eggs are more common.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Rainbow egg]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Easter eggs specially adapted for visually impaired children to participate in the Easter hunt. The eggs beep or play a melody.]]></item>
+  </category>
 </language>

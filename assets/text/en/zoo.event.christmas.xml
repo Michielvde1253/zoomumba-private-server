@@ -1,40 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
-  <category name="zoo.event.christmas.comic">
-    <item name="zoo.event.christmas.comic.1.header"><![CDATA[Veselé Vánoce!]]></item>
-    <item name="zoo.event.christmas.comic.2"><![CDATA[Odchovej nejprve 8 létajících sobů a potom jednoho Santova Rudolfa pro jeho sáně. Za každého soba, kterého mu přineseš, dostaneš dárek.]]></item>
-    <item name="zoo.event.christmas.comic.1.text"><![CDATA[Od 21. prosince do 2. ledna se vše ve tvé zoo točí kolem Vánoc! Ozdob svůj vánoční stromeček a pomoz mi zachránit Vánoce!]]></item>
-    <item name="zoo.event.christmas.comic.3"><![CDATA[Čas od času ti Santa také daruje ozdobu na tvůj vánoční stromeček. Na závěr si budeš moci svůj ozdobený stromeček nechat.]]></item>
-    <item name="zoo.event.christmas.comic.4"><![CDATA[Hurá, máme tady taky jednu speciální vánoční sbírku! Starej se o svá zvířata a sbírej vánoční předměty. Ty můžeš také použít pro chov sobů!]]></item>
-    <item name="zoo.event.christmas.comic.5.header"><![CDATA[Skvělá překvapení ve vánočním obchodě]]></item>
-    <item name="zoo.event.christmas.comic.5.text"><![CDATA[Proměň svoji zoo v pestrobarevný Zimní svět: s mnoha novými a oblíbenými vánočními dekoracemi.]]></item>
-    <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Veselé Vánoce a mnoho zábavy při Vánoční události!]]></item>
-  </category>
-  <category name="zoo.event.christmas.layer">
-    <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[To je hrůza! Santovi sobi se rozutekli a on teď nemůže rozvážet dárky! Přines mu 8 létajících sobů a Santova Rudolfa a umísti je před jeho sáně. Jako poděkování dostaneš skvělé dárky!]]></item>
-    <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Santa se vydává na cestu do:]]></item>
-    <item name="zoo.event.christmas.layer.congrats"><![CDATA[Vyhrál jsi:]]></item>
-    <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Look at your Christmas tree in the parking lot!]]></item>
-    <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Get some new outfit for your avatar!]]></item>
-    <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Quickly, take a look at your inventory!]]></item>
-    <item name="zoo.event.christmas.layer.success.title"><![CDATA[Thank you!]]></item>
-    <item name="zoo.event.christmas.layer.success.text"><![CDATA[Your reindeer can't wait to get on the road. Thanks to you, the Christmas is saved!]]></item>
-    <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Thank you!]]></item>
-    <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[There are still some of my reindeer missing, however it's time for me to get on the road! Don't worry, I will figure it out - after all, I'm Santa Claus!]]></item>
-    <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[The decorated Christmas tree from your parking lot is now in your inventory.]]></item>
-    <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[First, let's bring 8 magic reindeer to Santa.]]></item>
-    <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Santa already has 8 flying reindeer and all he needs is his Rudolph!]]></item>
-  </category>
-  <category name="zoo.event.christmas.rewards">
-    <item name="zoo.event.christmas.rewards.tree"><![CDATA[Christmas decoration]]></item>
-    <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Christmas fit]]></item>
-    <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Couple of snowy owls]]></item>
-  </category>
-  <category name="zoo.event.christmas.tooltip">
-    <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Number of male magic reindeer in your inventory.]]></item>
-    <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[The number of female flying reindeer in your inventory.]]></item>
-    <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Before you bring Santa his Rudolph, he needs 8 flying reindeer first.]]></item>
-    <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[The number of male Santa Rudolphs in your inventory.]]></item>
-    <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[The number of female Santa Rudolphs in your inventory.]]></item>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[Merry Christmas!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[From December 21st to January 2nd, everything in your zoo revolves around Christmas! Decorate your Christmas tree and help me save Christmas!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[First raise 8 flying reindeer and then one Santa Rudolph for his sleigh. For each reindeer you bring him, you will receive a gift.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[From time to time, Santa will also give you an ornament for your Christmas tree. At the end, you will be able to keep your decorated tree.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Hooray, we have a special Christmas collection here too! Take care of your animals and collect Christmas items. You can also use them to raise reindeer!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Great surprises in the Christmas shop]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Transform your zoo into a colorful Winter World: with lots of new and popular Christmas decorations.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Merry Christmas and have fun at the Christmas event!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[This is terrible! Santa's reindeer have run away and now he can't deliver presents! Bring him 8 flying reindeer and Santa's Rudolph and place them in front of his sleigh. As a thank you, you will receive great gifts!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Santa is on his way to:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[You won:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Look at your Christmas tree in the parking lot!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Get some new outfit for your avatar!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Quick, take a look at your inventory!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Thank you!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Your reindeer can't wait to get on the road. Thanks to you, the Christmas is saved!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Thank you!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[There are still some of my reindeer missing, however it's time for me to get on the road! Don't worry, I will figure it out - after all, I'm Santa Claus!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[The decorated Christmas tree from your parking lot is now in your inventory.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[First, let's bring 8 magic reindeer to Santa.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Santa already has 8 flying reindeer and all he needs is his Rudolph!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Christmas decoration]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Christmas fit]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Couple of snowy owls]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Number of male magic reindeer in your inventory.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[The number of female flying reindeer in your inventory.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Before you bring Santa his Rudolph, he needs 8 flying reindeer first.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[The number of male Santa Rudolphs in your inventory.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[The number of female Santa Rudolphs in your inventory.]]></item>
+    </category>
   </category>
 </language>

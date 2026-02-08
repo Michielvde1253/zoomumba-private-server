@@ -1,7 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
-  <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley will keep all the enclosures sparkling clean. His trick is involving the animals, turning cleaning into a fun game.]]></item>
-  <item name="zoo.assistantItems.setName.3"><![CDATA[Janitor Stanley]]></item>
-  <item name="zoo.assistantItems.setName.4"><![CDATA[Keeper Sonja]]></item>
-  <item name="zoo.assistantItems.setInfo.4"><![CDATA[Keeper Sonja knows how to take perfect care of the animals. Only she can cuddle with all the animals at once.]]></item>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Janitor Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley will keep all the enclosures sparkling clean. His trick is involving the animals, turning cleaning into a fun game.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Keeper Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Keeper Sonja knows how to take perfect care of the animals. Only she can cuddle with all the animals at once.]]></item>
+  </category>
 </language>

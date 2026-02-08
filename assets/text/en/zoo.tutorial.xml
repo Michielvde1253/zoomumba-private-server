@@ -1,81 +1,83 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
-  <category name="zoo.tutorial.tour">
-    <item name="zoo.tutorial.tour.1"><![CDATA[Welcome to ZooMumba, your wacky zoo! My name is Sonja, and I'll guide you step by step on how the game works.<br><br>In the shop, you can buy various animal enclosures, which you can then place on the playing field.]]></item>
-    <item name="zoo.tutorial.tour.2"><![CDATA[Click on the enclosure and buy an animal. Pay attention to whether you're buying a male or a female.<br><br>If you have both in the enclosure, you can expect offspring soon!]]></item>
-    <item name="zoo.tutorial.tour.3"><![CDATA[Take care of your animals regularly, cuddle them, and play with them. That way, they'll be happy and content. Give it a try!]]></item>
-    <item name="zoo.tutorial.tour.5"><![CDATA[Get feed and everything your animals desire in the shop: meat, fruit, grass - just take a look around!]]></item>
-    <item name="zoo.tutorial.tour.4"><![CDATA[You need to connect your enclosures, buildings, and attractions with paths leading to the entrance so visitors can admire everything.]]></item>
-    <item name="zoo.tutorial.tour.6"><![CDATA[From level 2, you can also get buildings and stalls in the shop to make your zoo even more attractive to visitors. <br><br>You can regularly collect your entrance fee earnings from the main building.]]></item>
-    <item name="zoo.tutorial.tour.7"><![CDATA[The more visitors you welcome to your zoo, the more trash you'll have to clean up. <br><br>Keep your zoo clean and collect the trash to keep your visitors happy!]]></item>
-    <item name="zoo.tutorial.tour.8"><![CDATA[The more happy visitors your zoo has, the higher your Zoometer will rise.<br><br>Go for it and build the most amazing zoo in the world – in ZooMumba! Have fun!]]></item>
-  </category>
-  <category name="zoo.tutorial.general">
-    <item name="zoo.tutorial.general.forgive.title"><![CDATA[Skip]]></item>
-    <item name="zoo.tutorial.general.forgive.text"><![CDATA[Do you really want to skip this step?]]></item>
-    <item name="zoo.tutorial.general.award"><![CDATA[Task %currentTask% successfully completed. Total tasks: %totalTasks%]]></item>
-  </category>
-  <category name="zoo.tutorial.title">
-    <item name="zoo.tutorial.title.0"><![CDATA[Welcome to the game ZooMumba!]]></item>
-    <item name="zoo.tutorial.title.1"><![CDATA[Catch the penguins!]]></item>
-    <item name="zoo.tutorial.title.2"><![CDATA[Feed the penguins!]]></item>
-    <item name="zoo.tutorial.title.3"><![CDATA[Care and cuddling]]></item>
-    <item name="zoo.tutorial.title.4"><![CDATA[Build enclosures]]></item>
-    <item name="zoo.tutorial.title.5"><![CDATA[Hooray, let’s get the animals into their enclosures!]]></item>
-    <item name="zoo.tutorial.title.6"><![CDATA[Create a new path]]></item>
-    <item name="zoo.tutorial.title.7"><![CDATA[Get rid of the trash!]]></item>
-    <item name="zoo.tutorial.title.8"><![CDATA[Extra feeding]]></item>
-    <item name="zoo.tutorial.title.9"><![CDATA[Breed the offspring]]></item>
-    <item name="zoo.tutorial.title.10"><![CDATA[Earning opportunity]]></item>
-    <item name="zoo.tutorial.title.11"><![CDATA[You almost got it!]]></item>
-    <item name="zoo.tutorial.title.12"><![CDATA[Yay, you did it!]]></item>
-    <item name="zoo.tutorial.title.13"><![CDATA[Yaay! Now invite your friends!]]></item>
-    <item name="zoo.tutorial.title.14"><![CDATA[Safari is starting!]]></item>
-  </category>
-  <category name="zoo.tutorial.main">
-    <item name="zoo.tutorial.main.0"><![CDATA[May I introduce myself? My name is Sonja, and I’ll explain how this crazy zoo game works. Are you ready? Let’s go, zoo director!]]></item>
-    <item name="zoo.tutorial.main.1"><![CDATA[There’s been a small accident! The penguins escaped from their enclosure! Help me catch them quickly and return them to their enclosure.]]></item>
-    <item name="zoo.tutorial.main.2"><![CDATA[Great! After all that running around, they’re hungry and thirsty. Give them plenty of water and fish. Click on the enclosure, then on the fish and the bucket.]]></item>
-    <item name="zoo.tutorial.main.3"><![CDATA[Click on the brush and clean the enclosure. See? It's sparkling clean now! And just a little more cuddling for these crazy pinnipeds - click on the teddy bear.]]></item>
-    <item name="zoo.tutorial.main.4"><![CDATA[That's awesome! You really know how to take care of the animals! Now you can build enclosures. Go to the shop, click on the enclosure, and place it in your zoo.]]></item>
-    <item name="zoo.tutorial.main.5"><![CDATA[Put a couple of chatty parrots in the aviary. Click on the aviary, select a female and a male from the shop, and place them inside.]]></item>
-    <item name="zoo.tutorial.main.6"><![CDATA[Connect the enclosures with paths. The better the connections, the more attractive your zoo will be. Create a path to the parrot aviary.]]></item>
-    <item name="zoo.tutorial.main.7"><![CDATA[With the influx of tourists, you'll also have a lot of trash. Deal with it by clicking on the shovel.]]></item>
-    <item name="zoo.tutorial.main.8"><![CDATA[Get some feed for all your animals in the shop. Today, you'll need fruit to feed the parrots.]]></item>
-    <item name="zoo.tutorial.main.9"><![CDATA[If you have a male and a female together, click the "Breeding" button and then "Buy Now".]]></item>
-    <item name="zoo.tutorial.main.10"><![CDATA[The buildings in your zoo generate zoogros, so make sure to collect your earnings regularly. Simply click on the zoogros above the building.]]></item>
-    <item name="zoo.tutorial.main.11"><![CDATA[All done. Any questions? Take your time to read the tips. Simply move your mouse around: you'll become even smarter!]]></item>
-    <item name="zoo.tutorial.main.12"><![CDATA[We can shake hands, colleague. You’ve become a proven zoo director. Your gathered knowledge has truly made your zoo famous. And that’s something to celebrate!]]></item>
-    <item name="zoo.tutorial.main.13"><![CDATA[Shh... Did you know? Now you can invite your friends to the game. Just send an email, and you can start playing together!]]></item>
-    <item name="zoo.tutorial.main.14"><![CDATA[Hooray! You've reached level 7: The world of safari is now at your feet. Step on the gas and click on the jeep in the control center, or check the menu in the main building. Go for it!]]></item>
-  </category>
-  <category name="zoo.tutorial.hint">
-    <item name="zoo.tutorial.hint.0"><![CDATA[NONE]]></item>
-    <item name="zoo.tutorial.hint.1"><![CDATA[NONE]]></item>
-    <item name="zoo.tutorial.hint.2"><![CDATA[Feed your animals superfeed and earn extra experience points!]]></item>
-    <item name="zoo.tutorial.hint.3"><![CDATA[You can tell how happy the animals are by the moody cat. The more you take care of them, the happier they’ll be.]]></item>
-    <item name="zoo.tutorial.hint.5"><![CDATA[If you want to breed babies, make sure to place a male and a female in the enclosure.]]></item>
-    <item name="zoo.tutorial.hint.4"><![CDATA[Click on the building to shorten the construction time.]]></item>
-    <item name="zoo.tutorial.hint.6"><![CDATA[Make sure your enclosures are connected by paths. Otherwise, your zoo will lose its attractiveness.]]></item>
-    <item name="zoo.tutorial.hint.7"><![CDATA[Take care of the trash bins to keep your zoo clean.]]></item>
-    <item name="zoo.tutorial.hint.8"><![CDATA[Feed your animals the best feed more often. You'll earn plenty of experience points for that!]]></item>
-    <item name="zoo.tutorial.hint.9"><![CDATA[The pacifier will show you when your breeding is complete.]]></item>
-    <item name="zoo.tutorial.hint.10"><![CDATA[Running low on in-game currency? Get more! Click on the golden bag.]]></item>
-    <item name="zoo.tutorial.hint.13"><![CDATA[Enter the email address of the friend you want to invite to the game.]]></item>
-    <item name="zoo.tutorial.hint.14"><![CDATA[To enter different safari regions, you need varying amounts of fuel. However, you cannot enter closed regions.]]></item>
-  </category>
-  <category name="zoo.tutorial.success">
-    <item name="zoo.tutorial.success.title"><![CDATA[Okay!]]></item>
-    <item name="zoo.tutorial.success.step.1"><![CDATA[Great! The penguins are back in their enclosure. Click the arrow to proceed to the next step.]]></item>
-    <item name="zoo.tutorial.success.step.2"><![CDATA[Yum! Your penguins are now full. Click the arrow to continue!]]></item>
-    <item name="zoo.tutorial.success.step.3"><![CDATA[Great job! The cheerful pinnipeds are now clean and happy. Click the arrow to continue!]]></item>
-    <item name="zoo.tutorial.success.step.4"><![CDATA[Top-notch work! Your enclosure is ready. Click the arrow to move on to the next step.]]></item>
-    <item name="zoo.tutorial.success.step.5"><![CDATA[Yay! You now have parrots in your zoo! Click the arrow to continue!]]></item>
-    <item name="zoo.tutorial.success.step.6"><![CDATA[Keep it up! Visitors are admiring the new enclosures. Click the arrow to continue!]]></item>
-    <item name="zoo.tutorial.success.step.7"><![CDATA[Perfect! From now on, the paths are sparkling clean. Click the arrow to continue!]]></item>
-    <item name="zoo.tutorial.success.step.8"><![CDATA[How wonderful! The parrots are full now. Click the arrow to continue!]]></item>
-    <item name="zoo.tutorial.success.step.9"><![CDATA[How adorable! You've successfully adopted parrot offspring. Click the arrow to continue!]]></item>
-    <item name="zoo.tutorial.success.step.10"><![CDATA[Great! The cash is rolling in! You're almost done! Quickly, click the arrow one more time.]]></item>
-    <item name="zoo.tutorial.success.step.11"><![CDATA[So easy! You're almost a pro at collecting points in the menu. One more click, and you'll be at the end of our little journey.]]></item>
+  <category name="zoo.tutorial">
+    <category name="zoo.tutorial.tour">
+      <item name="zoo.tutorial.tour.1"><![CDATA[Welcome to ZooMumba, your wacky zoo! My name is Sonja, and I'll guide you step by step on how the game works.<br><br>In the shop, you can buy various animal enclosures, which you can then place on the playing field.]]></item>
+      <item name="zoo.tutorial.tour.2"><![CDATA[Click on the enclosure and buy an animal. Pay attention to whether you're buying a male or a female.<br><br>If you have both in the enclosure, you can expect offspring soon!]]></item>
+      <item name="zoo.tutorial.tour.3"><![CDATA[Take care of your animals regularly, cuddle them, and play with them. That way, they'll be happy and content. Give it a try!]]></item>
+      <item name="zoo.tutorial.tour.4"><![CDATA[You need to connect your enclosures, buildings, and attractions with paths leading to the entrance so visitors can admire everything.]]></item>
+      <item name="zoo.tutorial.tour.5"><![CDATA[Get feed and everything your animals desire in the shop: meat, fruit, grass - just take a look around!]]></item>
+      <item name="zoo.tutorial.tour.6"><![CDATA[From level 2, you can also get buildings and stalls in the shop to make your zoo even more attractive to visitors. <br><br>You can regularly collect your entrance fee earnings from the main building.]]></item>
+      <item name="zoo.tutorial.tour.7"><![CDATA[The more visitors you welcome to your zoo, the more trash you'll have to clean up. <br><br>Keep your zoo clean and collect the trash to keep your visitors happy!]]></item>
+      <item name="zoo.tutorial.tour.8"><![CDATA[The more happy visitors your zoo has, the higher your Zoometer will rise.<br><br>Go for it and build the most amazing zoo in the world – in ZooMumba! Have fun!]]></item>
+    </category>
+    <category name="zoo.tutorial.general">
+      <item name="zoo.tutorial.general.forgive.title"><![CDATA[Skip]]></item>
+      <item name="zoo.tutorial.general.forgive.text"><![CDATA[Do you really want to skip this step?]]></item>
+      <item name="zoo.tutorial.general.award"><![CDATA[Task %currentTask% successfully completed. Total tasks: %totalTasks%]]></item>
+    </category>
+    <category name="zoo.tutorial.title">
+      <item name="zoo.tutorial.title.0"><![CDATA[Welcome to the game ZooMumba!]]></item>
+      <item name="zoo.tutorial.title.1"><![CDATA[Catch the penguins!]]></item>
+      <item name="zoo.tutorial.title.2"><![CDATA[Feed the penguins!]]></item>
+      <item name="zoo.tutorial.title.3"><![CDATA[Care and cuddling]]></item>
+      <item name="zoo.tutorial.title.4"><![CDATA[Build enclosures]]></item>
+      <item name="zoo.tutorial.title.5"><![CDATA[Hooray, let’s get the animals into their enclosures!]]></item>
+      <item name="zoo.tutorial.title.6"><![CDATA[Create a new path]]></item>
+      <item name="zoo.tutorial.title.7"><![CDATA[Get rid of the trash!]]></item>
+      <item name="zoo.tutorial.title.8"><![CDATA[Extra feeding]]></item>
+      <item name="zoo.tutorial.title.9"><![CDATA[Breed the offspring]]></item>
+      <item name="zoo.tutorial.title.10"><![CDATA[Earning opportunity]]></item>
+      <item name="zoo.tutorial.title.11"><![CDATA[You almost got it!]]></item>
+      <item name="zoo.tutorial.title.12"><![CDATA[Yay, you did it!]]></item>
+      <item name="zoo.tutorial.title.13"><![CDATA[Yaay! Now invite your friends!]]></item>
+      <item name="zoo.tutorial.title.14"><![CDATA[Safari is starting!]]></item>
+    </category>
+    <category name="zoo.tutorial.main">
+      <item name="zoo.tutorial.main.0"><![CDATA[May I introduce myself? My name is Sonja, and I’ll explain how this crazy zoo game works. Are you ready? Let’s go, zoo director!]]></item>
+      <item name="zoo.tutorial.main.1"><![CDATA[There’s been a small accident! The penguins escaped from their enclosure! Help me catch them quickly and return them to their enclosure.]]></item>
+      <item name="zoo.tutorial.main.2"><![CDATA[Great! After all that running around, they’re hungry and thirsty. Give them plenty of water and fish. Click on the enclosure, then on the fish and the bucket.]]></item>
+      <item name="zoo.tutorial.main.3"><![CDATA[Click on the brush and clean the enclosure. See? It's sparkling clean now! And just a little more cuddling for these crazy pinnipeds - click on the teddy bear.]]></item>
+      <item name="zoo.tutorial.main.4"><![CDATA[That's awesome! You really know how to take care of the animals! Now you can build enclosures. Go to the shop, click on the enclosure, and place it in your zoo.]]></item>
+      <item name="zoo.tutorial.main.5"><![CDATA[Put a couple of chatty parrots in the aviary. Click on the aviary, select a female and a male from the shop, and place them inside.]]></item>
+      <item name="zoo.tutorial.main.6"><![CDATA[Connect the enclosures with paths. The better the connections, the more attractive your zoo will be. Create a path to the parrot aviary.]]></item>
+      <item name="zoo.tutorial.main.7"><![CDATA[With the influx of tourists, you'll also have a lot of trash. Deal with it by clicking on the shovel.]]></item>
+      <item name="zoo.tutorial.main.8"><![CDATA[Get some feed for all your animals in the shop. Today, you'll need fruit to feed the parrots.]]></item>
+      <item name="zoo.tutorial.main.9"><![CDATA[If you have a male and a female together, click the "Breeding" button and then "Buy Now".]]></item>
+      <item name="zoo.tutorial.main.10"><![CDATA[The buildings in your zoo generate zoogros, so make sure to collect your earnings regularly. Simply click on the zoogros above the building.]]></item>
+      <item name="zoo.tutorial.main.11"><![CDATA[All done. Any questions? Take your time to read the tips. Simply move your mouse around: you'll become even smarter!]]></item>
+      <item name="zoo.tutorial.main.12"><![CDATA[We can shake hands, colleague. You’ve become a proven zoo director. Your gathered knowledge has truly made your zoo famous. And that’s something to celebrate!]]></item>
+      <item name="zoo.tutorial.main.13"><![CDATA[Shh... Did you know? Now you can invite your friends to the game. Just send an email, and you can start playing together!]]></item>
+      <item name="zoo.tutorial.main.14"><![CDATA[Hooray! You've reached level 7: The world of safari is now at your feet. Step on the gas and click on the jeep in the control center, or check the menu in the main building. Go for it!]]></item>
+    </category>
+    <category name="zoo.tutorial.hint">
+      <item name="zoo.tutorial.hint.0"><![CDATA[NONE]]></item>
+      <item name="zoo.tutorial.hint.1"><![CDATA[NONE]]></item>
+      <item name="zoo.tutorial.hint.2"><![CDATA[Feed your animals superfeed and earn extra experience points!]]></item>
+      <item name="zoo.tutorial.hint.3"><![CDATA[You can tell how happy the animals are by the moody cat. The more you take care of them, the happier they’ll be.]]></item>
+      <item name="zoo.tutorial.hint.4"><![CDATA[Click on the building to shorten the construction time.]]></item>
+      <item name="zoo.tutorial.hint.5"><![CDATA[If you want to breed babies, make sure to place a male and a female in the enclosure.]]></item>
+      <item name="zoo.tutorial.hint.6"><![CDATA[Make sure your enclosures are connected by paths. Otherwise, your zoo will lose its attractiveness.]]></item>
+      <item name="zoo.tutorial.hint.7"><![CDATA[Take care of the trash bins to keep your zoo clean.]]></item>
+      <item name="zoo.tutorial.hint.8"><![CDATA[Feed your animals the best feed more often. You'll earn plenty of experience points for that!]]></item>
+      <item name="zoo.tutorial.hint.9"><![CDATA[The pacifier will show you when your breeding is complete.]]></item>
+      <item name="zoo.tutorial.hint.10"><![CDATA[Running low on in-game currency? Get more! Click on the golden bag.]]></item>
+      <item name="zoo.tutorial.hint.13"><![CDATA[Enter the email address of the friend you want to invite to the game.]]></item>
+      <item name="zoo.tutorial.hint.14"><![CDATA[To enter different safari regions, you need varying amounts of fuel. However, you cannot enter closed regions.]]></item>
+    </category>
+    <category name="zoo.tutorial.success">
+      <item name="zoo.tutorial.success.title"><![CDATA[Okay!]]></item>
+      <item name="zoo.tutorial.success.step.1"><![CDATA[Great! The penguins are back in their enclosure. Click the arrow to proceed to the next step.]]></item>
+      <item name="zoo.tutorial.success.step.2"><![CDATA[Yum! Your penguins are now full. Click the arrow to continue!]]></item>
+      <item name="zoo.tutorial.success.step.3"><![CDATA[Great job! The cheerful pinnipeds are now clean and happy. Click the arrow to continue!]]></item>
+      <item name="zoo.tutorial.success.step.4"><![CDATA[Top-notch work! Your enclosure is ready. Click the arrow to move on to the next step.]]></item>
+      <item name="zoo.tutorial.success.step.5"><![CDATA[Yay! You now have parrots in your zoo! Click the arrow to continue!]]></item>
+      <item name="zoo.tutorial.success.step.6"><![CDATA[Keep it up! Visitors are admiring the new enclosures. Click the arrow to continue!]]></item>
+      <item name="zoo.tutorial.success.step.7"><![CDATA[Perfect! From now on, the paths are sparkling clean. Click the arrow to continue!]]></item>
+      <item name="zoo.tutorial.success.step.8"><![CDATA[How wonderful! The parrots are full now. Click the arrow to continue!]]></item>
+      <item name="zoo.tutorial.success.step.9"><![CDATA[How adorable! You've successfully adopted parrot offspring. Click the arrow to continue!]]></item>
+      <item name="zoo.tutorial.success.step.10"><![CDATA[Great! The cash is rolling in! You're almost done! Quickly, click the arrow one more time.]]></item>
+      <item name="zoo.tutorial.success.step.11"><![CDATA[So easy! You're almost a pro at collecting points in the menu. One more click, and you'll be at the end of our little journey.]]></item>
+    </category>
   </category>
 </language>

@@ -1,37 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
-  <category name="zoo.wheel.freeturn">
-    <item name="zoo.wheel.freeturn.title"><![CDATA[Extra attempt]]></item>
-    <item name="zoo.wheel.freeturn.text.2"><![CDATA[Click and try your luck!]]></item>
-    <item name="zoo.wheel.freeturn.text.1"><![CDATA[Woohoo, you got an extra attempt!<br> For each day you log in, you’ll get an extra spin on the lucky wheel.]]></item>
-    <item name="zoo.wheel.freeturn.text.3"><![CDATA[Or click on the building with the lucky wheel in the city. Each spin guarantees great rewards!]]></item>
-  </category>
-  <category name="zoo.wheel.extraturn">
-    <item name="zoo.wheel.extraturn.title"><![CDATA[Further attempts]]></item>
-    <item name="zoo.wheel.extraturn.text"><![CDATA[Would you like to buy another attempt?]]></item>
-  </category>
-  <category name="zoo.wheel.price">
-    <item name="zoo.wheel.price.title"><![CDATA[Congratulations!]]></item>
-    <item name="zoo.wheel.price.text.1"><![CDATA[Yay! You won:]]></item>
-    <item name="zoo.wheel.price.text.2"><![CDATA[Spin again, you can only win on the lucky wheel!]]></item>
-  </category>
-  <category name="zoo.wheel.assistant">
-    <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Feeder John for 1 hour]]></item>
-    <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Water Supplier Paul for 1 hour]]></item>
-    <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Janitor Stanley for 1 hour]]></item>
-    <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Breeder Sonja for 1 hour]]></item>
-    <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Garbage Collector George for 1 hour]]></item>
-    <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Cashier Cashy for 1 hour]]></item>
-    <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Feeder John for 3 hours]]></item>
-    <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Water Supplier Paul for 3 hours]]></item>
-    <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Janitor Stanley for 3 hours]]></item>
-    <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Breeder Sonja for 3 hours]]></item>
-    <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Cashier Cashy for 3 hours]]></item>
-    <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Garbage Collector George for 3 hours]]></item>
-  </category>
-  <category name="zoo.wheel.extra">
-    <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[30% EP bonus for a full 8 hours!]]></item>
-    <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100% EP bonus for a full 8 hours!]]></item>
-    <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50% paws bonus for a full 5 hours!]]></item>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Extra attempt]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Woohoo, you got an extra attempt!<br> For each day you log in, you’ll get an extra spin on the lucky wheel.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Click and try your luck!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Or click on the building with the lucky wheel in the city. Each spin guarantees great rewards!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Further attempts]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Would you like to buy another attempt?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Congratulations!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Yay! You won:]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Spin again, you can only win on the lucky wheel!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Feeder John for 1 hour]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Water Supplier Paul for 1 hour]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Janitor Stanley for 1 hour]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Breeder Sonja for 1 hour]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Garbage Collector George for 1 hour]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Cashier Cashy for 1 hour]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Feeder John for 3 hours]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Water Supplier Paul for 3 hours]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Janitor Stanley for 3 hours]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Breeder Sonja for 3 hours]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Garbage Collector George for 3 hours]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Cashier Cashy for 3 hours]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[30% EP bonus for a full 8 hours!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100% EP bonus for a full 8 hours!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50% paws bonus for a full 5 hours!]]></item>
+    </category>
   </category>
 </language>

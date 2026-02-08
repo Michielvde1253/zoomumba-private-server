@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
- <category name="zoo.window.settings">
-  <item name="zoo.window.settings.info"><![CDATA[Ahoj, řediteli zoo!<br>Tady si můžeš hru ZooMumba individuálně nastavit, jak si přeješ! Měj hru takovou, jaká Tě bude nejvíce bavit!]]></item>
-  <item name="zoo.window.settings.on"><![CDATA[zap.]]></item>
-  <item name="zoo.window.settings.off"><![CDATA[vyp.]]></item>
-  <item name="zoo.window.settings.quality.low"><![CDATA[nízká]]></item>
-  <item name="zoo.window.settings.quality.middle"><![CDATA[střední]]></item>
-  <item name="zoo.window.settings.quality.high"><![CDATA[vysoká]]></item>
-  <item name="zoo.window.settings.quality.title"><![CDATA[Grafika]]></item>
-  <item name="zoo.window.settings.quality.info"><![CDATA[Kvalita]]></item>
-  <item name="zoo.window.settings.account.title"><![CDATA[Upravit účet]]></item>
-  <item name="zoo.window.settings.account.info"><![CDATA[Tady můžeš upravit údaje svého herního účtu, např. svoji emailovou adresu.]]></item>
-  <item name="zoo.window.settings.title.tooltipps"><![CDATA[Tooltipy]]></item>
-  <item name="zoo.window.settings.title.visitors"><![CDATA[Návštěvníci]]></item>
-  <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Přání návštěvníků]]></item>
-  <item name="zoo.window.settings.title.sound"><![CDATA[Zvuk]]></item>
-  <item name="zoo.window.settings.title.sound.background"><![CDATA[Hudba]]></item>
-  <item name="zoo.window.settings.title.sound.effects"><![CDATA[Zvukové efekty]]></item>
-  <item name="zoo.window.settings.button.account"><![CDATA[upravit]]></item>
-  <item name="zoo.window.settings.tab.account"><![CDATA[konto]]></item>
-  <item name="zoo.window.settings.tab.config"><![CDATA[Konfigurace]]></item>
-  <item name="zoo.window.settings.tab.buildings"><![CDATA[Hlavní budova]]></item>
-  <item name="zoo.window.settings.buildings.info"><![CDATA[Vyber si podle svého vkusu vchodovou budovu zoo. Máš k dispozici hlavní budovy v závislosti na Tvém levelu.<br>Tak bude Tvá zoo více a více přizpůsobená jen Tobě!]]></item>
-  <item name="zoo.window.settings.anim.title"><![CDATA[Animace]]></item>
-  <item name="zoo.window.settings.anim.info"><![CDATA[Počet animací zvířat]]></item>
-  <item name="zoo.window.settings.saveAssets"><![CDATA[Vyrovnávací paměť]]></item>
- </category>
+  <category name="zoo.window.settings">
+    <item name="zoo.window.settings.info"><![CDATA[Hello, zoo director!<br>Here you can customize ZooMumba to your liking! Have the game that you enjoy the most!]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[on]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[off]]></item>
+    <item name="zoo.window.settings.quality.low"><![CDATA[low]]></item>
+    <item name="zoo.window.settings.quality.middle"><![CDATA[medium]]></item>
+    <item name="zoo.window.settings.quality.high"><![CDATA[high]]></item>
+    <item name="zoo.window.settings.quality.title"><![CDATA[Graphic arts]]></item>
+    <item name="zoo.window.settings.quality.info"><![CDATA[Quality]]></item>
+    <item name="zoo.window.settings.account.title"><![CDATA[Edit account]]></item>
+    <item name="zoo.window.settings.account.info"><![CDATA[Here you can edit your game account details, such as your email address.]]></item>
+    <item name="zoo.window.settings.title.tooltipps"><![CDATA[Tooltips]]></item>
+    <item name="zoo.window.settings.title.visitors"><![CDATA[Visitors]]></item>
+    <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Visitors' wishes]]></item>
+    <item name="zoo.window.settings.title.sound"><![CDATA[Sound]]></item>
+    <item name="zoo.window.settings.title.sound.background"><![CDATA[Music]]></item>
+    <item name="zoo.window.settings.title.sound.effects"><![CDATA[Sound effects]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[to adjust]]></item>
+    <item name="zoo.window.settings.tab.account"><![CDATA[account]]></item>
+    <item name="zoo.window.settings.tab.config"><![CDATA[Configuration]]></item>
+    <item name="zoo.window.settings.tab.buildings"><![CDATA[Main building]]></item>
+    <item name="zoo.window.settings.buildings.info"><![CDATA[Choose the entrance building of the zoo according to your taste. You have the main buildings available depending on your level.<br>This way, your zoo will be more and more tailored to you!]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Animation]]></item>
+    <item name="zoo.window.settings.anim.info"><![CDATA[Number of animal animations]]></item>
+    <item name="zoo.window.settings.saveAssets"><![CDATA[Buffer memory]]></item>
+  </category>
 </language>
