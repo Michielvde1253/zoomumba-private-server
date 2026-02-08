@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bonus">
+    <item name="zoo.window.bonus.main.title"><![CDATA[Bonuscode]]></item>
+    <item name="zoo.window.bonus.main.info"><![CDATA[Heb je een bonuscode voor ZooMumba? Voer hem hier in en ontvang je bonus direct!]]></item>
+    <item name="zoo.window.bonus.success.title"><![CDATA[Gefeliciteerd,]]></item>
+    <item name="zoo.window.bonus.success.info"><![CDATA[Geweldig, je hebt de bonuscode correct ingevoerd en je beloning ontvangen. We wensen je veel plezier!]]></item>
+    <category name="zoo.window.bonus.error">
+      <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Fout]]></item>
+      <item name="zoo.window.bonus.error.invalid.info"><![CDATA[Helaas is de bonuscode onjuist. Controleer de code en probeer het opnieuw.]]></item>
+      <item name="zoo.window.bonus.error.participated.title"><![CDATA[Fout]]></item>
+      <item name="zoo.window.bonus.error.participated.info"><![CDATA[Je hebt deze bonuscode al geclaimd.]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Fout]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[Je hebt de bonuscode te vaak onjuist ingevoerd. Wacht een paar minuten voordat je het opnieuw probeert.]]></item>
+    </category>
+  </category>
+</language>

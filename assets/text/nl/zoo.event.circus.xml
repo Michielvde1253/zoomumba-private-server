@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Welkom bij het reizende circus! Maak kennis met de Mysteriebox! Koop één box en ontvang één van de 10 dieren. Je kunt maximaal 20 boxen tegelijk hebben en elke box kan binnen 5 uur worden geopend. Veel plezier!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Dieren:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Van harte gefeliciteerd!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[De volgende dieren zijn aan je inventaris toegevoegd: %dier%. Verzamel nog meer mysterieuze kratten om nog meer unieke dieren te krijgen!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Oh, wat jammer!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Je hebt al 20 mysterieuze kisten. Wacht tot er eentje opengaat en pak dan een nieuwe kist.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[De mystery box wordt geopend voor: %bedrag%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Klik om uw dieren te bekijken.]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Welkom terug!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Terwijl je weg was, kregen je dieren dorst van de mysterieuze krat. Fokster Sonia heeft voor ze gezorgd en ze naar haar inventaris gebracht. Neem snel een kijkje!]]></item>
+  </category>
+</language>

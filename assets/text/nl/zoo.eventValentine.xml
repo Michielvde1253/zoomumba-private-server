@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Welkom bij ons Valentijnsdag-evenement! Van 8 tot en met 15 februari heerst er een romantische sfeer! Veel plezier met ons Valentijnsdag-spel en maak kans op fantastische prijzen!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Bekijk hoe je dat moet doen:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Verzorg je dieren en verzamel Valentijnsdag-items: harten, liefdesbriefjes en Cupido's pijl en boog. Gebruik ze om schattige verrassingen te winnen tijdens het romantische Valentijnsdagspel!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Met de verzamelde voorwerpen kun je over het speelveld bewegen en prijzen verzamelen: majestueuze herten en voorraden Tolija-essentie en groeidrankjes wachten op je!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Neem ook eens een kijkje in de winkel - daar vind je handige boosters die zorgen voor nog meer succes en plezier in het spel!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Verdubbelt het aantal Valentijnsdagartikelen gedurende 1 uur.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Start het bordspel opnieuw.]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Ons Valentijnsdag-evenement is bijna voorbij! Je ontvangt geen strikjes, brieven of hartjes meer. Maar geef niet op! Je hebt nog zoveel tijd om Valentijnsdag-beloningen te winnen:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Nu je het hert en de hinde hebt gewonnen, kun je het bordspel opnieuw starten! Klik gewoon op het groene vinkje of de nieuwe knop op het spelbord!]]></item>
+    </category>
+  </category>
+</language>

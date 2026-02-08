@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.avatar">
+    <item name="zoo.avatar.heads"><![CDATA[Maak hier je eigen avatar en laat hem aan je vrienden zien! Heb je je geslacht al gekozen? Bepaal dan je gezichtskenmerken!]]></item>
+    <item name="zoo.avatar.eyes"><![CDATA[Het oog is de spiegel van de ziel! Welke passen het beste bij jou?]]></item>
+    <item name="zoo.avatar.mouths"><![CDATA[Glimlachen, lachen, grijnzen... Je mond laat anderen zien hoe je je voelt!]]></item>
+    <item name="zoo.avatar.hair"><![CDATA[Je haarkleur en kapsel kunnen je hele uiterlijk veranderen!]]></item>
+    <item name="zoo.avatar.hats"><![CDATA[Een hoofddeksel kan je er belangrijk uit laten zien!]]></item>
+    <item name="zoo.avatar.clothes"><![CDATA[Kies de juiste outfit voor de dierentuin.]]></item>
+  </category>
+</language>

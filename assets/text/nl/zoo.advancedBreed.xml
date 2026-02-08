@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Hallo! Ik ben Soňa Starostlivá, een verpleegster hier in de dierentuin. Kijk je ernaar uit om met de nieuwe schattige welpjes te fokken? Ik zal uitleggen hoe het werkt! Allereerst moet je beslissen met welke diersoort je wilt fokken.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Kies twee volwassen dieren uit je inventaris die ouders zullen worden. Hoe zeldzamer ze zijn, hoe groter de kans dat ze een nog zeldzamer jong krijgen. De ouders moeten echter wel bij mij blijven voor deze fokpoging.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Door extra verzamelde items, sterk voer, supervoer of supermedicijnen te gebruiken, vergroot je je kans om een ​​bijzonder zeldzame baby groot te brengen. Hoe meer hartjes het item heeft, hoe groter de kans!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Je bent bijna klaar met de voorbereidingen! Controleer je keuzes nog even voordat het echt begint. Wil je iets veranderen? Geen probleem, gebruik gewoon de "Terug"-knop!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[Bij het fokexperiment werden de volgende dieren en materialen gebruikt:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Fokstation klaar]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Dit is waar het wordt gefokt.]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Er is een baby geboren!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[De baby's zijn er!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Begin met fokken]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Gebruik essence]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Wil je echt beginnen met fokken zonder supplementen? Denk er goed over na: met supplementen heb je een grotere kans op een zeldzaam nageslacht.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Je bent midden in de voorbereidingen. Wil je het broedstation echt verlaten?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Fokstation]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Deze dieren krijgen op dit moment jongen:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Resterende tijd:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Essentie van Tolija]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Tolija-extract verkort de kweekduur met 50%.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hoera - je hebt een baby! Je vindt dit schattige kleintje in je inventaris:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hoera - je hebt een kindje! Je vindt dit schattige duiveltje in je inventaris:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Breng het kleintje naar de dierenopvang om daar op te groeien.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Breng de kleintjes naar de dierenopvang, zodat ze daar kunnen opgroeien.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Waarschuwing: Er wordt momenteel gefokt! Als u het station nu naar uw inventaris verplaatst, wordt het proces onderbroken en verliest u alle dieren en supplementen. Weet u zeker dat u het nu wilt verplaatsen?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Waarschuwing: Er wordt momenteel gefokt! Als u het station nu verkoopt, wordt het proces onderbroken en gaan alle dieren en supplementen verloren. Weet u zeker dat u het station nu wilt verkopen?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Als het fokproces na afloop van het evenement is voltooid, ontvangt u slechts 1 jong.]]></item>
+    </category>
+  </category>
+</language>

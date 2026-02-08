@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop">
+    <category name="zoo.shop.category">
+      <item name="zoo.shop.category.animals"><![CDATA[Dieren]]></item>
+      <item name="zoo.shop.category.cages"><![CDATA[Leefgebieden]]></item>
+      <item name="zoo.shop.category.stores"><![CDATA[Gebouwen]]></item>
+      <item name="zoo.shop.category.deco"><![CDATA[Decoraties]]></item>
+      <item name="zoo.shop.category.resources"><![CDATA[Voer]]></item>
+      <item name="zoo.shop.category.assistants"><![CDATA[Assistenten]]></item>
+      <item name="zoo.shop.category.specials"><![CDATA[Accessoires]]></item>
+      <item name="zoo.shop.category.roads"><![CDATA[Wegen]]></item>
+      <item name="zoo.shop.category.material"><![CDATA[Materiaal]]></item>
+    </category>
+    <category name="zoo.shop.tabbar">
+      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Zo kom je bij de werkplaats.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Hallo, ik ben Tina en ik zorg voor jullie baby's. Ze groeien op tot volwassen dieren in mijn dierenopvang. Kies de baby die je wilt grootbrengen uit je voorraad.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Klaar om te groeien]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Dit is de plek waar het welpje opgroeit.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Je welp is groot geworden!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Salarisverhoging]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Gebruik essence]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Verhoog onmiddellijk]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Dierenfokkerij]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Resterende tijd:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Verhoog onmiddellijk]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Voor je het weet, is je kleintje al volwassen!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Groeidrankje verkort de broedtijd met 50%.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Hoera! Deze baby is groot geworden en aan je inventaris toegevoegd:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Let op: hier groeit een baby! Als u de babykamer naar de inventaris verplaatst, wordt het proces onderbroken. Weet u zeker dat u dit nu wilt doen?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Let op: Er groeit hier een baby! Als u de babykamer nu verkoopt, wordt het proces onderbroken. Weet u zeker dat u deze nu wilt verkopen?]]></item>
+    </category>
+  </category>
+</language>

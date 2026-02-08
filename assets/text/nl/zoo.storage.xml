@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.storage">
+    <category name="zoo.storage.moreSpace">
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Breid je dierentuin uit!]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Je kunt dit item alleen kopen als je %neededExpansion% dierentuinuitbreidingen hebt. Momenteel heb je slechts %userExpansion% dierentuinuitbreidingen. Wil je je dierentuin nu uitbreiden zodat je dit item kunt kopen?]]></item>
+    </category>
+    <category name="zoo.storage.firstExpansion">
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[Watertoren en magazijn]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Geweldig! Je hebt eindelijk genoeg ruimte om je eerste watertoren en opslagfaciliteit te bouwen. Beide items zijn gratis beschikbaar in je inventaris. Laat het spel beginnen!]]></item>
+    </category>
+    <category name="zoo.storage.buy">
+      <item name="zoo.storage.buy.belowWater"><![CDATA[De maximale capaciteit van de watertoren is %capaciteit%. Deze waarde kan niet worden verhoogd, zelfs niet door dit gebouw aan te schaffen. Wilt u het nog steeds kopen?]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[De maximale capaciteit van uw voorraad is %capaciteit%. Deze waarde kan niet worden verhoogd, zelfs niet door dit gebouw aan te schaffen. Wilt u het toch kopen?]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[Je hebt nog %capaciteit% van je watercapaciteit beschikbaar. Je kunt niet meer opslaan. Dit gebouw zal je capaciteit niet vergroten. Wil je het nog steeds kopen?]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[U heeft nog %capaciteit% van uw opslagcapaciteit beschikbaar. U kunt niet meer opslaan. Dit gebouw zal uw capaciteit niet vergroten. Wilt u het toch kopen?]]></item>
+    </category>
+    <category name="zoo.storage.capacity">
+      <item name="zoo.storage.capacity.title"><![CDATA[Opslagcapaciteit]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[Je dieren hebben veel voer en water nodig. Hier kun je zien hoeveel je van elk beschikbaar hebt en hoeveel je nog kunt bijbestellen.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Water - capaciteit]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Voedingscapaciteit]]></item>
+    </category>
+  </category>
+</language>

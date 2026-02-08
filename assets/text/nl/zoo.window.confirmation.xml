@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.confirmation">
+    <item name="zoo.window.confirmation.closegame.title"><![CDATA[Eindspel]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[Deze dierentuin is nog niet beschikbaar. Je kunt hem ontgrendelen door %level% uitbreidingen te bereiken in de volgende dierentuin: %zooName%. Of ontgrendel hem direct voor %zooDollar% zoodollars.]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[Om deze dierentuin te ontgrendelen, moet je level %level% hebben bereikt. Of ontgrendel hem direct voor %zooDollar% zoodollars.]]></item>
+    <item name="zoo.window.confirmation.map.level"><![CDATA[Je moet level %level% hebben bereikt om deze dierentuin te ontgrendelen.]]></item>
+    <item name="zoo.window.confirmation.map.buy"><![CDATA[Wil je een dierentuinuitbreiding kopen?]]></item>
+    <item name="zoo.window.confirmation.title.buy"><![CDATA[Kopen]]></item>
+    <item name="zoo.window.confirmation.closegame.info"><![CDATA[Wil je ZooMumba echt verlaten?]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.title"><![CDATA[Koop artikelen]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.info"><![CDATA[Wil je dit artikel echt kopen?]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.title"><![CDATA[Koop zet]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.info"><![CDATA[Wil je deze stap zetten voor zoodollars?]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.title"><![CDATA[Verkopen]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Wil je dit artikel echt verkopen?]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[Waarschuwing]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[Als je de behuizing in je inventaris plaatst, verliest deze zijn actie-upgrade.<br><br>Wil je doorgaan?]]></item>
+    <category name="zoo.window.confirmation.gift">
+      <item name="zoo.window.confirmation.gift.title"><![CDATA[Aandacht!]]></item>
+      <item name="zoo.window.confirmation.gift.info"><![CDATA[Je hebt je 5 vrienden nog niet gekozen! Als je doorgaat, raak je je cadeaus kwijt. Dat zou jammer zijn... Wil je toch doorgaan?]]></item>
+    </category>
+  </category>
+</language>

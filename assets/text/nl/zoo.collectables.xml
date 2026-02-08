@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.collectables">
+    <category name="zoo.collectables.forgottenZoo">
+      <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Hulpmiddelen]]></item>
+      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Verzamel gereedschap en ruil het in voor uitbreidingen voor je verborgen dierentuin.<br><br>Je krijgt gereedschap in de safari en bij het rad van fortuin. Ga vervolgens naar de winkel en ruil het in.<br><br>Je bezit tot nu toe zoveel gereedschap:]]></item>
+      <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[Wil je je verborgen dierentuin uitbreiden voor %tools% tools en %zd% zoodollars?]]></item>
+    </category>
+    <category name="zoo.collectables.easterEvent">
+      <item name="zoo.collectables.easterEvent.title"><![CDATA[Paaseieren]]></item>
+      <item name="zoo.collectables.easterEvent.text"><![CDATA[Van 21 tot en met 27 april vind je een overvloed aan paaseieren! Verzamel ze en ruil ze in voor paasdecoraties voor je verblijf, paashaasjes en verblijven. Je huidige paasei-status:]]></item>
+    </category>
+    <category name="zoo.collectables.meadow">
+      <item name="zoo.collectables.meadow.main.title"><![CDATA[Wei]]></item>
+      <item name="zoo.collectables.meadow.main.text"><![CDATA[In een prachtige, kleurrijke weide groeien veel grassen, bloemen en sappige klaver.]]></item>
+      <item name="zoo.collectables.meadow.flower.title"><![CDATA[Bloemen]]></item>
+      <item name="zoo.collectables.meadow.flower.text"><![CDATA[In de lente veranderen de weilanden in een zee van wilde bloemen. En uw dieren zijn er dol op!]]></item>
+      <item name="zoo.collectables.meadow.log.title"><![CDATA[Stomp]]></item>
+      <item name="zoo.collectables.meadow.log.text"><![CDATA[Een overgangsweide ontstaat door het kappen van bomen. Zodra het bos verdwenen is, zullen er eerst kleine grasscheuten groeien.]]></item>
+      <item name="zoo.collectables.meadow.gnome.title"><![CDATA[Elfachtig]]></item>
+      <item name="zoo.collectables.meadow.gnome.text"><![CDATA[De weilanden zijn ook vaak de thuisbasis van elfen, die 's nachts uit hun schuilplaatsen tevoorschijn komen. Deze schuwe maar vriendelijke wezens delen hun nesten vaak met hazen.]]></item>
+      <item name="zoo.collectables.meadow.mushroom.title"><![CDATA[Paddenstoelen]]></item>
+      <item name="zoo.collectables.meadow.mushroom.text"><![CDATA[Paddenstoelen zijn smakelijke paddenstoelen en groeien bijvoorbeeld in Noord-Amerika.]]></item>
+      <item name="zoo.collectables.meadow.sign.title"><![CDATA[Wilde weide]]></item>
+      <item name="zoo.collectables.meadow.sign.text"><![CDATA[Als een "overgangsweide" lange tijd niet wordt onderhouden, zal er al snel weer een wild bos op groeien.]]></item>
+    </category>
+    <category name="zoo.collectables.ice">
+      <item name="zoo.collectables.ice.main.title"><![CDATA[Ijs]]></item>
+      <item name="zoo.collectables.ice.main.text"><![CDATA[Niet alleen pinguïns en ijsberen houden van koude klimaten, maar ook de poolvos geniet van ijs en sneeuw!]]></item>
+      <item name="zoo.collectables.ice.popsicle.title"><![CDATA[IJsje]]></item>
+      <item name="zoo.collectables.ice.popsicle.text"><![CDATA[Weinigen weten dit, maar pinguïns zijn ook dol op ijsjes en stelen ze soms van toeristen.]]></item>
+      <item name="zoo.collectables.ice.cubes.title"><![CDATA[IJsblokjes]]></item>
+      <item name="zoo.collectables.ice.cubes.text"><![CDATA[IJsblokjes zijn de perfecte manier om een ​​warme drank af te koelen. Ze zorgen voor verfrissing op een warme zomerdag.]]></item>
+      <item name="zoo.collectables.ice.skates.title"><![CDATA[Vleet]]></item>
+      <item name="zoo.collectables.ice.skates.text"><![CDATA[IJsschaatsen is een fantastische sport. Historici geloven dat het zo'n 4000 jaar geleden is uitgevonden. De Finnen hebben waarschijnlijk bijgedragen aan de uitvinding.]]></item>
+      <item name="zoo.collectables.ice.igloo.title"><![CDATA[Iglo]]></item>
+      <item name="zoo.collectables.ice.igloo.text"><![CDATA[Iglo betekent huis voor de Eskimo's, de oorspronkelijke bewoners van Noord-Amerika.]]></item>
+      <item name="zoo.collectables.ice.sign.title"><![CDATA[IJspegels]]></item>
+      <item name="zoo.collectables.ice.sign.text"><![CDATA[De glinsterende ijspegels vormen zich bij vrieskou. Natuurlijk smelt ze door de warmte van de zon weer.]]></item>
+    </category>
+    <category name="zoo.collectables.bamboo">
+      <item name="zoo.collectables.bamboo.main.title"><![CDATA[Bamboeplantage]]></item>
+      <item name="zoo.collectables.bamboo.main.text"><![CDATA[Bamboe is het enige voedsel voor panda's en groeit voornamelijk in Azië.]]></item>
+      <item name="zoo.collectables.bamboo.branches.title"><![CDATA[Bamboe tak]]></item>
+      <item name="zoo.collectables.bamboo.branches.text"><![CDATA[Bamboe is een verzamelnaam voor verschillende geslachten van houtachtige grassen.]]></item>
+      <item name="zoo.collectables.bamboo.lantern.title"><![CDATA[Lampion]]></item>
+      <item name="zoo.collectables.bamboo.lantern.text"><![CDATA[Hang een mooie lantaarn in je bamboetuin en verlicht de nacht met een zacht licht.]]></item>
+      <item name="zoo.collectables.bamboo.gong.title"><![CDATA[Gong]]></item>
+      <item name="zoo.collectables.bamboo.gong.text"><![CDATA[De gong is een mooie decoratie voor je bamboetuin. En dat exotische geluid... lijkt wel gemaakt om meditatie op gang te brengen.]]></item>
+      <item name="zoo.collectables.bamboo.statue.title"><![CDATA[Aziatisch standbeeld]]></item>
+      <item name="zoo.collectables.bamboo.statue.text"><![CDATA[Een beeld in Aziatische stijl zal een sfeer van rust en vrede toevoegen aan de bamboetuin.]]></item>
+      <item name="zoo.collectables.bamboo.sign.title"><![CDATA[Bamboe vleugels]]></item>
+      <item name="zoo.collectables.bamboo.sign.text"><![CDATA[Mensen maken al heel lang vleugels van bamboe. Het lichte maar sterke materiaal stelt hen in staat ongelooflijke hoogtes te bereiken.]]></item>
+    </category>
+    <category name="zoo.collectables.parrot">
+      <item name="zoo.collectables.parrot.main.title"><![CDATA[Papegaai]]></item>
+      <item name="zoo.collectables.parrot.main.text"><![CDATA[Sommige papegaaien staan ​​erom bekend dat ze behoorlijk spraakzaam zijn. Sommige spreken zelfs in complete zinnen.]]></item>
+      <item name="zoo.collectables.parrot.plush.title"><![CDATA[Pluche papegaai]]></item>
+      <item name="zoo.collectables.parrot.plush.text"><![CDATA[Papegaaien zijn erg sociale en populaire huisdieren, maar ze hebben wel veel ruimte nodig om rond te rennen.]]></item>
+      <item name="zoo.collectables.parrot.paw.title"><![CDATA[Papegaaienklauw]]></item>
+      <item name="zoo.collectables.parrot.paw.text"><![CDATA[Papegaaien hebben eigenlijk vier klauwen. Twee aan de voorkant en twee aan de achterkant. Zo vallen ze niet van de tak, zelfs niet als ze in slaap vallen.]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.title"><![CDATA[Blackjack]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.text"><![CDATA[Papegaaien zijn in werkelijkheid piraten die door kwaadaardige tovenaars in kleurrijke vogels zijn veranderd.]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.title"><![CDATA[Peru]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.text"><![CDATA[De jungles van het Amazonegebied in Peru zijn de thuisbasis van vele papegaaien, en het regenwoud biedt hen een ideale leefomgeving.]]></item>
+      <item name="zoo.collectables.parrot.sign.title"><![CDATA[Fruitliefhebbers]]></item>
+      <item name="zoo.collectables.parrot.sign.text"><![CDATA[Papegaaien eten graag zaden en noten, maar ze zijn ook dol op fruit. Het maakt niet uit of het vers of gedroogd is, als het maar zoet is.]]></item>
+    </category>
+    <category name="zoo.collectables.rabbit">
+      <item name="zoo.collectables.rabbit.main.title"><![CDATA[Haas]]></item>
+      <item name="zoo.collectables.rabbit.main.text"><![CDATA[Hazen leven in uiteenlopende gebieden, van woestijnen en bossen tot koude poolstreken.]]></item>
+      <item name="zoo.collectables.rabbit.plush.title"><![CDATA[Pluche haas]]></item>
+      <item name="zoo.collectables.rabbit.plush.text"><![CDATA[Hazen bestaan ​​al eeuwen. Fossielen tonen aan dat er 60 miljoen jaar geleden al haasachtige wezens in China leefden.]]></item>
+      <item name="zoo.collectables.rabbit.paw.title"><![CDATA[Konijnenpoot]]></item>
+      <item name="zoo.collectables.rabbit.paw.text"><![CDATA[Konijnenpootjes worden in veel culturen als een symbool van geluk beschouwd.]]></item>
+      <item name="zoo.collectables.rabbit.paint.title"><![CDATA[Kleurenpalet]]></item>
+      <item name="zoo.collectables.rabbit.paint.text"><![CDATA[Eén keer per jaar komt de Paashaas langs en verstopt chocolade en gekleurde eieren.]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.title"><![CDATA[Portugal]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.text"><![CDATA[De Europese wilde haas leefde oorspronkelijk in Portugal, Spanje en Noordwest-Afrika, maar heeft zich inmiddels ook in Australië gevestigd.]]></item>
+      <item name="zoo.collectables.rabbit.sign.title"><![CDATA[Groente-experts]]></item>
+      <item name="zoo.collectables.rabbit.sign.text"><![CDATA[Hazen zijn vegetariërs. Ze eten het liefst gras, kruiden, sla en kleurrijke bloemen.]]></item>
+    </category>
+    <category name="zoo.collectables.penguin">
+      <item name="zoo.collectables.penguin.main.title"><![CDATA[Pinguïn]]></item>
+      <item name="zoo.collectables.penguin.main.text"><![CDATA[Pinguïns zijn zeevogels, ook al kunnen ze niet vliegen.]]></item>
+      <item name="zoo.collectables.penguin.plush.title"><![CDATA[Pluche pinguïn]]></item>
+      <item name="zoo.collectables.penguin.plush.text"><![CDATA[Pinguïns zijn zeer sociale en competitieve dieren die vaak graag onder water dansen.]]></item>
+      <item name="zoo.collectables.penguin.paw.title"><![CDATA[Pinguïnvin]]></item>
+      <item name="zoo.collectables.penguin.paw.text"><![CDATA[Een pinguïn loopt op het land onhandig, maar in het water is hij een behendige zwemmer en duiker.]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.title"><![CDATA[Smoking]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.text"><![CDATA[Sommige mensen noemen een smoking ook wel een pinguïnrok, omdat hij qua uiterlijk sterk lijkt op een pinguïn.]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.title"><![CDATA[Antarctica]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.text"><![CDATA[De subpolaire eilanden zijn de thuisbasis van een van de grootste en zwaarste pinguïns: de keizerspinguïn.]]></item>
+      <item name="zoo.collectables.penguin.sign.title"><![CDATA[Visliefhebbers]]></item>
+      <item name="zoo.collectables.penguin.sign.text"><![CDATA[Pinguïns zijn echte fijnproevers. Ze hebben een voorkeur voor vis, maar ze smullen ook van zeedieren.]]></item>
+    </category>
+    <category name="zoo.collectables.giantTurtle">
+      <item name="zoo.collectables.giantTurtle.main.title"><![CDATA[Reuzenschildpad]]></item>
+      <item name="zoo.collectables.giantTurtle.main.text"><![CDATA[Schildpadden zijn reptielen. Ze leven meestal in of nabij water. De grootste schildpadden zijn waterschildpadden.]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.title"><![CDATA[Pluche schildpad]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.text"><![CDATA[Jonge reuzenschildpadden communiceren met hun broertjes en zusjes terwijl ze nog in het ei zitten. Ze botsen gewoon met hun eierschalen tegen elkaar aan.]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.title"><![CDATA[Schildpadspoot]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.text"><![CDATA[De poten van een waterschildpad hebben zwemvliezen tussen de tenen, terwijl de poten van landschildpadden meer op stompjes lijken.]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.title"><![CDATA[Schommel]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.text"><![CDATA[Olifantschildpadden kunnen meer dan 100 jaar oud worden, maar ze krijgen nooit een grijze baard.]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.title"><![CDATA[Ecuador]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.text"><![CDATA[Olifantschildpadden komen van de Galapagoseilanden, die tot Ecuador in Zuid-Amerika behoren.]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.title"><![CDATA[Voedingsdeskundigen]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.text"><![CDATA[De meeste schildpadden zijn alleseters, maar sommige soorten specialiseren zich in slechts één soort voedsel, zoals kwallen.]]></item>
+    </category>
+    <category name="zoo.collectables.lion">
+      <item name="zoo.collectables.lion.main.title"><![CDATA[Leeuw]]></item>
+      <item name="zoo.collectables.lion.main.text"><![CDATA[Leeuwen zijn na tijgers de grootste katachtigen ter wereld.]]></item>
+      <item name="zoo.collectables.lion.plush.title"><![CDATA[Pluche leeuw]]></item>
+      <item name="zoo.collectables.lion.plush.text"><![CDATA[Witte leeuwen zijn eigenlijk volkomen normale leeuwen, alleen is hun vacht door de zon gebleekt.]]></item>
+      <item name="zoo.collectables.lion.paw.title"><![CDATA[Leeuwenpoot]]></item>
+      <item name="zoo.collectables.lion.paw.text"><![CDATA[Met hun grote poten dwingen ze respect af en met hun klauwen grijpen ze hun prooi stevig vast.]]></item>
+      <item name="zoo.collectables.lion.crown.title"><![CDATA[Kroon]]></item>
+      <item name="zoo.collectables.lion.crown.text"><![CDATA[Hoewel ze savannes en steppen bewonen, worden ze vaak de "koningen van de jungle" genoemd.]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.title"><![CDATA[Tanzania]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.text"><![CDATA[Tegenwoordig leven ze voornamelijk in nationale parken, zoals in Tanzania of aan de kust van Oost-Afrika.]]></item>
+      <item name="zoo.collectables.lion.sign.title"><![CDATA[Steakliefhebbers]]></item>
+      <item name="zoo.collectables.lion.sign.text"><![CDATA[Leeuwen zijn, net als alle katachtigen, carnivoren. Ze jagen op gnoes, zebra's en buffels.]]></item>
+    </category>
+    <category name="zoo.collectables.peacock">
+      <item name="zoo.collectables.peacock.main.title"><![CDATA[Pauw]]></item>
+      <item name="zoo.collectables.peacock.main.text"><![CDATA[Pauwen zijn indrukwekkende exotische vogels. Ze lopen vrij rond in veel dierentuinen en parken.]]></item>
+      <item name="zoo.collectables.peacock.plush.title"><![CDATA[Pluche pauw]]></item>
+      <item name="zoo.collectables.peacock.plush.text"><![CDATA[De staartveren van een pauw zijn prachtig. In de Griekse mythologie symboliseren de ogen van een pauw de beschermer Argus, die de geliefde van Zeus, Io, bewaakte.]]></item>
+      <item name="zoo.collectables.peacock.paw.title"><![CDATA[Pauwenklauwen]]></item>
+      <item name="zoo.collectables.peacock.paw.text"><![CDATA[Mannelijke pauwen zijn nogal ijdel. Ze kunnen urenlang bezig zijn met het kammen van hun prachtige veren met hun klauwen. En uiteindelijk spreiden ze die in al hun glorie uit.]]></item>
+      <item name="zoo.collectables.peacock.mirror.title"><![CDATA[Spiegel]]></item>
+      <item name="zoo.collectables.peacock.mirror.text"><![CDATA[Pauwen kunnen behoorlijk coole trucjes uithalen om de aandacht van vrouwtjes te trekken, en vrouwtjes flirten dan ook graag met ze.]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.title"><![CDATA[India]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.text"><![CDATA[In India is de pauw sinds 1963 de nationale vogel. Indiërs waarderen deze vogels omdat ze giftige cobra's bejagen.]]></item>
+      <item name="zoo.collectables.peacock.sign.title"><![CDATA[Graanliefhebber]]></item>
+      <item name="zoo.collectables.peacock.sign.text"><![CDATA[Pauwen eten voornamelijk graan, maar zo nu en dan eten ze ook bloemen en af ​​en toe een kever.]]></item>
+    </category>
+    <category name="zoo.collectables.panda">
+      <item name="zoo.collectables.panda.main.title"><![CDATA[Panda]]></item>
+      <item name="zoo.collectables.panda.main.text"><![CDATA[De reuzenpanda is een zwart-witte beer die oorspronkelijk uit China komt.]]></item>
+      <item name="zoo.collectables.panda.plush.title"><![CDATA[Pluche panda]]></item>
+      <item name="zoo.collectables.panda.plush.text"><![CDATA[Babypanda's zijn inderdaad heel klein. Ze wegen slechts 100 tot 200 gram en zijn ongeveer 15-17 cm lang.]]></item>
+      <item name="zoo.collectables.panda.paw.title"><![CDATA[Panda-poot]]></item>
+      <item name="zoo.collectables.panda.paw.text"><![CDATA[Reuzenpanda's hebben een kromme duim. Die gebruiken ze om voedsel vast te houden.]]></item>
+      <item name="zoo.collectables.panda.bowl.title"><![CDATA[Eetstokjes]]></item>
+      <item name="zoo.collectables.panda.bowl.text"><![CDATA[Slimme panda's gebruiken bamboestokjes om hun voedsel aan te prikken, net zoals mensen in Azië met eetstokjes eten.]]></item>
+      <item name="zoo.collectables.panda.flagChina.title"><![CDATA[China]]></item>
+      <item name="zoo.collectables.panda.flagChina.text"><![CDATA[De laatste wilde panda's leven in China, het grootste land ter wereld. Helaas zijn er nog maar een paar van deze reuzenpanda's over.]]></item>
+      <item name="zoo.collectables.panda.sign.title"><![CDATA[Bamboe-expert]]></item>
+      <item name="zoo.collectables.panda.sign.text"><![CDATA[Panda's kauwen het liefst op bamboe, vooral op de bladeren en jonge takjes. Omdat het grote dieren zijn, eten ze er veel van.]]></item>
+    </category>
+    <category name="zoo.collectables.sonja">
+      <item name="zoo.collectables.sonja.main.title"><![CDATA[Fokker Soňa]]></item>
+      <item name="zoo.collectables.sonja.main.text"><![CDATA[Fokster Soňa weet perfect voor de dieren te zorgen. Alleen zij kan alle dieren tegelijk knuffelen.]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.title"><![CDATA[Olifantenspeelgoed]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.text"><![CDATA[Apen zijn vrolijke metgezellen. Ze spelen graag met bijvoorbeeld felgekleurde houten olifanten.]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.title"><![CDATA[Bovenkant]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.text"><![CDATA[Met haar vrolijk ronddraaiende tol kan Soňa zelfs de meest chagrijnige neushoorn opvrolijken.]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.title"><![CDATA[Muis speelgoed]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.text"><![CDATA[Schattige huiskatten jagen graag op speelgoedmuizen, maar leeuwen geven de voorkeur aan grotere prooien.]]></item>
+      <item name="zoo.collectables.sonja.main.babyBear.title"><![CDATA[Berenwelp]]></item>
+      <item name="zoo.collectables.sonja.babyBear.text"><![CDATA[De berenwelpen knuffelden de hele tijd. Sommige wilden hun verzorger helemaal niet verlaten.]]></item>
+      <item name="zoo.collectables.sonja.sign.title"><![CDATA[Meester in knuffelen]]></item>
+      <item name="zoo.collectables.sonja.sign.text"><![CDATA[Sonia is een meester in knuffelen. Huur haar in en je krijgt 12% meer BZ voor haar diensten!]]></item>
+    </category>
+    <category name="zoo.collectables.book">
+      <item name="zoo.collectables.book.tab.animals"><![CDATA[Dieren]]></item>
+      <item name="zoo.collectables.book.tab.cages"><![CDATA[Weiden]]></item>
+      <item name="zoo.collectables.book.tab.assistants"><![CDATA[Assistenten]]></item>
+      <item name="zoo.collectables.book.more"><![CDATA[Meer...]]></item>
+    </category>
+    <category name="zoo.collectables.rewards">
+      <item name="zoo.collectables.book.rewards.unlocked.title"><![CDATA[Winnen!]]></item>
+      <item name="zoo.collectables.book.rewards.unlocked.text"><![CDATA[Kies uw prijs:]]></item>
+      <item name="zoo.collectables.book.rewards.locked.title"><![CDATA[Blijf verzamelen...]]></item>
+      <item name="zoo.collectables.book.rewards.locked.text"><![CDATA[... Deze fantastische beloningen wachten op je:]]></item>
+      <item name="zoo.collectables.book.rewards.button"><![CDATA[Kiezen]]></item>
+    </category>
+  </category>
+</language>

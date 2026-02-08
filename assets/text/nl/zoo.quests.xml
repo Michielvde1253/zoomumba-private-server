@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.quests">
+    <category name="zoo.quests.tabs">
+      <item name="zoo.quests.tabs.daily"><![CDATA[Dagelijkse taken]]></item>
+      <item name="zoo.quests.tabs.achievements"><![CDATA[Onderscheidingen]]></item>
+      <item name="zoo.quests.tabs.collectables"><![CDATA[Collecties]]></item>
+    </category>
+    <category name="zoo.quests.daily">
+      <item name="zoo.quests.daily.info"><![CDATA[In elke dierentuin is er elke dag veel werk te doen: elke helpende hand is welkom! Pak deze dagelijkse taken op en zorg dat ze worden uitgevoerd.]]></item>
+      <item name="zoo.quests.daily.nextquest.timestamp"><![CDATA[Nieuwe taken in:]]></item>
+      <item name="zoo.quests.daily.refreshTitle"><![CDATA[Dagelijkse taken]]></item>
+      <item name="zoo.quests.daily.refreshQuestion"><![CDATA[Tegen een kleine vergoeding kunt u dagelijks nieuwe taken ontvangen. Zou u dat willen?]]></item>
+      <item name="zoo.quests.daily.taskTitle"><![CDATA[Taak]]></item>
+      <item name="zoo.quests.daily.rewardTitle"><![CDATA[Beloning]]></item>
+      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Start\taak]]></item>
+      <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Ontvang een beloning]]></item>
+      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Taak afbreken]]></item>
+      <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Taak]]></item>
+      <item name="zoo.quests.daily.window.activequest.info"><![CDATA[Je bent al met een andere taak bezig. Voltooi de actieve taak voordat je aan de volgende begint.]]></item>
+      <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Annuleren]]></item>
+      <item name="zoo.quests.daily.window.abortquest.info"><![CDATA[Als u deze taak annuleert, wordt deze verwijderd uit uw takenlijst. Weet u zeker dat u deze wilt annuleren?]]></item>
+      <item name="zoo.quests.daily.window.achievereward.title"><![CDATA[Gefeliciteerd!]]></item>
+      <item name="zoo.quests.daily.window.achievereward.info"><![CDATA[Je hebt je taak succesvol voltooid en ontvangt de volgende beloning:]]></item>
+    </category>
+    <category name="zoo.quests.help">
+      <item name="zoo.quests.help.daily.title"><![CDATA[Leesvoorbeelden]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Voorbeeld 1: Geef 50 balen voer aan willekeurige dieren.<br>Voorbeeld 2: Voed 2 leeuwenwelpen op.]]></item>
+    </category>
+    <category name="zoo.quests.achievements.individual">
+      <item name="zoo.quests.achievements.individual.info.congrats"><![CDATA[Geweldig! Je hebt de volgende taak succesvol voltooid:]]></item>
+      <item name="zoo.quests.achievements.individual.1.title"><![CDATA[Meester in knuffelen]]></item>
+      <item name="zoo.quests.achievements.individual.2.title"><![CDATA[Dierenvriend]]></item>
+      <item name="zoo.quests.achievements.individual.3.title"><![CDATA[Fokexpert]]></item>
+      <item name="zoo.quests.achievements.individual.4.title"><![CDATA[Koopvrouw/handelsvrouw]]></item>
+      <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Steakmeester]]></item>
+      <item name="zoo.quests.achievements.individual.6.title"><![CDATA[Er moet orde zijn.]]></item>
+      <item name="zoo.quests.achievements.individual.7.title"><![CDATA[Volkorenliefhebber]]></item>
+      <item name="zoo.quests.achievements.individual.8.title"><![CDATA[Goed gedaan]]></item>
+      <item name="zoo.quests.achievements.individual.9.title"><![CDATA[Gras is leuk]]></item>
+      <item name="zoo.quests.achievements.individual.10.title"><![CDATA[Vitaminenverslaafde]]></item>
+      <item name="zoo.quests.achievements.individual.11.title"><![CDATA[Verse vis]]></item>
+      <item name="zoo.quests.achievements.individual.12.title"><![CDATA[Dorstlesser]]></item>
+      <item name="zoo.quests.achievements.individual.1.requirement"><![CDATA[Ze knuffelden met hun %val%-mal dieren.]]></item>
+      <item name="zoo.quests.achievements.individual.2.requirement"><![CDATA[Eigen %val% van de dieren.]]></item>
+      <item name="zoo.quests.achievements.individual.3.requirement"><![CDATA[Verhoog %val% van de baby's.]]></item>
+      <item name="zoo.quests.achievements.individual.4.requirement"><![CDATA[Verzamel %val% keer het inkomen in zoogross voor je gebouwen.]]></item>
+      <item name="zoo.quests.achievements.individual.5.requirement"><![CDATA[Voer %val% keer stukken vlees.]]></item>
+      <item name="zoo.quests.achievements.individual.6.requirement"><![CDATA[Toon de prullenbak van %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.7.requirement"><![CDATA[Voer %val% graan.]]></item>
+      <item name="zoo.quests.achievements.individual.8.requirement"><![CDATA[Verdien %val% XP door de prullenbak te legen.]]></item>
+      <item name="zoo.quests.achievements.individual.9.requirement"><![CDATA[Voer %val% gras.]]></item>
+      <item name="zoo.quests.achievements.individual.10.requirement"><![CDATA[Voer %val% fruit.]]></item>
+      <item name="zoo.quests.achievements.individual.11.requirement"><![CDATA[Voer %val% van de vis.]]></item>
+      <item name="zoo.quests.achievements.individual.12.requirement"><![CDATA[Geef uw dieren %val% water.]]></item>
+      <item name="zoo.quests.achievements.individual.bronze.congrats"><![CDATA[Je dieren zijn blij, want je hebt een nieuw puzzelstukje in de bronzen set vrijgespeeld.]]></item>
+      <item name="zoo.quests.achievements.individual.silver.congrats"><![CDATA[Je dieren zijn blij, want je hebt een nieuw puzzelstukje in de zilveren set uitgebracht.]]></item>
+      <item name="zoo.quests.achievements.individual.gold.congrats"><![CDATA[Je dieren juichen, want je hebt een nieuw puzzelstukje in de gouden set vrijgespeeld.]]></item>
+      <item name="zoo.quests.achievements.individual.platinum.congrats"><![CDATA[Je dieren zijn dolblij, want je hebt een nieuw puzzelstukje in de Platinum Set vrijgespeeld.]]></item>
+      <item name="zoo.quests.achievements.individual.open.achievements.info"><![CDATA[Ga nu naar je taakvenster om de afbeelding te bekijken!]]></item>
+    </category>
+    <category name="zoo.quests.achievements.unlocked">
+      <item name="zoo.quests.achievements.unlocked.bronze.title"><![CDATA[Bronzen set]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.title"><![CDATA[Zilveren set]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.title"><![CDATA[Gouden set]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.title"><![CDATA[Platina set]]></item>
+      <item name="zoo.quests.achievements.unlocked.bronze.description"><![CDATA[Gefeliciteerd! Je hebt alle taken in de Bronzen Set succesvol voltooid en ontvangt de volgende beloningen:]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.description"><![CDATA[Gefeliciteerd! Je hebt alle taken in de Zilveren Set succesvol voltooid en ontvangt de volgende beloningen:]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.description"><![CDATA[Gefeliciteerd! Je hebt alle taken in de Gouden Set succesvol voltooid en ontvangt de volgende beloningen:]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.description"><![CDATA[Gefeliciteerd! Je hebt alle taken in de Platinum Set succesvol voltooid en ontvangt de volgende beloningen:]]></item>
+      <item name="zoo.quests.achievements.unlocked.open.achievements.info"><![CDATA[Ga nu naar je taakvenster om de volledig ontgrendelde afbeelding te bekijken!]]></item>
+      <item name="zoo.quests.help.daily.title"><![CDATA[Leesvoorbeelden]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Voorbeeld 1: Geef 50 keer de normale hoeveelheid voer aan willekeurige dieren.<br>Voorbeeld 2: Voed 2 leeuwenwelpen op.]]></item>
+    </category>
+  </category>
+</language>

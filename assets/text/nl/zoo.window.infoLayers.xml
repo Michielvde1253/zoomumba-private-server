@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.infoLayers">
+    <category name="zoo.window.infoLayers.forgottenZoo">
+      <item name="zoo.window.infoLayers.forgottenZoo.title"><![CDATA[Verborgen dierentuin]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.info"><![CDATA[Gefeliciteerd! Met de derde uitbreiding ligt het koninkrijk van de Verborgen Dierentuin nu aan je voeten! De pijl op de parkeerplaats wijst je de weg naar de Verborgen Dierentuin.]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.expansion"><![CDATA[Voor een beperkte tijd kun je je Geheime Dierentuin met één aankoop uitbreiden tot de maximale grootte! Ga naar je Geheime Dierentuin, open de winkel en klik op 'Add-ons'. Je vindt de aanbieding daar!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemreward">
+      <item name="zoo.window.infoLayers.itemreward.recycling.title"><![CDATA[Recycling is een succes!]]></item>
+      <item name="zoo.window.infoLayers.itemreward.recycling.info"><![CDATA[Geweldig, dat was de moeite waard! Je hebt deze materialen uit het afval gerecycled. Je vindt ze terug in je inventaris.]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.title"><![CDATA[Verrassingsdoos]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.info"><![CDATA[Hoera! Je verrassingsdoos is gevuld met de bovenstaande materialen, die je kunt gebruiken voor verdere verwerking. Je vindt ze in je inventaris.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedingLabNursery">
+      <item name="zoo.window.infoLayers.breedingLabNursery.info"><![CDATA[Kweek nieuwe diersoorten! Het fokstation en de dierenopvang zijn nu beschikbaar! Klik op de blauwe olifant: je vindt de gebouwen in het controlecentrum.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterNotification">
+      <item name="zoo.window.infoLayers.easterNotification.title"><![CDATA[Paasinkopen]]></item>
+      <item name="zoo.window.infoLayers.easterNotification.text"><![CDATA[Het gekochte artikel is opgeslagen in je inventaris.<br><br>Wil je je inventaris nu openen?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterComic">
+      <item name="zoo.window.infoLayers.easterComic.layer1.bubble"><![CDATA[Welkom bij het paasevenement! Van <b>21 tot en met 27 april</b> deelt de Paashaas eieren uit. Verzamel ze, er wachten je fantastische beloningen. Klik op de pijl voor meer informatie.]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer2.content"><![CDATA[Met fantastische paasdecoraties verdien je 50% meer BZ voor alle evenementen in de dierentuin gedurende 7 dagen. Maak foto's van je paasdierentuin en deel ze met je vrienden op Facebook of in het forum!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.header"><![CDATA[Laten we op zoek gaan naar paaseieren!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.content"><![CDATA[De schattige paasspringkussens zullen veel bezoekers trekken. En het mooiste is? Ze blijven ook na Pasen in je dierentuin staan ​​– zoals het een echte attractie betaamt!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer4.content"><![CDATA[Het paasverblijf is altijd een trekpleister, ongeacht welke dieren erin leven. Paasverblijven leveren je vanaf het begin 20% meer BZ op!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.bubble"><![CDATA[De Paashaas deelt regelmatig eieren uit. Maar zodra er meer dan 5 eieren in je dierentuin liggen, is het eierleggen voorbij. Tip: Wil je er zeker van zijn dat je elke keer alle eieren verzamelt? Vraag dan je Paashulpje, Sonia, om advies!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.content"><![CDATA[Is één konijntje niet genoeg voor je? Dan wachten er nog meer paaskonijntjes op je in de accessoiresafdeling van de winkel. Neem gerust een kijkje!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Notification">
+      <item name="zoo.window.infoLayers.easter2012Notification.title"><![CDATA[Paasinkopen]]></item>
+      <item name="zoo.window.infoLayers.easter2012Notification.text"><![CDATA[Het gekochte artikel is opgeslagen in je inventaris.<br><br>Wil je je inventaris nu openen?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Comic">
+      <item name="zoo.window.infoLayers.easter2012Comic.layer1.bubble"><![CDATA[Vier Pasen in de dierentuin! De paaseierenjacht vindt plaats van 5 tot en met 11 april! Doe mee aan dit paasfestijn en maak kans op fantastische prijzen en verrassingen! Zo doe je mee:]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer2.content"><![CDATA[Zorg goed voor je dieren en zoek alle kleurrijke eieren in je verblijven. Verzamel de eieren en leg ze terug op het paasspelbord.<br><br>Let op: het aantal eieren in je velden verdubbelt elke ronde!]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer3.content"><![CDATA[Gooi de paaseieren op het bijbehorende speelveld. We hebben rode, groene en blauwe velden. Fantastische paasbeloningen en schattige dieren wachten op je!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.fullScreen">
+      <item name="zoo.window.infoLayers.fullScreen.keyboard"><![CDATA[Wil je de voorvertoning op volledig scherm verlaten, zodat je weer kunt typen?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventUpgrade">
+      <item name="zoo.window.infoLayers.eventUpgrade"><![CDATA[Geef je decoraties een nog opvallender verjaardagslook en je krijgt 125% meer BZ en een grotere kans op ballonnen tijdens het verjaardagsfeest!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolbar">
+      <item name="zoo.window.infoLayers.toolbar.title"><![CDATA[Bonus]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info1"><![CDATA[Geweldig! Je hebt een bonusitem voor de werkbalk gekregen omdat je bent ingelogd:]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info2"><![CDATA[Log morgen opnieuw in via de werkbalk en ontvang nog een bonus!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemInInventory">
+      <item name="zoo.window.infoLayers.itemInInventory.title"><![CDATA[Gefeliciteerd!]]></item>
+      <item name="zoo.window.infoLayers.itemInInventory.text"><![CDATA[U heeft het volgende artikel voor uw voorraad aangeschaft:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.animalInInventory">
+      <item name="zoo.window.infoLayers.animalInInventory.text"><![CDATA[Het volgende dier is aan je inventaris toegevoegd:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemRedeemed">
+      <item name="zoo.window.infoLayers.itemRedeemed.title"><![CDATA[Gefeliciteerd!]]></item>
+      <item name="zoo.window.infoLayers.itemRedeemed.success"><![CDATA[Je beloning is bijgeschreven.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.action.sorry">
+      <item name="zoo.window.infoLayers.action.sorry.title"><![CDATA[Onze excuses!]]></item>
+      <item name="zoo.window.infoLayers.action.sorry.text"><![CDATA[Het spijt ons, maar dit evenement is momenteel niet beschikbaar.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.purchaseConfirmed">
+      <item name="zoo.window.infoLayers.purchaseConfirmed.title"><![CDATA[Gefeliciteerd!]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.simple"><![CDATA[De aankoop is gecrediteerd.]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.gift"><![CDATA[Je aankoop is verwerkt en je cadeaus zijn verzonden.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.welcomeBack">
+      <item name="zoo.window.infoLayers.welcomeBack.title"><![CDATA[Welkom terug!]]></item>
+      <item name="zoo.window.infoLayers.welcomeBack.text"><![CDATA[De dieren zijn dolblij je weer te zien.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedInInventory">
+      <item name="zoo.window.infoLayers.breedInInventory.title"><![CDATA[Aandacht!]]></item>
+      <item name="zoo.window.infoLayers.breedInInventory.text"><![CDATA[Er vindt hier momenteel een fokprogramma plaats.<br><br>Als u het verblijf naar de inventaris verplaatst, wordt het fokproces geannuleerd.<br><br>Wilt u echt doorgaan?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.collectables">
+      <item name="zoo.window.infoLayers.collectables.firstFinish.title"><![CDATA[Gefeliciteerd!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.text"><![CDATA[Hoera! Je hebt alle onderdelen van de %collectie% voor de eerste keer gevonden!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.button.socialShare"><![CDATA[Laat het aan vrienden zien]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.title"><![CDATA[Gefeliciteerd!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.text"><![CDATA[Je hebt de %collectie% voor de tweede keer voltooid!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.button.getGift"><![CDATA[Gebruik]]></item>
+      <item name="zoo.window.infoLayers.collectables.button.viewCollection"><![CDATA[Bekijk de collectie]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.adamPenguin">
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.title"><![CDATA[Toppakket "Black Panther"]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.text"><![CDATA[Nu, hier en slechts één keer beschikbaar. "Black Panther" is exclusief voor jou. En als extraatje: alle helpers 24 uur lang gratis!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.title"><![CDATA["Witte Tijger"-pakket]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.text"><![CDATA[Eenmalige aanbieding - "combipakket" voor een fantastische start! Jouw startuitrusting voor een geweldige prijs!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.title"><![CDATA["Terrarium"-pakket]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.text"><![CDATA[Eenmalige aanbieding - "combipakket" voor een fantastische start! Jouw startuitrusting voor een geweldige prijs!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.title"><![CDATA["Prairie"-pakket]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.text"><![CDATA[Eenmalige aanbieding - "combipakket" voor een fantastische start! Jouw startuitrusting voor een geweldige prijs!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.title"><![CDATA[Loyaliteitsbonus]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.text"><![CDATA[Exclusief hier verkrijgbaar: een Zoodollars-pakket met uw persoonlijke loyaliteitsbonus! Klik op "kopen" en ontvang meer bonussen.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.payment">
+      <item name="zoo.window.infoLayers.payment.happyHourHeader"><![CDATA[Zoodollars plus %procent%%!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBody"><![CDATA[Nu komt je wens uit!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_1"><![CDATA[Verdien vandaag nog extra zoodollars!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_2"><![CDATA[Koop bijvoorbeeld 100 zoodollars en ontvang in totaal %extradollar% zoodollars!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_3"><![CDATA[Geldt voor alle betaalmethoden behalve overschrijving.]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourFin"><![CDATA[Aarzel niet! De aanbieding is nog steeds geldig:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.conversionPack">
+      <item name="zoo.window.infoLayers.conversionPack_header"><![CDATA[Exclusief - alleen %priceCurrency%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_save"><![CDATA[Bespaar %besparingen%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_footer"><![CDATA[En nog veel meer...]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_infoHeader"><![CDATA[Aarzel niet en bespaar %besparing%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info1"><![CDATA[<ul><li>1 paar vrouwelijke honden</li><li>1x savanneverblijf</li><li>1 zwanenvijver</li><li>15x superfood</li><li>15x beste voer</li><li>10x supermedicijn</li><li>75 zoodollars</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info2"><![CDATA[<ul><li>1 paar lynxen</li><li>alle 6 assistenten voor 24 uur</li><li>1 rotsverblijf</li><li>1 dodovogelstandbeeld</li><li>25x superfood</li><li>25x beste eten</li><li>25x supermedicijn</li><li>150 zoodollars</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info3"><![CDATA[<ul><li>1 paar witte tijgers</li><li>alle 6 assistenten voor 24 uur</li><li>1 toendraverblijf</li><li>1 beer vrijheidsbeeld</li><li>40x superfood</li><li>35x beste eten</li><li>30x supermedicijn</li><li>200 zoodollars</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.paymentBug">
+      <item name="zoo.window.infoLayers.paymentBug.title"><![CDATA[Beste spelers]]></item>
+      <item name="zoo.window.infoLayers.paymentBug.info"><![CDATA[Door een fout zijn er te veel items in je pakket bijgeschreven. Helaas moeten we deze items verwijderen, omdat dit niet eerlijk zou zijn tegenover spelers die hetzelfde pakket hebben gekocht. Ter compensatie voor dit misverstand hebben we je 500 poten toegekend.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventPack">
+      <item name="zoo.window.infoLayers.eventPack_header"><![CDATA[Bestel een unieke kerstmand!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title1"><![CDATA[Wil je je kerstviering sneller laten verlopen? Bestel dan een klein kerstmandje, dat je maar één keer hoeft aan te schaffen!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info1"><![CDATA[<ul><li>10x gekonfijte appels</li><li>3x Tolia Essence</li><li>3x groeidrankje</li><li>5x superfood</li><li>5x beste voeding</li><li>25 Zoodollars</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title2"><![CDATA[Wil je je kerstviering sneller laten verlopen? Bestel dan een grote kerstmand die je maar één keer hoeft aan te schaffen!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info2"><![CDATA[<ul><li>60x gekonfijte appels</li><li>alle 7 helpers voor 24 uur</li><li>20x tolija-essence</li><li>20x groeidrankje</li><li>20x superfood</li><li>20x beste eten</li><li>50 zoodollars</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.cinema">
+      <item name="zoo.window.infoLayers.cinema.limit"><![CDATA[Helaas heeft u geen bioscoopkaartjes meer.]]></item>
+      <item name="zoo.window.infoLayers.cinema.success1"><![CDATA[Hoera! Hier is je beloning voor het kijken naar de film:]]></item>
+      <item name="zoo.window.infoLayers.cinema.success2"><![CDATA[Het tegoed wordt binnen het volgende uur verwerkt.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012">
+      <item name="zoo.window.infoLayers.easter2012.limit"><![CDATA[Je hebt niet genoeg paaseieren.]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success1"><![CDATA[Hoera! Je hebt de volgende beloning verdiend:]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success2"><![CDATA[Veel succes met het vinden van eieren!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.avatar">
+      <item name="zoo.window.infoLayers.avatar.Check"><![CDATA[Je avatar is succesvol opgeslagen.]]></item>
+      <item name="zoo.window.infoLayers.avatar.X"><![CDATA[Weet je zeker dat je dit venster wilt sluiten? Je avatar is nog niet opgeslagen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.saveAssets">
+      <item name="zoo.window.infoLayers.saveAssets.text1"><![CDATA[Wil je dat je spel sneller laadt? ZooMumba is erg grafisch intensief. Als je dat wilt, kunnen we de afbeeldingen direct op je harde schijf opslaan. Zo laadt het spel veel sneller!]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text2"><![CDATA[Om deze wijzigingen in te schakelen, klikt u de volgende keer dat het venster verschijnt op 'Toestaan'. Anders blijven de spelgegevens in de cache van uw browser opgeslagen.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text3"><![CDATA[Mocht u anders besluiten, open dan de instellingen van ZooMumba en schakel de caching in of uit.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.yes"><![CDATA[Ja, opslaan op de harde schijf (aanbevolen)]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.no"><![CDATA[Nee, blijf de browsercache gebruiken.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.doublexp">
+      <item name="zoo.window.infoLayers.doublexp.allitems"><![CDATA[Stijg sneller in niveau! Verdien twee keer zoveel BZ voor activiteiten in de weilanden!]]></item>
+      <item name="zoo.window.infoLayers.doublexp.specialitems"><![CDATA[Verzamel extra ervaringspunten! Deze dieren geven je een dubbele dosis BZ:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.specialShopItem">
+      <item name="zoo.window.infoLayers.specialShopItem.title"><![CDATA[Superaanbieding: slechts voor een korte tijd!]]></item>
+      <item name="zoo.window.infoLayers.specialShopItem.infotext"><![CDATA[Vandaag is een bijzondere dag voor bijzondere dieren: we vieren hun verjaardag! Tijdelijk verkrijgbaar in de winkel:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012">
+      <item name="zoo.window.infoLayers.frog2012.limit"><![CDATA[Helaas mis je nog bonusitems. Geef niet op!]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success1"><![CDATA[Bingo! Je hebt een fantastische prijs gewonnen:]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success2"><![CDATA[Vind nog meer items! Veel succes!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Notification">
+      <item name="zoo.window.infoLayers.frog2012Notification.title"><![CDATA[Het kopen van verzamelobjecten]]></item>
+      <item name="zoo.window.infoLayers.frog2012Notification.text"><![CDATA[Het gekochte artikel bevindt zich nu in uw dierentuinmagazijn. Wilt u een magazijn openen?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Comic">
+      <item name="zoo.window.infoLayers.frog2012Comic.layer1.bubble"><![CDATA[Van 17 tot en met 23 mei verandert jouw dierentuin in een sprookje. Tijdens het Koninklijke Kikkerevenement wachten je heel wat leuke dingen en fantastische prijzen! In de volgende stappen laten we je zien hoe:]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer2.content"><![CDATA[Zorg goed voor je dieren en verzamel speciale bonusitems: een gekroonde kikker, vinnen of een kroon. Wissel ze vervolgens in op het kikkerspelbord voor fantastische prijzen.]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer3.content"><![CDATA[Je kunt zoveel rondes spelen als je wilt. Je hebt steeds meer spullen nodig, maar de prijzen worden ook steeds fantastischer! Binnenkort kwaakt de Kikkerkoning ook in jouw dierentuin!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australien2012Comic">
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Zon, zee en buideldieren - van 25 juni tot en met 3 juli kun je je vermaken in je eigen dierentuin op z'n Australisch! Mis het niet en maak kans op fantastische Australische prijzen! In de volgende stappen laten we je zien hoe:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Zorg goed voor je dieren en verzamel speciale bonusitems: een surfplank, een rode steen of zonnebrandcrème. Wissel ze vervolgens in voor fantastische verrassingen op het Australische speelveld.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Je kunt zoveel rondes spelen als je wilt. Hoe meer items je verzamelt, hoe magischer je winst zal zijn! Verander je dierentuin in een klein Australië!]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Zon, zee en buideldieren - van 25 juni tot en met 3 juli kun je je vermaken in je eigen dierentuin op z'n Australisch! Mis het niet en maak kans op fantastische Australische prijzen! In de volgende stappen laten we je zien hoe:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Zorg goed voor je dieren en verzamel speciale bonusitems: een surfplank, een rode steen of zonnebrandcrème. Wissel ze vervolgens in voor fantastische verrassingen op het Australische speelveld.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Je kunt zoveel rondes spelen als je wilt. Hoe meer items je verzamelt, hoe magischer je winst zal zijn! Verander je dierentuin in een klein Australië!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.indien2012Comic">
+      <item name="zoo.window.infoLayers.indien2012Comic.layer1.bubble"><![CDATA[Hallo, hallo! Heb je zin om van 19 tot en met 26 juli plezier te maken? Laat me je iets vertellen over dit evenement:]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer2.content"><![CDATA[Terwijl je voor je dieren zorgt, moet je goed opletten voor de speciale voorwerpen die verschijnen: henna-tatoeages, cricketbats en de Taj Mahal. Verzamel ze en ruil ze in voor coole beloningen in de dierentuin!]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Hoe meer items je verzamelt, hoe beter de beloningen. India is er!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.anniversary2012Comic">
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.bubble"><![CDATA[Gefeliciteerd met je verjaardag! Vier samen met ons het tweede jubileum van ZooMumba!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.content"><![CDATA[Verzamel zoveel mogelijk toeters, feestmutsen en champagneglazen voor onze feestspelletjes. Je kunt een feestkooi vol feestspullen winnen!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer2.content"><![CDATA[Wat zou een feest zijn zonder ballonnen? Zorg goed voor je dieren, verzamel ballonnen en ruil ze op het speelveld in voor te gekke feestverrassingen.]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer3.content"><![CDATA[Je kunt de individuele spelrondes zo vaak herhalen als je wilt. Je hebt steeds meer items nodig die tijdens het oogsten verschijnen, maar de beloningen worden steeds beter. Hoera! Hulde aan alle dierentuindirecteuren!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.oktoberfest2012Comic">
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer1.bubble"><![CDATA[Het feest kan beginnen! Oktoberfest is er – kom en vier het in Beierse stijl!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer2.content"><![CDATA[Van 1 tot en met 7 oktober kun je bierpong, zachte pretzels en traditionele hoeden verzamelen, en fantastische prijzen winnen zoals een nieuw thuis: Oktoberfest - een pretpark!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer3.content"><![CDATA[Je kunt zo vaak spelen als je wilt. Je hebt wel een voorraad pop-up-items nodig, maar je krijgt er traditionele Beierse beloningen voor terug. Dus aarzel niet, je zult je prima vermaken!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.circusHelpcomic">
+      <item name="zoo.window.infoLayers.circusHelpcomic.layer1.content"><![CDATA[In het circus staan ​​talloze kratten met exotische dieren. Na de eerste 5 uur springt er een dier uit een krat recht op je af! Wat voor dier zal het zijn?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Layer">
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble1"><![CDATA[Lever de kuikens af. Elk brandend lampje betekent meer fantastische prijzen!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble2"><![CDATA[Lever de gekonfijte appels af. Elk brandend lampje betekent meer fantastische prijzen!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer2.bubble"><![CDATA[Verkoop je dieren voor zoogrosh en verlicht de kerstboom!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.singleplayer.success"><![CDATA[Goed gedaan! Alles is verlicht en je hebt alle beloningen verzameld!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.multiplayer.success"><![CDATA[Gefeliciteerd! Samen hebben we de hele kerstboom verlicht en fantastische prijzen gewonnen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Comic">
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.bubble"><![CDATA[Fijne kerst! Help me alsjeblieft de kerstverlichting aan te doen. Voor elke lamp die je aanzet, maak je kans op verschillende kerstprijzen, zoals een poolvos!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.content"><![CDATA[Om de lampjes aan te doen, moet je suikerappels of babydieren uit je inventaris toevoegen.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer2.content"><![CDATA[Sommige lampen kunnen alleen met suikerappels aangezet worden. De appels verschijnen dan uit de dierenverblijven. Je kunt meer appels kopen om sneller verder te komen.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer3.content"><![CDATA[Kies een baby uit je voorraad en lever hem af. Tip: Hoe hoger het fokniveau van het dier, hoe sneller je de lichten kunt aanzetten!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.multiplayer.bubble"><![CDATA[Hier moeten alle dierentuindirecteuren samenwerken: verkoop de dieren uit je voorraad voor zoogros. Samen verlichten jullie stap voor stap de kerstboom en winnen jullie fantastische kerstprijzen.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentines2013Comic">
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer1.bubble"><![CDATA[Welkom bij het Valentijnsdag-evenement! Van 14 tot en met 25 februari staat alles in het teken van romantiek! Speel ons Valentijnsdag-spel en maak kans op fantastische prijzen!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer2.content"><![CDATA[Verzorg je dieren, verzamel cupcakes, hartballonnen en wenskaarten. Doorloop het speelveld stap voor stap en verdien onderweg beloningen. De hoofdprijs zijn ooievaars voor je dierentuin!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Je hebt dan wel meer pop-up items nodig, maar dat vergroot je kans op meer beloningen!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.multiplayer.bubble"><![CDATA[Vergeet niet: alle dierentuindirecteuren spelen samen. Verkoop dieren uit je inventaris voor zoogross. Werk je een weg naar de top van de pluche berg, waar margay-katten op je wachten als beloning!]]></item>
+      <item name="zoo.window.infoLayers.valentines.multiplayer.success"><![CDATA[Gefeliciteerd! Je hebt de top van de pluchestapel bereikt en onderweg beloningen gewonnen.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterEvent2013Comic">
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer1.bubble"><![CDATA[Welkom bij het Paasdierentuin-evenement! Van 27 maart tot en met 8 april verandert jouw dierentuin in een kleurrijke regenboog! Verzamel kleurrijke kuikentjes in ons paasspel en wissel ze in voor fantastische prijzen!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer2.content"><![CDATA[Verzorg je dieren en verzamel kleurrijke kuikens terwijl je werkt! Baan je een weg over het speelveld en verzamel alle beloningen onderweg. De hoofdprijs is een emoe!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Win fantastische prijzen in elke ronde.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.multiplayer.bubble"><![CDATA[Vergeet niet: alle dierentuindirecteuren spelen samen. Verkoop dieren uit je inventaris voor zoogross. Bereik de top van de pluchestapel en als je dat lukt, win je een schattig paar miereneters!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.intro"><![CDATA[Verkoop de dieren in je inventaris en beklim samen de pluche berg.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.success"><![CDATA[Gefeliciteerd! Je hebt de top van de pluchestapel bereikt en onderweg beloningen gewonnen.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frenchEvent2013Comic">
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer1.bubble"><![CDATA[Welkom bij het Franse dierentuin-evenement! Van 11 tot en met 16 juli maken we een reis naar Frankrijk! Verzamel items voor ons Franse spel en wissel ze in voor fantastische beloningen!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer2.content"><![CDATA[Zorg goed voor je dieren en verzamel de knallende objecten. Doorloop het speelveld stap voor stap en verdien onderweg beloningen. De hoofdprijs zijn moeflons!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. In elke ronde vind je leuke prijzen.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthdayEvent2013Comic">
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer1.content"><![CDATA[Hoera! Om onze 3e verjaardag te vieren, hebben we een schietfestival georganiseerd: schiet ballonnen kapot van 15 tot en met 28 augustus en zie de prijzen op je neerregenen! Je krijgt elke dag gratis pijltjes.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer2.content"><![CDATA[Stop ballonnen in het bordspel. Elke ballon die je erin stopt, brengt je dichter bij de prijs. Win fantastische verjaardagsdecoraties en nieuwe knuffeldieren.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Tip: Log elke dag in en ontvang nog meer darts met de dagelijkse inlogbonus!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.over"><![CDATA[Voor deze stap heb je nog ballonnen nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.default"><![CDATA[Deze kant op naar het schietfestival! Prik de ballonnen kapot en win fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.hungaryEvent2013Comic">
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer1.bubble"><![CDATA[Welkom bij het Hongaarse evenement in de dierentuin! Ga van 12 tot en met 24 september met ons mee op reis naar Hongarije! Verzamel paprika's voor ons Hongaarse spel en wissel ze in voor fantastische prijzen!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer2.content"><![CDATA[Zorg goed voor je dieren en verzamel paprika's. Baan je een weg door het speelveld en verdien beloningen. De hoofdprijs zijn nieuwe dieren!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Een kleine waarschuwing: er verschijnen Peppers tot 12.00 uur op 23 september. Je kunt ze echter wel ruilen tot 24 september.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2013Comic">
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer1.bubble"><![CDATA[Oh ja! Die stoute pinguïns speelden met magische runen en zijn ontsnapt! Daar zijn Flubber, Larry en Swabby! Gebruik de plasmablob en vang ze snel voordat ze kattenkwaad uithalen!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer2.content"><![CDATA[Help de brave Boo de spoken te vangen. Breng ze naar het speelveld en win angstaanjagende prijzen!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer3.content"><![CDATA[Elke dag dat je inlogt, geeft Boo je plasmabollen om op spoken te jagen. Tip: Zorg goed voor je dieren, dan komen de plasmabollen vanzelf uit hun nesten tevoorschijn. Succes!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.over"><![CDATA[Voor deze stap heb je nog steeds spoken nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.default"><![CDATA[Stuur hier je spookverhalen in en maak kans op fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.thanksGiving2013Comic">
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer1.bubble"><![CDATA[Welkom bij het Thanksgiving-feest van de dierentuin! Dit keer vieren we het in de Verenigde Staten! Verzamel kleurrijke bladeren en ruil ze in voor fantastische beloningen.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer2.content"><![CDATA[Verzorg je dieren en verzamel kleurrijke bladeren. Baan je een weg door het speelveld en verdien onderweg beloningen. De hoofdprijs zijn nieuwe dieren voor je dierentuin!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat de bladeren tot het einde van het evenement blijven vallen, maar je kunt ze nog 24 uur daarna inwisselen.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.over"><![CDATA[Je hebt nog bladeren nodig (aantal: %count%) voor deze stap. Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.default"><![CDATA[Stuur hier uw brieven in en maak kans op fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2013Comic">
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer1.bubble"><![CDATA[Hohoho! Kerstmis komt eraan in de dierentuin! Van 19 december tot en met 7 januari kun je kerstversieringen verzamelen in je dierentuin en deze inwisselen voor kleurrijke borden met winterse dieren en kerstdecoraties.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer2.content"><![CDATA[Zorg goed voor je dieren en er zullen kleurrijke versieringen uit hun hokken tevoorschijn komen. Beweeg stap voor stap over het speelveld en ruil de versieringen in voor feestelijke beloningen.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat de decoraties tot 12.00 uur op 6 januari verschijnen, maar je kunt ze tot 12.00 uur op 7 januari ruilen.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.over"><![CDATA[Voor deze stap heb je nog decoraties nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.default"><![CDATA[Stuur hier uw versieringen in en maak kans op fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.egypt2014Comic">
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer1.bubble"><![CDATA[Reis met ons mee naar het Oosten: ontdek het oude Egypte, verzamel waardevolle scarabeeën en ruil ze in een Egyptisch bordspel.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer2.content"><![CDATA[Verzorg je dieren en verzamel kleurrijke scarabeeën die uit je verblijven tevoorschijn komen. Speel verder op het speelbord en ruil ornamenten in voor oosterse beloningen.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat er tot het einde van het evenement scarabeeën zullen verschijnen. Je kunt ze echter nog 24 uur daarna inwisselen.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.over"><![CDATA[Voor deze stap heb je nog scarabeeën nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.default"><![CDATA[Lever je scarabeeën hier in en win fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014Comic">
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer1.bubble"><![CDATA[Verzamel alle harten: speel kaarten van 21 februari tot en met 10 maart in ons Valentijnsdag-bordspel!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer2.content"><![CDATA[Verzorg je dieren en verzamel kleurrijke kaarten die uit je verblijven tevoorschijn komen. Doorloop stap voor stap het spelbord en wissel de kaarten in voor romantische prijzen.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat de kaarten tot 12.00 uur op 10 maart verschijnen, maar je kunt ze tot 12.00 uur op 11 maart inwisselen.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.over"><![CDATA[Voor deze stap heb je nog wenskaarten nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.default"><![CDATA[Dien hier uw wensen in en maak kans op fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityComic">
+      <item name="zoo.window.infoLayers.valentine2014CommunityComic.multiplayer.bubble"><![CDATA[Vergeet niet: alle dierentuindirecteuren spelen samen. Verkoop dieren uit je inventaris voor zoogros. Beklim de top van de pluche berg - geweldige prijzen wachten op je op elk niveau!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.success"><![CDATA[Gefeliciteerd, het is je gelukt! Je hebt de top van de stapel harten bereikt en onderweg beloningen gewonnen.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.intro"><![CDATA[Ruil hier je dieren in en ontvang fantastische beloningen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2014Comic">
+      <item name="zoo.window.infoLayers.easter2014Comic.layer1.bubble"><![CDATA[Van 10 tot en met 28 april 2014 staat jouw dierentuin helemaal in bloei: kom en beleef plezier op ons fantastische paasevenement! Tal van paasverrassingen en gloednieuwe dieren wachten op je in het paasbordspel!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer2.content"><![CDATA[Verzorg je dieren en verzamel kleurrijke paaseieren die uit je verblijven tevoorschijn komen. Baan je een weg door het speelveld en wissel de eieren in voor superleuke lentebeloningen.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat er tot 12.00 uur op 28 april paaseieren verschijnen, maar je kunt ze tot 12.00 uur op 29 april inwisselen.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.over"><![CDATA[Voor deze stap heb je nog paaseieren nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.default"><![CDATA[Lever hier je paaseieren in en maak kans op fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.summer2014Comic">
+      <item name="zoo.window.infoLayers.summer2014Comic.layer1.bubble"><![CDATA[Voetbalgekte in jouw dierentuin van 19 juni tot 1 juli! Reis met ons mee naar Brazilië: samba, voetbal, Braziliaans ritme en gloednieuwe dieren wachten op je in ons bordspel!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer2.content"><![CDATA[Verzorg je dieren en verzamel kleurrijke cocktailvruchten die uit je verblijven tevoorschijn komen. Doorloop stap voor stap het spelbord en wissel de cocktails in voor superzomerse beloningen.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat de cocktailvruchten tot 12.00 uur op 30 juni verschijnen, maar je kunt ze tot 12.00 uur op 1 juli omruilen.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.over"><![CDATA[Voor deze stap heb je nog cocktailfruit nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.default"><![CDATA[Ruil hier cocktailfruit in voor fantastische beloningen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthday2014Comic">
+      <item name="zoo.window.infoLayers.bday2014Comic.layer1.bubble"><![CDATA[Groot verjaardagsfeest van 19 augustus tot en met 2 september! Er wachten je tal van fantastische verrassingen in ons bordspel!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer2.content"><![CDATA[Stop ballonnen in het bordspel. Elke ballon die je erin stopt, brengt je dichter bij de prijs. Win fantastische verjaardagsdecoraties en nieuwe knuffeldieren.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Let op: je kunt ballonnen alleen uit je vakken halen tot 27 augustus, 12:00 uur 's middags. Daarna heb je 24 uur de tijd om ze te gebruiken.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.over"><![CDATA[Voor deze stap heb je nog ballonnen nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.default"><![CDATA[Steek ballonnen in de ballon en maak kans op fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2014Comic">
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer1.bubble"><![CDATA[Vier Halloween met ons van 30 oktober tot en met 10 november! Er wachten je tal van fantastische verrassingen in ons bordspel!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer2.content"><![CDATA[Zorg goed voor je dieren en verzamel de slijmwezens die uit je verblijven tevoorschijn komen. Stap voor stap over het speelveld en ruil de slijmwezens in voor griezelige en fantastische beloningen.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat de slijmvliegen alleen tot 12.00 uur 's middags op 10 november verschijnen. Daarna heb je 24 uur de tijd om ze te gebruiken.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.over"><![CDATA[Voor deze stap heb je nog slijmmuggen nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.default"><![CDATA[Stuur hier je slijmcreaties in en maak kans op fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recyclingComic">
+      <item name="zoo.window.infoLayers.recyclingComic.layer1.bubble"><![CDATA[Het is ongelooflijk wat mensen allemaal weggooien! Er zitten zoveel waardevolle grondstoffen in afval: scheid afval zodat het hergebruikt kan worden. Help het milieu én jezelf!]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer2.content"><![CDATA[Al het ingezamelde afval komt direct in de recyclinginstallatie terecht. Kies de grondstof die je van het afval wilt maken.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer3.content"><![CDATA[Kies hoeveel items je wilt maken van de geselecteerde materialen. Zorg ervoor dat je voldoende restmateriaal en zoogros hebt om ze te maken.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer4.content"><![CDATA[Naast normale grondstoffen heb je ook zeldzame grondstoffen nodig. Door een superfilter te gebruiken, vergroot je de kans om een ​​zeldzame grondstof te verkrijgen via recycling.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.craftingComic">
+      <item name="zoo.window.infoLayers.craftingComic.layer1.bubble"><![CDATA[Hallo, ik ben Inga Neer. Ik help je graag met het maken van nieuwe voorwerpen met behulp van grondstoffen. Maar eerst heb je een bouwplan nodig. Bouwplannen zijn overal in de dierentuin te vinden: tijdens het levelen, als puzzelstukjes en beloning, in verzamelingen, op safari of bij het rad van fortuin.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer2.content"><![CDATA[Alle bouwplannen worden in de werkplaats bewaard. Open de categorie om te zien welke plannen je al hebt.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer3.content"><![CDATA[Een groen vinkje geeft aan of je alle ingrediënten hebt. Zo ja, dan kun je beginnen!]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer4.content"><![CDATA[Wil je dat je werknemers sneller werken? Probeer dan de "Vakman Booster". Gooi die erin en ze werken twee keer zo snel! Met Zoo Dollars kun je de productie in een mum van tijd afronden.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recylingcraftingunlock">
+      <item name="zoo.window.infoLayers.recylingcraftingunlock.info"><![CDATA[Recycle het afval in je dierentuin en bouw iets nieuws! De recyclinginstallatie en werkplaats zijn nu beschikbaar. Klik op de blauwe olifant: je vindt de gebouwen in het controlecentrum.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolchange">
+      <item name="zoo.window.infoLayers.toolchange.info"><![CDATA[Voor de bouw van de recyclingfaciliteit en de werkplaats was veel gereedschap nodig, dat je ook hebt verzameld. Om ervoor te zorgen dat je niets tekortkomt, krijg je ervaringspunten voor het gereedschap dat je verzamelt.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2014Comic">
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer1.bubble"><![CDATA[Fijne kerst! Van 11 tot en met 29 december versieren pinguïns de open haard met kerstversiering. Hoe meer items je in de dierentuin verzamelt, hoe mooier het wordt. Speel het bordspel en win een kerstverrassing!]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer2.content"><![CDATA[Zorg goed voor je dieren en verzamel de kersttraktaties die uit hun verblijven tevoorschijn komen. Loop stap voor stap over het speelveld en wissel ze in voor feestelijke beloningen.]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat de kerstcadeautjes slechts tot 12.00 uur op 29 december beschikbaar zijn. Daarna heb je 24 uur de tijd om ze te gebruiken.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.boardgame">
+      <item name="zoo.window.infoLayers.boardgame.info.over"><![CDATA[Om deze stap te voltooien, moet je nog %count%x %collectitem% invoegen. Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.boardgame.info.default"><![CDATA[Hier kunt u actieartikelen inwisselen voor fantastische beloningen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Comic">
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer1.bubble"><![CDATA[Ben je nog steeds op zoek naar de man of vrouw van je dromen? Speel dan het Valentijnsdag-bordspel van 12 tot en met 23 februari 2015!]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer2.content"><![CDATA[Zorg goed voor je dieren en verzamel waterlelies die uit hun verblijven tevoorschijn komen. Loop stap voor stap over het speelveld en ruil ze in voor feestelijke beloningen.]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat de waterlelies slechts tot 12.00 uur op 23 februari verschijnen. Daarna heb je 24 uur de tijd om ze te gebruiken.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Board">
+      <item name="zoo.window.infoLayers.valentine2015Board.title"><![CDATA[Valentijnsdag]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityBoard">
+      <item name="zoo.window.infoLayers.valentine2014CommunityBoard.title"><![CDATA[Pluche Berg]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2015Comic">
+      <item name="zoo.window.infoLayers.easter2015Comic.layer1.bubble"><![CDATA[Er gebeuren vreemde dingen in het kippenhok. De Paashaas is te laat en heeft hulp nodig! Sluip het kippenhok in en verzamel de eieren! De Paashaas zal je dankbaar zijn!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer2.content"><![CDATA[Verzorg je dieren en verzamel kleurrijke paashaasjes die uit je verblijven tevoorschijn komen. Doorloop stap voor stap het spelbord en wissel ze in voor vrolijke beloningen.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat er tot het einde van het evenement paashaasjes uit je verblijven zullen komen. Je kunt ze echter nog 24 uur daarna gebruiken om beloningen te winnen.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.over"><![CDATA[Voor deze stap heb je nog paashaasjes nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.default"><![CDATA[Lever hier uw paashaasjes in en maak kans op fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Board">
+      <item name="zoo.window.infoLayers.asia2015Board.title"><![CDATA[Reis naar Azië]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Comic">
+      <item name="zoo.window.infoLayers.asia2015Comic.layer1.bubble"><![CDATA[Reis met ons mee naar Azië voor de drakendans! Verzamel kleurrijke lantaarns om je feest op te fleuren. Moge de waterdraak je zegenen!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer2.content"><![CDATA[Zorg goed voor je dieren en verzamel de kleurrijke lantaarns die uit je verblijven tevoorschijn komen. Speel verder op het speelbord en wissel de lantaarns in voor exotische beloningen.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat de lantaarns tot het einde van het evenement blijven verschijnen. Je kunt ze echter nog 24 uur daarna inwisselen.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.over"><![CDATA[Voor deze stap heb je nog lantaarns nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.default"><![CDATA[Stuur hier uw lantaarns in en maak kans op fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Board">
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Reis naar Australië]]></item>
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Reis naar Australië]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Comic">
+      <item name="zoo.window.infoLayers.australian2015Comic.layer1.bubble"><![CDATA[Zoomumba bestaat 5 jaar! Hoera! Ga met ons mee naar de Australische outback en win fantastische prijzen: schiet ballonnen kapot en sluip door de Australische wildernis als Crocodile Dundee. Hoera!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer2.content"><![CDATA[Zorg goed voor je dieren en verzamel pijlen die uit je verblijven komen. Gebruik ze om ballonnen neer te schieten. Ga stap voor stap door het speelveld en ruil ballonnen in voor beloningen.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat er tot het einde van het evenement pijltjes uit je pennen zullen vallen. Je kunt echter nog 24 uur daarna ballonnen kapotschieten.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.over"><![CDATA[Voor deze stap heb je nog ballonnen nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.default"><![CDATA[Steek ballonnen in de ballon en maak kans op fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Board">
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Halloween]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Halloween]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Comic">
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer1.bubble"><![CDATA[Abracadabra! Oh nee! Welke boze tovenaar heeft kleine Perry in een gigantische pompoen veranderd? Probeer het tegengif te vinden en help Perry. Van 29 oktober tot en met 9 november kun je alle magische drankjes uitproberen!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer2.content"><![CDATA[Zorg goed voor je dieren en verzamel de drankjes die uit je verblijven tevoorschijn komen. Doorloop stap voor stap het spelbord en wissel de drankjes in voor beloningen.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat er tot het einde van het evenement drankjes zullen verschijnen. Je kunt ze echter nog 24 uur daarna inwisselen.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.over"><![CDATA[Voor deze stap heb je nog magische drankjes nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.default"><![CDATA[Lever je toverdranken hier in en win fantastische beloningen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.winter2015Comic">
+      <item name="zoo.window.infoLayers.winter2015Comic.layer1.bubble"><![CDATA[Vrolijk kerstfeest! De pinguïns willen hun open haard versieren voor kerstavond. Hoe meer kerstkaarsen je verzamelt, hoe gezelliger het voor ze wordt. Je kunt een winterse verrassing winnen in het bordspel!]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer2.content"><![CDATA[Verzorg je dieren en verzamel kleurrijke kerstkaarsen die uit de verblijven tevoorschijn komen. Doorloop het speelveld stap voor stap en wissel ze in voor fantastische beloningen.]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer3.content"><![CDATA[Voltooi zoveel rondjes als je wilt. Houd er rekening mee dat de kerstkaarsen tot het einde van het evenement uit de omheiningen verdwijnen, maar je kunt ze nog 24 uur daarna omruilen.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2016Comic">
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer1.bubble"><![CDATA[Hallo alle verliefden! De liefde verspreidt zich overal, daarom hebben we een speciaal evenement voor jullie voorbereid met tal van mooie prijzen. We hebben ook een nieuw huisdier - een gestreepte mangoest - nieuwe romantische decoraties en twee nieuwe winkels!]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer2.content"><![CDATA[Verzorg je dieren en verzamel kleurrijke teddyberen die uit de verblijven springen. Breng ze terug, volg geleidelijk het pad van de liefde op het bordspel en verzamel beloningen.]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer3.content"><![CDATA[Wanneer je het einde van het pad bereikt, wordt het speelbord gereset en kun je een nieuwe ronde spelen. De beren blijven verschijnen tot het einde van het evenement. Daarna heb je 24 uur de tijd om ze te gebruiken!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2016Comic">
+      <item name="zoo.window.infoLayers.easter2016Comic.layer1.bubble"><![CDATA[Er gebeuren vreemde dingen in het kippenhok. De Paashaas is te laat en heeft hulp nodig! Sluip het kippenhok in en verzamel de eieren! De Paashaas zal je dankbaar zijn!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer2.content"><![CDATA[Verzorg je dieren en verzamel kleurrijke paashaasjes die uit je verblijven tevoorschijn komen. Doorloop stap voor stap het spelbord en wissel ze in voor vrolijke beloningen.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer3.content"><![CDATA[Speel zoveel rondes als je wilt. Houd er rekening mee dat er tot het einde van het evenement paashaasjes uit je verblijven zullen komen. Je kunt ze echter nog 24 uur daarna gebruiken om beloningen te winnen.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.over"><![CDATA[Voor deze stap heb je nog paashaasjes nodig (aantal: %count%). Schiet op en ontvang je beloning!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.default"><![CDATA[Lever hier uw paashaasjes in en maak kans op fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.OceanComic">
+      <item name="zoo.window.infoLayers.OceanComic.layer1.bubble"><![CDATA[Hallo, ik ben Janička en ik train zeezoogdieren. Samen bouwen we de beste aquatische dierentuin ooit!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer1.content"><![CDATA[Sonya en de pinguïns ontdekten een oud waterpark achter een verborgen dierentuin. Er is niet veel meer van over, maar het water ziet er fantastisch uit. Laten we het renoveren!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer2.content"><![CDATA[We moeten alles zelf bouwen! De pinguïns vonden bouwtekeningen en materialen in een oude hut op het strand. Laten we beginnen met het bouwen van het eerste waterhabitat en de steiger.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer3.content"><![CDATA[De aquatische habitats zijn verkrijgbaar in drie maten, zodat alle waterdieren zich thuis voelen. Je kunt de dieren ophalen bij de Seafari of kopen bij het strandtentje!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer4.content"><![CDATA[Krijg hulp van het hele onderwaterteam! Jindra brengt het eten en Matěj het water. Franta maakt de filters schoon en ik speel met de dieren.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer5.content"><![CDATA[Houd het water in de tanks schoon en verzamel meer parels! Parels kunnen de leefomgeving nog mooier maken.]]></item>
+      <category name="zoo.window.infoLayers.oceanWorld2016Board">
+        <item name="zoo.window.infoLayers.oceanWorld2016Board.title"><![CDATA[Verjaardag]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.oceanWorld2016Comic">
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer1.bubble"><![CDATA[Hallo! De onderwaterwereld is in volle gang, dus we hebben een speciaal duikevenement voor jullie voorbereid! Zeepaardjes, een gloednieuwe Tiki Bay-zone, nieuwe winkels en versieringen wachten op jullie!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer2.content"><![CDATA[Verzorg je dieren zoals gewoonlijk en verzamel de kleurrijke zeesterren die uit je verblijven tevoorschijn komen. Verken de onderwaterzones op het speelbord en verdien beloningen!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer3.content"><![CDATA[Zodra je alle zones hebt verkend, wordt het speelbord gereset en kun je weer duiken! Zeesterren verschijnen tot het einde van het evenement. Daarna heb je 24 uur de tijd om ze te gebruiken.]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.over"><![CDATA[Je hebt nog steeds sterren nodig (aantal: %count%) voor deze stap!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.default"><![CDATA[Wissel hier je sterren in voor fantastische beloningen!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.monkey2016Comic">
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer1.bubble"><![CDATA[De apen zijn iets van plan... Help ze met hun kattenkwaad in ons nieuwe bordspel! Verdien beloningen, waaronder nieuwe winkels en versieringen voor je dierentuin!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer2.content"><![CDATA[Verzorg je dieren zoals gewoonlijk en verzamel de kleurrijke groenten die uit je verblijven tevoorschijn komen. Geef elke stokstaartje een snoepje en verdien beloningen.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer3.content"><![CDATA[Zodra je alle stokstaartjes hebt dwarsgezeten, wordt het speelbord gereset en kun je opnieuw beginnen! De groenten verschijnen tot het einde van het evenement. Daarna heb je 24 uur de tijd om ze te gebruiken.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.over"><![CDATA[Voor deze stap heb je nog steeds groenten nodig (aantal: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.default"><![CDATA[Ruil hier uw groenten in voor fantastische beloningen!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Board">
+        <item name="zoo.window.infoLayers.halloween2016Board.title"><![CDATA[Hocus pocus]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Comic">
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer1.bubble"><![CDATA[Wat doen deze mysterieuze drankjes hier? Ontdek waar ze voor dienen en verdien beloningen, waaronder exclusieve Halloween-items voor je dierentuin!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer2.content"><![CDATA[Verzorg je dieren zoals gewoonlijk en verzamel de kleurrijke flesjes die uit je verblijven verschijnen. Open ze op het speelbord en ontvang beloningen.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer3.content"><![CDATA[Zodra je alle flessen hebt geopend, wordt het spelbord gereset en kun je opnieuw beginnen! Er verschijnen flessen tot het einde van het evenement. Daarna heb je 24 uur de tijd om ze te gebruiken.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.over"><![CDATA[Voor deze stap heb je nog steeds flessen nodig (aantal: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.default"><![CDATA[Ruil hier flessen in voor fantastische beloningen!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.winter2016Comic">
+        <item name="zoo.window.infoLayers.winter2016Comic.layer1.bubble"><![CDATA[Het is Kerstmis! De sneeuw valt in de dierentuin en de dieren schrijven een brief aan de Kerstman. Vrolijk Kerstmis! De pinguïns versieren de open haard en hebben hulp nodig! Verdien kerstspullen door het bordspel te spelen!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer2.content"><![CDATA[Verzorg je dieren zoals gewoonlijk en verzamel de peperkoekmannetjes die uit je verblijven tevoorschijn komen. Reis over het speelbord en verzamel prijzen.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer3.content"><![CDATA[Als je het spel hebt uitgespeeld, wordt het speelbord gereset en kun je opnieuw beginnen! Je kunt peperkoekmannetjes verzamelen tot het einde van het evenement. Daarna heb je 24 uur de tijd om ze te gebruiken.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.over"><![CDATA[Voor deze stap heb je nog peperkoekmannetjes nodig (aantal: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.default"><![CDATA[Ruil hier je peperkoekmannetjes in voor fantastische beloningen!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Comic">
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer1.bubble"><![CDATA[Hallo! Ben je op zoek naar de liefde? Speel ons Valentijnsdag-bordspel en verzamel allerlei spullen voor de onderwaterwereld. Misschien vind je wel je ware liefde op het pad van de liefde.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer2.content"><![CDATA[Verzorg je dieren zoals gewoonlijk en verzamel de kleurrijke schelpen die uit je verblijven tevoorschijn komen. Reis over het speelbord en verzamel prijzen.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer3.content"><![CDATA[Zodra je het spel hebt uitgespeeld, wordt het speelbord gereset en kun je opnieuw beginnen! De schelpen verschijnen tot het einde van het evenement. Daarna heb je 24 uur de tijd om ze te gebruiken.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.over"><![CDATA[Voor deze stap heb je nog steeds shells nodig (aantal: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.default"><![CDATA[Wissel hier schelpen in voor fantastische beloningen!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Board">
+        <item name="zoo.window.infoLayers.valentine2017Board.title"><![CDATA[Valentijnsdag]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Comic">
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer1.bubble"><![CDATA[Reis met ons mee naar Cambodja en waag je in de diepten van de tropische wouden. Verzamel Khon-maskers en ontdek de geheimen van oude Khmer-tempels. Rijkdom en avontuur wachten op je!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer2.content"><![CDATA[Verzorg je dieren zoals gewoonlijk en verzamel de Khon-maskers die uit je verblijven tevoorschijn komen. Reis over het speelbord en verzamel prijzen.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer3.content"><![CDATA[Zodra je het spel hebt uitgespeeld, wordt het speelbord gereset en kun je opnieuw beginnen! Khon-maskers verschijnen tot het einde van het evenement. Daarna heb je 24 uur de tijd om ze te gebruiken.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.over"><![CDATA[Voor deze stap heb je nog steeds Khon-maskers nodig (aantal: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.default"><![CDATA[Stuur hier uw Khon-maskers in en maak kans op fantastische prijzen!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Board">
+        <item name="zoo.window.infoLayers.cambodia2017Board.title"><![CDATA[Reis naar Cambodja]]></item>
+      </category>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bank">
+    <item name="zoo.window.bank.title"><![CDATA[Dierentuinbank]]></item>
+    <item name="zoo.window.bank.info"><![CDATA[Wie goed beheert, zal floreren! Koop waardevolle zoodollars bij de dierentuinbank of profiteer van onze aantrekkelijke Premium-aanbiedingen!]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.title"><![CDATA[Koop<br>zoodollars]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.info"><![CDATA[Heb je weinig in-game valuta meer? Dat kan gebeuren! Wie succes wil behalen, moet investeren!]]></item>
+    <item name="zoo.window.bank.button.premium.title"><![CDATA[Premium pakket]]></item>
+    <item name="zoo.window.bank.button.premium.info"><![CDATA[Gebruik de Premium-voordelen om meer bezoekers naar uw dierentuin te trekken. Probeer het eens!]]></item>
+    <item name="zoo.window.bank.button.startpaket.title"><![CDATA[Assistenten]]></item>
+    <item name="zoo.window.bank.button.startpaket.info"><![CDATA[Wil je niet alles zelf doen? Geen probleem! De dierentuinmedewerkers helpen je graag!]]></item>
+    <item name="zoo.window.bank.button.cashaction.title"><![CDATA[Geld voor actie<br>]]></item>
+    <item name="zoo.window.bank.button.cashaction.info"><![CDATA[Toe aan een financiële boost? Hier vind je geweldige aanbiedingen! Kies een aanbieder en ontvang zoodollars!]]></item>
+    <item name="zoo.window.bank.currency.title"><![CDATA[Wisselkantoor]]></item>
+    <item name="zoo.window.bank.currency.info"><![CDATA[Wissel je zoodollars in voor zoogroshes en bouw zo voldoende reserves op in je account.]]></item>
+    <item name="zoo.window.bank.exchange.btnLabel"><![CDATA[Aandelenbeurs]]></item>
+  </category>
+</language>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.powerUpItems">
+    <item name="zoo.powerUpItems.setName.7"><![CDATA[Pootversterker]]></item>
+    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[De Paw Booster geeft je 50% meer energie gedurende 5 uur. Hij wordt direct na selectie geactiveerd.]]></item>
+  </category>
+</language>

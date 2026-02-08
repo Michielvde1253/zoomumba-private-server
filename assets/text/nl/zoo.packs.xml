@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA["Goede Start" superfoodpakket]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Dit pakket bevat 40 eenheden Superfood en 5 pootjes. Hiermee krijg je 40 keer de dubbele BZ-waarde bij het voeren en zie je hoe je de verblijven van je dieren mooier maakt!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA["Master" superfoodpakket]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Dit pakket bevat 125 eenheden Superfood en 20 Paws. Hiermee krijg je 125x dubbele BZ en kun je je verblijfplaats verfraaien!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA["Expert" superfoodpakket]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Dit pakket bevat 350 eenheden superfood en 30 pootjes, maar ook 5 cadeautjes met 5 eenheden superfood voor 5 van je vrienden. Zo kunnen zij ook profiteren van dit pakket!]]></item>
+    </category>
+  </category>
+</language>

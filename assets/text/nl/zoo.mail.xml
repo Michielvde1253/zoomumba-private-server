@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.mail">
+    <category name="zoo.mail.tabs">
+      <item name="zoo.mail.tabs.inbox"><![CDATA[Inbox]]></item>
+      <item name="zoo.mail.tabs.outbox"><![CDATA[Uitbox]]></item>
+      <item name="zoo.mail.tabs.newMail"><![CDATA[Nieuw bericht]]></item>
+      <item name="zoo.mail.tabs.contactList"><![CDATA[Adresboek]]></item>
+    </category>
+    <category name="zoo.mail.general">
+      <item name="zoo.mail.general.pagination"><![CDATA[Pagina %x% van %y%]]></item>
+      <item name="zoo.mail.general.message"><![CDATA[Bericht]]></item>
+      <item name="zoo.mail.general.send"><![CDATA[Versturen]]></item>
+      <item name="zoo.mail.general.close"><![CDATA[Dichtbij]]></item>
+      <item name="zoo.mail.general.userWrote"><![CDATA[%user% schreef:]]></item>
+      <item name="zoo.mail.general.userSent"><![CDATA[Je hebt naar speler %user% geschreven:]]></item>
+    </category>
+    <category name="zoo.mail.column">
+      <item name="zoo.mail.column.action"><![CDATA[Actie]]></item>
+      <item name="zoo.mail.column.messageSender"><![CDATA[Afzender]]></item>
+      <item name="zoo.mail.column.messageReceiver"><![CDATA[Ontvanger]]></item>
+      <item name="zoo.mail.column.messageTitle"><![CDATA[Onderwerp]]></item>
+      <item name="zoo.mail.column.messageDate"><![CDATA[Datum]]></item>
+      <item name="zoo.mail.column.playerName"><![CDATA[Spelersnaam]]></item>
+      <item name="zoo.mail.column.level"><![CDATA[Niveau]]></item>
+    </category>
+    <category name="zoo.mail.info">
+      <item name="zoo.mail.info.addUserTitle"><![CDATA[Toevoegen]]></item>
+      <item name="zoo.mail.info.addUserQuestion"><![CDATA[Wil je speler %user% echt toevoegen aan je adresboek?]]></item>
+      <item name="zoo.mail.info.deleteMessageTitle"><![CDATA[Verwijderen]]></item>
+      <item name="zoo.mail.info.deleteMessageQuestion"><![CDATA[Wil je dit bericht echt verwijderen?]]></item>
+      <item name="zoo.mail.info.deleteContactTitle"><![CDATA[Verwijderen]]></item>
+      <item name="zoo.mail.info.deleteContactQuestion"><![CDATA[Wil je speler %user% echt uit je adresboek verwijderen?]]></item>
+      <item name="zoo.mail.info.noRecipientTitle"><![CDATA[Fout]]></item>
+      <item name="zoo.mail.info.noRecipientMessage"><![CDATA[Deze speler bestaat niet.]]></item>
+      <item name="zoo.mail.info.sentOkTitle"><![CDATA[Verstuurd]]></item>
+      <item name="zoo.mail.info.noAddSelf"><![CDATA[Je kunt jezelf niet toevoegen aan je adresboek.]]></item>
+      <item name="zoo.mail.info.sentOkMessage"><![CDATA[Je bericht is succesvol verzonden.]]></item>
+      <item name="zoo.mail.info.addUserMessage"><![CDATA[Voer de naam of het ID van de speler in als u deze aan uw adresboek wilt toevoegen.]]></item>
+      <item name="zoo.mail.info.multipleUserFound"><![CDATA[Deze naam komt vaak voor. Voer de unieke en onderscheidende spelers-ID in.]]></item>
+      <item name="zoo.mail.info.writeMailError.noUserName"><![CDATA[Voer een ontvanger in zodat uw bericht kan worden verzonden.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSubject"><![CDATA[Voer een onderwerp in zodat uw bericht verzonden kan worden.]]></item>
+      <item name="zoo.mail.info.writeMailError.noMessage"><![CDATA[Voer de berichttekst in zodat uw bericht verzonden kan worden.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSelfSend"><![CDATA[Je kunt jezelf geen bericht sturen.]]></item>
+      <item name="zoo.mail.info.writeMailError.notFriend"><![CDATA[Helaas kun je alleen berichten sturen naar spelers die op je vriendenlijst staan.]]></item>
+      <item name="zoo.mail.info.writeMailError.userAlreadyExists"><![CDATA[Deze speler is al toegevoegd aan je adresboek.]]></item>
+    </category>
+  </category>
+</language>

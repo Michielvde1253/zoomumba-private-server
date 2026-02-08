@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.inventory">
+    <item name="zoo.inventory.sell.title"><![CDATA[Verkopen]]></item>
+    <item name="zoo.inventory.sell.info"><![CDATA[Hoeveel wilt u er verkopen?]]></item>
+    <item name="zoo.inventory.store.error.title"><![CDATA[BELANGRIJK]]></item>
+    <item name="zoo.inventory.store.error.info"><![CDATA[Als je je dieren met verblijven aan je inventaris wilt toevoegen, moeten ze allereerst gezond en tevreden zijn.]]></item>
+    <category name="zoo.inventory.tabs">
+      <item name="zoo.inventory.tabs.gifts"><![CDATA[Cadeaus]]></item>
+      <item name="zoo.inventory.tabs.inventory"><![CDATA[Inventaris]]></item>
+      <item name="zoo.inventory.tabs.pawprints"><![CDATA[Poten]]></item>
+      <item name="zoo.inventory.tabs.pearls"><![CDATA[Parels]]></item>
+      <item name="zoo.inventory.tabs.specials"><![CDATA[Accessoires]]></item>
+      <item name="zoo.inventory.tabs.trash"><![CDATA[Afval]]></item>
+    </category>
+    <category name="zoo.inventory.trash">
+      <item name="zoo.inventory.trash.info"><![CDATA[Milieubescherming door hergebruik: Recycle afval bij een recyclingbedrijf en gebruik de grondstoffen om iets nuttigs te maken.]]></item>
+      <item name="zoo.inventory.trash.amount"><![CDATA[Hoeveelheid afval:]]></item>
+    </category>
+    <category name="zoo.inventory.pawprints">
+      <item name="zoo.inventory.tabs.pawprints.info"><![CDATA[Hoe beter je voor je dieren zorgt, hoe meer pootafdrukken je verzamelt. Je kunt ze vervolgens gebruiken om je verblijven te verbeteren.<br><br>Huidige hoeveelheid verzamelde pootafdrukken:]]></item>
+    </category>
+    <category name="zoo.inventory.pearls">
+      <item name="zoo.inventory.tabs.pearls.info"><![CDATA[Hoe beter je voor je dieren zorgt, hoe meer parels je verdient om hun leefomgeving te verfraaien.<br><br>Huidige parelstatus:]]></item>
+    </category>
+    <category name="zoo.inventory.inventory">
+      <item name="zoo.inventory.inventory.empty"><![CDATA[OVERAL LEEG?<br>Uw voorraad is momenteel leeg.<br>Waarom gaat u niet eens in de winkel kijken of op safari gaan?]]></item>
+      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Gebruik]]></item>
+    </category>
+    <category name="zoo.inventory.gifts">
+      <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Spelersnaam]]></item>
+      <item name="zoo.inventory.gifts.headerUserID"><![CDATA[Speler-ID]]></item>
+      <item name="zoo.inventory.gifts.received"><![CDATA[Wat leuk! Je vriend(in) heeft je een cadeautje gestuurd. Snel, pak het uit!]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Uitbreiden]]></item>
+      <item name="zoo.inventory.gifts.none"><![CDATA[Wat jammer! Je hebt op dit moment geen nieuwe cadeaus... Maar wees niet getreurd, er komt binnenkort wel iets.]]></item>
+    </category>
+    <category name="zoo.inventory.move">
+      <item name="zoo.inventory.move.title"><![CDATA[Betalen]]></item>
+      <item name="zoo.inventory.move.info"><![CDATA[Voor hoeveel dieren wilt u betalen?]]></item>
+    </category>
+    <category name="zoo.inventory.allin">
+      <item name="zoo.inventory.allin.title"><![CDATA[Alles naar de inventaris sturen]]></item>
+      <item name="zoo.inventory.allin.confirmation"><![CDATA[Weet je zeker dat je alles naar de inventaris wilt sturen? Waarschuwing: Je dieren moeten schoon, gevoed en tevreden zijn voordat je dit kunt doen.]]></item>
+    </category>
+  </category>
+</language>

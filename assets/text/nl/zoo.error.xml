@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.error">
+    <category name="zoo.error.user">
+      <item name="zoo.error.user.unknown"><![CDATA[Deze speler bestaat niet.]]></item>
+      <item name="zoo.error.user.notEnoughCr"><![CDATA[Daar heb je niet genoeg zoodollars voor.]]></item>
+      <item name="zoo.error.user.notEnoughCv"><![CDATA[Daarvoor heb je niet genoeg zoogros.]]></item>
+      <item name="zoo.error.user.notRequiredLevel"><![CDATA[Je hebt het vereiste niveau nog niet bereikt.]]></item>
+    </category>
+    <category name="zoo.error.login">
+      <item name="zoo.error.login.head"><![CDATA[Aanmeldingsfout]]></item>
+      <item name="zoo.error.login.text"><![CDATA[Er is een fout opgetreden tijdens het inloggen. Controleer uw gegevens en probeer het opnieuw.]]></item>
+      <item name="zoo.error.login.blocked"><![CDATA[Je bent geblokkeerd door een beheerder.]]></item>
+      <item name="zoo.error.login.100.title"><![CDATA[Fout]]></item>
+      <item name="zoo.error.login.100.info"><![CDATA[Je hebt de bonuscode al eerder op dit account gebruikt, je kunt hem niet opnieuw gebruiken.]]></item>
+    </category>
+    <category name="zoo.error.conf">
+      <item name="zoo.error.conf.unknownObj"><![CDATA[Onbekend object]]></item>
+      <item name="zoo.error.conf.notBuyable"><![CDATA[Het artikel is momenteel niet te koop.]]></item>
+      <item name="zoo.error.conf.notEvent"><![CDATA[Dit artikel is momenteel niet van toepassing.]]></item>
+    </category>
+    <category name="zoo.error.badData">
+      <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Het spijt ons!]]></item>
+      <item name="zoo.error.badData.dailyQuests.text"><![CDATA[Oeps! Er is een fout opgetreden. Het probleem is gemeld aan het team!]]></item>
+    </category>
+    <category name="zoo.error.field">
+      <item name="zoo.error.field.unknownObj"><![CDATA[Het object is niet beschikbaar in het spel.]]></item>
+      <item name="zoo.error.field.blocked"><![CDATA[Veld bezet]]></item>
+      <item name="zoo.error.field.breedFailed"><![CDATA[De fokpoging is mislukt. Helaas hebben uw dieren geen nakomelingen voortgebracht.]]></item>
+      <item name="zoo.error.field.wrongSpecies"><![CDATA[Dit dier is niet geschikt voor dit verblijf.]]></item>
+      <item name="zoo.error.field.maxChildReached"><![CDATA[Je hebt het maximale aantal pups bereikt.]]></item>
+      <item name="zoo.error.field.maleAdultNeeded"><![CDATA[Daarvoor heb je een man nodig.]]></item>
+      <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[Daarvoor heb je een vrouw nodig.]]></item>
+      <item name="zoo.error.field.maxAdultReached"><![CDATA[Het maximale aantal volwassenen is bereikt.]]></item>
+      <item name="zoo.error.field.buildingNotFinished"><![CDATA[Dit gebouw is nog in aanbouw.]]></item>
+    </category>
+    <category name="zoo.error.db">
+      <item name="zoo.error.db.failUpdate"><![CDATA[Databankupdate mislukt.]]></item>
+    </category>
+    <category name="zoo.error.invite">
+      <item name="zoo.error.invite.requesterror"><![CDATA[Er is een fout opgetreden.]]></item>
+      <item name="zoo.error.invite.recruitexists"><![CDATA[Je hebt deze gebruiker al uitgenodigd.]]></item>
+      <item name="zoo.error.invite.global"><![CDATA[Het maximale aantal uitnodigingen is bereikt. Wacht 24 uur voordat je een nieuwe uitnodiging kunt versturen (voor alle spellen).]]></item>
+      <item name="zoo.error.invite.instance"><![CDATA[Het maximale aantal uitnodigingen is bereikt. Wacht 24 uur voordat je een nieuwe uitnodiging kunt versturen (voor alle spellen).]]></item>
+      <item name="zoo.error.invite.error"><![CDATA[Er is een fout opgetreden... probeer het later opnieuw.]]></item>
+    </category>
+  </category>
+</language>

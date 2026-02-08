@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.tutorial">
+    <category name="zoo.tutorial.tour">
+      <item name="zoo.tutorial.tour.1"><![CDATA[Welkom bij ZooMumba, jouw knotsgekke dierentuin! Mijn naam is Sonja en ik zal je stap voor stap uitleggen hoe het spel werkt.<br><br>In de winkel kun je verschillende dierenverblijven kopen, die je vervolgens op het speelveld kunt plaatsen.]]></item>
+      <item name="zoo.tutorial.tour.2"><![CDATA[Klik op het verblijf en koop een dier. Let goed op of je een mannetje of een vrouwtje koopt.<br><br>Als je ze allebei in het verblijf hebt, kun je binnenkort nakomelingen verwachten!]]></item>
+      <item name="zoo.tutorial.tour.3"><![CDATA[Verzorg je dieren regelmatig, knuffel ze en speel met ze. Zo worden ze gelukkig en tevreden. Probeer het eens!]]></item>
+      <item name="zoo.tutorial.tour.4"><![CDATA[Je moet je verblijven, gebouwen en attracties met elkaar verbinden door paden die naar de ingang leiden, zodat bezoekers alles kunnen bewonderen.]]></item>
+      <item name="zoo.tutorial.tour.5"><![CDATA[Haal voer en alles wat uw dieren nodig hebben in de winkel: vlees, fruit, gras - kijk gerust even rond!]]></item>
+      <item name="zoo.tutorial.tour.6"><![CDATA[Vanaf niveau 2 kun je ook gebouwen en kraampjes in de winkel kopen om je dierentuin nog aantrekkelijker te maken voor bezoekers. <br><br>Je kunt je entreegelden regelmatig ophalen bij het hoofdgebouw.]]></item>
+      <item name="zoo.tutorial.tour.7"><![CDATA[Hoe meer bezoekers je dierentuin verwelkomt, hoe meer afval je moet opruimen. <br><br>Houd je dierentuin schoon en ruim het afval op om je bezoekers tevreden te houden!]]></item>
+      <item name="zoo.tutorial.tour.8"><![CDATA[Hoe meer blije bezoekers je dierentuin heeft, hoe hoger je Zoometer zal stijgen.<br><br>Ga ervoor en bouw de meest fantastische dierentuin ter wereld – in ZooMumba! Veel plezier!]]></item>
+    </category>
+    <category name="zoo.tutorial.general">
+      <item name="zoo.tutorial.general.forgive.title"><![CDATA[Overslaan]]></item>
+      <item name="zoo.tutorial.general.forgive.text"><![CDATA[Wil je deze stap echt overslaan?]]></item>
+      <item name="zoo.tutorial.general.award"><![CDATA[Taak %currentTask% succesvol voltooid. Totaal aantal taken: %totalTasks%]]></item>
+    </category>
+    <category name="zoo.tutorial.title">
+      <item name="zoo.tutorial.title.0"><![CDATA[Welkom bij het spel ZooMumba!]]></item>
+      <item name="zoo.tutorial.title.1"><![CDATA[Vang de pinguïns!]]></item>
+      <item name="zoo.tutorial.title.2"><![CDATA[Voer de pinguïns!]]></item>
+      <item name="zoo.tutorial.title.3"><![CDATA[Verzorging en knuffelen]]></item>
+      <item name="zoo.tutorial.title.4"><![CDATA[Behuizingen bouwen]]></item>
+      <item name="zoo.tutorial.title.5"><![CDATA[Hoera, laten we de dieren in hun verblijven zetten!]]></item>
+      <item name="zoo.tutorial.title.6"><![CDATA[Maak een nieuw pad aan]]></item>
+      <item name="zoo.tutorial.title.7"><![CDATA[Gooi het afval weg!]]></item>
+      <item name="zoo.tutorial.title.8"><![CDATA[Extra voeding]]></item>
+      <item name="zoo.tutorial.title.9"><![CDATA[Fok de nakomelingen]]></item>
+      <item name="zoo.tutorial.title.10"><![CDATA[Verdienmogelijkheid]]></item>
+      <item name="zoo.tutorial.title.11"><![CDATA[Je was er bijna!]]></item>
+      <item name="zoo.tutorial.title.12"><![CDATA[Hoera, het is je gelukt!]]></item>
+      <item name="zoo.tutorial.title.13"><![CDATA[Hoera! Nodig nu je vrienden uit!]]></item>
+      <item name="zoo.tutorial.title.14"><![CDATA[De safari begint!]]></item>
+    </category>
+    <category name="zoo.tutorial.main">
+      <item name="zoo.tutorial.main.0"><![CDATA[Mag ik me even voorstellen? Mijn naam is Sonja, en ik ga uitleggen hoe dit te gekke dierentuinspel werkt. Ben je er klaar voor? Kom op, dierentuindirecteur!]]></item>
+      <item name="zoo.tutorial.main.1"><![CDATA[Er is een klein ongelukje gebeurd! De pinguïns zijn ontsnapt uit hun verblijf! Help me ze snel te vangen en terug te brengen naar hun verblijf.]]></item>
+      <item name="zoo.tutorial.main.2"><![CDATA[Geweldig! Na al dat rondrennen hebben ze honger en dorst. Geef ze genoeg water en vis. Klik op het verblijf, vervolgens op de vis en de emmer.]]></item>
+      <item name="zoo.tutorial.main.3"><![CDATA[Klik op de borstel en maak het verblijf schoon. Zie je? Het is nu brandschoon! En nog even lekker knuffelen met deze gekke zeehonden - klik op de teddybeer.]]></item>
+      <item name="zoo.tutorial.main.4"><![CDATA[Dat is geweldig! Je weet echt hoe je voor de dieren moet zorgen! Nu kun je verblijven bouwen. Ga naar de winkel, klik op het verblijf en plaats het in je dierentuin.]]></item>
+      <item name="zoo.tutorial.main.5"><![CDATA[Zet een paar spraakzame papegaaien in de volière. Klik op de volière, selecteer een vrouwtje en een mannetje in de winkel en plaats ze erin.]]></item>
+      <item name="zoo.tutorial.main.6"><![CDATA[Verbind de verblijven met paden. Hoe beter de verbindingen, hoe aantrekkelijker je dierentuin zal zijn. Maak een pad naar de papegaaienvolière.]]></item>
+      <item name="zoo.tutorial.main.7"><![CDATA[Met de toestroom van toeristen zul je ook veel afval hebben. Ruim het op door op de schep te klikken.]]></item>
+      <item name="zoo.tutorial.main.8"><![CDATA[Haal wat voer voor al je dieren in de winkel. Vandaag heb je fruit nodig voor de papegaaien.]]></item>
+      <item name="zoo.tutorial.main.9"><![CDATA[Als je een mannetje en een vrouwtje samen hebt, klik dan op de knop "Fokken" en vervolgens op "Nu kopen".]]></item>
+      <item name="zoo.tutorial.main.10"><![CDATA[De gebouwen in je dierentuin genereren zoogros, dus zorg ervoor dat je je inkomsten regelmatig ophaalt. Klik hiervoor simpelweg op de zoogros boven het gebouw.]]></item>
+      <item name="zoo.tutorial.main.11"><![CDATA[Klaar. Nog vragen? Neem de tijd om de tips te lezen. Beweeg je muis maar wat rond: je wordt er nóg slimmer van!]]></item>
+      <item name="zoo.tutorial.main.12"><![CDATA[We kunnen elkaar de hand schudden, collega. Je bent uitgegroeid tot een beproefde dierentuindirecteur. Jouw opgebouwde kennis heeft je dierentuin werkelijk beroemd gemaakt. En dat is iets om te vieren!]]></item>
+      <item name="zoo.tutorial.main.13"><![CDATA[Ssst... Wist je dat? Je kunt nu je vrienden uitnodigen voor het spel. Stuur gewoon een e-mail en jullie kunnen samen beginnen met spelen!]]></item>
+      <item name="zoo.tutorial.main.14"><![CDATA[Hoera! Je hebt level 7 bereikt: de safariwereld ligt nu aan je voeten. Trap het gaspedaal in en klik op de jeep in het controlecentrum, of bekijk het menu in het hoofdgebouw. ​​Ga ervoor!]]></item>
+    </category>
+    <category name="zoo.tutorial.hint">
+      <item name="zoo.tutorial.hint.0"><![CDATA[GEEN]]></item>
+      <item name="zoo.tutorial.hint.1"><![CDATA[GEEN]]></item>
+      <item name="zoo.tutorial.hint.2"><![CDATA[Geef je dieren supervoer en verdien extra ervaringspunten!]]></item>
+      <item name="zoo.tutorial.hint.3"><![CDATA[Je kunt aan het humeur van de kat zien hoe gelukkig de dieren zijn. Hoe beter je voor ze zorgt, hoe gelukkiger ze zullen zijn.]]></item>
+      <item name="zoo.tutorial.hint.4"><![CDATA[Klik op het gebouw om de bouwtijd te verkorten.]]></item>
+      <item name="zoo.tutorial.hint.5"><![CDATA[Als je nakomelingen wilt fokken, zorg er dan voor dat je een mannetje en een vrouwtje in het verblijf plaatst.]]></item>
+      <item name="zoo.tutorial.hint.6"><![CDATA[Zorg ervoor dat uw verblijven met elkaar verbonden zijn door paden. Anders verliest uw dierentuin zijn aantrekkelijkheid.]]></item>
+      <item name="zoo.tutorial.hint.7"><![CDATA[Zorg goed voor de vuilnisbakken, zodat je dierentuin schoon blijft.]]></item>
+      <item name="zoo.tutorial.hint.8"><![CDATA[Geef je dieren vaker het beste voer. Je verdient er veel ervaringspunten mee!]]></item>
+      <item name="zoo.tutorial.hint.9"><![CDATA[De fopspeen geeft aan wanneer het fokken is voltooid.]]></item>
+      <item name="zoo.tutorial.hint.10"><![CDATA[Heb je bijna geen in-game valuta meer? Koop er meer! Klik op de gouden tas.]]></item>
+      <item name="zoo.tutorial.hint.13"><![CDATA[Voer het e-mailadres in van de vriend die je wilt uitnodigen voor het spel.]]></item>
+      <item name="zoo.tutorial.hint.14"><![CDATA[Om de verschillende safarigebieden te bezoeken, heb je verschillende hoeveelheden brandstof nodig. Je kunt echter geen afgesloten gebieden betreden.]]></item>
+    </category>
+    <category name="zoo.tutorial.success">
+      <item name="zoo.tutorial.success.title"><![CDATA[Oké!]]></item>
+      <item name="zoo.tutorial.success.step.1"><![CDATA[Geweldig! De pinguïns zijn terug in hun verblijf. Klik op de pijl om verder te gaan naar de volgende stap.]]></item>
+      <item name="zoo.tutorial.success.step.2"><![CDATA[Mmm! Je pinguïns zitten nu vol. Klik op de pijl om verder te gaan!]]></item>
+      <item name="zoo.tutorial.success.step.3"><![CDATA[Goed gedaan! De vrolijke zeehonden zijn nu schoon en blij. Klik op de pijl om verder te gaan!]]></item>
+      <item name="zoo.tutorial.success.step.4"><![CDATA[Uitstekend werk! Je behuizing is klaar. Klik op de pijl om door te gaan naar de volgende stap.]]></item>
+      <item name="zoo.tutorial.success.step.5"><![CDATA[Hoera! Je hebt nu papegaaien in je dierentuin! Klik op de pijl om verder te gaan!]]></item>
+      <item name="zoo.tutorial.success.step.6"><![CDATA[Ga zo door! Bezoekers bewonderen de nieuwe verblijven. Klik op de pijl om verder te gaan!]]></item>
+      <item name="zoo.tutorial.success.step.7"><![CDATA[Perfect! Vanaf nu zijn de paden brandschoon. Klik op de pijl om verder te gaan!]]></item>
+      <item name="zoo.tutorial.success.step.8"><![CDATA[Wat geweldig! De papegaaien zitten nu vol. Klik op de pijl om verder te gaan!]]></item>
+      <item name="zoo.tutorial.success.step.9"><![CDATA[Wat schattig! Je hebt met succes papegaaienjongen geadopteerd. Klik op de pijl om verder te gaan!]]></item>
+      <item name="zoo.tutorial.success.step.10"><![CDATA[Geweldig! Het geld stroomt binnen! Je bent er bijna! Klik snel nog een keer op de pijl.]]></item>
+      <item name="zoo.tutorial.success.step.11"><![CDATA[Zo makkelijk! Je bent al bijna een professional in het verzamelen van punten in het menu. Nog één klik en je bent aan het einde van onze kleine reis.]]></item>
+    </category>
+  </category>
+</language>
