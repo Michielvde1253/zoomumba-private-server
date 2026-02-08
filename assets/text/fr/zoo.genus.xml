@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Ara d'Arakanga]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[Ces perroquets joyeux sont très bavards ! Gardez-les toujours en couple ou en groupe. Les visiteurs adorent ces oiseaux intelligents au plumage aux couleurs éclatantes !]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[flamant rose]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[Ces magnifiques animaux roses attirent l'attention des visiteurs. Ils se nourrissent principalement de plancton, mais apprécient également le poisson frais. Un vrai régal pour les oiseaux gourmands !]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[zèbre des montagnes]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[Des rayures, des rayures, des rayures partout ! C'est hallucinant ! Dans un monde où les zèbres sont omniprésents, c'est un excellent camouflage, mais chez nous, ils ont l'air plutôt ridicules. Les zèbres ont toute leur place dans les zoos, alors ne vous laissez pas tromper !]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Rhinocéros]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[Ces grands pachydermes sont solitaires. Rien d'étonnant à leurs cornes ! Malgré leur apparence imposante, ils se battent rarement. Il est toutefois préférable de ne garder ensemble qu'un mâle et une femelle.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[Hippopotame amphibien]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[Sur terre, ils ressemblent à d'imposants colosses, mais les apparences sont trompeuses. Prenez garde à ne pas les contrarier, car une fois lancés, il est fortement déconseillé de se trouver sur leur chemin. Heureusement, ce sont des animaux paisibles si l'on respecte leur tranquillité.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Girafe marbrée]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[Toujours perchées dans les nuages ​​! Les girafes atteignent les fruits les plus sucrés tout en haut des arbres. Il n'est donc pas étonnant que ces derniers soient bien broutés. Grâce à leur long cou, elles s'élèvent très haut et raffolent des jeunes feuilles vertes !]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[rennes arctiques]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[Les rennes vivent en troupeaux dans le Grand Nord. Même dans les conditions extrêmes de l'Arctique, ces animaux intrépides trouvent un endroit où survivre.]]></item>
+    </category>
+  </category>
+</language>

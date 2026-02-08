@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.waterstorehouse">
+    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Château d'eau]]></item>
+    <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Bâtiment d'entrepôt]]></item>
+    <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Les animaux ont besoin de beaucoup d'eau. Améliorez votre château d'eau niveau par niveau et assurez-vous d'avoir suffisamment d'eau pour tous vos animaux à mesure que votre zoo s'agrandit.]]></item>
+    <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Vos animaux ont besoin de beaucoup de nourriture. Agrandissez vos réserves progressivement et assurez-vous d'avoir suffisamment de nourriture pour tous à mesure que votre zoo s'agrandit.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Bravo ! Vous avez agrandi l'entrepôt au maximum.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[Bravo ! Vous avez agrandi le château d'eau au niveau maximum.]]></item>
+    <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Aktuální stupeň rozšíření : %have% / %max%]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.water"><![CDATA[Capacité actuelle du château d'eau]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.store"><![CDATA[Capacité actuelle du stockage]]></item>
+    <item name="zoo.window.waterstorehouse.buy.titel"><![CDATA[Développer]]></item>
+    <item name="zoo.window.waterstorehouse.buy.text"><![CDATA[Souhaiteriez-vous agrandir votre zoo ?]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgraderc"><![CDATA[Développez-vous pour obtenir des zoodollars]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Développez pour Zoogrosh]]></item>
+    <item name="zoo.window.waterstorehouse.buy.nextcap"><![CDATA[Nouvelle taille :]]></item>
+  </category>
+</language>

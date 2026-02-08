@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Bienvenue à notre événement de la Saint-Valentin ! Du 8 au 15 février, plongez dans une ambiance romantique ! Amusez-vous avec notre jeu spécial Saint-Valentin et tentez de gagner de superbes prix !]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Découvrez comment procéder :]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Prenez soin de vos animaux et collectionnez des objets pour la Saint-Valentin : des cœurs, des mots doux et l’arc et les flèches de Cupidon. Utilisez-les pour gagner d’adorables surprises lors du jeu romantique de la Saint-Valentin !]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Grâce aux objets que vous avez collectés, vous pouvez vous déplacer sur le terrain de jeu et remporter des prix : des cerfs majestueux, de l’essence de Tolija et des potions de croissance vous attendent !]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[N'hésitez pas à consulter la boutique : vous y trouverez des bonus utiles qui vous garantiront encore plus de succès et de plaisir dans le jeu !]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Double le nombre d'articles pour la Saint-Valentin pendant 1 heure.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Relancez le jeu de société]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Notre événement de la Saint-Valentin touche à sa fin ! Vous ne recevrez plus de rubans, de lettres ni de cœurs. Mais ne vous découragez pas ! Il vous reste encore du temps pour gagner des récompenses de la Saint-Valentin :]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Maintenant que vous avez gagné le cerf et la biche, vous pouvez recommencer la partie ! Il vous suffit de cliquer sur la coche verte ou sur le bouton « Nouveau » du plateau de jeu.]]></item>
+    </category>
+  </category>
+</language>

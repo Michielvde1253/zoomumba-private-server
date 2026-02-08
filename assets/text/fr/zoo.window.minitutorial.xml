@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.minitutorial">
+    <item name="zoo.window.minitutorial.title"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.minitutorial.infopage.1"><![CDATA[Bienvenue dans ZooMumba, votre aventure zoologique déjantée ! Je m’appelle Sonja et je vais vous expliquer pas à pas comment fonctionne le jeu.<br><br>Dans la boutique, vous pouvez acheter différents enclos pour animaux et les placer dans votre zoo.]]></item>
+    <item name="zoo.window.minitutorial.infopage.2"><![CDATA[Cliquez sur l'enclos et achetez un animal. Assurez-vous de vérifier s'il s'agit d'un mâle ou d'une femelle.<br><br> Si vous avez les deux sexes dans l'enclos, vous pouvez vous attendre à voir naître bientôt des petits !]]></item>
+    <item name="zoo.window.minitutorial.infopage.3"><![CDATA[Prenez soin régulièrement de vos animaux, câlinez-les et jouez avec eux. Ils seront ainsi heureux et épanouis. Essayez !]]></item>
+    <item name="zoo.window.minitutorial.infopage.4"><![CDATA[Vous devez relier vos enclos, bâtiments et attractions par des chemins menant à l'entrée afin que les visiteurs puissent tout admirer.]]></item>
+    <item name="zoo.window.minitutorial.infopage.5"><![CDATA[Trouvez de la nourriture et tout ce dont vos animaux ont besoin dans notre boutique : viande, fruits, herbe… n’hésitez pas à jeter un coup d’œil !]]></item>
+    <item name="zoo.window.minitutorial.infopage.6"><![CDATA[À partir du niveau 2, vous pouvez également ajouter des bâtiments et des stands à la boutique, rendant ainsi votre zoo encore plus attractif pour les visiteurs. <br><br>Vous pouvez percevoir régulièrement les recettes des droits d'entrée dans le bâtiment principal.]]></item>
+    <item name="zoo.window.minitutorial.infopage.6b"><![CDATA[Vous commencerez avec quelques ZooDollars. Utilisez-les pour acquérir de magnifiques animaux et des attractions spéciales, ou pour embaucher des assistants. Ils vous aideront à entretenir votre zoo. <br><br>Et si vous n'avez plus de ZooDollars, pas de panique ! Vous pouvez les recharger à tout moment à la ZooBank.]]></item>
+    <item name="zoo.window.minitutorial.infopage.7"><![CDATA[Plus vous accueillerez de visiteurs dans votre zoo, plus vous aurez de déchets à ramasser. <br><br>Gardez votre zoo propre et ramassez les déchets. Vos visiteurs vous en seront reconnaissants !]]></item>
+    <item name="zoo.window.minitutorial.infopage.8"><![CDATA[Plus votre zoo accueille de visiteurs satisfaits, plus votre zoomètre augmentera. <br><br>À vos marques, prêts, créez le plus beau zoo du monde ! Amusez-vous bien !]]></item>
+  </category>
+</language>

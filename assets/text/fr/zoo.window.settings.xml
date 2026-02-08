@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.settings">
+    <item name="zoo.window.settings.info"><![CDATA[Bonjour, directeur du zoo !<br>Ici, vous pouvez personnaliser ZooMumba à votre guise ! Amusez-vous bien !]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[sur]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[désactivé]]></item>
+    <item name="zoo.window.settings.quality.low"><![CDATA[faible]]></item>
+    <item name="zoo.window.settings.quality.middle"><![CDATA[moyen]]></item>
+    <item name="zoo.window.settings.quality.high"><![CDATA[haut]]></item>
+    <item name="zoo.window.settings.quality.title"><![CDATA[arts graphiques]]></item>
+    <item name="zoo.window.settings.quality.info"><![CDATA[Qualité]]></item>
+    <item name="zoo.window.settings.account.title"><![CDATA[Modifier le compte]]></item>
+    <item name="zoo.window.settings.account.info"><![CDATA[Ici, vous pouvez modifier les informations de votre compte de jeu, telles que votre adresse e-mail.]]></item>
+    <item name="zoo.window.settings.title.tooltipps"><![CDATA[Infobulles]]></item>
+    <item name="zoo.window.settings.title.visitors"><![CDATA[Visiteurs]]></item>
+    <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Les souhaits des visiteurs]]></item>
+    <item name="zoo.window.settings.title.sound"><![CDATA[Son]]></item>
+    <item name="zoo.window.settings.title.sound.background"><![CDATA[Musique]]></item>
+    <item name="zoo.window.settings.title.sound.effects"><![CDATA[Bruitage]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[ajuster]]></item>
+    <item name="zoo.window.settings.tab.account"><![CDATA[compte]]></item>
+    <item name="zoo.window.settings.tab.config"><![CDATA[Configuration]]></item>
+    <item name="zoo.window.settings.tab.buildings"><![CDATA[Bâtiment principal]]></item>
+    <item name="zoo.window.settings.buildings.info"><![CDATA[Choisissez le bâtiment d'entrée du zoo selon vos goûts. Les bâtiments principaux disponibles dépendent de votre niveau. Ainsi, votre zoo sera de plus en plus personnalisé !]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Animation]]></item>
+    <item name="zoo.window.settings.anim.info"><![CDATA[Nombre d'animations animales]]></item>
+    <item name="zoo.window.settings.saveAssets"><![CDATA[mémoire tampon]]></item>
+  </category>
+</language>
