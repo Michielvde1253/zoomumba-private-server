@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Conserje Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley mantendrá todos los recintos relucientes. Su truco consiste en involucrar a los animales, convirtiendo la limpieza en un juego divertido.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[La guardiana Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[La cuidadora Sonja sabe cómo cuidar a los animales a la perfección. Solo ella puede mimarlos a todos a la vez.]]></item>
+  </category>
+</language>

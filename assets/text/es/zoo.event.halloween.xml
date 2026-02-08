@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[¡Hola! Soy Lucka y me encantan los murciélagos, pero sobre todo sus adorables crías. Tráeme todos los que puedas y tendré artículos de Halloween preciosos para ti. Simplemente intercambia los dulces para obtener los de la izquierda o los ácidos para obtener los de la derecha.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Inventario]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Elige cuántos bebés %species% quieres mover a tu inventario.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[¡Nos disculpamos!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Lamentablemente, no tienes suficientes crías de murciélago en tu inventario. Cría crías de murciélago y muévelas a tu inventario para comprar este objeto.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Pequeños murciélagos en inventario]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Intercambia pequeños murciélagos por dulces]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Cambia los murciélagos pequeños por los agrios]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Número: Dulce]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Invierte %x% dulces para desbloquear este artículo]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Invierte %x% de dinero para desbloquear este objeto]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Número: Agrio]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Ayuda]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Trasladar crías de murciélago al inventario]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[¡Bienvenidos al evento de Halloween!<br>Del <b>25 de octubre al 1 de noviembre</b>, ¡comienza una fiesta espeluznante en tu zoológico! Te esperan muchos regalos y sorpresas. En el siguiente paso, verás cómo funciona todo.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[¡Reúne todos los dulces y agrios que puedas! ¡Necesitas los dulces y agrios para activar los remolques fantasma! Descubrirás cómo funciona todo en la siguiente página.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Si tienes suficientes dulces y ácidos, puedes usarlos para activar objetos. Pero ten cuidado: los dulces te harán mirar a la izquierda, y los ácidos a la derecha. El ojo te indicará en qué lado se activan los objetos.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Puedes obtener objetos activados intercambiándolos por crías de murciélago. Cría un montón de adorables murciélagos. Un nuevo botón en el menú del recinto te ayudará a guardar las crías en tu inventario de forma rápida y sencilla.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[¡Diviértete en la tienda espeluznante!<br> Para los impacientes: Puedes cambiar lo agridulce por murciélagos bebés en la tienda. ¡Te esperan más sorpresas!<br> <br>¡Diviértete en Halloween este año!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[¡Es hora de divertirse de forma espeluznante!<br>Del <b>31 de octubre al 6 de noviembre</b>, ¡habrá una fiesta de Halloween en tu zoológico!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[¡Reúne tantas calabazas como puedas! Saldrán de los recintos a medida que cuides de tus animales.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Añádelas a la gran cesta de calabazas para nuestra <b>Batalla de Calabazas</b>. Cuantas más calabazas entregues, más aterradoras recompensas podrás ganar.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Mientras cuidas a tus animales, saldrán premios de los recintos. Podrán recogerlos todos juntos. La barra de acción se llenará y un ojo flotante les mostrará los premios espeluznantes disponibles para todos. Hagan clic en la recompensa una vez activada.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Reúne calabazas para la gran batalla. Cuantas más recolectes, más premios podrás ganar.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[¡Todos a jugar juntos! ¡Los regalos de todos los zoológicos llenarán el medidor y desbloquearán premios automáticamente para todos!]]></item>
+    </category>
+  </category>
+</language>

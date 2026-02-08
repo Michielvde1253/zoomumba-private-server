@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[¡Feliz navidad!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[Del 21 de diciembre al 2 de enero, ¡todo en tu zoológico gira en torno a la Navidad! ¡Decora tu árbol de Navidad y ayúdame a salvar la Navidad!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Primero cría 8 renos voladores y luego un Papá Noel Rodolfo para su trineo. Por cada reno que le traigas, recibirás un regalo.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[De vez en cuando, Papá Noel también te regalará un adorno para tu árbol de Navidad. Al final, podrás quedarte con tu árbol decorado.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[¡Genial! ¡Aquí también tenemos una colección especial de Navidad! Cuida a tus animales y colecciona artículos navideños. ¡También puedes usarlos para criar renos!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Grandes sorpresas en la tienda navideña]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Transforma tu zoológico en un colorido mundo invernal: con muchas decoraciones navideñas nuevas y populares.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[¡Feliz Navidad y diviértete en el evento navideño!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[¡Qué terrible! ¡Los renos de Papá Noel se escaparon y ahora no puede repartir regalos! Tráele 8 renos voladores y a Rodolfo de Papá Noel y colócalos delante de su trineo. Como agradecimiento, ¡recibirás regalos geniales!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Santa está de camino a:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Ganaste:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[¡Mira tu árbol de Navidad en el estacionamiento!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[¡Consigue un nuevo atuendo para tu avatar!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[¡Rápido, echa un vistazo a tu inventario!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[¡Gracias!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Tus renos están deseando salir a la carretera. ¡Gracias a ti, la Navidad está salvada!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[¡Gracias!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Todavía faltan algunos renos, ¡pero es hora de ponerme en camino! No se preocupen, lo averiguaré; después de todo, ¡soy Papá Noel!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[El árbol de Navidad decorado de tu estacionamiento ahora está en tu inventario.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Primero, llevemos 8 renos mágicos a Santa.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[¡Papá Noel ya tiene 8 renos voladores y todo lo que le falta es su Rodolfo!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Decoración navideña]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Navidad en forma]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Pareja de búhos nivales]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Número de renos mágicos machos en tu inventario.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[La cantidad de renos voladores hembras que tienes en tu inventario.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Antes de traerle a Santa Claus su Rodolfo, primero necesita 8 renos voladores.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[La cantidad de Papá Noel Rudolph machos en tu inventario.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[La cantidad de Santa Rudolphs hembras en tu inventario.]]></item>
+    </category>
+  </category>
+</language>

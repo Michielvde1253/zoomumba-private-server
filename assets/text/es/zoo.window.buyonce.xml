@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.buyonce">
+    <item name="zoo.window.buyonce.info"><![CDATA[¡Tu nivel es demasiado bajo! ¿No quieres esperar a alcanzar el nivel requerido? ¡Entonces compra al instante con zoodólares!]]></item>
+  </category>
+</language>

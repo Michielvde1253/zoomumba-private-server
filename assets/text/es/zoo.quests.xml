@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.quests">
+    <category name="zoo.quests.tabs">
+      <item name="zoo.quests.tabs.daily"><![CDATA[Tareas diarias]]></item>
+      <item name="zoo.quests.tabs.achievements"><![CDATA[Honores]]></item>
+      <item name="zoo.quests.tabs.collectables"><![CDATA[Colecciones]]></item>
+    </category>
+    <category name="zoo.quests.daily">
+      <item name="zoo.quests.daily.info"><![CDATA[Hay mucho trabajo por hacer a diario en todos los zoológicos: ¡toda ayuda es bienvenida! Asumid estas tareas diarias y completadlas.]]></item>
+      <item name="zoo.quests.daily.nextquest.timestamp"><![CDATA[Nuevas tareas en:]]></item>
+      <item name="zoo.quests.daily.refreshTitle"><![CDATA[Tareas diarias]]></item>
+      <item name="zoo.quests.daily.refreshQuestion"><![CDATA[Por una pequeña cuota, puedes conseguir nuevas tareas diarias. ¿Te gustaría?]]></item>
+      <item name="zoo.quests.daily.taskTitle"><![CDATA[Tarea]]></item>
+      <item name="zoo.quests.daily.rewardTitle"><![CDATA[Remuneración]]></item>
+      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Tarea de inicio]]></item>
+      <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Obtener recompensa]]></item>
+      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Abortar_tarea]]></item>
+      <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Tarea]]></item>
+      <item name="zoo.quests.daily.window.activequest.info"><![CDATA[Ya estás realizando otra tarea. Por favor, completa la tarea activa antes de comenzar la siguiente.]]></item>
+      <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Cancelar]]></item>
+      <item name="zoo.quests.daily.window.abortquest.info"><![CDATA[Si cancelas esta tarea, se eliminará de tu lista de tareas. ¿Seguro que deseas cancelarla?]]></item>
+      <item name="zoo.quests.daily.window.achievereward.title"><![CDATA[¡Felicidades!]]></item>
+      <item name="zoo.quests.daily.window.achievereward.info"><![CDATA[Has completado con éxito tu tarea y recibes la siguiente recompensa:]]></item>
+    </category>
+    <category name="zoo.quests.help">
+      <item name="zoo.quests.help.daily.title"><![CDATA[Ejemplos de lectura]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Ejemplo 1: Dar 50 fardos de comida a cualquier animal.<br>Ejemplo 2: Criar 2 cachorros de león.]]></item>
+    </category>
+    <category name="zoo.quests.achievements.individual">
+      <item name="zoo.quests.achievements.individual.info.congrats"><![CDATA[¡Genial! Has completado la siguiente tarea con éxito:]]></item>
+      <item name="zoo.quests.achievements.individual.1.title"><![CDATA[Maestro de los abrazos]]></item>
+      <item name="zoo.quests.achievements.individual.2.title"><![CDATA[Amigo animal]]></item>
+      <item name="zoo.quests.achievements.individual.3.title"><![CDATA[Experto en cría]]></item>
+      <item name="zoo.quests.achievements.individual.4.title"><![CDATA[Comerciante/comerciante]]></item>
+      <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Maestro de la carne]]></item>
+      <item name="zoo.quests.achievements.individual.6.title"><![CDATA[Debe haber orden.]]></item>
+      <item name="zoo.quests.achievements.individual.7.title"><![CDATA[Abanico de cereales integrales]]></item>
+      <item name="zoo.quests.achievements.individual.8.title"><![CDATA[Bien hecho]]></item>
+      <item name="zoo.quests.achievements.individual.9.title"><![CDATA[La hierba es divertida]]></item>
+      <item name="zoo.quests.achievements.individual.10.title"><![CDATA[Adicto a las vitaminas]]></item>
+      <item name="zoo.quests.achievements.individual.11.title"><![CDATA[pescado fresco]]></item>
+      <item name="zoo.quests.achievements.individual.12.title"><![CDATA[Calmante de la sed]]></item>
+      <item name="zoo.quests.achievements.individual.1.requirement"><![CDATA[Se acurrucaron con sus animales %val%-mal.]]></item>
+      <item name="zoo.quests.achievements.individual.2.requirement"><![CDATA[Poseer %val% de animales.]]></item>
+      <item name="zoo.quests.achievements.individual.3.requirement"><![CDATA[Cría %val% de bebés.]]></item>
+      <item name="zoo.quests.achievements.individual.4.requirement"><![CDATA[Reúne %val% veces el ingreso en zoogross para tus edificios.]]></item>
+      <item name="zoo.quests.achievements.individual.5.requirement"><![CDATA[Alimenta %val%-veces trozos de carne.]]></item>
+      <item name="zoo.quests.achievements.individual.6.requirement"><![CDATA[Mostrar %val% papelera.]]></item>
+      <item name="zoo.quests.achievements.individual.7.requirement"><![CDATA[Alimente con %val% grano.]]></item>
+      <item name="zoo.quests.achievements.individual.8.requirement"><![CDATA[Gana %val% XP vaciando la papelera.]]></item>
+      <item name="zoo.quests.achievements.individual.9.requirement"><![CDATA[Alimentar con %val% pasto.]]></item>
+      <item name="zoo.quests.achievements.individual.10.requirement"><![CDATA[Alimenta a %val% fruta.]]></item>
+      <item name="zoo.quests.achievements.individual.11.requirement"><![CDATA[Alimenta a %val% de peces.]]></item>
+      <item name="zoo.quests.achievements.individual.12.requirement"><![CDATA[Dale a tus animales %val% de agua.]]></item>
+      <item name="zoo.quests.achievements.individual.bronze.congrats"><![CDATA[Tus animales se regocijan porque has desbloqueado una nueva pieza del rompecabezas en el conjunto Bronce.]]></item>
+      <item name="zoo.quests.achievements.individual.silver.congrats"><![CDATA[Tus animales se regocijan porque has lanzado una nueva pieza del rompecabezas en el juego de plata.]]></item>
+      <item name="zoo.quests.achievements.individual.gold.congrats"><![CDATA[Tus animales se regocijan porque has desbloqueado una nueva pieza del rompecabezas en el conjunto dorado.]]></item>
+      <item name="zoo.quests.achievements.individual.platinum.congrats"><![CDATA[Tus animales se regocijan porque has desbloqueado una nueva pieza del rompecabezas en el Set Platino.]]></item>
+      <item name="zoo.quests.achievements.individual.open.achievements.info"><![CDATA[¡Ahora ve a la ventana de tu tarea para ver la imagen!]]></item>
+    </category>
+    <category name="zoo.quests.achievements.unlocked">
+      <item name="zoo.quests.achievements.unlocked.bronze.title"><![CDATA[Conjunto de bronce]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.title"><![CDATA[Juego de plata]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.title"><![CDATA[Conjunto de oro]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.title"><![CDATA[Conjunto de platino]]></item>
+      <item name="zoo.quests.achievements.unlocked.bronze.description"><![CDATA[¡Felicidades! Has completado todas las tareas del Conjunto Bronce y recibirás las siguientes recompensas:]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.description"><![CDATA[¡Felicidades! Has completado todas las tareas del Conjunto Plata y recibirás las siguientes recompensas:]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.description"><![CDATA[¡Felicidades! Has completado todas las tareas del Conjunto Oro y recibirás las siguientes recompensas:]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.description"><![CDATA[¡Felicidades! Has completado todas las tareas del Conjunto Platino y recibirás las siguientes recompensas:]]></item>
+      <item name="zoo.quests.achievements.unlocked.open.achievements.info"><![CDATA[¡Ahora ve a tu ventana de tareas para ver la imagen completamente desbloqueada!]]></item>
+      <item name="zoo.quests.help.daily.title"><![CDATA[Ejemplos de lectura]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Ejemplo 1: Alimentar con 50x comida a cualquier animal.<br>Ejemplo 2: Criar 2 cachorros de león.]]></item>
+    </category>
+  </category>
+</language>
