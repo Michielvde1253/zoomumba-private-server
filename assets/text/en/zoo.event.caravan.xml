@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
- <category name="zoo.event.caravan">
-  <item name="zoo.event.caravan.bubble"><![CDATA[Jsem na cestě do rezervace, kde chtějí zvýšit populaci mláďat -  %species%. Pomůžeš mi? Na 120 hodin ti půjčím pár - %species%. Za %amount% mláďat %species% dostaneš jednoho dospělého.]]></item>
-  <item name="zoo.event.caravan.borrow"><![CDATA[Vypůjčit pár]]></item>
-  <item name="zoo.event.caravan.species"><![CDATA[Anakonda]]></item>
-  <item name="zoo.event.caravan.getBaby"><![CDATA[Super! Nyní máš ve svém inventáři alespoň 5 mláďat. Vyměň je se mnou rychle za jednoho dospělého Orangutana!]]></item>
-  <item name="zoo.event.caravan.success"><![CDATA[Super! Opravdu jsi mi velmi pomohl! Nyní převezu mláďata do rezervace a tam je vypustím do přírody. Mnohokrát děkuji a zase někdy příště!]]></item>
-  <item name="zoo.event.caravan.end"><![CDATA[Zvířecí mobil je už zase na cestě do rezervace a odvezl si s sebou dvě zvířata, která sis vypůjčil. Tvá narozená mláďata najdeš v inventáři.]]></item>
- </category>
- <category name="zoo.event.caravan.tooltip">
-  <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Na výměnu mláďat ti zůstává ještě %count% hodin.]]></item>
-  <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Mláďata Orangutana ve tvém inventáři]]></item>
-  <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Mláďata Orangutana přesunout do inventáře.]]></item>
- </category>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[I'm on my way to a reserve where they want to increase the population of - %species%. Can you help me? I'll lend you a pair of - %species% for 120 hours. For %amount% of %species% babies, you'll get one adult.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Borrow a pair]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Anaconda]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Great! You now have at least 5 babies in your inventory. Quickly exchange them with me for one adult Orangutan!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Great! You really helped me a lot! Now I will take the cubs to the reserve and release them into the wild there. Thank you very much and see you next time!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[The animal mobile is back on its way to the reserve, bringing with it two animals you borrowed. You can find your newborn babies in your inventory.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[You have %count% hours left to swap cubs.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Baby Orangutans in your inventory]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Move the Orangutan babies to inventory.]]></item>
+    </category>
+  </category>
 </language>

@@ -1,17 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
-  <category name="zoo.shop.category">
-    <item name="zoo.shop.category.cages"><![CDATA[Habitats]]></item>
-    <item name="zoo.shop.category.animals"><![CDATA[Animals]]></item>
-    <item name="zoo.shop.category.stores"><![CDATA[Buildings]]></item>
-    <item name="zoo.shop.category.deco"><![CDATA[Decorations]]></item>
-    <item name="zoo.shop.category.assistants"><![CDATA[Assistants]]></item>
-    <item name="zoo.shop.category.resources"><![CDATA[Feed]]></item>
-    <item name="zoo.shop.category.specials"><![CDATA[Accessories]]></item>
-    <item name="zoo.shop.category.roads"><![CDATA[Roads]]></item>
-    <item name="zoo.shop.category.material"><![CDATA[Material]]></item>
-  </category>
-  <category name="zoo.shop.tabbar">
-    <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Tudy se dostaneš do dílny]]></item>
+  <category name="zoo.shop">
+    <category name="zoo.shop.category">
+      <item name="zoo.shop.category.animals"><![CDATA[Animals]]></item>
+      <item name="zoo.shop.category.cages"><![CDATA[Habitats]]></item>
+      <item name="zoo.shop.category.stores"><![CDATA[Buildings]]></item>
+      <item name="zoo.shop.category.deco"><![CDATA[Decorations]]></item>
+      <item name="zoo.shop.category.resources"><![CDATA[Feed]]></item>
+      <item name="zoo.shop.category.assistants"><![CDATA[Assistants]]></item>
+      <item name="zoo.shop.category.specials"><![CDATA[Accessories]]></item>
+      <item name="zoo.shop.category.roads"><![CDATA[Roads]]></item>
+      <item name="zoo.shop.category.material"><![CDATA[Material]]></item>
+    </category>
+    <category name="zoo.shop.tabbar">
+      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[This is how you get to the workshop.]]></item>
+    </category>
   </category>
 </language>

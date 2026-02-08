@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
- <category name="zoo.eventABtrade.button">
-  <item name="zoo.eventABtrade.button.trade"><![CDATA[Vyměnit]]></item>
- </category>
- <category name="zoo.eventABtrade.layer">
-  <item name="zoo.eventABtrade.layer.intro"><![CDATA[Haló, já jsem Lukáš, ředitel zoo v sousedním městě. Slyšel jsem, že tvoje zvířecí zdravotní sestra, Soňa Starostlivá, odchovává nové zvířecí druhy, které mě velmi zajímají. Za každého samečka druhu %priceSpecies% ti dám samečka druhu %rewardSpecies% a nebo samici za samici. Po dobu mé přítomností se doba líhnutí tvého druhu %priceGenus%s zkrátí z 20 na 2 hodiny! Tak jdeš do toho?]]></item>
-  <item name="zoo.eventABtrade.layer.end"><![CDATA[Nyní se vracím do své zoo.  Mnohokrát děkuji a snad se zase brzy uvidíme!]]></item>
- </category>
+  <category name="zoo.eventABtrade">
+    <category name="zoo.eventABtrade.button">
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Exchange]]></item>
+    </category>
+    <category name="zoo.eventABtrade.layer">
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Hello, I'm Lukáš, the director of the zoo in the neighboring town. I heard that your animal nurse, Soňa Starostlivá, is breeding new animal species that I'm very interested in. For every male of the species %priceSpecies%, I'll give you a male of the species %rewardSpecies% or a female for a female. During my presence, the incubation time of your species %priceGenus%s will be reduced from 20 to 2 hours! So, are you in?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[I am now returning to my zoo. Thanks a lot and I hope to see you again soon!]]></item>
+    </category>
+  </category>
 </language>

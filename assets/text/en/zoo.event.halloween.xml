@@ -1,40 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
- <category name="zoo.event.halloween.layer">
-  <item name="zoo.event.halloween.layer.prizes"><![CDATA[Ahoj! Já jsem Lucka a miluji netopýry! Ale hlavně jejich roztomilá mláďata. Přines mi tolik mláďat, jak je to jen možné, budu pak pro tebe mít moc pěkné halloweenské předměty. Vyměň jednoduše sladké, abys dostal předměty na levé straně nebo kyselé, abys dostal předměty zprava.]]></item>
-  <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Inventář]]></item>
-  <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Zvol si, kolik mláďat %species% chceš přesunout do svého inventáře.]]></item>
-  <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Omlouváme se!]]></item>
-  <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Bohužel nemáš ve svém inventáři dostatek netopýřích mláďat. Odchovej malé netopýry a přesuň je do inventáře, aby sis mohl tento předmět koupit.]]></item>
- </category>
- <category name="zoo.event.halloween.tooltip">
-  <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Malí netopýři v inventáři]]></item>
-  <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Vyměň malé netopýry za sladké ]]></item>
-  <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Vyměň malé netopýry za kyselé]]></item>
-  <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Počet: Sladké ]]></item>
-  <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Investuj %x% sladkých pro odemknutí tohoto předmětu]]></item>
-  <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Investuj %x% kyselých pro odemknutí tohoto předmětu]]></item>
-  <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Počet: Kyslé]]></item>
-  <item name="zoo.event.halloween.tooltip.help"><![CDATA[Pomoc]]></item>
-  <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Mláďata netopýra přesunout do inventáře ]]></item>
- </category>
- <category name="zoo.event.halloween.comic">
-  <item name="zoo.event.halloween.comic.1"><![CDATA[Vítáme tě na akci k halloweenu!<br> Od <b>25. října do 1. listopadu</b> začíná ve tvé zoo hrůzostrašná párty! Čeká na tebe množství dárků a překvapení. V dalším kroku uvidíš, jak bude všechno fungovat.]]></item>
-  <item name="zoo.event.halloween.comic.2"><![CDATA[Nasbírej co nejvíce <b>sladkého</b> a <b>kyselého</b> kolik jen můžeš! Potřebuješ sladké a kyselé k aktivaci přívěsů duchů! Jak vše funguje se dozvíš na příští stránce.]]></item>
-  <item name="zoo.event.halloween.comic.3"><![CDATA[Pokud máš dostatek sladkého a kyselého, můžeš je použít k aktivaci <b>předmětů</b>.   Ale pozor: Sladkým koukneš okem nalevo, kyselým napravo. Oko ti ukáže, na jaké straně jsou předměty aktivovány.]]></item>
-  <item name="zoo.event.halloween.comic.4"><![CDATA[Získáš aktivované předměty tím, že je vyměníš za <b>netopýří mláďata</b>. Odchovej mnoho roztomilých netopýrků. Nové tlačítko v menu výběhu ti pomůže uložit mláďata rychle a jednoduše v inventáři.]]></item>
-  <item name="zoo.event.halloween.comic.5"><![CDATA[Hodně zábavy v hrůzostrašném obchodě!<br> Pro všechny netrpělivé: Sladké a kyselé se dá v obchodě vyměnit za netopýří mláďata. V obchodě tě očekávají další překvapení.<br> <br>Hodně zábavy při halloweenu v tomto roce!]]></item>
- </category>
- <category name="zoo.event.halloween2012.comicSinglePlayer">
-  <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[Je čas na hrůzostrašnou zábavu!<br>Od <b>31.10. do 6.11.</b> bude ve tvé zoo hallooweenská párty!]]></item>
-  <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Posbírej tolik <b>dýní</b>, kolik jen můžeš! Budou vyskakovat z výběhů, když budeš pečovat o svá zvířata.]]></item>
-  <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Přidej je do velkého dýňového koše pro naši <b>dýňovou bitvu</b>.  Čím více dýní dodáš, tím hrůzostrašnější odměny můžeš vyhrát.]]></item>
- </category>
- <category name="zoo.event.halloween2012.comicMultiPlayer">
-  <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Když se budeš starat o svá zvířata, budou z výběhů vyskakovat dobroty. Můžete všichni sbírat společně. Akční ukazatel se zaplní a plovoucí oko ukáže, které strašidelné ceny jsou pro všechny k dispozici. Klikni na odměnu, jakmile bude aktivována.]]></item>
- </category>
- <category name="zoo.event.halloween2012.bubble">
-  <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Sbírej dýně pro velkou dýňovou bitvu. Čím víc jich nasbíráš, tím víc cen můžeš vyhrát.]]></item>
-  <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Všichni hrají společně! Dobroty ze všech zoo naplní měřič a automaticky odemknou ceny pro všechny!]]></item>
- </category>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Hi! I'm Lucka and I love bats! But especially their cute babies. Bring me as many babies as possible, then I'll have some really nice Halloween items for you. Simply swap sweet ones to get the items on the left or sour ones to get the items on the right.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Inventory]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Choose how many %species% babies you want to move to your inventory.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[We apologize!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Unfortunately, you don't have enough baby bats in your inventory. Breed baby bats and move them to your inventory to purchase this item.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Small bats in inventory]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Exchange small bats for sweets]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Swap small bats for sour ones]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Number: Sweet]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Invest %x% sweets to unlock this item]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Invest %x% sour to unlock this item]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Number: Sour]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Help]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Move baby bats to inventory]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Welcome to the Halloween event!<br> From <b>October 25th to November 1st</b>, a spooky party is starting in your zoo! Lots of gifts and surprises are waiting for you. In the next step, you will see how everything will work.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Collect as many <b>sweet</b> and <b>sour</b> as you can! You need the sweet and sour to activate the ghost trailers! You'll find out how it all works on the next page.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[If you have enough sweet and sour, you can use them to activate <b>items</b>. But be careful: Sweets will make you look with your eye to the left, sours with your eye to the right. The eye will show you which side the items are activated on.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[You can get activated items by exchanging them for <b>baby bats</b>. Raise lots of cute bats. A new button in the enclosure menu will help you save the babies to your inventory quickly and easily.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Have fun in the spooky shop!<br> For all the impatient: Sweet and sour can be exchanged for baby bats in the shop. More surprises await you in the shop.<br> <br>Have fun at Halloween this year!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[It's time for some spooky fun!<br>From <b>October 31st to November 6th</b>, there will be a Halloween party at your zoo!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Collect as many <b>pumpkins</b> as you can! They'll pop out of the enclosures as you take care of your animals.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Add them to the big pumpkin basket for our <b>Pumpkin Battle</b>. The more pumpkins you deliver, the more terrifying rewards you can win.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[As you care for your animals, treats will pop out of the enclosures. You can all collect them together. The action bar will fill up and a floating eye will show you which spooky prizes are available for everyone. Click on the reward once it's activated.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Collect pumpkins for the big pumpkin battle. The more you collect, the more prizes you can win.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Everyone plays together! Goodies from all the zoos will fill the meter and automatically unlock prizes for everyone!]]></item>
+    </category>
+  </category>
 </language>

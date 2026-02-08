@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
- <item name="zoo.powerUpItems.setName.7"><![CDATA[Booster tlapek]]></item>
- <item name="zoo.powerUpItems.setInfo.7"><![CDATA[Díky boosteru tlapek získáš po 5 hodin o 50% více tlapek. Bude aktivován okamžitě po výběru.]]></item>
+  <category name="zoo.powerUpItems">
+    <item name="zoo.powerUpItems.setName.7"><![CDATA[Paw booster]]></item>
+    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[The Paw booster will give you 50% more Paws for 5 hours. It will be activated immediately after selection.]]></item>
+  </category>
 </language>

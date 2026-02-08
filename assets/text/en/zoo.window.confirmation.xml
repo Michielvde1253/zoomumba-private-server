@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.confirmation">
-    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[To unlock this zoo, you need to be at level %level%. Or unlock it immediately for %zooDollar% zoodollars.]]></item>
-    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[This zoo is not available yet. You can unlock it by reaching %level% expansions in the following zoo: %zooName%. Or unlock it immediately for %zooDollar% zoodollars.]]></item>
     <item name="zoo.window.confirmation.closegame.title"><![CDATA[End game]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[This zoo is not available yet. You can unlock it by reaching %level% expansions in the following zoo: %zooName%. Or unlock it immediately for %zooDollar% zoodollars.]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[To unlock this zoo, you need to be at level %level%. Or unlock it immediately for %zooDollar% zoodollars.]]></item>
     <item name="zoo.window.confirmation.map.level"><![CDATA[You need to be at level %level% to unlock this zoo.]]></item>
     <item name="zoo.window.confirmation.map.buy"><![CDATA[Do you want to buy a zoo expansion?]]></item>
     <item name="zoo.window.confirmation.title.buy"><![CDATA[Buy]]></item>
@@ -16,9 +16,9 @@
     <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Do you really want to sell this item?]]></item>
     <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[Warning]]></item>
     <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[If you place the enclosure into your inventory, it will lose its action upgrade.<br><br>Do you want to continue?]]></item>
-  </category>
-  <category name="zoo.window.confirmation.gift">
-    <item name="zoo.window.confirmation.gift.title"><![CDATA[Attention!]]></item>
-    <item name="zoo.window.confirmation.gift.info"><![CDATA[You haven't selected your 5 friends yet! If you continue, your gifts will be lost. That would be a shame... Do you still want to continue?]]></item>
+    <category name="zoo.window.confirmation.gift">
+      <item name="zoo.window.confirmation.gift.title"><![CDATA[Attention!]]></item>
+      <item name="zoo.window.confirmation.gift.info"><![CDATA[You haven't selected your 5 friends yet! If you continue, your gifts will be lost. That would be a shame... Do you still want to continue?]]></item>
+    </category>
   </category>
 </language>

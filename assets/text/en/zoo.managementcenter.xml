@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.managementcenter">
     <item name="zoo.tooltip.managementcenter.message.buylayer"><![CDATA[Do you really want to buy the building '%building%' for %zoodollar% zoodollars?]]></item>

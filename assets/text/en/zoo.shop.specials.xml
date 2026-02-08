@@ -1,21 +1,23 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
-  <category name="zoo.shop.specials.powerUps">
-    <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[S boosterem 30% si zajistíš 1 hodinu o 30% BZ navíc! Pokud si koupíš 2 stejné boostery, čas se tím prodlouží. Tip: Jeden 30% booster BZ a jeden 100% booster BZ platí současně a odmění tě po celou 1 hodinu 130% BZ navíc.]]></item>
-    <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Booster 30% EP]]></item>
-    <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[100% booster EP]]></item>
-    <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[Se 100% boosterem BZ si zajistíš po celou 1 hodinu o 100% BZ navíc! Pokud si koupíš 2 stejné boostery, čas se tím prodlouží. Tip: jeden 100% booster BZ a jeden 30% booster BZ platí současně, a ty tak získáš po celou 1 hodinu o 130% BZ navíc!]]></item>
-    <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30% paw booster]]></item>
-    <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[Se 30% boosterem tlapek si zajistíš po celou 1 hodinu o 30% tlapek navíc! Pokud si koupíš 2 stejné boostery, čas se tím prodlouží. Tip: jeden 30% booster tlapek a jeden 100% booster tlapek k tomu platí současně, a ty tak získáš po celou 1 hodinu o 130% tlapek navíc!]]></item>
-    <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100% booster tlapek]]></item>
-    <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[Se 100% boosterem tlapek si zajistíš po celou 1 hodinu o 100% tlapek navíc!  Pokud si koupíš 2 stejné boostery, čas se tím prodlouží. Tip: jeden 100% booster tlapek a jeden 30% booster tlapek k tomu platí současně, a ty tak získáš po celou 1 hodinu o 130% tlapek navíc!]]></item>
-    <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Booster pro stolní hru]]></item>
-    <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[S boosterem pro stolní hru si zajistíš na 1 hodinu dvojnásobek sběratelských předmětů, které budou vyskakovat z výběhů! Chceš-li tuto dobu prodloužit, kup si více boosterů.]]></item>
-    <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[30% booster zoogrošů]]></item>
-    <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[S 30% boosterem si ze svých obchodů zajistíš po dobu 1 hodiny 30 % zoogrošů navíc! Pokud si koupíš 2 stejné boostery, čas se tím prodlouží. Tip: Jeden 30% booster zoogrošů a jeden 100% booster zoogrošů platí současně a odmění tě po celou 1 hodinu 130% zoogrošů navíc.]]></item>
-    <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[100% booster zoogrošů]]></item>
-    <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[Se 100% boosterem si ze svých obchodů zajistíš po dobu 1 hodiny 100 % zoogrošů navíc! Pokud si koupíš 2 stejné boostery, čas se tím prodlouží. Tip: Jeden 100% booster zoogrošů a jeden 30% booster zoogrošů platí současně a odmění tě po celou 1 hodinu 130% zoogrošů navíc.]]></item>
-    <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Booster chovné stanice]]></item>
-    <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Vzácní kříženci snadno! Booster v chovné stanici ti zajistí, že tvá mláďata během 24 hodin dosáhnou alespoň o jeden level výš, než je nejnižší level jednoho z jejich rodičů.  Ale pozor: Booster funguje jen tehdy, když mládě vyzvedneš z chovné stanice.]]></item>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Booster 30% EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[With the 30% booster you will get 30% more BZ for 1 hour! If you buy 2 of the same boosters, the time will be extended. Tip: One 30% BZ booster and one 100% BZ booster are valid at the same time and will reward you with 130% more BZ for the entire 1 hour.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[100% booster EP]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[With the 100% BZ booster, you get 100% more BZ for the entire 1 hour! If you buy 2 of the same boosters, the time will be extended. Tip: one 100% BZ booster and one 30% BZ booster are valid at the same time, so you get 130% more BZ for the entire 1 hour!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30% paw booster]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[With the 30% Paw Booster you get 30% more Paws for the entire 1 hour! If you buy 2 of the same boosters, the time will be extended. Tip: one 30% Paw Booster and one 100% Paw Booster are valid at the same time, so you get 130% more Paws for the entire 1 hour!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100% paw booster]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[With the 100% Paw Booster you get 100% more Paws for the entire 1 hour! If you buy 2 of the same boosters, the time will be extended. Tip: one 100% Paw Booster and one 30% Paw Booster are valid at the same time, so you get 130% more Paws for the entire 1 hour!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Board game booster]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[With the board game booster, you'll get double the amount of collectibles that will pop out of the enclosures for 1 hour! If you want to extend this time, buy more boosters.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[30% zoocoin booster]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[With a 30% booster, you will get 30% extra zoogros from your shops for 1 hour! If you buy 2 of the same boosters, the time will be extended. Tip: One 30% zoogros booster and one 100% zoogros booster are valid at the same time and will reward you with 130% extra zoogros for the entire 1 hour.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[100% zoocoin booster]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[With a 100% booster, you will get 100% extra zoogros from your shops for 1 hour! If you buy 2 of the same boosters, the time will be extended. Tip: One 100% zoogros booster and one 30% zoogros booster are valid at the same time and will reward you with 130% extra zoogros for the entire 1 hour.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Breeding station booster]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Rare hybrids made easy! The Breeding Station Booster will ensure that your hatchlings reach at least one level higher than the lowest level of one of their parents within 24 hours. But be careful: The Booster only works if you pick up the hatchling from the Breeding Station.]]></item>
+    </category>
   </category>
 </language>

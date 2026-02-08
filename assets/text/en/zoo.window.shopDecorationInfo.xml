@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.shopDecorationInfo">
     <item name="zoo.window.shopDecorationInfo.titel_1"><![CDATA[Shrubs]]></item>
@@ -157,10 +157,10 @@
     <item name="zoo.window.shopDecorationInfo.text_79"><![CDATA[This twisted tree looms ghastly over the heads of your guests. That'll be the start of the spooky Halloween fun at the door.]]></item>
     <item name="zoo.window.shopDecorationInfo.titel_80"><![CDATA[Halloween street pumpkin]]></item>
     <item name="zoo.window.shopDecorationInfo.text_80"><![CDATA[Everything is ready: the spooky pumpkins with their cheerful contorted grimaces decorate the path to Halloween.]]></item>
-    <item name="zoo.window.shopDecorationInfo.titel_81"><![CDATA[]]></item>
-    <item name="zoo.window.shopDecorationInfo.text_81"><![CDATA[]]></item>
-    <item name="zoo.window.shopDecorationInfo.titel_82"><![CDATA[]]></item>
-    <item name="zoo.window.shopDecorationInfo.text_82"><![CDATA[]]></item>
+    <item name="zoo.window.shopDecorationInfo.titel_81"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.shopDecorationInfo.text_81"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.shopDecorationInfo.titel_82"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.shopDecorationInfo.text_82"><![CDATA[#VALUE!]]></item>
     <item name="zoo.window.shopDecorationInfo.titel_83"><![CDATA[The Witch's Hut]]></item>
     <item name="zoo.window.shopDecorationInfo.text_83"><![CDATA[Hihihihihihi, the witches laugh. They fly on their broomsticks around the witches' hut and scare the visitors. It gives one of them the creeps!]]></item>
     <item name="zoo.window.shopDecorationInfo.titel_84"><![CDATA[Christmas bag]]></item>

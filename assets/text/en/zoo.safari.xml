@@ -1,82 +1,84 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
-  <item name="zoo.safari.title"><![CDATA[Safari]]></item>
-  <item name="zoo.safari.fuel_singular"><![CDATA[Kanystr benzínu]]></item>
-  <category name="zoo.safari.errors">
-    <item name="zoo.safari.errors.notAvailable"><![CDATA[Škoda! Bohužel je Tvůj level příliš nízký! Od levelu 7 to můžeš se safari tour pořádně rozjet!]]></item>
-  </category>
-  <category name="zoo.safari.welcomeWindow">
-    <item name="zoo.safari.welcomeWindow.infoText"><![CDATA[Vítej na safari plném dobrodružství: Vyhraj skvělé odměny a dokonce nová zvířata!  <br /><br />Stačí si v dalším kroku vybrat oblast, ve které chceš se safari začít.  <br /><br />Hurá do divočiny!]]></item>
-  </category>
-  <category name="zoo.safari.regionWindow">
-    <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Vyber si region]]></item>
-    <item name="zoo.safari.startWindow.infoText"><![CDATA[Ve kterém regionu chceš se safari začít? Vyber si ho zde: V každém regionu jsou 3 oblasti, které můžeš aktivovat v závislosti na svém levelu.]]></item>
-  </category>
-  <category name="zoo.safari.shopWindow">
-    <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Ahooj dobrodruhu! Vyprav se na pořádné safari. Využij přitom žolíků, kteří Ti usnadní cestu do divočiny.<br><br>Důležité: Pro svou cestu si zvol jen jednoho z každého typu žolíků!]]></item>
-    <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[Chceš investovat %skipTimerCost% zoodollarů a odstartovat safari hned?]]></item>
-    <item name="zoo.safari.shopWindow.infoText"><![CDATA[Jsi připravený na safari? Takže takhle to funguje: V dalším kroku uvidíš hru: skládá se z 9 až 25 zakrytých karet. Karty skrývají odměny nebo také stopy zvířat, po kterých půjdeš, abys získal hlavní výhru. Ale pozor: každá karta může skrývat také past!<br /><br />Vidíš ten kanystr s benzínem vpravo dole? Ukazuje Ti, kolik benzínu je ještě v nádrži Tvého džípu. Jakmile odkryješ kartu, spotřebuješ tak benzín.<br /><br />A teď k pravidlům hry: Na začátku si můžeš vybrat karty jen ze spodní řady. Klikni na kartu a ta se otočí. Tak uvidíš, jestli jsi něco našel a pokud ano, tak co to je. Poté si můžeš vybrat karty, které jsou nad nebo pod poslední kartou, ale také vpravo nebo vlevo od ní. Hra skončí, až najdeš zvíře. Ale skončí i tehdy, pokud už nebudeš mít benzín.<br /> <br />Zvyš své šance na skvělý nález se žolíkem z obchodu. Existují 2 typy žolíků: Karetní a navigační. Nech si pomoct při odkrývání karet karetním žolíkem - odkryje Ti karty navíc. Navigační žolík Tě díky kompasu povede správným směrem.<br /><br />Můžeš si s sebou na safari vzít jednoho žolíka z každého typu. Ať jsi žolíka použil nebo ne, na konci safari všichni propadají.]]></item>
-  </category>
-  <category name="zoo.safari.miniGame">
-    <item name="zoo.safari.miniGame.tileInfo.trap"><![CDATA[Oje, narazil jsi na překážku. To je k zlosti, 1 kanystr benzínu je tak fuč.]]></item>
-    <item name="zoo.safari.miniGame.tileInfo.treasure"><![CDATA[Super! Našel jsi %treasureCount% %treasureName%. Rychle, hledej dál, můžeš najít ještě plno pokladů.]]></item>
-    <item name="zoo.safari.miniGame.tileInfo.animal"><![CDATA[Super! Gratulace, podívej, co jsi objevil! Je to %animal%! Rychle do zoo, čeká už na Tebe v inventáři. Tím jsi safari úspěšně zakončil.]]></item>
-    <item name="zoo.safari.miniGame.closeWarning"><![CDATA[Chceš safari opravdu ukončit? Pokud ano, nemůžeš už dnes začít žádné safari a Tvůj benzín a zásoby jsou fuč!]]></item>
-    <item name="zoo.safari.miniGame.noJoker"><![CDATA[Žádný žolík]]></item>
-    <item name="zoo.safari.miniGame.buyGasThenEmpty"><![CDATA[Jsi těsně před cílem! A Tvoje nádrž je bohužel prázdná. Chceš za pár zoodollarů natankovat a pokračovat v safari dál? Tak si vyber, kolik benzínu bys chtěl nakoupit.]]></item>
-    <item name="zoo.safari.miniGame.buyMissingGas"><![CDATA[Množství kanystrů benzínu pro tento terén je %neededGas%. Zatím máš ale jen %missingGas%. Chceš nakoupit za zoodollary potřebný benzín?]]></item>
-    <item name="zoo.safari.miniGame.buyGas"><![CDATA[Zvol, prosím, kolik benzínu chceš nakoupit. Ale pozor: Nespotřebuješ-li na safari celou zásobu benzínu, zbytek propadne.]]></item>
-  </category>
-  <category name="zoo.safari.minigameInfo">
-    <item name="zoo.safari.minigameInfo.title"><![CDATA[Návod]]></item>
-    <item name="zoo.safari.minigameInfo.1"><![CDATA[Vítej ve Tvém safari!<br /> Objev nevšední zvířata a skvělé poklady. Ale dávej pozor, kam se ubírají Tvé kroky. Všude číhají pasti. Podle druhu terénu spotřebuješ různé množství benzínu.<br /><br />Safari je u konce, jakmile je Tvá nádrž prázdná nebo pokud jsi našel zvíře.]]></item>
-    <item name="zoo.safari.minigameInfo.2"><![CDATA[Do divočiny se dostaneš kliknutím na jedno ze spodních políček.]]></item>
-    <item name="zoo.safari.minigameInfo.3"><![CDATA[Pohybuj se po přímých liniích na sever, jih, západ a východ.]]></item>
-    <item name="zoo.safari.minigameInfo.4"><![CDATA[Své žolíky můžeš kdykoliv aktivovat. Mají pro Tebe cenné tipy, které Tě dovedou rychleji k cíli.]]></item>
-    <item name="zoo.safari.minigameInfo.terains"><![CDATA[K dispozici jsou následující typy terénů:<br />]]></item>
-    <item name="zoo.safari.minigameInfo.terains.1.name"><![CDATA[Jednoduchý terén]]></item>
-    <item name="zoo.safari.minigameInfo.terains.1.info"><![CDATA[Spotřebuješ 1 jednotku benzínu.]]></item>
-    <item name="zoo.safari.minigameInfo.terains.2.name"><![CDATA[Obtížnější terén]]></item>
-    <item name="zoo.safari.minigameInfo.terains.2.info"><![CDATA[Spotřebuješ 3 jednotky benzínu.]]></item>
-    <item name="zoo.safari.minigameInfo.terains.3.name"><![CDATA[Neprůchodný terén]]></item>
-    <item name="zoo.safari.minigameInfo.terains.3.info"><![CDATA[Zákaz vstupu]]></item>
-    <item name="zoo.safari.minigameInfo.terains.4.name"><![CDATA[Probádaný terén]]></item>
-    <item name="zoo.safari.minigameInfo.terains.4.info"><![CDATA[Spotřebuješ 1 jednotku benzínu.]]></item>
-    <item name="zoo.safari.minigameInfo.events"><![CDATA[Můžeš najít následující předměty: <br />]]></item>
-    <item name="zoo.safari.minigameInfo.events.1.name"><![CDATA[STOPY]]></item>
-    <item name="zoo.safari.minigameInfo.events.2.name"><![CDATA[POKLAD]]></item>
-    <item name="zoo.safari.minigameInfo.events.1.info"><![CDATA[Naznačují směr, kde se zvíře může zdržovat.]]></item>
-    <item name="zoo.safari.minigameInfo.events.2.info"><![CDATA[Jupíí, poklad se skvělým překvapením.]]></item>
-    <item name="zoo.safari.minigameInfo.events.3.name"><![CDATA[BARRIER]]></item>
-    <item name="zoo.safari.minigameInfo.events.3.info"><![CDATA[Will cost you 1 gasoline unit.]]></item>
-    <item name="zoo.safari.minigameInfo.events.4.name"><![CDATA[ENCOUNTER WITH AN ANIMAL]]></item>
-    <item name="zoo.safari.minigameInfo.events.4.info"><![CDATA[If you encounter an animal, it belongs to you and the mission is over.]]></item>
-  </category>
-  <category name="zoo.safari.jokers">
-    <item name="zoo.safari.jokers.titel_1"><![CDATA[Monkey, the advisor]]></item>
-    <item name="zoo.safari.jokers.titel_2"><![CDATA[Sonya, the advisor]]></item>
-    <item name="zoo.safari.jokers.titel_3"><![CDATA[Compass]]></item>
-    <item name="zoo.safari.jokers.titel_4"><![CDATA[Fast travelling]]></item>
-    <item name="zoo.safari.jokers.text_1"><![CDATA[Everyone needs a little help from time to time. If you let the monkey help, you can reveal one randomly chosen card.<br /><br />Are you curious? Let's get to it!]]></item>
-    <item name="zoo.safari.jokers.text_2"><![CDATA[Do you want to reveal a certain card and advance in the safari?<br /><br /><br /> Use the help of the advisor Sonia. With her help, you will reveal the card of your choice. This will help you reach your goal faster. Good luck!]]></item>
-    <item name="zoo.safari.jokers.text_3"><![CDATA[Need help? Use the compass as a joker to mark a card for you. You will find the animal you are looking for or a trap on it. Are you eager to find out what is hidden on it? So hurry up and find out!]]></item>
-    <item name="zoo.safari.jokers.text_4"><![CDATA[But now to the point: Are you just crawling towards your goal step by step? Aren't you fast enough?<br /><br />Then use the joker: He will mark 3 cards for you, among which the animal you are looking for may be hidden, but also a trap.<br /><br />Animal or trap... Quick, look!]]></item>
-  </category>
-  <category name="zoo.safari.tooltip">
-    <item name="zoo.safari.tooltip.cantStartSafari"><![CDATA[You can start your safari after you reach level 7]]></item>
-    <item name="zoo.safari.tooltip.startSafari"><![CDATA[Jump into the jeep: Click here to start the safari!]]></item>
-    <item name="zoo.safari.tooltip.backToZoo"><![CDATA[Back to the zoo]]></item>
-    <item name="zoo.safari.tooltip.regionSmall"><![CDATA[Small]]></item>
-    <item name="zoo.safari.tooltip.regionMedium"><![CDATA[Medium]]></item>
-    <item name="zoo.safari.tooltip.regionLarge"><![CDATA[Big]]></item>
-    <item name="zoo.safari.tooltip.skipTimerInShop"><![CDATA[You get a certain amount of gasoline cans for each day.<br/> Want more now? Then shorten your waiting time with zoodollars!]]></item>
-    <item name="zoo.safari.tooltip.buyGasInMinigame"><![CDATA[Click to buy more gasoline.]]></item>
-    <item name="zoo.safari.tooltip.regeonLevelRequared"><![CDATA[This region will be accessible after you reach the level %regionLevel%.]]></item>
-  </category>
-  <category name="zoo.safari.button">
-    <item name="zoo.safari.button.startSafari"><![CDATA[Start the safari]]></item>
-    <item name="zoo.safari.button.endSafari"><![CDATA[Finalize safari]]></item>
-    <item name="zoo.safari.button.activate"><![CDATA[Activate]]></item>
-    <item name="zoo.safari.button.use"><![CDATA[Deploy]]></item>
+  <category name="zoo.safari">
+    <item name="zoo.safari.title"><![CDATA[Safari]]></item>
+    <item name="zoo.safari.fuel_singular"><![CDATA[Gasoline canister]]></item>
+    <category name="zoo.safari.errors">
+      <item name="zoo.safari.errors.notAvailable"><![CDATA[Too bad! Unfortunately, your level is too low! From level 7 you can start the safari tour!]]></item>
+    </category>
+    <category name="zoo.safari.welcomeWindow">
+      <item name="zoo.safari.welcomeWindow.infoText"><![CDATA[Welcome to a safari full of adventure: Win great rewards and even new animals! <br /><br />In the next step, just choose the area where you want to start your safari. <br /><br />Hurray, into the wild!]]></item>
+    </category>
+    <category name="zoo.safari.regionWindow">
+      <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Choose a region]]></item>
+      <item name="zoo.safari.startWindow.infoText"><![CDATA[Which region do you want to start your safari in? Choose it here: In each region there are 3 areas that you can activate depending on your level.]]></item>
+    </category>
+    <category name="zoo.safari.shopWindow">
+      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Hey adventurer! Go on a real safari. Use the jokers to make your way into the wilderness easier.<br><br>Important: Choose only one of each type of joker for your journey!]]></item>
+      <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[Do you want to invest %skipTimerCost% zoodollars and start your safari right away?]]></item>
+      <item name="zoo.safari.shopWindow.infoText"><![CDATA[Are you ready for a safari? Here's how it works: In the next step, you'll see a game: it consists of 9 to 25 face-down cards. The cards hide rewards or animal tracks that you'll follow to get the main prize. But be careful: each card can also hide a trap!<br /><br />See that gas canister at the bottom right? It shows you how much gas is left in your jeep's tank. As soon as you reveal a card, you'll use up some gas.<br /><br />And now for the rules of the game: At the beginning, you can only choose cards from the bottom row. Click on a card and it will turn over. This way you can see if you've found something and if so, what it is. Then you can choose cards that are above or below the last card, as well as to the right or left of it. The game ends if you find an animal, but it also ends when you run out of gas.<br /> <br />Increase your chances of a great find with the joker(?) from the store. There are 2 types of jokers: Card and Navigation. Let the Card Joker help you uncover your cards - it will reveal extra cards for you. The Navigation Joker will guide you in the right direction thanks to its compass.<br /><br />You can take one joker of each type with you on safari. Whether you used the joker or not, you lose it at the end of the safari.]]></item>
+    </category>
+    <category name="zoo.safari.miniGame">
+      <item name="zoo.safari.miniGame.tileInfo.trap"><![CDATA[Oops, you hit an obstacle. That's annoying, 1 can of gasoline is gone.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.treasure"><![CDATA[Great! You found %treasureCount% %treasureName%. Hurry, keep looking, you can find many more treasures.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.animal"><![CDATA[Congratulations, look what you found! It's %animal%! Hurry to the zoo, it's waiting for you in your inventory. You've successfully completed your safari.]]></item>
+      <item name="zoo.safari.miniGame.closeWarning"><![CDATA[Do you really want to end the safari? If so, you can't start any more safaris today and your gas and supplies will be gone!]]></item>
+      <item name="zoo.safari.miniGame.noJoker"><![CDATA[No joker]]></item>
+      <item name="zoo.safari.miniGame.buyGasThenEmpty"><![CDATA[You're almost at your destination! Unfortunately, your tank is empty. Do you want to fill up for a few zoodollars and continue your safari? Choose how much gas you'd like to buy.]]></item>
+      <item name="zoo.safari.miniGame.buyMissingGas"><![CDATA[The amount of gas cans for this terrain is %neededGas%. However, you only have %missingGas%. Do you want to buy the necessary gas with zoodollars?]]></item>
+      <item name="zoo.safari.miniGame.buyGas"><![CDATA[Please choose how much gasoline you want to buy. But be careful: If you don't use up all of your gasoline on safari, the remaining gasoline will be wasted.]]></item>
+    </category>
+    <category name="zoo.safari.minigameInfo">
+      <item name="zoo.safari.minigameInfo.title"><![CDATA[Instructions]]></item>
+      <item name="zoo.safari.minigameInfo.1"><![CDATA[Welcome to your safari!<br /> Discover unusual animals and great treasures. But watch where your steps lead. Traps lurk everywhere. Depending on the type of terrain, you will use different amounts of gasoline.<br /><br />The safari is over as soon as your tank is empty or if you find an animal.]]></item>
+      <item name="zoo.safari.minigameInfo.2"><![CDATA[You can enter the wilderness by clicking on one of the lower boxes.]]></item>
+      <item name="zoo.safari.minigameInfo.3"><![CDATA[Move in straight lines north, south, west, and east.]]></item>
+      <item name="zoo.safari.minigameInfo.4"><![CDATA[You can activate your jokers at any time. They have valuable tips for you that will lead you to your goal faster.]]></item>
+      <item name="zoo.safari.minigameInfo.terains"><![CDATA[The following terrain types are available:<br />]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.name"><![CDATA[Simple terrain]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.info"><![CDATA[You will use 1 unit of gasoline.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.name"><![CDATA[More difficult terrain]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.info"><![CDATA[You will use 3 units of gasoline.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.name"><![CDATA[Impassable terrain]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.info"><![CDATA[Entry prohibited]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.name"><![CDATA[Explored terrain]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.info"><![CDATA[You will use 1 unit of gasoline.]]></item>
+      <item name="zoo.safari.minigameInfo.events"><![CDATA[You can find the following items: <br />]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.name"><![CDATA[ANIMAL TRACKS]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.info"><![CDATA[They indicate the direction where the animal might be located.]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.name"><![CDATA[TREASURE]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.info"><![CDATA[Yay, a treasure with a great surprise!]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.name"><![CDATA[BARRIER]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.info"><![CDATA[Will cost you 1 gasoline unit.]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.name"><![CDATA[ENCOUNTER WITH AN ANIMAL]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.info"><![CDATA[If you encounter an animal, it belongs to you and the mission is over.]]></item>
+    </category>
+    <category name="zoo.safari.jokers">
+      <item name="zoo.safari.jokers.titel_1"><![CDATA[Monkey, the advisor]]></item>
+      <item name="zoo.safari.jokers.titel_2"><![CDATA[Sonya, the advisor]]></item>
+      <item name="zoo.safari.jokers.titel_3"><![CDATA[Compass]]></item>
+      <item name="zoo.safari.jokers.titel_4"><![CDATA[Fast travelling]]></item>
+      <item name="zoo.safari.jokers.text_1"><![CDATA[Everyone needs a little help from time to time. If you let the monkey help, you can reveal one randomly chosen card.<br /><br />Are you curious? Let's get to it!]]></item>
+      <item name="zoo.safari.jokers.text_2"><![CDATA[Do you want to reveal a certain card and advance in the safari?<br /><br /><br /> Use the help of the advisor Sonia. With her help, you will reveal the card of your choice. This will help you reach your goal faster. Good luck!]]></item>
+      <item name="zoo.safari.jokers.text_3"><![CDATA[Need help? Use the compass as a joker to mark a card for you. You will find the animal you are looking for or a trap on it. Are you eager to find out what is hidden on it? So hurry up and find out!]]></item>
+      <item name="zoo.safari.jokers.text_4"><![CDATA[But now to the point: Are you just crawling towards your goal step by step? Aren't you fast enough?<br /><br />Then use the joker: He will mark 3 cards for you, among which the animal you are looking for may be hidden, but also a trap.<br /><br />Animal or trap... Quick, look!]]></item>
+    </category>
+    <category name="zoo.safari.tooltip">
+      <item name="zoo.safari.tooltip.cantStartSafari"><![CDATA[You can start your safari after you reach level 7]]></item>
+      <item name="zoo.safari.tooltip.startSafari"><![CDATA[Jump into the jeep: Click here to start the safari!]]></item>
+      <item name="zoo.safari.tooltip.backToZoo"><![CDATA[Back to the zoo]]></item>
+      <item name="zoo.safari.tooltip.regionSmall"><![CDATA[Small]]></item>
+      <item name="zoo.safari.tooltip.regionMedium"><![CDATA[Medium]]></item>
+      <item name="zoo.safari.tooltip.regionLarge"><![CDATA[Big]]></item>
+      <item name="zoo.safari.tooltip.skipTimerInShop"><![CDATA[You get a certain amount of gasoline cans for each day.<br/> Want more now? Then shorten your waiting time with zoodollars!]]></item>
+      <item name="zoo.safari.tooltip.buyGasInMinigame"><![CDATA[Click to buy more gasoline.]]></item>
+      <item name="zoo.safari.tooltip.regeonLevelRequared"><![CDATA[This region will be accessible after you reach the level %regionLevel%.]]></item>
+    </category>
+    <category name="zoo.safari.button">
+      <item name="zoo.safari.button.startSafari"><![CDATA[Start the safari]]></item>
+      <item name="zoo.safari.button.endSafari"><![CDATA[Finalize safari]]></item>
+      <item name="zoo.safari.button.activate"><![CDATA[Activate]]></item>
+      <item name="zoo.safari.button.use"><![CDATA[Deploy]]></item>
+    </category>
   </category>
 </language>

@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.waterstorehouse">
+    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Water Tower]]></item>
     <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Warehouse building]]></item>
     <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Animals need a lot of water. Upgrade your water tower level by level and make sure you have enough water for everyone as your zoo grows.]]></item>
-    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Water Tower]]></item>
     <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Your animals need a lot of food. Expand your storage level by level and make sure you have enough food for everyone as your zoo grows.]]></item>
     <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Bravo! You've expanded the warehouse to the maximum level.]]></item>
     <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[Bravo! You've extended the water tower to the maximum level.]]></item>

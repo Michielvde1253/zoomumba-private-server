@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
- <category name="zoo.window.shopAnimalInfo">
-  <item name="zoo.genus.title.1"><![CDATA[Ara Arakanga]]></item>
-  <item name="zoo.genus.text.1"><![CDATA[Tito veselí papoušci jsou pořádně ukecaní! Chovej je vždy jako pár nebo skupinu. Návštěvníci milují tyto chytráky s pestrobarevným peřím!]]></item>
-  <item name="zoo.genus.title.4"><![CDATA[Plameňák růžový]]></item>
-  <item name="zoo.genus.text.4"><![CDATA[Tato krásná růžová zvířata přitahují pozornost návštěvníků. Jejich hlavním pokrmem je plankton, ale pochutnají si také na čerstvých rybách. Dobrota pro mlsné zobáčky!]]></item>
-  <item name="zoo.genus.title.5"><![CDATA[Zebra horská]]></item>
-  <item name="zoo.genus.text.5"><![CDATA[Pruhy, pruhy, všude samé pruhy! Až se ti motá hlava! Ve světě plném zebřích pruhů je to dobrá kamufláž, ale v našich končinách působí zebry docela komicky. Zebry rozhodně patří do každé Zoo, tak už se nenech přemlouvat!]]></item>
-  <item name="zoo.genus.titel.9"><![CDATA[Nosorožec]]></item>
-  <item name="zoo.genus.text.9"><![CDATA[Tito velcí tlustokožci jsou samotáři. Není se čemu divit, když na sobě nosí takové rohy! Navzdory jejich mocnému vzhledu se jen zřídkakdy pouští do zápasů. Chovej ale přesto raději společně jen samečka a samičku.]]></item>
-  <item name="zoo.genus.title.12"><![CDATA[Hroch obojživelný]]></item>
-  <item name="zoo.genus.text.12"><![CDATA[Na souši vypadají jako těžkopádné kolosy, ale zdání klame. Dej si pozor, abys je nerozzuřil, protože když už se jednou rozběhnou, není radno se jim stavět do cesty. Naštěstí jsou to pohodová zvířata, když se respektuje jejich soukromí.]]></item>
-  <item name="zoo.genus.title.13"><![CDATA[Žirafa mramorovaná]]></item>
-  <item name="zoo.genus.text.13"><![CDATA[Neustále vysoko v oblacích! Žirafy dosáhnou na ty nejsladší plody až na vrcholcích stromů. Potom není divu, že stromy jaksepatří spásají. S jejich dlouhými krky dosáhnou velmi vysoko a nejraději žerou mladé zelené lístky!]]></item>
-  <item name="zoo.genus.title.32"><![CDATA[Sob polární]]></item>
-  <item name="zoo.genus.text.32"><![CDATA[Sobi žijí ve stádech daleko na severu. I v tvrdých arktických podmínkách najdou nebojácní sobi místo k přežití.]]></item>
- </category>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Arakanga Macaw]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[These cheerful parrots are very chatty! Always keep them as a pair or group. Visitors love these smart guys with their brightly colored feathers!]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[Pink flamingo]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[These beautiful pink animals attract the attention of visitors. Their main food is plankton, but they also enjoy fresh fish. A treat for sweet-toothed birds!]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[Mountain zebra]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[Stripes, stripes, stripes everywhere! It's mind-boggling! In a world full of zebra stripes, it's good camouflage, but in our part of the world, zebras look quite comical. Zebras definitely belong in every zoo, so don't let that fool you!]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Rhinoceros]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[These large pachyderms are loners. It's no wonder they wear such horns! Despite their powerful appearance, they rarely engage in fights. However, it's best to keep only a male and a female together.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[Amphibian hippopotamus]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[On land they look like lumbering colossuses, but appearances are deceiving. Be careful not to anger them, as once they start running, it is not advisable to get in their way. Fortunately, they are easy-going animals if their privacy is respected.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Marbled giraffe]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[Always high in the clouds! Giraffes reach the sweetest fruits right up to the tops of the trees. It's no wonder then that the trees are well-grazed. With their long necks, they reach very high and they like to eat the young green leaves the most!]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[Arctic reindeer]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[Reindeer live in herds far north. Even in the harsh Arctic conditions, the fearless reindeer find a place to survive.]]></item>
+    </category>
+  </category>
 </language>

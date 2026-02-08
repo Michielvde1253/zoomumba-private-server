@@ -1,32 +1,34 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
-  <category name="zoo.slayer.friends">
-    <item name="zoo.slayer.friends.title"><![CDATA[Friends]]></item>
-    <item name="zoo.slayer.friends.message"><![CDATA[Send a message to this friend]]></item>
-    <item name="zoo.slayer.friends.delete"><![CDATA[Are you sure you want to remove this player from your friends list?]]></item>
-    <item name="zoo.slayer.friends.visit"><![CDATA[Visit your friend's zoo.]]></item>
-    <item name="zoo.slayer.friends.empty"><![CDATA[All alone? Why not quickly invite a few friends to play together? More people means more fun!]]></item>
-  </category>
-  <category name="zoo.slayer.receivedInvites">
-    <item name="zoo.slayer.receivedInvites.title"><![CDATA[Friend requests received]]></item>
-    <item name="zoo.slayer.receivedInvites.accept"><![CDATA[Accept friend request]]></item>
-    <item name="zoo.slayer.receivedInvites.deny"><![CDATA[Decline friend request]]></item>
-    <item name="zoo.slayer.receivedInvites.empty"><![CDATA[Unfortunately, you don't have any new friend requests.]]></item>
-  </category>
-  <category name="zoo.slayer.sentInvites">
-    <item name="zoo.slayer.sentInvites.title"><![CDATA[Sent friend requests]]></item>
-    <item name="zoo.slayer.sentInvites.empty"><![CDATA[You haven't sent any friend requests.]]></item>
-  </category>
-  <category name="zoo.slayer.add">
-    <item name="zoo.slayer.add.title"><![CDATA[Invite friends]]></item>
-    <item name="zoo.slayer.add.requested"><![CDATA[Bravo! You have successfully sent your friend request to user %useName%.]]></item>
-    <item name="zoo.slayer.add.text"><![CDATA[Don't want to play ZooMumba alone anymore and would rather enjoy it with others? Invite your friends!]]></item>
-    <item name="zoo.slayer.add.byName"><![CDATA[Invite friends to play ZooMumba!]]></item>
-    <item name="zoo.slayer.add.byName.message"><![CDATA[Please enter the usernames of your friends to send a friendship request.]]></item>
-    <item name="zoo.slayer.add.duplicated.message"><![CDATA[We found more than one username while searching. Please select your friend from the list:]]></item>
-    <item name="zoo.slayer.add.self"><![CDATA[You cannot add yourself to your own friend list!]]></item>
-    <item name="zoo.slayer.add.byMail"><![CDATA[Invite friends by email.]]></item>
-    <item name="zoo.slayer.add.byFB"><![CDATA[Invite friends via Facebook.]]></item>
-    <item name="zoo.slayer.add.button"><![CDATA[Invite]]></item>
+  <category name="zoo.slayer">
+    <category name="zoo.slayer.friends">
+      <item name="zoo.slayer.friends.title"><![CDATA[Friends]]></item>
+      <item name="zoo.slayer.friends.message"><![CDATA[Send a message to this friend]]></item>
+      <item name="zoo.slayer.friends.delete"><![CDATA[Are you sure you want to remove this player from your friends list?]]></item>
+      <item name="zoo.slayer.friends.visit"><![CDATA[Visit your friend's zoo.]]></item>
+      <item name="zoo.slayer.friends.empty"><![CDATA[All alone? Why not quickly invite a few friends to play together? More people means more fun!]]></item>
+    </category>
+    <category name="zoo.slayer.receivedInvites">
+      <item name="zoo.slayer.receivedInvites.title"><![CDATA[Friend requests received]]></item>
+      <item name="zoo.slayer.receivedInvites.accept"><![CDATA[Accept friend request]]></item>
+      <item name="zoo.slayer.receivedInvites.deny"><![CDATA[Decline friend request]]></item>
+      <item name="zoo.slayer.receivedInvites.empty"><![CDATA[Unfortunately, you don't have any new friend requests.]]></item>
+    </category>
+    <category name="zoo.slayer.sentInvites">
+      <item name="zoo.slayer.sentInvites.title"><![CDATA[Sent friend requests]]></item>
+      <item name="zoo.slayer.sentInvites.empty"><![CDATA[You haven't sent any friend requests.]]></item>
+    </category>
+    <category name="zoo.slayer.add">
+      <item name="zoo.slayer.add.title"><![CDATA[Invite friends]]></item>
+      <item name="zoo.slayer.add.requested"><![CDATA[Bravo! You have successfully sent your friend request to user %useName%.]]></item>
+      <item name="zoo.slayer.add.text"><![CDATA[Don't want to play ZooMumba alone anymore and would rather enjoy it with others? Invite your friends!]]></item>
+      <item name="zoo.slayer.add.byName"><![CDATA[Invite friends to play ZooMumba!]]></item>
+      <item name="zoo.slayer.add.byName.message"><![CDATA[Please enter the usernames of your friends to send a friendship request.]]></item>
+      <item name="zoo.slayer.add.duplicated.message"><![CDATA[We found more than one username while searching. Please select your friend from the list:]]></item>
+      <item name="zoo.slayer.add.self"><![CDATA[You cannot add yourself to your own friend list!]]></item>
+      <item name="zoo.slayer.add.byMail"><![CDATA[Invite friends by email.]]></item>
+      <item name="zoo.slayer.add.byFB"><![CDATA[Invite friends via Facebook.]]></item>
+      <item name="zoo.slayer.add.button"><![CDATA[Invite]]></item>
+    </category>
   </category>
 </language>

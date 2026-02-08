@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.shopStoreInfo">
     <item name="zoo.window.shopStoreInfo.titel_1"><![CDATA[Feed sales]]></item>
@@ -52,8 +52,7 @@
     <item name="zoo.window.shopStoreInfo.titel_25"><![CDATA[Souvenir shop]]></item>
     <item name="zoo.window.shopStoreInfo.text_25"><![CDATA[What? You went to the zoo and didn't buy any souvenirs for your loved ones? You can find stuffed animals, rubber ducks, etc. in the gift shop.]]></item>
     <item name="zoo.window.shopStoreInfo.titel_26"><![CDATA[Cotton candy]]></item>
-    <item name="zoo.window.shopStoreInfo.text_26"><![CDATA[That's something! Very sticky, squishy cotton on wood!
-There's a line for that cotton candy! It tastes great!]]></item>
+    <item name="zoo.window.shopStoreInfo.text_26"><![CDATA[That's something! Very sticky, squishy cotton on wood!\nThere's a line for that cotton candy! It tastes great!]]></item>
     <item name="zoo.window.shopStoreInfo.titel_27"><![CDATA[Milk bar]]></item>
     <item name="zoo.window.shopStoreInfo.text_27"><![CDATA[Milk will refresh and energize visitors! These milkshakes are healthy and famous far beyond the gates of your zoo!]]></item>
     <item name="zoo.window.shopStoreInfo.titel_28"><![CDATA[Popcorn]]></item>
@@ -68,8 +67,8 @@ There's a line for that cotton candy! It tastes great!]]></item>
     <item name="zoo.window.shopStoreInfo.text_32"><![CDATA[Forward and backward - it's fun! After a ride in the red car, all zoo visitors feel like Formula 1 pros. Vroom, vroom!]]></item>
     <item name="zoo.window.shopStoreInfo.titel_33"><![CDATA[TODO: Wishing Well]]></item>
     <item name="zoo.window.shopStoreInfo.text_33"><![CDATA[TODO: Wishing Well Description]]></item>
-    <item name="zoo.window.shopStoreInfo.titel_34"><![CDATA[]]></item>
-    <item name="zoo.window.shopStoreInfo.text_34"><![CDATA[]]></item>
+    <item name="zoo.window.shopStoreInfo.titel_34"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.shopStoreInfo.text_34"><![CDATA[#VALUE!]]></item>
     <item name="zoo.window.shopStoreInfo.titel_35"><![CDATA[Pumpkin juice stand]]></item>
     <item name="zoo.window.shopStoreInfo.text_35"><![CDATA[Pumpkin juice: a strengthening drink for witches and wizards from all over the world. Hmmm... this is good!]]></item>
     <item name="zoo.window.shopStoreInfo.titel_36"><![CDATA[Witch's Cauldron]]></item>
@@ -194,7 +193,7 @@ There's a line for that cotton candy! It tastes great!]]></item>
     <item name="zoo.window.shopStoreInfo.text_97"><![CDATA[Have your Easter braid baked! Your visitors can buy bread rolls from all over the world!]]></item>
     <item name="zoo.window.shopStoreInfo.titel_98"><![CDATA[Delicacies for fish]]></item>
     <item name="zoo.window.shopStoreInfo.text_98"><![CDATA[In this special shop, visitors can buy food to feed the fish in the pond. Just don't let them get too fat!]]></item>
-    <item name="zoo.window.shopStoreInfo.titel_99"><![CDATA[Fish n’ Ships]]></item>
+    <item name="zoo.window.shopStoreInfo.titel_99"><![CDATA[Fish n’ Chips]]></item>
     <item name="zoo.window.shopStoreInfo.text_99"><![CDATA[Refreshments for your visitors! Nothing better than traditional fish and chips drizzled with wine vinegar and wrapped in paper.]]></item>
     <item name="zoo.window.shopStoreInfo.titel_100"><![CDATA[Drinks]]></item>
     <item name="zoo.window.shopStoreInfo.text_100"><![CDATA[Fresh drinks for everyone - sparkling, still or healthy smoothies. Your visitors will surely choose.]]></item>

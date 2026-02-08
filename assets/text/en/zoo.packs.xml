@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
- <category name="zoo.packs.resources">
-  <item name="zoo.packs.resources.title.1"><![CDATA[Balíček se superkrmivem "Dobrý začátek"]]></item>
-  <item name="zoo.packs.resources.text.1"><![CDATA[Tento balíček obsahuje 40 jednotek superkrmiva a 5 tlapek. Dostaneš tím 40x dvojité BZ při krmení a zaznamenáš pokrok při zkrášlení svých výběhů!]]></item>
-  <item name="zoo.packs.resources.title.2"><![CDATA[Balíček se superkrmivem "Mistr"]]></item>
-  <item name="zoo.packs.resources.text.2"><![CDATA[Tento balíček obsahuje 125 jednotek superkrmiva a 20 tlapek. Dostaneš tím 125x dvojité BZ a zaznamenáš pokrok při zkrášlení svých výběhů!]]></item>
-  <item name="zoo.packs.resources.title.3"><![CDATA[Balíček se superkrmivem "Expert"]]></item>
-  <item name="zoo.packs.resources.text.3"><![CDATA[Tento balíček obsahuje 350 jednotek superkrmiva a 30 tlapek, ale také 5 dárků s 5 jednotkami superkrmiva pro 5 Tvých kamarádů. A tak mají z tohoto balíčku také užitek!]]></item>
- </category>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA["Good Start" superfood package]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[This pack contains 40 units of Superfood and 5 Paws. This will give you 40x double BZ when feeding and see progress in beautifying your enclosures!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA["Master" superfood package]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[This pack contains 125 units of Superfood and 20 Paws. This will give you 125x double BZ and progress towards beautifying your enclosures!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA["Expert" superfood package]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[This package contains 350 units of superfood and 30 paws, but also 5 gifts with 5 units of superfood for 5 of your friends. So they can also benefit from this package!]]></item>
+    </category>
+  </category>
 </language>
