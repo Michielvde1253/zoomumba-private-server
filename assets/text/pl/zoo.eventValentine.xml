@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Witamy na naszym wydarzeniu walentynkowym! Od 8 do 15 lutego będzie panowała romantyczna atmosfera! Bawcie się dobrze grając w naszą grę walentynkową i cieszcie się mnóstwem wspaniałych nagród!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Sprawdź jak to zrobić:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Zaopiekuj się swoimi zwierzakami i zbieraj walentynkowe gadżety: serca, liściki miłosne oraz łuk i strzały Kupidyna. Wykorzystaj je, aby wygrać urocze niespodzianki podczas romantycznej gry walentynkowej!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Dzięki zebranym przedmiotom możesz poruszać się po polu gry i zdobywać nagrody: majestatyczne jelenie, zapasy esencji Tolija i mikstury wzrostu czekają na Ciebie!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Zajrzyj także do sklepu – znajdziesz tam przydatne wzmacniacze, które zapewnią ci jeszcze większy sukces i zabawę w grze!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Podwaja liczbę prezentów walentynkowych na 1 godzinę.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Uruchom ponownie grę planszową]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Nasze wydarzenie walentynkowe dobiega końca! Nie otrzymasz już kokardek, listów ani serduszek. Ale nie poddawaj się! Masz jeszcze tyle czasu, aby wygrać walentynkowe nagrody:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Skoro wygrałeś jelenia i łanię, możesz zacząć grę planszową od nowa! Wystarczy kliknąć zielony ptaszek lub przycisk „Nowy” na planszy!]]></item>
+    </category>
+  </category>
+</language>

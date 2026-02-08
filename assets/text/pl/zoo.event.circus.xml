@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Witamy w wędrownym cyrku! Przedstawiamy Mystery Box! Kup jedno pudełko i otrzymaj jedno z 10 zwierząt. Możesz mieć maksymalnie 20 pudełek na raz, a każde z nich można otworzyć w ciągu 5 godzin. Baw się dobrze!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Zwierzęta:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Serdeczne gratulacje!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[Do Twojego ekwipunku dodano następujące zwierzęta: %animal%. Zdobądź jeszcze więcej tajemniczych skrzyń, aby zdobyć jeszcze więcej wyjątkowych zwierząt!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Och, przepraszamy!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Masz już 20 tajemniczych skrzyń. Poczekaj, aż jedna z nich się otworzy, a potem sięgnij po kolejną.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Tajemnicze pudełko zostanie otwarte za: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Kliknij, aby zobaczyć swoje zwierzęta]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Witamy ponownie!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Podczas Twojej nieobecności Twoje zwierzęta zgłodniały z tajemniczej skrzyni. Hodowczyni Sonia zaopiekowała się nimi i umieściła w swoim inwentarzu. Rzuć okiem!]]></item>
+  </category>
+</language>

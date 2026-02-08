@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Ara arakanga]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[Te wesołe papugi są bardzo gadatliwe! Zawsze trzymaj je w parach lub grupach. Odwiedzający uwielbiają te bystre stworzenia z ich jaskrawo kolorowymi piórami!]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[Różowy flaming]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[Te piękne różowe zwierzęta przyciągają uwagę zwiedzających. Ich głównym pożywieniem jest plankton, ale lubią też świeże ryby. Prawdziwa gratka dla łakomczuchów!]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[Zebra górska]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[Paski, paski, paski wszędzie! To oszałamiające! W świecie pełnym pasków zebr to dobry kamuflaż, ale w naszej części świata zebry wyglądają dość komicznie. Zebry zdecydowanie powinny znaleźć się w każdym zoo, więc nie daj się zwieść!]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Nosorożec]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[Te duże, gruboskórne zwierzęta są samotnikami. Nic dziwnego, że noszą takie rogi! Pomimo potężnego wyglądu, rzadko angażują się w walki. Najlepiej jednak trzymać razem tylko samca i samicę.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[Hipopotam płazowy]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[Na lądzie wyglądają jak ociężałe kolosy, ale pozory mylą. Uważaj, żeby ich nie rozgniewać, bo gdy zaczną uciekać, nie warto im przeszkadzać. Na szczęście, jeśli szanuje się ich prywatność, są to zwierzęta przyjazne.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Żyrafa marmurkowa]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[Zawsze wysoko w chmurach! Żyrafy sięgają najsłodszych owoców aż na szczyty drzew. Nic więc dziwnego, że drzewa są obficie zjadane. Dzięki długim szyjom sięgają bardzo wysoko i najbardziej lubią zjadać młode, zielone liście!]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[Renifer arktyczny]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[Renifery żyją w stadach daleko na północy. Nawet w surowych arktycznych warunkach, nieustraszone renifery znajdują miejsce do przetrwania.]]></item>
+    </category>
+  </category>
+</language>

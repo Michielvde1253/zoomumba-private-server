@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Cześć! Jestem Lucka i uwielbiam nietoperze! A szczególnie ich urocze maluchy. Przynieś mi jak najwięcej maluchów, a będę miała dla ciebie kilka naprawdę fajnych halloweenowych gadżetów. Po prostu zamień słodkie, żeby dostać te po lewej, albo kwaśne, żeby dostać te po prawej.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Spis]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Wybierz, ile %species% młodych osobników chcesz przenieść do swojego ekwipunku.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Przepraszamy!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Niestety, nie masz wystarczającej liczby małych nietoperzy w ekwipunku. Wyhoduj małe nietoperze i przenieś je do ekwipunku, aby kupić ten przedmiot.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Małe nietoperze w ekwipunku]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Wymień małe nietoperze na słodycze]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Zamień małe nietoperze na kwaśne]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Numer: Słodki]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Zainwestuj %x% słodyczy, aby odblokować ten przedmiot]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Zainwestuj %x%, aby odblokować ten przedmiot]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Numer: Kwaśny]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Pomoc]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Przenieś młode nietoperze do ekwipunku]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Witamy na wydarzeniu Halloween!<br> Od <b>25 października do 1 listopada</b> w Twoim zoo rozpocznie się upiorna impreza! Czeka na Ciebie mnóstwo prezentów i niespodzianek. W następnym kroku zobaczysz, jak to wszystko będzie działać.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Zbierz jak najwięcej słodko-kwaśnych smaków! Słodko-kwaśne smaki są potrzebne do aktywacji zwiastunów duchów! Dowiesz się, jak to działa, na następnej stronie.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Jeśli masz wystarczająco dużo słodkości i kwaśności, możesz ich użyć do aktywacji <b>przedmiotów</b>. Ale uważaj: słodkości sprawią, że spojrzysz okiem w lewo, a kwaśne – w prawo. Oko pokaże ci, po której stronie aktywowane są przedmioty.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Możesz zdobyć aktywowane przedmioty, wymieniając je na <b>małe nietoperze</b>. Wyhoduj mnóstwo uroczych nietoperzy. Nowy przycisk w menu zagrody pomoże ci szybko i łatwo zapisać maluchy do ekwipunku.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Baw się dobrze w upiornym sklepie!<br> Dla niecierpliwych: Słodki i kwaśny smak można wymienić w sklepie na małe nietoperze. W sklepie czeka na Ciebie więcej niespodzianek.<br> <br>Baw się dobrze w tym roku w Halloween!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[Czas na odrobinę strasznej zabawy!<br>Od <b>31 października do 6 listopada</b> w Twoim zoo odbędzie się impreza halloweenowa!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Zbierz jak najwięcej <b>dyń</b>! Będą wyskakiwać z zagród, gdy będziesz zajmować się swoimi zwierzętami.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Dodaj je do wielkiego koszyka z dyniami na naszą <b>Bitwę Dyniową</b>. Im więcej dyń dostarczysz, tym bardziej przerażające nagrody możesz wygrać.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Podczas opieki nad zwierzętami z wybiegów będą wyskakiwać smakołyki. Możecie je wspólnie zbierać. Pasek akcji się zapełni, a unoszące się oko pokaże, jakie upiorne nagrody są dostępne dla wszystkich. Kliknij nagrodę, gdy zostanie aktywowana.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Zbieraj dynie na wielką bitwę na dynie. Im więcej zbierzesz, tym więcej nagród możesz wygrać.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Wszyscy grają razem! Prezenty ze wszystkich ogrodów zoologicznych zapełnią licznik i automatycznie odblokują nagrody dla wszystkich!]]></item>
+    </category>
+  </category>
+</language>

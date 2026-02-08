@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.upgrade">
+    <item name="zoo.window.upgrade.info"><![CDATA[Ulepsz swoje wybiegi, upiększ je i spraw, aby Twoje zoo stało się jeszcze bardziej atrakcyjne.]]></item>
+    <item name="zoo.window.upgrade.button"><![CDATA[Aktualizacja]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[Od 21 do 27 kwietnia zajączek wielkanocny będzie skakał po Twoim zoo i zostawiał jajko. Zbierz je i wymień na wielkanocne dekoracje, zajączki i wybiegi.]]></item>
+  </category>
+</language>

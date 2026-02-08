@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.user">
+    <item name="zoo.user.name"><![CDATA[Nazwa użytkownika]]></item>
+    <item name="zoo.user.id"><![CDATA[Identyfikator użytkownika]]></item>
+    <item name="zoo.user.notAuth.title"><![CDATA[Weryfikacja]]></item>
+    <item name="zoo.user.notAuth.info"><![CDATA[Weryfikacja nie powiodła się. Zaloguj się ponownie.]]></item>
+  </category>
+</language>

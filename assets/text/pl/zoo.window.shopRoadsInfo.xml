@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Droga żwirowa]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Ta żwirowa ścieżka łączy wybiegi w Twoim zoo. Wysokiej jakości sieć ścieżek pomaga odwiedzającym odnaleźć drogę i prowadzi ich do wszystkich wybiegów.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Niebiesko-biały chodnik]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Ta niebiesko-biała, brukowana ścieżka nie tylko wygląda świetnie, ale jest również świetną nawierzchnią dla wózków dziecięcych, hulajnóg i rolek. Płynny ruch i świetna zabawa – to jest to!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Droga piaskowa]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[Na stepie rzadko można spotkać utwardzone drogi. Chcesz, żeby Twoje zoo przypominało dziką przyrodę!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Różowo-biały chodnik]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Jak uroczo: Ta kamienna ścieżka z drogocennych różowych kamieni mozaikowych to coś naprawdę wyjątkowego. Idealny pomost dla osób w wysokich obcasach.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Czarno-biały chodnik]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Czarno-białe kamienie szlachetne w formie mozaiki pięknie zdobią tę ścieżkę. Są starannie obrobione i staną się klejnotem Twojego zoo.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[Skalista droga]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Jak na wolności, w szczelinach między kamieniami wyrastają małe kępki trawy. Nie dla pedantów, ale miłośnikom natury z pewnością się spodoba.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Ścieżka żwirowa]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Ta żwirowa ścieżka wygląda ładnie i jestem pewien, że nikt się na niej nie poślizgnie. Bezpieczna i ładna, czego chcieć więcej?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Droga gruntowa]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[Ścieżki gruntowe są popularne w Afryce. Dodają one autentyczności Twojemu zoo i sprawiają, że wiele zwierząt poczuje się jak w domu.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Arteria wodna]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Plusk, plusk, plusk! Załóż gumowe kalosze, napompuj gumową łódź i weź gumową kaczkę – na tej wyprawie będzie mnóstwo wody!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Droga lodowa]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Hurra! Lodowa droga – to będzie niezła zabawa! Twoi goście będą się świetnie bawić, zjeżdżając po zamarzniętej drodze. Uważaj, nie jest posiana solą!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Droga Savannah]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[Przez sawannę wije się dobrze wydeptana ścieżka, idealna do poszukiwania śladów, jak na safari.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Droga pustynna]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Pod palącym słońcem piasek unosi się po pustyni, zacierając wszelkie ślady.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Kamienna ścieżka]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Ta ścieżka jest dość wyboista. Leżą na niej duże kamienie i głazy, więc dobre obuwie jest niezbędne. Uważaj, żeby się nie przewrócić!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Szlak tundry]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[Podczas wędrówki tym szlakiem odwiedzający będą potrzebować kompasu, jednak rozsądnie jest trzymać się utartych szlaków.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Droga śnieżna]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[Lepki śnieg leży na śnieżnej ścieżce, którą Twoi goście będą mozolnie pokonywać w ciepłych butach. Wszystko tu jest takie piękne!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Szlak pustynny]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[Na pustkowiu najlepiej trzymać się drogi. Toksyny i odpady są wszędzie. Gumowe buty z dobrą podeszwą to konieczność!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Trasa alpejska]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Ten szlak turystyczny poprowadzi Cię w górę i w dół przez Alpy. Dobre buty z solidnym wsparciem kostki uchronią Cię przed poślizgiem!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Ścieżka jaskiniowa]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Miej oczy szeroko otwarte, żeby się nie poślizgnąć. Może dostrzeżesz mieniące się ziarenko złota wśród kamieni.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Leśna ścieżka]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[W deszczowe dni ścieżka ta może być nieco błotnista, ale latem las jest absolutnie idylliczny.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Droga nadmorska]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Spacerowanie boso po błyszczącym piasku, muszlach, wodorostach, a czasem także wśród rozgwiazd, jest bardzo korzystne dla zdrowia!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Magiczny szlak]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[Jasnoniebieski szlak, który jest nie z tej ziemi, może wydawać się przerażający, ale jest też pełen przygód. Dokąd prowadzi?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Szlak Sugar Land]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Okruszek! Ups! Nadepnąłeś na cukierka? Uważaj, w drodze są gumy do żucia! Jak tu pięknie kolorowo!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Szlak w lesie bambusowym]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[Mgła snuje się przez rozległy, niemal nieprzenikniony las bambusowy. W oddali słychać stukanie dzięcioła. Po prostu sielanka!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Leśna ścieżka]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Jeśli nie chcesz huśtać się po lianie w tej dżungli, możesz iść tą wydeptaną ścieżką. Uważaj: od czasu do czasu wąż lub pająk może przeciąć ścieżkę.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[Ścieżka przez bagna]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[Twoi goście powinni pamiętać, aby trzymać się właściwej ścieżki na bagnach. Jeden fałszywy krok i wpadną w błoto!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Drewniana platforma]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Nie ma nic lepszego niż spacer po drewnianym molo i słuchanie skrzypiącego pokładu statku. Twoi goście przeżyją prawdziwe nadmorskie doznania.]]></item>
+  </category>
+</language>

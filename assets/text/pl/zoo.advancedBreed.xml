@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Cześć! Nazywam się Soňa Starostlivá i jestem pielęgniarką w zoo. Nie możesz się doczekać, żeby rozmnożyć nowe, urocze młode? Wyjaśnię ci, jak to działa! Najpierw musisz zdecydować, jaki gatunek zwierząt chcesz rozmnożyć.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Wybierz dwa dorosłe zwierzęta ze swojego ekwipunku, które zostaną rodzicami. Im rzadsze, tym większe prawdopodobieństwo, że urodzą jeszcze rzadsze potomstwo. Rodzice muszą jednak pozostać ze mną na czas tej hodowli.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Użycie dodatkowych zebranych przedmiotów, silnej karmy, superkarmy lub supermedycyny zwiększy Twoje szanse na wychowanie wyjątkowo rzadkiego dziecka. Im więcej serc ma przedmiot, tym większa szansa!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Przygotowania prawie zakończone! Sprawdź dokładnie swoje wybory, zanim wszystko się zacznie. Chcesz coś zmienić? Nie ma problemu, po prostu użyj przycisku „Wstecz”!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[W eksperymencie hodowlanym wykorzystano następujące zwierzęta i przedmioty:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Stacja hodowlana gotowa]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[To tutaj jest hodowane]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Urodziło się dziecko!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Maluchy już są!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Rozpocznij hodowlę]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Użyj esencji]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Czy naprawdę chcesz rozpocząć hodowlę bez suplementów? Zastanów się dobrze – z suplementami masz większą szansę na uzyskanie rzadkiego potomstwa.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Jesteś w trakcie przygotowań. Czy naprawdę chcesz opuścić stację hodowlaną?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Stacja hodowlana]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Te zwierzęta właśnie rodzą młode:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Pozostały czas:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Esencja Toliji]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Esencja Tolija skraca czas rozmnażania o 50%.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hura! Masz dziecko! Tę śliczną pociechę znajdziesz w swoim ekwipunku:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hura! Masz dziecko! Znajdziesz tego uroczego chochlika w swoim ekwipunku:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Przenieś malucha do pokoju dziecięcego, żeby podrósł.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Zabierz maluchy do żłobka dla zwierząt, żeby mogły dorosnąć.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Uwaga: Hodowla jest w toku! Jeśli przeniesiesz stację do swojego ekwipunku, proces zostanie przerwany, a Ty stracisz wszystkie zwierzęta i suplementy. Czy na pewno chcesz ją teraz przenieść?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Uwaga: Hodowla jest obecnie w toku! Jeśli sprzedasz stację teraz, proces zostanie przerwany, a wszystkie zwierzęta i suplementy zostaną utracone. Czy na pewno chcesz teraz sprzedać stację?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Jeśli proces hodowli zostanie ukończony po zakończeniu wydarzenia, otrzymasz tylko 1 dziecko.]]></item>
+    </category>
+  </category>
+</language>

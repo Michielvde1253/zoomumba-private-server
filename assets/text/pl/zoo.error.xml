@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.error">
+    <category name="zoo.error.user">
+      <item name="zoo.error.user.unknown"><![CDATA[Ten gracz nie istnieje.]]></item>
+      <item name="zoo.error.user.notEnoughCr"><![CDATA[Nie masz na to wystarczającej liczby zoodolarów.]]></item>
+      <item name="zoo.error.user.notEnoughCv"><![CDATA[Nie masz na to wystarczająco zoogrosów.]]></item>
+      <item name="zoo.error.user.notRequiredLevel"><![CDATA[Nie osiągnąłeś wymaganego poziomu.]]></item>
+    </category>
+    <category name="zoo.error.login">
+      <item name="zoo.error.login.head"><![CDATA[Błąd logowania]]></item>
+      <item name="zoo.error.login.text"><![CDATA[Wystąpił błąd podczas logowania. Sprawdź swoje dane i spróbuj ponownie.]]></item>
+      <item name="zoo.error.login.blocked"><![CDATA[Zostałeś zablokowany przez administratora.]]></item>
+      <item name="zoo.error.login.100.title"><![CDATA[Błąd]]></item>
+      <item name="zoo.error.login.100.info"><![CDATA[Kod bonusowy został już przez Ciebie wykorzystany na tym koncie. Nie będzie możliwości ponownego jego wykorzystania.]]></item>
+    </category>
+    <category name="zoo.error.conf">
+      <item name="zoo.error.conf.unknownObj"><![CDATA[Nieznany obiekt]]></item>
+      <item name="zoo.error.conf.notBuyable"><![CDATA[Przedmiot jest obecnie niedostępny do kupienia]]></item>
+      <item name="zoo.error.conf.notEvent"><![CDATA[Pozycja nie jest obecnie dostępna]]></item>
+    </category>
+    <category name="zoo.error.badData">
+      <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Przepraszamy!]]></item>
+      <item name="zoo.error.badData.dailyQuests.text"><![CDATA[O! Wystąpił błąd. Problem został zgłoszony zespołowi!]]></item>
+    </category>
+    <category name="zoo.error.field">
+      <item name="zoo.error.field.unknownObj"><![CDATA[Obiekt nie jest dostępny w grze.]]></item>
+      <item name="zoo.error.field.blocked"><![CDATA[Pole zajęte]]></item>
+      <item name="zoo.error.field.breedFailed"><![CDATA[Hodowla się nie powiodła. Niestety, twoje zwierzęta nie dały potomstwa.]]></item>
+      <item name="zoo.error.field.wrongSpecies"><![CDATA[Zwierzę nieodpowiednie do tego wybiegu.]]></item>
+      <item name="zoo.error.field.maxChildReached"><![CDATA[Osiągnąłeś maksymalną liczbę szczeniąt.]]></item>
+      <item name="zoo.error.field.maleAdultNeeded"><![CDATA[Do tego potrzebny jest mężczyzna.]]></item>
+      <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[Do tego potrzebna jest kobieta.]]></item>
+      <item name="zoo.error.field.maxAdultReached"><![CDATA[Osiągnięto maksymalną liczbę osób dorosłych.]]></item>
+      <item name="zoo.error.field.buildingNotFinished"><![CDATA[Ten budynek jest jeszcze w budowie.]]></item>
+    </category>
+    <category name="zoo.error.db">
+      <item name="zoo.error.db.failUpdate"><![CDATA[Aktualizacja bazy danych nie powiodła się.]]></item>
+    </category>
+    <category name="zoo.error.invite">
+      <item name="zoo.error.invite.requesterror"><![CDATA[Wystąpił błąd.]]></item>
+      <item name="zoo.error.invite.recruitexists"><![CDATA[Już zaprosiłeś tego użytkownika.]]></item>
+      <item name="zoo.error.invite.global"><![CDATA[Limit zaproszeń został osiągnięty. Odczekaj 24 godziny, zanim będziesz mógł wysłać kolejne zaproszenie (do wszystkich gier).]]></item>
+      <item name="zoo.error.invite.instance"><![CDATA[Limit zaproszeń został osiągnięty. Odczekaj 24 godziny, zanim będziesz mógł wysłać kolejne zaproszenie (do wszystkich gier).]]></item>
+      <item name="zoo.error.invite.error"><![CDATA[Wystąpił błąd. Spróbuj ponownie później.]]></item>
+    </category>
+  </category>
+</language>

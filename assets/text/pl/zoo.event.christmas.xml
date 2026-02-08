@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[Wesołych Świąt!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[Od 21 grudnia do 2 stycznia wszystko w Twoim zoo kręci się wokół świąt Bożego Narodzenia! Udekoruj choinkę i pomóż mi uratować święta!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Najpierw wyhoduj 8 latających reniferów, a potem jednego Świętego Rudolfa, który będzie jeździł na jego saniach. Za każdego renifera, którego mu przyprowadzisz, otrzymasz prezent.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Od czasu do czasu Święty Mikołaj obdaruje Cię również ozdobą na choinkę. Na koniec będziesz mógł zatrzymać udekorowaną choinkę.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Hurra, mamy tu też specjalną świąteczną kolekcję! Zaopiekuj się swoimi zwierzętami i zbieraj świąteczne gadżety. Możesz ich również użyć do hodowli reniferów!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Świetne niespodzianki w sklepie świątecznym]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Przekształć swoje zoo w kolorowy, zimowy świat: z mnóstwem nowych i popularnych ozdób świątecznych.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Wesołych Świąt i miłej zabawy na wydarzeniu świątecznym!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[To straszne! Renifery Świętego Mikołaja uciekły i teraz nie może dostarczać prezentów! Przyprowadź mu 8 latających reniferów i Rudolfa Świętego Mikołaja i połóż je przed jego saniami. W ramach podziękowania otrzymasz wspaniałe prezenty!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Święty Mikołaj jest w drodze do:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Wygrałeś:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Spójrz na swoją choinkę na parkingu!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Zdobądź nowy strój dla swojego awatara!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Szybko, sprawdź swój ekwipunek!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Dziękuję!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Twoje renifery nie mogą się doczekać, żeby ruszyć w drogę. Dzięki Tobie święta Bożego Narodzenia są uratowane!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Dziękuję!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Wciąż brakuje mi kilku reniferów, ale czas ruszać w drogę! Nie martwcie się, dam sobie radę – w końcu jestem Świętym Mikołajem!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[Udekorowana choinka, którą kupiłeś na parkingu, jest teraz w Twoim ekwipunku.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Najpierw zanieśmy Świętemu Mikołajowi 8 magicznych reniferów.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Święty Mikołaj ma już 8 latających reniferów i wszystko, czego mu brakuje, to Rudolf!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Dekoracja świąteczna]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Świąteczny krój]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Para sów śnieżnych]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Liczba męskich magicznych reniferów w twoim ekwipunku.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Liczba latających reniferów płci żeńskiej w twoim ekwipunku.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Zanim przyniesiesz Świętemu Mikołajowi Rudolfa, najpierw będzie potrzebował 8 latających reniferów.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Liczba męskich postaci Świętego Rudolfa w Twoim ekwipunku.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Liczba żeńskich Santa Rudolfów w twoim ekwipunku.]]></item>
+    </category>
+  </category>
+</language>

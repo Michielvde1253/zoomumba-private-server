@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA[Pakiet superżywności „Dobry Start”]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Ten zestaw zawiera 40 jednostek Superfood i 5 Paws. Dzięki temu zyskasz 40-krotnie większą dawkę BZ podczas karmienia i zobaczysz postępy w upiększaniu swoich wybiegów!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA[Pakiet superżywności „Mistrz”]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Ten pakiet zawiera 125 jednostek Superfood i 20 Łapek. To da ci 125x podwójnych BZ i pozwoli ci upiększyć swoje zagrody!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA[Pakiet superżywności „Expert”]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Ten pakiet zawiera 350 jednostek superfood i 30 łapek, a także 5 prezentów z 5 jednostkami superfood dla 5 Twoich znajomych. Oni również mogą skorzystać z tego pakietu!]]></item>
+    </category>
+  </category>
+</language>

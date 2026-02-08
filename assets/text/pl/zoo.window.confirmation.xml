@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.confirmation">
+    <item name="zoo.window.confirmation.closegame.title"><![CDATA[Koniec gry]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[To zoo nie jest jeszcze dostępne. Możesz je odblokować, osiągając %level% ekspansji w następującym zoo: %zooName%. Możesz też odblokować je natychmiast za %zooDollar% zoodolarów.]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[Aby odblokować to zoo, musisz mieć poziom %level%. Możesz też odblokować je natychmiast za %zooDollar% zoodolarów.]]></item>
+    <item name="zoo.window.confirmation.map.level"><![CDATA[Aby odblokować to zoo, musisz mieć poziom %level%.]]></item>
+    <item name="zoo.window.confirmation.map.buy"><![CDATA[Czy chcesz kupić rozbudowę zoo?]]></item>
+    <item name="zoo.window.confirmation.title.buy"><![CDATA[Kupić]]></item>
+    <item name="zoo.window.confirmation.closegame.info"><![CDATA[Czy naprawdę chcesz opuścić ZooMumba?]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.title"><![CDATA[Kup przedmioty]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.info"><![CDATA[Czy na pewno chcesz kupić ten przedmiot?]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.title"><![CDATA[Kup ruch]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.info"><![CDATA[Czy chcesz wykonać ten ruch dla zoodolarów?]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.title"><![CDATA[Sprzedać]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Czy na pewno chcesz sprzedać ten przedmiot?]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[Ostrzeżenie]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[Jeśli umieścisz ogrodzenie w swoim ekwipunku, utraci ono ulepszenie akcji.<br><br>Czy chcesz kontynuować?]]></item>
+    <category name="zoo.window.confirmation.gift">
+      <item name="zoo.window.confirmation.gift.title"><![CDATA[Uwaga!]]></item>
+      <item name="zoo.window.confirmation.gift.info"><![CDATA[Nie wybrałeś jeszcze 5 znajomych! Jeśli będziesz kontynuować, Twoje prezenty przepadną. To byłaby szkoda... Czy nadal chcesz kontynuować?]]></item>
+    </category>
+  </category>
+</language>

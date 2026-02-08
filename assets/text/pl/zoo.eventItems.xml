@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Lampion z dyni]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Upiorne, rzeźbione dynie, zwane Jack-o-lanternami, świecą w ciemnościach nocy Halloween. Jego odrażający grymas potęguje migotanie światła świecy. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[choinka]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[Wyrosła smukła jodła...! Świątecznie udekorowana choinka, pełna świątecznych prezentów.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Serce]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Niech szczęście się święci! W wielu krajach ludzie wierzą, że pocałunek kominiarza w Walentynki przyniesie im wielkie szczęście!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Tort urodzinowy]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Mniam! Czym byłyby urodziny bez kalorycznego poczęstunku?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Tort urodzinowy]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Mniam! Czym byłyby urodziny bez tego kalorycznego przysmaku?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Stos pisanek]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[Piękna kolekcja pisanek. Dawniej używano malowanych jajek kurzych. Obecnie częściej używa się jajek czekoladowych.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Tęczowe jajko]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Pisanki specjalnie przystosowane do udziału dzieci z wadami wzroku w wielkanocnym polowaniu. Jajka wydają dźwięki lub grają melodię.]]></item>
+  </category>
+</language>

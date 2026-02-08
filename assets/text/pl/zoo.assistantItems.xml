@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Sprzątacz Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley zadba o to, by wszystkie wybiegi lśniły czystością. Jego sztuczka polega na zaangażowaniu zwierząt, dzięki czemu sprzątanie staje się zabawą.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Bramkarz Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Opiekunka Sonja wie, jak perfekcyjnie zaopiekować się zwierzętami. Tylko ona potrafi przytulić się do wszystkich zwierząt naraz.]]></item>
+  </category>
+</language>

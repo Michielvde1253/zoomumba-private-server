@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventABtrade">
+    <category name="zoo.eventABtrade.button">
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Giełda]]></item>
+    </category>
+    <category name="zoo.eventABtrade.layer">
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Cześć, nazywam się Lukáš i jestem dyrektorem zoo w sąsiednim mieście. Słyszałem, że Państwa opiekunka zwierząt, Soňa Starostlivá, hoduje nowe gatunki zwierząt, którymi bardzo się interesuję. Za każdego samca gatunku %priceSpecies% dam Państwu samca gatunku %rewardSpecies% lub samicę za samicę. Podczas mojej obecności czas inkubacji Państwa gatunku %priceGenus%s zostanie skrócony z 20 do 2 godzin! To jak, jesteście chętni?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Wracam właśnie do mojego zoo. Dziękuję bardzo i mam nadzieję, że wkrótce się zobaczymy!]]></item>
+    </category>
+  </category>
+</language>
