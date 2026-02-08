@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bonus">
+    <item name="zoo.window.bonus.main.title"><![CDATA[Codice bonus]]></item>
+    <item name="zoo.window.bonus.main.info"><![CDATA[Hai un codice bonus ZooMumba? Inseriscilo qui e ricevi subito il tuo bonus!]]></item>
+    <item name="zoo.window.bonus.success.title"><![CDATA[Congratulazioni,]]></item>
+    <item name="zoo.window.bonus.success.info"><![CDATA[Ottimo, hai inserito correttamente il codice bonus e hai ricevuto il tuo premio. Ti auguriamo tanto divertimento!]]></item>
+    <category name="zoo.window.bonus.error">
+      <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Errore]]></item>
+      <item name="zoo.window.bonus.error.invalid.info"><![CDATA[Purtroppo il codice bonus non è corretto. Controlla il codice e riprova.]]></item>
+      <item name="zoo.window.bonus.error.participated.title"><![CDATA[Errore]]></item>
+      <item name="zoo.window.bonus.error.participated.info"><![CDATA[Hai già richiesto questo codice bonus.]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Errore]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[Hai inserito il codice bonus in modo errato troppe volte. Attendi qualche minuto prima di riprovare.]]></item>
+    </category>
+  </category>
+</language>

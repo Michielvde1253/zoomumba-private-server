@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Cestino della spazzatura]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[La gente lascia rifiuti! Più cestini per la spazzatura ci sono nel tuo zoo, meno dovrai pulire dopo i visitatori.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Pattumiera della mummia]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Ughh... Voglio la spazzatura!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Fantasma del cestino]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuhhuuuuu... Spazzatura]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Vampiro del bidone della spazzatura]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Ho bisogno di qualcosa da mordere. Dammi la tua spazzatura!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Mostro del bidone della spazzatura]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmmm... Che schifo!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Cestino per i compleanni]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmmmm, carta da regalo!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Cestino della spazzatura a forma di balena]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA["Ingoierò tutta la tua spazzatura!"]]></item>
+  </category>
+</language>

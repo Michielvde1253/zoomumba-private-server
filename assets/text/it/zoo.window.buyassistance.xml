@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.buyassistance">
+    <item name="zoo.window.buyassistance.title"><![CDATA[Aiuto]]></item>
+    <item name="zoo.window.buyassistance.info"><![CDATA[Il tuo contratto di lavoro con la donna delle pulizie è scaduto.<br>Vuoi riassumere Slávko?]]></item>
+    <item name="zoo.window.buyassistance.empty"><![CDATA[#VALUE!]]></item>
+  </category>
+</language>

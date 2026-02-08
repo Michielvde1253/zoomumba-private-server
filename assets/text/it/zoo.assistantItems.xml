@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Bidello Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley manterrà tutti i recinti pulitissimi. Il suo trucco è coinvolgere gli animali, trasformando la pulizia in un gioco divertente.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Portiere Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[La guardiana Sonja sa come prendersi cura degli animali in modo impeccabile. Solo lei può coccolarli tutti contemporaneamente.]]></item>
+  </category>
+</language>

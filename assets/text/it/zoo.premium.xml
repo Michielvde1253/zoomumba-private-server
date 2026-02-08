@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.premium">
+    <category name="zoo.premium.title">
+      <item name="zoo.premium.title.0"><![CDATA[Rappresentante David]]></item>
+      <item name="zoo.premium.title.1"><![CDATA[Krmic Honza]]></item>
+      <item name="zoo.premium.title.2"><![CDATA[Alimentatore Pavel]]></item>
+      <item name="zoo.premium.title.3"><![CDATA[Schiavo delle pulizie]]></item>
+      <item name="zoo.premium.title.4"><![CDATA[Allevatore Soňa]]></item>
+      <item name="zoo.premium.title.5"><![CDATA[Spazzino Jirka]]></item>
+      <item name="zoo.premium.title.6"><![CDATA[Cassiere Kešík]]></item>
+      <item name="zoo.premium.title.7"><![CDATA[Dott.ssa Lynn]]></item>
+      <item name="zoo.premium.title.11"><![CDATA[Zoo più grande]]></item>
+      <item name="zoo.premium.title.12"><![CDATA[Maxi espansione zoo]]></item>
+      <item name="zoo.premium.title.13"><![CDATA[Espansione dello zoo]]></item>
+      <item name="zoo.premium.title.14"><![CDATA[Espansione dello zoo]]></item>
+      <item name="zoo.premium.title.15"><![CDATA[coniglietto pasquale]]></item>
+      <item name="zoo.premium.title.16"><![CDATA[Aiutante di Pasqua]]></item>
+      <item name="zoo.premium.title.23"><![CDATA[torta di compleanno]]></item>
+      <item name="zoo.premium.title.126"><![CDATA[Massima espansione dello zoo]]></item>
+      <item name="zoo.premium.title.29"><![CDATA[Massima espansione dello zoo]]></item>
+      <item name="zoo.premium.title.30"><![CDATA[Massima espansione dello zoo]]></item>
+      <item name="zoo.premium.title.125"><![CDATA[Espansione dello zoo]]></item>
+      <item name="zoo.premium.title.35"><![CDATA[Espansione dello zoo]]></item>
+      <item name="zoo.premium.title.36"><![CDATA[Espansione dello zoo]]></item>
+      <item name="zoo.premium.title.37"><![CDATA[Massima espansione dello zoo]]></item>
+      <item name="zoo.premium.title.38"><![CDATA[Massima espansione dello zoo]]></item>
+      <item name="zoo.premium.title.123"><![CDATA[Acido]]></item>
+      <item name="zoo.premium.title.124"><![CDATA[Dolce]]></item>
+      <item name="zoo.premium.title.128"><![CDATA[torta di compleanno]]></item>
+      <item name="zoo.premium.title.130"><![CDATA[Espansione dello zoo]]></item>
+      <item name="zoo.premium.title.132"><![CDATA[Espansione dello zoo]]></item>
+      <item name="zoo.premium.title.2001"><![CDATA[barile d'acqua]]></item>
+      <item name="zoo.premium.title.2002"><![CDATA[Torre dell'acqua]]></item>
+      <item name="zoo.premium.title.2003"><![CDATA[Sorgente d'acqua]]></item>
+      <item name="zoo.premium.title.2004"><![CDATA[Scatola di immagazzinaggio]]></item>
+      <item name="zoo.premium.title.2005"><![CDATA[Magazzino]]></item>
+      <item name="zoo.premium.title.2006"><![CDATA[Magazzino sotterraneo]]></item>
+    </category>
+    <category name="zoo.premium.infoText">
+      <item name="zoo.premium.infoText.0"><![CDATA[Se impieghi 6 assistenti (esclusa la Dott.ssa Lynn), avrai a disposizione un co-direttore e del personale addetto. Basta un clic e i 6 assistenti si metteranno al lavoro.]]></item>
+      <item name="zoo.premium.infoText.1"><![CDATA[John, l'assistente alimentare, si assicura che i tuoi animali siano sempre ben nutriti e felici. Se hai abbastanza Zoogros da nutrire, clicca su di lui e John lavorerà con diligenza e affidabilità.]]></item>
+      <item name="zoo.premium.infoText.2"><![CDATA[Pavel si occupa di abbeverare gli animali. Cliccando su di lui, fornirà regolarmente acqua ai tuoi animali. Ma solo se hai abbastanza Zoogros.]]></item>
+      <item name="zoo.premium.infoText.3"><![CDATA[Slávek, il pulitore, si prende cura dell'igiene e della pulizia dei tuoi animali. Cliccando su di lui, pulirà i recinti e offrirà loro una casa accogliente.]]></item>
+      <item name="zoo.premium.infoText.4"><![CDATA[Tutti aspettano con ansia Sonia! Clicca su di lei e assumila: coccolerà i tuoi animali, così non si annoieranno e saranno felici.]]></item>
+      <item name="zoo.premium.infoText.5"><![CDATA[Jirka spazza diligentemente ogni sentiero e non trascura un solo cestino. Tutto deve essere in ordine, i visitatori non torneranno in uno zoo trascurato. Assumilo con un clic e si occuperà di tutto il lavoro.]]></item>
+      <item name="zoo.premium.infoText.6"><![CDATA[L'astuta scimmietta Kešík è brava con i numeri: clicca su di lui e assumilo. Ti farà guadagnare da tutti i negozi e gli edifici che costruirai.]]></item>
+      <item name="zoo.premium.infoText.7"><![CDATA[La Dott.ssa Lynn è responsabile della salute dei tuoi animali. Cliccando su di lei, consegnerà la medicina appropriata a tutti gli animali malati!]]></item>
+      <item name="zoo.premium.infoText.11"><![CDATA[Dal livello %nextExpandLevel% il tuo zoo crescerà. Non hai voglia di aspettare? Allora espandi il tuo zoo ora.]]></item>
+      <item name="zoo.premium.infoText.12"><![CDATA[Non perdere tempo e amplia il tuo zoo del 100% con un solo clic! Con l'espansione Maxi Zoo risparmi i passaggi intermedi e avrai subito a disposizione la massima superficie. Non esitare!]]></item>
+      <item name="zoo.premium.infoText.13"><![CDATA[Acquista espansioni per il tuo zoo nascosto con zoodollars.]]></item>
+      <item name="zoo.premium.infoText.14"><![CDATA[Scambia gli strumenti che hai raccolto per espandere il tuo zoo nascosto.]]></item>
+      <item name="zoo.premium.infoText.15"><![CDATA[Dal 21 al 27 aprile, il Coniglio Pasquale deporrà le uova nel tuo zoo. Raccoglile e scambiale con decorazioni pasquali, coniglietti pasquali e recinti pasquali.]]></item>
+      <item name="zoo.premium.infoText.16"><![CDATA[Che praticità! Dal 21 al 27 aprile, l'aiutante pasquale Sonja ti aiuterà a raccogliere le uova. Anche se non sei connesso! Potrai poi scambiare le uova con decorazioni per recinti pasquali, coniglietti pasquali e recinti pasquali.]]></item>
+      <item name="zoo.premium.infoText.23"><![CDATA[Acquista questa torta per ottenere più velocemente l'aggiornamento di compleanno per i tuoi recinti. Questo ti darà più palloncini e potrai anche ottenere più premi di compleanno.]]></item>
+      <item name="zoo.premium.infoText.29"><![CDATA[Non perdere tempo ed espandi il tuo zoo al 100% con un solo clic! Con l'espansione Max. Zoo, ti risparmierai i noiosi passaggi intermedi e avrai subito la massima area disponibile. Non esitare!]]></item>
+      <item name="zoo.premium.infoText.30"><![CDATA[Non perdere tempo e amplia il tuo zoo del 100% con un solo clic! Con l'espansione Maxi Zoo risparmi i passaggi intermedi e avrai subito a disposizione la massima superficie. Non esitare!]]></item>
+      <item name="zoo.premium.infoText.35"><![CDATA[Espandi il tuo zoo con gli zoodollars.]]></item>
+      <item name="zoo.premium.infoText.125"><![CDATA[Acquista un'espansione per questo zoo con zoodollars.]]></item>
+      <item name="zoo.premium.infoText.36"><![CDATA[Espandi il tuo zoo con gli strumenti che hai raccolto.]]></item>
+      <item name="zoo.premium.infoText.126"><![CDATA[Non perdere tempo e amplia il tuo zoo del 100% con un solo clic! Con l'espansione Maxi Zoo risparmi i passaggi intermedi e avrai subito a disposizione la massima superficie. Non esitare!]]></item>
+      <item name="zoo.premium.infoText.37"><![CDATA[Non perdere tempo e amplia il tuo zoo del 100% con un solo clic! Con l'espansione Maxi Zoo risparmierai i passaggi intermedi e avrai subito a disposizione la massima superficie. Non esitare!]]></item>
+      <item name="zoo.premium.infoText.38"><![CDATA[Non perdere tempo e amplia il tuo zoo del 100% con un solo clic! Con l'espansione Maxi Zoo risparmierai i passaggi intermedi e avrai subito a disposizione la massima superficie. Non esitare!]]></item>
+      <item name="zoo.premium.infoText.123"><![CDATA[Scambia i pipistrelli piccoli con quelli aspri per sbloccare nuove ricompense di Halloween.]]></item>
+      <item name="zoo.premium.infoText.124"><![CDATA[Scambia i piccoli pipistrelli con i dolci per sbloccare nuove ricompense di Halloween.]]></item>
+      <item name="zoo.premium.infoText.128"><![CDATA[Acquista questa torta per ottenere più velocemente l'aggiornamento di compleanno per i tuoi recinti. Questo ti darà più palloncini e potrai anche ottenere più premi di compleanno.]]></item>
+      <item name="zoo.premium.infoText.130"><![CDATA[Acquista l'espansione Coastal Zoo con Zoo Dollars.]]></item>
+      <item name="zoo.premium.infoText.132"><![CDATA[Ottieni l'espansione Undersea World con Zoodollars.]]></item>
+      <item name="zoo.premium.infoText.2001"><![CDATA[Questa botte d'acqua è una bella aggiunta allo zoo e conferirà un tocco rustico.]]></item>
+      <item name="zoo.premium.infoText.2002"><![CDATA[Che gigante! Questa torre idrica sarà visibile da lontano.]]></item>
+      <item name="zoo.premium.infoText.2003"><![CDATA[Ora scorre. La fontana fornirà acqua rinfrescante per il tuo zoo. Acqua, basta scorrere!]]></item>
+      <item name="zoo.premium.infoText.2004"><![CDATA[Pratici! I contenitori sono perfetti per arrampicarsi, sedersi e giocare. I bambini adorano le scatole di legno.]]></item>
+      <item name="zoo.premium.infoText.2005"><![CDATA[Fantastico! Il fienile è il posto perfetto per giocare a nascondino. E in inverno c'è un sacco di spazio per le balle di fieno.]]></item>
+      <item name="zoo.premium.infoText.2006"><![CDATA[Fantastico ripostiglio! Ci sono un sacco di cose interessanti nel ripostiglio sotterraneo. Ma soprattutto, questo ripostiglio è molto misterioso... cosa si nasconde lì?]]></item>
+    </category>
+    <category name="zoo.premium.window.renew">
+      <item name="zoo.premium.window.renew.text"><![CDATA[Oh! Il contratto di lavoro con questo assistente è scaduto. Vuoi prolungarlo?]]></item>
+    </category>
+    <category name="zoo.premium.elixir">
+      <item name="zoo.premium.elixir.title"><![CDATA[Essenza di Tolija]]></item>
+      <item name="zoo.premium.elixir.text"><![CDATA[La ricetta segreta utilizzata nell'allevamento riduce il processo di allevamento del 50%]]></item>
+    </category>
+    <category name="zoo.premium.breedingLab">
+      <item name="zoo.premium.breedingLab.title"><![CDATA[Stazione di riproduzione]]></item>
+      <item name="zoo.premium.breedingLab.text"><![CDATA[Posiziona una stazione di riproduzione nel tuo zoo principale o segreto per allevare animali rari.]]></item>
+    </category>
+    <category name="zoo.premium.nursery">
+      <item name="zoo.premium.nursery.title"><![CDATA[Asilo nido per animali]]></item>
+      <item name="zoo.premium.nursery.text"><![CDATA[Posiziona una stazione di riproduzione nel tuo zoo principale o segreto, in modo che i tuoi piccoli abbiano un posto dove crescere.]]></item>
+    </category>
+    <category name="zoo.premium.assist.title">
+      <item name="zoo.premium.assist.title.0"><![CDATA[Rappresentante David]]></item>
+      <item name="zoo.premium.assist.title.1"><![CDATA[Krmic Honza]]></item>
+      <item name="zoo.premium.assist.title.2"><![CDATA[Alimentatore Pavel]]></item>
+      <item name="zoo.premium.assist.title.3"><![CDATA[Schiavo delle pulizie]]></item>
+      <item name="zoo.premium.assist.title.4"><![CDATA[Allevatore Soňa]]></item>
+      <item name="zoo.premium.assist.title.5"><![CDATA[Spazzino Jirka]]></item>
+      <item name="zoo.premium.assist.title.6"><![CDATA[Cassiere, assistente finanziario]]></item>
+      <item name="zoo.premium.assist.title.7"><![CDATA[Dott.ssa Lynn]]></item>
+      <item name="zoo.premium.assist.title.8"><![CDATA[Jindra]]></item>
+      <item name="zoo.premium.assist.title.9"><![CDATA[Matteo]]></item>
+      <item name="zoo.premium.assist.title.10"><![CDATA[Frant]]></item>
+      <item name="zoo.premium.assist.title.11"><![CDATA[Jenny]]></item>
+    </category>
+    <category name="zoo.premium.assist.infoText">
+      <item name="zoo.premium.assist.infoText.0"><![CDATA[Se assumi 6 assistenti (esclusa la Dott.ssa Lynn), il co-direttore ti aiuterà con il personale. Basta cliccare su di loro e si metteranno subito al lavoro.]]></item>
+      <item name="zoo.premium.assist.infoText.1"><![CDATA[Feeder Honza garantisce che i tuoi animali siano sempre nutriti, a patto che tu abbia abbastanza Zoogros per coprire questi costi.]]></item>
+      <item name="zoo.premium.assist.infoText.2"><![CDATA[Clicca su Pavel e lui si occuperà di collegare gli animali, a patto che tu abbia abbastanza Zoogros per coprire questi costi.]]></item>
+      <item name="zoo.premium.assist.infoText.3"><![CDATA[Slávek, il pulitore, si prende cura dell'igiene e della pulizia dei tuoi animali. Cliccando su di lui, pulirà i tuoi recinti e offrirà loro una casa accogliente.]]></item>
+      <item name="zoo.premium.assist.infoText.4"><![CDATA[L'allevatrice Soňa si prende cura dei tuoi animali, li abbraccia e offre loro l'amore che meritano. Clicca su di lei e guardala all'opera!]]></item>
+      <item name="zoo.premium.assist.infoText.5"><![CDATA[Jirka spazza diligentemente ogni vialetto e non tralascia un solo cestino. L'ordine deve essere mantenuto. Assumilo con un clic e si metterà subito al lavoro!]]></item>
+      <item name="zoo.premium.assist.infoText.6"><![CDATA[La scimmietta intelligente Kešík è brava con i numeri. Clicca su di lei e raccoglierà per te le entrate di tutti gli edifici dello zoo!]]></item>
+      <item name="zoo.premium.assist.infoText.7"><![CDATA[La Dott.ssa Lynn è responsabile della salute dei tuoi animali. Cliccando su di lei, consegnerà la medicina appropriata a tutti gli animali malati!]]></item>
+      <item name="zoo.premium.assist.infoText.8"><![CDATA[Clicca su Jindra e lui nutrirà tutte le tue creature marine! Alghe, plancton o cibo per pesci: Jindra sa cosa fare!]]></item>
+      <item name="zoo.premium.assist.infoText.9"><![CDATA[Matej ha sempre un tubo in mano! Clicca su di lui e riempirà i tuoi serbatoi d'acqua, ma assicurati di avere abbastanza risorse per coprire i costi!]]></item>
+      <item name="zoo.premium.assist.infoText.10"><![CDATA[Franta è un tecnico addetto alle piscine. Clicca su di lui e pulirà le tue aree acquatiche, cambierà i filtri e si assicurerà che l'acqua sia pulita e sicura per tutti gli animali.]]></item>
+      <item name="zoo.premium.assist.infoText.11"><![CDATA[Janička è un'addestratrice di mammiferi marini. Gioca con gli animali e insegna loro vari trucchi! Clicca su di lei e assumila.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Benvenuti al nostro evento di San Valentino! Dall'8 al 15 febbraio, l'atmosfera sarà romantica! Divertitevi con il nostro gioco di San Valentino e aspettatevi tanti fantastici premi!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Scopri come fare:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Prenditi cura dei tuoi animali e colleziona gli oggetti di San Valentino: cuori, bigliettini d'amore, arco e frecce di Cupido. Usali per vincere adorabili sorprese durante il romantico gioco di San Valentino!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Con gli oggetti che hai raccolto puoi muoverti nel campo di gioco e raccogliere premi: ti aspettano cervi maestosi e scorte di essenza di Tolija e pozioni di crescita!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Dai un'occhiata anche al negozio: lì troverai utili potenziamenti che ti garantiranno ancora più successo e divertimento nel gioco!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Raddoppia il numero di articoli per San Valentino per 1 ora.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Riavvia il gioco da tavolo]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Il nostro evento di San Valentino sta per finire! Non riceverai più fiocchi, lettere o cuori. Ma non arrenderti! Hai ancora questo tempo per vincere i premi di San Valentino:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Ora che hai vinto il cervo e la cerva, puoi ricominciare il gioco da tavolo! Basta cliccare sul segno di spunta verde o sul pulsante "Nuovo" sul tabellone!]]></item>
+    </category>
+  </category>
+</language>

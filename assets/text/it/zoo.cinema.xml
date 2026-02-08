@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.cinema">
+    <category name="zoo.cinema.layer">
+      <item name="zoo.cinema.layer.intro"><![CDATA[Guardare film e ottenere grandi ricompense?<br /><br />Succede solo nel nostro cinema! Guarda fino a 3 clip al giorno e ricevi una ricompensa per ciascuna. Per ottenere la tua ricompensa, devi guardare la clip fino alla fine.<br /><br />Basta cliccare su "Avvia film" e lo spettacolo può iniziare!<br /><br />Divertiti!]]></item>
+      <item name="zoo.cinema.layer.selectReward"><![CDATA[Ottieni la tua ricompensa!]]></item>
+      <item name="zoo.cinema.layer.play"><![CDATA[Inizia il film!]]></item>
+      <item name="zoo.cinema.layer.noVideo"><![CDATA[Al momento non ci sono video disponibili.]]></item>
+    </category>
+  </category>
+</language>

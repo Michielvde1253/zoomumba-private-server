@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopResourceInfo">
+    <item name="zoo.window.shopResourceInfo.titel_1"><![CDATA[Acqua]]></item>
+    <item name="zoo.window.shopResourceInfo.text_1"><![CDATA[I tuoi animali hanno bisogno di refrigerio! Rendili felici con acqua fresca!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_2"><![CDATA[Erba]]></item>
+    <item name="zoo.window.shopResourceInfo.text_2"><![CDATA[Non c'è modo migliore per saziare uno stomaco affamato che nutrirsi di deliziosa erba verde. E con un po' di fortuna, ci saranno anche degli insetti nell'erba come bonus :-) Che delizia!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_3"><![CDATA[Carne]]></item>
+    <item name="zoo.window.shopResourceInfo.text_3"><![CDATA[Chi non apprezzerebbe un bel pezzo di carne? Una bistecca così succosa è una vera delizia!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_4"><![CDATA[Pescare]]></item>
+    <item name="zoo.window.shopResourceInfo.text_4"><![CDATA[Il pesce fa bene alla salute! Ed è il cibo preferito di molti animali. Non devi preoccuparti di sventrarlo o tagliarlo, i tuoi animali apprezzeranno tutto!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_5"><![CDATA[Frutta]]></item>
+    <item name="zoo.window.shopResourceInfo.text_5"><![CDATA[Frutta dolce e succosa: chi potrebbe resistere? Qui troverete frutta per tutti gli animali!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_6"><![CDATA[Grano]]></item>
+    <item name="zoo.window.shopResourceInfo.text_6"><![CDATA[I cereali sono un'importante fonte di cibo per i tuoi animali, aiutandoli a rimanere attivi e sani!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_7"><![CDATA[Medicinale]]></item>
+    <item name="zoo.window.shopResourceInfo.text_7"><![CDATA[Uno dei tuoi animali non si sente bene? Questo medicinale lo rimetterà sicuramente in piedi.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_8"><![CDATA[Supercibo]]></item>
+    <item name="zoo.window.shopResourceInfo.text_8"><![CDATA[Con i superfood ottieni il doppio dei BZ.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_9"><![CDATA[Supermedicina]]></item>
+    <item name="zoo.window.shopResourceInfo.text_9"><![CDATA[In caso di infezione grave, è necessario utilizzare un medicinale davvero efficace. Arrivo subito con un super medicinale. Inoltre, con i super medicinali si aumentano le probabilità di ottenere preziose ricompense che "saltano" fuori dal recinto.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_10"><![CDATA[Il cibo migliore]]></item>
+    <item name="zoo.window.shopResourceInfo.text_10"><![CDATA[Il mangime migliore ti darà quattro volte più zampe per abbellire i tuoi recinti.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_11"><![CDATA[Essenza di Tolija]]></item>
+    <item name="zoo.window.shopResourceInfo.text_11"><![CDATA[L'essenza di Tolija riduce del 50% i tempi di riproduzione.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_12"><![CDATA[Pozione di crescita]]></item>
+    <item name="zoo.window.shopResourceInfo.text_12"><![CDATA[Con la pozione della crescita, i tuoi piccoli cresceranno due volte più velocemente!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_13"><![CDATA[Spazzatura]]></item>
+    <item name="zoo.window.shopResourceInfo.text_13"><![CDATA[È incredibile cosa butta via la gente! Ricicla i rifiuti e usa i materiali per costruire nuovi elementi per il tuo zoo.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_14"><![CDATA[Super filtro]]></item>
+    <item name="zoo.window.shopResourceInfo.text_14"><![CDATA[Se ricicli i rifiuti utilizzando un super filtro, aumenterai le tue possibilità di ottenere materiali rari.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_15"><![CDATA[Booster per artigiani]]></item>
+    <item name="zoo.window.shopResourceInfo.text_15"><![CDATA[Questa miscela di luppolo e bevanda energetica è esattamente ciò di cui i tuoi artigiani hanno bisogno per fare il pieno di energia e portare a termine il lavoro più velocemente.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_16"><![CDATA[Alghe]]></item>
+    <item name="zoo.window.shopResourceInfo.text_16"><![CDATA[Piante acquatiche verdi ricche di nutrienti preziosi! Deliziose!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_17"><![CDATA[Plancton]]></item>
+    <item name="zoo.window.shopResourceInfo.text_17"><![CDATA[Il plancton è un insieme di microrganismi che costituiscono il cibo di molti animali marini.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_18"><![CDATA[Gamberetto]]></item>
+    <item name="zoo.window.shopResourceInfo.text_18"><![CDATA[Non solo gli esseri umani, ma anche gli animali amano i gamberetti!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_19"><![CDATA[Cozze]]></item>
+    <item name="zoo.window.shopResourceInfo.text_19"><![CDATA[Assaporate la morbida carne nascosta all'interno. Chi potrebbe resistere a una tale prelibatezza?]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_20"><![CDATA[Filtro per l'acqua]]></item>
+    <item name="zoo.window.shopResourceInfo.text_20"><![CDATA[Utilizza un buon filtro per mantenere l'acqua nei tuoi acquari cristallina.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_21"><![CDATA[Super cibo per pesci]]></item>
+    <item name="zoo.window.shopResourceInfo.text_21"><![CDATA[Super Fish Food fornisce una dieta equilibrata per la vita marina di tutte le forme e dimensioni. Servilo e ottieni una doppia dose di BZ!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_22"><![CDATA[Cibo esclusivo per pesci]]></item>
+    <item name="zoo.window.shopResourceInfo.text_22"><![CDATA[Cibo esclusivo per pesci esclusivi. Dai questo cibo ai tuoi animali e otterrai il doppio delle perle!]]></item>
+  </category>
+</language>

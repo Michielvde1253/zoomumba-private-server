@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.storage">
+    <category name="zoo.storage.moreSpace">
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Espandi il tuo zoo!]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Puoi acquistare questo oggetto solo se hai %neededExpansion% espansioni dello zoo. Attualmente, hai solo %userExpansion% espansioni dello zoo. Vuoi espandere il tuo zoo subito per poter acquistare questo oggetto?]]></item>
+    </category>
+    <category name="zoo.storage.firstExpansion">
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[Torre dell'acqua e magazzino]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Fantastico! Finalmente hai abbastanza spazio per costruire la tua prima torre idrica e il tuo primo deposito. Entrambi gli oggetti sono gratuiti nel tuo inventario. Ora, che il gioco abbia inizio!]]></item>
+    </category>
+    <category name="zoo.storage.buy">
+      <item name="zoo.storage.buy.belowWater"><![CDATA[La capacità massima della torre idrica è %capacity%. Questo valore non può essere aumentato, nemmeno acquistando questo edificio. Vuoi comunque acquistarlo?]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[La capacità massima del tuo magazzino di rifornimento è %capacity%. Questo valore non può essere aumentato, nemmeno acquistando questo edificio. Vuoi comunque acquistarlo?]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[Hai a disposizione il %capacity% della tua capacità idrica. Non puoi immagazzinarne altra. Questo edificio non aumenterà la tua capacità. Vuoi comunque acquistarlo?]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[Hai a disposizione il %capacity% della tua capacità di stoccaggio. Non puoi immagazzinare altro. Questo edificio non aumenterà la tua capacità. Vuoi comunque acquistarlo?]]></item>
+    </category>
+    <category name="zoo.storage.capacity">
+      <item name="zoo.storage.capacity.title"><![CDATA[Capacità di stoccaggio]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[I tuoi animali hanno bisogno di molto cibo e acqua. Qui puoi vedere quanto cibo e acqua hai a disposizione e quanto puoi aumentare.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Acqua - capacità]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Capacità di alimentazione]]></item>
+    </category>
+  </category>
+</language>

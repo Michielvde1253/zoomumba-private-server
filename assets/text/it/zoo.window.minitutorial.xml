@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.minitutorial">
+    <item name="zoo.window.minitutorial.title"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.minitutorial.infopage.1"><![CDATA[Benvenuti a ZooMumba, la vostra folle avventura allo zoo! Mi chiamo Sonja e vi guiderò passo dopo passo nel funzionamento del gioco.<br><br>Nel negozio, potete acquistare vari recinti per animali e posizionarli nel vostro zoo.]]></item>
+    <item name="zoo.window.minitutorial.infopage.2"><![CDATA[Clicca sul recinto e acquista un animale. Assicurati di controllare se stai acquistando un maschio o una femmina.<br><br> Se hai entrambi nel recinto, puoi aspettarti presto dei cuccioli!]]></item>
+    <item name="zoo.window.minitutorial.infopage.3"><![CDATA[Prenditi cura dei tuoi animali regolarmente, coccolali e gioca con loro. In questo modo saranno felici e soddisfatti. Provaci!]]></item>
+    <item name="zoo.window.minitutorial.infopage.4"><![CDATA[È necessario collegare i recinti, gli edifici e le attrazioni con percorsi che conducano all'ingresso, in modo che i visitatori possano ammirare ogni cosa.]]></item>
+    <item name="zoo.window.minitutorial.infopage.5"><![CDATA[Nel negozio troverete cibo e tutto ciò che i vostri animali desiderano: carne, frutta, erba... basta dare un'occhiata!]]></item>
+    <item name="zoo.window.minitutorial.infopage.6"><![CDATA[Dal livello 2, puoi anche ottenere edifici e bancarelle nel negozio, rendendo il tuo zoo ancora più attraente per i visitatori. <br><br>Puoi riscuotere regolarmente i guadagni derivanti dal biglietto d'ingresso dall'edificio principale.]]></item>
+    <item name="zoo.window.minitutorial.infopage.6b"><![CDATA[Inizierai con qualche ZooDollar. Usali per acquistare fantastici animali e attrazioni speciali, oppure assumi degli assistenti. Ti aiuteranno con la manutenzione e la cura del tuo zoo. <br><br>E se finisci gli ZooDollar, non preoccuparti! Puoi ricaricarli in qualsiasi momento presso ZooBank.]]></item>
+    <item name="zoo.window.minitutorial.infopage.7"><![CDATA[Più visitatori accogli nel tuo zoo, più rifiuti dovrai raccogliere. <br><br>Mantieni pulito il tuo zoo e raccogli i rifiuti. I tuoi visitatori lo apprezzeranno!]]></item>
+    <item name="zoo.window.minitutorial.infopage.8"><![CDATA[Più visitatori soddisfatti avrà il tuo zoo, più alto salirà il tuo zoomometro. <br><br>Mettiti al lavoro e costruisci il miglior zoo del mondo - su ZooMumba! Divertiti!]]></item>
+  </category>
+</language>

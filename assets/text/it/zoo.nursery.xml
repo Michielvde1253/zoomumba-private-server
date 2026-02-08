@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Ciao, sono Tina e mi prendo cura dei tuoi cuccioli. Crescono e diventano adulti nel mio asilo nido. Scegli il cucciolo che vuoi allevare dal tuo inventario.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Pronto a crescere]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[È qui che cresce il cucciolo.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Il tuo cucciolo è cresciuto!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Aumentare]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Usa l'essenza]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Sollevare immediatamente]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Allevamento di animali]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Tempo rimanente:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Sollevare immediatamente]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Prima che tu te ne accorga, il tuo piccolo sarà già adulto!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[La pozione della crescita riduce il tempo di riproduzione del 50%.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Evviva! Questo tesoro è cresciuto ed è stato spostato nel tuo inventario:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Attenzione: qui sta crescendo un bambino! Se sposti la cameretta nell'inventario, il processo verrà interrotto. Vuoi davvero spostarla ora?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Attenzione: qui sta crescendo un bambino! Se vendi la cameretta ora, il processo verrà interrotto. Sei sicuro di volerla vendere ora?]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Ciao! Sono Lucka e adoro i pipistrelli! Ma soprattutto i loro teneri cuccioli. Portamene quanti più cuccioli possibile, così avrò degli articoli di Halloween davvero carini per te. Basta scambiare quelli dolci per ottenere gli articoli a sinistra o quelli aspri per ottenere quelli a destra.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Inventario]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Scegli quanti cuccioli %species% vuoi spostare nel tuo inventario.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Ci scusiamo!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Purtroppo non hai abbastanza cuccioli di pipistrello nel tuo inventario. Alleva i cuccioli di pipistrello e spostali nel tuo inventario per acquistare questo oggetto.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Piccoli pipistrelli nell'inventario]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Scambia piccoli pipistrelli con dolci]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Sostituisci i pipistrelli piccoli con quelli aspri]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Numero: Dolce]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Investi %x% dolci per sbloccare questo oggetto]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Investi %x% di acido per sbloccare questo oggetto]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Numero: Acido]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Aiuto]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Sposta i pipistrelli neonati nell'inventario]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Benvenuti all'evento di Halloween!<br> Dal <b>25 ottobre al 1° novembre</b>, una festa spettrale inizierà nel vostro zoo! Tanti regali e sorprese vi aspettano. Nel prossimo passaggio, scoprirete come funzionerà tutto.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Raccogli più dolce e aspro che puoi! Ti servono il dolce e l'aspro per attivare i trailer fantasma! Scoprirai come funziona nella pagina successiva.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Se hai abbastanza dolce e aspro, puoi usarli per attivare gli <b>oggetti</b>. Ma fai attenzione: i dolci ti faranno guardare con l'occhio a sinistra, gli aspri con l'occhio a destra. L'occhio ti mostrerà da quale lato vengono attivati ​​gli oggetti.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Puoi ottenere oggetti attivati ​​scambiandoli con <b>cuccioli di pipistrello</b>. Alleva tanti teneri pipistrelli. Un nuovo pulsante nel menu del recinto ti aiuterà a salvare i cuccioli nel tuo inventario in modo rapido e semplice.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Divertitevi nel negozio spettrale!<br> Per tutti gli impazienti: nel negozio potrete scambiare dolci e aspri con cuccioli di pipistrello. Vi aspettano altre sorprese.<br> <br>Divertiti ad Halloween quest'anno!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[È tempo di un po' di divertimento spettrale!<br>Dal <b>31 ottobre al 6 novembre</b>, ci sarà una festa di Halloween nel tuo zoo!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Raccogli più zucche che puoi! Usciranno dai recinti mentre ti prendi cura dei tuoi animali.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Aggiungile al grande cesto di zucche per la nostra <b>Battaglia di zucche</b>. Più zucche consegni, più terrificanti ricompense potrai vincere.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Mentre vi prendete cura dei vostri animali, dei dolcetti usciranno dai recinti. Potete raccoglierli tutti insieme. La barra delle azioni si riempirà e un occhio fluttuante vi mostrerà quali premi spaventosi sono disponibili per tutti. Cliccate sulla ricompensa una volta attivata.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Raccogli zucche per la grande battaglia delle zucche. Più ne raccogli, più premi puoi vincere.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Giocate tutti insieme! I gadget di tutti gli zoo riempiranno il contatore e sbloccheranno automaticamente premi per tutti!]]></item>
+    </category>
+  </category>
+</language>

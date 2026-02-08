@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bank">
+    <item name="zoo.window.bank.title"><![CDATA[Banca dello zoo]]></item>
+    <item name="zoo.window.bank.info"><![CDATA[Chi se la cava bene prospererà! Acquista preziosi Zoodollars presso la banca dello zoo o approfitta delle nostre interessanti offerte Premium!]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.title"><![CDATA[Acquista<br>zoodollari]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.info"><![CDATA[Stai finendo la valuta di gioco? Può succedere! Chi vuole avere successo deve investire!]]></item>
+    <item name="zoo.window.bank.button.premium.title"><![CDATA[Pacchetto Premium]]></item>
+    <item name="zoo.window.bank.button.premium.info"><![CDATA[Sfrutta i vantaggi Premium per attrarre più visitatori al tuo zoo. Provalo!]]></item>
+    <item name="zoo.window.bank.button.startpaket.title"><![CDATA[Assistenti]]></item>
+    <item name="zoo.window.bank.button.startpaket.info"><![CDATA[Non vuoi fare tutto da solo? Nessun problema! Gli assistenti dello zoo ti aiuteranno!]]></item>
+    <item name="zoo.window.bank.button.cashaction.title"><![CDATA[Contanti per<br>azione]]></item>
+    <item name="zoo.window.bank.button.cashaction.info"><![CDATA[Hai bisogno di una spinta finanziaria? Qui troverai fantastiche offerte! Scegli un fornitore e ottieni Zoodollars!]]></item>
+    <item name="zoo.window.bank.currency.title"><![CDATA[Ufficio di cambio]]></item>
+    <item name="zoo.window.bank.currency.info"><![CDATA[Scambia i tuoi zoodollars con zoogroshes e accumula riserve sufficienti sul tuo conto.]]></item>
+    <item name="zoo.window.bank.exchange.btnLabel"><![CDATA[Scambio]]></item>
+  </category>
+</language>

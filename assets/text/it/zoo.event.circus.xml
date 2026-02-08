@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Benvenuti al circo itinerante! Vi presentiamo la Mystery Box! Acquistate una scatola e ricevete uno dei 10 animali. Potete avere fino a 20 scatole alla volta e ogni scatola può essere aperta in massimo 5 ore. Buon divertimento!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Animali:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Congratulazioni di cuore!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[I seguenti animali sono stati aggiunti al tuo inventario: %animal%. Ottieni casse ancora più misteriose per ottenere animali ancora più unici!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Oh, ci dispiace!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Hai già 20 forzieri misteriosi. Aspetta che uno si apra e poi prendine un altro.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[La scatola misteriosa si aprirà per: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Clicca per vedere i tuoi animali]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Bentornato!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Mentre eri via, i tuoi animali hanno avuto sete a causa della misteriosa cassa. L'allevatrice Sonia si è presa cura di loro e li ha aggiunti al suo inventario. Dai un'occhiata!]]></item>
+  </category>
+</language>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Sto andando in una riserva dove vogliono aumentare la popolazione di - %species%. Puoi aiutarmi? Ti presto una coppia di - %species% per 120 ore. Per %amount% di %species% cuccioli, riceverai un adulto.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Prendine in prestito un paio]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Anaconda]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Fantastico! Ora hai almeno 5 cuccioli nel tuo inventario. Scambiali subito con me per un orango adulto!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Fantastico! Mi hai davvero aiutato tantissimo! Ora porterò i cuccioli alla riserva e li rilascerò lì in natura. Grazie mille e arrivederci alla prossima!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[La giostrina degli animali è tornata in viaggio verso la riserva, portando con sé due animali che hai preso in prestito. Puoi trovare i tuoi cuccioli appena nati nel tuo inventario.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Ti restano %count% ore per scambiare i cuccioli.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Oranghi neonati nel tuo inventario]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Sposta i cuccioli di orango nell'inventario.]]></item>
+    </category>
+  </category>
+</language>

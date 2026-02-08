@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventABtrade">
+    <category name="zoo.eventABtrade.button">
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Scambio]]></item>
+    </category>
+    <category name="zoo.eventABtrade.layer">
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Ciao, sono Lukáš, il direttore dello zoo della città vicina. Ho sentito che la vostra infermiera, Soňa Starostlivá, sta allevando nuove specie animali che mi interessano molto. Per ogni maschio della specie %priceSpecies%, vi darò un maschio della specie %rewardSpecies% o una femmina per ogni femmina. Durante la mia presenza, il tempo di incubazione della vostra specie %priceGenus%s sarà ridotto da 20 a 2 ore! Allora, ci stai?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Ora torno al mio zoo. Grazie mille e spero di rivedervi presto!]]></item>
+    </category>
+  </category>
+</language>

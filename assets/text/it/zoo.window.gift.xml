@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.gift">
+    <category name="zoo.window.gift.superFeedPack">
+      <item name="zoo.window.gift.superFeedPack.info"><![CDATA[Oggi in offerta: pacchetti superfood! Scegli tra 3 opzioni: "Buon inizio", "Master" ed "Expert". Come esperto, puoi inviare regali aggiuntivi ai tuoi 5 amici. Non esitare!]]></item>
+    </category>
+    <category name="zoo.window.gift.recipients">
+      <item name="zoo.window.gift.recipients.headerGift"><![CDATA[Regalo]]></item>
+      <item name="zoo.window.gift.recipients.headerUsername"><![CDATA[Nome del giocatore]]></item>
+      <item name="zoo.window.gift.recipients.headerUserID"><![CDATA[ID giocatore]]></item>
+      <item name="zoo.window.gift.recipients.info"><![CDATA[Scegli 5 amici e invia un regalo a ciascuno:]]></item>
+      <item name="zoo.window.gift.recipients.button.send"><![CDATA[Regalo]]></item>
+    </category>
+    <category name="zoo.window.gift.unwrapped">
+      <item name="zoo.window.gift.unwrapped.title"><![CDATA[Sarà una sorpresa!]]></item>
+      <item name="zoo.window.gift.unwrapped.text.1"><![CDATA[Hai ricevuto il seguente regalo:]]></item>
+      <item name="zoo.window.gift.unwrapped.text.2"><![CDATA[L'importo del regalo verrà addebitato sul tuo conto subito dopo averlo scartato.]]></item>
+    </category>
+  </category>
+</language>
