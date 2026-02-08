@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Olá! Sou Soňa Starostlivá, enfermeira aqui no zoológico. Você está ansioso para cruzar os novos filhotes fofos? Vou explicar como funciona! Primeiro, você precisa decidir qual espécie de animal deseja cruzar.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Escolha dois animais adultos do seu inventário para serem os pais. Quanto mais raros eles forem, maior a probabilidade de terem um filhote ainda mais raro. No entanto, os pais devem permanecer comigo para que essa reprodução aconteça.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Usar itens adicionais coletados, ração forte, super ração ou super remédio aumentará suas chances de criar um bebê particularmente raro. Quanto mais corações o item tiver, maior a chance!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Os preparativos estão quase concluídos! Confira suas escolhas antes de tudo começar. Quer mudar alguma coisa? Sem problemas, basta usar o botão "Voltar"!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[O experimento de reprodução utilizou os seguintes animais e itens:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Estação de reprodução pronta]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[É aqui que ele é criado.]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Um bebê nasceu!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Os bebês chegaram!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Comece a reprodução]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Use a essência]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Você realmente quer começar a criar animais sem nenhum suplemento? Pense bem — com suplementos, você tem uma chance maior de obter uma cria rara.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Você está no meio dos preparativos. Tem mesmo vontade de deixar a estação de reprodução?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Estação de reprodução]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Esses animais estão tendo filhotes agora:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Tempo restante:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Essência de Tolija]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[A essência Tolija reduz o tempo de reprodução em 50%.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Viva! Você tem um bebê! Você pode encontrar essa gracinha no seu inventário:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Viva! Você tem um filho! Você pode encontrar esse diabinho fofo no seu inventário:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Leve o filhote para o berçário de animais para que ele cresça.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Leve os pequenos ao berçário de animais para que eles possam crescer.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Atenção: A reprodução está em andamento! Se você mover a estação para o seu inventário agora, o processo será interrompido e você perderá todos os animais e suplementos. Tem certeza de que deseja movê-la agora?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Atenção: A reprodução está em andamento! Se você vender a estação agora, o processo será interrompido e todos os animais e suplementos serão perdidos. Tem certeza de que deseja vender a estação agora?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Se o processo de reprodução for concluído após o término do evento, você receberá apenas 1 filhote.]]></item>
+    </category>
+  </category>
+</language>

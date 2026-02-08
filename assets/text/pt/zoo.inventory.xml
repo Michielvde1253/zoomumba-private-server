@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.inventory">
+    <item name="zoo.inventory.sell.title"><![CDATA[Vender]]></item>
+    <item name="zoo.inventory.sell.info"><![CDATA[Quantas unidades você deseja vender?]]></item>
+    <item name="zoo.inventory.store.error.title"><![CDATA[IMPORTANTE]]></item>
+    <item name="zoo.inventory.store.error.info"><![CDATA[Se você deseja adicionar seus animais com recintos ao seu estoque, eles precisam primeiro estar saudáveis ​​e satisfeitos.]]></item>
+    <category name="zoo.inventory.tabs">
+      <item name="zoo.inventory.tabs.gifts"><![CDATA[Presentes]]></item>
+      <item name="zoo.inventory.tabs.inventory"><![CDATA[Inventário]]></item>
+      <item name="zoo.inventory.tabs.pawprints"><![CDATA[Patas]]></item>
+      <item name="zoo.inventory.tabs.pearls"><![CDATA[Pérolas]]></item>
+      <item name="zoo.inventory.tabs.specials"><![CDATA[Acessórios]]></item>
+      <item name="zoo.inventory.tabs.trash"><![CDATA[Lixo]]></item>
+    </category>
+    <category name="zoo.inventory.trash">
+      <item name="zoo.inventory.trash.info"><![CDATA[Proteção ambiental com reutilização: Recicle os resíduos em uma instalação de reciclagem e utilize as matérias-primas para fabricar algo necessário.]]></item>
+      <item name="zoo.inventory.trash.amount"><![CDATA[Quantidade de lixo:]]></item>
+    </category>
+    <category name="zoo.inventory.pawprints">
+      <item name="zoo.inventory.tabs.pawprints.info"><![CDATA[Quanto mais você cuidar dos seus animais, mais patas você coletará. Você poderá usá-las para melhorar seus recintos.<br><br>Quantidade atual de patas coletadas:]]></item>
+    </category>
+    <category name="zoo.inventory.pearls">
+      <item name="zoo.inventory.tabs.pearls.info"><![CDATA[Quanto mais você cuidar dos seus animais, mais pérolas você ganhará para embelezar seus habitats.<br><br>Status atual das pérolas:]]></item>
+    </category>
+    <category name="zoo.inventory.inventory">
+      <item name="zoo.inventory.inventory.empty"><![CDATA[TUDO ESTÁ VAZIO?<br>Seu estoque está vazio no momento.<br>Que tal dar uma olhada na loja ou fazer um safári?]]></item>
+      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Usar]]></item>
+    </category>
+    <category name="zoo.inventory.gifts">
+      <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Nome do jogador]]></item>
+      <item name="zoo.inventory.gifts.headerUserID"><![CDATA[ID do jogador]]></item>
+      <item name="zoo.inventory.gifts.received"><![CDATA[Que lindo! Seu amigo lhe enviou um presente. Desembrulhe-o rapidamente!]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Expandir]]></item>
+      <item name="zoo.inventory.gifts.none"><![CDATA[Que pena! Você não tem nenhum presente novo no momento... Mas não fique triste, algo chegará em breve.]]></item>
+    </category>
+    <category name="zoo.inventory.move">
+      <item name="zoo.inventory.move.title"><![CDATA[Pagar]]></item>
+      <item name="zoo.inventory.move.info"><![CDATA[Por quantos animais você deseja pagar?]]></item>
+    </category>
+    <category name="zoo.inventory.allin">
+      <item name="zoo.inventory.allin.title"><![CDATA[Enviar tudo para o estoque]]></item>
+      <item name="zoo.inventory.allin.confirmation"><![CDATA[Tem certeza de que deseja enviar tudo para o inventário? Aviso: Seus animais precisam estar limpos, alimentados e felizes antes de você poder fazer isso.]]></item>
+    </category>
+  </category>
+</language>

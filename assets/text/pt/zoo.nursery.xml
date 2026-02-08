@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Olá, eu sou a Tina e cuido dos seus filhotes. Eles crescem e se tornam adultos no meu berçário de animais. Escolha o filhote que você quer criar no seu inventário.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Pronto para crescer]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[É aqui que o filhote está crescendo.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Seu filhote cresceu!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Elevação]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Use a essência]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Levante imediatamente]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Criação de animais]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Tempo restante:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Levante imediatamente]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Antes que você perceba, seu pequeno já será um adulto!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[A Poção de Crescimento reduz o tempo de reprodução em 50%.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Eba! Este bebê cresceu e agora faz parte do seu estoque:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Atenção: Um bebê está crescendo aqui! Se você mover o berçário para o estoque, o processo será interrompido. Tem certeza de que deseja movê-lo agora?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Atenção: Um bebê está crescendo aqui! Se você vender o berçário agora, o processo será interrompido. Tem certeza de que deseja vendê-lo agora?]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bonus">
+    <item name="zoo.window.bonus.main.title"><![CDATA[Código de bônus]]></item>
+    <item name="zoo.window.bonus.main.info"><![CDATA[Você tem um código de bônus da ZooMumba? Basta inseri-lo aqui e receber seu bônus imediatamente!]]></item>
+    <item name="zoo.window.bonus.success.title"><![CDATA[Parabéns,]]></item>
+    <item name="zoo.window.bonus.success.info"><![CDATA[Ótimo, você inseriu o código de bônus corretamente e recebeu sua recompensa. Desejamos muita diversão!]]></item>
+    <category name="zoo.window.bonus.error">
+      <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Erro]]></item>
+      <item name="zoo.window.bonus.error.invalid.info"><![CDATA[Infelizmente, o código de bônus está incorreto. Por favor, verifique o código e tente novamente.]]></item>
+      <item name="zoo.window.bonus.error.participated.title"><![CDATA[Erro]]></item>
+      <item name="zoo.window.bonus.error.participated.info"><![CDATA[Você já resgatou este código de bônus.]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Erro]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[Você digitou o código de bônus incorretamente muitas vezes. Aguarde alguns minutos antes de tentar novamente.]]></item>
+    </category>
+  </category>
+</language>
