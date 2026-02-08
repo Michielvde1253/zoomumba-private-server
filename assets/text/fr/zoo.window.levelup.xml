@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.levelup">
-    <item name="zoo.window.levelup.title"><![CDATA[Passez au niveau supérieur]]></item>
-    <item name="zoo.window.levelup.info"><![CDATA[Bravo ! Vous avez atteint le niveau %level% et débloqué de nouvelles options en jeu :]]></item>
-    <item name="zoo.window.levelup.gainmoney"><![CDATA[Et vous avez reçu :]]></item>
-    <item name="zoo.window.levelup.quests.renew"><![CDATA[De plus, vous avez reçu de nouvelles tâches quotidiennes.]]></item>
-    <item name="zoo.window.levelup.v2.title"><![CDATA[Passez à un niveau supérieur]]></item>
-    <item name="zoo.window.levelup.v2.info.level.current"><![CDATA[Bravo ! Vous avez atteint le niveau %level% et le jeu se débloque pour vous :]]></item>
-    <item name="zoo.window.levelup.v2.info.level.next"><![CDATA[Au niveau %level%, vous trouverez :]]></item>
+    <item name="zoo.window.levelup.title"><![CDATA[Levelaufstieg]]></item>
+    <item name="zoo.window.levelup.info"><![CDATA[Bravo! Du hast Level %level% erreicht und neue Spieloptionen freigeschaltet:]]></item>
+    <item name="zoo.window.levelup.gainmoney"><![CDATA[Und Sie erhielten:]]></item>
+    <item name="zoo.window.levelup.quests.renew"><![CDATA[Darüber hinaus haben Sie neue tägliche Aufgaben erhalten.]]></item>
+    <item name="zoo.window.levelup.v2.title"><![CDATA[Auf eine höhere Stufe aufsteigen]]></item>
+    <item name="zoo.window.levelup.v2.info.level.current"><![CDATA[Bravo! Du hast Level %level% erreicht und das Spiel steht dir nun offen:]]></item>
+    <item name="zoo.window.levelup.v2.info.level.next"><![CDATA[Auf der Ebene %level% finden Sie:]]></item>
   </category>
 </language>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.welcomeBack">
-    <item name="zoo.window.welcomeBack.title"><![CDATA[Bienvenue à nouveau, %username% !]]></item>
-    <item name="zoo.window.welcomeBack.info"><![CDATA[Quel plaisir de vous retrouver ! Alors, au travail ! Vos animaux vous attendent avec impatience. Ça va être la folie ! De nouveaux pensionnaires adorables, des oiseaux plus rares et une foule de visiteurs enthousiastes. <br><br>Et vous découvrirez aussi tout ce que le zoo vous réserve :]]></item>
-    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Hourra ! Vite, ne ratez pas cette folle ruée !]]></item>
+    <item name="zoo.window.welcomeBack.title"><![CDATA[Willkommen zurück, %username%!]]></item>
+    <item name="zoo.window.welcomeBack.info"><![CDATA[Wie schön, dass du wieder da bist! Also, ran an die Arbeit! Deine Tiere warten schon ungeduldig auf dich. Es wird wieder richtig wild! Noch mehr niedliche Neuzugänge, noch mehr außergewöhnliche Vögel und jede Menge begeisterte Besucher. <br><br>Und du wirst auch genießen, was der Zoo sonst noch für dich bereithält:]]></item>
+    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Juhu! Schnell, verpasst nicht den Wahnsinnsansturm!]]></item>
   </category>
 </language>

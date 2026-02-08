@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.eventItems">
-    <item name="zoo.eventItems.setName.3"><![CDATA[citrouille d'Halloween]]></item>
-    <item name="zoo.eventItems.setInfo.3"><![CDATA[Des citrouilles sculptées effrayantes, appelées Jack-o'-lanterns, brillent dans l'obscurité de la nuit d'Halloween. Son horrible grimace est rendue encore plus terrifiante par la lueur vacillante des bougies. Uuu]]></item>
-    <item name="zoo.eventItems.setName.8"><![CDATA[arbre de Noël]]></item>
-    <item name="zoo.eventItems.setInfo.8"><![CDATA[Un sapin élancé a poussé… ! Un arbre décoré pour les fêtes, avec des cadeaux de Noël.]]></item>
-    <item name="zoo.eventItems.setName.12"><![CDATA[Cœur]]></item>
-    <item name="zoo.eventItems.setInfo.12"><![CDATA[Que la chance soit avec vous ! Dans de nombreux pays, on croit qu'embrasser un ramoneur le jour de la Saint-Valentin porte bonheur !]]></item>
-    <item name="zoo.eventItems.setName.21"><![CDATA[gâteau d'anniversaire]]></item>
-    <item name="zoo.eventItems.setInfo.21"><![CDATA[Miam ! Que serait un anniversaire sans une gourmandise calorique ?]]></item>
-    <item name="zoo.eventItems.setName.62"><![CDATA[gâteau d'anniversaire]]></item>
-    <item name="zoo.eventItems.setInfo.62"><![CDATA[Miam ! Que serait un anniversaire sans cette gourmandise calorique ?]]></item>
-    <item name="zoo.eventItems.setName.78"><![CDATA[Tas d'œufs de Pâques]]></item>
-    <item name="zoo.eventItems.setInfo.78"><![CDATA[Une jolie collection d'œufs de Pâques. Autrefois, on utilisait des œufs de poule peints. De nos jours, les œufs en chocolat sont plus courants.]]></item>
-    <item name="zoo.eventItems.setName.846"><![CDATA[Œuf arc-en-ciel]]></item>
-    <item name="zoo.eventItems.setInfo.846"><![CDATA[Des œufs de Pâques spécialement conçus pour permettre aux enfants malvoyants de participer à la chasse aux œufs. Ces œufs émettent un bip ou jouent une mélodie.]]></item>
+    <item name="zoo.eventItems.setName.3"><![CDATA[Kürbislaterne]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Gruselig geschnitzte Kürbisse, sogenannte Jack-o'-Lanterns, leuchten in der Dunkelheit der Halloween-Nacht. Sein grässliches Grinsen wird durch das flackernde Kerzenlicht noch furchterregender. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[Weihnachtsbaum]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[Ein schlanker Tannenbaum ist gewachsen...! Ein festlich geschmückter Baum, komplett mit Weihnachtsgeschenken.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Herz]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Auf das Glück! In vielen Ländern glaubt man, dass ein Kuss mit einem Schornsteinfeger am Valentinstag großes Glück bringt!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Geburtstagskuchen]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Mmmh! Was wäre ein Geburtstag ohne eine kalorienreiche Leckerei?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Geburtstagskuchen]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Mmmh! Was wäre ein Geburtstag ohne diese kalorienreiche Leckerei?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Haufen Ostereier]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[Eine schöne Sammlung von Ostereiern. Früher verwendete man bemalte Hühnereier. Heutzutage sind Schokoladeneier üblicher.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Regenbogenei]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Ostereier, die speziell für sehbehinderte Kinder angepasst wurden, damit diese an der Ostereiersuche teilnehmen können. Die Eier piepen oder spielen eine Melodie.]]></item>
   </category>
 </language>

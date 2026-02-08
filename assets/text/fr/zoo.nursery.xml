@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.nursery">
-    <item name="zoo.nursery.info"><![CDATA[Bonjour, je suis Tina et je m'occupe de vos bébés animaux. Ils grandissent jusqu'à l'âge adulte dans ma nurserie. Choisissez le bébé que vous souhaitez élever parmi ceux que vous avez sélectionnés.]]></item>
+    <item name="zoo.nursery.info"><![CDATA[Hallo, ich bin Tina und kümmere mich um eure Babys. Sie wachsen in meiner Tieraufzuchtstation zu ausgewachsenen Tieren heran. Wählt einfach das Baby aus eurem Inventar aus, das ihr aufziehen möchtet.]]></item>
     <category name="zoo.nursery.tooltip">
-      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Prêt à grandir]]></item>
-      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[C'est ici que le petit grandit.]]></item>
-      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Votre petit a bien grandi !]]></item>
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Bereit zum Wachsen]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Hier wächst das Junge auf.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Dein Junges ist erwachsen geworden!]]></item>
     </category>
     <category name="zoo.nursery.button">
-      <item name="zoo.nursery.button.raise"><![CDATA[Augmenter]]></item>
-      <item name="zoo.nursery.button.elixir"><![CDATA[Utiliser l'essence]]></item>
-      <item name="zoo.nursery.button.instantRaise"><![CDATA[Augmentez immédiatement]]></item>
+      <item name="zoo.nursery.button.raise"><![CDATA[Erheben]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Essenz verwenden]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Sofort erhöhen]]></item>
     </category>
     <category name="zoo.nursery.layer">
-      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[élevage animal]]></item>
-      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován :]]></item>
-      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Temps restant :]]></item>
-      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Augmentez immédiatement]]></item>
-      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Avant même de vous en rendre compte, votre petit bout de chou sera devenu adulte !]]></item>
-      <item name="zoo.nursery.layer.elixir.text"><![CDATA[La potion de croissance réduit le temps de reproduction de 50 %.]]></item>
-      <item name="zoo.nursery.layer.success"><![CDATA[Hourra ! Ce bébé a grandi et a rejoint votre inventaire :]]></item>
-      <item name="zoo.nursery.layer.inventorize"><![CDATA[Attention : Un bébé grandit ici ! Si vous déplacez la chambre de bébé dans l’inventaire, le processus sera interrompu. Êtes-vous sûr de vouloir la déplacer maintenant ?]]></item>
-      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Attention : Un bébé grandit ici ! Si vous vendez la chambre de bébé maintenant, le processus sera interrompu. Êtes-vous sûr(e) de vouloir la vendre maintenant ?]]></item>
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Tierzucht]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Verbleibende Zeit:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Sofort erhöhen]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Ehe man sich versieht, ist aus dem Kleinen ein Erwachsener geworden!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Der Wachstumstrank verkürzt die Zuchtzeit um 50%.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Juhu! Dieses Baby ist erwachsen geworden und befindet sich nun in deinem Inventar:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Achtung: Hier wächst ein Baby heran! Wenn Sie das Kinderzimmer ins Inventar verschieben, wird der Vorgang unterbrochen. Möchten Sie es jetzt wirklich verschieben?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Achtung: Hier wächst ein Baby heran! Wenn Sie das Kinderzimmer jetzt verkaufen, wird dieser Prozess unterbrochen. Sind Sie sicher, dass Sie es jetzt verkaufen möchten?]]></item>
     </category>
   </category>
 </language>

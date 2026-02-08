@@ -2,10 +2,10 @@
 <language>
   <category name="zoo.cinema">
     <category name="zoo.cinema.layer">
-      <item name="zoo.cinema.layer.intro"><![CDATA[Regardez des films et gagnez de superbes récompenses !<br /><br />C'est possible uniquement dans notre cinéma ! Regardez jusqu'à 3 extraits par jour et recevez une récompense pour chacun. Pour obtenir votre récompense, vous devez regarder l'extrait jusqu'au bout.<br /><br />Cliquez simplement sur « Lancer le film » et le spectacle commence !<br /><br />Amusez-vous bien !]]></item>
-      <item name="zoo.cinema.layer.selectReward"><![CDATA[Recevez votre récompense !]]></item>
-      <item name="zoo.cinema.layer.play"><![CDATA[Lancez le film !]]></item>
-      <item name="zoo.cinema.layer.noVideo"><![CDATA[Aucune vidéo n'est disponible pour le moment.]]></item>
+      <item name="zoo.cinema.layer.intro"><![CDATA[Filme schauen und dafür tolle Belohnungen erhalten?<br /><br />Das gibt es nur in unserem Kino! Schau dir bis zu 3 Clips pro Tag an und erhalte für jeden eine Belohnung. Um deine Belohnung zu erhalten, musst du den Clip bis zum Ende ansehen.<br /><br />Klicke einfach auf „Film starten“ und schon kann es losgehen!<br /><br />Viel Spaß!]]></item>
+      <item name="zoo.cinema.layer.selectReward"><![CDATA[Hol dir deine Belohnung!]]></item>
+      <item name="zoo.cinema.layer.play"><![CDATA[Film starten!]]></item>
+      <item name="zoo.cinema.layer.noVideo"><![CDATA[Derzeit sind keine Videos verfügbar.]]></item>
     </category>
   </category>
 </language>

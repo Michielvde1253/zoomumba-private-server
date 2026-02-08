@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.confirmation">
-    <item name="zoo.window.confirmation.closegame.title"><![CDATA[Fin de partie]]></item>
-    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[Ce zoo n'est pas encore disponible. Vous pouvez le débloquer en atteignant %level% d'extensions dans le zoo suivant : %zooName%. Ou débloquez-le immédiatement pour %zooDollar% zoodollars.]]></item>
-    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[Pour débloquer ce zoo, vous devez atteindre le niveau %level%. Vous pouvez aussi le débloquer immédiatement pour %zooDollar% de zoodollars.]]></item>
-    <item name="zoo.window.confirmation.map.level"><![CDATA[Vous devez atteindre le niveau %level% pour débloquer ce zoo.]]></item>
-    <item name="zoo.window.confirmation.map.buy"><![CDATA[Souhaitez-vous acheter une extension pour votre zoo ?]]></item>
-    <item name="zoo.window.confirmation.title.buy"><![CDATA[Acheter]]></item>
-    <item name="zoo.window.confirmation.closegame.info"><![CDATA[Voulez-vous vraiment quitter ZooMumba ?]]></item>
-    <item name="zoo.window.confirmation.shop.buyitemreal.title"><![CDATA[Acheter des articles]]></item>
-    <item name="zoo.window.confirmation.shop.buyitemreal.info"><![CDATA[Voulez-vous vraiment acheter cet article ?]]></item>
-    <item name="zoo.window.confirmation.shop.buyMove.title"><![CDATA[Achat et déménagement]]></item>
-    <item name="zoo.window.confirmation.shop.buyMove.info"><![CDATA[Voulez-vous effectuer cette transaction pour obtenir des zoodollars ?]]></item>
-    <item name="zoo.window.confirmation.sellitemaction.title"><![CDATA[Vendre]]></item>
-    <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Voulez-vous vraiment vendre cet article ?]]></item>
-    <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[Avertissement]]></item>
-    <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[Si vous placez l'enclos dans votre inventaire, il perdra son amélioration d'action.<br><br>Voulez-vous continuer ?]]></item>
+    <item name="zoo.window.confirmation.closegame.title"><![CDATA[Endspiel]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[Dieser Zoo ist noch nicht verfügbar. Du kannst ihn freischalten, indem du %level% Erweiterungen im folgenden Zoo erreichst: %zooName%. Oder schalte ihn sofort für %zooDollar% Zoodollar frei.]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[Um diesen Zoo freizuschalten, musst du Level %level% erreicht haben. Alternativ kannst du ihn sofort für %zooDollar% Zoodollar freischalten.]]></item>
+    <item name="zoo.window.confirmation.map.level"><![CDATA[Du musst Level %level% erreicht haben, um diesen Zoo freizuschalten.]]></item>
+    <item name="zoo.window.confirmation.map.buy"><![CDATA[Möchten Sie eine Zooerweiterung kaufen?]]></item>
+    <item name="zoo.window.confirmation.title.buy"><![CDATA[Kaufen]]></item>
+    <item name="zoo.window.confirmation.closegame.info"><![CDATA[Möchtest du ZooMumba wirklich<br>verlassen?]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.title"><![CDATA[Artikel kaufen]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.info"><![CDATA[Möchten Sie diesen Artikel wirklich kaufen?]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.title"><![CDATA[Kaufbewegung]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.info"><![CDATA[Möchtest du diesen Schritt für Zoodollars wagen?]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.title"><![CDATA[Verkaufen]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Möchten Sie diesen Artikel wirklich verkaufen?]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[Warnung]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[Wenn du das Gehege in dein Inventar legst, verliert es seine Aktionsverbesserung.<br><br>Möchtest du fortfahren?]]></item>
     <category name="zoo.window.confirmation.gift">
-      <item name="zoo.window.confirmation.gift.title"><![CDATA[Attention!]]></item>
-      <item name="zoo.window.confirmation.gift.info"><![CDATA[Vous n'avez pas encore sélectionné vos 5 amis ! Si vous continuez, vos cadeaux seront perdus. Ce serait dommage… Voulez-vous vraiment continuer ?]]></item>
+      <item name="zoo.window.confirmation.gift.title"><![CDATA[Aufmerksamkeit!]]></item>
+      <item name="zoo.window.confirmation.gift.info"><![CDATA[Du hast deine 5 Freunde noch nicht ausgewählt! Wenn du fortfährst, gehen deine Geschenke verloren. Das wäre schade … Möchtest du trotzdem fortfahren?]]></item>
     </category>
   </category>
 </language>

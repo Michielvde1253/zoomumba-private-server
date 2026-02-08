@@ -2,9 +2,9 @@
 <language>
   <category name="zoo.settings">
     <category name="zoo.settings.general">
-      <item name="zoo.settings.general.numberSeparator"><![CDATA[\u00A0]]></item>
+      <item name="zoo.settings.general.numberSeparator"><![CDATA[☐]]></item>
       <item name="zoo.settings.general.numberSepMinDigits"><![CDATA[5]]></item>
-      <item name="zoo.settings.general.decimalSeparator"><![CDATA[.]]></item>
+      <item name="zoo.settings.general.decimalSeparator"><![CDATA[Die]]></item>
     </category>
   </category>
 </language>
