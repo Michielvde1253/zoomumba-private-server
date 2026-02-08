@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.safari">
+    <item name="zoo.safari.title"><![CDATA[Safari]]></item>
+    <item name="zoo.safari.fuel_singular"><![CDATA[Benzinkanister]]></item>
+    <category name="zoo.safari.errors">
+      <item name="zoo.safari.errors.notAvailable"><![CDATA[Schade! Dein Level ist leider zu niedrig! Ab Level 7 kannst du die Safari-Tour starten!]]></item>
+    </category>
+    <category name="zoo.safari.welcomeWindow">
+      <item name="zoo.safari.welcomeWindow.infoText"><![CDATA[Willkommen zu einer abenteuerlichen Safari: Gewinne tolle Preise und sogar neue Tiere! <br /><br />Wähle im nächsten Schritt einfach das Gebiet aus, in dem deine Safari beginnen soll. <br /><br />Auf in die Wildnis!]]></item>
+    </category>
+    <category name="zoo.safari.regionWindow">
+      <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Wählen Sie eine Region aus]]></item>
+      <item name="zoo.safari.startWindow.infoText"><![CDATA[In welcher Region möchtest du deine Safari beginnen? Wähle sie hier aus: In jeder Region gibt es 3 Bereiche, die du je nach deinem Level aktivieren kannst.]]></item>
+    </category>
+    <category name="zoo.safari.shopWindow">
+      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Hey Abenteurer! Begib dich auf eine echte Safari. Nutze die Joker, um dir den Weg in die Wildnis zu erleichtern.<br><br>Wichtig: Wähle für deine Reise nur je einen Joker jeder Art!]]></item>
+      <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[Möchtest du %skipTimerCost% Zoodollars investieren und deine Safari sofort starten?]]></item>
+      <item name="zoo.safari.shopWindow.infoText"><![CDATA[Bereit für eine Safari? So funktioniert's: Im nächsten Schritt siehst du ein Spiel: Es besteht aus 9 bis 25 verdeckten Karten. Hinter den Karten verbergen sich Belohnungen oder Tierspuren, denen du folgen musst, um den Hauptpreis zu erhalten. Aber Vorsicht: Jede Karte kann auch eine Falle verbergen!<br /><br />Siehst du den Benzinkanister unten rechts? Er zeigt dir an, wie viel Benzin noch in deinem Jeep ist. Sobald du eine Karte aufdeckst, verbrauchst du etwas Benzin.<br /><br />Und nun zu den Spielregeln: Am Anfang kannst du nur Karten aus der untersten Reihe wählen. Klicke auf eine Karte, um sie umzudrehen. So siehst du, ob du etwas gefunden hast und wenn ja, was. Anschließend kannst du Karten über oder unter der letzten Karte sowie rechts oder links davon wählen. Das Spiel endet, sobald du ein Tier findest, aber auch, wenn dir der Treibstoff ausgeht.<br /><br />Erhöhe deine Chancen auf einen tollen Fund mit dem Joker aus dem Shop. Es gibt zwei Arten von Jokern: Karten- und Navigationsjoker. Der Kartenjoker hilft dir, deine Karten aufzudecken – er enthüllt zusätzliche Karten. Der Navigationsjoker weist dir dank seines Kompasses den richtigen Weg.<br /><br />Du kannst je einen Joker jeder Art auf Safari mitnehmen. Egal, ob du den Joker benutzt hast oder nicht, du verlierst ihn am Ende der Safari.]]></item>
+    </category>
+    <category name="zoo.safari.miniGame">
+      <item name="zoo.safari.miniGame.tileInfo.trap"><![CDATA[Mist, da ist ein Hindernis aufgetaucht. Ärgerlich, ein Kanister Benzin ist weg.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.treasure"><![CDATA[Großartig! Du hast %treasureCount% %treasureName% gefunden. Beeil dich, such weiter, du kannst noch viele weitere Schätze finden.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.animal"><![CDATA[Herzlichen Glückwunsch! Sieh mal, was du gefunden hast! Es ist %animal%! Schnell zum Zoo, es wartet in deinem Inventar auf dich. Du hast deine Safari erfolgreich abgeschlossen.]]></item>
+      <item name="zoo.safari.miniGame.closeWarning"><![CDATA[Möchtest du die Safari wirklich beenden? Wenn ja, kannst du heute keine weiteren Safaris mehr starten und dein Benzin und deine Vorräte werden aufgebraucht sein!]]></item>
+      <item name="zoo.safari.miniGame.noJoker"><![CDATA[Kein Witz]]></item>
+      <item name="zoo.safari.miniGame.buyGasThenEmpty"><![CDATA[Sie sind fast am Ziel! Leider ist Ihr Tank leer. Möchten Sie für ein paar Zoodollars tanken und Ihre Safari fortsetzen? Wählen Sie die gewünschte Tankmenge.]]></item>
+      <item name="zoo.safari.miniGame.buyMissingGas"><![CDATA[Die benötigte Menge an Benzinkanistern für dieses Gelände beträgt %neededGas%. Du hast jedoch nur %missingGas%. Möchtest du das benötigte Benzin mit Zoodollars kaufen?]]></item>
+      <item name="zoo.safari.miniGame.buyGas"><![CDATA[Bitte wählen Sie die gewünschte Benzinmenge. Aber Achtung: Wenn Sie während Ihrer Safari nicht Ihr gesamtes Benzin verbrauchen, verfällt der Rest.]]></item>
+    </category>
+    <category name="zoo.safari.minigameInfo">
+      <item name="zoo.safari.minigameInfo.title"><![CDATA[Anweisungen]]></item>
+      <item name="zoo.safari.minigameInfo.1"><![CDATA[Willkommen zu Ihrer Safari!<br /> Entdecken Sie ungewöhnliche Tiere und großartige Schätze. Doch Vorsicht, wohin Sie treten! Überall lauern Fallen. Je nach Gelände benötigen Sie unterschiedlich viel Benzin.<br /><br />Die Safari ist beendet, sobald Ihr Tank leer ist oder Sie ein Tier antreffen.]]></item>
+      <item name="zoo.safari.minigameInfo.2"><![CDATA[Sie können die Wildnis betreten, indem Sie auf eines der unteren Felder klicken.]]></item>
+      <item name="zoo.safari.minigameInfo.3"><![CDATA[Bewege dich in geraden Linien nach Norden, Süden, Westen und Osten.]]></item>
+      <item name="zoo.safari.minigameInfo.4"><![CDATA[Du kannst deine Joker jederzeit aktivieren. Sie enthalten wertvolle Tipps, die dich schneller ans Ziel bringen.]]></item>
+      <item name="zoo.safari.minigameInfo.terains"><![CDATA[Folgende Geländetypen stehen zur Verfügung:<br />]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.name"><![CDATA[Einfaches Gelände]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.info"><![CDATA[Sie benötigen 1 Einheit Benzin.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.name"><![CDATA[Schwierigeres Gelände]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.info"><![CDATA[Sie benötigen 3 Einheiten Benzin.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.name"><![CDATA[Unpassierbares Gelände]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.info"><![CDATA[Zutritt verboten]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.name"><![CDATA[Erkundetes Gelände]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.info"><![CDATA[Sie benötigen 1 Einheit Benzin.]]></item>
+      <item name="zoo.safari.minigameInfo.events"><![CDATA[Sie finden hier folgende Artikel: <br />]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.name"><![CDATA[Tierspuren]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.info"><![CDATA[Sie geben die Richtung an, in der sich das Tier befinden könnte.]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.name"><![CDATA[SCHATZ]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.info"><![CDATA[Juhu, ein Schatz mit einer tollen Überraschung!]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.name"><![CDATA[BARRIERE]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.info"><![CDATA[Kostet Sie 1 Benzineinheit.]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.name"><![CDATA[BEGEGNUNG MIT EINEM TIER]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.info"><![CDATA[Wenn ihr einem Tier begegnet, gehört es euch und die Mission ist beendet.]]></item>
+    </category>
+    <category name="zoo.safari.jokers">
+      <item name="zoo.safari.jokers.titel_1"><![CDATA[Affe, der Berater]]></item>
+      <item name="zoo.safari.jokers.titel_2"><![CDATA[Sonja, die Beraterin]]></item>
+      <item name="zoo.safari.jokers.titel_3"><![CDATA[Kompass]]></item>
+      <item name="zoo.safari.jokers.titel_4"><![CDATA[Schnelles Reisen]]></item>
+      <item name="zoo.safari.jokers.text_1"><![CDATA[Jeder braucht ab und zu ein bisschen Hilfe. Wenn du den Affen um Hilfe bittest, kannst du eine zufällig ausgewählte Karte aufdecken.<br /><br />Neugierig? Dann los!]]></item>
+      <item name="zoo.safari.jokers.text_2"><![CDATA[Möchtest du eine bestimmte Karte aufdecken und in der Safari vorankommen?<br /><br /><br /> Nutze die Hilfe der Beraterin Sonia. Mit ihrer Hilfe deckst du die Karte deiner Wahl auf. So erreichst du dein Ziel schneller. Viel Glück!]]></item>
+      <item name="zoo.safari.jokers.text_3"><![CDATA[Brauchst du Hilfe? Benutze den Kompass als Joker, um eine Karte zu markieren. Darauf findest du entweder das gesuchte Tier oder eine Falle. Willst du wissen, was sich dahinter verbirgt? Dann beeil dich und finde es heraus!]]></item>
+      <item name="zoo.safari.jokers.text_4"><![CDATA[Aber nun zum Wesentlichen: Gehst du nur langsam und mühsam deinem Ziel entgegen? Bist du nicht schnell genug?<br /><br />Dann nutze den Joker: Er markiert drei Karten für dich. Unter ihnen kann sich das gesuchte Tier verbergen, aber auch eine Falle.<br /><br />Tier oder Falle … Schnell, schau!]]></item>
+    </category>
+    <category name="zoo.safari.tooltip">
+      <item name="zoo.safari.tooltip.cantStartSafari"><![CDATA[Du kannst deine Safari starten, sobald du Level 7 erreicht hast.]]></item>
+      <item name="zoo.safari.tooltip.startSafari"><![CDATA[Steigen Sie in den Jeep: Klicken Sie hier, um die Safari zu starten!]]></item>
+      <item name="zoo.safari.tooltip.backToZoo"><![CDATA[Zurück zum Zoo]]></item>
+      <item name="zoo.safari.tooltip.regionSmall"><![CDATA[Klein]]></item>
+      <item name="zoo.safari.tooltip.regionMedium"><![CDATA[Medium]]></item>
+      <item name="zoo.safari.tooltip.regionLarge"><![CDATA[Groß]]></item>
+      <item name="zoo.safari.tooltip.skipTimerInShop"><![CDATA[Sie erhalten täglich eine bestimmte Anzahl an Benzinkanistern.<br/> Wollen Sie jetzt mehr? Dann verkürzen Sie Ihre Wartezeit mit Zoodollars!]]></item>
+      <item name="zoo.safari.tooltip.buyGasInMinigame"><![CDATA[Klicken Sie hier, um mehr Benzin zu kaufen.]]></item>
+      <item name="zoo.safari.tooltip.regeonLevelRequared"><![CDATA[Diese Region wird zugänglich, sobald Sie das Level %regionLevel% erreicht haben.]]></item>
+    </category>
+    <category name="zoo.safari.button">
+      <item name="zoo.safari.button.startSafari"><![CDATA[Die Safari beginnt]]></item>
+      <item name="zoo.safari.button.endSafari"><![CDATA[Safari abschließen]]></item>
+      <item name="zoo.safari.button.activate"><![CDATA[Aktivieren]]></item>
+      <item name="zoo.safari.button.use"><![CDATA[Einsetzen]]></item>
+    </category>
+  </category>
+</language>

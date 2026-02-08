@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Hallo! Ich bin Soňa Starostlivá, Krankenschwester hier im Zoo. Freuen Sie sich schon darauf, die neuen, süßen Jungtiere zu züchten? Ich erkläre Ihnen, wie es funktioniert! Zuerst müssen Sie entscheiden, welche Tierart Sie züchten möchten.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Wähle zwei ausgewachsene Tiere aus deinem Bestand aus, die Eltern werden sollen. Je seltener sie sind, desto wahrscheinlicher ist es, dass sie ein noch selteneres Junges bekommen. Die Elterntiere müssen jedoch für diese Zucht bei mir bleiben.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Durch die Verwendung zusätzlicher gesammelter Gegenstände, starker Nahrung, Supernahrung oder Supermedizin erhöhen sich deine Chancen, ein besonders seltenes Baby aufzuziehen. Je mehr Herzen der Gegenstand hat, desto höher ist die Chance!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Die Vorbereitungen sind fast abgeschlossen! Überprüfen Sie Ihre Auswahl noch einmal, bevor es losgeht. Möchten Sie etwas ändern? Kein Problem, nutzen Sie einfach den „Zurück“-Button!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[Für das Zuchtexperiment wurden folgende Tiere und Gegenstände verwendet:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Zuchtstation bereit]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Hier wird es gezüchtet.]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Ein Baby ist geboren!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Die Babys sind da!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Beginnen Sie mit der Zucht]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Essenz verwenden]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Wollen Sie wirklich ohne Nahrungsergänzungsmittel mit der Zucht beginnen? Überlegen Sie es sich gut – mit Nahrungsergänzungsmitteln haben Sie eine größere Chance, seltene Nachkommen zu erhalten.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Du bist mitten in den Vorbereitungen. Willst du die Zuchtstation wirklich verlassen?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Brutstation]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Diese Tiere bekommen gerade Junge:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Verbleibende Zeit:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Essenz von Tolija]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Tolija-Essenz verkürzt die Zuchtzeit um 50%.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hurra – du hast ein Baby! Du findest den kleinen Schatz in deinem Inventar:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hurra – du hast ein Kind! Du findest diesen süßen Kobold in deinem Inventar:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Bringen Sie das Kleine in die Tierkinderstube, damit es dort aufwachsen kann.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Bringt die Kleinen in die Tierkinderstube, damit sie groß werden können.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Warnung: Die Zucht läuft gerade! Wenn du die Zuchtstation jetzt in dein Inventar verschiebst, wird der Vorgang unterbrochen und du verlierst alle Tiere und Ergänzungsmittel. Möchtest du sie wirklich jetzt verschieben?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Warnung: Die Zucht läuft gerade! Wenn Sie die Station jetzt verkaufen, wird der Prozess unterbrochen und alle Tiere und Ergänzungsmittel gehen verloren. Sind Sie sicher, dass Sie die Station jetzt verkaufen möchten?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Wird der Zuchtprozess nach dem Ende des Events abgeschlossen, erhältst du nur 1 Jungtier.]]></item>
+    </category>
+  </category>
+</language>

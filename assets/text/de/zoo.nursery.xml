@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Hallo, ich bin Tina und kümmere mich um eure Babys. Sie wachsen in meiner Tieraufzuchtstation zu ausgewachsenen Tieren heran. Wählt einfach das Baby aus eurem Inventar aus, das ihr aufziehen möchtet.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Bereit zum Wachsen]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Hier wächst das Junge auf.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Dein Junges ist erwachsen geworden!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Erheben]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Essenz verwenden]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Sofort erhöhen]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Tierzucht]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Verbleibende Zeit:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Sofort erhöhen]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Ehe man sich versieht, ist aus dem Kleinen ein Erwachsener geworden!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Der Wachstumstrank verkürzt die Zuchtzeit um 50%.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Juhu! Dieses Baby ist erwachsen geworden und befindet sich nun in deinem Inventar:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Achtung: Hier wächst ein Baby heran! Wenn Sie das Kinderzimmer ins Inventar verschieben, wird der Vorgang unterbrochen. Möchten Sie es jetzt wirklich verschieben?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Achtung: Hier wächst ein Baby heran! Wenn Sie das Kinderzimmer jetzt verkaufen, wird dieser Prozess unterbrochen. Sind Sie sicher, dass Sie es jetzt verkaufen möchten?]]></item>
+    </category>
+  </category>
+</language>

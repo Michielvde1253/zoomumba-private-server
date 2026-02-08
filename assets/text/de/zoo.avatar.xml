@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.avatar">
+    <item name="zoo.avatar.heads"><![CDATA[Erstelle hier deinen eigenen Avatar und zeig ihn deinen Freunden! Hast du dein Geschlecht schon gewählt? Dann entscheide dich jetzt für deine Gesichtszüge!]]></item>
+    <item name="zoo.avatar.eyes"><![CDATA[Das Auge ist der Spiegel der Seele! Welche Augen passen am besten zu Ihnen?]]></item>
+    <item name="zoo.avatar.mouths"><![CDATA[Lächeln, Lachen, Grinsen... Dein Mund verrät anderen, wie du dich fühlst!]]></item>
+    <item name="zoo.avatar.hair"><![CDATA[Haarfarbe und Frisur können Ihr Aussehen komplett verändern!]]></item>
+    <item name="zoo.avatar.hats"><![CDATA[Kopfbedeckungen (?) können Ihnen ein wichtiges Aussehen verleihen!]]></item>
+    <item name="zoo.avatar.clothes"><![CDATA[Wählen Sie das passende Outfit für den Zoo.]]></item>
+  </category>
+</language>

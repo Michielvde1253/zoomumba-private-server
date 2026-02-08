@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA[„Good Start“-Superfood-Paket]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Dieses Paket enthält 40 Einheiten Superfood und 5 Paws. Damit erhalten Sie beim Füttern die 40-fache doppelte BZ-Wirkung und können die Verschönerung Ihrer Terrarien beobachten!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA["Master" Superfood-Paket]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Dieses Paket enthält 125 Einheiten Superfood und 20 Paws. Damit erhalten Sie 125-fache doppelte BZ und kommen der Verschönerung Ihrer Terrarien einen großen Schritt näher!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA[„Experten“-Superfood-Paket]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Dieses Paket enthält 350 Einheiten Superfood und 30 Pfoten, aber auch 5 Geschenke mit je 5 Einheiten Superfood für 5 deiner Freunde. So können auch sie von diesem Paket profitieren!]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Zusätzlicher Versuch]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Juhu, du hast einen zusätzlichen Versuch!<br> Für jeden Tag, an dem du dich einloggst, erhältst du einen zusätzlichen Dreh am Glücksrad.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Klicken Sie und versuchen Sie Ihr Glück!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Oder klicke in der Stadt auf das Gebäude mit dem Glücksrad. Jeder Dreh garantiert tolle Gewinne!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Weitere Versuche]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Möchten Sie einen weiteren Versuch kaufen?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Glückwunsch!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Juhu! Du hast gewonnen!]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Dreh noch einmal, nur am Glücksrad kann man gewinnen!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Füttere John für 1 Stunde]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Wasserlieferant Paul für 1 Stunde]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Hausmeister Stanley für 1 Stunde]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Züchterin Sonja für 1 Stunde]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Müllmann George für 1 Stunde]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Kassierer/in (1 Stunde)]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Füttere John für 3 Stunden]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Wasserlieferant Paul für 3 Stunden]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Hausmeister Stanley für 3 Stunden]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Züchterin Sonja für 3 Stunden]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Müllmann George für 3 Stunden]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Kassierer/in (3 Stunden)]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[30 % EP-Bonus für volle 8 Stunden!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100 % EP-Bonus für volle 8 Stunden!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50 % Pfotenbonus für volle 5 Stunden!]]></item>
+    </category>
+  </category>
+</language>

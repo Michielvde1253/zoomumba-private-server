@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[Frohe Weihnachten!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[Vom 21. Dezember bis zum 2. Januar dreht sich in eurem Zoo alles um Weihnachten! Schmückt euren Weihnachtsbaum und helft mir, Weihnachten zu retten!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Zuerst züchtest du 8 fliegende Rentiere und dann einen Weihnachtsmann-Rudolph für seinen Schlitten. Für jedes Rentier, das du ihm bringst, erhältst du ein Geschenk.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Hin und wieder schenkt dir der Weihnachtsmann auch einen Christbaumschmuck. Am Ende kannst du deinen geschmückten Baum behalten.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Hurra, wir haben hier auch eine besondere Weihnachtskollektion! Kümmert euch um eure Tiere und sammelt Weihnachtsartikel. Ihr könnt damit auch Rentiere züchten!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Tolle Überraschungen im Weihnachtsladen]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Verwandeln Sie Ihren Zoo in eine farbenfrohe Winterwelt: mit vielen neuen und beliebten Weihnachtsdekorationen.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Frohe Weihnachten und viel Spaß bei der Weihnachtsveranstaltung!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[Das ist ja furchtbar! Die Rentiere des Weihnachtsmanns sind weggelaufen und jetzt kann er keine Geschenke ausliefern! Bring ihm 8 fliegende Rentiere und Rudolph, den Weihnachtsmann, und stell sie vor seinen Schlitten. Als Dankeschön bekommst du tolle Geschenke!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Der Weihnachtsmann ist auf dem Weg nach:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Du hast gewonnen:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Schau dir deinen Weihnachtsbaum auf dem Parkplatz an!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Hol dir ein neues Outfit für deinen Avatar!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Schnell, werfen Sie einen Blick auf Ihren Lagerbestand!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Danke schön!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Deine Rentiere können es kaum erwarten, loszuziehen. Dank dir ist Weihnachten gerettet!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Danke schön!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Einige meiner Rentiere fehlen noch, aber es ist Zeit für mich, mich auf den Weg zu machen! Keine Sorge, ich werde eine Lösung finden – schließlich bin ich der Weihnachtsmann!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[Der geschmückte Weihnachtsbaum von Ihrem Parkplatz befindet sich nun in Ihrem Inventar.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Als Erstes bringen wir dem Weihnachtsmann 8 magische Rentiere.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Der Weihnachtsmann hat bereits 8 fliegende Rentiere, alles, was ihm noch fehlt, ist sein Rudolph!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Weihnachtsdekoration]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Weihnachts-Fitness]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Ein Paar Schneeeulen]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Anzahl der männlichen magischen Rentiere in deinem Inventar.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Die Anzahl der weiblichen fliegenden Rentiere in deinem Inventar.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Bevor du dem Weihnachtsmann seinen Rudolph bringst, braucht er erst einmal 8 fliegende Rentiere.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Die Anzahl der männlichen Weihnachtsmänner in Ihrem Inventar.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Die Anzahl der weiblichen Weihnachtsmänner in Ihrem Inventar.]]></item>
+    </category>
+  </category>
+</language>

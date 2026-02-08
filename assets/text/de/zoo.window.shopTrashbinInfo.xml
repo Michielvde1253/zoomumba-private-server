@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Mülleimer]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Die Leute lassen Müll zurück! Je mehr Mülleimer Sie in Ihrem Zoo aufstellen, desto weniger müssen Sie nach den Besuchern aufräumen.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Mumien-Mülleimer]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Ugh... Ich will Müll!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Mülltonnengeist]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuhhuuuuu... Müll]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Mülltonnen-Vampir]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Ich brauche etwas zum Draufbeißen. Gebt mir euren Müll!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Mülltonnenmonster]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmmm ... Müll gut!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Geburtstagsmülleimer]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmm, Geschenkpapier!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Wal-Mülleimer]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA[„Ich schlucke euren ganzen Müll!“]]></item>
+  </category>
+</language>
