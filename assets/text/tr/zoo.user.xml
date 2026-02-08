@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.user">
+    <item name="zoo.user.name"><![CDATA[Kullanıcı adı]]></item>
+    <item name="zoo.user.id"><![CDATA[Kullanıcı kimliği]]></item>
+    <item name="zoo.user.notAuth.title"><![CDATA[Doğrulama]]></item>
+    <item name="zoo.user.notAuth.info"><![CDATA[Doğrulama başarısız oldu. Lütfen tekrar giriş yapın.]]></item>
+  </category>
+</language>

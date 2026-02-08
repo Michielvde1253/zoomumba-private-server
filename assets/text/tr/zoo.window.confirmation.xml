@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.confirmation">
+    <item name="zoo.window.confirmation.closegame.title"><![CDATA[Oyun sonu]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[Bu hayvanat bahçesi henüz kullanıma açık değil. Şu hayvanat bahçesinde %zooName% seviyesinde genişleme sağlayarak kilidini açabilirsiniz: %level%. Veya %zooDollar% zoodollar karşılığında hemen kilidini açabilirsiniz.]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[Bu hayvanat bahçesinin kilidini açmak için %level% seviyesinde olmanız gerekiyor. Ya da %zooDollar% zoodollar karşılığında hemen kilidini açabilirsiniz.]]></item>
+    <item name="zoo.window.confirmation.map.level"><![CDATA[Bu hayvanat bahçesinin kilidini açmak için %level% seviyesinde olmanız gerekiyor.]]></item>
+    <item name="zoo.window.confirmation.map.buy"><![CDATA[Hayvanat bahçesi genişletmesi satın almak ister misiniz?]]></item>
+    <item name="zoo.window.confirmation.title.buy"><![CDATA[Satın almak]]></item>
+    <item name="zoo.window.confirmation.closegame.info"><![CDATA[ZooMumba'dan gerçekten çıkmak istiyor musunuz?]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.title"><![CDATA[Ürün satın alın]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.info"><![CDATA[Bu ürünü gerçekten satın almak istiyor musunuz?]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.title"><![CDATA[Satın al]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.info"><![CDATA[Bu hamleyi hayvanseverler için yapmak ister misiniz?]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.title"><![CDATA[Satmak]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Bu ürünü gerçekten satmak istiyor musunuz?]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[Uyarı]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[Eğer muhafazayı envanterinize yerleştirirseniz, aksiyon yükseltmesini kaybedecektir.<br><br>Devam etmek istiyor musunuz?]]></item>
+    <category name="zoo.window.confirmation.gift">
+      <item name="zoo.window.confirmation.gift.title"><![CDATA[Dikkat!]]></item>
+      <item name="zoo.window.confirmation.gift.info"><![CDATA[Henüz 5 arkadaşınızı seçmediniz! Devam ederseniz hediyeleriniz kaybolacak. Bu çok yazık olur... Yine de devam etmek istiyor musunuz?]]></item>
+    </category>
+  </category>
+</language>

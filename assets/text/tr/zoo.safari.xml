@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.safari">
+    <item name="zoo.safari.title"><![CDATA[Safari]]></item>
+    <item name="zoo.safari.fuel_singular"><![CDATA[Benzin bidonu]]></item>
+    <category name="zoo.safari.errors">
+      <item name="zoo.safari.errors.notAvailable"><![CDATA[Ne yazık ki! Seviyeniz çok düşük! Safari turuna 7. seviyeden itibaren başlayabilirsiniz!]]></item>
+    </category>
+    <category name="zoo.safari.welcomeWindow">
+      <item name="zoo.safari.welcomeWindow.infoText"><![CDATA[Macera dolu bir safariye hoş geldiniz: Harika ödüller ve hatta yeni hayvanlar kazanın! <br /><br />Sonraki adımda, safarinize başlamak istediğiniz bölgeyi seçmeniz yeterli. <br /><br />Yaşasın, vahşi doğaya doğru!]]></item>
+    </category>
+    <category name="zoo.safari.regionWindow">
+      <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Bir bölge seçin]]></item>
+      <item name="zoo.safari.startWindow.infoText"><![CDATA[Safariye hangi bölgede başlamak istersiniz? Buradan seçin: Her bölgede, seviyenize bağlı olarak etkinleştirebileceğiniz 3 alan bulunmaktadır.]]></item>
+    </category>
+    <category name="zoo.safari.shopWindow">
+      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Hey maceracı! Gerçek bir safariye çık. Vahşi doğaya daha kolay girmek için jokerleri kullan.<br><br>Önemli: Yolculuğunuz için her joker türünden yalnızca bir tane seçin!]]></item>
+      <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[%skipTimerCost% zoodolar yatırım yapıp safarinize hemen başlamak ister misiniz?]]></item>
+      <item name="zoo.safari.shopWindow.infoText"><![CDATA[Safariye hazır mısınız? İşte nasıl oynanır: Bir sonraki adımda bir oyun göreceksiniz: 9 ila 25 adet kapalı karttan oluşur. Kartlar, ana ödüle ulaşmak için takip edeceğiniz ödülleri veya hayvan izlerini gizler. Ama dikkatli olun: her kart bir tuzak da gizleyebilir!<br /><br />Sağ alttaki benzin bidonunu görüyor musunuz? Bu, cipinizin deposunda ne kadar benzin kaldığını gösterir. Bir kartı açtığınız anda biraz benzin tüketeceksiniz.<br /><br />Ve şimdi oyunun kuralları: Başlangıçta, yalnızca en alt sıradaki kartları seçebilirsiniz. Bir karta tıklayın ve kart ters çevrilecektir. Bu şekilde bir şey bulup bulmadığınızı ve bulduysanız ne olduğunu görebilirsiniz. Ardından, son kartın üstündeki veya altındaki, ayrıca sağındaki veya solundaki kartları seçebilirsiniz. Bir hayvan bulduğunuzda oyun biter, ancak yakıtınız bittiğinde de oyun biter.<br /><br />Mağazadan alacağınız jokerle harika bir keşif yapma şansınızı artırın. İki tür joker vardır: Kart ve Navigasyon. Kart Jokeri, kartlarınızı ortaya çıkarmanıza yardımcı olur - sizin için ekstra kartlar ortaya çıkaracaktır. Navigasyon Jokeri ise pusulası sayesinde sizi doğru yöne yönlendirecektir.<br /><br />Her türden bir jokeri safariye yanınızda götürebilirsiniz. Jokeri kullanıp kullanmadığınıza bakılmaksızın, safari sonunda kaybedersiniz.]]></item>
+    </category>
+    <category name="zoo.safari.miniGame">
+      <item name="zoo.safari.miniGame.tileInfo.trap"><![CDATA[Eyvah, bir engele çarptınız. Bu çok can sıkıcı, 1 bidon benzin gitti.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.treasure"><![CDATA[Harika! %treasureCount% %treasureName% hazinesini buldunuz. Acele edin, aramaya devam edin, daha birçok hazine bulabilirsiniz.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.animal"><![CDATA[Tebrikler, bakın ne buldunuz! Bu %hayvan%! Acele edin, hayvanat bahçesine gidin, envanterinizde sizi bekliyor. Safari görevinizi başarıyla tamamladınız.]]></item>
+      <item name="zoo.safari.miniGame.closeWarning"><![CDATA[Safariyi gerçekten bitirmek mi istiyorsunuz? Eğer öyleyse, bugün başka safariye başlayamazsınız ve yakıtınız ile malzemeleriniz tükenecek!]]></item>
+      <item name="zoo.safari.miniGame.noJoker"><![CDATA[Şaka değil]]></item>
+      <item name="zoo.safari.miniGame.buyGasThenEmpty"><![CDATA[Hedefinize neredeyse ulaştınız! Maalesef deponuz boş. Birkaç zoodolar karşılığında depoyu doldurup safarinize devam etmek ister misiniz? Ne kadar benzin almak istediğinizi seçin.]]></item>
+      <item name="zoo.safari.miniGame.buyMissingGas"><![CDATA[Bu arazi için gereken benzin bidon sayısı %neededGas%'tır. Ancak sizde yalnızca %missingGas% benzin var. Gerekli benzini zoodolar ile satın almak ister misiniz?]]></item>
+      <item name="zoo.safari.miniGame.buyGas"><![CDATA[Lütfen ne kadar benzin almak istediğinizi seçin. Ancak dikkatli olun: Safari sırasında tüm benzininizi tüketmezseniz, kalan benzin boşa gidecektir.]]></item>
+    </category>
+    <category name="zoo.safari.minigameInfo">
+      <item name="zoo.safari.minigameInfo.title"><![CDATA[Talimatlar]]></item>
+      <item name="zoo.safari.minigameInfo.1"><![CDATA[Safariye hoş geldiniz!<br /> Sıradışı hayvanları ve büyük hazineleri keşfedin. Ama adımlarınızın nereye götürdüğüne dikkat edin. Her yerde tuzaklar gizleniyor. Arazi tipine bağlı olarak farklı miktarda benzin tüketeceksiniz.<br /><br /> Yakıt deponuz boşaldığı anda veya bir hayvan bulduğunuzda safari sona erer.]]></item>
+      <item name="zoo.safari.minigameInfo.2"><![CDATA[Aşağıdaki kutulardan birine tıklayarak vahşi doğaya girebilirsiniz.]]></item>
+      <item name="zoo.safari.minigameInfo.3"><![CDATA[Kuzeye, güneye, batıya ve doğuya doğru düz çizgiler halinde hareket edin.]]></item>
+      <item name="zoo.safari.minigameInfo.4"><![CDATA[Jokerlerinizi istediğiniz zaman aktif edebilirsiniz. Size hedefinize daha hızlı ulaşmanızı sağlayacak değerli ipuçları içeriyorlar.]]></item>
+      <item name="zoo.safari.minigameInfo.terains"><![CDATA[Aşağıdaki arazi tipleri mevcuttur:<br />]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.name"><![CDATA[Basit arazi]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.info"><![CDATA[1 ünite benzin kullanacaksınız.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.name"><![CDATA[Daha zorlu arazi]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.info"><![CDATA[3 ünite benzin kullanacaksınız.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.name"><![CDATA[Geçilmez arazi]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.info"><![CDATA[Giriş yasaklandı]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.name"><![CDATA[Keşfedilen arazi]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.info"><![CDATA[1 ünite benzin kullanacaksınız.]]></item>
+      <item name="zoo.safari.minigameInfo.events"><![CDATA[Aşağıdaki ürünleri bulabilirsiniz: <br />]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.name"><![CDATA[HAYVAN İZLERİ]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.info"><![CDATA[Hayvanın muhtemelen bulunduğu yönü gösterirler.]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.name"><![CDATA[HAZİNE]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.info"><![CDATA[İşte, içinde büyük bir sürpriz olan bir hazine!]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.name"><![CDATA[ENGEL]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.info"><![CDATA[Size 1 ünite benzin maliyeti olacak.]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.name"><![CDATA[BİR HAYVANLA KARŞILAŞMA]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.info"><![CDATA[Bir hayvanla karşılaşırsanız, o hayvan size aittir ve görev sona erer.]]></item>
+    </category>
+    <category name="zoo.safari.jokers">
+      <item name="zoo.safari.jokers.titel_1"><![CDATA[Maymun, danışman]]></item>
+      <item name="zoo.safari.jokers.titel_2"><![CDATA[Sonya, danışman]]></item>
+      <item name="zoo.safari.jokers.titel_3"><![CDATA[Pusula]]></item>
+      <item name="zoo.safari.jokers.titel_4"><![CDATA[Hızlı seyahat]]></item>
+      <item name="zoo.safari.jokers.text_1"><![CDATA[Herkesin zaman zaman biraz yardıma ihtiyacı olur. Maymunun yardım etmesine izin verirseniz, rastgele seçilmiş bir kartı ortaya çıkarabilirsiniz.<br /><br />Merak mı ettiniz? Hadi başlayalım!]]></item>
+      <item name="zoo.safari.jokers.text_2"><![CDATA[Safari'de ilerlemek için belirli bir kartı ortaya çıkarmak mı istiyorsunuz?<br /><br /><br /> Danışman Sonia'nın yardımını kullanın. Onun yardımıyla istediğiniz kartı ortaya çıkaracaksınız. Bu, hedefinize daha hızlı ulaşmanıza yardımcı olacaktır. Bol şans!]]></item>
+      <item name="zoo.safari.jokers.text_3"><![CDATA[Yardıma mı ihtiyacınız var? Pusulayı joker olarak kullanarak bir kartı işaretleyin. Aradığınız hayvanı veya bir tuzağı o kartta bulacaksınız. Üzerinde ne saklı olduğunu öğrenmek için sabırsızlanıyor musunuz? O halde acele edin ve öğrenin!]]></item>
+      <item name="zoo.safari.jokers.text_4"><![CDATA[Ama şimdi asıl konuya gelelim: Hedefinize adım adım, sürünerek mi ilerliyorsunuz? Yeterince hızlı değil misiniz?<br /><br />O zaman jokeri kullanın: Sizin için 3 kart işaretleyecek; bunların arasında aradığınız hayvan saklı olabilir, ama aynı zamanda bir tuzak da olabilir.<br /><br />Hayvan mı yoksa tuzak mı... Çabuk, bakın!]]></item>
+    </category>
+    <category name="zoo.safari.tooltip">
+      <item name="zoo.safari.tooltip.cantStartSafari"><![CDATA[7. seviyeye ulaştıktan sonra safariye başlayabilirsiniz.]]></item>
+      <item name="zoo.safari.tooltip.startSafari"><![CDATA[Cip'e atlayın: Safariye başlamak için buraya tıklayın!]]></item>
+      <item name="zoo.safari.tooltip.backToZoo"><![CDATA[Hayvanat bahçesine geri dön]]></item>
+      <item name="zoo.safari.tooltip.regionSmall"><![CDATA[Küçük]]></item>
+      <item name="zoo.safari.tooltip.regionMedium"><![CDATA[Orta]]></item>
+      <item name="zoo.safari.tooltip.regionLarge"><![CDATA[Büyük]]></item>
+      <item name="zoo.safari.tooltip.skipTimerInShop"><![CDATA[Her gün belirli sayıda benzin bidonu alıyorsunuz.<br/> Hemen daha fazlasını mı istiyorsunuz? O zaman zoodolarlarla bekleme sürenizi kısaltın!]]></item>
+      <item name="zoo.safari.tooltip.buyGasInMinigame"><![CDATA[Daha fazla benzin almak için tıklayın.]]></item>
+      <item name="zoo.safari.tooltip.regeonLevelRequared"><![CDATA[Bu bölgeye %regionLevel% seviyesine ulaştıktan sonra erişebileceksiniz.]]></item>
+    </category>
+    <category name="zoo.safari.button">
+      <item name="zoo.safari.button.startSafari"><![CDATA[Safariye başlayın]]></item>
+      <item name="zoo.safari.button.endSafari"><![CDATA[Safariyi sonlandırın]]></item>
+      <item name="zoo.safari.button.activate"><![CDATA[Etkinleştir]]></item>
+      <item name="zoo.safari.button.use"><![CDATA[Dağıt]]></item>
+    </category>
+  </category>
+</language>

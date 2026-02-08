@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.construction">
+    <item name="zoo.window.construction.title"><![CDATA[Yapı]]></item>
+    <item name="zoo.window.construction.info"><![CDATA[Hakkında]]></item>
+    <item name="zoo.window.construction.buildinginfo"><![CDATA[Neredeyse bitti! Sadece:]]></item>
+    <item name="zoo.window.construction.buildinginfo2"><![CDATA[Ya da ürünü hemen alın (inşa etmeden):]]></item>
+    <item name="zoo.window.construction.button.buydirectly"><![CDATA[Şimdi al]]></item>
+  </category>
+</language>

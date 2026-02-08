@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[Mutlu Noeller!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[21 Aralık'tan 2 Ocak'a kadar hayvanat bahçenizdeki her şey Noel etrafında dönüyor! Noel ağacınızı süsleyin ve Noel'i kurtarmama yardım edin!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Önce 8 uçan ren geyiği, sonra da kızağı için bir Noel Baba Rudolph yetiştirin. Ona getirdiğiniz her ren geyiği için bir hediye alacaksınız.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Zaman zaman Noel Baba size Noel ağacınız için bir süs de verecektir. Sonunda, süslediğiniz ağacı kendinize saklayabileceksiniz.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Yaşasın, burada da özel bir Noel koleksiyonumuz var! Hayvanlarınıza iyi bakın ve Noel eşyaları toplayın. Bunları geyik yetiştirmek için de kullanabilirsiniz!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Noel dükkanında harika sürprizler!]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Hayvanat bahçenizi rengarenk bir Kış Dünyasına dönüştürün: birçok yeni ve popüler Noel dekorasyonuyla.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Mutlu Noeller ve Noel etkinliğinde iyi eğlenceler!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[Bu çok kötü! Noel Baba'nın geyikleri kaçtı ve şimdi hediye dağıtamıyor! Ona 8 uçan geyik ve Noel Baba'nın Rudolph'unu getirin ve kızağının önüne yerleştirin. Teşekkür olarak harika hediyeler alacaksınız!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Noel Baba şuraya doğru yola çıktı:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Kazandınız:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Otoparktaki Noel ağacınıza bakın!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Avatarınız için yeni bir kıyafet alın!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Çabuk, envanterinize bir göz atın!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Teşekkür ederim!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Ren geyikleriniz yola çıkmak için sabırsızlanıyor. Sayenizde Noel kurtuldu!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Teşekkür ederim!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Hala bazı geyiklerim kayıp, ama artık yola çıkma zamanım geldi! Merak etmeyin, bir yolunu bulacağım - sonuçta ben Noel Baba'yım!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[Otoparkınızdaki süslü Noel ağacı artık envanterinizde.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Öncelikle, Noel Baba'ya 8 sihirli geyik getirelim.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Noel Baba'nın zaten 8 uçan geyiği var, tek ihtiyacı Rudolph!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Noel süslemeleri]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Noel kıyafeti]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Bir çift kar baykuşu]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Envanterinizdeki erkek sihirli ren geyiği sayısı.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Envanterinizdeki dişi uçan ren geyiği sayısı.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Noel Baba'ya Rudolph'u getirmeden önce, önce 8 tane uçan ren geyiğine ihtiyacı var.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Envanterinizdeki erkek Noel Baba Rudolph sayısı.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Envanterinizdeki dişi Noel Baba Rudolph sayısı.]]></item>
+    </category>
+  </category>
+</language>

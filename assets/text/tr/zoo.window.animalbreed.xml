@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.animalbreed">
+    <item name="zoo.window.animalbreed.title"><![CDATA[Hayvancılık]]></item>
+    <item name="zoo.window.animalbreed.info"><![CDATA[Sevimli bebekler yetiştirin!\nBiraz şansla, hayvanat bahçeniz yeni üyeleri memnuniyetle karşılayacaktır.]]></item>
+    <item name="zoo.window.animalbreed.breedtitle"><![CDATA[Standart çoğaltma]]></item>
+    <item name="zoo.window.animalbreed.breedinfo"><![CDATA[Olası yavrular:]]></item>
+    <item name="zoo.window.animalbreed.button.startbreeding"><![CDATA[Başlangıç]]></item>
+    <item name="zoo.window.animalbreed.babytitle"><![CDATA[Evlat edinme]]></item>
+    <item name="zoo.window.animalbreed.babyinfo"><![CDATA[Hemen bir bebek edinin:]]></item>
+    <item name="zoo.window.animalbreed.button.buydirectly"><![CDATA[Şimdi al]]></item>
+    <item name="zoo.window.animalbreed.button.breedstart"><![CDATA[Başlangıç]]></item>
+    <item name="zoo.window.animalbreed.success.title"><![CDATA[Genç]]></item>
+    <item name="zoo.window.animalbreed.success.info"><![CDATA[Yaşasın! Tebrikler! Hayvanat bahçenize sevimli bir yeni üye katıldı!]]></item>
+    <item name="zoo.window.animalbreed.failed.title"><![CDATA[Artış yok]]></item>
+    <item name="zoo.window.animalbreed.failed.info"><![CDATA[Ne yazık ki, bu sefer yeni eklentiyi beklemeniz gerekecek.<br><br>Tekrar denemek ister misiniz?<br><br>İyi şanslar!]]></item>
+  </category>
+</language>

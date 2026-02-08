@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Merhaba! Ben Soňa Starostlivá, hayvanat bahçesinde hemşireyim. Yeni sevimli yavruların çiftleşmesini dört gözle bekliyor musunuz? Nasıl yapıldığını açıklayayım! Öncelikle hangi hayvan türünü çiftleştirmek istediğinize karar vermelisiniz.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Envanterinizden ebeveyn olacak iki yetişkin hayvan seçin. Ne kadar nadirlerse, o kadar nadir bir yavruya sahip olma olasılıkları artar. Ancak, bu çiftleşme için ebeveynlerin benimle kalması gerekir.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Ek olarak topladığınız eşyaları, güçlü yemi, süper yemi veya süper ilacı kullanarak, özellikle nadir bir yavruyu büyütme şansınızı artırabilirsiniz. Eşyanın kalp sayısı ne kadar fazlaysa, şansınız o kadar yüksek olur!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Hazırlıklarınız neredeyse tamamlandı! Her şey başlamadan önce seçimlerinizi tekrar kontrol edin. Bir şeyi değiştirmek mi istiyorsunuz? Sorun değil, sadece "Geri" düğmesini kullanın!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[Üreme deneyinde aşağıdaki hayvanlar ve malzemeler kullanılmıştır:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Üreme istasyonu hazır]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Burada yetiştiriliyor.]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Bir bebek dünyaya geldi!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Bebekler dünyaya geldi!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Üremeye başlayın]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Özünü kullanın.]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Gerçekten de hiçbir takviye kullanmadan üremeye başlamak istiyor musunuz? İyice düşünün; takviyelerle nadir bir yavru elde etme şansınız daha yüksek.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Hazırlıkların ortasındasınız. Gerçekten de üreme istasyonunu terk etmek istiyor musunuz?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Üreme istasyonu]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Bu hayvanlar şu anda yavruluyorlar:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Kalan süre:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Tolija'nın Özü]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Tolija özü, üreme süresini %50 oranında kısaltır.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Yaşasın, bir bebeğiniz oldu! Bu sevimli minik bebeği envanterinizde bulabilirsiniz:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Yaşasın, bir çocuğunuz oldu! Bu sevimli cini envanterinizde bulabilirsiniz:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Küçük olanı büyümesi için hayvanat bahçesine taşıyın.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Yavruları büyüyüp gelişebilmeleri için hayvanat bahçesine getirin.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Uyarı: Şu anda üreme işlemi devam ediyor! İstasyonu şimdi envanterinize taşırsanız, işlem kesintiye uğrayacak ve tüm hayvanlarınızı ve takviyelerinizi kaybedeceksiniz. Şimdi taşımak istediğinizden emin misiniz?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Uyarı: Şu anda üreme işlemi devam ediyor! İstasyonu şimdi satarsanız, işlem kesintiye uğrayacak ve tüm hayvanlar ve takviyeler kaybolacaktır. İstasyonu şimdi satmak istediğinizden emin misiniz?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Eğer üreme süreci etkinlik bittikten sonra tamamlanırsa, yalnızca 1 yavru alacaksınız.]]></item>
+    </category>
+  </category>
+</language>

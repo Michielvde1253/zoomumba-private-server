@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.mail">
+    <category name="zoo.mail.tabs">
+      <item name="zoo.mail.tabs.inbox"><![CDATA[Gelen Kutusu]]></item>
+      <item name="zoo.mail.tabs.outbox"><![CDATA[Giden kutusu]]></item>
+      <item name="zoo.mail.tabs.newMail"><![CDATA[Yeni mesaj]]></item>
+      <item name="zoo.mail.tabs.contactList"><![CDATA[Adres defteri]]></item>
+    </category>
+    <category name="zoo.mail.general">
+      <item name="zoo.mail.general.pagination"><![CDATA[Sayfa %x% / %y%]]></item>
+      <item name="zoo.mail.general.message"><![CDATA[Mesaj]]></item>
+      <item name="zoo.mail.general.send"><![CDATA[Göndermek]]></item>
+      <item name="zoo.mail.general.close"><![CDATA[Kapalı]]></item>
+      <item name="zoo.mail.general.userWrote"><![CDATA[%user% şunları yazdı:]]></item>
+      <item name="zoo.mail.general.userSent"><![CDATA[Oyuncu %user%'a şunları yazdınız:]]></item>
+    </category>
+    <category name="zoo.mail.column">
+      <item name="zoo.mail.column.action"><![CDATA[Aksiyon]]></item>
+      <item name="zoo.mail.column.messageSender"><![CDATA[Gönderen]]></item>
+      <item name="zoo.mail.column.messageReceiver"><![CDATA[Alıcı]]></item>
+      <item name="zoo.mail.column.messageTitle"><![CDATA[Ders]]></item>
+      <item name="zoo.mail.column.messageDate"><![CDATA[Tarih]]></item>
+      <item name="zoo.mail.column.playerName"><![CDATA[Oyuncu Adı]]></item>
+      <item name="zoo.mail.column.level"><![CDATA[Seviye]]></item>
+    </category>
+    <category name="zoo.mail.info">
+      <item name="zoo.mail.info.addUserTitle"><![CDATA[Eklemek]]></item>
+      <item name="zoo.mail.info.addUserQuestion"><![CDATA[Oyuncu %user%'ı adres defterinize eklemek gerçekten istiyor musunuz?]]></item>
+      <item name="zoo.mail.info.deleteMessageTitle"><![CDATA[Silmek]]></item>
+      <item name="zoo.mail.info.deleteMessageQuestion"><![CDATA[Bu mesajı gerçekten silmek istiyor musunuz?]]></item>
+      <item name="zoo.mail.info.deleteContactTitle"><![CDATA[Silmek]]></item>
+      <item name="zoo.mail.info.deleteContactQuestion"><![CDATA[Oyuncu %user%'ı adres defterinizden gerçekten kaldırmak istiyor musunuz?]]></item>
+      <item name="zoo.mail.info.noRecipientTitle"><![CDATA[Hata]]></item>
+      <item name="zoo.mail.info.noRecipientMessage"><![CDATA[Bu oyuncu mevcut değil.]]></item>
+      <item name="zoo.mail.info.sentOkTitle"><![CDATA[Gönderilmiş]]></item>
+      <item name="zoo.mail.info.noAddSelf"><![CDATA[Adres defterinize kendinizi ekleyemezsiniz.]]></item>
+      <item name="zoo.mail.info.sentOkMessage"><![CDATA[Mesajınız başarıyla gönderildi.]]></item>
+      <item name="zoo.mail.info.addUserMessage"><![CDATA[Adres defterinize eklemek istediğiniz oyuncunun adını veya kimlik numarasını girin.]]></item>
+      <item name="zoo.mail.info.multipleUserFound"><![CDATA[Bu isim sıkça geçiyor. Lütfen benzersiz ve ayırt edici olan oyuncu kimlik numarasını girin.]]></item>
+      <item name="zoo.mail.info.writeMailError.noUserName"><![CDATA[Mesajınızın gönderilebilmesi için lütfen bir alıcı girin.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSubject"><![CDATA[Mesajınızın gönderilebilmesi için lütfen bir konu girin.]]></item>
+      <item name="zoo.mail.info.writeMailError.noMessage"><![CDATA[Lütfen mesaj metnini girin, böylece mesajınız gönderilebilsin.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSelfSend"><![CDATA[Kendinize mesaj gönderemezsiniz.]]></item>
+      <item name="zoo.mail.info.writeMailError.notFriend"><![CDATA[Maalesef, yalnızca arkadaş listenizde bulunan oyunculara mesaj gönderebilirsiniz.]]></item>
+      <item name="zoo.mail.info.writeMailError.userAlreadyExists"><![CDATA[Bu oyuncu zaten adres defterinize eklendi.]]></item>
+    </category>
+  </category>
+</language>

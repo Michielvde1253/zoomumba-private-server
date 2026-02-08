@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop">
+    <category name="zoo.shop.category">
+      <item name="zoo.shop.category.animals"><![CDATA[Hayvanlar]]></item>
+      <item name="zoo.shop.category.cages"><![CDATA[Yaşam alanları]]></item>
+      <item name="zoo.shop.category.stores"><![CDATA[Binalar]]></item>
+      <item name="zoo.shop.category.deco"><![CDATA[Dekorasyonlar]]></item>
+      <item name="zoo.shop.category.resources"><![CDATA[Beslemek]]></item>
+      <item name="zoo.shop.category.assistants"><![CDATA[Asistanlar]]></item>
+      <item name="zoo.shop.category.specials"><![CDATA[Aksesuarlar]]></item>
+      <item name="zoo.shop.category.roads"><![CDATA[Yollar]]></item>
+      <item name="zoo.shop.category.material"><![CDATA[Malzeme]]></item>
+    </category>
+    <category name="zoo.shop.tabbar">
+      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Atölyeye bu şekilde ulaşabilirsiniz.]]></item>
+    </category>
+  </category>
+</language>

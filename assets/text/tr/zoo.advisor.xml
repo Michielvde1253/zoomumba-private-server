@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advisor">
+    <category name="zoo.advisor.buttons">
+      <item name="zoo.advisor.buttons.1"><![CDATA[Hayvan türleri]]></item>
+      <item name="zoo.advisor.buttons.2"><![CDATA[Memnuniyet]]></item>
+      <item name="zoo.advisor.buttons.3"><![CDATA[Dekorasyon]]></item>
+      <item name="zoo.advisor.buttons.4"><![CDATA[Hayvan yetiştiriciliği]]></item>
+      <item name="zoo.advisor.buttons.5"><![CDATA[Çöp]]></item>
+    </category>
+    <category name="zoo.advisor.descriptions">
+      <item name="zoo.advisor.descriptions.1.A"><![CDATA[Harika! Hayvanat bahçenizdeki çeşitlilik eksikliğinden kimse şikayet edemez gerçekten. Devam edin!]]></item>
+      <item name="zoo.advisor.descriptions.1.B"><![CDATA[Ziyaretçiler bir hayvanat bahçesinde çok çeşitli hayvanları hayranlıkla izleyebildiklerinde bundan hoşlanırlar. Burada %currentspecies% farklı tür var, bu çok fazla! Mağazaya bir göz atın, orada en az %missingspecies% daha bulacaksınız.]]></item>
+      <item name="zoo.advisor.descriptions.1.C"><![CDATA[Hayvanat bahçesi ziyaretçileri mümkün olduğunca çok hayvan görmek istiyor. Ama hayvanat bahçeniz buna değer. Şu anda %currentspecies% hayvanınız var. Evcil hayvan dükkanında en az %missingspecies% daha fazla tür bulabilirsiniz.]]></item>
+      <item name="zoo.advisor.descriptions.1.D"><![CDATA[Hayvanat bahçesine giden herkes hayvan görmek ister! Hayvanat bahçenizde çok daha geniş bir çeşitlilik olabilir: Şu anda %currentspecies% hayvan türünüz var. Evcil hayvan dükkanında en az %missingspecies% daha fazla tür bulunuyor.]]></item>
+      <item name="zoo.advisor.descriptions.1.E"><![CDATA[Ah! Hayvanat bahçenizde çok fazla hayvan türü yok. Ziyaretçiler, oldukça hızlı bir şekilde inceleyebilecekleri %currentspecies% türü görebilirler. Hayvanat Bahçesi Dükkanı'ndan en az %missingspecies% daha fazla hayvan satın alın.]]></item>
+      <item name="zoo.advisor.descriptions.2.A"><![CDATA[Hayvanlarınız son derece memnun. Siz örnek bir hayvanat bahçesi müdürüsünüz.]]></item>
+      <item name="zoo.advisor.descriptions.2.B"><![CDATA[Hayvanlarınıza çok iyi bakıyorsunuz, ama bakın, bazıları daha da fazla ilgiyi hak ediyor.]]></item>
+      <item name="zoo.advisor.descriptions.2.C"><![CDATA[Ah! Hayvanlarınız biraz sıkılmış. Onlarla biraz oynamak, onları beslemek veya su vermek istemez miydiniz? Bu onlar için harika olurdu ve tekrar çok mutlu olurlardı!]]></item>
+      <item name="zoo.advisor.descriptions.2.D"><![CDATA[Aman Tanrım! Hayvanlarınız üzgün çünkü onlarla ilgilenmiyorsunuz. Onlarla biraz oynayın! Biraz yiyecek ve su da onları neşelendirecektir. O zaman hayvanat bahçeniz yeniden parlayacak ve ziyaretçileri memnun edecektir!]]></item>
+      <item name="zoo.advisor.descriptions.2.E"><![CDATA[Eyvah! Hayvanlarınız aç ve susuz! Hadi, onlarla ilgilenin! Beslendikten ve kafesler temizlendikten sonra, hayvanlarla tekrar oynamak çok eğlenceli olacak!]]></item>
+      <item name="zoo.advisor.descriptions.3.A"><![CDATA[Vay! Hayvanat bahçeniz çok güzel dekore edilmiş! Ziyaretçilerin görebileceği çok şey var. Devam edin!]]></item>
+      <item name="zoo.advisor.descriptions.3.B"><![CDATA[Harika! Hayvanat bahçenizi çok güzel dekore etmişsiniz! Hayvanat bahçesi dükkanına da bir göz atın: orada birçok güzel ve eğlenceli dekorasyon bulacaksınız. Ziyaretçileriniz değişiklikleri sever!]]></item>
+      <item name="zoo.advisor.descriptions.3.C"><![CDATA[Hayvanat bahçeniz güzel, ama biraz daha değişikliğe ihtiyacı var! Hayvanat bahçesi dükkanında birçok güzel ve eğlenceli dekorasyon bulabilirsiniz.]]></item>
+      <item name="zoo.advisor.descriptions.3.D"><![CDATA[Pratik ve işlevsel, ama biraz sıkıcı. Daha fazla dekorasyon ziyaretçiler tarafından takdir edilecektir. Herkese daha fazlasını gösterebileceğinizi gösterin!]]></item>
+      <item name="zoo.advisor.descriptions.3.E"><![CDATA[Hayvanat bahçeniz biraz daha dekorasyona ihtiyaç duyuyor. Yeni ve göz alıcı dekorasyonlarla ziyaretçilerinizi memnun edin.]]></item>
+      <item name="zoo.advisor.descriptions.4.A"><![CDATA[Ne kadar çok sevimli yavru! Gerçekten de altın elleriniz var ve hayvanlarınızın çok fazla yavrusu oluyor. Harika!]]></item>
+      <item name="zoo.advisor.descriptions.4.B"><![CDATA[Hayvanat bahçesindeki yavru hayvanlarla ilgili küçük başlıklar ziyaretçileri cezbediyor. Ancak her hayvanat bahçesi müdürü her zaman iyileştirmenin yollarını arar. İşte bir örnek: Şu anda %missingbabies% daha fazla yavru hayvan yetiştirebilirsiniz.]]></item>
+      <item name="zoo.advisor.descriptions.4.C"><![CDATA[Hayvanat bahçesine yeni katılan yavruların haberi dört bir yana yayılıyor. Ziyaretçiler bu küçük, sakar yavruları çok seviyor! Şu anda %missingbabies% daha fazla yavru büyütebilirsiniz.]]></item>
+      <item name="zoo.advisor.descriptions.4.D"><![CDATA[Hayvanat bahçenizin daha fazla yavruya ihtiyacı var. Bakın: Çiftlerin %missingbabies%'i şu anda yavru arıyor. Çiftleştirmeyi deneyin!]]></item>
+      <item name="zoo.advisor.descriptions.4.E"><![CDATA[Hayvanat bahçenizdeki yavrularınız konusunda büyük bir endişe var: Çiftlerin %missingbabies%'i şu anda bebek bekliyor. Yavrularınızı çiftleştirmeye çalışın ve sakar yavrularınızın görüntüsüyle ziyaretçilerinizi sevindirin.]]></item>
+      <item name="zoo.advisor.descriptions.5.A"><![CDATA[Harika, hayvanat bahçeniz muhteşem görünüyor! Ve ziyaretçiler de çok beğeniyor. Böyle devam edin!]]></item>
+      <item name="zoo.advisor.descriptions.5.B"><![CDATA[İyi iş çıkarıyorsunuz, ama geri kalan çöpleri de temizlerseniz hayvanat bahçeniz daha da güzel olurdu.]]></item>
+      <item name="zoo.advisor.descriptions.5.C"><![CDATA[Hayvanat bahçenizdeki çöpler yavaş yavaş birikiyor. Artık temizleme zamanı.]]></item>
+      <item name="zoo.advisor.descriptions.5.D"><![CDATA[Hayvanat bahçenizde çok fazla çöp var. Mutlaka toparlayıp her yeri temizlemelisiniz.]]></item>
+      <item name="zoo.advisor.descriptions.5.E"><![CDATA[Hayvanat bahçeniz çöp yığını içinde boğuluyor! Yollardaki çöp yığınlarını temizleyin ve çöp kutularını boşaltın.]]></item>
+    </category>
+    <category name="zoo.advisor.help">
+      <item name="zoo.advisor.help.1"><![CDATA["Hayvan Türleri" kategorisinde, hayvanat bahçenizde tüm olası hayvan türlerinin temsil edilip edilmediğini görebilirsiniz.]]></item>
+      <item name="zoo.advisor.help.2"><![CDATA["Memnuniyet" kategorisi, hayvanlarınızın şu anda ne kadar mutlu olduğunu gösterir.]]></item>
+      <item name="zoo.advisor.help.3"><![CDATA["Dekorasyon" kategorisinde, hayvanat bahçenizdeki dekorasyonların ziyaretçiler için çekici olup olmadığını görebilirsiniz.]]></item>
+      <item name="zoo.advisor.help.4"><![CDATA[Ziyaretçiler sevimli bebekleri çok seviyor! "Hayvan Yetiştirme" öğesi, yetiştirme çalışmalarınızın başarı düzeyini gösterecektir.]]></item>
+      <item name="zoo.advisor.help.5"><![CDATA["Çöp" öğesi, hayvanat bahçenizin temiz olup olmadığını veya ziyaretçilerin çöp yığınlarına takılıp düşüp düşmediğini size gösterecektir.]]></item>
+      <item name="zoo.advisor.help.6"><![CDATA[Mağazaya daha hızlı ulaşmak için 1'den 7'ye kadar olan tuşları kullanın.]]></item>
+      <item name="zoo.advisor.help.7"><![CDATA[Q, W, E ve R harflerini kullanarak eşyaları hareket ettirebilir (W), ters çevirebilir (E), satabilir (R) veya oyun modunu değiştirebilirsiniz (Q).]]></item>
+      <item name="zoo.advisor.help.8"><![CDATA[Lütfen kimseyle paylaşmayacağınız güvenli bir şifre kullanmayı unutmayın!]]></item>
+      <item name="zoo.advisor.help.9"><![CDATA[Oyun içi ipuçlarını ve ziyaretçiler, arka plan efektleri ve ses efektleri gibi çeşitli diğer özellikleri açıp kapatarak, oyunun daha düşük özellikli bilgisayarlarda daha hızlı çalışmasını sağlayabilirsiniz.]]></item>
+      <item name="zoo.advisor.help.10"><![CDATA[Bankadan Hayvanat Bahçesi Doları satın alın. Bazen günlük görevleri tamamladığınızda ödül olarak da kazanabilirsiniz. Ayrıca yeterince seviye atladığınızda da elde edebilirsiniz.]]></item>
+      <item name="zoo.advisor.help.11"><![CDATA[Ayrıca zaman zaman bonus kodlu promosyonlar da olacak, bu nedenle forumdaki resmi duyuruları takip edin.]]></item>
+      <item name="zoo.advisor.help.12"><![CDATA[Hayvanlarınız kazara hastalanabilir. Onlara ne kadar iyi bakarsanız, o kadar uzun süre sağlıklı kalırlar. Ama hayvanınız hasta değilse, ona iğne bile yapamazsınız.]]></item>
+      <item name="zoo.advisor.help.13"><![CDATA[Hayvanlarınız tüm kafeslerde kendilerini harika hissederler. Ve onları hangi kafese koyduğunuzun bir önemi yoktur.]]></item>
+      <item name="zoo.advisor.help.14"><![CDATA[Şu anda hiçbir hayvanı başka kafeslere taşıyamazsınız.]]></item>
+      <item name="zoo.advisor.help.15"><![CDATA[Kafesi satarsanız, içindeki hayvanı da satmış olursunuz.]]></item>
+      <item name="zoo.advisor.help.16"><![CDATA[Oyunda iki tür mirket var: normal mirket ve gri mirket Beda. Beda sadece belirli etkinlikler sırasında ortaya çıkıyor ve yalnızca özel günlerde satın alınabiliyor.]]></item>
+      <item name="zoo.advisor.help.17"><![CDATA["Zoodollars karşılığında sahiplen" seçeneğine tıklarsanız, yeni bir hayvanın kesinlikle sahiplenileceği garanti edilir ve beklemenize gerek kalmaz.]]></item>
+      <item name="zoo.advisor.help.18"><![CDATA[ZooMumba arkadaşlarınızı adres defterinize kaydedebilirsiniz. Maalesef şu anda komşularınızı davet edemezsiniz.]]></item>
+      <item name="zoo.advisor.help.19"><![CDATA[Ne kadar çok mağazanız olursa, o kadar çok zoogros kazanırsınız.]]></item>
+      <item name="zoo.advisor.help.20"><![CDATA[Vaktiniz yok mu? O zaman yardımcılar tutun. Unutmayın, yardımcılar yalnızca üzerlerine tıkladığınızda çalışırlar (otomatik olarak çalışmazlar).]]></item>
+      <item name="zoo.advisor.help.21"><![CDATA[Kešík, eğer bir kasiyer işe alırsan, gelirini artırırsın.]]></item>
+      <item name="zoo.advisor.help.22"><![CDATA[Yardımcılardan yararlanmak faydalı: daha fazla deneyim puanı kazanacaksınız.]]></item>
+      <item name="zoo.advisor.help.23"><![CDATA[Tüm asistanlara sahipseniz, David'in temsilcisini etkinleştirirsiniz; o da tek bir tıklamayla tüm asistanların çalışmasını sağlayabilir.]]></item>
+      <item name="zoo.advisor.help.24"><![CDATA[Hayvanat bahçesinde ne kadar çok atık ayrıştırılırsa, sokaklara o kadar az atık düşer.]]></item>
+      <item name="zoo.advisor.help.25"><![CDATA[Aynı türden bir erkek ve bir dişi alın, kısa sürede hayvanat bahçenizde sevimli yavrularınız olacak.]]></item>
+      <item name="zoo.advisor.help.26"><![CDATA[Ana binada yalnızca belirli bir miktarda giriş ücreti saklayabilirsiniz, bu nedenle düzenli olarak almayı unutmayın.]]></item>
+      <item name="zoo.advisor.help.27"><![CDATA[Binalarınızdan kar elde etmek için, binaların her zaman bir yolla birbirine bağlı olması gerekir. Aksi takdirde ziyaretçiler onlara nasıl ulaşabilir ki?]]></item>
+      <item name="zoo.advisor.help.28"><![CDATA[Gözlerinizi dört açın: Zaman zaman, mağazada yalnızca sınırlı bir süre için satın alabileceğiniz özel hayvanlar veya eşyalar ortaya çıkıyor.]]></item>
+      <item name="zoo.advisor.help.29"><![CDATA[Hayvanlarınıza süper besinler verin, daha uzun süre tok kalacaklar!]]></item>
+      <item name="zoo.advisor.help.30"><![CDATA[Ah! Hayvanlarınız mı hasta? Onlara süper ilaçlar verin, balık gibi sağlıklı olacaklar!]]></item>
+    </category>
+  </category>
+</language>

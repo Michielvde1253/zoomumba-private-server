@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Çöp tenekesi]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[İnsanlar çöp bırakıyor! Hayvanat bahçenizde ne kadar çok çöp kutusu olursa, ziyaretçilerden sonra temizlemeniz gereken çöp miktarı o kadar azalır.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Mumya Çöp Kutusu]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Ahhh... Çöp istiyorum!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Çöp Kutusu Hayaleti]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuhhuuuuu... Çöp]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Çöp Kutusu Vampiri]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Isıracak bir şeye ihtiyacım var. Çöpünüzü bana verin!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Çöp Kutusu Canavarı]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmm... Çöp gibi lezzetli!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Doğum günü çöp kutusu]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmm, hediye paketi kağıdı!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Balina çöp kutusu]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA["Bütün çöplerinizi yutacağım!"]]></item>
+  </category>
+</language>

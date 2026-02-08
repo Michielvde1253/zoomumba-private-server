@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.welcomeBack">
+    <item name="zoo.window.welcomeBack.title"><![CDATA[Tekrar hoş geldin, %username%!]]></item>
+    <item name="zoo.window.welcomeBack.info"><![CDATA[Geri döndüğünüze ne kadar sevindim! Hadi işe koyulalım! Hayvanlarınız sizi sabırsızlıkla bekliyor. Her şey yeniden çok eğlenceli olacak! Daha sevimli yeni hayvanlar, daha sıra dışı kuşlar ve bir sürü heyecanlı ziyaretçi. <br><br>Ve hayvanat bahçesinin sizin için hazırladığı şeylerden de keyif alacaksınız:]]></item>
+    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Yaşasın! Çabuk, bu çılgın kalabalığı kaçırmayın!]]></item>
+  </category>
+</language>

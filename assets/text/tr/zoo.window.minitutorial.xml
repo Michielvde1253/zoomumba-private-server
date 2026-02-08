@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.minitutorial">
+    <item name="zoo.window.minitutorial.title"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.minitutorial.infopage.1"><![CDATA[ZooMumba'ya, çılgın hayvanat bahçesi maceranıza hoş geldiniz! Benim adım Sonja ve size oyunun nasıl çalıştığını adım adım anlatacağım.<br><br>Mağazadan çeşitli hayvan barınakları satın alabilir ve bunları hayvanat bahçenize yerleştirebilirsiniz.]]></item>
+    <item name="zoo.window.minitutorial.infopage.2"><![CDATA[Kafese tıklayın ve bir hayvan satın alın. Erkek mi yoksa dişi mi satın aldığınızı kontrol ettiğinizden emin olun.<br><br> Kafeste hem erkek hem de dişi hayvan varsa, yakında yavru hayvanlar bekleyebilirsiniz!]]></item>
+    <item name="zoo.window.minitutorial.infopage.3"><![CDATA[Hayvanlarınızla düzenli olarak ilgilenin, onları sevin ve onlarla oynayın. Bu şekilde mutlu ve memnun olacaklardır. Bir deneyin!]]></item>
+    <item name="zoo.window.minitutorial.infopage.4"><![CDATA[Ziyaretçilerin her şeyi hayranlıkla izleyebilmesi için, binalarınızı, yapılarınızı ve ilgi çekici yerlerinizi girişe giden yollarla birbirine bağlamanız gerekiyor.]]></item>
+    <item name="zoo.window.minitutorial.infopage.5"><![CDATA[Dükkanda hayvanlarınızın istediği her şeyi bulabilirsiniz: et, meyve, ot - sadece etrafa bir göz atın!]]></item>
+    <item name="zoo.window.minitutorial.infopage.6"><![CDATA[2. seviyeden itibaren, dükkana binalar ve tezgahlar da ekleyerek hayvanat bahçenizi ziyaretçiler için daha da çekici hale getirebilirsiniz. <br><br>Giriş ücretlerinden elde ettiğiniz geliri düzenli olarak ana binadan toplayabilirsiniz.]]></item>
+    <item name="zoo.window.minitutorial.infopage.6b"><![CDATA[Birkaç ZooDollar ile başlayacaksınız. Bunları harika hayvanlar ve özel etkinlikler edinmek veya yardımcılar işe almak için kullanın. Yardımcılar, hayvanat bahçenizin bakımı ve idaresinde size yardımcı olacaklar. <br><br>Ve ZooDollar'ınız biterse endişelenmeyin! ZooBank'tan istediğiniz zaman yükleme yapabilirsiniz.]]></item>
+    <item name="zoo.window.minitutorial.infopage.7"><![CDATA[Hayvanat bahçenize ne kadar çok ziyaretçi ağırlarsanız, temizlemeniz gereken çöp miktarı da o kadar artar. <br><br>Hayvanat bahçenizi temiz tutun ve çöpleri toplayın. Ziyaretçileriniz bunu takdir edecektir!]]></item>
+    <item name="zoo.window.minitutorial.infopage.8"><![CDATA[Hayvanat bahçenizin ziyaretçi memnuniyeti ne kadar yüksek olursa, zoometre değeriniz de o kadar artar. <br><br>Haydi işe koyulun ve ZooMumba'da dünyanın en iyi hayvanat bahçesini kurun! İyi eğlenceler!]]></item>
+  </category>
+</language>

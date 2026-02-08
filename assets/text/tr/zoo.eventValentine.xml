@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Sevgililer Günü etkinliğimize hoş geldiniz! 8 Şubat'tan 15 Şubat'a kadar romantik bir atmosfer sizi bekliyor! Sevgililer Günü oyunumuzu oynarken eğlenin ve birbirinden güzel ödüllerin tadını çıkarın!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Nasıl yapılacağına bir göz atın:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Hayvanlarınıza iyi bakın ve Sevgililer Günü eşyaları toplayın: Kalpler, Aşk Notları ve Aşk Tanrısı'nın Yay ve Okları. Bu eşyaları kullanarak romantik Sevgililer Günü oyununda sevimli sürprizler kazanın!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Topladığınız eşyalarla oyun alanında dolaşabilir ve ödüller toplayabilirsiniz: Görkemli geyikler, Tolija özü ve gelişim iksirleri sizi bekliyor!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Ayrıca mağazaya da göz atın; orada oyunda daha da büyük başarı ve eğlence sağlayacak faydalı güçlendiriciler bulacaksınız!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Sevgililer Günü ürünlerinin sayısını 1 saatliğine ikiye katlar.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Masa oyununu yeniden başlatın]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Sevgililer Günü etkinliğimiz neredeyse sona eriyor! Artık kurdele, mektup veya kalp alamayacaksınız. Ama pes etmeyin! Sevgililer Günü ödülleri kazanmak için hala bu kadar zamanınız var:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Geyik ve dişi geyik oyununu kazandığınıza göre, masa oyununa tekrar başlayabilirsiniz! Oyun tahtasındaki yeşil onay işaretine veya yeni düğmesine tıklamanız yeterli!]]></item>
+    </category>
+  </category>
+</language>

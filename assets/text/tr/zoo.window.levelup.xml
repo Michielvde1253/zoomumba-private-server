@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.levelup">
+    <item name="zoo.window.levelup.title"><![CDATA[Seviye atla]]></item>
+    <item name="zoo.window.levelup.info"><![CDATA[Tebrikler! %level% seviyesine ulaştınız ve oyunda yeni seçenekler kazandınız:]]></item>
+    <item name="zoo.window.levelup.gainmoney"><![CDATA[Ve şunları aldınız:]]></item>
+    <item name="zoo.window.levelup.quests.renew"><![CDATA[Ayrıca, yeni günlük görevler aldınız.]]></item>
+    <item name="zoo.window.levelup.v2.title"><![CDATA[Daha üst bir seviyeye geçin]]></item>
+    <item name="zoo.window.levelup.v2.info.level.current"><![CDATA[Tebrikler! %level% seviyesine ulaştınız ve oyun sizin için açılıyor:]]></item>
+    <item name="zoo.window.levelup.v2.info.level.next"><![CDATA[%level% seviyesinde şunları bulacaksınız:]]></item>
+  </category>
+</language>

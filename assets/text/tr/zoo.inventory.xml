@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.inventory">
+    <item name="zoo.inventory.sell.title"><![CDATA[Satmak]]></item>
+    <item name="zoo.inventory.sell.info"><![CDATA[Kaç tane satmak istiyorsunuz?]]></item>
+    <item name="zoo.inventory.store.error.title"><![CDATA[ÖNEMLİ]]></item>
+    <item name="zoo.inventory.store.error.info"><![CDATA[Kafesleriyle birlikte hayvanlarınızı envanterinize eklemek istiyorsanız, öncelikle sağlıklı ve mutlu olmaları gerekir.]]></item>
+    <category name="zoo.inventory.tabs">
+      <item name="zoo.inventory.tabs.gifts"><![CDATA[Hediyeler]]></item>
+      <item name="zoo.inventory.tabs.inventory"><![CDATA[Envanter]]></item>
+      <item name="zoo.inventory.tabs.pawprints"><![CDATA[Patiler]]></item>
+      <item name="zoo.inventory.tabs.pearls"><![CDATA[İnciler]]></item>
+      <item name="zoo.inventory.tabs.specials"><![CDATA[Aksesuarlar]]></item>
+      <item name="zoo.inventory.tabs.trash"><![CDATA[Çöp]]></item>
+    </category>
+    <category name="zoo.inventory.trash">
+      <item name="zoo.inventory.trash.info"><![CDATA[Yeniden kullanım yoluyla çevre koruma: Atıkları bir geri dönüşüm tesisinde geri dönüştürün ve ham maddeleri ihtiyaç duyulan bir şey üretmek için kullanın.]]></item>
+      <item name="zoo.inventory.trash.amount"><![CDATA[Çöp miktarı:]]></item>
+    </category>
+    <category name="zoo.inventory.pawprints">
+      <item name="zoo.inventory.tabs.pawprints.info"><![CDATA[Hayvanlarınıza ne kadar iyi bakarsanız, o kadar çok pati toplarsınız. Daha sonra bunları barınaklarınızı iyileştirmek için kullanabilirsiniz.<br><br>Toplanan pati miktarı:]]></item>
+    </category>
+    <category name="zoo.inventory.pearls">
+      <item name="zoo.inventory.tabs.pearls.info"><![CDATA[Hayvanlarınıza ne kadar iyi bakarsanız, yaşam alanlarınızı güzelleştirmek için o kadar çok inci kazanırsınız.<br><br>Mevcut inci durumu:]]></item>
+    </category>
+    <category name="zoo.inventory.inventory">
+      <item name="zoo.inventory.inventory.empty"><![CDATA[HER YER BOŞ MU?<br>Envanteriniz şu anda boş.<br>Neden mağazaya göz atmıyorsunuz veya safariye çıkmıyorsunuz?]]></item>
+      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Kullanmak]]></item>
+    </category>
+    <category name="zoo.inventory.gifts">
+      <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Oyuncu adı]]></item>
+      <item name="zoo.inventory.gifts.headerUserID"><![CDATA[Oyuncu Kimliği]]></item>
+      <item name="zoo.inventory.gifts.received"><![CDATA[Ne kadar güzel! Arkadaşın sana bir hediye göndermiş. Çabuk, paketini aç!]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Genişletmek]]></item>
+      <item name="zoo.inventory.gifts.none"><![CDATA[Ne yazık! Şu an hiç yeni hediyeniz yok... Ama üzülmeyin, yakında bir şeyler gelecek.]]></item>
+    </category>
+    <category name="zoo.inventory.move">
+      <item name="zoo.inventory.move.title"><![CDATA[Ödemek]]></item>
+      <item name="zoo.inventory.move.info"><![CDATA[Kaç hayvan için ödeme yapmak istiyorsunuz?]]></item>
+    </category>
+    <category name="zoo.inventory.allin">
+      <item name="zoo.inventory.allin.title"><![CDATA[Tümünü envantere gönder]]></item>
+      <item name="zoo.inventory.allin.confirmation"><![CDATA[Her şeyi envantere göndermek istediğinizden emin misiniz? Uyarı: Bunu yapabilmeniz için hayvanlarınızın temiz, tok ve mutlu olması gerekiyor.]]></item>
+    </category>
+  </category>
+</language>

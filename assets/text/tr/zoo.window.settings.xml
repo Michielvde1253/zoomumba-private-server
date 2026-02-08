@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.settings">
+    <item name="zoo.window.settings.info"><![CDATA[Merhaba, hayvanat bahçesi müdürü!<br>Burada ZooMumba'yı kendi zevkinize göre özelleştirebilirsiniz! En çok keyif aldığınız oyunu oynayın!]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[Açık]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[kapalı]]></item>
+    <item name="zoo.window.settings.quality.low"><![CDATA[Düşük]]></item>
+    <item name="zoo.window.settings.quality.middle"><![CDATA[orta]]></item>
+    <item name="zoo.window.settings.quality.high"><![CDATA[yüksek]]></item>
+    <item name="zoo.window.settings.quality.title"><![CDATA[Grafik sanatları]]></item>
+    <item name="zoo.window.settings.quality.info"><![CDATA[Kalite]]></item>
+    <item name="zoo.window.settings.account.title"><![CDATA[Hesabı düzenle]]></item>
+    <item name="zoo.window.settings.account.info"><![CDATA[Burada e-posta adresiniz gibi oyun hesabınızın ayrıntılarını düzenleyebilirsiniz.]]></item>
+    <item name="zoo.window.settings.title.tooltipps"><![CDATA[Araç ipuçları]]></item>
+    <item name="zoo.window.settings.title.visitors"><![CDATA[Ziyaretçiler]]></item>
+    <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Ziyaretçilerin istekleri]]></item>
+    <item name="zoo.window.settings.title.sound"><![CDATA[Ses]]></item>
+    <item name="zoo.window.settings.title.sound.background"><![CDATA[Müzik]]></item>
+    <item name="zoo.window.settings.title.sound.effects"><![CDATA[Ses efektleri]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[ayarlamak için]]></item>
+    <item name="zoo.window.settings.tab.account"><![CDATA[hesap]]></item>
+    <item name="zoo.window.settings.tab.config"><![CDATA[Yapılandırma]]></item>
+    <item name="zoo.window.settings.tab.buildings"><![CDATA[Ana bina]]></item>
+    <item name="zoo.window.settings.buildings.info"><![CDATA[Hayvanat bahçesinin giriş binasını zevkinize göre seçin. Seviyenize bağlı olarak ana binalar arasından seçim yapabilirsiniz.<br>Bu sayede hayvanat bahçeniz size daha da uygun hale gelecektir!]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Animasyon]]></item>
+    <item name="zoo.window.settings.anim.info"><![CDATA[Hayvan animasyonlarının sayısı]]></item>
+    <item name="zoo.window.settings.saveAssets"><![CDATA[Tampon bellek]]></item>
+  </category>
+</language>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.tutorial">
+    <category name="zoo.tutorial.tour">
+      <item name="zoo.tutorial.tour.1"><![CDATA[Çılgın hayvanat bahçeniz ZooMumba'ya hoş geldiniz! Benim adım Sonja ve size oyunun nasıl çalıştığını adım adım anlatacağım.<br><br>Mağazadan çeşitli hayvan barınakları satın alabilir ve bunları oyun alanına yerleştirebilirsiniz.]]></item>
+      <item name="zoo.tutorial.tour.2"><![CDATA[Kafese tıklayın ve bir hayvan satın alın. Erkek mi yoksa dişi mi satın aldığınıza dikkat edin.<br><br>Eğer kafeste hem erkek hem de dişi hayvan varsa, yakında yavrular bekleyebilirsiniz!]]></item>
+      <item name="zoo.tutorial.tour.3"><![CDATA[Hayvanlarınızla düzenli olarak ilgilenin, onları sevin ve onlarla oynayın. Bu şekilde mutlu ve huzurlu olacaklardır. Bir deneyin!]]></item>
+      <item name="zoo.tutorial.tour.4"><![CDATA[Ziyaretçilerin her şeyi hayranlıkla izleyebilmesi için, binalarınızı, yapılarınızı ve ilgi çekici yerlerinizi girişe giden yollarla birbirine bağlamanız gerekiyor.]]></item>
+      <item name="zoo.tutorial.tour.5"><![CDATA[Dükkanda hayvanlarınızın istediği her şeyi bulabilirsiniz: et, meyve, ot - sadece etrafa bir göz atın!]]></item>
+      <item name="zoo.tutorial.tour.6"><![CDATA[2. seviyeden itibaren, hayvanat bahçenizi ziyaretçiler için daha da çekici hale getirmek üzere dükkanda binalar ve tezgahlar da edinebilirsiniz. <br><br>Giriş ücretlerinden elde ettiğiniz geliri düzenli olarak ana binadan toplayabilirsiniz.]]></item>
+      <item name="zoo.tutorial.tour.7"><![CDATA[Hayvanat bahçenize ne kadar çok ziyaretçi gelirse, temizlemeniz gereken çöp miktarı da o kadar artar. <br><br>Ziyaretçilerinizi mutlu etmek için hayvanat bahçenizi temiz tutun ve çöpleri toplayın!]]></item>
+      <item name="zoo.tutorial.tour.8"><![CDATA[Hayvanat bahçenizin mutlu ziyaretçi sayısı ne kadar fazla olursa, Zoometer'ınız da o kadar yükselir.<br><br>Haydi başlayalım ve ZooMumba'da dünyanın en muhteşem hayvanat bahçesini kuralım! İyi eğlenceler!]]></item>
+    </category>
+    <category name="zoo.tutorial.general">
+      <item name="zoo.tutorial.general.forgive.title"><![CDATA[Atlamak]]></item>
+      <item name="zoo.tutorial.general.forgive.text"><![CDATA[Bu adımı gerçekten atlamak mı istiyorsunuz?]]></item>
+      <item name="zoo.tutorial.general.award"><![CDATA[Görev %currentTask% başarıyla tamamlandı. Toplam görev sayısı: %totalTask%]]></item>
+    </category>
+    <category name="zoo.tutorial.title">
+      <item name="zoo.tutorial.title.0"><![CDATA[ZooMumba oyununa hoş geldiniz!]]></item>
+      <item name="zoo.tutorial.title.1"><![CDATA[Penguenleri yakala!]]></item>
+      <item name="zoo.tutorial.title.2"><![CDATA[Penguenleri besleyin!]]></item>
+      <item name="zoo.tutorial.title.3"><![CDATA[Bakım ve kucaklama]]></item>
+      <item name="zoo.tutorial.title.4"><![CDATA[Muhafazalar inşa edin]]></item>
+      <item name="zoo.tutorial.title.5"><![CDATA[Yaşasın, hayvanları kafeslerine koyalım!]]></item>
+      <item name="zoo.tutorial.title.6"><![CDATA[Yeni bir yol oluşturun]]></item>
+      <item name="zoo.tutorial.title.7"><![CDATA[Çöplerden kurtulun!]]></item>
+      <item name="zoo.tutorial.title.8"><![CDATA[Ek besleme]]></item>
+      <item name="zoo.tutorial.title.9"><![CDATA[Yavruları çiftleştirin]]></item>
+      <item name="zoo.tutorial.title.10"><![CDATA[Kazanç fırsatı]]></item>
+      <item name="zoo.tutorial.title.11"><![CDATA[Neredeyse başardınız!]]></item>
+      <item name="zoo.tutorial.title.12"><![CDATA[Yaşasın, başardın!]]></item>
+      <item name="zoo.tutorial.title.13"><![CDATA[Yaşasın! Şimdi arkadaşlarınızı davet edin!]]></item>
+      <item name="zoo.tutorial.title.14"><![CDATA[Safari başlıyor!]]></item>
+    </category>
+    <category name="zoo.tutorial.main">
+      <item name="zoo.tutorial.main.0"><![CDATA[Kendimi tanıtabilir miyim? Benim adım Sonja ve bu çılgın hayvanat bahçesi oyununun nasıl işlediğini açıklayacağım. Hazır mısınız? Haydi başlayalım, hayvanat bahçesi müdürü!]]></item>
+      <item name="zoo.tutorial.main.1"><![CDATA[Küçük bir kaza oldu! Penguenler kafeslerinden kaçtı! Onları çabucak yakalamama ve kafeslerine geri götürmeme yardım edin.]]></item>
+      <item name="zoo.tutorial.main.2"><![CDATA[Harika! O kadar koşuşturmanın ardından acıkmış ve susamışlar. Onlara bol bol su ve balık verin. Kafese, ardından balığa ve kovaya tıklayın.]]></item>
+      <item name="zoo.tutorial.main.3"><![CDATA[Fırçaya tıklayın ve kafesi temizleyin. Gördünüz mü? Şimdi pırıl pırıl temiz! Ve bu çılgın foklar için biraz daha kucaklaşma - oyuncak ayıya tıklayın.]]></item>
+      <item name="zoo.tutorial.main.4"><![CDATA[Harika! Hayvanlara nasıl bakılacağını gerçekten biliyorsun! Şimdi hayvan barınakları inşa edebilirsin. Dükkana git, barınağa tıkla ve hayvanat bahçene yerleştir.]]></item>
+      <item name="zoo.tutorial.main.5"><![CDATA[Kuş kafesine birkaç konuşkan papağan koyun. Kuş kafesine tıklayın, mağazadan bir dişi ve bir erkek seçin ve içine yerleştirin.]]></item>
+      <item name="zoo.tutorial.main.6"><![CDATA[Hayvan barınaklarını yollarla birbirine bağlayın. Bağlantılar ne kadar iyi olursa, hayvanat bahçeniz o kadar çekici olur. Papağan kafesine giden bir yol oluşturun.]]></item>
+      <item name="zoo.tutorial.main.7"><![CDATA[Turist akınıyla birlikte çok fazla çöp de birikecek. Kürek simgesine tıklayarak bu sorunla başa çıkabilirsiniz.]]></item>
+      <item name="zoo.tutorial.main.8"><![CDATA[Dükkandan tüm hayvanlarınız için yem alın. Bugün papağanları beslemek için meyveye ihtiyacınız olacak.]]></item>
+      <item name="zoo.tutorial.main.9"><![CDATA[Eğer bir erkek ve bir dişiyi birlikte sahiplenmek istiyorsanız, "Üreme" düğmesine ve ardından "Şimdi Satın Al" düğmesine tıklayın.]]></item>
+      <item name="zoo.tutorial.main.10"><![CDATA[Hayvanat bahçenizdeki binalar zoogros üretir, bu nedenle kazançlarınızı düzenli olarak toplamayı unutmayın. Bunun için binanın üzerindeki zoogros simgesine tıklamanız yeterlidir.]]></item>
+      <item name="zoo.tutorial.main.11"><![CDATA[Hepsi tamam. Sorularınız var mı? İpuçlarını okumak için zaman ayırın. Fareyi hareket ettirmeniz yeterli: daha da zeki olacaksınız!]]></item>
+      <item name="zoo.tutorial.main.12"><![CDATA[El sıkışabiliriz, meslektaşım. Kendinizi kanıtlamış bir hayvanat bahçesi müdürü oldunuz. Edindiğiniz bilgiler hayvanat bahçenizi gerçekten ünlü yaptı. Ve bu kutlanmaya değer bir şey!]]></item>
+      <item name="zoo.tutorial.main.13"><![CDATA[Şşş... Biliyor muydunuz? Artık arkadaşlarınızı oyuna davet edebilirsiniz. Sadece bir e-posta gönderin ve birlikte oynamaya başlayın!]]></item>
+      <item name="zoo.tutorial.main.14"><![CDATA[Yaşasın! 7. seviyeye ulaştınız: Safari dünyası artık ayaklarınızın altında. Gaza basın ve kontrol merkezindeki cipe tıklayın veya ana binadaki menüyü kontrol edin. Hadi başlayalım!]]></item>
+    </category>
+    <category name="zoo.tutorial.hint">
+      <item name="zoo.tutorial.hint.0"><![CDATA[HİÇBİRİ]]></item>
+      <item name="zoo.tutorial.hint.1"><![CDATA[HİÇBİRİ]]></item>
+      <item name="zoo.tutorial.hint.2"><![CDATA[Hayvanlarınıza süper yem verin ve ekstra deneyim puanı kazanın!]]></item>
+      <item name="zoo.tutorial.hint.3"><![CDATA[Kedinin huysuzluğundan hayvanların ne kadar mutlu olduğunu anlayabilirsiniz. Onlara ne kadar iyi bakarsanız, o kadar mutlu olurlar.]]></item>
+      <item name="zoo.tutorial.hint.4"><![CDATA[İnşa süresini kısaltmak için binaya tıklayın.]]></item>
+      <item name="zoo.tutorial.hint.5"><![CDATA[Yavru üretmek istiyorsanız, kafese mutlaka bir erkek ve bir dişi koyun.]]></item>
+      <item name="zoo.tutorial.hint.6"><![CDATA[Hayvanat bahçenizdeki hayvanat bahçesi bölümlerinin yollarla birbirine bağlı olduğundan emin olun. Aksi takdirde, hayvanat bahçeniz çekiciliğini kaybedecektir.]]></item>
+      <item name="zoo.tutorial.hint.7"><![CDATA[Hayvanat bahçenizi temiz tutmak için çöp kutularına dikkat edin.]]></item>
+      <item name="zoo.tutorial.hint.8"><![CDATA[Hayvanlarınıza daha sık en iyi yemi verin. Bunun karşılığında bolca deneyim puanı kazanacaksınız!]]></item>
+      <item name="zoo.tutorial.hint.9"><![CDATA[Emzik, çiftleşme işleminin ne zaman tamamlandığını size gösterecektir.]]></item>
+      <item name="zoo.tutorial.hint.10"><![CDATA[Oyun içi paranız mı azalıyor? Daha fazla alın! Altın çantaya tıklayın.]]></item>
+      <item name="zoo.tutorial.hint.13"><![CDATA[Oyuna davet etmek istediğiniz arkadaşınızın e-posta adresini girin.]]></item>
+      <item name="zoo.tutorial.hint.14"><![CDATA[Farklı safari bölgelerine girmek için farklı miktarlarda yakıta ihtiyacınız var. Ancak, kapalı bölgelere giremezsiniz.]]></item>
+    </category>
+    <category name="zoo.tutorial.success">
+      <item name="zoo.tutorial.success.title"><![CDATA[Tamam aşkım!]]></item>
+      <item name="zoo.tutorial.success.step.1"><![CDATA[Harika! Penguenler kafeslerine geri döndüler. Sonraki adıma geçmek için oka tıklayın.]]></item>
+      <item name="zoo.tutorial.success.step.2"><![CDATA[Afiyet olsun! Penguenleriniz artık doydu. Devam etmek için oka tıklayın!]]></item>
+      <item name="zoo.tutorial.success.step.3"><![CDATA[Harika iş! Neşeli foklar artık temiz ve mutlu. Devam etmek için oka tıklayın!]]></item>
+      <item name="zoo.tutorial.success.step.4"><![CDATA[Mükemmel iş! Muhafazanız hazır. Sonraki adıma geçmek için oka tıklayın.]]></item>
+      <item name="zoo.tutorial.success.step.5"><![CDATA[Yaşasın! Artık hayvanat bahçenizde papağanlar var! Devam etmek için oka tıklayın!]]></item>
+      <item name="zoo.tutorial.success.step.6"><![CDATA[Devam edin! Ziyaretçiler yeni kafeslere hayran kalıyor. Devam etmek için oka tıklayın!]]></item>
+      <item name="zoo.tutorial.success.step.7"><![CDATA[Mükemmel! Bundan böyle yollar pırıl pırıl temiz olacak. Devam etmek için oka tıklayın!]]></item>
+      <item name="zoo.tutorial.success.step.8"><![CDATA[Ne harika! Papağanlar artık doydu. Devam etmek için oka tıklayın!]]></item>
+      <item name="zoo.tutorial.success.step.9"><![CDATA[Ne kadar sevimli! Papağan yavrularını başarıyla sahiplendiniz. Devam etmek için oka tıklayın!]]></item>
+      <item name="zoo.tutorial.success.step.10"><![CDATA[Harika! Para akmaya başladı! Neredeyse bitirdiniz! Çabuk, oka bir kez daha tıklayın.]]></item>
+      <item name="zoo.tutorial.success.step.11"><![CDATA[Çok kolay! Menüde puan toplama konusunda neredeyse profesyonel oldunuz. Bir tıklama daha, ve küçük yolculuğumuzun sonuna ulaşacaksınız.]]></item>
+    </category>
+  </category>
+</language>

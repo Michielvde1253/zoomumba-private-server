@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.crafting">
+    <item name="zoo.window.crafting.intro.blueprintRewards"><![CDATA[%allcards% bina planından %mycards%'ını topladınız!]]></item>
+    <item name="zoo.window.crafting.intro.title"><![CDATA[Atölye]]></item>
+    <item name="zoo.window.crafting.intro.text"><![CDATA[El işi ve hobi meraklıları dikkat! Malzemelerinizi yeni çitler, binalar, süslemeler veya yollar inşa etmek için kullanın. Aşağıdaki kategorilerden birini seçin ve üretim sürecinin bir sonraki aşamasına geçin.]]></item>
+    <item name="zoo.window.crafting.intro.chooseCategorie"><![CDATA[Bir kategori seçin:]]></item>
+    <item name="zoo.window.crafting.produce.text"><![CDATA[Çok basit: Sol altta şu anda üretilenleri görüyorsunuz. İnşaat planı size hangi malzemelere ihtiyacınız olduğunu gösteriyor. Bunun üstünde üretim süresini ve ödemeniz gereken pençe sayısını görüyorsunuz. Anladınız mı? Tamam, o zaman "Başlat"a tıklayın.]]></item>
+    <item name="zoo.window.crafting.produce.button"><![CDATA[Başlangıç]]></item>
+    <item name="zoo.window.crafting.progress.title"><![CDATA[Atölye]]></item>
+    <item name="zoo.window.crafting.progress.text"><![CDATA[Üretim başladı!]]></item>
+    <item name="zoo.window.crafting.progress.time"><![CDATA[Süre:]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.title"><![CDATA[Hemen üretin]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.text"><![CDATA[Zamandan tasarruf edin ve üretimi hemen tamamlayın!]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.button"><![CDATA[Tamamlamak]]></item>
+    <item name="zoo.window.crafting.progress.layer.elixir.text"><![CDATA[Üretimi hızlandırın ve yarı sürede tamamlayın.]]></item>
+    <item name="zoo.window.crafting.progress.button.elixir"><![CDATA[Hızlanmak]]></item>
+    <item name="zoo.window.crafting.success.text"><![CDATA[Yaşasın! Her şey tamam: Az önce ürettiğiniz eşya envanterinizde!]]></item>
+    <item name="zoo.window.crafting.blueprint.text"><![CDATA[Yaşasın! Bir bina planı aldınız! Atölyeye gidin ve hayvanat bahçeniz için yeni bir yapı inşa edin!]]></item>
+  </category>
+</language>

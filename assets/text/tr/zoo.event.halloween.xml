@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Merhaba! Ben Lucka ve yarasaları çok seviyorum! Ama özellikle de sevimli yavrularını. Bana olabildiğince çok yavru getirin, o zaman sizin için gerçekten güzel Cadılar Bayramı eşyalarım olacak. Tatlı olanları takas ederek soldaki eşyaları, ekşi olanları takas ederek sağdaki eşyaları alabilirsiniz.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Envanter]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Envanterinize kaç adet %species% yavru eklemek istediğinizi seçin.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Özür dileriz!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Maalesef envanterinizde yeterli sayıda yavru yarasa yok. Yavru yarasaları çiftleştirin ve bu ürünü satın almak için envanterinize taşıyın.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Stoktaki küçük yarasalar]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Küçük yarasaları şekerlemelerle takas edin]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Küçük yarasaları ekşi olanlarla değiştirin]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Numara: Tatlı]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Bu öğeyi açmak için %x% oranında şekerleme yatırın.]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Bu öğeyi açmak için %x% oranında yatırım yapın.]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Numara: Ekşi]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Yardım]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Yavru yarasaları envantere taşı]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Cadılar Bayramı etkinliğine hoş geldiniz!<br> 25 Ekim - 1 Kasım tarihleri ​​arasında hayvanat bahçenizde ürkütücü bir parti başlıyor! Bir sürü hediye ve sürpriz sizi bekliyor. Bir sonraki adımda her şeyin nasıl işleyeceğini göreceksiniz.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Olabildiğince çok tatlı ve ekşi toplayın! Hayalet römorkları etkinleştirmek için tatlı ve ekşiye ihtiyacınız var! Her şeyin nasıl işlediğini bir sonraki sayfada öğreneceksiniz.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Yeterince tatlı ve ekşiye sahipseniz, bunları <b>eşyaları</b> etkinleştirmek için kullanabilirsiniz. Ancak dikkatli olun: Tatlılar gözünüzü sola, ekşiler ise sağa çevirmenizi sağlar. Gözünüz, eşyaların hangi tarafta etkinleştirildiğini gösterir.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Eşyaları yavru yarasalarla takas ederek aktif hale getirebilirsiniz. Bir sürü sevimli yarasa yetiştirin. Kafes menüsündeki yeni bir düğme, yavruları envanterinize hızlı ve kolay bir şekilde kaydetmenize yardımcı olacaktır.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Korkunç dükkanda iyi eğlenceler!<br> Sabırsız olanlar için: Dükkanda tatlı ve ekşi şekerleri yavru yarasalarla değiştirebilirsiniz. Dükkanda daha birçok sürpriz sizi bekliyor.<br> <br>Bu yıl Cadılar Bayramı'nda iyi eğlenceler!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[Korkutucu eğlence zamanı!<br>31 Ekim - 6 Kasım tarihleri ​​arasında hayvanat bahçenizde Cadılar Bayramı partisi düzenlenecek!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Olabildiğince çok balkabağı toplayın! Hayvanlarınızla ilgilenirken balkabakları kafeslerden fırlayacak.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Onları <b>Balkabağı Savaşı</b> için büyük balkabağı sepetine ekleyin. Ne kadar çok balkabağı teslim ederseniz, o kadar korkunç ödüller kazanabilirsiniz.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Hayvanlarınızla ilgilenirken, kafeslerden ödüller çıkacak. Hep birlikte toplayabilirsiniz. Eylem çubuğu dolacak ve yüzen bir göz, herkes için hangi ürkütücü ödüllerin mevcut olduğunu gösterecektir. Ödül etkinleştiğinde üzerine tıklayın.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Büyük balkabağı savaşı için balkabağı toplayın. Ne kadar çok toplarsanız, o kadar çok ödül kazanabilirsiniz.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Herkes birlikte oynasın! Tüm hayvanat bahçelerinden gelen hediyeler göstergeyi dolduracak ve herkes için otomatik olarak ödüllerin kilidini açacak!]]></item>
+    </category>
+  </category>
+</language>

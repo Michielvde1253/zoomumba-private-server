@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopResourceInfo">
+    <item name="zoo.window.shopResourceInfo.titel_1"><![CDATA[su]]></item>
+    <item name="zoo.window.shopResourceInfo.text_1"><![CDATA[Hayvanlarınızın serinlemeye ihtiyacı var! Onları serin suyla mutlu edin!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_2"><![CDATA[Çimen]]></item>
+    <item name="zoo.window.shopResourceInfo.text_2"><![CDATA[Aç bir mideyi doyurmanın en iyi yolu, lezzetli yeşil çimenlerle beslenmektir. Ve biraz şansla, çimenlerin arasında bonus olarak birkaç böcek de bulabilirsiniz :-) Nefis!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_3"><![CDATA[Et]]></item>
+    <item name="zoo.window.shopResourceInfo.text_3"><![CDATA[Kim güzel bir et parçasının tadını çıkarmaz ki? Böylesine sulu bir biftek gerçek bir ziyafet!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_4"><![CDATA[Balık]]></item>
+    <item name="zoo.window.shopResourceInfo.text_4"><![CDATA[Balık sağlıklıdır! Ve birçok hayvanın en sevdiği yiyeceklerden biridir. Temizleme veya kesme konusunda endişelenmenize gerek yok, hayvanlarınız her şeyin tadını çıkaracak!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_5"><![CDATA[Meyve]]></item>
+    <item name="zoo.window.shopResourceInfo.text_5"><![CDATA[Tatlı, sulu meyvelere kim karşı koyabilir ki? Burada tüm hayvanlar için meyve bulacaksınız!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_6"><![CDATA[Tahıl]]></item>
+    <item name="zoo.window.shopResourceInfo.text_6"><![CDATA[Tahıl, hayvanlarınız için önemli bir besin kaynağıdır ve onların aktif ve sağlıklı kalmalarına yardımcı olur!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_7"><![CDATA[İlaç]]></item>
+    <item name="zoo.window.shopResourceInfo.text_7"><![CDATA[Hayvanlarınızdan biri kendini iyi hissetmiyor mu? Bu ilaç kesinlikle iyileşmesini sağlayacaktır.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_8"><![CDATA[Süper gıda]]></item>
+    <item name="zoo.window.shopResourceInfo.text_8"><![CDATA[Süper gıdalarla iki kat daha fazla BZ (Besin Değeri) elde edersiniz.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_9"><![CDATA[Süper Tıp]]></item>
+    <item name="zoo.window.shopResourceInfo.text_9"><![CDATA[Ciddi bir enfeksiyon durumunda, gerçekten etkili bir ilaç kullanmanız gerekir. Süper bir ilaçla hemen buradayım. Ayrıca, süper ilaçlarla, kafesten "fırlayan" değerli ödülleri kazanma şansınızı artırırsınız.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_10"><![CDATA[En iyi yemek]]></item>
+    <item name="zoo.window.shopResourceInfo.text_10"><![CDATA[En iyi yem, kafeslerinizi güzelleştirmek için size dört kat daha fazla pati kazandıracaktır.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_11"><![CDATA[Tolija'nın Özü]]></item>
+    <item name="zoo.window.shopResourceInfo.text_11"><![CDATA[Tolija özü, üreme süresini %50 oranında kısaltır.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_12"><![CDATA[Büyüme iksiri]]></item>
+    <item name="zoo.window.shopResourceInfo.text_12"><![CDATA[Büyüme iksiriyle minikleriniz iki kat daha hızlı büyüyecek!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_13"><![CDATA[Çöp]]></item>
+    <item name="zoo.window.shopResourceInfo.text_13"><![CDATA[İnsanların neler çöpe attığına inanamazsınız! Atıkları geri dönüştürün ve malzemeleri hayvanat bahçeniz için yeni eşyalar yapmakta kullanın.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_14"><![CDATA[Süper filtre]]></item>
+    <item name="zoo.window.shopResourceInfo.text_14"><![CDATA[Atıkları süper filtre kullanarak geri dönüştürürseniz, nadir malzemeler elde etme şansınızı artırırsınız.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_15"><![CDATA[Usta için güçlendirici]]></item>
+    <item name="zoo.window.shopResourceInfo.text_15"><![CDATA[Bu şerbetçiotu ve enerji içeceği karışımı, ustalarınızın enerjilerini yükseltmeleri ve işlerini daha hızlı bitirmeleri için tam olarak ihtiyaç duydukları şeydir.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_16"><![CDATA[Algler]]></item>
+    <item name="zoo.window.shopResourceInfo.text_16"><![CDATA[Değerli besinlerle dolu yeşil su bitkileri! Çok lezzetli!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_17"><![CDATA[Plankton]]></item>
+    <item name="zoo.window.shopResourceInfo.text_17"><![CDATA[Planktonlar, birçok okyanus hayvanı için besin kaynağı olan mikroorganizmalardır.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_18"><![CDATA[Karides]]></item>
+    <item name="zoo.window.shopResourceInfo.text_18"><![CDATA[Sadece insanlar değil, hayvanlar da karidesi çok sever!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_19"><![CDATA[Midye]]></item>
+    <item name="zoo.window.shopResourceInfo.text_19"><![CDATA[İçinde saklı olan yumuşacık etin tadını çıkarın. Böylesine bir lezzete kim karşı koyabilir ki?]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_20"><![CDATA[Su filtresi]]></item>
+    <item name="zoo.window.shopResourceInfo.text_20"><![CDATA[Akvaryumlarınızdaki suyu berrak tutmak için iyi bir filtre kullanın.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_21"><![CDATA[Süper balık yemi]]></item>
+    <item name="zoo.window.shopResourceInfo.text_21"><![CDATA[Süper Balık Yemi, her şekil ve boyuttaki deniz canlıları için dengeli bir beslenme sağlar. Servis edin ve iki kat BZ (Beslenme ve Beslenme) avantajından yararlanın!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_22"><![CDATA[Özel balık yemi]]></item>
+    <item name="zoo.window.shopResourceInfo.text_22"><![CDATA[Özel balıklar için özel yem. Hayvanlarınızı bu yemle besleyin ve iki kat daha fazla inci elde edin!]]></item>
+  </category>
+</language>

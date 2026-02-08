@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.collectables">
+    <category name="zoo.collectables.forgottenZoo">
+      <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Aletler]]></item>
+      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Gizli hayvanat bahçeniz için aletler toplayın ve bunları genişletmelerle takas edin.<br><br>Aletleri safari ve şans çarkından elde edebilirsiniz. Ardından dükkana gidin ve takas edin.<br><br>Şu ana kadar sahip olduğunuz alet sayısı:]]></item>
+      <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[Gizli hayvanat bahçenizi %tools% alet ve %zd% zoodollar karşılığında genişletmek mi istiyorsunuz?]]></item>
+    </category>
+    <category name="zoo.collectables.easterEvent">
+      <item name="zoo.collectables.easterEvent.title"><![CDATA[Paskalya yumurtaları]]></item>
+      <item name="zoo.collectables.easterEvent.text"><![CDATA[21 Nisan'dan 27 Nisan'a kadar, Paskalya yumurtalarına bolca rastlayacaksınız! Yumurtaları toplayın ve Paskalya temalı bahçe süsleri, Paskalya tavşanları ve bahçe kafesleriyle takas edin. Mevcut Paskalya yumurtası durumunuz:]]></item>
+    </category>
+    <category name="zoo.collectables.meadow">
+      <item name="zoo.collectables.meadow.main.title"><![CDATA[Çayır]]></item>
+      <item name="zoo.collectables.meadow.main.text"><![CDATA[Bu güzel ve renkli çayırda birçok ot, çiçek ve sulu yonca yetişiyor.]]></item>
+      <item name="zoo.collectables.meadow.flower.title"><![CDATA[Çiçekler]]></item>
+      <item name="zoo.collectables.meadow.flower.text"><![CDATA[Bahar geldiğinde, çayırlar kır çiçekleriyle dolu bir denize dönüşür. Ve hayvanlarınız da bu çiçeklere bayılır!]]></item>
+      <item name="zoo.collectables.meadow.log.title"><![CDATA[Kütük]]></item>
+      <item name="zoo.collectables.meadow.log.text"><![CDATA[Ağaçların temizlenmesiyle geçiş çayırı oluşturulur. Orman ortadan kalktıktan sonra, burada önce küçük ot filizleri yetişir.]]></item>
+      <item name="zoo.collectables.meadow.gnome.title"><![CDATA[Elf]]></item>
+      <item name="zoo.collectables.meadow.gnome.text"><![CDATA[Çayırlar genellikle geceleri saklandıkları yerlerden çıkan elflere de ev sahipliği yapar. Bu utangaç ama dost canlısı yaratıklar genellikle evlerini tavşanlarla paylaşırlar.]]></item>
+      <item name="zoo.collectables.meadow.mushroom.title"><![CDATA[Mantarlar]]></item>
+      <item name="zoo.collectables.meadow.mushroom.text"><![CDATA[Mantarlar lezzetli mantarlardır ve örneğin Kuzey Amerika'da yetişirler.]]></item>
+      <item name="zoo.collectables.meadow.sign.title"><![CDATA[Yaban çayırı]]></item>
+      <item name="zoo.collectables.meadow.sign.text"><![CDATA[Eğer bir "geçiş çayırı" uzun süre bakımsız bırakılırsa, kısa sürede üzerinde yeniden yabani bir orman yetişir.]]></item>
+    </category>
+    <category name="zoo.collectables.ice">
+      <item name="zoo.collectables.ice.main.title"><![CDATA[Buz]]></item>
+      <item name="zoo.collectables.ice.main.text"><![CDATA[Penguenler ve kutup ayıları soğuk iklimleri sevmekle kalmaz, kutup tilkisi de buz ve kardan hoşlanır!]]></item>
+      <item name="zoo.collectables.ice.popsicle.title"><![CDATA[Dondurma]]></item>
+      <item name="zoo.collectables.ice.popsicle.text"><![CDATA[Çok az kişi bunu bilir, ancak penguenler de dondurmayı sever ve bazen turistlerden çalarlar.]]></item>
+      <item name="zoo.collectables.ice.cubes.title"><![CDATA[Buz küpleri]]></item>
+      <item name="zoo.collectables.ice.cubes.text"><![CDATA[Buz küpleri, sıcak bir içeceği soğutmanın mükemmel bir yoludur. Sıcak bir yaz gününde ferahlık sağlarlar.]]></item>
+      <item name="zoo.collectables.ice.skates.title"><![CDATA[Paten]]></item>
+      <item name="zoo.collectables.ice.skates.text"><![CDATA[Buz pateni muhteşem bir spor. Tarihçiler, yaklaşık 4000 yıl önce icat edildiğine inanıyor. Finlilerin de icadına katkıda bulunmuş olabileceği düşünülüyor.]]></item>
+      <item name="zoo.collectables.ice.igloo.title"><![CDATA[İglo]]></item>
+      <item name="zoo.collectables.ice.igloo.text"><![CDATA[İglo, Kuzey Amerika'nın asıl sakinleri olan Eskimo halkı için ev anlamına gelir.]]></item>
+      <item name="zoo.collectables.ice.sign.title"><![CDATA[Buz sarkıtları]]></item>
+      <item name="zoo.collectables.ice.sign.text"><![CDATA[Parıldayan buz sarkıtları dondurucu sıcaklıklarda oluşur. Elbette, güneşin sıcaklığı onları tekrar eritir.]]></item>
+    </category>
+    <category name="zoo.collectables.bamboo">
+      <item name="zoo.collectables.bamboo.main.title"><![CDATA[Bambu korusu]]></item>
+      <item name="zoo.collectables.bamboo.main.text"><![CDATA[Bambu, pandaların tek besin kaynağıdır ve ağırlıklı olarak Asya'da yetişir.]]></item>
+      <item name="zoo.collectables.bamboo.branches.title"><![CDATA[Bambu dalı]]></item>
+      <item name="zoo.collectables.bamboo.branches.text"><![CDATA[Bambu, odunsu otların çeşitli cinsleri için kullanılan genel bir isimdir.]]></item>
+      <item name="zoo.collectables.bamboo.lantern.title"><![CDATA[Lampion]]></item>
+      <item name="zoo.collectables.bamboo.lantern.text"><![CDATA[Bambu bahçenize güzel bir fener asın ve geceyi yumuşak bir ışıkla aydınlatın.]]></item>
+      <item name="zoo.collectables.bamboo.gong.title"><![CDATA[Gong]]></item>
+      <item name="zoo.collectables.bamboo.gong.text"><![CDATA[Gong, bambu bahçeniz için güzel bir dekorasyon. Ve o egzotik ses... sanki meditasyona başlamak için yapılmış gibi.]]></item>
+      <item name="zoo.collectables.bamboo.statue.title"><![CDATA[Asya heykeli]]></item>
+      <item name="zoo.collectables.bamboo.statue.text"><![CDATA[Asya tarzı bir heykel, bambu bahçesine sakinlik ve huzur dolu bir atmosfer katacak.]]></item>
+      <item name="zoo.collectables.bamboo.sign.title"><![CDATA[Bambu kanatlar]]></item>
+      <item name="zoo.collectables.bamboo.sign.text"><![CDATA[İnsanlar çok uzun zamandır bambudan kanat yapıyorlar. Hafif ama güçlü bu malzeme, inanılmaz yüksekliklere ulaşmalarını sağlıyor.]]></item>
+    </category>
+    <category name="zoo.collectables.parrot">
+      <item name="zoo.collectables.parrot.main.title"><![CDATA[Papağan]]></item>
+      <item name="zoo.collectables.parrot.main.text"><![CDATA[Bazı papağanların oldukça konuşkan olduğu bilinmektedir. Hatta bazıları tam cümleler kurarak konuşur.]]></item>
+      <item name="zoo.collectables.parrot.plush.title"><![CDATA[Peluş papağan]]></item>
+      <item name="zoo.collectables.parrot.plush.text"><![CDATA[Papağanlar çok sosyal ve popüler evcil hayvanlardır, ancak koşup oynayabilecekleri geniş bir alana ihtiyaç duyarlar.]]></item>
+      <item name="zoo.collectables.parrot.paw.title"><![CDATA[Papağan pençesi]]></item>
+      <item name="zoo.collectables.parrot.paw.text"><![CDATA[Papağanların aslında 4 pençesi vardır. İkisi önde, ikisi arkada. Bu sayede uyuyakalsalar bile daldan düşmezler.]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.title"><![CDATA[Blackjack]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.text"><![CDATA[Papağanlar aslında kötü sihirbazlar tarafından rengarenk kuşlara dönüştürülen korsanlardır.]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.title"><![CDATA[Peru]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.text"><![CDATA[Peru'nun Amazon bölgesinin ormanları birçok papağana ev sahipliği yapıyor ve yağmur ormanları onlar için ideal bir yaşam alanı sağlıyor.]]></item>
+      <item name="zoo.collectables.parrot.sign.title"><![CDATA[Meyve severler]]></item>
+      <item name="zoo.collectables.parrot.sign.text"><![CDATA[Papağanlar tohum ve kuruyemiş yemeyi severler, ancak meyveden de hoşlanırlar. Taze veya kuru olması fark etmez, önemli olan tatlı olmasıdır.]]></item>
+    </category>
+    <category name="zoo.collectables.rabbit">
+      <item name="zoo.collectables.rabbit.main.title"><![CDATA[tavşan]]></item>
+      <item name="zoo.collectables.rabbit.main.text"><![CDATA[Tavşanlar çöllerden ormanlara ve soğuk kutup bölgelerine kadar çeşitli alanlarda yaşarlar.]]></item>
+      <item name="zoo.collectables.rabbit.plush.title"><![CDATA[Peluş tavşan]]></item>
+      <item name="zoo.collectables.rabbit.plush.text"><![CDATA[Tavşanlar yüzyıllardır var. Fosiller, tavşan benzeri yaratıkların 60 milyon yıl önce Çin'de yaşadığını gösteriyor.]]></item>
+      <item name="zoo.collectables.rabbit.paw.title"><![CDATA[Tavşan ayağı]]></item>
+      <item name="zoo.collectables.rabbit.paw.text"><![CDATA[Tavşan ayakları birçok kültürde iyi şansın sembolüdür.]]></item>
+      <item name="zoo.collectables.rabbit.paint.title"><![CDATA[Renk paleti]]></item>
+      <item name="zoo.collectables.rabbit.paint.text"><![CDATA[Paskalya Tavşanı yılda bir kez gelir ve çikolata ile renkli yumurtaları saklar.]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.title"><![CDATA[Portekiz]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.text"><![CDATA[Avrupa yaban tavşanları aslen Portekiz, İspanya ve kuzeybatı Afrika'da yaşıyordu, ancak Avustralya'ya da yayılmışlardır.]]></item>
+      <item name="zoo.collectables.rabbit.sign.title"><![CDATA[Sebze uzmanları]]></item>
+      <item name="zoo.collectables.rabbit.sign.text"><![CDATA[Tavşanlar vejetaryendir. Ot, şifalı bitkiler, marul ve renkli çiçekler yemeyi tercih ederler.]]></item>
+    </category>
+    <category name="zoo.collectables.penguin">
+      <item name="zoo.collectables.penguin.main.title"><![CDATA[Penguen]]></item>
+      <item name="zoo.collectables.penguin.main.text"><![CDATA[Penguenler uçamasalar da deniz kuşlarıdır.]]></item>
+      <item name="zoo.collectables.penguin.plush.title"><![CDATA[Peluş penguen]]></item>
+      <item name="zoo.collectables.penguin.plush.text"><![CDATA[Penguenler çok sosyal ve rekabetçi hayvanlardır ve genellikle su altında dans etmekten hoşlanırlar.]]></item>
+      <item name="zoo.collectables.penguin.paw.title"><![CDATA[Penguen yüzgeci]]></item>
+      <item name="zoo.collectables.penguin.paw.text"><![CDATA[Penguenlerin karadaki yürüyüşleri beceriksiz görünse de, suda çevik bir yüzücü ve dalgıçtırlar.]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.title"><![CDATA[Smokin]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.text"><![CDATA[Bazı insanlar da smokine, görünüş olarak penguene çarpıcı bir şekilde benzediği için "penguen kuyruklu ceketi" derler.]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.title"><![CDATA[Antarktika]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.text"><![CDATA[Kutup altı adaları, en büyük ve en ağır penguenlerden biri olan imparator penguenine ev sahipliği yapmaktadır.]]></item>
+      <item name="zoo.collectables.penguin.sign.title"><![CDATA[Balık severler]]></item>
+      <item name="zoo.collectables.penguin.sign.text"><![CDATA[Penguenler tam anlamıyla gurmedir. Balığı tercih ederler ama deniz canlılarından da hoşlanırlar.]]></item>
+    </category>
+    <category name="zoo.collectables.giantTurtle">
+      <item name="zoo.collectables.giantTurtle.main.title"><![CDATA[Dev kaplumbağa]]></item>
+      <item name="zoo.collectables.giantTurtle.main.text"><![CDATA[Kaplumbağalar sürüngenlerdir. Çoğunlukla suyun yakınında veya içinde yaşarlar. En büyük kaplumbağalar su kaplumbağalarıdır.]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.title"><![CDATA[Peluş kaplumbağa]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.text"><![CDATA[Dev kaplumbağa yavruları henüz yumurtadayken kardeşleriyle iletişim kurarlar. Bunun için yumurta kabuklarıyla birbirlerine çarparak iletişim kurarlar.]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.title"><![CDATA[Kaplumbağa ayağı]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.text"><![CDATA[Su kaplumbağalarının ayaklarında parmak aralarında perde bulunur, kara kaplumbağalarının ayakları ise daha çok kütük gibidir.]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.title"><![CDATA[Sallanmak]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.text"><![CDATA[Fil kaplumbağaları 100 yıldan fazla yaşayabilirler, ancak asla gri sakalları çıkmaz.]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.title"><![CDATA[Ekvador]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.text"><![CDATA[Fil kaplumbağaları, Güney Amerika'da Ekvador'a bağlı Galapagos Adaları'ndan gelmektedir.]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.title"><![CDATA[Beslenme uzmanları]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.text"><![CDATA[Kaplumbağaların çoğu omnivordur (hem etçil hem otçul), ancak bazı türler yalnızca tek bir besin türüyle beslenir, örneğin denizanası.]]></item>
+    </category>
+    <category name="zoo.collectables.lion">
+      <item name="zoo.collectables.lion.main.title"><![CDATA[Aslan]]></item>
+      <item name="zoo.collectables.lion.main.text"><![CDATA[Aslanlar, kaplanlardan sonra dünyanın en büyük ikinci kedigiller türüdür.]]></item>
+      <item name="zoo.collectables.lion.plush.title"><![CDATA[Peluş aslan]]></item>
+      <item name="zoo.collectables.lion.plush.text"><![CDATA[Beyaz aslanlar aslında tamamen normal aslanlardır, sadece kürkleri güneşten dolayı beyazlamıştır.]]></item>
+      <item name="zoo.collectables.lion.paw.title"><![CDATA[Aslan pençesi]]></item>
+      <item name="zoo.collectables.lion.paw.text"><![CDATA[Büyük pençeleri ve avlarını sıkıca kavrayan tırnaklarıyla saygı uyandırırlar.]]></item>
+      <item name="zoo.collectables.lion.crown.title"><![CDATA[Taç]]></item>
+      <item name="zoo.collectables.lion.crown.text"><![CDATA[Savanlarda ve bozkırlarda yaşamalarına rağmen, sıklıkla "ormanların kralları" olarak anılırlar.]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.title"><![CDATA[Tanzanya]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.text"><![CDATA[Günümüzde çoğunlukla Tanzanya'daki milli parklar veya Doğu Afrika kıyıları gibi bölgelerde yaşamaktadırlar.]]></item>
+      <item name="zoo.collectables.lion.sign.title"><![CDATA[Biftek severler]]></item>
+      <item name="zoo.collectables.lion.sign.text"><![CDATA[Aslanlar, tüm kedigiller gibi, etoburdur. Antilop, zebra ve bufalo ile beslenirler.]]></item>
+    </category>
+    <category name="zoo.collectables.peacock">
+      <item name="zoo.collectables.peacock.main.title"><![CDATA[Tavus kuşu]]></item>
+      <item name="zoo.collectables.peacock.main.text"><![CDATA[Tavus kuşları etkileyici egzotik kuşlardır. Birçok hayvanat bahçesi ve parkta özgürce dolaşırlar.]]></item>
+      <item name="zoo.collectables.peacock.plush.title"><![CDATA[Peluş tavus kuşu]]></item>
+      <item name="zoo.collectables.peacock.plush.text"><![CDATA[Tavus kuşunun kuyruk tüyleri çok güzeldir. Yunan mitolojisinde tavus kuşunun gözleri, Zeus'un sevgilisi İo'yu koruyan koruyucu Argus'un sembolüdür.]]></item>
+      <item name="zoo.collectables.peacock.paw.title"><![CDATA[Tavus kuşu pençeleri]]></item>
+      <item name="zoo.collectables.peacock.paw.text"><![CDATA[Erkek tavus kuşları oldukça kibirlidir. Saatlerce pençeleriyle güzel tüylerini tarayabilirler. Ve sonunda tüm ihtişamlarıyla onları sererler.]]></item>
+      <item name="zoo.collectables.peacock.mirror.title"><![CDATA[Ayna]]></item>
+      <item name="zoo.collectables.peacock.mirror.text"><![CDATA[Tavus kuşları dişilerin ilgisini çekmek için oldukça havalı numaralar yapabilirler ve dişiler de onlarla flört etmekten hoşlanırlar.]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.title"><![CDATA[Hindistan]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.text"><![CDATA[Hindistan'da tavus kuşu 1963'ten beri ulusal kuştur. Hintliler bu kuşlara değer verir çünkü zehirli kobraları avlarlar.]]></item>
+      <item name="zoo.collectables.peacock.sign.title"><![CDATA[Tahıl seven]]></item>
+      <item name="zoo.collectables.peacock.sign.text"><![CDATA[Tavus kuşları çoğunlukla tahıl ve baklagillerle beslenir, ancak zaman zaman çiçek ve nadiren de böcek yerler.]]></item>
+    </category>
+    <category name="zoo.collectables.panda">
+      <item name="zoo.collectables.panda.main.title"><![CDATA[Panda]]></item>
+      <item name="zoo.collectables.panda.main.text"><![CDATA[Dev panda, Çin'e özgü siyah beyaz bir ayı türüdür.]]></item>
+      <item name="zoo.collectables.panda.plush.title"><![CDATA[Peluş panda]]></item>
+      <item name="zoo.collectables.panda.plush.text"><![CDATA[Yavru pandalar gerçekten çok küçüktür. Ağırlıkları sadece 100 ila 200 gram arasında değişir ve boyları yaklaşık 15-17 cm'dir.]]></item>
+      <item name="zoo.collectables.panda.paw.title"><![CDATA[Panda pençesi]]></item>
+      <item name="zoo.collectables.panda.paw.text"><![CDATA[Dev pandaların eğri bir başparmağı vardır. Bunu yiyeceklerini tutmak için kullanırlar.]]></item>
+      <item name="zoo.collectables.panda.bowl.title"><![CDATA[Çubuklar]]></item>
+      <item name="zoo.collectables.panda.bowl.text"><![CDATA[Zeki pandalar, tıpkı Asya'daki insanların yemek çubuklarıyla yemek yemesi gibi, yiyeceklerini bambu çubuklarla şişleyerek yerler.]]></item>
+      <item name="zoo.collectables.panda.flagChina.title"><![CDATA[Çin]]></item>
+      <item name="zoo.collectables.panda.flagChina.text"><![CDATA[Son vahşi pandalar dünyanın en büyük ülkesi olan Çin'de yaşıyor. Ne yazık ki, bu dev pandalardan sadece birkaç tane kaldı.]]></item>
+      <item name="zoo.collectables.panda.sign.title"><![CDATA[Bambu uzmanı]]></item>
+      <item name="zoo.collectables.panda.sign.text"><![CDATA[Pandalar özellikle yapraklarını ve genç dallarını çiğnemeyi tercih ederler. Büyük hayvanlar oldukları için çok miktarda bambu tüketirler.]]></item>
+    </category>
+    <category name="zoo.collectables.sonja">
+      <item name="zoo.collectables.sonja.main.title"><![CDATA[Yetiştirici Soňa]]></item>
+      <item name="zoo.collectables.sonja.main.text"><![CDATA[Hayvan yetiştiricisi Soňa, hayvanlara nasıl mükemmel şekilde bakılacağını biliyor. Sadece o, tüm hayvanları aynı anda kucaklayabiliyor.]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.title"><![CDATA[Fil oyuncağı]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.text"><![CDATA[Maymunlar neşeli arkadaşlardır. Örneğin, parlak renkli tahta fillerle oynamayı severler.]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.title"><![CDATA[Tepe]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.text"><![CDATA[Soňa, neşeyle dönen topaçıyla en huysuz gergedanı bile neşelendirebilir.]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.title"><![CDATA[Fare oyuncağı]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.text"><![CDATA[Sevimli ev kedileri oyuncak fareleri kovalamayı sever, ancak aslanlar daha büyük avları tercih eder.]]></item>
+      <item name="zoo.collectables.sonja.main.babyBear.title"><![CDATA[Ayı yavrusu]]></item>
+      <item name="zoo.collectables.sonja.babyBear.text"><![CDATA[Ayı yavruları sürekli birbirlerine sarılıyorlardı. Bazıları bakıcılarından hiç ayrılmak istemiyordu.]]></item>
+      <item name="zoo.collectables.sonja.sign.title"><![CDATA[Sarılma ustası]]></item>
+      <item name="zoo.collectables.sonja.sign.text"><![CDATA[Sonia sarılma konusunda uzmandır. Onu işe alın ve hizmetleri karşılığında %12 daha fazla BZ kazanın!]]></item>
+    </category>
+    <category name="zoo.collectables.book">
+      <item name="zoo.collectables.book.tab.animals"><![CDATA[Hayvanlar]]></item>
+      <item name="zoo.collectables.book.tab.cages"><![CDATA[Çayırlar]]></item>
+      <item name="zoo.collectables.book.tab.assistants"><![CDATA[Asistanlar]]></item>
+      <item name="zoo.collectables.book.more"><![CDATA[Daha fazla...]]></item>
+    </category>
+    <category name="zoo.collectables.rewards">
+      <item name="zoo.collectables.book.rewards.unlocked.title"><![CDATA[Kazanç!]]></item>
+      <item name="zoo.collectables.book.rewards.unlocked.text"><![CDATA[Fiyatınızı seçin:]]></item>
+      <item name="zoo.collectables.book.rewards.locked.title"><![CDATA[Toplamaya devam edin...]]></item>
+      <item name="zoo.collectables.book.rewards.locked.text"><![CDATA[... Bu muhteşem ödüller sizi bekliyor:]]></item>
+      <item name="zoo.collectables.book.rewards.button"><![CDATA[Seçmek]]></item>
+    </category>
+  </category>
+</language>

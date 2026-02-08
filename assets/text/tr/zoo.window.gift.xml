@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.gift">
+    <category name="zoo.window.gift.superFeedPack">
+      <item name="zoo.window.gift.superFeedPack.info"><![CDATA[Bugünün fırsatı - süper gıda paketleri! 3 seçenek arasından seçim yapın: "İyi başlangıç", "Usta" ve "Uzman". Uzman olarak, 5 arkadaşınıza ek hediyeler gönderebilirsiniz. Tereddüt etmeyin!]]></item>
+    </category>
+    <category name="zoo.window.gift.recipients">
+      <item name="zoo.window.gift.recipients.headerGift"><![CDATA[Hediye]]></item>
+      <item name="zoo.window.gift.recipients.headerUsername"><![CDATA[Oyuncu adı]]></item>
+      <item name="zoo.window.gift.recipients.headerUserID"><![CDATA[Oyuncu Kimliği]]></item>
+      <item name="zoo.window.gift.recipients.info"><![CDATA[Beş arkadaşınızı seçin ve her birine birer hediye gönderin:]]></item>
+      <item name="zoo.window.gift.recipients.button.send"><![CDATA[Hediye]]></item>
+    </category>
+    <category name="zoo.window.gift.unwrapped">
+      <item name="zoo.window.gift.unwrapped.title"><![CDATA[Bu bir sürpriz olacak!]]></item>
+      <item name="zoo.window.gift.unwrapped.text.1"><![CDATA[Aşağıdaki hediyeyi aldınız:]]></item>
+      <item name="zoo.window.gift.unwrapped.text.2"><![CDATA[Hediye paketi açıldıktan hemen sonra tutarı hesabınızdan çekilecektir.]]></item>
+    </category>
+  </category>
+</language>

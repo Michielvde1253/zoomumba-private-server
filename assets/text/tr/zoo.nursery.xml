@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Merhaba, ben Tina ve bebeklerinize bakıyorum. Onlar benim hayvan kreşimde yetişkin oluyorlar. Envanterinizden büyütmek istediğiniz bebeği seçin.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Büyümeye hazır]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Yavru burada büyüyor.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Yavrunuz büyüdü!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Artırmak]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Özünü kullanın.]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Hemen yükseltin]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Hayvan yetiştiriciliği]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Bude ihned odchován'dan bahsediyoruz:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Kalan süre:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Hemen yükseltin]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Farkına bile varmadan, minik yavrunuz yetişkin olacak!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Büyüme İksiri üreme süresini %50 azaltır.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Yaşasın! Bu bebek büyüdü ve envanterinize eklendi:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Dikkat: Burada bir bebek büyüyor! Bebek odasını envantere taşırsanız işlem kesintiye uğrayacaktır. Şimdi taşımak istediğinizden emin misiniz?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Dikkat: Burada bir bebek büyüyor! Eğer şimdi bebek odasını satarsanız, süreç kesintiye uğrayacaktır. Şimdi satmak istediğinizden emin misiniz?]]></item>
+    </category>
+  </category>
+</language>

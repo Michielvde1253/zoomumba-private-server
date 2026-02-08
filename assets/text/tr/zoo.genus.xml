@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Arakanga Papağanı]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[Bu neşeli papağanlar çok konuşkandır! Onları her zaman çift veya grup halinde tutun. Ziyaretçiler, parlak renkli tüyleriyle bu zeki papağanlara bayılıyor!]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[Pembe flamingo]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[Bu güzel pembe hayvanlar ziyaretçilerin dikkatini çekiyor. Başlıca besinleri plankton olsa da, taze balıktan da hoşlanıyorlar. Tatlıya düşkün kuşlar için harika bir lezzet!]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[Dağ zebrası]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[Her yerde çizgiler, çizgiler, çizgiler! Akıl almaz! Zebra çizgileriyle dolu bir dünyada iyi bir kamuflaj, ama bizim bölgemizde zebralar oldukça komik görünüyor. Zebralar kesinlikle her hayvanat bahçesinde olmalı, bu yüzden bu sizi yanıltmasın!]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Gergedan]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[Bu iri filler yalnız yaşamayı severler. Bu yüzden böyle boynuzlara sahip olmaları şaşırtıcı değil! Güçlü görünümlerine rağmen, nadiren kavga ederler. Bununla birlikte, yalnızca bir erkek ve bir dişiyi bir arada tutmak en iyisidir.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[Amfibi su aygırı]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[Karada hantal devlere benziyorlar, ama görünüş aldatıcı olabilir. Onları kızdırmamaya dikkat edin, çünkü koşmaya başladıklarında yollarına çıkmak tavsiye edilmez. Neyse ki, mahremiyetlerine saygı gösterilirse uysal hayvanlardır.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Mermer desenli zürafa]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[Her zaman bulutların arasında! Zürafalar en tatlı meyvelere ağaçların tepelerinde ulaşırlar. Bu yüzden ağaçların bolca otlanmış olması şaşırtıcı değil. Uzun boyunlarıyla çok yükseğe ulaşırlar ve en çok genç yeşil yaprakları yemeyi severler!]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[Arktik ren geyiği]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[Ren geyikleri çok kuzeyde sürüler halinde yaşarlar. Zorlu Arktik koşullarında bile, korkusuz ren geyikleri hayatta kalacak bir yer bulurlar.]]></item>
+    </category>
+  </category>
+</language>
