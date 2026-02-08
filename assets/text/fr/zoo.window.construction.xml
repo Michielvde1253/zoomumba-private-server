@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.construction">
-    <item name="zoo.window.construction.title"><![CDATA[Konstruktion]]></item>
-    <item name="zoo.window.construction.info"><![CDATA[Um]]></item>
-    <item name="zoo.window.construction.buildinginfo"><![CDATA[Fast fertig! Nur noch:]]></item>
-    <item name="zoo.window.construction.buildinginfo2"><![CDATA[Oder den Gegenstand sofort erhalten (ohne ihn zu bauen):]]></item>
-    <item name="zoo.window.construction.button.buydirectly"><![CDATA[Jetzt kaufen]]></item>
+    <item name="zoo.window.construction.title"><![CDATA[Construction]]></item>
+    <item name="zoo.window.construction.info"><![CDATA[À propos]]></item>
+    <item name="zoo.window.construction.buildinginfo"><![CDATA[Presque terminé ! Juste :]]></item>
+    <item name="zoo.window.construction.buildinginfo2"><![CDATA[Ou obtenez l'objet immédiatement (sans construction) :]]></item>
+    <item name="zoo.window.construction.button.buydirectly"><![CDATA[Achetez maintenant]]></item>
   </category>
 </language>

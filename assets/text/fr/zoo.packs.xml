@@ -2,12 +2,12 @@
 <language>
   <category name="zoo.packs">
     <category name="zoo.packs.resources">
-      <item name="zoo.packs.resources.title.1"><![CDATA[„Good Start“-Superfood-Paket]]></item>
-      <item name="zoo.packs.resources.text.1"><![CDATA[Dieses Paket enthält 40 Einheiten Superfood und 5 Paws. Damit erhalten Sie beim Füttern die 40-fache doppelte BZ-Wirkung und können die Verschönerung Ihrer Terrarien beobachten!]]></item>
-      <item name="zoo.packs.resources.title.2"><![CDATA["Master" Superfood-Paket]]></item>
-      <item name="zoo.packs.resources.text.2"><![CDATA[Dieses Paket enthält 125 Einheiten Superfood und 20 Paws. Damit erhalten Sie 125-fache doppelte BZ und kommen der Verschönerung Ihrer Terrarien einen großen Schritt näher!]]></item>
-      <item name="zoo.packs.resources.title.3"><![CDATA[„Experten“-Superfood-Paket]]></item>
-      <item name="zoo.packs.resources.text.3"><![CDATA[Dieses Paket enthält 350 Einheiten Superfood und 30 Pfoten, aber auch 5 Geschenke mit je 5 Einheiten Superfood für 5 deiner Freunde. So können auch sie von diesem Paket profitieren!]]></item>
+      <item name="zoo.packs.resources.title.1"><![CDATA[Coffret de super-aliments « Good Start »]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Ce pack contient 40 unités de Superfood et 5 Paws. Vous obtiendrez ainsi 40 fois plus de BZ lors de l'alimentation et constaterez des progrès dans l'embellissement de vos enclos !]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA[Coffret de superaliments « Master »]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Ce pack contient 125 unités de Superfood et 20 Paws. Vous obtiendrez ainsi 125 fois plus de BZ double et progresserez dans l'embellissement de vos enclos !]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA[Coffret de superaliments « expert »]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Ce coffret contient 350 unités de super-aliments et 30 pattes, ainsi que 5 cadeaux de 5 unités de super-aliments chacun pour 5 de vos amis. Ils pourront ainsi eux aussi profiter de ce coffret !]]></item>
     </category>
   </category>
 </language>

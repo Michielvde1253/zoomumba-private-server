@@ -2,7 +2,7 @@
 <language>
   <category name="zoo.popup">
     <category name="zoo.popup.cageSlots">
-      <item name="zoo.popup.cageSlots.desc"><![CDATA[Tiere im Gehege:]]></item>
+      <item name="zoo.popup.cageSlots.desc"><![CDATA[Animaux présents dans l'enclos :]]></item>
     </category>
   </category>
 </language>

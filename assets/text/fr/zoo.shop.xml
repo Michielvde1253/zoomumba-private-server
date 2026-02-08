@@ -2,18 +2,18 @@
 <language>
   <category name="zoo.shop">
     <category name="zoo.shop.category">
-      <item name="zoo.shop.category.animals"><![CDATA[Tiere]]></item>
-      <item name="zoo.shop.category.cages"><![CDATA[Lebensräume]]></item>
-      <item name="zoo.shop.category.stores"><![CDATA[Gebäude]]></item>
-      <item name="zoo.shop.category.deco"><![CDATA[Dekorationen]]></item>
-      <item name="zoo.shop.category.resources"><![CDATA[Füttern]]></item>
-      <item name="zoo.shop.category.assistants"><![CDATA[Assistenten]]></item>
-      <item name="zoo.shop.category.specials"><![CDATA[Zubehör]]></item>
-      <item name="zoo.shop.category.roads"><![CDATA[Straßen]]></item>
-      <item name="zoo.shop.category.material"><![CDATA[Material]]></item>
+      <item name="zoo.shop.category.animals"><![CDATA[Animaux]]></item>
+      <item name="zoo.shop.category.cages"><![CDATA[Habitats]]></item>
+      <item name="zoo.shop.category.stores"><![CDATA[Bâtiments]]></item>
+      <item name="zoo.shop.category.deco"><![CDATA[Décorations]]></item>
+      <item name="zoo.shop.category.resources"><![CDATA[Alimentation]]></item>
+      <item name="zoo.shop.category.assistants"><![CDATA[Assistants]]></item>
+      <item name="zoo.shop.category.specials"><![CDATA[Accessoires]]></item>
+      <item name="zoo.shop.category.roads"><![CDATA[Routes]]></item>
+      <item name="zoo.shop.category.material"><![CDATA[Matériel]]></item>
     </category>
     <category name="zoo.shop.tabbar">
-      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[So gelangen Sie zur Werkstatt.]]></item>
+      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Voici comment accéder à l'atelier.]]></item>
     </category>
   </category>
 </language>

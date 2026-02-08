@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.powerUpItems">
-    <item name="zoo.powerUpItems.setName.7"><![CDATA[Pfotenbooster]]></item>
-    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[Der Pfoten-Booster gibt dir 5 Stunden lang 50 % mehr Pfoten. Er wird sofort nach der Auswahl aktiviert.]]></item>
+    <item name="zoo.powerUpItems.setName.7"><![CDATA[Booster de patte]]></item>
+    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[Le bonus « Paw » vous donnera 50 % de pattes supplémentaires pendant 5 heures. Il sera activé immédiatement après la sélection.]]></item>
   </category>
 </language>

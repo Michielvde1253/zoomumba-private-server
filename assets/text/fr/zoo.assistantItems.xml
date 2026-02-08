@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.assistantItems">
-    <item name="zoo.assistantItems.setName.3"><![CDATA[Hausmeister Stanley]]></item>
-    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley sorgt dafür, dass alle Gehege blitzsauber bleiben. Sein Trick: Er bezieht die Tiere mit ein und macht die Reinigung zu einem lustigen Spiel.]]></item>
-    <item name="zoo.assistantItems.setName.4"><![CDATA[Torhüterin Sonja]]></item>
-    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Tierpflegerin Sonja weiß, wie man die Tiere perfekt versorgt. Nur sie kann alle Tiere gleichzeitig streicheln.]]></item>
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Concierge Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley veillera à ce que tous les enclos brillent de propreté. Son astuce ? Faire participer les animaux et transformer le nettoyage en un jeu amusant.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Gardienne Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Sonja, la soigneuse, sait parfaitement s'occuper des animaux. Elle seule peut câliner tous les animaux en même temps.]]></item>
   </category>
 </language>

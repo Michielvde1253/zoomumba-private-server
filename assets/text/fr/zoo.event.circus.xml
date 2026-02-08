@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.event.circus">
-    <item name="zoo.event.circus.bubble"><![CDATA[Willkommen im Wanderzirkus! Wir präsentieren die Überraschungsbox! Kaufe eine Box und erhalte eines von 10 Tieren. Du kannst bis zu 20 Boxen gleichzeitig besitzen und jede Box innerhalb von 5 Stunden öffnen. Viel Spaß!]]></item>
-    <item name="zoo.event.circus.prizes"><![CDATA[Tiere:]]></item>
-    <item name="zoo.event.circus.infoTitle"><![CDATA[Herzliche Glückwunsch!]]></item>
-    <item name="zoo.event.circus.infoText"><![CDATA[Folgende Tiere wurden deinem Inventar hinzugefügt: %animal%. Öffne noch mehr geheimnisvolle Kisten, um noch mehr einzigartige Tiere zu erhalten!]]></item>
-    <item name="zoo.event.circus.warningTitle"><![CDATA[Oh, das tut uns leid!]]></item>
-    <item name="zoo.event.circus.warningText"><![CDATA[Du besitzt bereits 20 mysteriöse Truhen. Warte, bis sich eine davon öffnet, und nimm dir dann eine weitere.]]></item>
-    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Die Überraschungsbox öffnet sich für: %amount%]]></item>
-    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Klicken Sie hier, um Ihre Tiere anzusehen.]]></item>
-    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Willkommen zurück!]]></item>
-    <item name="zoo.event.circus.autoBookText"><![CDATA[Während deiner Abwesenheit bekamen deine Tiere Durst, weil sie in der mysteriösen Kiste nichts zu trinken bekamen. Züchterin Sonia kümmerte sich um sie und brachte sie in ihren Bestand. Schau doch mal kurz nach!]]></item>
+    <item name="zoo.event.circus.bubble"><![CDATA[Bienvenue au cirque itinérant ! Découvrez la Boîte Mystère ! Achetez une boîte et recevez l'un des 10 animaux. Vous pouvez posséder jusqu'à 20 boîtes simultanément, et chaque boîte a jusqu'à 5 heures pour être ouverte. Amusez-vous bien !]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Animaux :]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Toutes mes félicitations !]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[L'animal suivant a été ajouté à votre inventaire : %animal%. Trouvez encore plus de caisses mystérieuses pour obtenir des animaux encore plus uniques !]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Oh, nous sommes désolés !]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Vous avez déjà 20 coffres mystérieux. Attendez que l'un d'eux s'ouvre, puis ouvrez-en un autre.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[La boîte mystère s'ouvrira pour : %montant%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Cliquez pour voir vos animaux]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Content de te revoir!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Pendant votre absence, vos animaux ont eu soif à cause de la mystérieuse caisse. L'éleveuse Sonia s'en est occupée et les a ajoutés à son élevage. Jetez-y un coup d'œil !]]></item>
   </category>
 </language>

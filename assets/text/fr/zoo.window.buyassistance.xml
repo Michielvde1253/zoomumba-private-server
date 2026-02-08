@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.buyassistance">
-    <item name="zoo.window.buyassistance.title"><![CDATA[Helfen]]></item>
-    <item name="zoo.window.buyassistance.info"><![CDATA[Ihr Arbeitsvertrag mit der Reinigungskraft ist abgelaufen.<br>Möchten Sie Slávko erneut einstellen?]]></item>
+    <item name="zoo.window.buyassistance.title"><![CDATA[Aide]]></item>
+    <item name="zoo.window.buyassistance.info"><![CDATA[Votre contrat de travail avec le nettoyeur a expiré.<br>Souhaitez-vous réembaucher Slávko ?]]></item>
     <item name="zoo.window.buyassistance.empty"><![CDATA[#VALUE!]]></item>
   </category>
 </language>

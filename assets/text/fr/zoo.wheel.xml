@@ -2,38 +2,38 @@
 <language>
   <category name="zoo.wheel">
     <category name="zoo.wheel.freeturn">
-      <item name="zoo.wheel.freeturn.title"><![CDATA[Zusätzlicher Versuch]]></item>
-      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Juhu, du hast einen zusätzlichen Versuch!<br> Für jeden Tag, an dem du dich einloggst, erhältst du einen zusätzlichen Dreh am Glücksrad.]]></item>
-      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Klicken Sie und versuchen Sie Ihr Glück!]]></item>
-      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Oder klicke in der Stadt auf das Gebäude mit dem Glücksrad. Jeder Dreh garantiert tolle Gewinne!]]></item>
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Tentative supplémentaire]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Hourra, vous avez droit à une tentative supplémentaire !<br> Pour chaque jour où vous vous connectez, vous obtiendrez un tour supplémentaire sur la roue de la chance.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Cliquez et tentez votre chance !]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Ou cliquez sur le bâtiment où se trouve la roue de la fortune en ville. Chaque tour vous garantit de superbes gains !]]></item>
     </category>
     <category name="zoo.wheel.extraturn">
-      <item name="zoo.wheel.extraturn.title"><![CDATA[Weitere Versuche]]></item>
-      <item name="zoo.wheel.extraturn.text"><![CDATA[Möchten Sie einen weiteren Versuch kaufen?]]></item>
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Nouvelles tentatives]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Souhaiteriez-vous acheter une autre tentative ?]]></item>
     </category>
     <category name="zoo.wheel.price">
-      <item name="zoo.wheel.price.title"><![CDATA[Glückwunsch!]]></item>
-      <item name="zoo.wheel.price.text.1"><![CDATA[Juhu! Du hast gewonnen!]]></item>
-      <item name="zoo.wheel.price.text.2"><![CDATA[Dreh noch einmal, nur am Glücksrad kann man gewinnen!]]></item>
+      <item name="zoo.wheel.price.title"><![CDATA[Félicitations!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Hourra ! Vous avez gagné !]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Faites tourner la roue, vous ne pouvez gagner qu'à la roue de la chance !]]></item>
     </category>
     <category name="zoo.wheel.assistant">
-      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Füttere John für 1 Stunde]]></item>
-      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Wasserlieferant Paul für 1 Stunde]]></item>
-      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Hausmeister Stanley für 1 Stunde]]></item>
-      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Züchterin Sonja für 1 Stunde]]></item>
-      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Müllmann George für 1 Stunde]]></item>
-      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Kassierer/in (1 Stunde)]]></item>
-      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Füttere John für 3 Stunden]]></item>
-      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Wasserlieferant Paul für 3 Stunden]]></item>
-      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Hausmeister Stanley für 3 Stunden]]></item>
-      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Züchterin Sonja für 3 Stunden]]></item>
-      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Müllmann George für 3 Stunden]]></item>
-      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Kassierer/in (3 Stunden)]]></item>
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Nourrissez John pendant 1 heure]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Paul, le fournisseur d'eau, pendant 1 heure]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Concierge Stanley pendant 1 heure]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Éleveuse Sonja pendant 1 heure]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[George, le collecteur d'ordures, pendant 1 heure]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Caissier(ère) pendant 1 heure]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Nourrissez John pendant 3 heures]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Paul, le fournisseur d'eau, pendant 3 heures]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Concierge Stanley pendant 3 heures]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Éleveuse Sonja pendant 3 heures]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[George, l'éboueur, pendant 3 heures]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Caissier(ère) pendant 3 heures]]></item>
     </category>
     <category name="zoo.wheel.extra">
-      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[30 % EP-Bonus für volle 8 Stunden!]]></item>
-      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100 % EP-Bonus für volle 8 Stunden!]]></item>
-      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50 % Pfotenbonus für volle 5 Stunden!]]></item>
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[Bonus de 30 % d'EP pendant 8 heures complètes !]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[Bonus de 100% d'EP pendant 8 heures complètes !]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[Bonus de 50% pour les pattes pendant 5 heures complètes !]]></item>
     </category>
   </category>
 </language>

@@ -2,24 +2,24 @@
 <language>
   <category name="zoo.storage">
     <category name="zoo.storage.moreSpace">
-      <item name="zoo.storage.moreSpace.title"><![CDATA[Erweitere deinen Zoo!]]></item>
-      <item name="zoo.storage.moreSpace.text"><![CDATA[Du kannst diesen Artikel erst kaufen, wenn du %neededExpansion% Zoo-Erweiterungen besitzt. Aktuell hast du nur %userExpansion% Zoo-Erweiterungen. Möchtest du deinen Zoo jetzt erweitern, um diesen Artikel kaufen zu können?]]></item>
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Agrandissez votre zoo !]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Vous ne pouvez acheter cet objet que si vous possédez %neededExpansion% d'extensions de zoo. Actuellement, vous n'en possédez que %userExpansion%. Souhaitez-vous agrandir votre zoo dès maintenant pour pouvoir acheter cet objet ?]]></item>
     </category>
     <category name="zoo.storage.firstExpansion">
-      <item name="zoo.storage.firstExpansion.title"><![CDATA[Wasserturm und Lagerhalle]]></item>
-      <item name="zoo.storage.firstExpansion.text"><![CDATA[Super! Du hast endlich genug Platz, um deinen ersten Wasserturm und dein erstes Speichergebäude zu bauen. Beides ist kostenlos in deinem Inventar. Jetzt kann das Spiel beginnen!]]></item>
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[château d'eau et entrepôt]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Super ! Vous avez enfin assez d'espace pour construire votre premier château d'eau et votre premier entrepôt. Ces deux éléments sont disponibles gratuitement dans votre inventaire. Que la partie commence !]]></item>
     </category>
     <category name="zoo.storage.buy">
-      <item name="zoo.storage.buy.belowWater"><![CDATA[Die maximale Kapazität des Wasserturms beträgt %Kapazität%. Dieser Wert kann auch durch den Kauf des Gebäudes nicht erhöht werden. Möchten Sie es trotzdem kaufen?]]></item>
-      <item name="zoo.storage.buy.belowFood"><![CDATA[Die maximale Kapazität Ihres Vorratslagers beträgt %Kapazität%. Dieser Wert kann auch durch den Kauf dieses Gebäudes nicht erhöht werden. Möchten Sie es trotzdem kaufen?]]></item>
-      <item name="zoo.storage.buy.maxWater"><![CDATA[Sie haben %capacity% Ihrer Wasserkapazität zur Verfügung. Sie können kein weiteres Wasser speichern. Dieses Gebäude erhöht Ihre Kapazität nicht. Möchten Sie es trotzdem kaufen?]]></item>
-      <item name="zoo.storage.buy.maxFood"><![CDATA[Sie haben %capity% Ihrer Lagerkapazität frei. Sie können nichts mehr einlagern. Dieses Gebäude erhöht Ihre Kapazität nicht. Möchten Sie es trotzdem kaufen?]]></item>
+      <item name="zoo.storage.buy.belowWater"><![CDATA[La capacité maximale du château d'eau est de %capacité%. Cette valeur ne peut être augmentée, même en achetant ce bâtiment. Voulez-vous toujours l'acheter ?]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[La capacité maximale de votre entrepôt est de %capacité%. Cette valeur ne peut être augmentée, même en achetant ce bâtiment. Voulez-vous toujours l'acheter ?]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[Votre capacité de stockage d'eau est actuellement saturée (%% de votre capacité). Vous ne pouvez plus stocker d'eau. Ce bâtiment n'augmentera pas votre capacité. Voulez-vous tout de même l'acheter ?]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[Votre capacité de stockage disponible est de %%. Vous ne pouvez plus stocker d'objets. Ce bâtiment n'augmentera pas votre capacité. Voulez-vous tout de même l'acheter ?]]></item>
     </category>
     <category name="zoo.storage.capacity">
-      <item name="zoo.storage.capacity.title"><![CDATA[Speicherkapazität]]></item>
-      <item name="zoo.storage.capacity.text"><![CDATA[Ihre Tiere benötigen viel Futter und Wasser. Hier sehen Sie, wie viel Sie jeweils zur Verfügung haben und wie Sie die Vorräte erweitern können.]]></item>
-      <item name="zoo.storage.capacity.water"><![CDATA[Wasser - Kapazität]]></item>
-      <item name="zoo.storage.capacity.food"><![CDATA[Zufuhr - Kapazität]]></item>
+      <item name="zoo.storage.capacity.title"><![CDATA[capacité de stockage]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[Vos animaux ont besoin de beaucoup d'eau et de nourriture. Vous pouvez voir ici les quantités disponibles et les possibilités d'augmentation.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Capacité en eau]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Capacité d'alimentation]]></item>
     </category>
   </category>
 </language>
