@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Σκουπιδοτενεκές]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Οι άνθρωποι αφήνουν πίσω τους σκουπίδια! Όσο περισσότερους κάδους απορριμμάτων έχετε στον ζωολογικό κήπο σας, τόσο λιγότερο χρειάζεται να καθαρίζετε μετά τους επισκέπτες.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Κάδος απορριμμάτων μούμιας]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Αχ... θέλω σκουπίδια!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Φάντασμα Κάδου Σκουπιδιών]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Ωωωωωω... Σκουπίδια]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Βαμπίρ κάδου απορριμμάτων]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Χρειάζομαι κάτι να δαγκώσω. Δώσε μου τα σκουπίδια σου!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Τέρας από κάδο απορριμμάτων]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Μμμμμ ... Καλό το σκουπίδι!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Κάδος απορριμμάτων γενεθλίων]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Μμμμμ, χαρτί περιτυλίγματος!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Κάδος απορριμμάτων για φάλαινες]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA[«Θα καταπιώ όλα τα σκουπίδια σου!»]]></item>
+  </category>
+</language>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.crafting">
+    <item name="zoo.window.crafting.intro.blueprintRewards"><![CDATA[Έχετε συλλέξει %mycards% από τα σχέδια κατασκευής %allcards%!]]></item>
+    <item name="zoo.window.crafting.intro.title"><![CDATA[Συνεργείο]]></item>
+    <item name="zoo.window.crafting.intro.text"><![CDATA[Χειροτεχνίτες και χομπίστες, προσοχή! Χρησιμοποιήστε τα υλικά σας για να κατασκευάσετε νέους περιβόλους, κτίρια, διακοσμητικά ή μονοπάτια. Απλώς επιλέξτε μια κατηγορία παρακάτω και προχωρήστε στο επόμενο στάδιο παραγωγής.]]></item>
+    <item name="zoo.window.crafting.intro.chooseCategorie"><![CDATA[Επιλέξτε μια κατηγορία:]]></item>
+    <item name="zoo.window.crafting.produce.text"><![CDATA[Είναι πολύ απλό: Κάτω αριστερά βλέπετε τι παράγεται αυτήν τη στιγμή. Το σχέδιο κατασκευής σας δείχνει ποια υλικά χρειάζεστε. Πάνω από αυτό βλέπετε τον χρόνο παραγωγής και τον αριθμό των ποδιών που πρέπει να πληρώσετε. Καταλαβαίνετε; Εντάξει, μετά κάντε κλικ στην επιλογή "Έναρξη".]]></item>
+    <item name="zoo.window.crafting.produce.button"><![CDATA[Αρχή]]></item>
+    <item name="zoo.window.crafting.progress.title"><![CDATA[Συνεργείο]]></item>
+    <item name="zoo.window.crafting.progress.text"><![CDATA[Η παραγωγή βρίσκεται σε εξέλιξη!]]></item>
+    <item name="zoo.window.crafting.progress.time"><![CDATA[Διάρκεια:]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.title"><![CDATA[Παράγετε αμέσως]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.text"><![CDATA[Εξοικονομήστε χρόνο και ολοκληρώστε την παραγωγή άμεσα!]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.button"><![CDATA[Πλήρης]]></item>
+    <item name="zoo.window.crafting.progress.layer.elixir.text"><![CDATA[Επιτάχυνση και ολοκλήρωση της παραγωγής στο μισό χρόνο.]]></item>
+    <item name="zoo.window.crafting.progress.button.elixir"><![CDATA[Επιταχύνω]]></item>
+    <item name="zoo.window.crafting.success.text"><![CDATA[Ζήτω! Όλα έτοιμα: το αντικείμενο που μόλις κατασκευάσατε μπορεί να βρεθεί στο απόθεμά σας!]]></item>
+    <item name="zoo.window.crafting.blueprint.text"><![CDATA[Ζήτω! Μόλις έλαβες ένα σχέδιο κατασκευής! Πήγαινε στο εργαστήριο και κατασκεύασε ένα νέο αντικείμενο για τον ζωολογικό σου κήπο!]]></item>
+  </category>
+</language>

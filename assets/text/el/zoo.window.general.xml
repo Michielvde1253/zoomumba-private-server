@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.general">
+    <item name="zoo.window.general.error"><![CDATA[Σφάλμα]]></item>
+    <item name="zoo.window.general.petPenny_singular"><![CDATA[Ζούγκρος]]></item>
+    <item name="zoo.window.general.petPenny_plural"><![CDATA[Ζούγκρος]]></item>
+    <item name="zoo.window.general.petPaw_singular"><![CDATA[Πόδι ζώου]]></item>
+    <item name="zoo.window.general.petPaw_plural"><![CDATA[Πόδι ζώου]]></item>
+    <item name="zoo.window.general.zooDollar_singular"><![CDATA[Ζωοδόλαρος]]></item>
+    <item name="zoo.window.general.zooDollar_plural"><![CDATA[Ζωοδολάρια]]></item>
+    <item name="zoo.window.general.xp_singular"><![CDATA[Πόντος εμπειρίας]]></item>
+    <item name="zoo.window.general.xp_plural"><![CDATA[Πόντοι εμπειρίας]]></item>
+    <item name="zoo.window.general.attractivity_singular"><![CDATA[Ελκυστικότητα]]></item>
+    <item name="zoo.window.general.start"><![CDATA[Αρχή]]></item>
+    <item name="zoo.window.general.skip"><![CDATA[Παραλείπω]]></item>
+    <item name="zoo.window.general.next"><![CDATA[Αλλος]]></item>
+    <item name="zoo.window.general.prev"><![CDATA[Πίσω]]></item>
+    <item name="zoo.window.general.first"><![CDATA[Πρώτα]]></item>
+    <item name="zoo.window.general.last"><![CDATA[Τελευταίος]]></item>
+    <item name="zoo.window.general.congrats"><![CDATA[Θερμά συγχαρητήρια!]]></item>
+    <item name="zoo.window.general.specialOffer"><![CDATA[Δράση!]]></item>
+    <item name="zoo.window.general.attention"><![CDATA[Προσοχή!]]></item>
+    <item name="zoo.window.general.sorry"><![CDATA[Ζητούμε συγγνώμη.]]></item>
+    <item name="zoo.window.general.goodbye"><![CDATA[Αντίο!]]></item>
+    <item name="zoo.window.general.thankyou"><![CDATA[Ευχαριστώ!]]></item>
+    <item name="zoo.window.general.second"><![CDATA[δευτ.]]></item>
+    <item name="zoo.window.general.seconds"><![CDATA[δευτερόλεπτα]]></item>
+    <item name="zoo.window.general.minute"><![CDATA[λεπτό]]></item>
+    <item name="zoo.window.general.minutes"><![CDATA[λεπτά]]></item>
+    <item name="zoo.window.general.hour"><![CDATA[ώρα]]></item>
+    <item name="zoo.window.general.hours"><![CDATA[ώρες]]></item>
+    <item name="zoo.window.general.day"><![CDATA[ημέρα]]></item>
+    <item name="zoo.window.general.days"><![CDATA[ημέρες]]></item>
+    <item name="zoo.window.general.week"><![CDATA[Εβδομάδα]]></item>
+    <item name="zoo.window.general.weeks"><![CDATA[εβδομάδες]]></item>
+    <item name="zoo.window.general.month"><![CDATA[μήνας]]></item>
+    <item name="zoo.window.general.months"><![CDATA[μήνες]]></item>
+    <item name="zoo.window.general.year"><![CDATA[έτος]]></item>
+    <item name="zoo.window.general.years"><![CDATA[πτήση]]></item>
+  </category>
+</language>

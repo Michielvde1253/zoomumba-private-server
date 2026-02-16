@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.confirmation">
+    <item name="zoo.window.confirmation.closegame.title"><![CDATA[Τέλος παιχνιδιού]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[Αυτός ο ζωολογικός κήπος δεν είναι ακόμη διαθέσιμος. Μπορείτε να τον ξεκλειδώσετε φτάνοντας στις %level% επεκτάσεις στον ακόλουθο ζωολογικό κήπο: %zooName%. Ή να τον ξεκλειδώσετε αμέσως για %zooDollar% zoodollars.]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[Για να ξεκλειδώσετε αυτόν τον ζωολογικό κήπο, πρέπει να βρίσκεστε στο επίπεδο %level%. Ή ξεκλειδώστε τον αμέσως για %zooDollar% zoodollars.]]></item>
+    <item name="zoo.window.confirmation.map.level"><![CDATA[Πρέπει να είσαι στο επίπεδο %level% για να ξεκλειδώσεις αυτόν τον ζωολογικό κήπο.]]></item>
+    <item name="zoo.window.confirmation.map.buy"><![CDATA[Θέλετε να αγοράσετε μια επέκταση ζωολογικού κήπου;]]></item>
+    <item name="zoo.window.confirmation.title.buy"><![CDATA[Αγορά]]></item>
+    <item name="zoo.window.confirmation.closegame.info"><![CDATA[Θέλεις πραγματικά να βγεις από το ZooMumba;]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.title"><![CDATA[Αγοράστε αντικείμενα]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.info"><![CDATA[Θέλετε πραγματικά να αγοράσετε αυτό το αντικείμενο;]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.title"><![CDATA[Αγοράστε μετακόμιση]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.info"><![CDATA[Θέλεις να κάνεις αυτή την κίνηση για τα ζωο-δολάρια;]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.title"><![CDATA[Πωλώ]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Θέλετε πραγματικά να πουλήσετε αυτό το αντικείμενο;]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[Προειδοποίηση]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[Αν τοποθετήσετε το περίβλημα στο απόθεμά σας, θα χάσει την αναβάθμιση δράσης του.<br><br>Θέλετε να συνεχίσετε;]]></item>
+    <category name="zoo.window.confirmation.gift">
+      <item name="zoo.window.confirmation.gift.title"><![CDATA[Προσοχή!]]></item>
+      <item name="zoo.window.confirmation.gift.info"><![CDATA[Δεν έχεις επιλέξει ακόμα τους 5 φίλους σου! Αν συνεχίσεις, τα δώρα σου θα χαθούν. Θα ήταν κρίμα... Θέλεις ακόμα να συνεχίσεις;]]></item>
+    </category>
+  </category>
+</language>

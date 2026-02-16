@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.infoLayers">
+    <category name="zoo.window.infoLayers.forgottenZoo">
+      <item name="zoo.window.infoLayers.forgottenZoo.title"><![CDATA[Κρυμμένος Ζωολογικός Κήπος]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.info"><![CDATA[Συγχαρητήρια! Με την 3η επέκταση, το βασίλειο του Κρυμμένου Ζωολογικού Κήπου είναι τώρα στα πόδια σας! Το βέλος στο πάρκινγκ θα σας κατευθύνει προς τον Κρυμμένο Ζωολογικό Κήπο.]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.expansion"><![CDATA[Για περιορισμένο χρονικό διάστημα, μπορείτε να επεκτείνετε τον Μυστικό Ζωολογικό Κήπο σας στο μέγιστο μέγεθος με μία μόνο αγορά! Μεταβείτε στον Μυστικό Ζωολογικό Κήπο σας, ανοίξτε το κατάστημα και κάντε κλικ στην επιλογή "Πρόσθετα". Θα βρείτε την προσφορά εδώ!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemreward">
+      <item name="zoo.window.infoLayers.itemreward.recycling.title"><![CDATA[Η ανακύκλωση ήταν επιτυχής!]]></item>
+      <item name="zoo.window.infoLayers.itemreward.recycling.info"><![CDATA[Τέλεια, άξιζε τον κόπο! Ανακυκλώσατε αυτά τα υλικά από τα σκουπίδια. Θα τα βρείτε στο απόθεμά σας.]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.title"><![CDATA[Κουτί έκπληξης]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.info"><![CDATA[Ζήτω! Το κουτί-έκπληξη έχει γεμίσει με τα παραπάνω υλικά, τα οποία μπορείτε να χρησιμοποιήσετε για περαιτέρω επεξεργασία. Μπορείτε να τα βρείτε στο απόθεμά σας.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedingLabNursery">
+      <item name="zoo.window.infoLayers.breedingLabNursery.info"><![CDATA[Εκτρέφετε νέα είδη ζώων! Ο σταθμός αναπαραγωγής και το φυτώριο ζώων είναι τώρα διαθέσιμα! Κάντε κλικ στον μπλε ελέφαντα: Μπορείτε να βρείτε τα κτίρια στο κέντρο ελέγχου.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterNotification">
+      <item name="zoo.window.infoLayers.easterNotification.title"><![CDATA[Πασχαλινές αγορές]]></item>
+      <item name="zoo.window.infoLayers.easterNotification.text"><![CDATA[Το αγορασμένο αντικείμενο έχει αποθηκευτεί στο απόθεμά σας.<br><br>Θέλετε να ανοίξετε το απόθεμά σας τώρα;]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterComic">
+      <item name="zoo.window.infoLayers.easterComic.layer1.bubble"><![CDATA[Καλώς ορίσατε στην εκδήλωση του Πάσχα! Από <b>21 έως 27 Απριλίου</b>, το Πασχαλινό Λαγουδάκι θα μοιράζει αυγά. Συλλέξτε τα, σας περιμένουν μεγάλες ανταμοιβές. Κάντε κλικ στο βέλος για να μάθετε περισσότερα.]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer2.content"><![CDATA[Οι υπέροχες πασχαλινές διακοσμήσεις θα σας κερδίσουν 50% περισσότερα χρήματα για όλες τις εκδηλώσεις στους περιφραγμένους χώρους για 7 ημέρες. Βγάλτε φωτογραφίες από τον πασχαλινό σας ζωολογικό κήπο και μοιραστείτε τις με τους φίλους σας στο Facebook ή στο φόρουμ!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.header"><![CDATA[Πάμε να ψάξουμε για πασχαλινά αυγά!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.content"><![CDATA[Τα χαριτωμένα πασχαλινά ρηλάξ θα προσελκύσουν πολλούς πελάτες. Και το καλύτερο; Θα παραμείνουν στον ζωολογικό σας κήπο ακόμα και μετά το Πάσχα - όπως αρμόζει σε ένα σωστό αξιοθέατο!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer4.content"><![CDATA[Το πασχαλινό περίβλημα αποτελεί πάντα ένα αξιοθέατο, ανεξάρτητα από το ποια ζώα ζουν σε αυτό. Τα πασχαλινά περίβλημα θα σας προσφέρουν 20% περισσότερο BZ από την αρχή!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.bubble"><![CDATA[Το Πασχαλινό Λαγουδάκι μοιράζει αυγά τακτικά. Αλλά μόλις υπάρξουν περισσότερα από 5 αυγά στον ζωολογικό κήπο σας, η ωοτοκία θα έχει τελειώσει. Συμβουλή: Αν θέλετε να βεβαιωθείτε ότι μαζεύετε όλα τα αυγά κάθε φορά, ζητήστε τη συμβουλή της βοηθού σας για το Πάσχα, της Σόνια!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.content"><![CDATA[Ένα λαγουδάκι δεν σου φτάνει; Τότε υπάρχουν κι άλλα πασχαλινά λαγουδάκια που σε περιμένουν στο τμήμα με τα αξεσουάρ του καταστήματος. Απλώς ρίξε μια ματιά!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Notification">
+      <item name="zoo.window.infoLayers.easter2012Notification.title"><![CDATA[Πασχαλινές αγορές]]></item>
+      <item name="zoo.window.infoLayers.easter2012Notification.text"><![CDATA[Το αγορασμένο αντικείμενο έχει αποθηκευτεί στο απόθεμά σας.<br><br>Θέλετε να ανοίξετε το απόθεμά σας τώρα;]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Comic">
+      <item name="zoo.window.infoLayers.easter2012Comic.layer1.bubble"><![CDATA[Γιορτάστε το Πάσχα στον ζωολογικό σας κήπο! Το κυνήγι πασχαλινών αυγών θα πραγματοποιηθεί από τις 5 έως τις 11 Απριλίου! Συμμετέχετε σε αυτή την πασχαλινή υπερπαραγωγή και κερδίστε υπέροχα δώρα και εκπλήξεις! Δείτε πώς:]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και βρείτε όλα τα πολύχρωμα αυγά στα περιβλήματά σας. Συλλέξτε και επιστρέψτε τα αυγά στο ταμπλό του Πάσχα.<br><br>Σημείωση: ο αριθμός των αυγών στα χωράφια σας διπλασιάζεται σε κάθε γύρο!]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer3.content"><![CDATA[Ρίξτε τα πασχαλινά αυγά στο αντίστοιχο πεδίο παιχνιδιού. Έχουμε κόκκινα, πράσινα και μπλε πεδία. Φανταστικές πασχαλινές ανταμοιβές και χαριτωμένα ζώα σας περιμένουν!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.fullScreen">
+      <item name="zoo.window.infoLayers.fullScreen.keyboard"><![CDATA[Θέλετε να κλείσετε την προεπισκόπηση πλήρους οθόνης για να μπορείτε να πληκτρολογήσετε ξανά;]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventUpgrade">
+      <item name="zoo.window.infoLayers.eventUpgrade"><![CDATA[Δώστε στα περίβλημά σας μια ακόμη πιο ξεχωριστή εμφάνιση γενεθλίων και θα έχετε 125% BZ και μεγαλύτερη πιθανότητα να εμφανιστούν μπαλόνια κατά τη διάρκεια της εκδήλωσης γενεθλίων!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolbar">
+      <item name="zoo.window.infoLayers.toolbar.title"><![CDATA[Δώρο]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info1"><![CDATA[Τέλεια! Λάβατε ένα μπόνους γραμμής εργαλείων για τη σύνδεση:]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info2"><![CDATA[Συνδεθείτε ξανά αύριο χρησιμοποιώντας τη γραμμή εργαλείων και κερδίστε ένα ακόμη μπόνους!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemInInventory">
+      <item name="zoo.window.infoLayers.itemInInventory.title"><![CDATA[Συγχαρητήρια!]]></item>
+      <item name="zoo.window.infoLayers.itemInInventory.text"><![CDATA[Έχετε αγοράσει το ακόλουθο αντικείμενο για το απόθεμά σας:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.animalInInventory">
+      <item name="zoo.window.infoLayers.animalInInventory.text"><![CDATA[Το ακόλουθο ζώο έχει προστεθεί στο απόθεμά σας:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemRedeemed">
+      <item name="zoo.window.infoLayers.itemRedeemed.title"><![CDATA[Συγχαρητήρια!]]></item>
+      <item name="zoo.window.infoLayers.itemRedeemed.success"><![CDATA[Η ανταμοιβή σας έχει πιστωθεί.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.action.sorry">
+      <item name="zoo.window.infoLayers.action.sorry.title"><![CDATA[Ζητούμε συγγνώμη! ...]]></item>
+      <item name="zoo.window.infoLayers.action.sorry.text"><![CDATA[Λυπούμαστε, αλλά αυτή η εκδήλωση δεν είναι διαθέσιμη προς το παρόν.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.purchaseConfirmed">
+      <item name="zoo.window.infoLayers.purchaseConfirmed.title"><![CDATA[Συγχαρητήρια!]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.simple"><![CDATA[Η αγορά πιστώθηκε.]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.gift"><![CDATA[Η αγορά σας έχει πιστωθεί και τα δώρα σας έχουν αποσταλεί.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.welcomeBack">
+      <item name="zoo.window.infoLayers.welcomeBack.title"><![CDATA[Καλώς ήρθες πίσω!]]></item>
+      <item name="zoo.window.infoLayers.welcomeBack.text"><![CDATA[Τα ζώα χαίρονται πολύ που σε ξαναβλέπουν.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedInInventory">
+      <item name="zoo.window.infoLayers.breedInInventory.title"><![CDATA[Προσοχή!]]></item>
+      <item name="zoo.window.infoLayers.breedInInventory.text"><![CDATA[Η αναπαραγωγή βρίσκεται αυτήν τη στιγμή σε εξέλιξη εδώ.<br> <br>Εάν μετακινήσετε το περίβλημα στο απόθεμα, η διαδικασία αναπαραγωγής θα ακυρωθεί.<br> <br>Θέλετε πραγματικά να συνεχίσετε;]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.collectables">
+      <item name="zoo.window.infoLayers.collectables.firstFinish.title"><![CDATA[Συγχαρητήρια!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.text"><![CDATA[Μπραβο! Βρήκες όλα τα μέρη της %collection% για πρώτη φορά!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.button.socialShare"><![CDATA[Εμφάνιση φίλων]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.title"><![CDATA[Συγχαρητήρια!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.text"><![CDATA[Ολοκληρώσατε την %collection% για δεύτερη φορά!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.button.getGift"><![CDATA[Χρήση]]></item>
+      <item name="zoo.window.infoLayers.collectables.button.viewCollection"><![CDATA[Προβολή συλλογής]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.adamPenguin">
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.title"><![CDATA[Κορυφαίο πακέτο "Μαύρος Πάνθηρας"]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.text"><![CDATA[Τώρα και εδώ και μόνο μία φορά διαθέσιμο. Το "Black Panther" είναι εδώ αποκλειστικά για εσάς. Και κάτι επιπλέον όπως όλοι οι βοηθοί για 24 ώρες δωρεάν!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.title"><![CDATA[Πακέτο «Λευκή Τίγρης»]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.text"><![CDATA[Μοναδική προσφορά - "συνδυαστικό πακέτο" για ένα εξαιρετικό ξεκίνημα! Ο εξοπλισμός σας για το ξεκίνημα σε μια εξαιρετική προσφορά!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.title"><![CDATA[Πακέτο "Τεράριουμ"]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.text"><![CDATA[Μοναδική προσφορά - "συνδυαστικό πακέτο" για ένα εξαιρετικό ξεκίνημα! Ο εξοπλισμός σας για το ξεκίνημα σε μια εξαιρετική προσφορά!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.title"><![CDATA[Πακέτο "Prairie"]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.text"><![CDATA[Μοναδική προσφορά - "συνδυαστικό πακέτο" για ένα εξαιρετικό ξεκίνημα! Ο εξοπλισμός σας για το ξεκίνημα σε μια εξαιρετική προσφορά!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.title"><![CDATA[Μπόνους πιστότητας]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.text"><![CDATA[Διαθέσιμο μόνο εδώ: ένα πακέτο Zoodollars με το προσωπικό σας μπόνους επιβράβευσης! Κάντε κλικ στην επιλογή "αγορά" και λάβετε περισσότερα μπόνους.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.payment">
+      <item name="zoo.window.infoLayers.payment.happyHourHeader"><![CDATA[Zoodollars συν %percent%%!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBody"><![CDATA[Τώρα η επιθυμία σου θα γίνει πραγματικότητα!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_1"><![CDATA[Αποκτήστε επιπλέον ζωο-δολλάρια σήμερα!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_2"><![CDATA[Αγοράστε, για παράδειγμα, 100 zoodollars και κερδίστε συνολικά %extradollar% zoodollars!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_3"><![CDATA[Ισχύει για όλες τις μεθόδους πληρωμής εκτός από την μεταφορά.]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourFin"><![CDATA[Μην διστάσετε! Η προσφορά εξακολουθεί να ισχύει:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.conversionPack">
+      <item name="zoo.window.infoLayers.conversionPack_header"><![CDATA[Αποκλειστικά - μόνο %priceCurrency%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_save"><![CDATA[Εξοικονομήστε %εξοικονόμηση%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_footer"><![CDATA[Και πολλά άλλα...]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_infoHeader"><![CDATA[Μην διστάσετε και εξοικονομήστε %savings%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info1"><![CDATA[<ul><li>1 ζευγάρι θηλυκά σκυλιά</li><li>1 x περίβλημα σαβάνας</li><li>1 λιμνούλα κύκνων</li><li>15x υπερτροφή</li><li>15x η καλύτερη τροφή</li><li>10x υπερφάρμακο</li><li>75 zoodollars</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info2"><![CDATA[<ul><li>1 ζευγάρι λύγκες</li><li>και οι 6 βοηθοί για 24 ώρες</li><li>1 περίβλημα βράχου</li><li>1 άγαλμα πουλιού dodo</li><li>25x superfood</li><li>25x το καλύτερο φαγητό</li><li>25x supermedicine</li><li>150 zoodol]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info3"><![CDATA[<ul><li>1 ζευγάρι λευκές τίγρεις</li><li>και οι 6 βοηθοί για 24 ώρες</li><li>1 περίβλημα τούνδρας</li><li>1 άγαλμα της ελευθερίας της αρκούδας</li><li>40x superfood</li><li>35x το καλύτερο φαγητό</li><li>30x supermedicine</li><li>200 </li><li>200]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.paymentBug">
+      <item name="zoo.window.infoLayers.paymentBug.title"><![CDATA[Αγαπητοί παίκτες]]></item>
+      <item name="zoo.window.infoLayers.paymentBug.info"><![CDATA[Λόγω σφάλματος, σας πιστώθηκαν πάρα πολλά αντικείμενα στο πακέτο σας. Δυστυχώς, πρέπει να αφαιρέσουμε αυτά τα αντικείμενα, καθώς δεν θα ήταν δίκαιο για τους παίκτες που αγόρασαν το ίδιο πακέτο. Σας έχουμε πιστώσει 500 πόδια ως αποζημίωση για αυτήν την παρεξήγηση.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventPack">
+      <item name="zoo.window.infoLayers.eventPack_header"><![CDATA[Αποκτήστε ένα μοναδικό χριστουγεννιάτικο καλάθι!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title1"><![CDATA[Θέλετε να κάνετε την χριστουγεννιάτικη εκδήλωσή σας πιο γρήγορη; Αποκτήστε ένα μικρό χριστουγεννιάτικο καλάθι που μπορεί να αγοραστεί μόνο μία φορά!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info1"><![CDATA[<ul><li>10x ζαχαρωμένα μήλα</li><li>3x Tolia Essence</li><li>3x Growth Potion</li><li>5x Superfood</li><li>5x Το καλύτερο φαγητό</li><li>25 Zoodollars</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title2"><![CDATA[Θέλετε να κάνετε την χριστουγεννιάτικη εκδήλωσή σας πιο γρήγορη; Αποκτήστε ένα μεγάλο χριστουγεννιάτικο καλάθι που μπορεί να αγοραστεί μόνο μία φορά!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info2"><![CDATA[<ul><li>60x ζαχαρωμένα μήλα</li><li>και οι 7 βοηθοί για 24 ώρες</li><li>20x tolija essence</li><li>20x φίλτρο ανάπτυξης</li><li>20x superfood</li><li>20x το καλύτερο φαγητό</li><li>50 zoodollars</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.cinema">
+      <item name="zoo.window.infoLayers.cinema.limit"><![CDATA[Δυστυχώς, δεν έχετε πλέον εισιτήρια κινηματογράφου.]]></item>
+      <item name="zoo.window.infoLayers.cinema.success1"><![CDATA[Γιούπι! Ορίστε η ανταμοιβή σου που παρακολούθησες την ταινία:]]></item>
+      <item name="zoo.window.infoLayers.cinema.success2"><![CDATA[Η πίστωση θα εφαρμοστεί εντός της επόμενης ώρας.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012">
+      <item name="zoo.window.infoLayers.easter2012.limit"><![CDATA[Δεν έχεις αρκετά πασχαλινά αυγά.]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success1"><![CDATA[Μπραβο! Κερδίσατε την ακόλουθη ανταμοιβή:]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success2"><![CDATA[Καλή τύχη στην εύρεση αυγών!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.avatar">
+      <item name="zoo.window.infoLayers.avatar.Check"><![CDATA[Το avatar σας αποθηκεύτηκε με επιτυχία.]]></item>
+      <item name="zoo.window.infoLayers.avatar.X"><![CDATA[Είστε σίγουροι ότι θέλετε να κλείσετε αυτό το παράθυρο; Το avatar σας δεν έχει αποθηκευτεί ακόμα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.saveAssets">
+      <item name="zoo.window.infoLayers.saveAssets.text1"><![CDATA[Θέλετε το παιχνίδι σας να φορτώνει πιο γρήγορα; Το ZooMumba έχει πολύ γραφικά. Αν θέλετε, μπορούμε να αποθηκεύσουμε τις εικόνες απευθείας στον σκληρό σας δίσκο. Με αυτόν τον τρόπο, το παιχνίδι θα φορτώνει πολύ πιο γρήγορα!]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text2"><![CDATA[Για να ενεργοποιήσετε αυτές τις αλλαγές, απλώς κάντε κλικ στην επιλογή "Να επιτρέπεται" την επόμενη φορά που θα εμφανιστεί το παράθυρο. Διαφορετικά, τα δεδομένα του παιχνιδιού θα συνεχίσουν να αποθηκεύονται στην προσωρινή μνήμη του προγράμματος περιήγησής σας.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text3"><![CDATA[Αν αποφασίσετε διαφορετικά, απλώς ανοίξτε τις ρυθμίσεις του ZooMumba και ενεργοποιήστε ή απενεργοποιήστε την προσωρινή αποθήκευση.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.yes"><![CDATA[Ναι, αποθήκευση στον σκληρό δίσκο (συνιστάται)]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.no"><![CDATA[Όχι, συνέχιση χρήσης της προσωρινής μνήμης του προγράμματος περιήγησης]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.doublexp">
+      <item name="zoo.window.infoLayers.doublexp.allitems"><![CDATA[Ανέβα επίπεδο πιο γρήγορα! Κέρδισε διπλάσια ποσότητα BZ για δραστηριότητες στα χωράφια!]]></item>
+      <item name="zoo.window.infoLayers.doublexp.specialitems"><![CDATA[Κερδίστε επιπλέον πόντους εμπειρίας! Αυτά τα ζώα θα σας δώσουν διπλή δόση BZ:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.specialShopItem">
+      <item name="zoo.window.infoLayers.specialShopItem.title"><![CDATA[Σούπερ προσφορά: Μόνο για λίγο καιρό!]]></item>
+      <item name="zoo.window.infoLayers.specialShopItem.infotext"><![CDATA[Σήμερα είναι μια ξεχωριστή μέρα για ξεχωριστά ζώα: Γιορτάζουμε τα γενέθλιά τους! Διαθέσιμο στο κατάστημα μόνο για μικρό χρονικό διάστημα:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012">
+      <item name="zoo.window.infoLayers.frog2012.limit"><![CDATA[Δυστυχώς, σου λείπουν επιπλέον αντικείμενα. Μην τα παρατάς!]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success1"><![CDATA[Χτύπημα! Κέρδισες μια εξαιρετική ανταμοιβή:]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success2"><![CDATA[Βρείτε ακόμη περισσότερα αντικείμενα! Καλή τύχη!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Notification">
+      <item name="zoo.window.infoLayers.frog2012Notification.title"><![CDATA[Αγορά συλλεκτικών αντικειμένων]]></item>
+      <item name="zoo.window.infoLayers.frog2012Notification.text"><![CDATA[Το αγορασμένο αντικείμενο βρίσκεται τώρα στην αποθήκη του ζωολογικού σας κήπου. Θέλετε να ανοίξετε μια αποθήκη;]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Comic">
+      <item name="zoo.window.infoLayers.frog2012Comic.layer1.bubble"><![CDATA[Από τις 17 έως τις 23 Μαΐου, ο ζωολογικός σας κήπος θα είναι ένα παραμύθι. Πολλή διασκέδαση και υπέροχα δώρα σας περιμένουν κατά τη διάρκεια της εκδήλωσης Royal Frog! </br></br>Στα παρακάτω βήματα, θα σας δείξουμε πώς:]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer2.content"><![CDATA[Φροντίστε καλά τα ζώα σας και συλλέξτε ειδικά μπόνους αντικείμενα: έναν στεφανωμένο βάτραχο, πτερύγια ή ένα στέμμα. Στη συνέχεια, ανταλλάξτε τα στο ταμπλό του βατράχου για υπέροχα δώρα.]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer3.content"><![CDATA[Μπορείς να παίξεις όσους γύρους θέλεις. Θα χρειαστείς όλο και περισσότερα αντικείμενα, αλλά τα έπαθλα θα είναι όλο και πιο υπέροχα! Σύντομα ο Βασιλιάς Βάτραχος θα κρώζει και στον ζωολογικό κήπο σου!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australien2012Comic">
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Ήλιος, κυματισμός και μαρσιποφόρα - από τις 25 Ιουνίου έως τις 3 Ιουλίου μπορείτε να διασκεδάσετε με τον αυστραλιανό σας ζωολογικό κήπο! Μην το χάσετε και κερδίστε υπέροχα αυστραλιανά δώρα! </br></br>Στα παρακάτω βήματα θα σας δείξουμε πώς:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Φροντίστε καλά τα ζώα σας και συλλέξτε ειδικά επιπλέον αντικείμενα: μια σανίδα του σερφ, μια κόκκινη πέτρα ή ένα αντηλιακό. Στη συνέχεια, ανταλλάξτε τα με υπέροχες εκπλήξεις στο αυστραλιανό γήπεδο.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Μπορείτε να παίξετε όσους γύρους θέλετε. Όσο περισσότερα αντικείμενα συλλέξετε, τόσο πιο μαγικά θα είναι τα κέρδη σας! Μετατρέψτε τον ζωολογικό σας κήπο σε μια μικρή Αυστραλία!]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Ήλιος, κυματισμός και μαρσιποφόρα - από τις 25 Ιουνίου έως τις 3 Ιουλίου μπορείτε να διασκεδάσετε με τον αυστραλιανό σας ζωολογικό κήπο! Μην το χάσετε και κερδίστε υπέροχα αυστραλιανά δώρα! </br></br>Στα παρακάτω βήματα θα σας δείξουμε πώς:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Φροντίστε καλά τα ζώα σας και συλλέξτε ειδικά επιπλέον αντικείμενα: μια σανίδα του σερφ, μια κόκκινη πέτρα ή ένα αντηλιακό. Στη συνέχεια, ανταλλάξτε τα με υπέροχες εκπλήξεις στο αυστραλιανό γήπεδο.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Μπορείτε να παίξετε όσους γύρους θέλετε. Όσο περισσότερα αντικείμενα συλλέξετε, τόσο πιο μαγικά θα είναι τα κέρδη σας! Μετατρέψτε τον ζωολογικό σας κήπο σε μια μικρή Αυστραλία!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.indien2012Comic">
+      <item name="zoo.window.infoLayers.indien2012Comic.layer1.bubble"><![CDATA[Γεια σας, γεια σας! Θέλετε να διασκεδάσετε από τις 19 έως τις 26 Ιουλίου; Επιτρέψτε μου να σας πω κάτι για αυτήν την εκδήλωση:]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer2.content"><![CDATA[Καθώς φροντίζετε τα ζώα σας, προσέξτε τα ειδικά αντικείμενα που εμφανίζονται: τατουάζ χέννας, ρόπαλα κρίκετ και το Ταζ Μαχάλ. Συλλέξτε τα και ανταλλάξτε τα με ωραίες ανταμοιβές στον ζωολογικό κήπο!]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Όσο περισσότερα αντικείμενα συλλέγεις, τόσο καλύτερες θα είναι οι ανταμοιβές. Η Ινδία είναι εδώ!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.anniversary2012Comic">
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.bubble"><![CDATA[Χρόνια πολλά! Γιορτάστε μαζί μας τη δεύτερη επέτειο του ZooMumba!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.content"><![CDATA[Συλλέξτε όσο το δυνατόν περισσότερες κόρνες, καπέλα πάρτι και φλάουτα σαμπάνιας για τα παιχνίδια πάρτι μας. Μπορεί να κερδίσετε ένα κλουβί πάρτι με πολλά δώρα!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer2.content"><![CDATA[Τι θα ήταν ένα πάρτι χωρίς μπαλόνια; Φροντίστε τα ζώα σας, συλλέξτε μπαλόνια και ανταλλάξτε τα στο γήπεδο με τρελές εκπλήξεις για το πάρτι.]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer3.content"><![CDATA[Μπορείτε να επαναλάβετε τους μεμονωμένους γύρους παιχνιδιού όσες φορές θέλετε. Θα χρειαστείτε όλο και περισσότερα αντικείμενα που θα εμφανίζονται κατά τη συγκομιδή, αλλά οι ανταμοιβές θα είναι όλο και καλύτερες. Χιπ, χιπ, ζήτω! Δόξα σε όλους τους διευθυντές ζωολογικών κήπων!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.oktoberfest2012Comic">
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer1.bubble"><![CDATA[Ας ξεκινήσει το πάρτι! Το Οκτόμπερφεστ είναι εδώ - ελάτε να γιορτάσετε με βαυαρικό στυλ!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer2.content"><![CDATA[Από την 1η έως τις 7 Οκτωβρίου, μπορείτε να συλλέξετε μπιρ πονγκ, μαλακά κουλούρια και παραδοσιακά καπέλα, καθώς και φανταστικές ανταμοιβές όπως ένα νέο σπίτι: το Oktoberfest - ένα λούνα παρκ!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer3.content"><![CDATA[Μπορείς να παίζεις όσο συχνά θέλεις. Θα χρειαστείς μια προμήθεια από αναδυόμενα αντικείμενα, αλλά θα λάβεις παραδοσιακές βαυαρικές ανταμοιβές σε αντάλλαγμα. Οπότε μην διστάσεις, θα διασκεδάσεις πολύ!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.circusHelpcomic">
+      <item name="zoo.window.infoLayers.circusHelpcomic.layer1.content"><![CDATA[Υπάρχουν πολλά κιβώτια με εξωτικά ζώα στο τσίρκο. Μετά τις πρώτες 5 ώρες, ένα ζώο θα πηδήξει έξω από το κλουβί προς το μέρος σας! Τι είδους ζώο θα είναι;]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Layer">
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble1"><![CDATA[Παραδώστε τα κοτοπουλάκια. Κάθε φως που ανάβει σημαίνει περισσότερα υπέροχα δώρα!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble2"><![CDATA[Παραδώστε τα ζαχαρωμένα μήλα. Κάθε φως που είναι αναμμένο σημαίνει περισσότερα υπέροχα δώρα!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer2.bubble"><![CDATA[Πουλήστε τα ζώα σας για zoogrosh και φωτίστε το χριστουγεννιάτικο δέντρο!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.singleplayer.success"><![CDATA[Μπράβο! Όλα φωτίστηκαν και έχεις συγκεντρώσει όλες τις ανταμοιβές!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.multiplayer.success"><![CDATA[Συγχαρητήρια! Μαζί φωτίσαμε ολόκληρο το χριστουγεννιάτικο δέντρο και συγκεντρώσαμε υπέροχα δώρα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Comic">
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.bubble"><![CDATA[Καλά Χριστούγεννα! Παρακαλώ βοηθήστε με να ανάψω τα χριστουγεννιάτικα λαμπάκια. Με κάθε λάμπα που ανάβετε, μπορείτε να κερδίσετε διάφορα χριστουγεννιάτικα δώρα, όπως μια αρκτική αλεπού!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.content"><![CDATA[Για να ανάψετε τα φώτα, πρέπει να προσθέσετε καραμελωμένα μήλα ή μωρά ζωάκια από το απόθεμά σας.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer2.content"><![CDATA[Μερικά φώτα μπορούν να ανάψουν μόνο με καραμέλες-μήλα. Τα μήλα θα πεταχτούν έξω από τα σπιτάκια των ζώων. Μπορείτε να αγοράσετε περισσότερα μήλα για να προχωρήσετε πιο γρήγορα.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer3.content"><![CDATA[Διάλεξε ένα μωρό από το απόθεμά σου και παράδωσέ το. Συμβουλή: Όσο υψηλότερο είναι το επίπεδο αναπαραγωγής του ζώου, τόσο πιο γρήγορα μπορείς να ανάψεις τα φώτα!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.multiplayer.bubble"><![CDATA[Εδώ πρέπει να συνεργαστούν όλοι οι διευθυντές ζωολογικών κήπων: Να πουλήσουν τα ζώα από το απόθεμά σας για τα ζωολογικά κήπη. Μαζί θα φωτίσετε το δέντρο βήμα προς βήμα και θα κερδίσετε υπέροχα χριστουγεννιάτικα δώρα.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentines2013Comic">
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer1.bubble"><![CDATA[Καλώς ορίσατε στην εκδήλωση για την Ημέρα του Αγίου Βαλεντίνου! Από τις 14 έως τις 25 Φεβρουαρίου, ετοιμαστείτε για λίγο ρομαντισμό! Παίξτε το παιχνίδι μας για την Ημέρα του Αγίου Βαλεντίνου και κερδίστε υπέροχα δώρα!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας, συλλέξτε cupcakes, μπαλόνια σε σχήμα καρδιάς και ευχετήριες κάρτες. Περάστε από το γήπεδο βήμα προς βήμα και κερδίστε ανταμοιβές στην πορεία. Το κύριο βραβείο θα είναι πελαργοί για τον ζωολογικό κήπο σας!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Θα χρειαστείς περισσότερα αναδυόμενα αντικείμενα, αλλά αυτό θα αυξήσει τις πιθανότητές σου να κερδίσεις περισσότερες ανταμοιβές!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.multiplayer.bubble"><![CDATA[Μην ξεχνάς: όλοι οι διευθυντές ζωολογικών κήπων παίζουν μαζί. Πούλησε ζώα από το απόθεμά σου για ζωολογικό κήπο. Φτάσε στην κορυφή του βελούδινου βουνού, όπου σε περιμένουν γάτες margay ως ανταμοιβή!]]></item>
+      <item name="zoo.window.infoLayers.valentines.multiplayer.success"><![CDATA[Συγχαρητήρια! Φτάσατε στα ύψη της στοίβας με τα βελούδινα και κερδίσατε ανταμοιβές στην πορεία.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterEvent2013Comic">
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer1.bubble"><![CDATA[Καλώς ορίσατε στην Εκδήλωση του Πασχαλινού Ζωολογικού Κήπου! Από τις 27 Μαρτίου έως τις 8 Απριλίου, ο ζωολογικός σας κήπος θα μεταμορφωθεί σε ένα πολύχρωμο ουράνιο τόξο! Συλλέξτε πολύχρωμα κοτοπουλάκια στο Πασχαλινό μας παιχνίδι και ανταλλάξτε τα με υπέροχα δώρα!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε πολύχρωμα κοτοπουλάκια καθώς εργάζεστε! Προχωρήστε βήμα βήμα στο γήπεδο και συλλέξτε όλες τις ανταμοιβές στην πορεία. Το κύριο βραβείο θα είναι ένα εμού!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer3.content"><![CDATA[Παίξτε όσους γύρους θέλετε. Κερδίστε υπέροχα δώρα σε κάθε γύρο.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.multiplayer.bubble"><![CDATA[Μην ξεχνάτε: όλοι οι διευθυντές ζωολογικών κήπων παίζουν μαζί. Πουλήστε ζώα από το απόθεμά σας για ζωολογικό κήπο. Φτάστε στην κορυφή της στοίβας με τα βελούδινα και αν το κάνετε, θα κερδίσετε ένα γλυκό ζευγάρι μυρμηγκοφάγων!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.intro"><![CDATA[Πουλήστε τα ζώα στο απόθεμά σας και ανεβείτε μαζί στο βελούδινο βουνό.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.success"><![CDATA[Συγχαρητήρια! Φτάσατε στα ύψη της στοίβας με τα βελούδινα και κερδίσατε ανταμοιβές στην πορεία.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frenchEvent2013Comic">
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer1.bubble"><![CDATA[Καλώς ορίσατε στην εκδήλωση του Γαλλικού Ζωολογικού Κήπου! Θα πάμε ένα ταξίδι στη Γαλλία από τις 11 έως τις 16 Ιουλίου! Συλλέξτε αντικείμενα για το γαλλικό μας παιχνίδι και ανταλλάξτε τα με φανταστικές ανταμοιβές!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και μαζέψτε τα αντικείμενα που σκάνε. Πηγαίνετε βήμα προς βήμα στο πεδίο του παιχνιδιού και κερδίστε ανταμοιβές στην πορεία. Το κύριο βραβείο είναι τα αγρινά!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Θα βρεις διασκεδαστικά δώρα σε κάθε γύρο.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthdayEvent2013Comic">
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer1.content"><![CDATA[Ζήτω! Για να γιορτάσουμε τα 3α γενέθλιά μας, ετοιμάσαμε ένα φεστιβάλ σκοποβολής: πετάξτε μπαλόνια από τις 15 έως τις 28 Αυγούστου και δείτε τις ανταμοιβές να πέφτουν βροχή πάνω σας! Θα λαμβάνετε δωρεάν βελάκια κάθε μέρα.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer2.content"><![CDATA[Τοποθετήστε μπαλόνια στο επιτραπέζιο παιχνίδι. Κάθε μπαλόνι που τοποθετείται σας φέρνει πιο κοντά στο έπαθλο. Κερδίστε εντυπωσιακά στολίδια γενεθλίων και νέα ζώα.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Συμβουλή: Συνδέσου κάθε μέρα και κέρδισε ακόμα περισσότερα βελάκια με το καθημερινό μπόνους σύνδεσης!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.over"><![CDATA[Χρειάζεστε ακόμα μπαλόνια για αυτό το βήμα (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.default"><![CDATA[Εδώ, στο φεστιβάλ σκοποβολής! Σκάστε τα μπαλόνια και κερδίστε υπέροχα δώρα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.hungaryEvent2013Comic">
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer1.bubble"><![CDATA[Καλώς ορίσατε στην ουγγρική εκδήλωση στον ζωολογικό κήπο! Ελάτε μαζί μας σε ένα ταξίδι στην Ουγγαρία από τις 12 έως τις 24 Σεπτεμβρίου! Συλλέξτε πιπεριές για το ουγγρικό μας παιχνίδι και ανταλλάξτε τες με φανταστικά δώρα!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και μαζέψτε πιπεριές. Περιηγηθείτε βήμα προς βήμα στο πεδίο του παιχνιδιού και κερδίστε ανταμοιβές. Το κύριο βραβείο είναι νέα ζώα!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Μια μικρή προειδοποίηση: Οι πιπεριές θα εμφανίζονται μέχρι τις 12 μ.μ. στις 23 Σεπτεμβρίου. Ωστόσο, μπορείς να τις ανταλλάξεις μέχρι τις 24 Σεπτεμβρίου.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2013Comic">
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer1.bubble"><![CDATA[Ω, ναι! Αυτοί οι άτακτοι πιγκουίνοι έπαιζαν με μαγικούς ρούνους και κατάφεραν να ξεφύγουν! Να οι Φλάμπερ, Λάρι και Σουάμπι! Χρησιμοποίησε την σταγόνα πλάσματος και πιάσε τους γρήγορα πριν μπλέξουν σε κάποια σκανταλιά!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer2.content"><![CDATA[Βοήθησε τον καλό Μπου να πιάσει τα φαντάσματα. Πήγαινέ τα στο γήπεδο και κέρδισε τρομακτικά δώρα!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer3.content"><![CDATA[Κάθε μέρα που συνδέεστε στο παιχνίδι, ο Μπου θα σας δίνει σταγόνες πλάσματος για να κυνηγάτε φαντάσματα. Συμβουλή: Φροντίστε τα ζώα σας και οι σταγόνες πλάσματος θα πεταχτούν από τα σπίτια τους. Καλή τύχη!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.over"><![CDATA[Χρειάζεσαι ακόμα φαντάσματα για αυτό το βήμα (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.default"><![CDATA[Υποβάλετε τα φαντάσματά σας εδώ και κερδίστε υπέροχα δώρα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.thanksGiving2013Comic">
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer1.bubble"><![CDATA[Καλώς ορίσατε στον εορτασμό των Ευχαριστιών του ζωολογικού κήπου! Αυτή τη φορά θα γιορτάσουμε στις ΗΠΑ! Συλλέξτε πολύχρωμα φύλλα και ανταλλάξτε τα με υπέροχες ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε πολύχρωμα φύλλα. Περάστε βήμα προς βήμα στο πεδίο του παιχνιδιού και κερδίστε ανταμοιβές στην πορεία. Το κύριο βραβείο είναι νέα ζώα για τον ζωολογικό κήπο σας!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι τα φύλλα θα πέφτουν μέχρι το τέλος της εκδήλωσης, αλλά μπορείς να τα ανταλλάξεις για 24 ώρες μετά.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.over"><![CDATA[Χρειάζεστε ακόμα φύλλα (αριθμός: %count%) για αυτό το βήμα. Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.default"><![CDATA[Στείλτε τις επιστολές σας εδώ και κερδίστε υπέροχα δώρα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2013Comic">
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer1.bubble"><![CDATA[Χοχοχο! Έρχονται Χριστούγεννα στον ζωολογικό κήπο! Από τις 19 Δεκεμβρίου έως τις 7 Ιανουαρίου, μπορείτε να συλλέξετε χριστουγεννιάτικα στολίδια στον ζωολογικό σας κήπο και να τα ανταλλάξετε με πολύχρωμα πιάτα για χειμωνιάτικα ζώα και χριστουγεννιάτικα στολίδια.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και πολύχρωμες διακοσμήσεις θα ξεπηδήσουν από τα σπίτια τους. Βήμα προς βήμα, μετακινηθείτε στο γήπεδο και ανταλλάξτε τις διακοσμήσεις με χριστουγεννιάτικες ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι οι διακοσμήσεις θα εμφανίζονται μέχρι τις 12 το μεσημέρι στις 6 Ιανουαρίου, αλλά μπορείς να τις ανταλλάξεις μέχρι τις 12 το μεσημέρι στις 7 Ιανουαρίου.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.over"><![CDATA[Χρειάζεστε ακόμα διακοσμήσεις για αυτό το βήμα (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.default"><![CDATA[Υποβάλετε τα διακοσμητικά σας εδώ και κερδίστε υπέροχα δώρα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.egypt2014Comic">
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer1.bubble"><![CDATA[Ταξιδέψτε μαζί μας στην Ανατολή: Ανακαλύψτε την αρχαία Αίγυπτο, συλλέξτε πολύτιμους σκαραβαίους και ανταλλάξτε τους σε ένα αιγυπτιακό επιτραπέζιο παιχνίδι.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε πολύχρωμους σκαραβαίους που θα ξεπηδούν από τα κλουβιά σας. Προχωρήστε στο ταμπλό του παιχνιδιού και ανταλλάξτε στολίδια με ανατολίτικες ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι οι σκαραβαίοι θα εμφανίζονται μέχρι το τέλος της εκδήλωσης. Ωστόσο, μπορείς να τους ανταλλάξεις για 24 ώρες μετά.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.over"><![CDATA[Χρειάζεσαι ακόμα σκαραβαίους για αυτό το βήμα (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.default"><![CDATA[Παραδώστε τους σκαραβαίους σας εδώ και κερδίστε μεγάλες ανταμοιβές!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014Comic">
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer1.bubble"><![CDATA[Πάρτε όλες τις καρδιές: Συλλέξτε κάρτες από τις 21 Φεβρουαρίου έως τις 10 Μαρτίου στο επιτραπέζιο παιχνίδι μας για την Ημέρα του Αγίου Βαλεντίνου!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε πολύχρωμες κάρτες που θα ξεπροβάλλουν από τα περιβλήματά σας. Περιηγηθείτε βήμα προς βήμα στο ταμπλό του παιχνιδιού και ανταλλάξτε τες με ρομαντικά δώρα.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι οι κάρτες θα εμφανίζονται μέχρι τις 12 το μεσημέρι στις 10 Μαρτίου, αλλά μπορείς να τις ανταλλάξεις μέχρι τις 12 το μεσημέρι στις 11 Μαρτίου.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.over"><![CDATA[Χρειάζεστε ακόμα ευχετήριες κάρτες για αυτό το βήμα (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.default"><![CDATA[Υποβάλετε τις ευχές σας εδώ και κερδίστε υπέροχα δώρα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityComic">
+      <item name="zoo.window.infoLayers.valentine2014CommunityComic.multiplayer.bubble"><![CDATA[Μην ξεχνάτε: όλοι οι διευθυντές ζωολογικών κήπων παίζουν μαζί. Πουλήστε ζώα από το απόθεμά σας για ζωολογικούς κήπους. Φτάστε στην κορυφή του βελούδινου βουνού - σας περιμένουν υπέροχα βραβεία σε κάθε επίπεδο!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.success"><![CDATA[Συγχαρητήρια, τα κατάφερες! Φτάσατε στην κορυφή της στοίβας καρδιών και κερδίσατε ανταμοιβές στην πορεία.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.intro"><![CDATA[Ανταλλάξτε τα ζώα σας εδώ και κερδίστε γλυκές ανταμοιβές!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2014Comic">
+      <item name="zoo.window.infoLayers.easter2014Comic.layer1.bubble"><![CDATA[Από τις 10 έως τις 28 Απριλίου 2014, ο ζωολογικός σας κήπος θα είναι σε πλήρη άνθιση: Ελάτε να διασκεδάσετε στην φανταστική μας πασχαλινή εκδήλωση! Πολλές πασχαλινές εκπλήξεις και ολοκαίνουργια ζώα σας περιμένουν στο επιτραπέζιο παιχνίδι του Πάσχα!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε πολύχρωμα πασχαλινά αυγά που θα ξεπροβάλλουν από τα κλουβιά σας. Περάστε βήμα προς βήμα στο πεδίο του παιχνιδιού και ανταλλάξτε τα αυγά με σούπερ ανοιξιάτικες ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι τα πασχαλινά αυγά θα εμφανίζονται μέχρι τις 12 το μεσημέρι στις 28 Απριλίου, αλλά μπορείς να τα ανταλλάξεις μέχρι τις 12 το μεσημέρι στις 29 Απριλίου.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.over"><![CDATA[Χρειάζεστε ακόμα πασχαλινά αυγά για αυτό το βήμα (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.default"><![CDATA[Παραδώστε τα πασχαλινά σας αυγά εδώ και κερδίστε υπέροχα δώρα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.summer2014Comic">
+      <item name="zoo.window.infoLayers.summer2014Comic.layer1.bubble"><![CDATA[Πυρετός ποδοσφαίρου στον ζωολογικό σας κήπο από 19 Ιουνίου έως 1 Ιουλίου! Ταξιδέψτε μαζί μας στη Βραζιλία: Σάμπα, ποδόσφαιρο, βραζιλιάνικος ρυθμός και ολοκαίνουργια ζώα σας περιμένουν στο επιτραπέζιο παιχνίδι μας!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε πολύχρωμα φρούτα-κοκτέιλ που θα ξεφυτρώνουν από τα κλουβιά σας. Περιηγηθείτε βήμα προς βήμα στο ταμπλό του παιχνιδιού και ανταλλάξτε τα κοκτέιλ με σούπερ καλοκαιρινές ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι τα φρούτα του κοκτέιλ θα εμφανίζονται μέχρι τις 12 το μεσημέρι στις 30 Ιουνίου, αλλά μπορείς να τα ανταλλάξεις μέχρι τις 12 το μεσημέρι της 1ης Ιουλίου.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.over"><![CDATA[Για αυτό το βήμα χρειάζεστε ακόμα φρούτα κοκτέιλ (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.default"><![CDATA[Ανταλλάξτε φρούτα κοκτέιλ με σούπερ ανταμοιβές εδώ!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthday2014Comic">
+      <item name="zoo.window.infoLayers.bday2014Comic.layer1.bubble"><![CDATA[Μεγάλο πάρτι γενεθλίων από 19 Αυγούστου έως 2 Σεπτεμβρίου! Πολλές φανταστικές εκπλήξεις σας περιμένουν στο επιτραπέζιο παιχνίδι μας!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer2.content"><![CDATA[Τοποθετήστε μπαλόνια στο επιτραπέζιο παιχνίδι. Κάθε μπαλόνι που τοποθετείται σας φέρνει πιο κοντά στο έπαθλο. Κερδίστε εντυπωσιακά στολίδια γενεθλίων και νέα ζώα.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Θυμήσου: Μπορείς να συλλέξεις μπαλόνια από τα περιβλήματά σου μόνο μέχρι τις 27 Αυγούστου, στις 12:00 μ.μ. Μετά από αυτό, έχεις 24 ώρες για να τα χρησιμοποιήσεις.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.over"><![CDATA[Χρειάζεστε ακόμα μπαλόνια για αυτό το βήμα (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.default"><![CDATA[Τοποθετήστε μπαλόνια και κερδίστε υπέροχα δώρα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2014Comic">
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer1.bubble"><![CDATA[Γιορτάστε το Halloween μαζί μας από τις 30 Οκτωβρίου έως τις 10 Νοεμβρίου! Πολλές φανταστικές εκπλήξεις σας περιμένουν στο επιτραπέζιο παιχνίδι μας!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε τις λάσπες που θα πεταχτούν από τις κατοικίες σας. Βήμα βήμα διασχίστε το γήπεδο και ανταλλάξτε τις λάσπες με τρομακτικές και φοβερές ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι οι μύγες λάσπης θα εμφανίζονται μόνο μέχρι τις 12 το μεσημέρι στις 10 Νοεμβρίου. Μετά από αυτό, έχεις 24 ώρες για να τις χρησιμοποιήσεις.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.over"><![CDATA[Χρειάζεσαι ακόμα Γλίτσα με Σκνίπες για αυτό το βήμα (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.default"><![CDATA[Υποβάλετε τα καλούπια slime σας εδώ και κερδίστε υπέροχα δώρα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recyclingComic">
+      <item name="zoo.window.infoLayers.recyclingComic.layer1.bubble"><![CDATA[Είναι απίστευτο τι πετάνε οι άνθρωποι! Υπάρχουν τόσες πολλές πολύτιμες πρώτες ύλες στα απόβλητα: Ξεχωρίστε τα απόβλητα για επαναχρησιμοποίηση. Βοηθήστε το περιβάλλον και τον εαυτό σας!]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer2.content"><![CDATA[Όλα τα συλλεγόμενα απόβλητα καταλήγουν απευθείας στην εγκατάσταση ανακύκλωσης. Επιλέξτε την πρώτη ύλη που θέλετε να δημιουργήσετε από τα απόβλητα.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer3.content"><![CDATA[Επιλέξτε πόσα αντικείμενα θέλετε να φτιάξετε από τα επιλεγμένα υλικά. Βεβαιωθείτε ότι έχετε αρκετά άχρηστα υλικά και ζωογρό για να τα φτιάξετε.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer4.content"><![CDATA[Εκτός από τους κανονικούς πόρους, θα χρειαστείτε επίσης σπάνιους πόρους. Η χρήση ενός υπερφίλτρου θα αυξήσει τις πιθανότητές σας να αποκτήσετε έναν σπάνιο πόρο από την ανακύκλωση.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.craftingComic">
+      <item name="zoo.window.infoLayers.craftingComic.layer1.bubble"><![CDATA[Γεια σας, είμαι η Ίνγκα Νιρ. Θα σας βοηθήσω να κατασκευάσετε νέα αντικείμενα χρησιμοποιώντας πρώτες ύλες. Αλλά πρώτα, χρειάζεστε ένα σχέδιο. Σχέδια κατασκευής είναι διαθέσιμα και μπορείτε να τα βρείτε σε όλο τον ζωολογικό κήπο: όταν ανεβαίνετε επίπεδο, από κομμάτια παζλ και βραβεία, από συλλογές, σε σαφάρι ή στον τροχό της τύχης.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer2.content"><![CDATA[Όλα τα σχέδια κατασκευής αποθηκεύονται στο εργαστήριο. Απλώς ανοίξτε την κατηγορία για να δείτε ποια σχέδια έχετε ήδη.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer3.content"><![CDATA[Ένα πράσινο σημάδι ελέγχου θα σας δείξει αν έχετε όλα τα υλικά. Αν ναι, τότε μπορείτε να ξεκινήσετε!]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer4.content"><![CDATA[Αν θέλετε οι εργάτες σας να βιαστούν, δοκιμάστε το "Craftsman Booster". Ρίξτε το εκεί μέσα και τώρα θα δουλεύουν δύο φορές πιο γρήγορα! Χρησιμοποιώντας Zoo Dollars, μπορείτε να ολοκληρώσετε την παραγωγή σε χρόνο μηδέν.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recylingcraftingunlock">
+      <item name="zoo.window.infoLayers.recylingcraftingunlock.info"><![CDATA[Ανακυκλώστε τα απόβλητα στον ζωολογικό κήπο σας και φτιάξτε κάτι καινούργιο! Η εγκατάσταση και το εργαστήριο ανακύκλωσης είναι τώρα διαθέσιμα. Κάντε κλικ στον μπλε ελέφαντα: Μπορείτε να βρείτε τα κτίρια στο κέντρο ελέγχου.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolchange">
+      <item name="zoo.window.infoLayers.toolchange.info"><![CDATA[Η κατασκευή της εγκατάστασης ανακύκλωσης και του εργαστηρίου απαιτούσε πολλά εργαλεία, τα οποία και συλλέξατε. Για να βεβαιωθούμε ότι δεν θα χάσετε τα απαραίτητα, θα σας δώσουμε πόντους εμπειρίας για τα εργαλεία που θα συλλέξετε.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2014Comic">
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer1.bubble"><![CDATA[Καλά Χριστούγεννα! Από τις 11 έως τις 29 Δεκεμβρίου, πιγκουίνοι θα στολίζουν το χριστουγεννιάτικο τζάκι. Όσο περισσότερα αντικείμενα συλλέξετε στον ζωολογικό κήπο, τόσο πιο όμορφος θα είναι. Παίξτε το επιτραπέζιο παιχνίδι και κερδίστε μια χριστουγεννιάτικη έκπληξη!]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε χριστουγεννιάτικες λιχουδιές που θα ξεπροβάλλουν από τα κλουβιά τους. Περιηγηθείτε βήμα προς βήμα στο γήπεδο και ανταλλάξτε τες με χριστουγεννιάτικες ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι τα χριστουγεννιάτικα δώρα θα είναι διαθέσιμα μόνο μέχρι τις 12 το μεσημέρι στις 29 Δεκεμβρίου. Μετά από αυτό, έχεις 24 ώρες για να τα χρησιμοποιήσεις.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.boardgame">
+      <item name="zoo.window.infoLayers.boardgame.info.over"><![CDATA[Για να ολοκληρώσετε αυτό το βήμα, πρέπει να εισαγάγετε %count%x %collectitem. Βιαστείτε και λάβετε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.boardgame.info.default"><![CDATA[Εδώ μπορείτε να ανταλλάξετε προωθητικά είδη με υπέροχες ανταμοιβές!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Comic">
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer1.bubble"><![CDATA[Ψάχνεις ακόμα τον άντρα ή τη γυναίκα των ονείρων σου; Τότε παίξε το επιτραπέζιο παιχνίδι για την Ημέρα του Αγίου Βαλεντίνου από τις 12 έως τις 23 Φεβρουαρίου 2015!]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε νούφαρα που θα ξεπηδήσουν από τα κλουβιά τους. Περιηγηθείτε βήμα βήμα στο γήπεδο και ανταλλάξτε τα με χριστουγεννιάτικες ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι τα νούφαρα θα εμφανίζονται μόνο μέχρι τις 12 το μεσημέρι στις 23 Φεβρουαρίου. Μετά από αυτό, έχεις 24 ώρες για να τα χρησιμοποιήσεις.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Board">
+      <item name="zoo.window.infoLayers.valentine2015Board.title"><![CDATA[Ημέρα του Αγίου Βαλεντίνου]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityBoard">
+      <item name="zoo.window.infoLayers.valentine2014CommunityBoard.title"><![CDATA[Πλούσιο Βουνό]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2015Comic">
+      <item name="zoo.window.infoLayers.easter2015Comic.layer1.bubble"><![CDATA[Κάτι παράξενο συμβαίνει στο κοτέτσι. Το Πασχαλινό Λαγουδάκι άργησε και χρειάζεται βοήθεια! Μπες κρυφά στο κοτέτσι και μάζεψε τα αυγά! Το Πασχαλινό Λαγουδάκι θα σε ευγνωμονεί!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε πολύχρωμα πασχαλινά λαγουδάκια που θα ξεπηδούν από τα κλουβιά σας. Περιηγηθείτε βήμα προς βήμα στο ταμπλό του παιχνιδιού και ανταλλάξτε τα με χαρούμενες ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι τα πασχαλινά λαγουδάκια θα βγαίνουν από τα κλουβιά σου μέχρι το τέλος της εκδήλωσης. Ωστόσο, μπορείς να τα χρησιμοποιήσεις για 24 ώρες μετά για να κερδίσεις ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.over"><![CDATA[Χρειάζεστε ακόμα πασχαλινά λαγουδάκια για αυτό το βήμα (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.default"><![CDATA[Παραδώστε τα πασχαλινά σας λαγουδάκια εδώ και κερδίστε υπέροχα δώρα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Board">
+      <item name="zoo.window.infoLayers.asia2015Board.title"><![CDATA[Ταξίδι στην Ασία]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Comic">
+      <item name="zoo.window.infoLayers.asia2015Comic.layer1.bubble"><![CDATA[Ταξιδέψτε μαζί μας στην Ασία για τον Χορό του Δράκου! Συλλέξτε πολύχρωμα φαναράκια για να φωτίσετε την γιορτή σας. Είθε ο δράκος του νερού να σας ευλογεί!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε πολύχρωμα φαναράκια που ξεπροβάλλουν από τα κλουβιά σας. Προχωρήστε στο ταμπλό του παιχνιδιού και ανταλλάξτε τα φαναράκια με εξωτικές ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι τα φανάρια θα εμφανίζονται μέχρι το τέλος της εκδήλωσης. Ωστόσο, μπορείς να τα ανταλλάξεις για 24 ώρες μετά.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.over"><![CDATA[Χρειάζεστε ακόμα φανάρια για αυτό το βήμα (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.default"><![CDATA[Υποβάλετε τα φαναράκια σας εδώ και κερδίστε υπέροχα δώρα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Board">
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Ταξίδι στην Αυστραλία]]></item>
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Ταξίδι στην Αυστραλία]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Comic">
+      <item name="zoo.window.infoLayers.australian2015Comic.layer1.bubble"><![CDATA[Ο Zoomumba γίνεται 5 ετών! Χιπ, χιπ, ζήτω! Ελάτε μαζί μας στην αυστραλιανή ενδοχώρα και κερδίστε καταπληκτικά δώρα: Πετάξτε μπαλόνια και γλιστρήστε μέσα στην αυστραλιανή άγρια ​​φύση όπως ο Κροκόδειλος Νταντί. Ζήτω!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε βέλη που θα πεταχτούν έξω από τα περιβλήματά σας. Χρησιμοποιήστε τα για να καταρρίψετε μπαλόνια. Περάστε βήμα προς βήμα στο πεδίο του παιχνιδιού και ανταλλάξτε μπαλόνια με ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι τα βελάκια θα πετάγονται από τα στυλό σου μέχρι το τέλος της εκδήλωσης. Ωστόσο, μπορείς να ρίξεις μπαλόνια για 24 ώρες μετά.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.over"><![CDATA[Χρειάζεστε ακόμα μπαλόνια για αυτό το βήμα (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.default"><![CDATA[Τοποθετήστε μπαλόνια και κερδίστε υπέροχα δώρα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Board">
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[31 Οκτώβρη]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[31 Οκτώβρη]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Comic">
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer1.bubble"><![CDATA[Αμπρακανταμπρά! Ωχ όχι! Ποιος κακός μάγος μετέτρεψε τον μικρό Πέρι σε μια γιγάντια κολοκύθα; Προσπάθησε να βρεις το αντίδοτο και να βοηθήσεις τον Πέρι. Από τις 29 Οκτωβρίου έως τις 9 Νοεμβρίου, θα μπορείς να δοκιμάσεις όλα τα μαγικά φίλτρα!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε φίλτρα που θα πεταχτούν από τα περιβλήματά σας. Περιηγηθείτε βήμα προς βήμα στο ταμπλό του παιχνιδιού και ανταλλάξτε τα φίλτρα με ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι τα φίλτρα θα εμφανίζονται μέχρι το τέλος της εκδήλωσης. Ωστόσο, μπορείς να τα ανταλλάξεις για 24 ώρες μετά.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.over"><![CDATA[Χρειάζεστε ακόμα μαγικά φίλτρα για αυτό το βήμα (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.default"><![CDATA[Παραδώστε τα φίλτρα σας εδώ και κερδίστε υπέροχες ανταμοιβές!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.winter2015Comic">
+      <item name="zoo.window.infoLayers.winter2015Comic.layer1.bubble"><![CDATA[Καλά Χριστούγεννα! Οι πιγκουίνοι θέλουν να στολίσουν το τζάκι τους για την παραμονή των Χριστουγέννων. Όσο περισσότερα χριστουγεννιάτικα κεριά μαζέψετε, τόσο πιο άνετα θα νιώθουν. Μπορείτε να κερδίσετε μια χειμερινή έκπληξη στο επιτραπέζιο παιχνίδι!]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε πολύχρωμα χριστουγεννιάτικα κεριά που θα ξεπροβάλλουν από τα περιβλήματα. Περπατήστε βήμα προς βήμα στο γήπεδο και ανταλλάξτε τα με φανταστικές ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer3.content"><![CDATA[Ολοκληρώστε όσους γύρους θέλετε. Λάβετε υπόψη ότι τα χριστουγεννιάτικα κεριά θα πεταχτούν από τους χώρους μέχρι το τέλος της εκδήλωσης, αλλά μπορείτε να τα ανταλλάξετε για 24 ώρες μετά.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2016Comic">
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer1.bubble"><![CDATA[Γεια σε όλους τους ερωτευμένους! Η αγάπη εξαπλώνεται, γι' αυτό έχουμε ετοιμάσει μια ξεχωριστή εκδήλωση για εσάς με πολλές όμορφες ανταμοιβές. Έχουμε επίσης ένα νέο κατοικίδιο - μια ριγέ μαγκούστα, νέες διακοσμήσεις με ρομαντικό θέμα και δύο νέα καταστήματα!]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε πολύχρωμα αρκουδάκια που θα πηδούν έξω από τα περιβλήματα. Επιστρέψτε τα, ακολουθήστε σταδιακά το μονοπάτι της αγάπης στο επιτραπέζιο παιχνίδι και συλλέξτε ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer3.content"><![CDATA[Όταν φτάσετε στο τέλος του μονοπατιού, το ταμπλό μηδενίζεται και μπορείτε να παίξετε έναν ακόμη γύρο. Οι αρκούδες θα εμφανίζονται μέχρι το τέλος του event. Μετά από αυτό, έχετε 24 ώρες για να τις χρησιμοποιήσετε!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2016Comic">
+      <item name="zoo.window.infoLayers.easter2016Comic.layer1.bubble"><![CDATA[Κάτι παράξενο συμβαίνει στο κοτέτσι. Το Πασχαλινό Λαγουδάκι άργησε και χρειάζεται βοήθεια! Μπες κρυφά στο κοτέτσι και μάζεψε τα αυγά! Το Πασχαλινό Λαγουδάκι θα σε ευγνωμονεί!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας και συλλέξτε πολύχρωμα πασχαλινά λαγουδάκια που θα ξεπηδούν από τα κλουβιά σας. Περιηγηθείτε βήμα προς βήμα στο ταμπλό του παιχνιδιού και ανταλλάξτε τα με χαρούμενες ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer3.content"><![CDATA[Παίξε όσους γύρους θέλεις. Λάβε υπόψη ότι τα πασχαλινά λαγουδάκια θα βγαίνουν από τα κλουβιά σου μέχρι το τέλος της εκδήλωσης. Ωστόσο, μπορείς να τα χρησιμοποιήσεις για 24 ώρες μετά για να κερδίσεις ανταμοιβές.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.over"><![CDATA[Χρειάζεστε ακόμα πασχαλινά λαγουδάκια για αυτό το βήμα (αριθμός: %count). Βιαστείτε και πάρτε την ανταμοιβή σας!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.default"><![CDATA[Παραδώστε τα πασχαλινά σας λαγουδάκια εδώ και κερδίστε υπέροχα δώρα!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.OceanComic">
+      <item name="zoo.window.infoLayers.OceanComic.layer1.bubble"><![CDATA[Γεια σας, είμαι η Γιάνιτσκα και εκπαιδεύω θαλάσσια θηλαστικά. Μαζί θα φτιάξουμε τον καλύτερο υδάτινο ζωολογικό κήπο που υπήρξε ποτέ!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer1.content"><![CDATA[Η Σόνια και οι πιγκουίνοι βρήκαν ένα παλιό υδάτινο πάρκο πίσω από έναν κρυφό ζωολογικό κήπο. Δεν έχει απομείνει πολύ από αυτό, αλλά το νερό φαίνεται καταπληκτικό. Ας το ανακαινίσουμε!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer2.content"><![CDATA[Θα χρειαστεί να κατασκευάσουμε τα πάντα! Οι πιγκουίνοι βρήκαν κάποια σχέδια και υλικά σε μια παλιά καλύβα στην παραλία. Ας ξεκινήσουμε χτίζοντας τον πρώτο υδάτινο βιότοπο και την προβλήτα.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer3.content"><![CDATA[Τα υδάτινα ενδιαιτήματα διατίθενται σε τρία μεγέθη για να κάνουν όλα τα υδρόβια ζώα να αισθάνονται σαν στο σπίτι τους. Μπορείτε να τα βρείτε στο seafari ή να τα αγοράσετε από την καλύβα στην παραλία!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer4.content"><![CDATA[Ζητήστε βοήθεια από όλη την ομάδα υποβρύχιας έρευνας! Η Τζίντρα θα παραδώσει το φαγητό και ο Ματέι θα φέρει το νερό. Η Φράντα θα καθαρίσει τα φίλτρα και εγώ θα παίξω με τα ζώα.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer5.content"><![CDATA[Διατηρήστε το νερό στις δεξαμενές καθαρό και συλλέξτε περισσότερα μαργαριτάρια! Τα μαργαριτάρια μπορούν να ομορφύνουν ακόμη περισσότερο τα ενδιαιτήματα.]]></item>
+      <category name="zoo.window.infoLayers.oceanWorld2016Board">
+        <item name="zoo.window.infoLayers.oceanWorld2016Board.title"><![CDATA[Γενέθλια]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.oceanWorld2016Comic">
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer1.bubble"><![CDATA[Γεια σας! Ο υποβρύχιος κόσμος βρίσκεται σε πλήρη εξέλιξη, γι' αυτό έχουμε ετοιμάσει μια ξεχωριστή εκδήλωση καταδύσεων για εσάς! Ιππόκαμποι, ένα ολοκαίνουργιο περίβλημα Tiki Bay, νέα καταστήματα και διακοσμήσεις σας περιμένουν!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας όπως συνήθως και συλλέξτε πολύχρωμους αστερίες που ξεπροβάλλουν από τα κλουβιά σας. Εξερευνήστε τις υποβρύχιες ζώνες στο ταμπλό του παιχνιδιού και κερδίστε ανταμοιβές!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer3.content"><![CDATA[Μόλις εξερευνήσετε όλες τις ζώνες, το ταμπλό θα επαναρυθμιστεί και μπορείτε να βουτήξετε ξανά! Οι αστερίες θα εμφανίζονται μέχρι το τέλος της εκδήλωσης. Μετά από αυτό, θα έχετε 24 ώρες για να τους χρησιμοποιήσετε.]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.over"><![CDATA[Χρειάζεστε ακόμα αστέρια (αριθμός: %count%) για αυτό το βήμα!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.default"><![CDATA[Ανταλλάξτε τα αστέρια σας με φανταστικές ανταμοιβές εδώ!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.monkey2016Comic">
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer1.bubble"><![CDATA[Οι μαϊμούδες κάτι σκαρώνουν... Βοηθήστε τους με τις σκανταλιές τους στο νέο μας επιτραπέζιο παιχνίδι! Κερδίστε ανταμοιβές, όπως νέα καταστήματα και διακοσμήσεις για τον ζωολογικό κήπο σας!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας όπως συνήθως και μαζέψτε τα πολύχρωμα λαχανικά που ξεφυτρώνουν από τα κλουβιά σας. Δώστε σε κάθε σουρικάτα μια λιχουδιά και κερδίστε ανταμοιβές.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer3.content"><![CDATA[Μόλις προκαλέσετε ζημιά σε κάθε σουρικάτα, το ταμπλό θα επαναρυθμιστεί και μπορείτε να ξεκινήσετε από την αρχή! Τα λαχανικά θα εμφανίζονται μέχρι το τέλος της εκδήλωσης. Μετά από αυτό, θα έχετε 24 ώρες για να τα χρησιμοποιήσετε.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.over"><![CDATA[Χρειάζεστε ακόμα λαχανικά για αυτό το βήμα (αριθμός: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.default"><![CDATA[Ανταλλάξτε τα λαχανικά σας με υπέροχες ανταμοιβές εδώ!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Board">
+        <item name="zoo.window.infoLayers.halloween2016Board.title"><![CDATA[Αγυρτεία]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Comic">
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer1.bubble"><![CDATA[Τι κάνουν αυτά τα μυστηριώδη φίλτρα εδώ; Ανακάλυψε σε τι χρησιμεύουν και κέρδισε ανταμοιβές, συμπεριλαμβανομένων αποκλειστικών αντικειμένων για το Χάλογουιν για τον ζωολογικό κήπο σου!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας όπως συνήθως και μαζέψτε τα πολύχρωμα μπουκάλια που ξεπροβάλλουν από τα περιβλήματά σας. Ανοίξτε τα στο ταμπλό του παιχνιδιού και κερδίστε ανταμοιβές.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer3.content"><![CDATA[Μόλις ανοίξετε όλα τα μπουκάλια, ο πίνακας θα επανέλθει στις εργοστασιακές του ρυθμίσεις και μπορείτε να ξεκινήσετε από την αρχή! Τα μπουκάλια θα εμφανίζονται μέχρι το τέλος της εκδήλωσης. Μετά από αυτό, θα έχετε 24 ώρες για να τα χρησιμοποιήσετε.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.over"><![CDATA[Χρειάζεστε ακόμα μπουκάλια (αριθμός: %count%) για αυτό το βήμα!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.default"><![CDATA[Ανταλλάξτε μπουκάλια με υπέροχες ανταμοιβές εδώ!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.winter2016Comic">
+        <item name="zoo.window.infoLayers.winter2016Comic.layer1.bubble"><![CDATA[Τα Χριστούγεννα ήρθαν! Χιονίζει στον ζωολογικό κήπο και τα ζώα γράφουν ένα γράμμα στον Άγιο Βασίλη. Καλά Χριστούγεννα! Οι πιγκουίνοι στολίζουν το τζάκι και χρειάζονται βοήθεια! Κερδίστε χριστουγεννιάτικα είδη παίζοντας το επιτραπέζιο παιχνίδι!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας όπως συνήθως και μαζέψτε τους μελόψωμους που θα ξεπηδήσουν από τα κλουβιά σας. Ταξιδέψτε στο ταμπλό του παιχνιδιού και συλλέξτε βραβεία.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer3.content"><![CDATA[Μόλις τελειώσετε το παιχνίδι, το ταμπλό θα επαναρυθμιστεί και μπορείτε να ξεκινήσετε από την αρχή! Μπορείτε να συλλέγετε gingerbread men μέχρι το τέλος της εκδήλωσης. Μετά από αυτό, θα έχετε 24 ώρες για να τους χρησιμοποιήσετε.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.over"><![CDATA[Για αυτό το βήμα χρειάζεστε ακόμα gingerbread men (αριθμός: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.default"><![CDATA[Ανταλλάξτε τους gingerbread men σας με φοβερές ανταμοιβές εδώ!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Comic">
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer1.bubble"><![CDATA[Γεια σας! Ψάχνετε για αγάπη; Παίξτε το επιτραπέζιο παιχνίδι μας για την Ημέρα του Αγίου Βαλεντίνου και αποκτήστε πολλά αντικείμενα για τον Υποθαλάσσιο Κόσμο. Ίσως βρείτε την αληθινή σας αγάπη στο μονοπάτι της αγάπης.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας όπως συνήθως και μαζέψτε τα πολύχρωμα κοχύλια που θα ξεπροβάλλουν από τα κλουβιά σας. Ταξιδέψτε στο ταμπλό του παιχνιδιού και συλλέξτε βραβεία.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer3.content"><![CDATA[Μόλις τελειώσετε το παιχνίδι, το ταμπλό θα επανέλθει στις εργοστασιακές του ρυθμίσεις και μπορείτε να ξεκινήσετε από την αρχή! Τα κελύφη θα εμφανίζονται μέχρι το τέλος της εκδήλωσης. Μετά από αυτό, θα έχετε 24 ώρες για να τα χρησιμοποιήσετε.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.over"><![CDATA[Εξακολουθείτε να χρειάζεστε κελύφη για αυτό το βήμα (αριθμός: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.default"><![CDATA[Ανταλλάξτε κελύφη για φοβερές ανταμοιβές εδώ!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Board">
+        <item name="zoo.window.infoLayers.valentine2017Board.title"><![CDATA[Ημέρα του Αγίου Βαλεντίνου]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Comic">
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer1.bubble"><![CDATA[Ταξιδέψτε μαζί μας στην Καμπότζη και εξερευνήστε τα βάθη των τροπικών δασών. Συλλέξτε μάσκες khon και ανακαλύψτε τα μυστικά των αρχαίων ναών των Khmer. Πλούτος και περιπέτεια σας περιμένουν!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer2.content"><![CDATA[Φροντίστε τα ζώα σας ως συνήθως και συλλέξτε μάσκες khon που θα ξεπροβάλλουν από τα κλουβιά σας. Ταξιδέψτε στο ταμπλό του παιχνιδιού και συλλέξτε βραβεία.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer3.content"><![CDATA[Μόλις τελειώσετε το παιχνίδι, το ταμπλό θα επανέλθει στις εργοστασιακές του ρυθμίσεις και μπορείτε να ξεκινήσετε από την αρχή! Οι μάσκες Khon θα εμφανίζονται μέχρι το τέλος της εκδήλωσης. Μετά από αυτό, θα έχετε 24 ώρες για να τις χρησιμοποιήσετε.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.over"><![CDATA[Για αυτό το βήμα χρειάζεστε ακόμα μάσκες khon (αριθμός: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.default"><![CDATA[Υποβάλετε τις μάσκες khon σας εδώ και κερδίστε υπέροχα δώρα!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Board">
+        <item name="zoo.window.infoLayers.cambodia2017Board.title"><![CDATA[Ταξίδι στην Καμπότζη]]></item>
+      </category>
+    </category>
+  </category>
+</language>

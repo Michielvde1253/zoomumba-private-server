@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Επιπλέον προσπάθεια]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Μπραβο, έχεις μια επιπλέον προσπάθεια!<br> Για κάθε μέρα που συνδέεσαι, θα έχεις μια επιπλέον περιστροφή στον τυχερό τροχό.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Κάντε κλικ και δοκιμάστε την τύχη σας!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Ή κάντε κλικ στο κτίριο με τον τυχερό τροχό στην πόλη. Κάθε περιστροφή εγγυάται μεγάλες ανταμοιβές!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Περαιτέρω προσπάθειες]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Θα θέλατε να αγοράσετε άλλη μια προσπάθεια;]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Συγχαρητήρια!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Μπλιαχ! Κέρδισες:]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Γύρισε ξανά, μόνο στον τυχερό τροχό μπορείς να κερδίσεις!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Ταΐστρα John για 1 ώρα]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Προμηθευτής Ύδρευσης Paul για 1 ώρα]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Θυρωρός Στάνλεϊ για 1 ώρα]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Εκτροφέας Sonja για 1 ώρα]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Απορριμματοσυλλέκτης Γιώργος για 1 ώρα]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Ταμίας για 1 ώρα]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Ταΐστρα John για 3 ώρες]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Προμηθευτής Ύδρευσης Paul για 3 ώρες]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Θυρωρός Στάνλεϊ για 3 ώρες]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Εκτροφέας Sonja για 3 ώρες]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Απορριμματοσυλλέκτης Γιώργος για 3 ώρες]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Ταμίας για 3 ώρες]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[Μπόνους 30% EP για 8 ολόκληρες ώρες!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100% μπόνους EP για 8 ολόκληρες ώρες!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50% μπόνους ποδιών για 5 ολόκληρες ώρες!]]></item>
+    </category>
+  </category>
+</language>

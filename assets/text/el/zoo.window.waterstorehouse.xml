@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.waterstorehouse">
+    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Πύργος νερού]]></item>
+    <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Κτίριο αποθήκης]]></item>
+    <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Τα ζώα χρειάζονται πολύ νερό. Αναβαθμίστε τον υδατόπυργο σας επίπεδο προς επίπεδο και βεβαιωθείτε ότι έχετε αρκετό νερό για όλους καθώς ο ζωολογικός κήπος σας μεγαλώνει.]]></item>
+    <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Τα ζώα σας χρειάζονται πολύ φαγητό. Αναπτύξτε τον αποθηκευτικό σας χώρο κατά επίπεδο και βεβαιωθείτε ότι έχετε αρκετή τροφή για όλους καθώς ο ζωολογικός σας κήπος μεγαλώνει.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Μπράβο! Επεκτείνατε την αποθήκη στο μέγιστο επίπεδο.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[Μπράβο! Επεκτείνατε τον πύργο νερού στο μέγιστο επίπεδο.]]></item>
+    <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Ενεργοποίηση: %have% / %max%]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.water"><![CDATA[Τρέχουσα χωρητικότητα του πύργου νερού]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.store"><![CDATA[Τρέχουσα χωρητικότητα αποθήκευσης]]></item>
+    <item name="zoo.window.waterstorehouse.buy.titel"><![CDATA[Διαστέλλω]]></item>
+    <item name="zoo.window.waterstorehouse.buy.text"><![CDATA[Θα θέλατε να επεκτείνετε τον ζωολογικό σας κήπο;]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgraderc"><![CDATA[Επέκταση για ζωοδολλάρια]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Ανάπτυξη για zoogrosh]]></item>
+    <item name="zoo.window.waterstorehouse.buy.nextcap"><![CDATA[Νέο μέγεθος:]]></item>
+  </category>
+</language>

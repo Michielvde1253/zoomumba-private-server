@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.mail">
+    <category name="zoo.mail.tabs">
+      <item name="zoo.mail.tabs.inbox"><![CDATA[Εισερχόμενα]]></item>
+      <item name="zoo.mail.tabs.outbox"><![CDATA[Εξερχόμενα]]></item>
+      <item name="zoo.mail.tabs.newMail"><![CDATA[Νέο μήνυμα]]></item>
+      <item name="zoo.mail.tabs.contactList"><![CDATA[Βιβλίο διευθύνσεων]]></item>
+    </category>
+    <category name="zoo.mail.general">
+      <item name="zoo.mail.general.pagination"><![CDATA[Σελίδα %x% από %y%]]></item>
+      <item name="zoo.mail.general.message"><![CDATA[Μήνυμα]]></item>
+      <item name="zoo.mail.general.send"><![CDATA[Στέλνω]]></item>
+      <item name="zoo.mail.general.close"><![CDATA[Κοντά]]></item>
+      <item name="zoo.mail.general.userWrote"><![CDATA[Ο χρήστης %user% έγραψε:]]></item>
+      <item name="zoo.mail.general.userSent"><![CDATA[Γράψατε στον παίκτη %user%:]]></item>
+    </category>
+    <category name="zoo.mail.column">
+      <item name="zoo.mail.column.action"><![CDATA[Δράση]]></item>
+      <item name="zoo.mail.column.messageSender"><![CDATA[Αποστολέας]]></item>
+      <item name="zoo.mail.column.messageReceiver"><![CDATA[Παραλήπτης]]></item>
+      <item name="zoo.mail.column.messageTitle"><![CDATA[Θέμα]]></item>
+      <item name="zoo.mail.column.messageDate"><![CDATA[Ημερομηνία]]></item>
+      <item name="zoo.mail.column.playerName"><![CDATA[Όνομα Παίκτη]]></item>
+      <item name="zoo.mail.column.level"><![CDATA[Επίπεδο]]></item>
+    </category>
+    <category name="zoo.mail.info">
+      <item name="zoo.mail.info.addUserTitle"><![CDATA[Προσθέτω]]></item>
+      <item name="zoo.mail.info.addUserQuestion"><![CDATA[Θέλετε πραγματικά να προσθέσετε τον παίκτη %user% στο βιβλίο διευθύνσεών σας;]]></item>
+      <item name="zoo.mail.info.deleteMessageTitle"><![CDATA[Διαγράφω]]></item>
+      <item name="zoo.mail.info.deleteMessageQuestion"><![CDATA[Θέλετε πραγματικά να διαγράψετε αυτό το μήνυμα;]]></item>
+      <item name="zoo.mail.info.deleteContactTitle"><![CDATA[Διαγράφω]]></item>
+      <item name="zoo.mail.info.deleteContactQuestion"><![CDATA[Θέλετε πραγματικά να αφαιρέσετε τον παίκτη %user% από το βιβλίο διευθύνσεών σας;]]></item>
+      <item name="zoo.mail.info.noRecipientTitle"><![CDATA[Σφάλμα]]></item>
+      <item name="zoo.mail.info.noRecipientMessage"><![CDATA[Αυτός ο παίκτης δεν υπάρχει.]]></item>
+      <item name="zoo.mail.info.sentOkTitle"><![CDATA[Απεστάλη]]></item>
+      <item name="zoo.mail.info.noAddSelf"><![CDATA[Δεν μπορείτε να προσθέσετε τον εαυτό σας στο βιβλίο διευθύνσεών σας.]]></item>
+      <item name="zoo.mail.info.sentOkMessage"><![CDATA[Το μήνυμά σας στάλθηκε με επιτυχία.]]></item>
+      <item name="zoo.mail.info.addUserMessage"><![CDATA[Παρακαλώ εισάγετε το όνομα ή το αναγνωριστικό του παίκτη, αν θέλετε να τον προσθέσετε στο βιβλίο διευθύνσεών σας.]]></item>
+      <item name="zoo.mail.info.multipleUserFound"><![CDATA[Αυτό το όνομα εμφανίζεται συχνά. Παρακαλούμε εισάγετε το αναγνωριστικό του παίκτη, το οποίο είναι μοναδικό και διακριτικό.]]></item>
+      <item name="zoo.mail.info.writeMailError.noUserName"><![CDATA[Παρακαλώ εισάγετε έναν παραλήπτη για να μπορέσει να σταλεί το μήνυμά σας.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSubject"><![CDATA[Παρακαλώ εισάγετε ένα θέμα για να μπορέσει να σταλεί το μήνυμά σας.]]></item>
+      <item name="zoo.mail.info.writeMailError.noMessage"><![CDATA[Παρακαλώ εισάγετε το κείμενο του μηνύματος για να μπορέσει να σταλεί το μήνυμά σας.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSelfSend"><![CDATA[Δεν μπορείτε να στείλετε μήνυμα στον εαυτό σας.]]></item>
+      <item name="zoo.mail.info.writeMailError.notFriend"><![CDATA[Δυστυχώς, μπορείτε να στέλνετε μηνύματα μόνο σε παίκτες που βρίσκονται στη λίστα φίλων σας.]]></item>
+      <item name="zoo.mail.info.writeMailError.userAlreadyExists"><![CDATA[Αυτή η συσκευή αναπαραγωγής έχει ήδη προστεθεί στο βιβλίο διευθύνσεών σας.]]></item>
+    </category>
+  </category>
+</language>

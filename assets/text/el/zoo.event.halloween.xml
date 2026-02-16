@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Γεια! Είμαι η Λούκα και λατρεύω τις νυχτερίδες! Αλλά ιδιαίτερα τα χαριτωμένα μωρά τους. Φέρτε μου όσο το δυνατόν περισσότερα μωρά, και μετά θα έχω μερικά πολύ ωραία αντικείμενα για το Χάλογουιν. Απλώς ανταλλάξτε γλυκά για να πάρετε τα αντικείμενα στα αριστερά ή ξινά για να πάρετε τα αντικείμενα στα δεξιά.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Καταγραφή εμπορευμάτων]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Επίλεξε πόσα %species% μωρά θέλεις να μετακινήσεις στο απόθεμά σου.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Ζητούμε συγγνώμη! ...]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Δυστυχώς, δεν έχετε αρκετές μωρές νυχτερίδες στο απόθεμά σας. Αναπαράγετε μωρές νυχτερίδες και μετακινήστε τες στο απόθεμά σας για να αγοράσετε αυτό το αντικείμενο.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Μικρές νυχτερίδες στο απόθεμα]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Ανταλλάξτε μικρές νυχτερίδες με γλυκά]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Αντικαταστήστε τις μικρές νυχτερίδες με ξινές]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Αριθμός: Γλυκό]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Επενδύστε %x% γλυκά για να ξεκλειδώσετε αυτό το αντικείμενο]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Επενδύστε %x% ξινό για να ξεκλειδώσετε αυτό το αντικείμενο]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Αριθμός: Ξινό]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Βοήθεια]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Μετακινήστε τα μωρά νυχτερίδες στο απόθεμα]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Καλώς ορίσατε στην εκδήλωση του Χάλογουιν!<br> Από <b>25 Οκτωβρίου έως 1 Νοεμβρίου</b>, ένα τρομακτικό πάρτι ξεκινά στον ζωολογικό σας κήπο! Πολλά δώρα και εκπλήξεις σας περιμένουν. Στο επόμενο βήμα, θα δείτε πώς θα λειτουργήσουν όλα.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Μάζεψε όσο το δυνατόν περισσότερα <b>γλυκά</b> και <b>ξινά</b>! Χρειάζεσαι τα γλυκά και τα ξινά για να ενεργοποιήσεις τα τρέιλερ φαντασμάτων! Θα μάθεις πώς λειτουργούν όλα στην επόμενη σελίδα.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Αν έχετε αρκετά γλυκόξινα, μπορείτε να τα χρησιμοποιήσετε για να ενεργοποιήσετε <b>αντικείμενα</b>. Αλλά να είστε προσεκτικοί: Τα γλυκά θα σας κάνουν να κοιτάτε με το μάτι σας προς τα αριστερά, τα ξινά με το μάτι σας προς τα δεξιά. Το μάτι θα σας δείξει από ποια πλευρά ενεργοποιούνται τα αντικείμενα.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Μπορείτε να αποκτήσετε ενεργοποιημένα αντικείμενα ανταλλάσσοντάς τα με <b>μωρά νυχτερίδες</b>. Εκτρέφετε πολλές χαριτωμένες νυχτερίδες. Ένα νέο κουμπί στο μενού του περιβλήματος θα σας βοηθήσει να αποθηκεύσετε τα μωρά στο απόθεμά σας γρήγορα και εύκολα.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Καλή διασκέδαση στο τρομακτικό μαγαζί!<br> Για όλους τους ανυπόμονους: Γλυκόξινα μπορούν να ανταλλαχθούν με μικρά νυχτερίδες στο μαγαζί. Περισσότερες εκπλήξεις σας περιμένουν στο μαγαζί.<br> <br>Καλή διασκέδαση στο Halloween φέτος!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[Ήρθε η ώρα για λίγη τρομακτική διασκέδαση!<br>Από <b>31 Οκτωβρίου έως 6 Νοεμβρίου</b>, θα υπάρξει ένα πάρτι για το Χάλογουιν στον ζωολογικό σας κήπο!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Μάζεψε όσες περισσότερες <b>κολοκύθες</b> μπορείς! Θα πεταχτούν έξω από τα περιβλήματα καθώς εσύ φροντίζεις τα ζώα σου.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Προσθέστε τα στο μεγάλο καλάθι με τις κολοκύθες για τη <b>Μάχη της Κολοκύθας</b> μας. Όσο περισσότερες κολοκύθες παραδώσετε, τόσο πιο τρομακτικές ανταμοιβές μπορείτε να κερδίσετε.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Καθώς φροντίζετε τα ζώα σας, λιχουδιές θα ξεπηδούν από τα περιβλήματα. Μπορείτε να τις συλλέξετε όλοι μαζί. Η γραμμή ενεργειών θα γεμίσει και ένα αιωρούμενο μάτι θα σας δείξει ποια τρομακτικά βραβεία είναι διαθέσιμα για όλους. Κάντε κλικ στην ανταμοιβή μόλις ενεργοποιηθεί.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Μάζεψε κολοκύθες για τη μεγάλη μάχη της κολοκύθας. Όσο περισσότερες μαζεύεις, τόσο περισσότερα βραβεία μπορείς να κερδίσεις.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Όλοι παίζουν μαζί! Δώρα από όλους τους ζωολογικούς κήπους θα γεμίσουν το μετρητή και θα ξεκλειδώσουν αυτόματα δώρα για όλους!]]></item>
+    </category>
+  </category>
+</language>

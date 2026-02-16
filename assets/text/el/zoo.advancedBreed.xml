@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Γεια! Είμαι η Soňa Starostlivá, νοσοκόμα εδώ στον ζωολογικό κήπο. Ανυπομονείτε να αναπαράγετε τα νέα χαριτωμένα μικρά; Θα σας εξηγήσω πώς λειτουργεί! Πρώτα, πρέπει να αποφασίσετε ποιο είδος ζώου θέλετε να αναπαράγετε.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Διάλεξε δύο ενήλικα ζώα από το απόθεμά σου για να γίνουν γονείς. Όσο πιο σπάνια είναι, τόσο πιο πιθανό είναι να αποκτήσουν ένα ακόμη πιο σπάνιο μωρό. Ωστόσο, οι γονείς πρέπει να παραμείνουν μαζί μου για αυτήν την αναπαραγωγή.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Η χρήση επιπλέον συλλεγμένων αντικειμένων, ισχυρής τροφής, υπερτροφής ή υπερφάρμακου θα αυξήσει τις πιθανότητές σας να μεγαλώσετε ένα ιδιαίτερα σπάνιο μωρό. Όσο περισσότερες καρδιές έχει το αντικείμενο, τόσο μεγαλύτερες είναι οι πιθανότητες!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Έχετε σχεδόν τελειώσει με τις προετοιμασίες! Ελέγξτε ξανά τις επιλογές σας πριν ξεκινήσουν όλα. Θέλετε να αλλάξετε κάτι; Κανένα πρόβλημα, απλώς χρησιμοποιήστε το κουμπί "Πίσω"!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[Στο πείραμα αναπαραγωγής χρησιμοποιήθηκαν τα ακόλουθα ζώα και αντικείμενα:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Σταθμός αναπαραγωγής έτοιμος]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Εδώ είναι που εκτρέφεται]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Ένα μωρό γεννιέται!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Τα μωρά είναι εδώ!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Έναρξη αναπαραγωγής]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Χρησιμοποιήστε ουσία]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Θέλετε πραγματικά να ξεκινήσετε την αναπαραγωγή χωρίς συμπληρώματα; Σκεφτείτε προσεκτικά - με τα συμπληρώματα, έχετε περισσότερες πιθανότητες να αποκτήσετε έναν σπάνιο απόγονο.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Είσαι στη μέση των προετοιμασιών. Θέλεις πραγματικά να φύγεις από τον σταθμό αναπαραγωγής;]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Σταθμός αναπαραγωγής]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Αυτά τα ζώα γεννούν μωρά αυτή τη στιγμή:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Χρόνος που απομένει:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Η Ουσία της Τόλια]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Το άρωμα Tolija μειώνει τον χρόνο αναπαραγωγής κατά 50%.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Ζήτω - απέκτησες μωρό! Μπορείς να βρεις αυτό το χαριτωμένο μικρό στο απόθεμά σου:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Ζήτω - απέκτησες παιδί! Μπορείς να βρεις αυτό το χαριτωμένο διαβολάκι στο απόθεμά σου:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Μεταφέρετε το μικρό στο φυτώριο ζώων για να μεγαλώσει.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Φέρτε τα μικρά στο φυτώριο ζώων για να μεγαλώσουν.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Προειδοποίηση: Η αναπαραγωγή βρίσκεται σε εξέλιξη αυτήν τη στιγμή! Εάν μετακινήσετε τον σταθμό στο απόθεμά σας τώρα, η διαδικασία θα διακοπεί και θα χάσετε όλα τα ζώα και τα συμπληρώματα. Είστε σίγουροι ότι θέλετε να τον μετακινήσετε τώρα;]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Προειδοποίηση: Η αναπαραγωγή βρίσκεται σε εξέλιξη αυτήν τη στιγμή! Εάν πουλήσετε τον σταθμό τώρα, η διαδικασία θα διακοπεί και όλα τα ζώα και τα συμπληρώματα θα χαθούν. Είστε σίγουροι ότι θέλετε να πουλήσετε τον σταθμό τώρα;]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Εάν η διαδικασία αναπαραγωγής ολοκληρωθεί μετά το τέλος της εκδήλωσης, θα λάβετε μόνο 1 μωρό.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.powerUpItems">
+    <item name="zoo.powerUpItems.setName.7"><![CDATA[Ενισχυτικό ποδιού]]></item>
+    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[Το Paw Booster θα σας δώσει 50% περισσότερες Πόδες για 5 ώρες. Θα ενεργοποιηθεί αμέσως μετά την επιλογή.]]></item>
+  </category>
+</language>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.upgrade">
+    <item name="zoo.window.upgrade.info"><![CDATA[Αναβαθμίστε τα περιβλήματά σας, ομορφύνετέ τα και κάντε τον ζωολογικό σας κήπο ακόμα πιο ελκυστικό.]]></item>
+    <item name="zoo.window.upgrade.button"><![CDATA[Αναβαθμίζω]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[Από τις 21 έως τις 27 Απριλίου, το πασχαλινό λαγουδάκι θα πηδάει στον ζωολογικό σας κήπο και θα αφήνει ένα αυγό. Συλλέξτε τα και ανταλλάξτε τα με πασχαλινά διακοσμητικά περιβλήματος, πασχαλινά λαγουδάκια και περιβλήματα.]]></item>
+  </category>
+</language>

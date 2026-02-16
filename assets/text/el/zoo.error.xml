@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.error">
+    <category name="zoo.error.user">
+      <item name="zoo.error.user.unknown"><![CDATA[Αυτός ο παίκτης δεν υπάρχει.]]></item>
+      <item name="zoo.error.user.notEnoughCr"><![CDATA[Δεν έχεις αρκετά ζωοδολάρια για αυτό.]]></item>
+      <item name="zoo.error.user.notEnoughCv"><![CDATA[Δεν έχεις αρκετά ζόγκρο για αυτό.]]></item>
+      <item name="zoo.error.user.notRequiredLevel"><![CDATA[Δεν έχεις φτάσει στο απαραίτητο επίπεδο.]]></item>
+    </category>
+    <category name="zoo.error.login">
+      <item name="zoo.error.login.head"><![CDATA[Σφάλμα σύνδεσης]]></item>
+      <item name="zoo.error.login.text"><![CDATA[Παρουσιάστηκε σφάλμα κατά τη σύνδεση. Ελέγξτε τα στοιχεία σας και δοκιμάστε ξανά.]]></item>
+      <item name="zoo.error.login.blocked"><![CDATA[Έχετε αποκλειστεί από έναν διαχειριστή.]]></item>
+      <item name="zoo.error.login.100.title"><![CDATA[Σφάλμα]]></item>
+      <item name="zoo.error.login.100.info"><![CDATA[Έχετε ήδη χρησιμοποιήσει τον κωδικό μπόνους σε αυτόν τον λογαριασμό, δεν είναι δυνατό να τον χρησιμοποιήσετε ξανά.]]></item>
+    </category>
+    <category name="zoo.error.conf">
+      <item name="zoo.error.conf.unknownObj"><![CDATA[Άγνωστο αντικείμενο]]></item>
+      <item name="zoo.error.conf.notBuyable"><![CDATA[Το προϊόν δεν είναι διαθέσιμο προς αγορά αυτήν τη στιγμή]]></item>
+      <item name="zoo.error.conf.notEvent"><![CDATA[Το στοιχείο δεν ισχύει προς το παρόν]]></item>
+    </category>
+    <category name="zoo.error.badData">
+      <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Λυπούμαστε!]]></item>
+      <item name="zoo.error.badData.dailyQuests.text"><![CDATA[Ωχ! Παρουσιάστηκε σφάλμα. Το πρόβλημα έχει αναφερθεί στην ομάδα!]]></item>
+    </category>
+    <category name="zoo.error.field">
+      <item name="zoo.error.field.unknownObj"><![CDATA[Το αντικείμενο δεν είναι διαθέσιμο στο παιχνίδι.]]></item>
+      <item name="zoo.error.field.blocked"><![CDATA[Καταληφθέν πεδίο]]></item>
+      <item name="zoo.error.field.breedFailed"><![CDATA[Η αναπαραγωγή απέτυχε. Δυστυχώς, τα ζώα σας δεν απέκτησαν απογόνους.]]></item>
+      <item name="zoo.error.field.wrongSpecies"><![CDATA[Ακατάλληλο ζώο για αυτό το περίβλημα.]]></item>
+      <item name="zoo.error.field.maxChildReached"><![CDATA[Έχετε φτάσει τον μέγιστο αριθμό κουταβιών.]]></item>
+      <item name="zoo.error.field.maleAdultNeeded"><![CDATA[Χρειάζεσαι έναν άντρα για αυτό.]]></item>
+      <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[Χρειάζεσαι μια γυναίκα για αυτό.]]></item>
+      <item name="zoo.error.field.maxAdultReached"><![CDATA[Έχετε φτάσει τον μέγιστο αριθμό ενηλίκων.]]></item>
+      <item name="zoo.error.field.buildingNotFinished"><![CDATA[Αυτό το κτίριο βρίσκεται ακόμη υπό κατασκευή.]]></item>
+    </category>
+    <category name="zoo.error.db">
+      <item name="zoo.error.db.failUpdate"><![CDATA[Η ενημέρωση της βάσης δεδομένων απέτυχε.]]></item>
+    </category>
+    <category name="zoo.error.invite">
+      <item name="zoo.error.invite.requesterror"><![CDATA[Παρουσιάστηκε σφάλμα.]]></item>
+      <item name="zoo.error.invite.recruitexists"><![CDATA[Έχετε ήδη προσκαλέσει αυτόν τον χρήστη.]]></item>
+      <item name="zoo.error.invite.global"><![CDATA[Έχει εξαντληθεί το όριο προσκλήσεων. Παρακαλούμε περιμένετε 24 ώρες πριν στείλετε άλλη πρόσκληση (για όλα τα παιχνίδια).]]></item>
+      <item name="zoo.error.invite.instance"><![CDATA[Έχει εξαντληθεί το όριο προσκλήσεων. Παρακαλούμε περιμένετε 24 ώρες πριν στείλετε άλλη πρόσκληση (για όλα τα παιχνίδια).]]></item>
+      <item name="zoo.error.invite.error"><![CDATA[Παρουσιάστηκε σφάλμα... δοκιμάστε ξανά αργότερα.]]></item>
+    </category>
+  </category>
+</language>

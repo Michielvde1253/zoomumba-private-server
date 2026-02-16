@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.recycling">
+    <item name="zoo.window.recycling.title"><![CDATA[Ανακύκλωση]]></item>
+    <item name="zoo.window.recycling.info"><![CDATA[Θα βρείτε πολλές πρώτες ύλες στα απόβλητα που μπορείτε να ανακυκλώσετε και να παράγετε πολύτιμα υλικά.]]></item>
+    <item name="zoo.window.recycling.storage.info"><![CDATA[Χωρητικότητα αποθήκης: %count% <br> της συνολικής χωρητικότητας %maxcount%]]></item>
+    <item name="zoo.window.recycling.produce.text"><![CDATA[Κατασκευάστε πόρους από τα συλλεγμένα απόβλητα. Ο χρόνος που απαιτείται για την κατασκευή αυτών των υλικών εμφανίζεται στα αριστερά. Παρακάτω μπορείτε να δείτε την ποσότητα των αποβλήτων που απαιτούνται και τον αριθμό των ζόογκρος. Επιλέξτε πόσους πόρους θέλετε να κατασκευάσετε. Κάθε φορά που κατασκευάζετε κάτι, έχετε την ευκαιρία να αποκτήσετε έναν σπάνιο πόρο. Μπορείτε να αυξήσετε αυτήν την πιθανότητα χρησιμοποιώντας το υπερφίλτρο.]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertitle"><![CDATA[Υπερφίλτρο]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertext"><![CDATA[Αυξήστε τις πιθανότητές σας να αποκτήσετε έναν σπάνιο πόρο κατά %percent%%]]></item>
+    <item name="zoo.window.recycling.produce.rarechancetext"><![CDATA[Πιθανότητα απόκτησης ενός σπάνιου πόρου: %percent%%]]></item>
+    <item name="zoo.window.recycling.produce.startrecycle"><![CDATA[Ξεκινήστε την ανακύκλωση]]></item>
+    <item name="zoo.window.recycling.produce.insertfilter"><![CDATA[Εφαρμογή φίλτρου]]></item>
+    <item name="zoo.window.recycling.produce.deletefilter"><![CDATA[Αφαίρεση φίλτρου]]></item>
+    <item name="zoo.window.recycling.card.create"><![CDATA[Μάρκα]]></item>
+    <category name="zoo.window.recycling.slot">
+      <item name="zoo.window.recycling.slot.title.buy"><![CDATA[Ενοικίαση τώρα]]></item>
+      <item name="zoo.window.recycling.slot.title.chooseItem"><![CDATA[Διαθέσιμος]]></item>
+      <item name="zoo.window.recycling.slot.button.processfinished"><![CDATA[Σηκώνω]]></item>
+      <item name="zoo.window.recycling.slot.button.start"><![CDATA[Αρχή]]></item>
+      <item name="zoo.window.recycling.slot.button.chooseItem"><![CDATA[Επιλέγω]]></item>
+    </category>
+    <category name="zoo.window.recycling.info">
+      <item name="zoo.window.recycling.info.switchInfo"><![CDATA[Χρησιμοποιήστε αυτό το υλικό για να δημιουργήσετε τα ακόλουθα αντικείμενα:]]></item>
+    </category>
+  </category>
+</language>

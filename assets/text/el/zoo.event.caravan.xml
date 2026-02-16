@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Πηγαίνω σε ένα καταφύγιο όπου θέλουν να αυξήσουν τον πληθυσμό των - %species%. Μπορείτε να με βοηθήσετε; Θα σας δανείσω ένα ζευγάρι - %species% για 120 ώρες. Για %amount% από %species% μωρά, θα πάρετε ένα ενήλικο.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Δανειστείτε ένα ζευγάρι]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Ανακόνδας]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Τέλεια! Τώρα έχεις τουλάχιστον 5 μωρά στο απόθεμά σου. Ανταλλάξ' τα γρήγορα μαζί μου με έναν ενήλικο Ουρακοτάγκο!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Τέλεια! Με βοήθησες πολύ! Τώρα θα πάω τα μικρά στο καταφύγιο και θα τα αφήσω ελεύθερα εκεί. Σε ευχαριστώ πολύ και τα λέμε την επόμενη φορά!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[Το κινητό ζώο επιστρέφει στο δρόμο του για το καταφύγιο, φέρνοντας μαζί του δύο ζώα που δανειστήκατε. Μπορείτε να βρείτε τα νεογέννητα μωρά σας στο απόθεμά σας.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Σου απομένουν %count% ώρες για να ανταλλάξεις μικρά παιδιά.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Μωρά Ουρακοτάγκοι στο απόθεμά σας]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Μετακινήστε τα μωρά Ουρακοτάγκων στο απόθεμα.]]></item>
+    </category>
+  </category>
+</language>

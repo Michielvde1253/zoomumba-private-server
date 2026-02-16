@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.gift">
+    <category name="zoo.window.gift.superFeedPack">
+      <item name="zoo.window.gift.superFeedPack.info"><![CDATA[Σήμερα σε προσφορά - πακέτα υπερτροφών! Επιλέξτε ανάμεσα σε 3 επιλογές: "Καλή αρχή", "Master" και "Expert". Ως ειδικός, μπορείτε να στείλετε επιπλέον δώρα στους 5 φίλους σας. Μην διστάσετε!]]></item>
+    </category>
+    <category name="zoo.window.gift.recipients">
+      <item name="zoo.window.gift.recipients.headerGift"><![CDATA[Δώρο]]></item>
+      <item name="zoo.window.gift.recipients.headerUsername"><![CDATA[Όνομα παίκτη]]></item>
+      <item name="zoo.window.gift.recipients.headerUserID"><![CDATA[Αναγνωριστικό παίκτη]]></item>
+      <item name="zoo.window.gift.recipients.info"><![CDATA[Διάλεξε 5 φίλους και στείλε ένα δώρο στον καθένα:]]></item>
+      <item name="zoo.window.gift.recipients.button.send"><![CDATA[Δώρο]]></item>
+    </category>
+    <category name="zoo.window.gift.unwrapped">
+      <item name="zoo.window.gift.unwrapped.title"><![CDATA[Αυτό θα είναι έκπληξη!]]></item>
+      <item name="zoo.window.gift.unwrapped.text.1"><![CDATA[Έχετε λάβει το ακόλουθο δώρο:]]></item>
+      <item name="zoo.window.gift.unwrapped.text.2"><![CDATA[Το δώρο σας θα χρεωθεί από τον λογαριασμό σας αμέσως μετά την αποσυσκευασία.]]></item>
+    </category>
+  </category>
+</language>

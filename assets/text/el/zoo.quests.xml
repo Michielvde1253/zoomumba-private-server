@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.quests">
+    <category name="zoo.quests.tabs">
+      <item name="zoo.quests.tabs.daily"><![CDATA[Καθημερινές εργασίες]]></item>
+      <item name="zoo.quests.tabs.achievements"><![CDATA[Τιμητικές διακρίσεις]]></item>
+      <item name="zoo.quests.tabs.collectables"><![CDATA[Συλλογές]]></item>
+    </category>
+    <category name="zoo.quests.daily">
+      <item name="zoo.quests.daily.info"><![CDATA[Υπάρχει πολλή δουλειά που πρέπει να γίνει κάθε μέρα σε κάθε ζωολογικό κήπο: κάθε χέρι βοήθειας είναι ευπρόσδεκτο! Αναλάβετε αυτές τις καθημερινές εργασίες και ολοκληρώστε τες.]]></item>
+      <item name="zoo.quests.daily.nextquest.timestamp"><![CDATA[Νέες εργασίες σε:]]></item>
+      <item name="zoo.quests.daily.refreshTitle"><![CDATA[Καθημερινές εργασίες]]></item>
+      <item name="zoo.quests.daily.refreshQuestion"><![CDATA[Με μια μικρή χρέωση μπορείτε να αποκτήσετε νέες καθημερινές εργασίες. Θα θέλατε;]]></item>
+      <item name="zoo.quests.daily.taskTitle"><![CDATA[Εργο]]></item>
+      <item name="zoo.quests.daily.rewardTitle"><![CDATA[Αμοιβή]]></item>
+      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Έναρξη\εργασίας]]></item>
+      <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Λάβετε\nανταμοιβή]]></item>
+      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Διακοπή\εργασίας]]></item>
+      <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Εργο]]></item>
+      <item name="zoo.quests.daily.window.activequest.info"><![CDATA[Εκτελείτε ήδη μια άλλη εργασία. Ολοκληρώστε την ενεργή εργασία πριν ξεκινήσετε την επόμενη.]]></item>
+      <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Ματαίωση]]></item>
+      <item name="zoo.quests.daily.window.abortquest.info"><![CDATA[Εάν ακυρώσετε αυτήν την εργασία, θα αφαιρεθεί από τη λίστα εργασιών σας. Είστε βέβαιοι ότι θέλετε να την ακυρώσετε;]]></item>
+      <item name="zoo.quests.daily.window.achievereward.title"><![CDATA[Συγχαρητήρια!]]></item>
+      <item name="zoo.quests.daily.window.achievereward.info"><![CDATA[Ολοκληρώσατε με επιτυχία την εργασία σας και λάβετε την ακόλουθη ανταμοιβή:]]></item>
+    </category>
+    <category name="zoo.quests.help">
+      <item name="zoo.quests.help.daily.title"><![CDATA[Παραδείγματα ανάγνωσης]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Παράδειγμα 1: Δώστε 50 μπάλες τροφής σε οποιαδήποτε ζώα.<br>Παράδειγμα 2: Μεγαλώστε 2 λιονταράκια.]]></item>
+    </category>
+    <category name="zoo.quests.achievements.individual">
+      <item name="zoo.quests.achievements.individual.info.congrats"><![CDATA[Τέλεια! Ολοκληρώσατε με επιτυχία την ακόλουθη εργασία:]]></item>
+      <item name="zoo.quests.achievements.individual.1.title"><![CDATA[Μάστερ της αγκαλιάς]]></item>
+      <item name="zoo.quests.achievements.individual.2.title"><![CDATA[Φίλος των ζώων]]></item>
+      <item name="zoo.quests.achievements.individual.3.title"><![CDATA[Ειδικός αναπαραγωγής]]></item>
+      <item name="zoo.quests.achievements.individual.4.title"><![CDATA[Έμπορος/βιοτεχνίτισσα]]></item>
+      <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Μάστερ Μπριζόλας]]></item>
+      <item name="zoo.quests.achievements.individual.6.title"><![CDATA[Πρέπει να υπάρχει τάξη.]]></item>
+      <item name="zoo.quests.achievements.individual.7.title"><![CDATA[Ολικής άλεσης ανεμιστήρας]]></item>
+      <item name="zoo.quests.achievements.individual.8.title"><![CDATA[Μπράβο]]></item>
+      <item name="zoo.quests.achievements.individual.9.title"><![CDATA[Το γρασίδι είναι διασκεδαστικό]]></item>
+      <item name="zoo.quests.achievements.individual.10.title"><![CDATA[Εθισμένος σε βιταμίνες]]></item>
+      <item name="zoo.quests.achievements.individual.11.title"><![CDATA[Φρέσκο ​​ψάρι]]></item>
+      <item name="zoo.quests.achievements.individual.12.title"><![CDATA[Σβήσιμο δίψας]]></item>
+      <item name="zoo.quests.achievements.individual.1.requirement"><![CDATA[Αγκαλιάζονταν με τα άψογα ζώα τους.]]></item>
+      <item name="zoo.quests.achievements.individual.2.requirement"><![CDATA[Κατέχει %val% των ζώων.]]></item>
+      <item name="zoo.quests.achievements.individual.3.requirement"><![CDATA[Αυξήστε το %val% των μωρών.]]></item>
+      <item name="zoo.quests.achievements.individual.4.requirement"><![CDATA[Συλλέξτε %val% επί το εισόδημα σε zoogross για τα κτίριά σας.]]></item>
+      <item name="zoo.quests.achievements.individual.5.requirement"><![CDATA[Δώστε %val%-φορές κομμάτια κρέατος.]]></item>
+      <item name="zoo.quests.achievements.individual.6.requirement"><![CDATA[Εμφάνιση κάδου απορριμμάτων %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.7.requirement"><![CDATA[Τροφοδοσία %val% σιτηρών.]]></item>
+      <item name="zoo.quests.achievements.individual.8.requirement"><![CDATA[Κερδίστε %val% XP αδειάζοντας τον κάδο απορριμμάτων.]]></item>
+      <item name="zoo.quests.achievements.individual.9.requirement"><![CDATA[Χορτώστε %val% γρασίδι.]]></item>
+      <item name="zoo.quests.achievements.individual.10.requirement"><![CDATA[Δώστε %val% φρούτα.]]></item>
+      <item name="zoo.quests.achievements.individual.11.requirement"><![CDATA[Τροφοδοτήστε %val% των ψαριών.]]></item>
+      <item name="zoo.quests.achievements.individual.12.requirement"><![CDATA[Δώστε στα ζώα σας %val% νερό.]]></item>
+      <item name="zoo.quests.achievements.individual.bronze.congrats"><![CDATA[Τα ζώα σου χαίρονται επειδή ξεκλειδώσες ένα νέο κομμάτι παζλ στο σετ Χάλκινο.]]></item>
+      <item name="zoo.quests.achievements.individual.silver.congrats"><![CDATA[Τα ζώα σας χαίρονται επειδή κυκλοφορήσατε ένα νέο κομμάτι παζλ στο ασημένιο σετ.]]></item>
+      <item name="zoo.quests.achievements.individual.gold.congrats"><![CDATA[Τα ζώα σου χαίρονται επειδή ξεκλειδώσατε ένα νέο κομμάτι παζλ στο χρυσό σετ.]]></item>
+      <item name="zoo.quests.achievements.individual.platinum.congrats"><![CDATA[Τα ζώα σου χαίρονται επειδή ξεκλειδώσατε ένα νέο κομμάτι παζλ στο Πλατινένιο Σετ.]]></item>
+      <item name="zoo.quests.achievements.individual.open.achievements.info"><![CDATA[Τώρα πηγαίνετε στο παράθυρο εργασίας σας για να δείτε την εικόνα!]]></item>
+    </category>
+    <category name="zoo.quests.achievements.unlocked">
+      <item name="zoo.quests.achievements.unlocked.bronze.title"><![CDATA[Χάλκινο σετ]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.title"><![CDATA[Ασημένιο σετ]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.title"><![CDATA[Χρυσό σετ]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.title"><![CDATA[Σετ πλατίνας]]></item>
+      <item name="zoo.quests.achievements.unlocked.bronze.description"><![CDATA[Συγχαρητήρια! Ολοκληρώσατε με επιτυχία όλες τις αποστολές του Χάλκινου Σετ και θα λάβετε τις ακόλουθες ανταμοιβές:]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.description"><![CDATA[Συγχαρητήρια! Ολοκληρώσατε με επιτυχία όλες τις εργασίες του Ασημένιου Σετ και θα λάβετε τις ακόλουθες ανταμοιβές:]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.description"><![CDATA[Συγχαρητήρια! Ολοκληρώσατε με επιτυχία όλες τις εργασίες του Χρυσού Σετ και θα λάβετε τις ακόλουθες ανταμοιβές:]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.description"><![CDATA[Συγχαρητήρια! Ολοκληρώσατε με επιτυχία όλες τις εργασίες του Πλατινένιου Σετ και θα λάβετε τις ακόλουθες ανταμοιβές:]]></item>
+      <item name="zoo.quests.achievements.unlocked.open.achievements.info"><![CDATA[Τώρα μεταβείτε στο παράθυρο εργασιών σας για να δείτε την πλήρως ξεκλειδωμένη εικόνα!]]></item>
+      <item name="zoo.quests.help.daily.title"><![CDATA[Παραδείγματα ανάγνωσης]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Παράδειγμα 1: Δώστε 50x τροφή σε οποιαδήποτε ζώα.<br>Παράδειγμα 2: Μεγαλώστε 2 λιονταράκια.]]></item>
+    </category>
+  </category>
+</language>

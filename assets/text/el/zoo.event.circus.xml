@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Καλώς ορίσατε στο περιοδεύον τσίρκο! Σας παρουσιάζουμε το Μυστηριώδες Κουτί! Αγοράστε ένα κουτί και αποκτήστε ένα από τα 10 ζώα. Μπορείτε να έχετε έως και 20 κουτιά κάθε φορά και κάθε κουτί μπορεί να ανοιχτεί σε έως και 5 ώρες. Καλή διασκέδαση!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Ζώα:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Θερμά συγχαρητήρια!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[Τα ακόλουθα ζώα έχουν προστεθεί στο απόθεμά σου: %animal%. Αποκτήστε ακόμη περισσότερα μυστηριώδη κιβώτια για να αποκτήσετε ακόμη περισσότερα μοναδικά ζώα!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Ω, λυπούμαστε!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Έχεις ήδη 20 μυστηριώδη κιβώτια. Περίμενε μέχρι να ανοίξει ένα από αυτά και μετά πάρε ένα άλλο.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Το μυστήριο κουτί θα ανοίξει για: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Κάντε κλικ για να δείτε τα ζώα σας]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Καλώς ήρθες πίσω!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Ενώ έλειπες, τα ζώα σου δίψασαν από το μυστηριώδες κλουβί. Η εκτροφέας Σόνια τα φρόντισε και τα έφερε στο απόθεμά της. Ρίξε μια γρήγορη ματιά!]]></item>
+  </category>
+</language>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[Καλά Χριστούγεννα!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[Από τις 21 Δεκεμβρίου έως τις 2 Ιανουαρίου, όλα στον ζωολογικό κήπο σας περιστρέφονται γύρω από τα Χριστούγεννα! Στολίστε το χριστουγεννιάτικο δέντρο σας και βοήθησέ με να σώσω τα Χριστούγεννα!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Πρώτα ανέβασε 8 ιπτάμενους ταράνδους και μετά έναν Άγιο Βασίλη Ρούντολφ για το έλκηθό του. Για κάθε τάρανδο που του φέρνεις, θα παίρνεις ένα δώρο.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Κατά καιρούς, ο Άγιος Βασίλης θα σας δίνει επίσης ένα στολίδι για το χριστουγεννιάτικο δέντρο σας. Στο τέλος, θα μπορείτε να κρατήσετε το στολισμένο δέντρο σας.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Ζήτω, έχουμε και εδώ μια ξεχωριστή χριστουγεννιάτικη συλλογή! Φροντίστε τα ζώα σας και συλλέξτε χριστουγεννιάτικα είδη. Μπορείτε επίσης να τα χρησιμοποιήσετε για να μεγαλώσετε ταράνδους!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Μεγάλες εκπλήξεις στο χριστουγεννιάτικο κατάστημα]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Μεταμορφώστε τον ζωολογικό σας κήπο σε έναν πολύχρωμο Χειμερινό Κόσμο: με πολλές νέες και δημοφιλείς χριστουγεννιάτικες διακοσμήσεις.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Καλά Χριστούγεννα και καλή διασκέδαση στην χριστουγεννιάτικη εκδήλωση!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[Αυτό είναι απαίσιο! Οι τάρανδοι του Άγιου Βασίλη έφυγαν τρέχοντας και τώρα δεν μπορεί να μοιράσει δώρα! Φέρτε του 8 ιπτάμενους ταράνδους και τον Ρούντολφ του Άγιου Βασίλη και τοποθετήστε τους μπροστά από το έλκηθρό του. Ως ευχαριστώ, θα λάβετε υπέροχα δώρα!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Ο Άγιος Βασίλης έρχεται για:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Κερδίσατε:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Κοιτάξτε το χριστουγεννιάτικο δέντρο σας στο πάρκινγκ!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Αποκτήστε μια νέα στολή για το avatar σας!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Γρήγορα, ρίξτε μια ματιά στο απόθεμά σας!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Σας ευχαριστώ!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Οι τάρανδοί σου ανυπομονούν να βγουν στο δρόμο. Χάρη σε εσένα, τα Χριστούγεννα σώθηκαν!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Σας ευχαριστώ!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Λείπουν ακόμα μερικοί τάρανδοι μου, ωστόσο ήρθε η ώρα να βγω στο δρόμο! Μην ανησυχείς, θα το καταλάβω - άλλωστε, είμαι ο Άγιος Βασίλης!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[Το στολισμένο χριστουγεννιάτικο δέντρο από το πάρκινγκ σας βρίσκεται τώρα στο απόθεμά σας.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Αρχικά, ας φέρουμε 8 μαγικούς ταράνδους στον Άγιο Βασίλη.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Ο Άγιος Βασίλης έχει ήδη 8 ιπτάμενους ταράνδους και το μόνο που χρειάζεται είναι ο Ρούντολφ του!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Χριστουγεννιάτικη διακόσμηση]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Χριστουγεννιάτικη φόρμα]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Ζευγάρι χιονισμένες κουκουβάγιες]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Αριθμός αρσενικών μαγικών ταράνδων στο απόθεμά σας.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Ο αριθμός των θηλυκών ιπτάμενων ταράνδων στο απόθεμά σας.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Πριν φέρεις στον Άγιο Βασίλη τον Ρούντολφ του, χρειάζεται πρώτα 8 ιπτάμενους ταράνδους.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Ο αριθμός των αρσενικών Άγιοι Ρούντολφ στο απόθεμά σας.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Ο αριθμός των γυναικών Άγιοι Ρούντολφ στο απόθεμά σας.]]></item>
+    </category>
+  </category>
+</language>

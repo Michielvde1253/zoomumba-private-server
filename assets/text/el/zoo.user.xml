@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.user">
+    <item name="zoo.user.name"><![CDATA[Όνομα χρήστη]]></item>
+    <item name="zoo.user.id"><![CDATA[Αναγνωριστικό χρήστη]]></item>
+    <item name="zoo.user.notAuth.title"><![CDATA[Επαλήθευση]]></item>
+    <item name="zoo.user.notAuth.info"><![CDATA[Η επαλήθευση απέτυχε. Συνδεθείτε ξανά.]]></item>
+  </category>
+</language>
