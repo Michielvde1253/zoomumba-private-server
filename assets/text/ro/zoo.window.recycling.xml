@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.recycling">
+    <item name="zoo.window.recycling.title"><![CDATA[Reciclare]]></item>
+    <item name="zoo.window.recycling.info"><![CDATA[Vei găsi în deșeuri o mulțime de materii prime pe care le poți recicla și produce materiale valoroase.]]></item>
+    <item name="zoo.window.recycling.storage.info"><![CDATA[Capacitatea depozitului dumneavoastră: %count% <br> din capacitatea totală %maxcount%]]></item>
+    <item name="zoo.window.recycling.produce.text"><![CDATA[Creați resurse din deșeuri colectate. Timpul necesar pentru a crea aceste materiale este afișat în stânga. Mai jos puteți vedea cantitatea de deșeuri necesară și numărul de zoogro-uri. Alegeți câte resurse doriți să creați. De fiecare dată când creați ceva, aveți șansa de a obține o resursă rară. Puteți crește această șansă folosind super-filtrul.]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertitle"><![CDATA[Super filtru]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertext"><![CDATA[Crește-ți șansa de a obține o resursă rară cu %percent%%]]></item>
+    <item name="zoo.window.recycling.produce.rarechancetext"><![CDATA[Șansa de a obține o resursă rară: %percent%%]]></item>
+    <item name="zoo.window.recycling.produce.startrecycle"><![CDATA[Începeți reciclarea]]></item>
+    <item name="zoo.window.recycling.produce.insertfilter"><![CDATA[Aplicați filtrul]]></item>
+    <item name="zoo.window.recycling.produce.deletefilter"><![CDATA[Eliminați filtrul]]></item>
+    <item name="zoo.window.recycling.card.create"><![CDATA[Face]]></item>
+    <category name="zoo.window.recycling.slot">
+      <item name="zoo.window.recycling.slot.title.buy"><![CDATA[Închiriază acum]]></item>
+      <item name="zoo.window.recycling.slot.title.chooseItem"><![CDATA[Disponibil]]></item>
+      <item name="zoo.window.recycling.slot.button.processfinished"><![CDATA[Ridica]]></item>
+      <item name="zoo.window.recycling.slot.button.start"><![CDATA[Început]]></item>
+      <item name="zoo.window.recycling.slot.button.chooseItem"><![CDATA[Alege]]></item>
+    </category>
+    <category name="zoo.window.recycling.info">
+      <item name="zoo.window.recycling.info.switchInfo"><![CDATA[Folosește acest material pentru a crea următoarele obiecte:]]></item>
+    </category>
+  </category>
+</language>

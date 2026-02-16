@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.crafting">
+    <item name="zoo.window.crafting.intro.blueprintRewards"><![CDATA[Ai colectat %mycards% din totalul de planuri de construcție ale unui număr de %allcards%!]]></item>
+    <item name="zoo.window.crafting.intro.title"><![CDATA[Atelier]]></item>
+    <item name="zoo.window.crafting.intro.text"><![CDATA[Meșteri și pasionați, atenție! Folosiți materialele pentru a construi noi împrejmuiri, clădiri, decorațiuni sau alei. Pur și simplu selectați o categorie de mai jos și treceți la următoarea etapă de producție.]]></item>
+    <item name="zoo.window.crafting.intro.chooseCategorie"><![CDATA[Alege o categorie:]]></item>
+    <item name="zoo.window.crafting.produce.text"><![CDATA[Este foarte simplu: În stânga jos vedeți ce se produce în prezent. Planul de construcție vă arată de ce materiale aveți nevoie. Deasupra vedeți timpul de producție și numărul de labe pe care trebuie să le plătiți. Ați înțeles? Bine, atunci faceți clic pe „Start”.]]></item>
+    <item name="zoo.window.crafting.produce.button"><![CDATA[Început]]></item>
+    <item name="zoo.window.crafting.progress.title"><![CDATA[Atelier]]></item>
+    <item name="zoo.window.crafting.progress.text"><![CDATA[Producția este în desfășurare!]]></item>
+    <item name="zoo.window.crafting.progress.time"><![CDATA[Durată:]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.title"><![CDATA[Produceți imediat]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.text"><![CDATA[Economisiți timp și finalizați producția imediat!]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.button"><![CDATA[Complet]]></item>
+    <item name="zoo.window.crafting.progress.layer.elixir.text"><![CDATA[Accelerează și finalizează producția în jumătate din timp.]]></item>
+    <item name="zoo.window.crafting.progress.button.elixir"><![CDATA[Accelera]]></item>
+    <item name="zoo.window.crafting.success.text"><![CDATA[Ura! Gata: obiectul pe care tocmai l-ai creat poate fi găsit în inventarul tău!]]></item>
+    <item name="zoo.window.crafting.blueprint.text"><![CDATA[Ura! Tocmai ai primit un plan de construcție! Du-te la atelier și construiește un nou obiect pentru grădina zoologică!]]></item>
+  </category>
+</language>

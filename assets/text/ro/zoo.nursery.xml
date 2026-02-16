@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Bună, sunt Tina și am grijă de puii voștri. Ei cresc și devin adulți în pepiniera mea. Alegeți puiul pe care doriți să-l creșteți din inventarul vostru.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Gata de creștere]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Aici crește puiul.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Puiul tău a crescut!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Ridica]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Folosește esență]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Ridicați imediat]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Creșterea animalelor]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Timp rămas:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Ridicați imediat]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Înainte să-ți dai seama, micuțul tău va fi adult!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Poțiunea de creștere reduce timpul de reproducere cu 50%.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Ura! Acest bebeluș a crescut și a fost mutat în inventarul tău:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Atenție: Un bebeluș crește aici! Dacă mutați pepiniera în inventar, procesul va fi întrerupt. Sigur doriți să o mutați acum?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Atenție: Un bebeluș crește aici! Dacă vindeți pepiniera acum, procesul va fi întrerupt. Sunteți sigur că doriți să o vindeți acum?]]></item>
+    </category>
+  </category>
+</language>

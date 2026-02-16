@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.error">
+    <category name="zoo.error.user">
+      <item name="zoo.error.user.unknown"><![CDATA[Acest jucător nu există.]]></item>
+      <item name="zoo.error.user.notEnoughCr"><![CDATA[Nu ai destui zoodolari pentru asta.]]></item>
+      <item name="zoo.error.user.notEnoughCv"><![CDATA[Nu ai destui zoogroși pentru asta.]]></item>
+      <item name="zoo.error.user.notRequiredLevel"><![CDATA[Nu ai atins nivelul necesar.]]></item>
+    </category>
+    <category name="zoo.error.login">
+      <item name="zoo.error.login.head"><![CDATA[Eroare de conectare]]></item>
+      <item name="zoo.error.login.text"><![CDATA[A apărut o eroare la conectare. Verificați datele și încercați din nou.]]></item>
+      <item name="zoo.error.login.blocked"><![CDATA[Ai fost blocat de un administrator.]]></item>
+      <item name="zoo.error.login.100.title"><![CDATA[Eroare]]></item>
+      <item name="zoo.error.login.100.info"><![CDATA[Ai folosit deja codul bonus pe acest cont, nu este posibil să îl folosești din nou.]]></item>
+    </category>
+    <category name="zoo.error.conf">
+      <item name="zoo.error.conf.unknownObj"><![CDATA[Obiect necunoscut]]></item>
+      <item name="zoo.error.conf.notBuyable"><![CDATA[Articolul nu este disponibil momentan pentru cumpărare]]></item>
+      <item name="zoo.error.conf.notEvent"><![CDATA[Elementul nu este aplicabil în prezent]]></item>
+    </category>
+    <category name="zoo.error.badData">
+      <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Ne pare rău!]]></item>
+      <item name="zoo.error.badData.dailyQuests.text"><![CDATA[Oh! A apărut o eroare. Problema a fost raportată echipei!]]></item>
+    </category>
+    <category name="zoo.error.field">
+      <item name="zoo.error.field.unknownObj"><![CDATA[Obiectul nu este disponibil în joc.]]></item>
+      <item name="zoo.error.field.blocked"><![CDATA[Câmp ocupat]]></item>
+      <item name="zoo.error.field.breedFailed"><![CDATA[Reproducerea a eșuat. Din păcate, animalele tale nu au avut urmași.]]></item>
+      <item name="zoo.error.field.wrongSpecies"><![CDATA[Animal nepotrivit pentru acest țarc.]]></item>
+      <item name="zoo.error.field.maxChildReached"><![CDATA[Ai atins numărul maxim de pui.]]></item>
+      <item name="zoo.error.field.maleAdultNeeded"><![CDATA[Ai nevoie de un bărbat pentru asta.]]></item>
+      <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[Ai nevoie de o femeie pentru asta.]]></item>
+      <item name="zoo.error.field.maxAdultReached"><![CDATA[Ai atins numărul maxim de adulți.]]></item>
+      <item name="zoo.error.field.buildingNotFinished"><![CDATA[Această clădire este încă în construcție.]]></item>
+    </category>
+    <category name="zoo.error.db">
+      <item name="zoo.error.db.failUpdate"><![CDATA[Actualizarea bazei de date a eșuat.]]></item>
+    </category>
+    <category name="zoo.error.invite">
+      <item name="zoo.error.invite.requesterror"><![CDATA[A apărut o eroare.]]></item>
+      <item name="zoo.error.invite.recruitexists"><![CDATA[Ai invitat deja acest utilizator.]]></item>
+      <item name="zoo.error.invite.global"><![CDATA[Limita de invitații a fost atinsă. Vă rugăm să așteptați 24 de ore înainte de a putea trimite o altă invitație (pentru toate jocurile).]]></item>
+      <item name="zoo.error.invite.instance"><![CDATA[Limita de invitații a fost atinsă. Vă rugăm să așteptați 24 de ore înainte de a putea trimite o altă invitație (pentru toate jocurile).]]></item>
+      <item name="zoo.error.invite.error"><![CDATA[A apărut o eroare... vă rugăm să încercați din nou mai târziu.]]></item>
+    </category>
+  </category>
+</language>

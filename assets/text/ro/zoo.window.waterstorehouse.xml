@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.waterstorehouse">
+    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Turnul de apă]]></item>
+    <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Clădire de depozit]]></item>
+    <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Animalele au nevoie de multă apă. Modernizează-ți turnul de apă nivel cu nivel și asigură-te că ai suficientă apă pentru toată lumea pe măsură ce grădina zoologică crește.]]></item>
+    <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Animalele tale au nevoie de multă hrană. Extinde-ți spațiul de depozitare nivel cu nivel și asigură-te că ai suficientă hrană pentru toată lumea pe măsură ce grădina zoologică crește.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Bravo! Ai extins depozitul la nivelul maxim.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[Bravo! Ai extins turnul de apă la nivelul maxim.]]></item>
+    <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Aktuální stupeň rozšíření: %have% / %max%]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.water"><![CDATA[Capacitatea actuală a turnului de apă]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.store"><![CDATA[Capacitatea actuală a spațiului de stocare]]></item>
+    <item name="zoo.window.waterstorehouse.buy.titel"><![CDATA[Extinde]]></item>
+    <item name="zoo.window.waterstorehouse.buy.text"><![CDATA[Ai vrea să-ți extinzi grădina zoologică?]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgraderc"><![CDATA[Extindeți pentru zoodolari]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Extindeți pentru zoogrosh]]></item>
+    <item name="zoo.window.waterstorehouse.buy.nextcap"><![CDATA[Dimensiune nouă:]]></item>
+  </category>
+</language>

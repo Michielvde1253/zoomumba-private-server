@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Încercare suplimentară]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Ura, ai o încercare în plus!<br> Pentru fiecare zi în care te conectezi, vei primi o rotire suplimentară la roata norocoasă.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Apasă și încearcă-ți norocul!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Sau dă clic pe clădirea cu roata norocoasă din oraș. Fiecare rotire garantează recompense grozave!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Alte încercări]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Ai vrea să cumperi o altă încercare?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Felicitări!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Ura! Ai câștigat:]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Învârte din nou, poți câștiga doar la roata norocoasă!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Hrănitorul John timp de 1 oră]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Furnizor de apă Paul timp de 1 oră]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Îngrijitor Stanley timp de 1 oră]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Crescătoarea Sonja timp de 1 oră]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Gunoierul George timp de 1 oră]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Casier/ă Cashier timp de 1 oră]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Hrănitorul John timp de 3 ore]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Furnizor de apă Paul timp de 3 ore]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Îngrijitor Stanley timp de 3 ore]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Crescătoarea Sonja timp de 3 ore]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Gunoierul George timp de 3 ore]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Casier/ă Cashier timp de 3 ore]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[Bonus de 30% EP pentru 8 ore întregi!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[Bonus EP de 100% pentru 8 ore întregi!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[Bonus de 50% labe pentru 5 ore întregi!]]></item>
+    </category>
+  </category>
+</language>

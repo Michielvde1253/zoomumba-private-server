@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.confirmation">
+    <item name="zoo.window.confirmation.closegame.title"><![CDATA[Sfârșitul jocului]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[Această grădină zoologică nu este încă disponibilă. O poți debloca atingând expansiunile de %level% în următoarea grădină zoologică: %zooName%. Sau o poți debloca imediat pentru %zooDollar% zoodolari.]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[Pentru a debloca această grădină zoologică, trebuie să fii la nivelul %level%. Sau deblochează-o imediat pentru %zooDollar% zoodolari.]]></item>
+    <item name="zoo.window.confirmation.map.level"><![CDATA[Trebuie să fii la nivelul %level% pentru a debloca această grădină zoologică.]]></item>
+    <item name="zoo.window.confirmation.map.buy"><![CDATA[Vrei să cumperi o extensie a grădinii zoologice?]]></item>
+    <item name="zoo.window.confirmation.title.buy"><![CDATA[Cumpăra]]></item>
+    <item name="zoo.window.confirmation.closegame.info"><![CDATA[Chiar vrei să ieși din ZooMumba?]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.title"><![CDATA[Cumpără articole]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.info"><![CDATA[Chiar vrei să cumperi acest articol?]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.title"><![CDATA[Cumpără mutare]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.info"><![CDATA[Vrei să faci mișcarea asta pentru zoodolari?]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.title"><![CDATA[Vinde]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Chiar vrei să vinzi acest articol?]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[Avertizare]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[Dacă plasezi incinta în inventarul tău, aceasta își va pierde îmbunătățirea acțiunii.<br><br>Dorești să continui?]]></item>
+    <category name="zoo.window.confirmation.gift">
+      <item name="zoo.window.confirmation.gift.title"><![CDATA[Atenţie!]]></item>
+      <item name="zoo.window.confirmation.gift.info"><![CDATA[Nu ți-ai selectat încă cei 5 prieteni! Dacă continui, cadourile tale se vor pierde. Ar fi păcat... Mai vrei să continui?]]></item>
+    </category>
+  </category>
+</language>

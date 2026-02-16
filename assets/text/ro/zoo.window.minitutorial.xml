@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.minitutorial">
+    <item name="zoo.window.minitutorial.title"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.minitutorial.infopage.1"><![CDATA[Bun venit la ZooMumba, aventura ta nebună la grădina zoologică! Numele meu este Sonja și te voi ghida pas cu pas despre cum funcționează jocul.<br><br>În magazin, poți cumpăra diverse țarcuri pentru animale și le poți amplasa pe terenul grădinii zoologice.]]></item>
+    <item name="zoo.window.minitutorial.infopage.2"><![CDATA[Apasă pe țarc și cumpără un animal. Asigură-te că verifici dacă cumperi un mascul sau o femelă.<br><br> Dacă îi ai pe amândoi în țarc, în curând te poți aștepta la pui de animal!]]></item>
+    <item name="zoo.window.minitutorial.infopage.3"><![CDATA[Ai grijă de animalele tale în mod regulat, îmbrățișează-le și joacă-te cu ele. În acest fel, vor fi fericiți și mulțumiți. Încearcă!]]></item>
+    <item name="zoo.window.minitutorial.infopage.4"><![CDATA[Trebuie să conectați incintele, clădirile și atracțiile cu alei care duc la intrare, astfel încât vizitatorii să poată admira totul.]]></item>
+    <item name="zoo.window.minitutorial.infopage.5"><![CDATA[Ia hrană și tot ce își doresc animalele tale din magazin: carne, fructe, iarbă - uită-te în jur!]]></item>
+    <item name="zoo.window.minitutorial.infopage.6"><![CDATA[De la nivelul 2, poți obține și clădiri și tarabe în magazin, făcând grădina zoologică și mai atractivă pentru vizitatori. <br><br>Poți colecta în mod regulat câștigurile din taxa de intrare de la clădirea principală.]]></item>
+    <item name="zoo.window.minitutorial.infopage.6b"><![CDATA[Vei începe cu câțiva ZooDollars. Folosește-i pentru a obține animale grozave și atracții speciale sau angajează asistenți. Aceștia te vor ajuta cu întreținerea și îngrijirea grădinii zoologice. <br><br>Și dacă rămâi fără ZooDollars, nu-ți face griji! Îi poți încărca oricând la ZooBank.]]></item>
+    <item name="zoo.window.minitutorial.infopage.7"><![CDATA[Cu cât primești mai mulți vizitatori la grădina zoologică, cu atât va trebui să strângi mai multe gunoaie. <br><br>Menține-ți grădina zoologică curată și strânge gunoaiele. Vizitatorii tăi vor aprecia acest lucru!]]></item>
+    <item name="zoo.window.minitutorial.infopage.8"><![CDATA[Cu cât grădina zoologică are mai mulți vizitatori mulțumiți, cu atât zoomometrul tău va crește mai sus. <br><br>Apucă-te de treabă și construiește cea mai bună grădină zoologică din lume - în ZooMumba! Distrează-te!]]></item>
+  </category>
+</language>

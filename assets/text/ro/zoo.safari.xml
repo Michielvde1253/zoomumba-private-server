@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.safari">
+    <item name="zoo.safari.title"><![CDATA[Safari]]></item>
+    <item name="zoo.safari.fuel_singular"><![CDATA[Canistră de benzină]]></item>
+    <category name="zoo.safari.errors">
+      <item name="zoo.safari.errors.notAvailable"><![CDATA[Păcat! Din păcate, nivelul tău este prea scăzut! De la nivelul 7 poți începe turul safari!]]></item>
+    </category>
+    <category name="zoo.safari.welcomeWindow">
+      <item name="zoo.safari.welcomeWindow.infoText"><![CDATA[Bine ați venit într-un safari plin de aventură: Câștigați recompense grozave și chiar animale noi! <br /><br />În pasul următor, trebuie doar să alegeți zona de unde doriți să începeți safariul. <br /><br />Ura, în sălbăticie!]]></item>
+    </category>
+    <category name="zoo.safari.regionWindow">
+      <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Alegeți o regiune]]></item>
+      <item name="zoo.safari.startWindow.infoText"><![CDATA[În ce regiune vrei să începi safariul? Alege-o aici: În fiecare regiune există 3 zone pe care le poți activa în funcție de nivelul tău.]]></item>
+    </category>
+    <category name="zoo.safari.shopWindow">
+      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Hei, aventurierule! Mergi într-un safari adevărat. Folosește jokerii pentru a-ți ușura drumul în sălbăticie.<br><br>Important: Alege doar câte un joker din fiecare tip pentru călătoria ta!]]></item>
+      <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[Vrei să investești %skipTimerCost% zoodolari și să începi safariul chiar acum?]]></item>
+      <item name="zoo.safari.shopWindow.infoText"><![CDATA[Ești pregătit pentru un safari? Iată cum funcționează: În pasul următor, vei vedea un joc: acesta constă din 9 până la 25 de cărți cu fața în jos. Cărțile ascund recompense sau urme de animale pe care le vei urma pentru a obține premiul principal. Dar fii atent: fiecare carte poate ascunde și o capcană!<br /><br />Vezi canistra de benzină din dreapta jos? Îți arată câtă benzină a mai rămas în rezervorul jeep-ului tău. De îndată ce dezvălui o carte, vei consuma niște benzină.<br /><br />Și acum, regulile jocului: La început, poți alege doar cărți din rândul de jos. Fă clic pe o carte și se va întoarce. În acest fel, poți vedea dacă ai găsit ceva și, dacă da, ce este. Apoi poți alege cărți care sunt deasupra sau sub ultima carte, precum și la dreapta sau la stânga acesteia. Jocul se termină dacă găsești un animal, dar se termină și când rămâi fără benzină.<br /> <br />Crește-ți șansele de a face o descoperire grozavă cu jokerul(?) din magazin. Există 2 tipuri de jokeri: de cărți și de navigație. Lasă Jokerul de cărți să te ajute să-ți descoperi cărțile - va dezvălui cărți suplimentare pentru tine. Jokerul de navigație te va ghida în direcția corectă datorită busolei sale.<br /><br />Poți lua cu tine câte un joker din fiecare tip în safari. Indiferent dacă ai folosit jokerul sau nu, îl pierzi la sfârșitul safariului.]]></item>
+    </category>
+    <category name="zoo.safari.miniGame">
+      <item name="zoo.safari.miniGame.tileInfo.trap"><![CDATA[Oops, ai lovit un obstacol. E enervant, s-a terminat o canistră de benzină.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.treasure"><![CDATA[Grozav! Ai găsit %treasureCount% %treasureName%. Grăbește-te, continuă să cauți, poți găsi mult mai multe comori.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.animal"><![CDATA[Felicitări, uite ce ai găsit! Este %animal%! Grăbește-te la grădina zoologică, te așteaptă în inventarul tău. Ți-ai terminat cu succes safariul.]]></item>
+      <item name="zoo.safari.miniGame.closeWarning"><![CDATA[Chiar vrei să închei safariul? Dacă da, nu poți începe alte safariuri astăzi și ți se vor termina benzina și proviziile!]]></item>
+      <item name="zoo.safari.miniGame.noJoker"><![CDATA[Fără glumă]]></item>
+      <item name="zoo.safari.miniGame.buyGasThenEmpty"><![CDATA[Aproape ai ajuns la destinație! Din păcate, rezervorul tău este gol. Vrei să alimentezi pentru câțiva zoodolari și să-ți continui safariul? Alege câtă benzină dorești să cumperi.]]></item>
+      <item name="zoo.safari.miniGame.buyMissingGas"><![CDATA[Cantitatea de canistre de benzină pentru acest teren este de %neededGas%. Totuși, ai doar %missingGas%. Vrei să cumperi benzina necesară cu zoodolari?]]></item>
+      <item name="zoo.safari.miniGame.buyGas"><![CDATA[Vă rugăm să alegeți câtă benzină doriți să cumpărați. Dar fiți atenți: Dacă nu consumați toată benzina în safari, benzina rămasă va fi irosită.]]></item>
+    </category>
+    <category name="zoo.safari.minigameInfo">
+      <item name="zoo.safari.minigameInfo.title"><![CDATA[Instrucţiuni]]></item>
+      <item name="zoo.safari.minigameInfo.1"><![CDATA[Bine ați venit în safari!<br /> Descoperiți animale neobișnuite și comori minunate. Dar fiți atenți unde vă duc pașii. Capcane pândesc peste tot. În funcție de tipul de teren, veți folosi cantități diferite de benzină.<br /><br />Safariul se termină imediat ce rezervorul este gol sau dacă găsiți un animal.]]></item>
+      <item name="zoo.safari.minigameInfo.2"><![CDATA[Poți intra în sălbăticie făcând clic pe una dintre căsuțele de jos.]]></item>
+      <item name="zoo.safari.minigameInfo.3"><![CDATA[Deplasați-vă în linie dreaptă spre nord, sud, vest și est.]]></item>
+      <item name="zoo.safari.minigameInfo.4"><![CDATA[Îți poți activa jokerii oricând. Aceștia au sfaturi valoroase pentru tine, care te vor duce mai repede la obiectivul tău.]]></item>
+      <item name="zoo.safari.minigameInfo.terains"><![CDATA[Următoarele tipuri de teren sunt disponibile:<br />]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.name"><![CDATA[Teren simplu]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.info"><![CDATA[Vei folosi 1 unitate de benzină.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.name"><![CDATA[Teren mai dificil]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.info"><![CDATA[Vei folosi 3 unități de benzină.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.name"><![CDATA[Teren impracticabil]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.info"><![CDATA[Intrarea interzisă]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.name"><![CDATA[Teren explorat]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.info"><![CDATA[Vei folosi 1 unitate de benzină.]]></item>
+      <item name="zoo.safari.minigameInfo.events"><![CDATA[Puteți găsi următoarele articole: <br />]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.name"><![CDATA[URMELE ANIMALELOR]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.info"><![CDATA[Acestea indică direcția în care s-ar putea afla animalul.]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.name"><![CDATA[COMOARĂ]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.info"><![CDATA[Uau, o comoară cu o surpriză grozavă!]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.name"><![CDATA[BARIERĂ]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.info"><![CDATA[Te va costa 1 unitate de benzină.]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.name"><![CDATA[ÎNTÂLNIRE CU UN ANIMAL]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.info"><![CDATA[Dacă întâlnești un animal, acesta îți aparține și misiunea se încheie.]]></item>
+    </category>
+    <category name="zoo.safari.jokers">
+      <item name="zoo.safari.jokers.titel_1"><![CDATA[Maimuța, consilierul]]></item>
+      <item name="zoo.safari.jokers.titel_2"><![CDATA[Sonya, consiliera]]></item>
+      <item name="zoo.safari.jokers.titel_3"><![CDATA[Busolă]]></item>
+      <item name="zoo.safari.jokers.titel_4"><![CDATA[Călătorii rapide]]></item>
+      <item name="zoo.safari.jokers.text_1"><![CDATA[Toată lumea are nevoie de puțin ajutor din când în când. Dacă lași maimuța să te ajute, poți dezvălui o carte aleasă la întâmplare.<br /><br />Ești curios? Hai să ne apucăm de treabă!]]></item>
+      <item name="zoo.safari.jokers.text_2"><![CDATA[Vrei să dezvălui o anumită carte și să avansezi în safari?<br /><br /><br /> Folosește ajutorul consilierei Sonia. Cu ajutorul ei, vei dezvălui cartea aleasă. Acest lucru te va ajuta să-ți atingi obiectivul mai repede. Mult succes!]]></item>
+      <item name="zoo.safari.jokers.text_3"><![CDATA[Ai nevoie de ajutor? Folosește busola ca pe un joker pentru a marca o carte. Vei găsi animalul pe care îl cauți sau o capcană pe ea. Ești nerăbdător să afli ce este ascuns pe ea? Așa că grăbește-te și află!]]></item>
+      <item name="zoo.safari.jokers.text_4"><![CDATA[Dar acum, să trecem la subiect: Te târăști spre obiectivul tău pas cu pas? Nu ești suficient de rapid?<br /><br />Atunci folosește jokerul: El îți va marca 3 cărți, printre care poate fi ascuns animalul pe care îl cauți, dar și o capcană.<br /><br />Animal sau capcană... Repede, uită-te!]]></item>
+    </category>
+    <category name="zoo.safari.tooltip">
+      <item name="zoo.safari.tooltip.cantStartSafari"><![CDATA[Poți începe safariul după ce atingi nivelul 7]]></item>
+      <item name="zoo.safari.tooltip.startSafari"><![CDATA[Sari în jeep: Apasă aici pentru a începe safariul!]]></item>
+      <item name="zoo.safari.tooltip.backToZoo"><![CDATA[Înapoi la grădina zoologică]]></item>
+      <item name="zoo.safari.tooltip.regionSmall"><![CDATA[Mic]]></item>
+      <item name="zoo.safari.tooltip.regionMedium"><![CDATA[Mediu]]></item>
+      <item name="zoo.safari.tooltip.regionLarge"><![CDATA[Mare]]></item>
+      <item name="zoo.safari.tooltip.skipTimerInShop"><![CDATA[Primești o anumită cantitate de canistre de benzină pentru fiecare zi.<br/> Vrei mai mult acum? Atunci scurtează-ți timpul de așteptare cu zoodolari!]]></item>
+      <item name="zoo.safari.tooltip.buyGasInMinigame"><![CDATA[Faceți clic pentru a cumpăra mai multă benzină.]]></item>
+      <item name="zoo.safari.tooltip.regeonLevelRequared"><![CDATA[Această regiune va fi accesibilă după ce atingeți nivelul %regionLevel%.]]></item>
+    </category>
+    <category name="zoo.safari.button">
+      <item name="zoo.safari.button.startSafari"><![CDATA[Începeți safariul]]></item>
+      <item name="zoo.safari.button.endSafari"><![CDATA[Finalizează safari-ul]]></item>
+      <item name="zoo.safari.button.activate"><![CDATA[Activa]]></item>
+      <item name="zoo.safari.button.use"><![CDATA[Implementează]]></item>
+    </category>
+  </category>
+</language>

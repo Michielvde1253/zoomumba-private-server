@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bank">
+    <item name="zoo.window.bank.title"><![CDATA[Banca Zoo]]></item>
+    <item name="zoo.window.bank.info"><![CDATA[Cei care administrează bine vor prospera! Cumpără zoodolari valoroși de la banca zoologică sau profită de ofertele noastre Premium atractive!]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.title"><![CDATA[Cumpără zoodolari]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.info"><![CDATA[Rămâneți fără bani în joc? Se poate întâmpla! Cei care vor să aibă succes trebuie să investească!]]></item>
+    <item name="zoo.window.bank.button.premium.title"><![CDATA[Pachet Premium]]></item>
+    <item name="zoo.window.bank.button.premium.info"><![CDATA[Folosește beneficiile Premium pentru a atrage mai mulți vizitatori la grădina zoologică. Încearcă!]]></item>
+    <item name="zoo.window.bank.button.startpaket.title"><![CDATA[Asistenți]]></item>
+    <item name="zoo.window.bank.button.startpaket.info"><![CDATA[Nu vrei să faci totul singur? Nicio problemă! Asistenții de la grădina zoologică te vor ajuta!]]></item>
+    <item name="zoo.window.bank.button.cashaction.title"><![CDATA[Bani pentru acțiune]]></item>
+    <item name="zoo.window.bank.button.cashaction.info"><![CDATA[Ai nevoie de un impuls financiar? Aici vei găsi oferte excelente! Alege un furnizor și primești zoodolari!]]></item>
+    <item name="zoo.window.bank.currency.title"><![CDATA[Casa de schimb valutar]]></item>
+    <item name="zoo.window.bank.currency.info"><![CDATA[Schimbă-ți zoodolarii pe zoogroșe și acumulează suficiente rezerve în contul tău.]]></item>
+    <item name="zoo.window.bank.exchange.btnLabel"><![CDATA[Schimb]]></item>
+  </category>
+</language>

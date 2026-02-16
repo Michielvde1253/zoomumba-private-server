@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Bună! Sunt Soňa Starostlivá, asistentă medicală aici la grădina zoologică. Abia aștepți să reproduci noii pui drăguți? Îți voi explica cum funcționează! Mai întâi, trebuie să te decizi ce specie de animal vrei să reproduci.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Alege două animale adulte din inventarul tău pentru a deveni părinți. Cu cât sunt mai rare, cu atât este mai probabil să aibă un pui și mai rar. Totuși, părinții trebuie să rămână cu mine pentru această reproducere.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Folosirea de obiecte colectate suplimentare, hrană puternică, super-hrană sau super-medicamente îți va crește șansele de a crește un pui deosebit de rar. Cu cât obiectul are mai multe inimi, cu atât sunt mai mari șansele!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Aproape ai terminat cu pregătirile! Verifică încă o dată alegerile înainte să înceapă totul. Vrei să schimbi ceva? Nicio problemă, folosește pur și simplu butonul „Înapoi”!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[Experimentul de reproducere a folosit următoarele animale și obiecte:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Stația de reproducere este gata]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Aici este crescut]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[S-a născut un bebeluș!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Bebelușii sunt aici!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Începeți reproducerea]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Folosește esență]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Chiar vrei să începi reproducerea fără suplimente? Gândește-te bine - cu suplimente, ai șanse mai mari să obții un urmaș rar.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Ești în mijlocul pregătirilor. Chiar vrei să părăsești stația de reproducere?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Stație de reproducere]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Aceste animale nasc chiar acum:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Timp rămas:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Esența lui Tolija]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Esența Tolija scurtează timpul de reproducere cu 50%.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Ura - ai un bebeluș! Îl poți găsi pe acest micuț drăguț în inventarul tău:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Ura - ai un copil! Poți găsi acest drăcușor drăcușor în inventarul tău:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Mută-l pe micuț la creșă pentru animale ca să crească.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Adu-i pe cei mici la creșă pentru animale ca să poată crește.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Atenție: Reproducerea este în desfășurare! Dacă mutați stația în inventarul dvs. acum, procesul va fi întrerupt și veți pierde toate animalele și suplimentele. Sigur doriți să o mutați acum?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Atenție: Reproducerea este în curs de desfășurare! Dacă vindeți stația acum, procesul va fi întrerupt și toate animalele și suplimentele vor fi pierdute. Sigur doriți să vindeți stația acum?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Dacă procesul de reproducere este finalizat după încheierea evenimentului, veți primi un singur pui.]]></item>
+    </category>
+  </category>
+</language>

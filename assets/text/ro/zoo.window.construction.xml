@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.construction">
+    <item name="zoo.window.construction.title"><![CDATA[Construcții]]></item>
+    <item name="zoo.window.construction.info"><![CDATA[Despre]]></item>
+    <item name="zoo.window.construction.buildinginfo"><![CDATA[Aproape gata! Doar:]]></item>
+    <item name="zoo.window.construction.buildinginfo2"><![CDATA[Sau obțineți obiectul imediat (fără a construi):]]></item>
+    <item name="zoo.window.construction.button.buydirectly"><![CDATA[Cumpără acum]]></item>
+  </category>
+</language>

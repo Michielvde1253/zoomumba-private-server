@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Drum pietruit]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Această potecă de pietriș conectează incintele grădinii zoologice. O rețea de poteci de calitate îi ajută pe vizitatori să se orienteze și îi conduce către toate incintele.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Trotuar albastru și alb]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Această alee pavată cu piatră cubică albastră și albă nu numai că arată grozav, dar este și o suprafață excelentă pentru cărucioare, trotinete și role. Mișcare lină și distracție de calitate, asta e minunat!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Drum de nisip]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[Rareori există drumuri pavate în stepă. Vrei ca grădina zoologică să semene cu cea sălbatică!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Trotuar roz și alb]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Ce frumos: Această alee din piatră, realizată din mozaic roz prețios, este cu adevărat specială. Podiumul perfect pentru vizitatorii cu tocuri înalte.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Trotuar alb-negru]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Pietre prețioase alb-negre, sub formă de mozaic, mărginesc frumos această cale. Sunt lucrate cu mare grijă și devin o bijuterie a grădinii zoologice.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[Drumul stâncos]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[La fel ca în sălbăticie, mici smocuri de iarbă cresc din spațiile dintre pietre. Nu este pentru pedanți, dar iubitorii de natură se vor bucura cu siguranță de acest lucru.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Cale cu pietriș]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Această potecă cu pietriș arată frumos și sunt sigur că nimeni nu va aluneca pe ea. Sigură și frumoasă, ce ți-ai putea dori mai mult?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Drum de pământ]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[Cărările de pământ sunt populare în Africa. Acestea adaugă autenticitate grădinii zoologice și vor face ca multe animale să se simtă ca acasă.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Cale navigabilă]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Stropi, stropi, stropi! Pune-ți cizmele de cauciuc, umflă barca de cauciuc și ia o rățușcă de cauciuc - va fi multă apă în această excursie!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Drum de gheață]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Iuhuu! Un drum de gheață - ce distractiv va fi! Vizitatorii tăi se vor distra alunecând pe drumul înghețat. Atenție, nu e sărat!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Drumul Savanei]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[O potecă bine bătătorită șerpuiește prin savană, fiind ideală pentru căutarea urmelor, ca într-un safari.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Drumul deșertului]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Sub căldura arzătoare a soarelui, nisipul bâjbâie peste deșert, ștergând orice urme.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Cale de piatră]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Această potecă este destul de denivelată. Există pietre mari și bolovani pe ea, așa că încălțămintea bună este obligatorie. Aveți grijă să nu cădeți!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Traseul Tundrei]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[Vizitatorii tăi vor avea nevoie de o busolă pe această potecă, dar este, de asemenea, înțelept să rămâi pe poteca bătută.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Drum de zăpadă]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[Zăpadă lipicioasă se întinde pe poteca de zăpadă, pe care vizitatorii tăi o vor parcurge cu greu în cizmele lor călduroase. Totul este atât de frumos aici!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Traseul deșertului]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[În sălbăticie, cel mai bine este să rămâi pe drum. Sunt toxine și deșeuri peste tot. Cizmele de cauciuc cu talpă bună sunt obligatorii!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Traseu alpin]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Această potecă de drumeție vă va purta în sus și în jos prin Alpi. Încălțămintea bună, cu suport solid pentru gleznă, vă va proteja de alunecare!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Calea peșterii]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Ține ochii deschiși ca să nu aluneci. Poate vei zări o grăunte strălucitoare de aur printre pietre.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Calea pădurii]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[În zilele ploioase, această potecă poate fi puțin noroioasă, dar vara pădurea este absolut idilică.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Drum de coastă]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Mersul desculț pe nisip sclipitor, scoici, alge marine și, ocazional, câteva stele de mare este foarte benefic pentru sănătate!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Traseu magic]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[Traseul albastru strălucitor, care este extraordinar, poate părea înfricoșător, dar este și aventuros. Unde duce?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Traseul Sugar Land]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Firimitură! Oops! Ai călcat pe o bomboană? Ai grijă, sunt gume de mestecat pe drum! Ce frumos colorat este aici!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Traseul pădurii de bambus]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[Ceața plutește printr-o vastă pădure de bambus, aproape impenetrabilă. Ciocănitul unei ciocănitoare se aude în depărtare. Pur și simplu idilic!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Traseu forestier]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Dacă nu vrei să te leagăni de la o viță la alta în această junglă, poți merge pe această potecă bine bătătorită. Ai grijă: din când în când, un șarpe sau un păianjen ți-ar putea traversa calea.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[Calea prin mlaștină]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[Vizitatorii tăi ar trebui să-și amintească să rămână pe calea cea dreaptă în mlaștină. Un singur pas greșit și vor cădea în noroi!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Platformă din lemn]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Nu este nimic mai plăcut decât să te plimbi de-a lungul unui debarcader de lemn și să auzi scârțâitul punții unei nave. Vizitatorii tăi vor avea o adevărată experiență de coastă.]]></item>
+  </category>
+</language>

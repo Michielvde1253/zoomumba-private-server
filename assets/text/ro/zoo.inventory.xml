@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.inventory">
+    <item name="zoo.inventory.sell.title"><![CDATA[Vinde]]></item>
+    <item name="zoo.inventory.sell.info"><![CDATA[Câte vrei să vinzi?]]></item>
+    <item name="zoo.inventory.store.error.title"><![CDATA[IMPORTANT]]></item>
+    <item name="zoo.inventory.store.error.info"><![CDATA[Dacă vrei să muți animalele cu țarcuri în inventarul tău, acestea trebuie mai întâi să fie sănătoase și mulțumite.]]></item>
+    <category name="zoo.inventory.tabs">
+      <item name="zoo.inventory.tabs.gifts"><![CDATA[Cadouri]]></item>
+      <item name="zoo.inventory.tabs.inventory"><![CDATA[Inventar]]></item>
+      <item name="zoo.inventory.tabs.pawprints"><![CDATA[Labe]]></item>
+      <item name="zoo.inventory.tabs.pearls"><![CDATA[Perle]]></item>
+      <item name="zoo.inventory.tabs.specials"><![CDATA[Accesorii]]></item>
+      <item name="zoo.inventory.tabs.trash"><![CDATA[Gunoi]]></item>
+    </category>
+    <category name="zoo.inventory.trash">
+      <item name="zoo.inventory.trash.info"><![CDATA[Protecția mediului prin reutilizare: Reciclați deșeurile la o instalație de reciclare și folosiți materiile prime pentru a fabrica ceva necesar.]]></item>
+      <item name="zoo.inventory.trash.amount"><![CDATA[Cantitatea de gunoi:]]></item>
+    </category>
+    <category name="zoo.inventory.pawprints">
+      <item name="zoo.inventory.tabs.pawprints.info"><![CDATA[Cu cât ai mai multă grijă de animalele tale, cu atât vei colecta mai multe labe. Le poți folosi apoi pentru a-ți îmbunătăți țarcurile.<br> <br>Numărul actual de labe colectate:]]></item>
+    </category>
+    <category name="zoo.inventory.pearls">
+      <item name="zoo.inventory.tabs.pearls.info"><![CDATA[Cu cât ai mai multă grijă de animalele tale, cu atât vei câștiga mai multe perle pentru a-ți înfrumuseța habitatele.<br><br>Starea actuală a perlelor:]]></item>
+    </category>
+    <category name="zoo.inventory.inventory">
+      <item name="zoo.inventory.inventory.empty"><![CDATA[TOTUL ESTE GOL?<br>Inventarul tău este gol în prezent.<br>De ce nu vizitezi magazinul sau nu mergi într-un safari?]]></item>
+      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Utilizare]]></item>
+    </category>
+    <category name="zoo.inventory.gifts">
+      <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Numele jucătorului]]></item>
+      <item name="zoo.inventory.gifts.headerUserID"><![CDATA[ID-ul jucătorului]]></item>
+      <item name="zoo.inventory.gifts.received"><![CDATA[Ce frumos! Prietenul tău ți-a trimis un cadou. Repede, despachetează-l!]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Extinde]]></item>
+      <item name="zoo.inventory.gifts.none"><![CDATA[Ce păcat! Nu ai niciun cadou nou momentan... Dar nu fi trist, va veni ceva în curând.]]></item>
+    </category>
+    <category name="zoo.inventory.move">
+      <item name="zoo.inventory.move.title"><![CDATA[Plată]]></item>
+      <item name="zoo.inventory.move.info"><![CDATA[Pentru câte animale vrei să plătești?]]></item>
+    </category>
+    <category name="zoo.inventory.allin">
+      <item name="zoo.inventory.allin.title"><![CDATA[Trimiteți totul la inventar]]></item>
+      <item name="zoo.inventory.allin.confirmation"><![CDATA[Sigur vrei să trimiți totul la inventar? Atenție: Animalele tale trebuie să fie curate, hrănite și fericite înainte de a putea face acest lucru.]]></item>
+    </category>
+  </category>
+</language>

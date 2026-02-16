@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.general">
+    <item name="zoo.window.general.error"><![CDATA[Eroare]]></item>
+    <item name="zoo.window.general.petPenny_singular"><![CDATA[Zoogros]]></item>
+    <item name="zoo.window.general.petPenny_plural"><![CDATA[Zoogros]]></item>
+    <item name="zoo.window.general.petPaw_singular"><![CDATA[Labă]]></item>
+    <item name="zoo.window.general.petPaw_plural"><![CDATA[Labă]]></item>
+    <item name="zoo.window.general.zooDollar_singular"><![CDATA[Zoodollar]]></item>
+    <item name="zoo.window.general.zooDollar_plural"><![CDATA[Zoodolari]]></item>
+    <item name="zoo.window.general.xp_singular"><![CDATA[Punct de experiență]]></item>
+    <item name="zoo.window.general.xp_plural"><![CDATA[Puncte de experiență]]></item>
+    <item name="zoo.window.general.attractivity_singular"><![CDATA[Atractivitate]]></item>
+    <item name="zoo.window.general.start"><![CDATA[Început]]></item>
+    <item name="zoo.window.general.skip"><![CDATA[Sari peste]]></item>
+    <item name="zoo.window.general.next"><![CDATA[Alte]]></item>
+    <item name="zoo.window.general.prev"><![CDATA[Spate]]></item>
+    <item name="zoo.window.general.first"><![CDATA[Primul]]></item>
+    <item name="zoo.window.general.last"><![CDATA[Dura]]></item>
+    <item name="zoo.window.general.congrats"><![CDATA[Felicitări din suflet!]]></item>
+    <item name="zoo.window.general.specialOffer"><![CDATA[Acţiune!]]></item>
+    <item name="zoo.window.general.attention"><![CDATA[Atenţie!]]></item>
+    <item name="zoo.window.general.sorry"><![CDATA[Ne cerem scuze.]]></item>
+    <item name="zoo.window.general.goodbye"><![CDATA[La revedere!]]></item>
+    <item name="zoo.window.general.thankyou"><![CDATA[Mulţumesc!]]></item>
+    <item name="zoo.window.general.second"><![CDATA[sec]]></item>
+    <item name="zoo.window.general.seconds"><![CDATA[secunde]]></item>
+    <item name="zoo.window.general.minute"><![CDATA[minut]]></item>
+    <item name="zoo.window.general.minutes"><![CDATA[min.]]></item>
+    <item name="zoo.window.general.hour"><![CDATA[oră]]></item>
+    <item name="zoo.window.general.hours"><![CDATA[ore]]></item>
+    <item name="zoo.window.general.day"><![CDATA[zi]]></item>
+    <item name="zoo.window.general.days"><![CDATA[zile]]></item>
+    <item name="zoo.window.general.week"><![CDATA[Săptămână]]></item>
+    <item name="zoo.window.general.weeks"><![CDATA[săptămâni]]></item>
+    <item name="zoo.window.general.month"><![CDATA[lună]]></item>
+    <item name="zoo.window.general.months"><![CDATA[luni]]></item>
+    <item name="zoo.window.general.year"><![CDATA[an]]></item>
+    <item name="zoo.window.general.years"><![CDATA[zbor]]></item>
+  </category>
+</language>

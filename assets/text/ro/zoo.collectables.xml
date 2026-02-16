@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.collectables">
+    <category name="zoo.collectables.forgottenZoo">
+      <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Instrumente]]></item>
+      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Colectează unelte și schimbă-le pentru expansiuni pentru grădina zoologică ascunsă.<br> <br>Primești unelte în Safari și pe Roata Norocului. Apoi mergi la magazin și schimbă-le.<br> <br>Până acum deții atâtea unelte:]]></item>
+      <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[Vrei să-ți extinzi grădina zoologică ascunsă pentru %tools% unelte și %zd% zoodolari?]]></item>
+    </category>
+    <category name="zoo.collectables.easterEvent">
+      <item name="zoo.collectables.easterEvent.title"><![CDATA[ouă de Paște]]></item>
+      <item name="zoo.collectables.easterEvent.text"><![CDATA[Între 21 și 27 aprilie, veți avea parte de o avalanșă de ouă de Paște! Colecționați-le și schimbați-le pe decorațiuni de Paște pentru împrejurimi, iepurași de Paște și împrejurimi. Starea actuală a ouălor de Paște:]]></item>
+    </category>
+    <category name="zoo.collectables.meadow">
+      <item name="zoo.collectables.meadow.main.title"><![CDATA[Luncă]]></item>
+      <item name="zoo.collectables.meadow.main.text"><![CDATA[Multe ierburi, flori și trifoi suculent cresc într-o pajiște frumoasă și colorată.]]></item>
+      <item name="zoo.collectables.meadow.flower.title"><![CDATA[Flori]]></item>
+      <item name="zoo.collectables.meadow.flower.text"><![CDATA[Primăvara, pajiștile se transformă într-o mare de flori sălbatice. Și animalele tale le adoră!]]></item>
+      <item name="zoo.collectables.meadow.log.title"><![CDATA[Ciot]]></item>
+      <item name="zoo.collectables.meadow.log.text"><![CDATA[O pajiște de tranziție este creată prin defrișarea copacilor. Odată ce pădurea dispare, acolo vor crește mai întâi mici lăstari de iarbă.]]></item>
+      <item name="zoo.collectables.meadow.gnome.title"><![CDATA[Elffish]]></item>
+      <item name="zoo.collectables.meadow.gnome.text"><![CDATA[Pajiștile găzduiesc adesea și elfi, care ies din ascunzătorile lor noaptea. Aceste creaturi timide, dar prietenoase, își împart adesea casele cu iepurii.]]></item>
+      <item name="zoo.collectables.meadow.mushroom.title"><![CDATA[Ciuperci]]></item>
+      <item name="zoo.collectables.meadow.mushroom.text"><![CDATA[Ciupercile sunt ciuperci gustoase și cresc, de exemplu, în America de Nord.]]></item>
+      <item name="zoo.collectables.meadow.sign.title"><![CDATA[Pajiște sălbatică]]></item>
+      <item name="zoo.collectables.meadow.sign.text"><![CDATA[Dacă nimeni nu are grijă de o „pajiște de tranziție” mult timp, în curând va crește din nou pe ea o pădure sălbatică.]]></item>
+    </category>
+    <category name="zoo.collectables.ice">
+      <item name="zoo.collectables.ice.main.title"><![CDATA[Gheaţă]]></item>
+      <item name="zoo.collectables.ice.main.text"><![CDATA[Nu numai că pinguinii și urșii polari preferă climatele reci, dar vulpea arctică se bucură și de gheață și zăpadă!]]></item>
+      <item name="zoo.collectables.ice.popsicle.title"><![CDATA[Înghețată]]></item>
+      <item name="zoo.collectables.ice.popsicle.text"><![CDATA[Puțini oameni știu asta, dar și pinguinilor le plac înghețatele și uneori le fură de la turiști.]]></item>
+      <item name="zoo.collectables.ice.cubes.title"><![CDATA[Cuburi de gheață]]></item>
+      <item name="zoo.collectables.ice.cubes.text"><![CDATA[Cuburile de gheață sunt modalitatea perfectă de a răcori o băutură caldă. Ele oferă o senzație de prospețime într-o zi fierbinte de vară.]]></item>
+      <item name="zoo.collectables.ice.skates.title"><![CDATA[Patine]]></item>
+      <item name="zoo.collectables.ice.skates.text"><![CDATA[Patinajul pe gheață este un sport uimitor. Istoricii cred că a fost inventat acum aproximativ 4.000 de ani. Probabil finlandezii au contribuit la invenție.]]></item>
+      <item name="zoo.collectables.ice.igloo.title"><![CDATA[Iglu]]></item>
+      <item name="zoo.collectables.ice.igloo.text"><![CDATA[Iglu înseamnă casă pentru eschimoși, care sunt locuitorii originari ai Americii de Nord.]]></item>
+      <item name="zoo.collectables.ice.sign.title"><![CDATA[Țurțuri]]></item>
+      <item name="zoo.collectables.ice.sign.text"><![CDATA[Țurțurii sclipitori se formează la temperaturi de îngheț. Bineînțeles, căldura soarelui îi topește din nou.]]></item>
+    </category>
+    <category name="zoo.collectables.bamboo">
+      <item name="zoo.collectables.bamboo.main.title"><![CDATA[Crâng de bambus]]></item>
+      <item name="zoo.collectables.bamboo.main.text"><![CDATA[Bambusul este singura hrană pentru panda și crește în principal în Asia.]]></item>
+      <item name="zoo.collectables.bamboo.branches.title"><![CDATA[ramură de bambus]]></item>
+      <item name="zoo.collectables.bamboo.branches.text"><![CDATA[Bambusul este un nume colectiv pentru mai multe genuri de ierburi lemnoase.]]></item>
+      <item name="zoo.collectables.bamboo.lantern.title"><![CDATA[Lampion]]></item>
+      <item name="zoo.collectables.bamboo.lantern.text"><![CDATA[Agățați un felinar frumos în grădina dvs. de bambus și luminați noaptea cu o lumină blândă.]]></item>
+      <item name="zoo.collectables.bamboo.gong.title"><![CDATA[Gong]]></item>
+      <item name="zoo.collectables.bamboo.gong.text"><![CDATA[Gongul este o decorațiune frumoasă pentru grădina ta de bambus. Și acel sunet exotic... pare a fi menit să înceapă meditația.]]></item>
+      <item name="zoo.collectables.bamboo.statue.title"><![CDATA[statuie asiatică]]></item>
+      <item name="zoo.collectables.bamboo.statue.text"><![CDATA[O statuie în stil asiatic va adăuga o atmosferă de calm și pace grădinii de bambus.]]></item>
+      <item name="zoo.collectables.bamboo.sign.title"><![CDATA[Aripi de bambus]]></item>
+      <item name="zoo.collectables.bamboo.sign.text"><![CDATA[Oamenii își fac aripi din bambus de mult timp. Materialul ușor, dar rezistent, le permite să atingă înălțimi incredibile.]]></item>
+    </category>
+    <category name="zoo.collectables.parrot">
+      <item name="zoo.collectables.parrot.main.title"><![CDATA[Papagal]]></item>
+      <item name="zoo.collectables.parrot.main.text"><![CDATA[Unii papagali sunt cunoscuți pentru faptul că sunt destul de vorbăreți. Unii dintre ei vorbesc chiar și în propoziții complete.]]></item>
+      <item name="zoo.collectables.parrot.plush.title"><![CDATA[Papagal de pluș]]></item>
+      <item name="zoo.collectables.parrot.plush.text"><![CDATA[Papagalii sunt animale de companie foarte sociale și populare, dar au nevoie de mult spațiu pentru a alerga.]]></item>
+      <item name="zoo.collectables.parrot.paw.title"><![CDATA[Gheara papagalului]]></item>
+      <item name="zoo.collectables.parrot.paw.text"><![CDATA[Papagalii au de fapt 4 gheare. Două sunt în față și două în spate. În acest fel, nu vor cădea de pe creangă chiar dacă adorm.]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.title"><![CDATA[Blackjack]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.text"><![CDATA[Papagalii sunt de fapt pirați care au fost transformați în păsări colorate de către magicieni malefici.]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.title"><![CDATA[Peru]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.text"><![CDATA[Junglele din regiunea amazoniană din Peru găzduiesc mulți papagali, iar pădurea tropicală le oferă un habitat ideal.]]></item>
+      <item name="zoo.collectables.parrot.sign.title"><![CDATA[Fani ai fructelor]]></item>
+      <item name="zoo.collectables.parrot.sign.text"><![CDATA[Papagalilor le place să mănânce semințe și nuci, dar se vor bucura și de fructe. Nu contează dacă sunt proaspete sau uscate, principalul lucru este să fie dulci.]]></item>
+    </category>
+    <category name="zoo.collectables.rabbit">
+      <item name="zoo.collectables.rabbit.main.title"><![CDATA[Iepure de câmp]]></item>
+      <item name="zoo.collectables.rabbit.main.text"><![CDATA[Iepurii trăiesc într-o varietate de zone - de la deșerturi la păduri și regiuni polare reci.]]></item>
+      <item name="zoo.collectables.rabbit.plush.title"><![CDATA[Iepure de pluș]]></item>
+      <item name="zoo.collectables.rabbit.plush.text"><![CDATA[Iepurii există de secole. Fosilele arată că niște creaturi asemănătoare iepurilor au trăit în China acum 60 de milioane de ani.]]></item>
+      <item name="zoo.collectables.rabbit.paw.title"><![CDATA[Piciorul iepurelui]]></item>
+      <item name="zoo.collectables.rabbit.paw.text"><![CDATA[Picioarele iepurelui sunt un simbol al norocului în multe culturi.]]></item>
+      <item name="zoo.collectables.rabbit.paint.title"><![CDATA[Paletă de culori]]></item>
+      <item name="zoo.collectables.rabbit.paint.text"><![CDATA[O dată pe an, sosește Iepurașul de Paște și ascunde ouă de ciocolată și ouă colorate.]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.title"><![CDATA[Portugalia]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.text"><![CDATA[Iepurii sălbatici europeni au trăit inițial în Portugalia, Spania și nord-vestul Africii, dar au ajuns și în Australia.]]></item>
+      <item name="zoo.collectables.rabbit.sign.title"><![CDATA[Experți în legume]]></item>
+      <item name="zoo.collectables.rabbit.sign.text"><![CDATA[Iepurii sunt vegetarieni. Preferă să mănânce iarbă, ierburi aromatice, salată verde și flori colorate.]]></item>
+    </category>
+    <category name="zoo.collectables.penguin">
+      <item name="zoo.collectables.penguin.main.title"><![CDATA[Pinguin]]></item>
+      <item name="zoo.collectables.penguin.main.text"><![CDATA[Pinguinii sunt păsări marine, chiar dacă nu pot zbura.]]></item>
+      <item name="zoo.collectables.penguin.plush.title"><![CDATA[Pinguin de pluș]]></item>
+      <item name="zoo.collectables.penguin.plush.text"><![CDATA[Pinguinii sunt animale foarte sociale și competitive cărora le place adesea să danseze sub apă.]]></item>
+      <item name="zoo.collectables.penguin.paw.title"><![CDATA[Înotătoare de pinguin]]></item>
+      <item name="zoo.collectables.penguin.paw.text"><![CDATA[Mersul unui pinguin pe uscat pare stângaci, dar în apă, pinguinul este un înotător și un scufundător agil.]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.title"><![CDATA[Smoking]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.text"><![CDATA[Unii oameni numesc un smoking și un frac de pinguin, deoarece seamănă izbitor cu aspectul unui pinguin.]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.title"><![CDATA[Antarctica]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.text"><![CDATA[Insulele Subpolare găzduiesc unul dintre cei mai mari și mai grei pinguini - pinguinul împărat.]]></item>
+      <item name="zoo.collectables.penguin.sign.title"><![CDATA[Fanii peștilor]]></item>
+      <item name="zoo.collectables.penguin.sign.text"><![CDATA[Pinguinii sunt niște gurmanzi absoluti. Preferă peștele, dar le plac și creaturile marine.]]></item>
+    </category>
+    <category name="zoo.collectables.giantTurtle">
+      <item name="zoo.collectables.giantTurtle.main.title"><![CDATA[Țestoasă uriașă]]></item>
+      <item name="zoo.collectables.giantTurtle.main.text"><![CDATA[Țestoasele sunt reptile. Cel mai adesea trăiesc în apropierea apei sau în apă. Cele mai mari țestoase sunt țestoasele de apă.]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.title"><![CDATA[Broască țestoasă de pluș]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.text"><![CDATA[Broaștele țestoase uriașe mici comunică cu frații lor în timp ce se află încă în ou. Pur și simplu se ciocnesc unele de altele cu cojile de ouă.]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.title"><![CDATA[Piciorul de broască țestoasă]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.text"><![CDATA[Picioarele unei țestoase de apă au picioare palmate între degete, în timp ce cele ale țestoaselor terestre au picioare care seamănă mai mult cu niște cioturi.]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.title"><![CDATA[Leagăn]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.text"><![CDATA[Țestoasele elefant pot trăi peste 100 de ani, dar nu le crește niciodată barbă gri.]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.title"><![CDATA[Ecuador]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.text"><![CDATA[Țestoasele elefant provin din Insulele Galapagos, care aparțin Ecuadorului, în America de Sud.]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.title"><![CDATA[Specialiști în nutriție]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.text"><![CDATA[Majoritatea țestoaselor sunt omnivore, dar unele specii se specializează într-un singur tip de hrană, cum ar fi meduzele.]]></item>
+    </category>
+    <category name="zoo.collectables.lion">
+      <item name="zoo.collectables.lion.main.title"><![CDATA[Leu]]></item>
+      <item name="zoo.collectables.lion.main.text"><![CDATA[Leii sunt a doua cea mai mare felină din lume după tigri.]]></item>
+      <item name="zoo.collectables.lion.plush.title"><![CDATA[Leu de pluș]]></item>
+      <item name="zoo.collectables.lion.plush.text"><![CDATA[Leii albi sunt de fapt lei complet normali, doar că blana lor a fost decolorată de soare.]]></item>
+      <item name="zoo.collectables.lion.paw.title"><![CDATA[Laba de leu]]></item>
+      <item name="zoo.collectables.lion.paw.text"><![CDATA[Își impun respect cu labele lor mari, iar ghearele își prind ferm prada.]]></item>
+      <item name="zoo.collectables.lion.crown.title"><![CDATA[Coroană]]></item>
+      <item name="zoo.collectables.lion.crown.text"><![CDATA[Deși locuiesc în savane și stepe, sunt adesea numiți „regii junglei”.]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.title"><![CDATA[Tanzania]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.text"><![CDATA[Astăzi trăiesc în principal în parcuri naționale, cum ar fi cele din Tanzania sau de pe coasta Africii de Est.]]></item>
+      <item name="zoo.collectables.lion.sign.title"><![CDATA[Iubitori de friptură]]></item>
+      <item name="zoo.collectables.lion.sign.text"><![CDATA[Leii, ca toate felinele, sunt carnivore. Se hrănesc cu gnu, zebre și bivoli.]]></item>
+    </category>
+    <category name="zoo.collectables.peacock">
+      <item name="zoo.collectables.peacock.main.title"><![CDATA[Păun]]></item>
+      <item name="zoo.collectables.peacock.main.text"><![CDATA[Păunii sunt păsări exotice impresionante. Cutreieră liberi în multe grădini zoologice și parcuri.]]></item>
+      <item name="zoo.collectables.peacock.plush.title"><![CDATA[Păun de pluș]]></item>
+      <item name="zoo.collectables.peacock.plush.text"><![CDATA[Penele cozii de păun sunt frumoase. În mitologia greacă, ochii de păun sunt un simbol al gardianului Argus, care îl păzea pe iubitul lui Zeus, Io.]]></item>
+      <item name="zoo.collectables.peacock.paw.title"><![CDATA[Gheare de păun]]></item>
+      <item name="zoo.collectables.peacock.paw.text"><![CDATA[Păunii masculi sunt destul de vanitoși. Pot petrece ore întregi pieptănându-și frumoasele pene cu ghearele. Și în cele din urmă le întind în toată splendoarea lor.]]></item>
+      <item name="zoo.collectables.peacock.mirror.title"><![CDATA[Oglindă]]></item>
+      <item name="zoo.collectables.peacock.mirror.text"><![CDATA[Păunii pot face niște cascadorii destul de interesante pentru a stârni interesul femelelor, iar femelelor le place și să flirteze cu ei.]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.title"><![CDATA[India]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.text"><![CDATA[În India, păunul este pasărea națională din 1963. Indienii prețuiesc aceste păsări deoarece vânează cobre veninoase.]]></item>
+      <item name="zoo.collectables.peacock.sign.title"><![CDATA[Iubitor de cereale]]></item>
+      <item name="zoo.collectables.peacock.sign.text"><![CDATA[Păunii mănâncă în principal cereale și boabe, dar din când în când vor mânca și flori și ocazional gândaci.]]></item>
+    </category>
+    <category name="zoo.collectables.panda">
+      <item name="zoo.collectables.panda.main.title"><![CDATA[Panda]]></item>
+      <item name="zoo.collectables.panda.main.text"><![CDATA[Panda uriașă este un urs alb-negru originar din China.]]></item>
+      <item name="zoo.collectables.panda.plush.title"><![CDATA[Panda de pluș]]></item>
+      <item name="zoo.collectables.panda.plush.text"><![CDATA[Puii de panda sunt într-adevăr foarte mici. Cântăresc doar 100 până la 200 de grame și au aproximativ 15-17 cm lungime.]]></item>
+      <item name="zoo.collectables.panda.paw.title"><![CDATA[Labă de panda]]></item>
+      <item name="zoo.collectables.panda.paw.text"><![CDATA[Pandele uriașe au degetul mare strâmb. Îl folosesc pentru a ține mâncarea.]]></item>
+      <item name="zoo.collectables.panda.bowl.title"><![CDATA[bețișoare]]></item>
+      <item name="zoo.collectables.panda.bowl.text"><![CDATA[Pandele deștepte folosesc bețe de bambus pentru a-și înfige mâncarea pe frigărui, la fel cum oamenii mănâncă cu bețișoare în Asia.]]></item>
+      <item name="zoo.collectables.panda.flagChina.title"><![CDATA[China]]></item>
+      <item name="zoo.collectables.panda.flagChina.text"><![CDATA[Ultimii panda sălbatici trăiesc în China, cea mai mare țară din lume. Din păcate, au mai rămas doar câțiva dintre acești panda uriași.]]></item>
+      <item name="zoo.collectables.panda.sign.title"><![CDATA[Expert în bambus]]></item>
+      <item name="zoo.collectables.panda.sign.text"><![CDATA[Urșii panda preferă să mestece bambus, în special frunzele și crenguțele tinere. Deoarece sunt animale mari, consumă mult din acesta.]]></item>
+    </category>
+    <category name="zoo.collectables.sonja">
+      <item name="zoo.collectables.sonja.main.title"><![CDATA[Crescătoarea Soňa]]></item>
+      <item name="zoo.collectables.sonja.main.text"><![CDATA[Crescătoarea Soňa știe cum să aibă grijă perfect de animale. Numai ea poate îmbrățișa toate animalele deodată.]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.title"><![CDATA[Jucărie de elefant]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.text"><![CDATA[Maimuțele sunt tovarăși veseli. Le place să se joace, de exemplu, cu elefanți din lemn viu colorați.]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.title"><![CDATA[Top]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.text"><![CDATA[Cu titirezul ei vesel, Soňa poate înveseli chiar și cel mai morocănos rinocer.]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.title"><![CDATA[Jucărie de șoarece]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.text"><![CDATA[Pisicile drăguțe de casă adoră să urmărească șoarecii de jucărie, dar leii preferă prada mai mare.]]></item>
+      <item name="zoo.collectables.sonja.main.babyBear.title"><![CDATA[Pui de urs]]></item>
+      <item name="zoo.collectables.sonja.babyBear.text"><![CDATA[Puii de urs se cuibăreau tot timpul. Unii dintre ei nu vor să-și părăsească deloc îngrijitorul.]]></item>
+      <item name="zoo.collectables.sonja.sign.title"><![CDATA[Maestru al îmbrățișărilor]]></item>
+      <item name="zoo.collectables.sonja.sign.text"><![CDATA[Sonia este o maestră a îmbrățișărilor. Angajați-o și veți primi cu 12% mai mult BZ pentru serviciile ei!]]></item>
+    </category>
+    <category name="zoo.collectables.book">
+      <item name="zoo.collectables.book.tab.animals"><![CDATA[Animale]]></item>
+      <item name="zoo.collectables.book.tab.cages"><![CDATA[Padocuri]]></item>
+      <item name="zoo.collectables.book.tab.assistants"><![CDATA[Asistenți]]></item>
+      <item name="zoo.collectables.book.more"><![CDATA[Mai mult...]]></item>
+    </category>
+    <category name="zoo.collectables.rewards">
+      <item name="zoo.collectables.book.rewards.unlocked.title"><![CDATA[Câştiga!]]></item>
+      <item name="zoo.collectables.book.rewards.unlocked.text"><![CDATA[Alege-ți prețul:]]></item>
+      <item name="zoo.collectables.book.rewards.locked.title"><![CDATA[Continuă să colecționezi...]]></item>
+      <item name="zoo.collectables.book.rewards.locked.text"><![CDATA[... Aceste recompense grozave te așteaptă:]]></item>
+      <item name="zoo.collectables.book.rewards.button"><![CDATA[Alege]]></item>
+    </category>
+  </category>
+</language>

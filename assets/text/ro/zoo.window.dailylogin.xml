@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.dailylogin">
+    <item name="zoo.window.dailylogin.title"><![CDATA[Bonus zilnic de conectare]]></item>
+    <item name="zoo.window.dailylogin.info"><![CDATA[Conectează-te zilnic - merită! Primește premii grozave în fiecare zi!]]></item>
+    <item name="zoo.window.dailylogin.reward"><![CDATA[Recompensa ta zilnică:]]></item>
+    <item name="zoo.window.dailylogin.day"><![CDATA[Zi: %day%]]></item>
+    <item name="zoo.window.dailylogin.eventshop"><![CDATA[Ofertă specială]]></item>
+  </category>
+</language>

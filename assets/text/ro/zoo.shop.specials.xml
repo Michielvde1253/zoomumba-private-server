@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Booster 30% EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[Cu boosterul de 30% vei primi cu 30% mai mult BZ timp de 1 oră! Dacă cumperi 2 booster-e identice, timpul va fi prelungit. Sfat: Un booster de 30% BZ și un booster de 100% BZ sunt valabile în același timp și te vor recompensa cu 130% mai mult BZ pentru întreaga oră.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[100% booster EP]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[Cu boosterul 100% BZ, primești cu 100% mai mult BZ pentru întreaga oră! Dacă cumperi 2 boostere identice, timpul va fi prelungit. Sfat: un booster de 100% BZ și un booster de 30% BZ sunt valabile în același timp, deci primești cu 130% mai mult BZ pentru întreaga oră!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30% booster pentru lăbuțe]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[Cu amplificatorul Labă de 30% primești cu 30% mai multe Labe pentru întreaga oră! Dacă cumperi 2 amplificatoare identice, timpul va fi prelungit. Sfat: un amplificator Labă de 30% și un amplificator Labă de 100% sunt valabile în același timp, deci primești cu 130% mai multe Labe pentru întreaga oră!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100% stimulator pentru lăbuțe]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[Cu amplificatorul 100% Labă primești cu 100% mai multe Labe pentru întreaga oră! Dacă cumperi 2 amplificatoare identice, timpul va fi prelungit. Sfat: un amplificator 100% Labă și un amplificator 30% Labă sunt valabile în același timp, deci primești cu 130% mai multe Labe pentru întreaga oră!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Booster pentru jocuri de societate]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[Cu boosterul pentru jocuri de societate, vei primi dublul numărului de obiecte de colecție care vor ieși din carcase timp de 1 oră! Dacă vrei să prelungești acest timp, cumpără mai multe boostere.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[30% booster de zoocoin]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[Cu un booster de 30%, vei primi 30% zoogros suplimentar din magazinele tale timp de 1 oră! Dacă cumperi 2 boostere identice, timpul va fi prelungit. Sfat: Un booster de 30% zoogros și un booster de 100% zoogros sunt valabile în același timp și te vor recompensa cu 130% zoogros suplimentar pentru întreaga oră.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[Booster de zoocoin 100%]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[Cu un booster de 100%, vei primi 100% zoogros suplimentar din magazinele tale timp de 1 oră! Dacă cumperi 2 boostere identice, timpul va fi prelungit. Sfat: Un booster de 100% zoogros și un booster de 30% zoogros sunt valabile în același timp și te vor recompensa cu 130% zoogros suplimentar pentru întreaga oră.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Booster pentru stația de reproducere]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Hibrizi rari, ușor de realizat! Booster-ul Stației de Reproducere se va asigura că puii tăi ajung cu cel puțin un nivel mai sus decât cel mai scăzut nivel al unuia dintre părinții lor în termen de 24 de ore. Dar atenție: Booster-ul funcționează doar dacă iei puiul de la Stația de Reproducere.]]></item>
+    </category>
+  </category>
+</language>

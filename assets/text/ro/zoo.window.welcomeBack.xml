@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.welcomeBack">
+    <item name="zoo.window.welcomeBack.title"><![CDATA[Bine ai revenit, %username%!]]></item>
+    <item name="zoo.window.welcomeBack.info"><![CDATA[Ce bine că te-ai întors! Așa că, hai să ne apucăm de treabă! Animalele tale te așteaptă cu nerăbdare. Va fi din nou sălbatic! Mai multe adăugiri adorabile, mai multe păsări neobișnuite și o mulțime de vizitatori entuziasmați. <br><br>Și te vei bucura, de asemenea, de ceea ce îți rezervă grădina zoologică:]]></item>
+    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Ura! Repede, nu rata adrenalina!]]></item>
+  </category>
+</language>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.gift">
+    <category name="zoo.window.gift.superFeedPack">
+      <item name="zoo.window.gift.superFeedPack.info"><![CDATA[Astăzi la ofertă - pachete cu superalimente! Alegeți între 3 opțiuni: „Început bun”, „Maestru” și „Expert”. Ca expert, puteți trimite cadouri suplimentare celor 5 prieteni ai dumneavoastră. Nu ezitați!]]></item>
+    </category>
+    <category name="zoo.window.gift.recipients">
+      <item name="zoo.window.gift.recipients.headerGift"><![CDATA[Cadou]]></item>
+      <item name="zoo.window.gift.recipients.headerUsername"><![CDATA[Numele jucătorului]]></item>
+      <item name="zoo.window.gift.recipients.headerUserID"><![CDATA[ID-ul jucătorului]]></item>
+      <item name="zoo.window.gift.recipients.info"><![CDATA[Alege 5 prieteni și trimite fiecăruia câte un cadou:]]></item>
+      <item name="zoo.window.gift.recipients.button.send"><![CDATA[Cadou]]></item>
+    </category>
+    <category name="zoo.window.gift.unwrapped">
+      <item name="zoo.window.gift.unwrapped.title"><![CDATA[Asta va fi o surpriză!]]></item>
+      <item name="zoo.window.gift.unwrapped.text.1"><![CDATA[Ați primit următorul cadou:]]></item>
+      <item name="zoo.window.gift.unwrapped.text.2"><![CDATA[Cadoul dumneavoastră va fi debitat din contul dumneavoastră imediat după despachetare.]]></item>
+    </category>
+  </category>
+</language>

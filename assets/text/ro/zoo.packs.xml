@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA[Pachet de superalimente „Un start bun”]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Acest pachet conține 40 de unități de Superfood și 5 Paws. Acestea vă vor oferi de 40x mai mult BZ la hrănire și veți putea vedea progrese în înfrumusețarea incintei!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA[Pachet de superalimente „Master”]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Acest pachet conține 125 de unități de Superfood și 20 de Paws. Aceasta vă va oferi de 125x BZ dublu și vă va ajuta să vă înfrumusețați incintele!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA[Pachet de superalimente „Expert”]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Acest pachet conține 350 de unități de superaliment și 30 de lăbuțe, dar și 5 cadouri cu câte 5 unități de superaliment pentru 5 dintre prietenii tăi. Așadar, și ei pot beneficia de acest pachet!]]></item>
+    </category>
+  </category>
+</language>

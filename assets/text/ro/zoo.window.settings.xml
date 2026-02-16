@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.settings">
+    <item name="zoo.window.settings.info"><![CDATA[Salut, domnule director al grădinii zoologice!<br>Aici poți personaliza ZooMumba după preferințele tale! Alege jocul care îți place cel mai mult!]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[pe]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[oprit]]></item>
+    <item name="zoo.window.settings.quality.low"><![CDATA[scăzut]]></item>
+    <item name="zoo.window.settings.quality.middle"><![CDATA[mediu]]></item>
+    <item name="zoo.window.settings.quality.high"><![CDATA[ridicat]]></item>
+    <item name="zoo.window.settings.quality.title"><![CDATA[Arte grafice]]></item>
+    <item name="zoo.window.settings.quality.info"><![CDATA[Calitate]]></item>
+    <item name="zoo.window.settings.account.title"><![CDATA[Editați contul]]></item>
+    <item name="zoo.window.settings.account.info"><![CDATA[Aici poți edita detaliile contului tău de joc, cum ar fi adresa de e-mail.]]></item>
+    <item name="zoo.window.settings.title.tooltipps"><![CDATA[Sugestii de instrumente]]></item>
+    <item name="zoo.window.settings.title.visitors"><![CDATA[Vizitatori]]></item>
+    <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Dorințele vizitatorilor]]></item>
+    <item name="zoo.window.settings.title.sound"><![CDATA[Sunet]]></item>
+    <item name="zoo.window.settings.title.sound.background"><![CDATA[Muzică]]></item>
+    <item name="zoo.window.settings.title.sound.effects"><![CDATA[Efecte sonore]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[a ajusta]]></item>
+    <item name="zoo.window.settings.tab.account"><![CDATA[cont]]></item>
+    <item name="zoo.window.settings.tab.config"><![CDATA[Configurare]]></item>
+    <item name="zoo.window.settings.tab.buildings"><![CDATA[Clădirea principală]]></item>
+    <item name="zoo.window.settings.buildings.info"><![CDATA[Alege clădirea de intrare a grădinii zoologice în funcție de preferințele tale. Ai la dispoziție clădirile principale în funcție de nivelul tău.<br>În acest fel, grădina zoologică va fi din ce în ce mai adaptată nevoilor tale!]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Animaţie]]></item>
+    <item name="zoo.window.settings.anim.info"><![CDATA[Numărul de animații cu animale]]></item>
+    <item name="zoo.window.settings.saveAssets"><![CDATA[Memorie tampon]]></item>
+  </category>
+</language>

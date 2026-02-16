@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[Crăciun fericit!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[Din 21 decembrie până în 2 ianuarie, totul în grădina zoologică se învârte în jurul Crăciunului! Decorează-ți bradul de Crăciun și ajută-mă să salvez Crăciunul!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Mai întâi crește 8 reni zburători și apoi un Moș Rudolph pentru sania lui. Pentru fiecare ren pe care i-l aduci, vei primi un cadou.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Din când în când, Moș Crăciun îți va oferi și câte un ornament pentru bradul de Crăciun. La final, vei putea păstra bradul împodobit.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Ura, avem și aici o colecție specială de Crăciun! Aveți grijă de animalele voastre și colecționați articole de Crăciun. Le puteți folosi și pentru a crește reni!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Surprize grozave în magazinul de Crăciun]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Transformă-ți grădina zoologică într-o lume de iarnă colorată: cu o mulțime de decorațiuni de Crăciun noi și populare.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Crăciun fericit și distracție plăcută la evenimentul de Crăciun!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[Este îngrozitor! Renii lui Moș Crăciun au fugit și acum nu mai poate livra cadouri! Aduceți-i 8 reni zburători și pe Rudolph al lui Moș Crăciun și puneți-i în fața saniei sale. Drept mulțumire, veți primi cadouri grozave!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Moș Crăciun este în drum spre:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Ai câștigat:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Uită-te la bradul tău de Crăciun din parcare!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Ia o ținută nouă pentru avatarul tău!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Repede, uită-te la inventarul tău!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Mulțumesc!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Renii tăi abia așteaptă să plece la drum. Datorită ție, Crăciunul este salvat!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Mulțumesc!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Încă mai lipsesc câțiva dintre renii mei, dar e timpul să pornesc la drum! Nu vă faceți griji, o să-mi dau seama - la urma urmei, sunt Moș Crăciun!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[Bradul de Crăciun decorat din parcarea ta este acum în inventarul tău.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Mai întâi, hai să-i aducem lui Moș Crăciun 8 reni magici.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Moș Crăciun are deja 8 reni zburători și tot ce-i mai trebuie este Rudolph-ul lui!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Decorațiuni de Crăciun]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Crăciunul în formă]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Cuplu de bufnițe de zăpadă]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Numărul de reni magici masculi din inventarul tău.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Numărul de reni zburători femele din inventarul tău.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Înainte să-i aduci lui Moș Crăciun pe Rudolph, are nevoie mai întâi de 8 reni zburători.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Numărul de Santa Rudolph bărbați din inventarul tău.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Numărul de femei Santa Rudolph din inventarul tău.]]></item>
+    </category>
+  </category>
+</language>

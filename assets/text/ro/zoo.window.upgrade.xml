@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.upgrade">
+    <item name="zoo.window.upgrade.info"><![CDATA[Modernizează-ți țarcurile, înfrumusețează-le și fă-ți grădina zoologică și mai atractivă.]]></item>
+    <item name="zoo.window.upgrade.button"><![CDATA[Actualizare]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[Între 21 și 27 aprilie, iepurașul de Paște va sări prin grădina zoologică și va lăsa un ou. Colectați-l și schimbați-l cu decorațiuni de Paște pentru țarcuri, iepurași de Paște și țarcuri.]]></item>
+  </category>
+</language>

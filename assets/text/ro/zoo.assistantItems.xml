@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Îngrijitor Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley va menține toate țarcurile impecabil de curate. Trucul lui este să implice animalele, transformând curățenia într-un joc distractiv.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Portarul Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Îngrijitoarea Sonja știe cum să aibă grijă perfectă de animale. Numai ea se poate cuibări cu toate animalele deodată.]]></item>
+  </category>
+</language>

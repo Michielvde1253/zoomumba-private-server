@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Salut! Sunt Lucka și ador liliecii! Dar în special puișorii lor drăguți. Adu-mi cât mai mulți puișori, apoi voi avea niște articole de Halloween foarte frumoase pentru tine. Pur și simplu schimbă-i pe cei dulci pentru a obține articolele din stânga sau pe cei acri pentru a obține articolele din dreapta.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Inventar]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Alege câți pui de %species% vrei să muți în inventarul tău.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Ne cerem scuze!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Din păcate, nu ai suficienți pui de lilieci în inventar. Crește pui de lilieci și mută-i în inventar pentru a cumpăra acest articol.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Lilieci mici în inventar]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Schimbă liliecii mici cu dulciuri]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Înlocuiți liliecii mici cu liliecii acri]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Număr: Dulce]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Investește %x% dulciuri pentru a debloca acest obiect]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Investește %x% acru pentru a debloca acest obiect]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Număr: Acru]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Ajutor]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Mută ​​puii de lilieci în inventar]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Bine ați venit la evenimentul de Halloween!<br> În perioada <b>25 octombrie - 1 noiembrie</b>, o petrecere înfricoșătoare începe în grădina zoologică! Vă așteaptă o mulțime de cadouri și surprize. În pasul următor, veți vedea cum va funcționa totul.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Colectează cât mai multe *dulci* și *acrișoare*! Ai nevoie de *dulci* și *acrișoare* pentru a activa remorcile cu fantome! Vei afla cum funcționează totul pe pagina următoare.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Dacă ai suficiente sucuri dulci și acrișoare, le poți folosi pentru a activa obiecte. Dar fii atent: dulciurile te vor face să privești cu ochiul spre stânga, iar cele acrișoare cu ochiul spre dreapta. Ochiul îți va arăta de ce parte sunt activate obiectele.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Poți obține obiecte activate schimbându-le cu <b>pui de lilieci</b>. Crește o mulțime de lilieci drăguți. Un buton nou din meniul țarcului te va ajuta să salvezi puii în inventarul tău rapid și ușor.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Distrează-te în magazinul înfricoșător!<br> Pentru toți nerăbdători: Dulciurile și acrișoarele pot fi schimbate pe pui de lilieci în magazin. Mai multe surprize te așteaptă în magazin.<br> <br>Distrează-te de Halloween anul acesta!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[E timpul pentru distracție înfricoșătoare!<br>În perioada <b>31 octombrie - 6 noiembrie</b>, va fi o petrecere de Halloween la grădina zoologică!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Colectează cât mai mulți dovleci! Vor ieși din țarcuri pe măsură ce ai grijă de animalele tale.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Adaugă-le în coșul mare cu dovleci pentru <b>Bătălia Dovlecilor</b>. Cu cât livrezi mai mulți dovleci, cu atât poți câștiga mai multe recompense terifiante.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Pe măsură ce ai grijă de animalele tale, recompense vor ieși din țarcuri. Le puteți colecta cu toții împreună. Bara de acțiune se va umple și un ochi plutitor îți va arăta ce premii înfricoșătoare sunt disponibile pentru toată lumea. Apasă pe recompensă odată ce este activată.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Colectează dovleci pentru marea bătălie a dovlecilor. Cu cât colectezi mai mulți, cu atât poți câștiga mai multe premii.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Toată lumea joacă împreună! Bunătățile de la toate grădinile zoologice vor umple contorul și vor debloca automat premii pentru toată lumea!]]></item>
+    </category>
+  </category>
+</language>

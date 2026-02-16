@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.tutorial">
+    <category name="zoo.tutorial.tour">
+      <item name="zoo.tutorial.tour.1"><![CDATA[Bun venit la ZooMumba, grădina zoologică trăsnită! Numele meu este Sonja și te voi ghida pas cu pas despre cum funcționează jocul.<br><br>În magazin, poți cumpăra diverse țarcuri pentru animale, pe care le poți amplasa apoi pe terenul de joc.]]></item>
+      <item name="zoo.tutorial.tour.2"><![CDATA[Apasă pe țarc și cumpără un animal. Acordă atenție dacă cumperi un mascul sau o femelă.<br><br>Dacă îi ai pe amândoi în țarc, te poți aștepta la urmași în curând!]]></item>
+      <item name="zoo.tutorial.tour.3"><![CDATA[Ai grijă de animalele tale în mod regulat, îmbrățișează-le și joacă-te cu ele. În felul acesta, vor fi fericiți și mulțumiți. Încearcă!]]></item>
+      <item name="zoo.tutorial.tour.4"><![CDATA[Trebuie să conectați incintele, clădirile și atracțiile cu alei care duc la intrare, astfel încât vizitatorii să poată admira totul.]]></item>
+      <item name="zoo.tutorial.tour.5"><![CDATA[Ia hrană și tot ce își doresc animalele tale din magazin: carne, fructe, iarbă - uită-te în jur!]]></item>
+      <item name="zoo.tutorial.tour.6"><![CDATA[De la nivelul 2, poți achiziționa și clădiri și tarabe în magazin pentru a face grădina zoologică și mai atractivă pentru vizitatori. <br><br>Poți colecta în mod regulat câștigurile din taxa de intrare de la clădirea principală.]]></item>
+      <item name="zoo.tutorial.tour.7"><![CDATA[Cu cât primești mai mulți vizitatori la grădina zoologică, cu atât va trebui să strângi mai multe gunoaie. <br><br>Menține grădina zoologică curată și strânge gunoaiele pentru a-ți face vizitatorii fericiți!]]></item>
+      <item name="zoo.tutorial.tour.8"><![CDATA[Cu cât grădina zoologică are mai mulți vizitatori fericiți, cu atât Zoometrul tău se va ridica mai sus.<br><br>Încearcă și construiește cea mai uimitoare grădină zoologică din lume – în ZooMumba! Distrează-te!]]></item>
+    </category>
+    <category name="zoo.tutorial.general">
+      <item name="zoo.tutorial.general.forgive.title"><![CDATA[Sari peste]]></item>
+      <item name="zoo.tutorial.general.forgive.text"><![CDATA[Chiar vrei să sari peste acest pas?]]></item>
+      <item name="zoo.tutorial.general.award"><![CDATA[Sarcina %currentTask% finalizată cu succes. Total sarcini: %totalTasks%]]></item>
+    </category>
+    <category name="zoo.tutorial.title">
+      <item name="zoo.tutorial.title.0"><![CDATA[Bine ați venit în jocul ZooMumba!]]></item>
+      <item name="zoo.tutorial.title.1"><![CDATA[Prinde pinguinii!]]></item>
+      <item name="zoo.tutorial.title.2"><![CDATA[Hrănește pinguinii!]]></item>
+      <item name="zoo.tutorial.title.3"><![CDATA[Îngrijire și îmbrățișare]]></item>
+      <item name="zoo.tutorial.title.4"><![CDATA[Construiți împrejmuiri]]></item>
+      <item name="zoo.tutorial.title.5"><![CDATA[Ura, hai să băgăm animalele în țarcurile lor!]]></item>
+      <item name="zoo.tutorial.title.6"><![CDATA[Creați o cale nouă]]></item>
+      <item name="zoo.tutorial.title.7"><![CDATA[Scapă de gunoi!]]></item>
+      <item name="zoo.tutorial.title.8"><![CDATA[Hrănire suplimentară]]></item>
+      <item name="zoo.tutorial.title.9"><![CDATA[Creșteți urmașii]]></item>
+      <item name="zoo.tutorial.title.10"><![CDATA[Oportunitate de câștig]]></item>
+      <item name="zoo.tutorial.title.11"><![CDATA[Aproape ai reușit!]]></item>
+      <item name="zoo.tutorial.title.12"><![CDATA[Ura, ai reușit!]]></item>
+      <item name="zoo.tutorial.title.13"><![CDATA[Iuhuu! Acum invită-ți prietenii!]]></item>
+      <item name="zoo.tutorial.title.14"><![CDATA[Safariul începe!]]></item>
+    </category>
+    <category name="zoo.tutorial.main">
+      <item name="zoo.tutorial.main.0"><![CDATA[Pot să mă prezint? Numele meu este Sonja și vă voi explica cum funcționează acest joc nebunesc cu grădina zoologică. Ești gata? Hai să începem, domnule director al grădinii zoologice!]]></item>
+      <item name="zoo.tutorial.main.1"><![CDATA[A avut loc un mic accident! Pinguinii au evadat din țarc! Ajutați-mă să-i prind repede și să-i duc înapoi în țarc.]]></item>
+      <item name="zoo.tutorial.main.2"><![CDATA[Grozav! După atâta alergat, le este foame și sete. Dă-le multă apă și pește. Apasă pe incintă, apoi pe pește și pe găleată.]]></item>
+      <item name="zoo.tutorial.main.3"><![CDATA[Apasă pe perie și curăță incinta. Vezi? Acum e strălucitoare de curată! Și încă puțină îmbrățișare pentru acești pinipede nebuni - apasă pe ursulețul de pluș.]]></item>
+      <item name="zoo.tutorial.main.4"><![CDATA[Minunat! Chiar știi cum să ai grijă de animale! Acum poți construi țarcuri. Mergi la magazin, dă clic pe țarc și plasează-l în grădina zoologică.]]></item>
+      <item name="zoo.tutorial.main.5"><![CDATA[Pune câțiva papagali vorbăreți în volier. Dă clic pe volier, selectează o femelă și un mascul din magazin și așază-i înăuntru.]]></item>
+      <item name="zoo.tutorial.main.6"><![CDATA[Conectați incintele cu alei. Cu cât conexiunile sunt mai bune, cu atât grădina zoologică va fi mai atractivă. Creați o alee către voliera papagalilor.]]></item>
+      <item name="zoo.tutorial.main.7"><![CDATA[Odată cu afluxul de turiști, vei avea și o mulțime de gunoaie. Rezolvă-le dând clic pe lopată.]]></item>
+      <item name="zoo.tutorial.main.8"><![CDATA[Ia niște hrană pentru toate animalele tale din magazin. Astăzi vei avea nevoie de fructe ca să hrănești papagalii.]]></item>
+      <item name="zoo.tutorial.main.9"><![CDATA[Dacă aveți un mascul și o femelă împreună, faceți clic pe butonul „Reproducere” și apoi pe „Cumpără acum”.]]></item>
+      <item name="zoo.tutorial.main.10"><![CDATA[Clădirile din grădina zoologică generează puncte de câștig, așa că asigură-te că îți colectezi câștigurile în mod regulat. Pur și simplu dă clic pe punctul de câștig de deasupra clădirii.]]></item>
+      <item name="zoo.tutorial.main.11"><![CDATA[Gata. Aveți întrebări? Acordați-vă timp pentru a citi sfaturile. Pur și simplu mișcați mouse-ul: veți deveni și mai deștept!]]></item>
+      <item name="zoo.tutorial.main.12"><![CDATA[Putem să ne strângem mâna, domnule coleg. Ai devenit un director de grădină zoologică cu adevărat consacrat. Cunoștințele acumulate au făcut cu adevărat grădina zoologică faimoasă. Și asta e un lucru de sărbătorit!]]></item>
+      <item name="zoo.tutorial.main.13"><![CDATA[Shh... Știați? Acum vă puteți invita prietenii la joc. Trimiteți un e-mail și puteți începe să jucați împreună!]]></item>
+      <item name="zoo.tutorial.main.14"><![CDATA[Ura! Ai ajuns la nivelul 7: Lumea safariului este acum la picioarele tale. Apasă accelerația și dă clic pe jeep în centrul de control sau verifică meniul din clădirea principală. Hai!]]></item>
+    </category>
+    <category name="zoo.tutorial.hint">
+      <item name="zoo.tutorial.hint.0"><![CDATA[NICI UNUL]]></item>
+      <item name="zoo.tutorial.hint.1"><![CDATA[NICI UNUL]]></item>
+      <item name="zoo.tutorial.hint.2"><![CDATA[Hrănește-ți animalele cu superhrană și câștigă puncte de experiență suplimentare!]]></item>
+      <item name="zoo.tutorial.hint.3"><![CDATA[Îți poți da seama cât de fericite sunt animalele după pisica capricioasă. Cu cât ai mai multă grijă de ele, cu atât vor fi mai fericite.]]></item>
+      <item name="zoo.tutorial.hint.4"><![CDATA[Faceți clic pe clădire pentru a scurta timpul de construcție.]]></item>
+      <item name="zoo.tutorial.hint.5"><![CDATA[Dacă vrei să reproduci pui, asigură-te că plasezi un mascul și o femelă în incintă.]]></item>
+      <item name="zoo.tutorial.hint.6"><![CDATA[Asigurați-vă că incintele sunt conectate prin alei. Altfel, grădina zoologică își va pierde atractivitatea.]]></item>
+      <item name="zoo.tutorial.hint.7"><![CDATA[Ai grijă de coșurile de gunoi pentru a-ți menține grădina zoologică curată.]]></item>
+      <item name="zoo.tutorial.hint.8"><![CDATA[Hrănește-ți animalele cu cea mai bună hrană mai des. Vei câștiga o mulțime de puncte de experiență pentru asta!]]></item>
+      <item name="zoo.tutorial.hint.9"><![CDATA[Suzeta îți va arăta când reproducerea s-a încheiat.]]></item>
+      <item name="zoo.tutorial.hint.10"><![CDATA[Rămâneți fără monedă în joc? Obțineți mai mult! Dați clic pe sacul auriu.]]></item>
+      <item name="zoo.tutorial.hint.13"><![CDATA[Introdu adresa de e-mail a prietenului pe care vrei să-l inviți la joc.]]></item>
+      <item name="zoo.tutorial.hint.14"><![CDATA[Pentru a intra în diferite regiuni de safari, aveți nevoie de cantități diferite de combustibil. Cu toate acestea, nu puteți intra în regiuni închise.]]></item>
+    </category>
+    <category name="zoo.tutorial.success">
+      <item name="zoo.tutorial.success.title"><![CDATA[Bine!]]></item>
+      <item name="zoo.tutorial.success.step.1"><![CDATA[Grozav! Pinguinii sunt înapoi în țarc. Apasă pe săgeată pentru a trece la pasul următor.]]></item>
+      <item name="zoo.tutorial.success.step.2"><![CDATA[Delicios! Pinguinii tăi sunt acum plini. Apasă pe săgeată pentru a continua!]]></item>
+      <item name="zoo.tutorial.success.step.3"><![CDATA[Bravo! Pinnipedele vesele sunt acum curate și fericite. Apasă pe săgeată pentru a continua!]]></item>
+      <item name="zoo.tutorial.success.step.4"><![CDATA[Lucrare de calitate superioară! Carcasa ta este gata. Apasă pe săgeată pentru a trece la pasul următor.]]></item>
+      <item name="zoo.tutorial.success.step.5"><![CDATA[Ura! Acum ai papagali în grădina zoologică! Apasă pe săgeată pentru a continua!]]></item>
+      <item name="zoo.tutorial.success.step.6"><![CDATA[Continuați tot așa! Vizitatorii admiră noile carcase. Faceți clic pe săgeată pentru a continua!]]></item>
+      <item name="zoo.tutorial.success.step.7"><![CDATA[Perfect! De acum înainte, cărările sunt impecabil de curate. Apasă pe săgeată pentru a continua!]]></item>
+      <item name="zoo.tutorial.success.step.8"><![CDATA[Ce minunat! Papagalii sunt sătui acum. Apasă pe săgeată pentru a continua!]]></item>
+      <item name="zoo.tutorial.success.step.9"><![CDATA[Ce adorabil! Ai adoptat cu succes pui de papagal. Apasă pe săgeată pentru a continua!]]></item>
+      <item name="zoo.tutorial.success.step.10"><![CDATA[Grozav! Banii încep să curgă! Aproape ai terminat! Repede, dă clic pe săgeată încă o dată.]]></item>
+      <item name="zoo.tutorial.success.step.11"><![CDATA[Atât de simplu! Ești aproape un profesionist în acumularea de puncte în meniu. Încă un clic și vei fi la sfârșitul micii noastre călătorii.]]></item>
+    </category>
+  </category>
+</language>

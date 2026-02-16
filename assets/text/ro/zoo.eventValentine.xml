@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Bine ați venit la evenimentul nostru de Ziua Îndrăgostiților! În perioada 8-15 februarie, va fi o atmosferă romantică! Distracție plăcută jucând jocul nostru de Ziua Îndrăgostiților și așteptați-vă la o mulțime de premii grozave!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Vezi cum se face:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Ai grijă de animalele tale și colecționează obiecte de Ziua Îndrăgostiților: inimioare, bilețele de dragoste și arcul și săgețile lui Cupidon. Folosește-le pentru a câștiga surprize adorabile în timpul jocului romantic de Ziua Îndrăgostiților!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Cu obiectele colectate, te poți mișca pe terenul de joc și poți colecta premii: te așteaptă cerbi maiestuoși și provizii de esență Tolija și poțiuni de creștere!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Vizitează și magazinul - vei găsi acolo boostere utile care îți vor asigura un succes și o distracție și mai mare în joc!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Dublează numărul de articole de Ziua Îndrăgostiților timp de 1 oră.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Repornește jocul de societate]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Evenimentul nostru de Ziua Îndrăgostiților este aproape încheiat! Nu veți mai primi fundițe, scrisori sau inimioare. Dar nu renunțați! Mai aveți tot timpul necesar pentru a câștiga recompense de Ziua Îndrăgostiților:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Acum că ai câștigat jocul de cerb și căprioară, poți reîncepe jocul de societate! Pur și simplu dă clic pe bifa verde sau pe butonul nou de pe tabla de joc!]]></item>
+    </category>
+  </category>
+</language>

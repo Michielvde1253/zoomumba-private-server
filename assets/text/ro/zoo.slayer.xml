@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.slayer">
+    <category name="zoo.slayer.friends">
+      <item name="zoo.slayer.friends.title"><![CDATA[Prieteni]]></item>
+      <item name="zoo.slayer.friends.message"><![CDATA[Trimite un mesaj acestui prieten]]></item>
+      <item name="zoo.slayer.friends.delete"><![CDATA[Sigur vrei să elimini acest jucător din lista ta de prieteni?]]></item>
+      <item name="zoo.slayer.friends.visit"><![CDATA[Vizitează grădina zoologică a prietenului tău.]]></item>
+      <item name="zoo.slayer.friends.empty"><![CDATA[Singur? De ce să nu inviți rapid câțiva prieteni să se joace împreună? Mai mulți oameni înseamnă mai multă distracție!]]></item>
+    </category>
+    <category name="zoo.slayer.receivedInvites">
+      <item name="zoo.slayer.receivedInvites.title"><![CDATA[Cereri de prietenie primite]]></item>
+      <item name="zoo.slayer.receivedInvites.accept"><![CDATA[Acceptă cererea de prietenie]]></item>
+      <item name="zoo.slayer.receivedInvites.deny"><![CDATA[Refuzați cererea de prietenie]]></item>
+      <item name="zoo.slayer.receivedInvites.empty"><![CDATA[Din păcate, nu ai nicio cerere nouă de prietenie.]]></item>
+    </category>
+    <category name="zoo.slayer.sentInvites">
+      <item name="zoo.slayer.sentInvites.title"><![CDATA[Cereri de prietenie trimise]]></item>
+      <item name="zoo.slayer.sentInvites.empty"><![CDATA[Nu ai trimis nicio cerere de prietenie.]]></item>
+    </category>
+    <category name="zoo.slayer.add">
+      <item name="zoo.slayer.add.title"><![CDATA[Invită prieteni]]></item>
+      <item name="zoo.slayer.add.requested"><![CDATA[Bravo! Ai trimis cu succes cererea de prietenie utilizatorului %useName%.]]></item>
+      <item name="zoo.slayer.add.text"><![CDATA[Nu mai vrei să joci ZooMumba singur și preferi să te distrezi cu alții? Invită-ți prietenii!]]></item>
+      <item name="zoo.slayer.add.byName"><![CDATA[Invită-ți prietenii să joace ZooMumba!]]></item>
+      <item name="zoo.slayer.add.byName.message"><![CDATA[Te rugăm să introduci numele de utilizator ale prietenilor tăi pentru a trimite o cerere de prietenie.]]></item>
+      <item name="zoo.slayer.add.duplicated.message"><![CDATA[Am găsit mai multe nume de utilizator în timpul căutării. Selectați prietenul din listă:]]></item>
+      <item name="zoo.slayer.add.self"><![CDATA[Nu te poți adăuga pe tine însuți pe propria listă de prieteni!]]></item>
+      <item name="zoo.slayer.add.byMail"><![CDATA[Invită-ți prietenii prin e-mail.]]></item>
+      <item name="zoo.slayer.add.byFB"><![CDATA[Invită-ți prietenii prin Facebook.]]></item>
+      <item name="zoo.slayer.add.button"><![CDATA[Invita]]></item>
+    </category>
+  </category>
+</language>
