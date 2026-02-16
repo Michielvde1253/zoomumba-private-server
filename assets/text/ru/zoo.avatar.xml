@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.avatar">
+    <item name="zoo.avatar.heads"><![CDATA[Создайте здесь свой аватар и похвастайтесь перед друзьями! Вы уже выбрали свой пол? Тогда определитесь с чертами лица!]]></item>
+    <item name="zoo.avatar.eyes"><![CDATA[Глаза — зеркало души! Какие из них вам больше всего подходят?]]></item>
+    <item name="zoo.avatar.mouths"><![CDATA[Улыбаясь, смеясь, ухмыляясь... Ваши губы показывают окружающим, что вы чувствуете!]]></item>
+    <item name="zoo.avatar.hair"><![CDATA[Цвет и прическа волос могут полностью изменить ваш образ!]]></item>
+    <item name="zoo.avatar.hats"><![CDATA[Головной убор (?) может придать вам важный вид!]]></item>
+    <item name="zoo.avatar.clothes"><![CDATA[Выберите подходящую одежду для посещения зоопарка.]]></item>
+  </category>
+</language>

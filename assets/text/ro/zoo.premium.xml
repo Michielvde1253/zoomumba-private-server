@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.premium">
+    <category name="zoo.premium.title">
+      <item name="zoo.premium.title.0"><![CDATA[Reprezentantul David]]></item>
+      <item name="zoo.premium.title.1"><![CDATA[Krmic Honza]]></item>
+      <item name="zoo.premium.title.2"><![CDATA[Sursă de alimentare Pavel]]></item>
+      <item name="zoo.premium.title.3"><![CDATA[Curățător Slavek]]></item>
+      <item name="zoo.premium.title.4"><![CDATA[Crescătoarea Soňa]]></item>
+      <item name="zoo.premium.title.5"><![CDATA[Gunoierul Jirka]]></item>
+      <item name="zoo.premium.title.6"><![CDATA[Casier Kešík]]></item>
+      <item name="zoo.premium.title.7"><![CDATA[Dr. Lynn]]></item>
+      <item name="zoo.premium.title.11"><![CDATA[Grădină zoologică mai mare]]></item>
+      <item name="zoo.premium.title.12"><![CDATA[Extinderea Maxi Zoo]]></item>
+      <item name="zoo.premium.title.13"><![CDATA[Extinderea grădinii zoologice]]></item>
+      <item name="zoo.premium.title.14"><![CDATA[Extinderea grădinii zoologice]]></item>
+      <item name="zoo.premium.title.15"><![CDATA[Iepurașul de Paște]]></item>
+      <item name="zoo.premium.title.16"><![CDATA[Ajutor de Paște]]></item>
+      <item name="zoo.premium.title.23"><![CDATA[Tort de ziua de naștere]]></item>
+      <item name="zoo.premium.title.126"><![CDATA[Expansiune maximă a grădinii zoologice]]></item>
+      <item name="zoo.premium.title.29"><![CDATA[Expansiune maximă a grădinii zoologice]]></item>
+      <item name="zoo.premium.title.30"><![CDATA[Expansiune maximă a grădinii zoologice]]></item>
+      <item name="zoo.premium.title.125"><![CDATA[Extinderea grădinii zoologice]]></item>
+      <item name="zoo.premium.title.35"><![CDATA[Extinderea grădinii zoologice]]></item>
+      <item name="zoo.premium.title.36"><![CDATA[Extinderea grădinii zoologice]]></item>
+      <item name="zoo.premium.title.37"><![CDATA[Expansiune maximă a grădinii zoologice]]></item>
+      <item name="zoo.premium.title.38"><![CDATA[Expansiune maximă a grădinii zoologice]]></item>
+      <item name="zoo.premium.title.123"><![CDATA[Acru]]></item>
+      <item name="zoo.premium.title.124"><![CDATA[Dulce]]></item>
+      <item name="zoo.premium.title.128"><![CDATA[Tort de ziua de naștere]]></item>
+      <item name="zoo.premium.title.130"><![CDATA[Extinderea grădinii zoologice]]></item>
+      <item name="zoo.premium.title.132"><![CDATA[Extinderea grădinii zoologice]]></item>
+      <item name="zoo.premium.title.2001"><![CDATA[Butoi de apă]]></item>
+      <item name="zoo.premium.title.2002"><![CDATA[Turn de apă]]></item>
+      <item name="zoo.premium.title.2003"><![CDATA[Izvor de apă]]></item>
+      <item name="zoo.premium.title.2004"><![CDATA[Cutie de depozitare]]></item>
+      <item name="zoo.premium.title.2005"><![CDATA[Depozit]]></item>
+      <item name="zoo.premium.title.2006"><![CDATA[Depozit subteran]]></item>
+    </category>
+    <category name="zoo.premium.infoText">
+      <item name="zoo.premium.infoText.0"><![CDATA[Dacă angajezi 6 asistenți (excluzând-o pe Dr. Lynn), ai un co-director și personal care să te ajute. Pur și simplu dă clic și cei 6 asistenți se vor apuca de treabă.]]></item>
+      <item name="zoo.premium.infoText.1"><![CDATA[John, asistentul de hrănire, se asigură că animalele tale sunt întotdeauna bine hrănite și fericite. Dacă ai destui animale de hrănit, dă clic pe el și John va lucra cu sârguință și fiabilitate.]]></item>
+      <item name="zoo.premium.infoText.2"><![CDATA[Pavel se ocupă de adăparea animalelor. Dacă dai clic pe el, va oferi în mod regulat apă pentru animalele tale. Dar numai dacă ai suficienți animale.]]></item>
+      <item name="zoo.premium.infoText.3"><![CDATA[Slávek, cel care face curățenie, are grijă de igiena și curățenia animalelor dumneavoastră. Dacă faceți clic pe el, va curăța țarcurile și va oferi un cămin confortabil pentru animalele dumneavoastră.]]></item>
+      <item name="zoo.premium.infoText.4"><![CDATA[Toată lumea o așteaptă cu nerăbdare pe Sonia! Apasă pe ea și angajeaz-o: Se va cuibări cu animalele tale, astfel încât acestea nu se vor plictisi și vor străluci de bucurie.]]></item>
+      <item name="zoo.premium.infoText.5"><![CDATA[Jirka mătură cu sârguință fiecare potecă și nu scapă niciun coș de gunoi. Lucrurile trebuie să fie ordonate, vizitatorii nu se vor întoarce într-o grădină zoologică neglijată. Angajează-l cu un singur clic și el se va ocupa de toată treaba.]]></item>
+      <item name="zoo.premium.infoText.6"><![CDATA[Maimuța isteață Kešík se pricepe la numere: Apasă pe el și angajează-l. Îți va aduce venituri din toate magazinele și clădirile pe care le construiești.]]></item>
+      <item name="zoo.premium.infoText.7"><![CDATA[Dr. Lynn este responsabilă de sănătatea animalelor tale. Când dai clic pe ea, ea va livra medicamentul corespunzător tuturor animalelor bolnave!]]></item>
+      <item name="zoo.premium.infoText.11"><![CDATA[De la nivelul %nextExpandLevel%, grădina zoologică va crește. Nu ai chef să aștepți? Așa că extinde-ți grădina zoologică acum.]]></item>
+      <item name="zoo.premium.infoText.12"><![CDATA[Nu pierde timpul și extinde-ți grădina zoologică cu 100% cu un singur clic! Cu maxi-extinderea grădinii zoologice economisești pașii intermediari și vei avea imediat disponibilă suprafața maximă. Nu ezita!]]></item>
+      <item name="zoo.premium.infoText.13"><![CDATA[Cumpără expansiuni pentru grădina zoologică ascunsă cu zoodollars.]]></item>
+      <item name="zoo.premium.infoText.14"><![CDATA[Schimbă uneltele colectate pentru a-ți extinde grădina zoologică ascunsă.]]></item>
+      <item name="zoo.premium.infoText.15"><![CDATA[Între 21 și 27 aprilie, Iepurașul de Paște va depune ouă la grădina zoologică. Colectați-le și schimbați-le pentru decorațiuni de Paște pentru țarcuri, iepurași de Paște și țarcuri de Paște.]]></item>
+      <item name="zoo.premium.infoText.16"><![CDATA[Cât de practic! Între 21 și 27 aprilie, Sonja, asistenta de Paște, te va ajuta să aduni ouă. Chiar dacă te deconectezi! Apoi poți schimba ouăle pentru decorațiuni de Paște pentru țarcuri, iepurași de Paște și țarcuri de Paște.]]></item>
+      <item name="zoo.premium.infoText.23"><![CDATA[Cumpără acest tort pentru a obține mai repede upgrade-ul de ziua de naștere pentru incintele tale. Astfel, vei primi mai multe baloane și poți obține și mai multe premii de ziua de naștere.]]></item>
+      <item name="zoo.premium.infoText.29"><![CDATA[Nu pierde timpul și extinde-ți grădina zoologică la 100% cu un singur clic! Cu extinderea maximă a grădinii zoologice, vei economisi pașii intermediari plictisitori și vei avea imediat disponibilă suprafața maximă. Nu ezita!]]></item>
+      <item name="zoo.premium.infoText.30"><![CDATA[Nu pierde timpul și extinde-ți grădina zoologică cu 100% cu un singur clic! Cu maxi-extinderea grădinii zoologice economisești pașii intermediari și vei avea imediat disponibilă suprafața maximă. Nu ezita!]]></item>
+      <item name="zoo.premium.infoText.35"><![CDATA[Extinde-ți grădina zoologică cu zoodolari.]]></item>
+      <item name="zoo.premium.infoText.125"><![CDATA[Cumpără o expansiune pentru această grădină zoologică cu zoodollari.]]></item>
+      <item name="zoo.premium.infoText.36"><![CDATA[Extinde-ți grădina zoologică cu uneltele pe care le-ai colectat.]]></item>
+      <item name="zoo.premium.infoText.126"><![CDATA[Nu pierde timpul și extinde-ți grădina zoologică cu 100% cu un singur clic! Cu maxi-extinderea grădinii zoologice economisești pașii intermediari și vei avea imediat disponibilă suprafața maximă. Nu ezita!]]></item>
+      <item name="zoo.premium.infoText.37"><![CDATA[Nu pierde timpul și extinde-ți grădina zoologică cu 100% cu un singur clic! Cu maxi-extinderea grădinii zoologice vei economisi pașii intermediari și vei avea imediat disponibilă suprafața maximă. Nu ezita!]]></item>
+      <item name="zoo.premium.infoText.38"><![CDATA[Nu pierde timpul și extinde-ți grădina zoologică cu 100% cu un singur clic! Cu maxi-extinderea grădinii zoologice vei economisi pașii intermediari și vei avea imediat disponibilă suprafața maximă. Nu ezita!]]></item>
+      <item name="zoo.premium.infoText.123"><![CDATA[Schimbă liliecii mici cu unii acri pentru a debloca noi recompense de Halloween.]]></item>
+      <item name="zoo.premium.infoText.124"><![CDATA[Schimbă liliecii mici pe dulciuri pentru a debloca noi recompense de Halloween.]]></item>
+      <item name="zoo.premium.infoText.128"><![CDATA[Cumpără acest tort pentru a obține mai repede upgrade-ul de ziua de naștere pentru incintele tale. Astfel, vei primi mai multe baloane și poți obține și mai multe premii de ziua de naștere.]]></item>
+      <item name="zoo.premium.infoText.130"><![CDATA[Cumpără expansiunea Coastal Zoo cu Zoo Dollars.]]></item>
+      <item name="zoo.premium.infoText.132"><![CDATA[Obține expansiunea Undersea World cu Zoodollars.]]></item>
+      <item name="zoo.premium.infoText.2001"><![CDATA[Acest butoi cu apă este o completare frumoasă pentru grădina zoologică și va adăuga o notă rustică.]]></item>
+      <item name="zoo.premium.infoText.2002"><![CDATA[Ce gigant! Acest turn de apă va fi vizibil de departe.]]></item>
+      <item name="zoo.premium.infoText.2003"><![CDATA[Acum curge. Fântâna va oferi apă răcoritoare pentru grădina zoologică. Apă, pur și simplu curge!]]></item>
+      <item name="zoo.premium.infoText.2004"><![CDATA[Practice! Cutiile de depozitare sunt perfecte pentru cățărat, stat jos și joacă. Copiilor le plac cutiile din lemn.]]></item>
+      <item name="zoo.premium.infoText.2005"><![CDATA[Ce minunat! Șurăa e un loc minunat pentru a te juca de-a v-ați ascunselea. Și iarna e suficient loc pentru baloți de fân.]]></item>
+      <item name="zoo.premium.infoText.2006"><![CDATA[O cameră de depozitare grozavă! Sunt o mulțime de lucruri interesante în camera de depozitare subterană. Dar mai presus de toate, această cameră de depozitare este foarte misterioasă... ce este ascuns acolo?]]></item>
+    </category>
+    <category name="zoo.premium.window.renew">
+      <item name="zoo.premium.window.renew.text"><![CDATA[Oh! Contractul de muncă cu acest asistent a expirat. Doriți să prelungiți contractul?]]></item>
+    </category>
+    <category name="zoo.premium.elixir">
+      <item name="zoo.premium.elixir.title"><![CDATA[Esența lui Tolija]]></item>
+      <item name="zoo.premium.elixir.text"><![CDATA[Rețeta secretă folosită în reproducere scurtează procesul de reproducere cu 50%]]></item>
+    </category>
+    <category name="zoo.premium.breedingLab">
+      <item name="zoo.premium.breedingLab.title"><![CDATA[Stație de reproducere]]></item>
+      <item name="zoo.premium.breedingLab.text"><![CDATA[Plasează o stație de reproducere în grădina zoologică principală sau secretă pentru a crește animale rare.]]></item>
+    </category>
+    <category name="zoo.premium.nursery">
+      <item name="zoo.premium.nursery.title"><![CDATA[Pepinieră de animale]]></item>
+      <item name="zoo.premium.nursery.text"><![CDATA[Amplasează o stație de reproducere în grădina zoologică principală sau secretă, astfel încât puii tăi să aibă unde să crească.]]></item>
+    </category>
+    <category name="zoo.premium.assist.title">
+      <item name="zoo.premium.assist.title.0"><![CDATA[Reprezentantul David]]></item>
+      <item name="zoo.premium.assist.title.1"><![CDATA[Krmic Honza]]></item>
+      <item name="zoo.premium.assist.title.2"><![CDATA[Sursă de alimentare Pavel]]></item>
+      <item name="zoo.premium.assist.title.3"><![CDATA[Curățător Slavek]]></item>
+      <item name="zoo.premium.assist.title.4"><![CDATA[Crescătoarea Soňa]]></item>
+      <item name="zoo.premium.assist.title.5"><![CDATA[Gunoierul Jirka]]></item>
+      <item name="zoo.premium.assist.title.6"><![CDATA[Casier, asistent financiar]]></item>
+      <item name="zoo.premium.assist.title.7"><![CDATA[Dr. Lynn]]></item>
+      <item name="zoo.premium.assist.title.8"><![CDATA[Jindra]]></item>
+      <item name="zoo.premium.assist.title.9"><![CDATA[Matei]]></item>
+      <item name="zoo.premium.assist.title.10"><![CDATA[Frant]]></item>
+      <item name="zoo.premium.assist.title.11"><![CDATA[Jenny]]></item>
+    </category>
+    <category name="zoo.premium.assist.infoText">
+      <item name="zoo.premium.assist.infoText.0"><![CDATA[Dacă angajezi 6 asistenți (excluzându-l pe Dr. Lynn), co-directorul te va ajuta cu personalul. Pur și simplu dă clic pe ei și toți se vor apuca imediat de treabă.]]></item>
+      <item name="zoo.premium.assist.infoText.1"><![CDATA[Hrănitoarea Honza se asigură că animalele dumneavoastră sunt întotdeauna hrănite - atâta timp cât aveți suficienți bani pentru a acoperi aceste costuri.]]></item>
+      <item name="zoo.premium.assist.infoText.2"><![CDATA[Apasă pe Pavel și el se va ocupa de conectarea animalelor - cu condiția să ai suficienți zoogroși pentru a acoperi aceste costuri.]]></item>
+      <item name="zoo.premium.assist.infoText.3"><![CDATA[Slávek, cel care face curățenie, are grijă de igiena și curățenia animalelor dumneavoastră. Când faceți clic pe el, vă va curăța țarcurile și va oferi un cămin confortabil pentru animalele dumneavoastră.]]></item>
+      <item name="zoo.premium.assist.infoText.4"><![CDATA[Crescătoarea Soňa are grijă de animalele tale, le îmbrățișează și le oferă dragostea pe care o merită. Apasă pe ea și urmărește-o la treabă!]]></item>
+      <item name="zoo.premium.assist.infoText.5"><![CDATA[Jirka mătură cu sârguință fiecare potecă și nu ratează niciun coș de gunoi. Ordinea trebuie menținută. Angajează-l cu un singur clic și se va apuca imediat de treabă!]]></item>
+      <item name="zoo.premium.assist.infoText.6"><![CDATA[Maimuța isteață Kešík se pricepe la numere. Apasă pe ea și va colecta veniturile din toate clădirile din grădina zoologică pentru tine!]]></item>
+      <item name="zoo.premium.assist.infoText.7"><![CDATA[Dr. Lynn este responsabilă de sănătatea animalelor tale. Când dai clic pe ea, ea va livra medicamentul corespunzător tuturor animalelor bolnave!]]></item>
+      <item name="zoo.premium.assist.infoText.8"><![CDATA[Apasă pe Jindra și el va hrăni toate creaturile tale marine! Alge, plancton sau hrană pentru pești - Jindra știe ce să facă!]]></item>
+      <item name="zoo.premium.assist.infoText.9"><![CDATA[Matej are mereu un furtun în mână! Apasă pe el și îți va umple rezervoarele de apă, dar asigură-te că ai suficiente resurse pentru a acoperi costurile!]]></item>
+      <item name="zoo.premium.assist.infoText.10"><![CDATA[Franta este tehnician de piscine. Apasă pe el și va curăța zonele cu apă, va schimba filtrele și se va asigura că apa este curată și sigură pentru toate animalele.]]></item>
+      <item name="zoo.premium.assist.infoText.11"><![CDATA[Janička este dresoarea de mamifere marine. Se joacă cu animalele și le învață diverse trucuri! Apasă pe ea și angajeaz-o.]]></item>
+    </category>
+  </category>
+</language>

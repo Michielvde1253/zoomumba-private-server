@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Дополнительная попытка]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Ура, у вас есть дополнительная попытка!<br> За каждый день входа в систему вы получите дополнительный спин на колесе удачи.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Кликните и испытайте удачу!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Или кликните на здание с колесом удачи в городе. Каждый спин гарантирует отличные награды!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Дальнейшие попытки]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Хотите приобрести еще одну попытку?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Поздравляем!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Ура! Вы победили!]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Покрутите колесо еще раз, выиграть можно только на счастливом колесе!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Кормилец Джон в течение 1 часа]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Поставщик воды Пол в течение 1 часа]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Уборщик Стэнли, 1 час]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Заводчица Соня в течение 1 часа]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Мусорщик Джордж в течение 1 часа]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Кассир, оплата за 1 час.]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Кормилец Джон в течение 3 часов]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Поставщик воды Пол в течение 3 часов]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Уборщик Стэнли, 3 часа]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Заводчица Соня в течение 3 часов]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Мусорщик Джордж в течение 3 часов]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Кассир, 3 часа в неделю.]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[Бонус 30% к EP в течение целых 8 часов!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[Бонус 100% EP на целых 8 часов!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[Бонус 50% к количеству лап в течение целых 5 часов!]]></item>
+    </category>
+  </category>
+</language>

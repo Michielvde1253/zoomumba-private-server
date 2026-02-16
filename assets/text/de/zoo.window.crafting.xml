@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.crafting">
+    <item name="zoo.window.crafting.intro.blueprintRewards"><![CDATA[Sie haben %mycards% von %allcards% Bauplänen gesammelt!]]></item>
+    <item name="zoo.window.crafting.intro.title"><![CDATA[Werkstatt]]></item>
+    <item name="zoo.window.crafting.intro.text"><![CDATA[Bastler und Hobbyisten aufgepasst! Nutzt eure Materialien, um neue Gehege, Gebäude, Dekorationen oder Wege zu bauen. Wählt einfach unten eine Kategorie aus und geht zum nächsten Produktionsschritt über.]]></item>
+    <item name="zoo.window.crafting.intro.chooseCategorie"><![CDATA[Wählen Sie eine Kategorie:]]></item>
+    <item name="zoo.window.crafting.produce.text"><![CDATA[Es ist ganz einfach: Unten links siehst du, was gerade produziert wird. Der Bauplan zeigt dir, welche Materialien du benötigst. Darüber siehst du die Produktionszeit und die Anzahl der Pfoten, die du bezahlen musst. Alles klar? Okay, dann klicke auf „Start“.]]></item>
+    <item name="zoo.window.crafting.produce.button"><![CDATA[Start]]></item>
+    <item name="zoo.window.crafting.progress.title"><![CDATA[Werkstatt]]></item>
+    <item name="zoo.window.crafting.progress.text"><![CDATA[Die Produktion läuft!]]></item>
+    <item name="zoo.window.crafting.progress.time"><![CDATA[Dauer:]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.title"><![CDATA[Sofort produzieren]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.text"><![CDATA[Sparen Sie Zeit und schließen Sie die Produktion sofort ab!]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.button"><![CDATA[Vollständig]]></item>
+    <item name="zoo.window.crafting.progress.layer.elixir.text"><![CDATA[Beschleunigen und die Produktion in der Hälfte der Zeit abschließen.]]></item>
+    <item name="zoo.window.crafting.progress.button.elixir"><![CDATA[Beschleunigen]]></item>
+    <item name="zoo.window.crafting.success.text"><![CDATA[Hurra! Fertig! Der soeben hergestellte Gegenstand befindet sich nun in deinem Inventar!]]></item>
+    <item name="zoo.window.crafting.blueprint.text"><![CDATA[Hurra! Du hast soeben einen Bauplan erhalten! Geh in die Werkstatt und baue ein neues Objekt für deinen Zoo!]]></item>
+  </category>
+</language>

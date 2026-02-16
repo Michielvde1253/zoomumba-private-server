@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Чистач Стенли]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Стенли ще поддържа всички заграждения искрящо чисти. Неговият трик е да ангажира животните, превръщайки почистването в забавна игра.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Пазачката Соня]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Гледачката Соня знае как да се грижи перфектно за животните. Само тя може да се гушка с всички животни едновременно.]]></item>
+  </category>
+</language>

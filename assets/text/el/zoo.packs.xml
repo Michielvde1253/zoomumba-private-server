@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA[Πακέτο υπερτροφών «Καλό Ξεκίνημα»]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Αυτή η συσκευασία περιέχει 40 μονάδες Superfood και 5 Paws. Αυτό θα σας δώσει 40 φορές διπλάσια BZ κατά το τάισμα και θα δείτε πρόοδο στην ομορφιά των περιβλημάτων σας!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA[Πακέτο υπερτροφών "Master"]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Αυτή η συσκευασία περιέχει 125 μονάδες Superfood και 20 Paws. Αυτό θα σας δώσει 125x διπλό BZ και πρόοδο στην ομορφύτερη διακόσμηση των περιβλημάτων σας!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA[Πακέτο υπερτροφών "Expert"]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Αυτό το πακέτο περιέχει 350 μονάδες υπερτροφής και 30 πατούσες, αλλά και 5 δώρα με 5 μονάδες υπερτροφής για 5 φίλους σας. Έτσι, μπορούν κι αυτοί να επωφεληθούν από αυτό το πακέτο!]]></item>
+    </category>
+  </category>
+</language>

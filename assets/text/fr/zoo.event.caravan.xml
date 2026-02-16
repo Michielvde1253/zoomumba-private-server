@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Je me rends dans une réserve où l'on souhaite augmenter la population de - %species%. Pourriez-vous m'aider ? Je vous prêterai un couple de - %species% pendant 120 heures. En échange de %amount% de bébés %species%, vous recevrez un adulte.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Empruntez une paire]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Anaconda]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Super ! Vous avez maintenant au moins 5 bébés dans votre inventaire. Échangez-les vite avec moi contre un orang-outan adulte !]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Super ! Vous m'avez vraiment beaucoup aidé ! Je vais maintenant emmener les petits à la réserve et les relâcher dans la nature. Merci beaucoup et à la prochaine !]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[Le camion transportant les animaux est de retour vers la réserve, avec deux animaux que vous aviez empruntés. Vous trouverez vos nouveau-nés dans votre inventaire.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Il vous reste %count% heures pour échanger vos petits.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Bébés orangs-outans dans votre inventaire]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Déplacez les bébés orangs-outans dans l'inventaire.]]></item>
+    </category>
+  </category>
+</language>

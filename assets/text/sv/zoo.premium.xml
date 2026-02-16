@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.premium">
+    <category name="zoo.premium.title">
+      <item name="zoo.premium.title.0"><![CDATA[Representanten David]]></item>
+      <item name="zoo.premium.title.1"><![CDATA[Krmic Honza]]></item>
+      <item name="zoo.premium.title.2"><![CDATA[Strömförsörjning Pavel]]></item>
+      <item name="zoo.premium.title.3"><![CDATA[Städare Slavek]]></item>
+      <item name="zoo.premium.title.4"><![CDATA[Uppfödare Soňa]]></item>
+      <item name="zoo.premium.title.5"><![CDATA[Sopsamlare Jirka]]></item>
+      <item name="zoo.premium.title.6"><![CDATA[Kassör Kešík]]></item>
+      <item name="zoo.premium.title.7"><![CDATA[Dr. Lynn]]></item>
+      <item name="zoo.premium.title.11"><![CDATA[Större djurpark]]></item>
+      <item name="zoo.premium.title.12"><![CDATA[Maxi zoo-utbyggnad]]></item>
+      <item name="zoo.premium.title.13"><![CDATA[Zoo-expansion]]></item>
+      <item name="zoo.premium.title.14"><![CDATA[Zoo-expansion]]></item>
+      <item name="zoo.premium.title.15"><![CDATA[påskharen]]></item>
+      <item name="zoo.premium.title.16"><![CDATA[Påskhjälpare]]></item>
+      <item name="zoo.premium.title.23"><![CDATA[Födelsedagstårta]]></item>
+      <item name="zoo.premium.title.126"><![CDATA[Maximal zoo-expansion]]></item>
+      <item name="zoo.premium.title.29"><![CDATA[Maximal zoo-expansion]]></item>
+      <item name="zoo.premium.title.30"><![CDATA[Maximal zoo-expansion]]></item>
+      <item name="zoo.premium.title.125"><![CDATA[Zoo-expansion]]></item>
+      <item name="zoo.premium.title.35"><![CDATA[Zoo-expansion]]></item>
+      <item name="zoo.premium.title.36"><![CDATA[Zoo-expansion]]></item>
+      <item name="zoo.premium.title.37"><![CDATA[Maximal zoo-expansion]]></item>
+      <item name="zoo.premium.title.38"><![CDATA[Maximal zoo-expansion]]></item>
+      <item name="zoo.premium.title.123"><![CDATA[Sur]]></item>
+      <item name="zoo.premium.title.124"><![CDATA[Ljuv]]></item>
+      <item name="zoo.premium.title.128"><![CDATA[Födelsedagstårta]]></item>
+      <item name="zoo.premium.title.130"><![CDATA[Zoo-expansion]]></item>
+      <item name="zoo.premium.title.132"><![CDATA[Zoo-expansion]]></item>
+      <item name="zoo.premium.title.2001"><![CDATA[Tunna med vatten]]></item>
+      <item name="zoo.premium.title.2002"><![CDATA[Vattentorn]]></item>
+      <item name="zoo.premium.title.2003"><![CDATA[Vattenkälla]]></item>
+      <item name="zoo.premium.title.2004"><![CDATA[Förvaringslåda]]></item>
+      <item name="zoo.premium.title.2005"><![CDATA[Lager]]></item>
+      <item name="zoo.premium.title.2006"><![CDATA[Underjordiskt lager]]></item>
+    </category>
+    <category name="zoo.premium.infoText">
+      <item name="zoo.premium.infoText.0"><![CDATA[Om du anställer 6 assistenter (exklusive Dr. Lynn) har du en biträdande chef och personal som hjälper dig. Klicka bara så sätter de 6 assistenterna igång.]]></item>
+      <item name="zoo.premium.infoText.1"><![CDATA[John, utfodringsassistenten, ser till att dina djur alltid är välnärda och glada. Om du har tillräckligt med zoogros att utfodra, klicka på honom så arbetar John flitigt och pålitligt.]]></item>
+      <item name="zoo.premium.infoText.2"><![CDATA[Pavel tar hand om att vattna djuren. Om du klickar på honom kommer han regelbundet att ge dina djur vatten. Men bara om du har tillräckligt med zoogros.]]></item>
+      <item name="zoo.premium.infoText.3"><![CDATA[Städaren Slávek tar hand om dina djurs hygien och renlighet. Om du klickar på honom kommer han att rengöra hägnen och ge dina djur ett mysigt hem.]]></item>
+      <item name="zoo.premium.infoText.4"><![CDATA[Alla ser fram emot Sonia! Klicka på henne och anlita henne: Hon kommer att gosa med dina djur, så att de inte blir uttråkade och kommer att glöda av tillfredsställelse.]]></item>
+      <item name="zoo.premium.infoText.5"><![CDATA[Jirka sopar noggrant varje stig och missar inte en enda soptunna. Det måste vara snyggt, besökare kommer inte att återvända till en försummad djurpark. Anlita honom med ett klick så tar han hand om allt arbete.]]></item>
+      <item name="zoo.premium.infoText.6"><![CDATA[Den smarta apan Kešík är duktig på siffror: Klicka på honom och anlita honom. Han kommer att ge dig intäkter från alla butiker och byggnader du bygger.]]></item>
+      <item name="zoo.premium.infoText.7"><![CDATA[Dr. Lynn ansvarar för dina djurs hälsa. När du klickar på henne kommer hon att leverera lämplig medicin till alla sjuka djur!]]></item>
+      <item name="zoo.premium.infoText.11"><![CDATA[Från nivå %nextExpandLevel% kommer ditt zoo att växa. Känner du inte för att vänta? Så expandera ditt zoo nu.]]></item>
+      <item name="zoo.premium.infoText.12"><![CDATA[Slösa inte tid och utöka ditt zoo med 100 % med bara ett klick! Med maxi zoo-utbyggnaden sparar du mellansteg och får maximal yta tillgänglig direkt. Tveka inte!]]></item>
+      <item name="zoo.premium.infoText.13"><![CDATA[Köp expansioner till ditt gömda zoo med zoodollars.]]></item>
+      <item name="zoo.premium.infoText.14"><![CDATA[Byt ut dina samlade verktyg för att utöka ditt gömda zoo.]]></item>
+      <item name="zoo.premium.infoText.15"><![CDATA[Från 21 april till 27 april kommer påskharen att släppa ägg på din djurpark. Samla dem och byt dem mot påskapprydnader, påskharar och påskhägn.]]></item>
+      <item name="zoo.premium.infoText.16"><![CDATA[Så praktiskt! Från 21 till 27 april hjälper påskhjälpen Sonja dig att samla ägg. Även om du loggar ut! Du kan sedan byta äggen mot påskhäggdekorationer, påskharar och påskhägn.]]></item>
+      <item name="zoo.premium.infoText.23"><![CDATA[Köp den här tårtan för att få födelsedagsuppgraderingen till dina inhägnader snabbare. Detta ger dig fler ballonger och du kan också få fler födelsedagspriser.]]></item>
+      <item name="zoo.premium.infoText.29"><![CDATA[Slösa inte tid och utöka ditt zoo till 100 % med bara ett klick! Med max. zoo-utbyggnad sparar du dig själv de tråkiga mellanstegen och har omedelbart maximal tillgänglig yta. Tveka inte!]]></item>
+      <item name="zoo.premium.infoText.30"><![CDATA[Slösa inte tid och utöka ditt zoo med 100 % med bara ett klick! Med maxi zoo-utbyggnaden sparar du mellansteg och får maximal yta tillgänglig direkt. Tveka inte!]]></item>
+      <item name="zoo.premium.infoText.35"><![CDATA[Utöka ditt zoo med zoodollars.]]></item>
+      <item name="zoo.premium.infoText.125"><![CDATA[Köp en expansion till detta zoo med zoodollars.]]></item>
+      <item name="zoo.premium.infoText.36"><![CDATA[Utöka ditt zoo med de verktyg du har samlat.]]></item>
+      <item name="zoo.premium.infoText.126"><![CDATA[Slösa inte tid och utöka ditt zoo med 100 % med bara ett klick! Med maxi zoo-utbyggnaden sparar du mellansteg och får maximal yta tillgänglig direkt. Tveka inte!]]></item>
+      <item name="zoo.premium.infoText.37"><![CDATA[Slösa inte tid och utöka ditt zoo med 100 % med bara ett klick! Med maxi zoo-utbyggnaden sparar du mellansteg och får maximal yta tillgänglig direkt. Tveka inte!]]></item>
+      <item name="zoo.premium.infoText.38"><![CDATA[Slösa inte tid och utöka ditt zoo med 100 % med bara ett klick! Med maxi zoo-utbyggnaden sparar du mellansteg och får maximal yta tillgänglig direkt. Tveka inte!]]></item>
+      <item name="zoo.premium.infoText.123"><![CDATA[Byt små fladdermöss mot sura för att låsa upp nya Halloween-belöningar.]]></item>
+      <item name="zoo.premium.infoText.124"><![CDATA[Byt små fladdermöss mot godis för att låsa upp nya Halloween-belöningar.]]></item>
+      <item name="zoo.premium.infoText.128"><![CDATA[Köp den här tårtan för att få födelsedagsuppgraderingen till dina inhägnader snabbare. Detta ger dig fler ballonger och du kan också få fler födelsedagspriser.]]></item>
+      <item name="zoo.premium.infoText.130"><![CDATA[Köp Coastal Zoo-expansionen med Zoo Dollars.]]></item>
+      <item name="zoo.premium.infoText.132"><![CDATA[Skaffa expansionen Undersea World med Zoodollars.]]></item>
+      <item name="zoo.premium.infoText.2001"><![CDATA[Denna vattentunna är ett fint tillskott till djurparken och kommer att ge en rustik känsla.]]></item>
+      <item name="zoo.premium.infoText.2002"><![CDATA[Vilken jätte! Det här vattentornet kommer att synas från vida håll.]]></item>
+      <item name="zoo.premium.infoText.2003"><![CDATA[Det rinner nu. Vattenfontänen kommer att ge uppfriskande vatten till ditt zoo. Vatten, bara flöda!]]></item>
+      <item name="zoo.premium.infoText.2004"><![CDATA[Praktiska! Förvaringslådor är perfekta för klättring, sittande och lek. Barn älskar trälådor.]]></item>
+      <item name="zoo.premium.infoText.2005"><![CDATA[Så fantastiskt! Ladan är ett fantastiskt ställe att leka kurragömma på. Och på vintern finns det gott om plats för höbalar.]]></item>
+      <item name="zoo.premium.infoText.2006"><![CDATA[Jättefint förråd! Det finns många intressanta saker i det underjordiska förrådet. Men framför allt är det här förrådet väldigt mystiskt... vad är gömt där?]]></item>
+    </category>
+    <category name="zoo.premium.window.renew">
+      <item name="zoo.premium.window.renew.text"><![CDATA[Åh! Anställningsavtalet med den här assistenten har löpt ut. Vill du förlänga kontraktet?]]></item>
+    </category>
+    <category name="zoo.premium.elixir">
+      <item name="zoo.premium.elixir.title"><![CDATA[Tolijas essens]]></item>
+      <item name="zoo.premium.elixir.text"><![CDATA[Hemligt recept som används vid avel förkortar avelsprocessen med 50 %]]></item>
+    </category>
+    <category name="zoo.premium.breedingLab">
+      <item name="zoo.premium.breedingLab.title"><![CDATA[Avelsstation]]></item>
+      <item name="zoo.premium.breedingLab.text"><![CDATA[Placera en avelsstation i ditt huvud- eller hemliga zoo för att föda upp sällsynta djur.]]></item>
+    </category>
+    <category name="zoo.premium.nursery">
+      <item name="zoo.premium.nursery.title"><![CDATA[Djurens dagis]]></item>
+      <item name="zoo.premium.nursery.text"><![CDATA[Placera en avelsstation i ert huvud- eller hemliga zoo så att era ungar har någonstans att växa upp.]]></item>
+    </category>
+    <category name="zoo.premium.assist.title">
+      <item name="zoo.premium.assist.title.0"><![CDATA[Representanten David]]></item>
+      <item name="zoo.premium.assist.title.1"><![CDATA[Krmic Honza]]></item>
+      <item name="zoo.premium.assist.title.2"><![CDATA[Strömförsörjning Pavel]]></item>
+      <item name="zoo.premium.assist.title.3"><![CDATA[Städare Slavek]]></item>
+      <item name="zoo.premium.assist.title.4"><![CDATA[Uppfödare Soňa]]></item>
+      <item name="zoo.premium.assist.title.5"><![CDATA[Sopsamlare Jirka]]></item>
+      <item name="zoo.premium.assist.title.6"><![CDATA[Kassör, ​​ekonomiassistent]]></item>
+      <item name="zoo.premium.assist.title.7"><![CDATA[Dr. Lynn]]></item>
+      <item name="zoo.premium.assist.title.8"><![CDATA[Jindra]]></item>
+      <item name="zoo.premium.assist.title.9"><![CDATA[Matteus]]></item>
+      <item name="zoo.premium.assist.title.10"><![CDATA[Frant]]></item>
+      <item name="zoo.premium.assist.title.11"><![CDATA[Jenny]]></item>
+    </category>
+    <category name="zoo.premium.assist.infoText">
+      <item name="zoo.premium.assist.infoText.0"><![CDATA[Om du anställer 6 assistenter (exklusive Dr. Lynn) kommer biträdande chefen att hjälpa dig med personalen. Klicka bara på dem så sätter de alla igång direkt.]]></item>
+      <item name="zoo.premium.assist.infoText.1"><![CDATA[Matarfirman Honza ser till att dina djur alltid får mat – så länge du har tillräckligt med zoogros för att täcka dessa kostnader.]]></item>
+      <item name="zoo.premium.assist.infoText.2"><![CDATA[Klicka på Pavel så tar han hand om att koppla ihop djuren – förutsatt att du har tillräckligt med zoogros för att täcka dessa kostnader.]]></item>
+      <item name="zoo.premium.assist.infoText.3"><![CDATA[Städaren Slávek tar hand om dina djurs hygien och renlighet. När du klickar på honom rengör han dina inhägnader och ger dem ett mysigt hem.]]></item>
+      <item name="zoo.premium.assist.infoText.4"><![CDATA[Uppfödaren Soňa tar hand om dina djur, kramar dem och ger dem den kärlek de förtjänar. Klicka på henne och se henne arbeta!]]></item>
+      <item name="zoo.premium.assist.infoText.5"><![CDATA[Jirka sopar noggrant varje stig och missar inte en enda soptunna. Ordning måste upprätthållas. Anlita honom med ett klick så sätter han igång direkt!]]></item>
+      <item name="zoo.premium.assist.infoText.6"><![CDATA[Den smarta apan Kešík är duktig på siffror. Klicka på honom så samlar han in intäkterna från alla byggnader i djurparken åt dig!]]></item>
+      <item name="zoo.premium.assist.infoText.7"><![CDATA[Dr. Lynn ansvarar för dina djurs hälsa. När du klickar på henne kommer hon att leverera lämplig medicin till alla sjuka djur!]]></item>
+      <item name="zoo.premium.assist.infoText.8"><![CDATA[Klicka på Jindra så matar han alla dina havsdjur! Alger, plankton eller fiskmat – Jindra vet vad han ska göra!]]></item>
+      <item name="zoo.premium.assist.infoText.9"><![CDATA[Matej har alltid en slang i handen! Klicka på honom så fyller han dina vattentankar, men se till att du har tillräckligt med resurser för att täcka kostnaderna!]]></item>
+      <item name="zoo.premium.assist.infoText.10"><![CDATA[Franta är pooltekniker. Klicka på honom så rengör han dina vattenområden, byter filter och ser till att vattnet är rent och säkert för alla djur.]]></item>
+      <item name="zoo.premium.assist.infoText.11"><![CDATA[Janička är tränare för marina däggdjur. Hon leker med djuren och lär dem olika trick! Klicka på henne och anlita henne.]]></item>
+    </category>
+  </category>
+</language>

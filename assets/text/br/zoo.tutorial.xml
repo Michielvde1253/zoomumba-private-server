@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.tutorial">
+    <category name="zoo.tutorial.tour">
+      <item name="zoo.tutorial.tour.1"><![CDATA[Bem-vindo(a) ao ZooMumba, seu zoológico maluco! Meu nome é Sonja e vou te guiar passo a passo em como o jogo funciona.<br><br>Na loja, você pode comprar diversos recintos para animais, que você pode então colocar no campo de jogo.]]></item>
+      <item name="zoo.tutorial.tour.2"><![CDATA[Clique no recinto e compre um animal. Preste atenção se está comprando um macho ou uma fêmea.<br><br>Se tiver ambos no recinto, pode esperar filhotes em breve!]]></item>
+      <item name="zoo.tutorial.tour.3"><![CDATA[Cuide dos seus animais regularmente, abrace-os e brinque com eles. Assim, eles ficarão felizes e satisfeitos. Experimente!]]></item>
+      <item name="zoo.tutorial.tour.4"><![CDATA[Você precisa conectar seus recintos, edifícios e atrações com caminhos que levem à entrada, para que os visitantes possam admirar tudo.]]></item>
+      <item name="zoo.tutorial.tour.5"><![CDATA[Na loja, você encontra ração e tudo o que seus animais desejam: carne, frutas, pasto - dê uma olhada!]]></item>
+      <item name="zoo.tutorial.tour.6"><![CDATA[A partir do nível 2, você também pode adquirir prédios e barracas na loja para tornar seu zoológico ainda mais atraente para os visitantes. <br><br>Você pode coletar regularmente a receita das taxas de entrada no prédio principal.]]></item>
+      <item name="zoo.tutorial.tour.7"><![CDATA[Quanto mais visitantes você receber no seu zoológico, mais lixo terá que limpar. <br><br>Mantenha seu zoológico limpo e recolha o lixo para que seus visitantes fiquem felizes!]]></item>
+      <item name="zoo.tutorial.tour.8"><![CDATA[Quanto mais visitantes felizes seu zoológico tiver, mais seu Zoometer subirá.<br><br>Vá em frente e construa o zoológico mais incrível do mundo – em ZooMumba! Divirta-se!]]></item>
+    </category>
+    <category name="zoo.tutorial.general">
+      <item name="zoo.tutorial.general.forgive.title"><![CDATA[Pular]]></item>
+      <item name="zoo.tutorial.general.forgive.text"><![CDATA[Você realmente quer pular esta etapa?]]></item>
+      <item name="zoo.tutorial.general.award"><![CDATA[Tarefa %currentTask% concluída com sucesso. Total de tarefas: %totalTasks%]]></item>
+    </category>
+    <category name="zoo.tutorial.title">
+      <item name="zoo.tutorial.title.0"><![CDATA[Bem-vindo ao jogo ZooMumba!]]></item>
+      <item name="zoo.tutorial.title.1"><![CDATA[Pegue os pinguins!]]></item>
+      <item name="zoo.tutorial.title.2"><![CDATA[Alimente os pinguins!]]></item>
+      <item name="zoo.tutorial.title.3"><![CDATA[Carinho e aconchego]]></item>
+      <item name="zoo.tutorial.title.4"><![CDATA[Construir recintos]]></item>
+      <item name="zoo.tutorial.title.5"><![CDATA[Viva! Vamos levar os animais para seus recintos!]]></item>
+      <item name="zoo.tutorial.title.6"><![CDATA[Criar um novo caminho]]></item>
+      <item name="zoo.tutorial.title.7"><![CDATA[Livre-se do lixo!]]></item>
+      <item name="zoo.tutorial.title.8"><![CDATA[Alimentação extra]]></item>
+      <item name="zoo.tutorial.title.9"><![CDATA[Crie os descendentes]]></item>
+      <item name="zoo.tutorial.title.10"><![CDATA[Oportunidade de ganhos]]></item>
+      <item name="zoo.tutorial.title.11"><![CDATA[Você quase conseguiu!]]></item>
+      <item name="zoo.tutorial.title.12"><![CDATA[Eba, você conseguiu!]]></item>
+      <item name="zoo.tutorial.title.13"><![CDATA[Eba! Agora convide seus amigos!]]></item>
+      <item name="zoo.tutorial.title.14"><![CDATA[O Safari vai começar!]]></item>
+    </category>
+    <category name="zoo.tutorial.main">
+      <item name="zoo.tutorial.main.0"><![CDATA[Posso me apresentar? Meu nome é Sonja e vou explicar como funciona esse jogo maluco do zoológico. Preparado? Vamos lá, diretor do zoológico!]]></item>
+      <item name="zoo.tutorial.main.1"><![CDATA[Ocorreu um pequeno acidente! Os pinguins escaparam do recinto! Ajude-me a capturá-los rapidamente e devolvê-los ao recinto.]]></item>
+      <item name="zoo.tutorial.main.2"><![CDATA[Ótimo! Depois de tanta correria, eles estão com fome e sede. Dê a eles bastante água e peixe. Clique no cercado, depois nos peixes e no balde.]]></item>
+      <item name="zoo.tutorial.main.3"><![CDATA[Clique na escova e limpe o recinto. Viu? Está brilhando de limpo agora! E só mais um pouco de carinho para esses pinípedes malucos - clique no ursinho de pelúcia.]]></item>
+      <item name="zoo.tutorial.main.4"><![CDATA[Que ótimo! Você realmente sabe como cuidar dos animais! Agora você pode construir recintos. Vá até a loja, clique no recinto e coloque-o no seu zoológico.]]></item>
+      <item name="zoo.tutorial.main.5"><![CDATA[Coloque um casal de papagaios falantes no viveiro. Clique no viveiro, selecione uma fêmea e um macho na loja e coloque-os lá dentro.]]></item>
+      <item name="zoo.tutorial.main.6"><![CDATA[Conecte os recintos com caminhos. Quanto melhores as conexões, mais atraente será o seu zoológico. Crie um caminho até o viveiro dos papagaios.]]></item>
+      <item name="zoo.tutorial.main.7"><![CDATA[Com a chegada de turistas, também haverá muito lixo. Recolha-o clicando na pá.]]></item>
+      <item name="zoo.tutorial.main.8"><![CDATA[Compre ração para todos os seus animais na loja. Hoje, você precisará de frutas para alimentar os papagaios.]]></item>
+      <item name="zoo.tutorial.main.9"><![CDATA[Se você tiver um macho e uma fêmea juntos, clique no botão "Criação" e depois em "Comprar agora".]]></item>
+      <item name="zoo.tutorial.main.10"><![CDATA[Os edifícios do seu zoológico geram zoogros, então certifique-se de coletar seus ganhos regularmente. Basta clicar nos zoogros acima do edifício.]]></item>
+      <item name="zoo.tutorial.main.11"><![CDATA[Tudo pronto. Alguma dúvida? Leia as dicas com calma. Basta mover o mouse: você ficará ainda mais esperto!]]></item>
+      <item name="zoo.tutorial.main.12"><![CDATA[Podemos apertar as mãos, colega. Você se tornou um diretor de zoológico de sucesso. O conhecimento que você adquiriu realmente tornou seu zoológico famoso. E isso é algo a se comemorar!]]></item>
+      <item name="zoo.tutorial.main.13"><![CDATA[Shhh... Sabia disso? Agora você pode convidar seus amigos para o jogo. Basta enviar um e-mail e vocês podem começar a jogar juntos!]]></item>
+      <item name="zoo.tutorial.main.14"><![CDATA[Viva! Você alcançou o nível 7: o mundo do safári está agora aos seus pés. Pise no acelerador e clique no jipe ​​no centro de controle ou consulte o menu no prédio principal. Vamos lá!]]></item>
+    </category>
+    <category name="zoo.tutorial.hint">
+      <item name="zoo.tutorial.hint.0"><![CDATA[NENHUM]]></item>
+      <item name="zoo.tutorial.hint.1"><![CDATA[NENHUM]]></item>
+      <item name="zoo.tutorial.hint.2"><![CDATA[Alimente seus animais com ração especial e ganhe pontos de experiência extras!]]></item>
+      <item name="zoo.tutorial.hint.3"><![CDATA[Você consegue perceber o nível de felicidade dos animais pela expressão de mau humor do gato. Quanto mais você cuidar deles, mais felizes eles ficarão.]]></item>
+      <item name="zoo.tutorial.hint.4"><![CDATA[Clique no edifício para reduzir o tempo de construção.]]></item>
+      <item name="zoo.tutorial.hint.5"><![CDATA[Se você quiser criar filhotes, certifique-se de colocar um macho e uma fêmea no recinto.]]></item>
+      <item name="zoo.tutorial.hint.6"><![CDATA[Certifique-se de que os recintos estejam conectados por caminhos. Caso contrário, seu zoológico perderá seu atrativo.]]></item>
+      <item name="zoo.tutorial.hint.7"><![CDATA[Cuide das lixeiras para manter o zoológico limpo.]]></item>
+      <item name="zoo.tutorial.hint.8"><![CDATA[Alimente seus animais com a melhor ração e com mais frequência. Você ganhará muitos pontos de experiência por isso!]]></item>
+      <item name="zoo.tutorial.hint.9"><![CDATA[A chupeta lhe mostrará quando o acasalamento estiver completo.]]></item>
+      <item name="zoo.tutorial.hint.10"><![CDATA[Ficando sem moeda do jogo? Consiga mais! Clique na sacola dourada.]]></item>
+      <item name="zoo.tutorial.hint.13"><![CDATA[Digite o endereço de e-mail do amigo que você deseja convidar para o jogo.]]></item>
+      <item name="zoo.tutorial.hint.14"><![CDATA[Para acessar diferentes regiões de safári, você precisa de quantidades variáveis ​​de combustível. No entanto, não é possível entrar em áreas fechadas.]]></item>
+    </category>
+    <category name="zoo.tutorial.success">
+      <item name="zoo.tutorial.success.title"><![CDATA[OK!]]></item>
+      <item name="zoo.tutorial.success.step.1"><![CDATA[Ótimo! Os pinguins estão de volta ao seu recinto. Clique na seta para prosseguir para a próxima etapa.]]></item>
+      <item name="zoo.tutorial.success.step.2"><![CDATA[Que delícia! Seus pinguins estão satisfeitos. Clique na seta para continuar!]]></item>
+      <item name="zoo.tutorial.success.step.3"><![CDATA[Ótimo trabalho! Os alegres pinípedes agora estão limpos e felizes. Clique na seta para continuar!]]></item>
+      <item name="zoo.tutorial.success.step.4"><![CDATA[Excelente trabalho! Seu terrário está pronto. Clique na seta para prosseguir para a próxima etapa.]]></item>
+      <item name="zoo.tutorial.success.step.5"><![CDATA[Eba! Agora você tem papagaios no seu zoológico! Clique na seta para continuar!]]></item>
+      <item name="zoo.tutorial.success.step.6"><![CDATA[Continue assim! Os visitantes estão admirando os novos recintos. Clique na seta para continuar!]]></item>
+      <item name="zoo.tutorial.success.step.7"><![CDATA[Perfeito! A partir de agora, os caminhos estão impecavelmente limpos. Clique na seta para continuar!]]></item>
+      <item name="zoo.tutorial.success.step.8"><![CDATA[Que maravilha! Os papagaios já estão satisfeitos. Clique na seta para continuar!]]></item>
+      <item name="zoo.tutorial.success.step.9"><![CDATA[Que fofura! Você adotou com sucesso um filhote de papagaio. Clique na seta para continuar!]]></item>
+      <item name="zoo.tutorial.success.step.10"><![CDATA[Ótimo! O dinheiro está entrando! Você está quase terminando! Rápido, clique na seta mais uma vez.]]></item>
+      <item name="zoo.tutorial.success.step.11"><![CDATA[Muito fácil! Você já está quase craque em acumular pontos no menu. Mais um clique e você chegará ao fim da nossa pequena jornada.]]></item>
+    </category>
+  </category>
+</language>

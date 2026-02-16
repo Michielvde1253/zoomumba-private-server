@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.recycling">
+    <item name="zoo.window.recycling.title"><![CDATA[Resirkulering]]></item>
+    <item name="zoo.window.recycling.info"><![CDATA[Du finner mange råvarer i avfallet som du kan resirkulere og produsere verdifulle materialer.]]></item>
+    <item name="zoo.window.recycling.storage.info"><![CDATA[Lagerkapasiteten din: %count% <br> av den totale kapasiteten %maxcount%]]></item>
+    <item name="zoo.window.recycling.produce.text"><![CDATA[Lag ressurser fra innsamlet avfall. Tiden det tar å lage disse materialene vises til venstre. Nedenfor kan du se mengden avfall som trengs og antall zoogros. Velg hvor mange ressurser du vil lage. Hver gang du lager noe, har du sjansen til å få en sjelden ressurs. Du kan øke denne sjansen ved å bruke superfilteret.]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertitle"><![CDATA[Superfilter]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertext"><![CDATA[Øk sjansen din for å få tak i en sjelden ressurs med %prosent%%]]></item>
+    <item name="zoo.window.recycling.produce.rarechancetext"><![CDATA[Sjanse for å få tak i en sjelden ressurs: %prosent%%]]></item>
+    <item name="zoo.window.recycling.produce.startrecycle"><![CDATA[Begynn å resirkulere]]></item>
+    <item name="zoo.window.recycling.produce.insertfilter"><![CDATA[Bruk filter]]></item>
+    <item name="zoo.window.recycling.produce.deletefilter"><![CDATA[Fjern filteret]]></item>
+    <item name="zoo.window.recycling.card.create"><![CDATA[Lage]]></item>
+    <category name="zoo.window.recycling.slot">
+      <item name="zoo.window.recycling.slot.title.buy"><![CDATA[Lei nå]]></item>
+      <item name="zoo.window.recycling.slot.title.chooseItem"><![CDATA[Tilgjengelig]]></item>
+      <item name="zoo.window.recycling.slot.button.processfinished"><![CDATA[Hent]]></item>
+      <item name="zoo.window.recycling.slot.button.start"><![CDATA[Start]]></item>
+      <item name="zoo.window.recycling.slot.button.chooseItem"><![CDATA[Velge]]></item>
+    </category>
+    <category name="zoo.window.recycling.info">
+      <item name="zoo.window.recycling.info.switchInfo"><![CDATA[Bruk dette materialet til å lage følgende gjenstander:]]></item>
+    </category>
+  </category>
+</language>

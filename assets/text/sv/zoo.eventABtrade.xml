@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventABtrade">
+    <category name="zoo.eventABtrade.button">
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Utbyta]]></item>
+    </category>
+    <category name="zoo.eventABtrade.layer">
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Hej, jag heter Lukáš och är chef för djurparken i grannstaden. Jag hörde att er djurskötare, Soňa Starostlivá, avlar nya djurarter som jag är väldigt intresserad av. För varje hane av arten %priceSpecies% ger jag er en hane av arten %rewardSpecies% eller en hona för en hona. Under min närvaro kommer inkubationstiden för er art %priceGenus%s att minskas från 20 till 2 timmar! Så, är ni med?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Jag återvänder nu till mitt zoo. Tack så mycket och jag hoppas att vi ses snart igen!]]></item>
+    </category>
+  </category>
+</language>

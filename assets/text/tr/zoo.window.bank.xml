@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bank">
+    <item name="zoo.window.bank.title"><![CDATA[Hayvanat bahçesi bankası]]></item>
+    <item name="zoo.window.bank.info"><![CDATA[İyi yönetenler başarılı olacak! Hayvanat bahçesi bankasından değerli hayvan dolarları satın alın veya cazip Premium tekliflerimizden yararlanın!]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.title"><![CDATA[Zoodollar satın al<br>]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.info"><![CDATA[Oyun içi paranız mı azalıyor? Olabilir! Başarılı olmak isteyenler yatırım yapmalı!]]></item>
+    <item name="zoo.window.bank.button.premium.title"><![CDATA[Premium paket]]></item>
+    <item name="zoo.window.bank.button.premium.info"><![CDATA[Hayvanat bahçenize daha fazla ziyaretçi çekmek için Premium avantajlarından yararlanın. Bir deneyin!]]></item>
+    <item name="zoo.window.bank.button.startpaket.title"><![CDATA[Asistanlar]]></item>
+    <item name="zoo.window.bank.button.startpaket.info"><![CDATA[Her şeyi kendi başınıza yapmak istemiyor musunuz? Sorun değil! Hayvanat bahçesi görevlileri size yardımcı olacak!]]></item>
+    <item name="zoo.window.bank.button.cashaction.title"><![CDATA[Eylem Karşılığı Nakit]]></item>
+    <item name="zoo.window.bank.button.cashaction.info"><![CDATA[Maddi desteğe mi ihtiyacınız var? Burada harika fırsatlar bulacaksınız! Bir sağlayıcı seçin ve zoodolar kazanın!]]></item>
+    <item name="zoo.window.bank.currency.title"><![CDATA[Döviz bürosu]]></item>
+    <item name="zoo.window.bank.currency.info"><![CDATA[Zoodolarlarınızı zoogroşlara çevirin ve hesabınızda yeterli rezerv biriktirin.]]></item>
+    <item name="zoo.window.bank.exchange.btnLabel"><![CDATA[Değişme]]></item>
+  </category>
+</language>

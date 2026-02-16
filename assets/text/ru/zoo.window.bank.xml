@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bank">
+    <item name="zoo.window.bank.title"><![CDATA[Банк зоопарка]]></item>
+    <item name="zoo.window.bank.info"><![CDATA[Те, кто умеет грамотно распоряжаться, будут процветать! Приобретайте ценные зоодоллары в зообанке или воспользуйтесь нашими привлекательными премиум-предложениями!]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.title"><![CDATA[Купить<br>зоодоллары]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.info"><![CDATA[Закончилась внутриигровая валюта? Такое случается! Тем, кто хочет добиться успеха, нужно инвестировать!]]></item>
+    <item name="zoo.window.bank.button.premium.title"><![CDATA[Премиум-пакет]]></item>
+    <item name="zoo.window.bank.button.premium.info"><![CDATA[Используйте преимущества премиум-подписки, чтобы привлечь больше посетителей в ваш зоопарк. Попробуйте!]]></item>
+    <item name="zoo.window.bank.button.startpaket.title"><![CDATA[Помощники]]></item>
+    <item name="zoo.window.bank.button.startpaket.info"><![CDATA[Не хотите всё делать самостоятельно? Нет проблем! Сотрудники зоопарка вам помогут!]]></item>
+    <item name="zoo.window.bank.button.cashaction.title"><![CDATA[Деньги за<br>Действия]]></item>
+    <item name="zoo.window.bank.button.cashaction.info"><![CDATA[Нужна финансовая поддержка? Здесь вы найдете отличные предложения! Выберите поставщика и получите зоодоллары!]]></item>
+    <item name="zoo.window.bank.currency.title"><![CDATA[Обменный пункт]]></item>
+    <item name="zoo.window.bank.currency.info"><![CDATA[Обменивайте свои зоодоллары на зоогроши и накапливайте достаточные резервы на своем счету.]]></item>
+    <item name="zoo.window.bank.exchange.btnLabel"><![CDATA[Обмен]]></item>
+  </category>
+</language>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.upgrade">
+    <item name="zoo.window.upgrade.info"><![CDATA[Fejleszd a kifutóidat, szépítsd őket, és tedd még vonzóbbá az állatkerted.]]></item>
+    <item name="zoo.window.upgrade.button"><![CDATA[Frissítés]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[Április 21. és 27. között a húsvéti nyuszi átugrik az állatkertedben, és egy tojást hagy maga után. Gyűjtsd össze őket, és cseréld be húsvéti díszekre, húsvéti nyuszikra és kifutókra.]]></item>
+  </category>
+</language>

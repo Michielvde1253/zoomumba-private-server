@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.recycling">
+    <item name="zoo.window.recycling.title"><![CDATA[Geri Dönüşüm]]></item>
+    <item name="zoo.window.recycling.info"><![CDATA[Atıkların içinde geri dönüştürebileceğiniz ve değerli malzemeler üretebileceğiniz birçok ham madde bulacaksınız.]]></item>
+    <item name="zoo.window.recycling.storage.info"><![CDATA[Deponuzun kapasitesi: %count% <br> toplam kapasitenin %maxcount%'ı]]></item>
+    <item name="zoo.window.recycling.produce.text"><![CDATA[Toplanan atıklardan kaynaklar üretin. Bu malzemelerin üretilme süresi solda gösterilmektedir. Aşağıda gerekli atık miktarı ve zoogro sayısı gösterilmektedir. Üretmek istediğiniz kaynak sayısını seçin. Her üretimde nadir bir kaynak elde etme şansınız vardır. Süper filtreyi kullanarak bu şansı artırabilirsiniz.]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertitle"><![CDATA[Süper filtre]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertext"><![CDATA[Nadir bir kaynağa sahip olma şansınızı %percent%% oranında artırın.]]></item>
+    <item name="zoo.window.recycling.produce.rarechancetext"><![CDATA[Nadir bir kaynak elde etme olasılığı: %percent%%]]></item>
+    <item name="zoo.window.recycling.produce.startrecycle"><![CDATA[Geri dönüşüme başlayın]]></item>
+    <item name="zoo.window.recycling.produce.insertfilter"><![CDATA[Filtre uygula]]></item>
+    <item name="zoo.window.recycling.produce.deletefilter"><![CDATA[Filtreyi kaldır]]></item>
+    <item name="zoo.window.recycling.card.create"><![CDATA[Yapmak]]></item>
+    <category name="zoo.window.recycling.slot">
+      <item name="zoo.window.recycling.slot.title.buy"><![CDATA[Şimdi kirala]]></item>
+      <item name="zoo.window.recycling.slot.title.chooseItem"><![CDATA[Mevcut]]></item>
+      <item name="zoo.window.recycling.slot.button.processfinished"><![CDATA[Toplamak]]></item>
+      <item name="zoo.window.recycling.slot.button.start"><![CDATA[Başlangıç]]></item>
+      <item name="zoo.window.recycling.slot.button.chooseItem"><![CDATA[Seçmek]]></item>
+    </category>
+    <category name="zoo.window.recycling.info">
+      <item name="zoo.window.recycling.info.switchInfo"><![CDATA[Bu malzemeyi kullanarak aşağıdaki eşyaları üretebilirsiniz:]]></item>
+    </category>
+  </category>
+</language>

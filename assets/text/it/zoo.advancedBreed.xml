@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Ciao! Sono Soňa Starostlivá, un'infermiera qui allo zoo. Non vedi l'ora di far riprodurre i nuovi adorabili cuccioli? Ti spiego come funziona! Per prima cosa, devi decidere quale specie animale vuoi far riprodurre.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Scegli due animali adulti dal tuo inventario per farli diventare genitori. Più sono rari, più è probabile che diano alla luce un cucciolo ancora più raro. Tuttavia, i genitori devono rimanere con me per questa riproduzione.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Utilizzando oggetti aggiuntivi, come cibo forte, super cibo o super medicina, aumenterai le tue possibilità di allevare un cucciolo particolarmente raro. Più cuori ha l'oggetto, maggiori saranno le probabilità!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Hai quasi terminato i preparativi! Ricontrolla le tue scelte prima di iniziare. Vuoi cambiare qualcosa? Nessun problema, usa semplicemente il pulsante "Indietro"!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[Per l'esperimento di allevamento sono stati utilizzati i seguenti animali e oggetti:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Stazione di riproduzione pronta]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Qui è dove viene allevato]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[È nato un bambino!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[I bambini sono arrivati!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Inizia l'allevamento]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Usa l'essenza]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Vuoi davvero iniziare a riprodurre senza integratori? Pensaci bene: con gli integratori, hai maggiori probabilità di ottenere una prole rara.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Siete nel bel mezzo dei preparativi. Volete davvero lasciare la stazione di riproduzione?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Stazione di riproduzione]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Questi animali stanno partorendo in questo momento:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Tempo rimanente:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Essenza di Tolija]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[L'essenza di Tolija riduce del 50% i tempi di riproduzione.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Evviva, hai un bambino! Puoi trovare questo tenero piccolo nel tuo inventario:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Evviva, hai un figlio! Puoi trovare questo simpatico folletto nel tuo inventario:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Trasferisci il piccolo nella nursery per farlo crescere.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Portate i più piccoli all'asilo nido, così potranno crescere.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Attenzione: l'allevamento è attualmente in corso! Se sposti la stazione nel tuo inventario ora, il processo verrà interrotto e perderai tutti gli animali e gli integratori. Vuoi davvero spostarla ora?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Attenzione: la riproduzione è attualmente in corso! Se vendi la stazione ora, il processo verrà interrotto e tutti gli animali e gli integratori andranno persi. Sei sicuro di voler vendere la stazione ora?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Se il processo di allevamento viene completato dopo la fine dell'evento, riceverai solo 1 cucciolo.]]></item>
+    </category>
+  </category>
+</language>

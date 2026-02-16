@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.user">
+    <item name="zoo.user.name"><![CDATA[Nume de utilizator]]></item>
+    <item name="zoo.user.id"><![CDATA[ID-ul de utilizator]]></item>
+    <item name="zoo.user.notAuth.title"><![CDATA[Verificare]]></item>
+    <item name="zoo.user.notAuth.info"><![CDATA[Verificarea a eșuat. Vă rugăm să vă conectați din nou.]]></item>
+  </category>
+</language>

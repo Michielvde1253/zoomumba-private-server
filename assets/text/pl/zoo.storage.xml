@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.storage">
+    <category name="zoo.storage.moreSpace">
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Powiększ swoje zoo!]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Możesz kupić ten przedmiot tylko wtedy, gdy masz %neededExpansion% rozszerzeń zoo. Obecnie masz tylko %userExpansion% rozszerzeń zoo. Czy chcesz teraz rozbudować swoje zoo, aby móc kupić ten przedmiot?]]></item>
+    </category>
+    <category name="zoo.storage.firstExpansion">
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[Wieża ciśnień i magazyn]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Świetnie! W końcu masz wystarczająco dużo miejsca, aby zbudować swoją pierwszą wieżę ciśnień i magazyn. Oba przedmioty są dostępne za darmo w Twoim ekwipunku. Czas rozpocząć grę!]]></item>
+    </category>
+    <category name="zoo.storage.buy">
+      <item name="zoo.storage.buy.belowWater"><![CDATA[Maksymalna pojemność wieży ciśnień wynosi %pojemności%. Tej wartości nie można zwiększyć, nawet poprzez zakup tego budynku. Czy nadal chcesz go kupić?]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[Maksymalna pojemność twojego magazynu zaopatrzenia wynosi %pojemności%. Tej wartości nie można zwiększyć, nawet kupując ten budynek. Czy nadal chcesz go kupić?]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[Masz do dyspozycji %pojemności% swojej pojemności wodnej. Nie możesz już jej magazynować. Ten budynek nie zwiększy Twojej pojemności. Czy nadal chcesz go kupić?]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[Masz do dyspozycji %pojemności% swojej pojemności magazynowej. Nie możesz już jej przechowywać. Ten budynek nie zwiększy Twojej pojemności. Czy nadal chcesz go kupić?]]></item>
+    </category>
+    <category name="zoo.storage.capacity">
+      <item name="zoo.storage.capacity.title"><![CDATA[Pojemność pamięci masowej]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[Twoje zwierzęta potrzebują dużo paszy i wody. Tutaj możesz sprawdzić, ile masz dostępnych pasz i ile możesz zwiększyć.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Woda - pojemność]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Podawanie - pojemność]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.collectables">
+    <category name="zoo.collectables.forgottenZoo">
+      <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Verktyg]]></item>
+      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Samla verktyg och byt dem mot expansioner till ditt gömda zoo.<br> <br>Du får verktyg i safari och på lyckohjulet. Gå sedan till butiken och byt dem.<br> <br>Hittills äger du följande antal verktyg:]]></item>
+      <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[Vill du utöka ditt dolda zoo för %tools% tools och %zd% zoodollars?]]></item>
+    </category>
+    <category name="zoo.collectables.easterEvent">
+      <item name="zoo.collectables.easterEvent.title"><![CDATA[påskägg]]></item>
+      <item name="zoo.collectables.easterEvent.text"><![CDATA[Från 21 april till 27 april kommer du att uppleva en flod av påskägg! Samla dem och byt dem mot påskhäggdekorationer, påskharar och andra hägn. Din nuvarande status för påskägg:]]></item>
+    </category>
+    <category name="zoo.collectables.meadow">
+      <item name="zoo.collectables.meadow.main.title"><![CDATA[Äng]]></item>
+      <item name="zoo.collectables.meadow.main.text"><![CDATA[Många gräs, blommor och suckulent klöver växer i en vacker, färgglad äng.]]></item>
+      <item name="zoo.collectables.meadow.flower.title"><![CDATA[Blommor]]></item>
+      <item name="zoo.collectables.meadow.flower.text"><![CDATA[På våren förvandlas ängarna till ett hav av vilda blommor. Och dina djur älskar dem!]]></item>
+      <item name="zoo.collectables.meadow.log.title"><![CDATA[Stubbe]]></item>
+      <item name="zoo.collectables.meadow.log.text"><![CDATA[En övergångsäng skapas genom att träd röjs. När skogen är borta kommer först små grässkott att växa där.]]></item>
+      <item name="zoo.collectables.meadow.gnome.title"><![CDATA[Elfisk]]></item>
+      <item name="zoo.collectables.meadow.gnome.text"><![CDATA[Ängarna är också ofta hem för alver, som kommer ut ur sina gömställen på natten. Dessa blyga men vänliga varelser delar ofta sina hem med harar.]]></item>
+      <item name="zoo.collectables.meadow.mushroom.title"><![CDATA[Svampar]]></item>
+      <item name="zoo.collectables.meadow.mushroom.text"><![CDATA[Svampar är smakrika svampar och växer till exempel i Nordamerika.]]></item>
+      <item name="zoo.collectables.meadow.sign.title"><![CDATA[Vild äng]]></item>
+      <item name="zoo.collectables.meadow.sign.text"><![CDATA[Om ingen tar hand om en "övergångsäng" under en längre tid, kommer snart en vildvuxen skog att växa upp på den igen.]]></item>
+    </category>
+    <category name="zoo.collectables.ice">
+      <item name="zoo.collectables.ice.main.title"><![CDATA[Is]]></item>
+      <item name="zoo.collectables.ice.main.text"><![CDATA[Inte bara gillar pingviner och isbjörnar kalla klimat, utan fjällräven tycker också om is och snö!]]></item>
+      <item name="zoo.collectables.ice.popsicle.title"><![CDATA[Isglass]]></item>
+      <item name="zoo.collectables.ice.popsicle.text"><![CDATA[Få människor vet detta, men pingviner gillar också glassar och stjäl dem ibland från turister.]]></item>
+      <item name="zoo.collectables.ice.cubes.title"><![CDATA[Isbitar]]></item>
+      <item name="zoo.collectables.ice.cubes.text"><![CDATA[Isbitar är det perfekta sättet att kyla ner en varm dryck. De ger uppfriskning på en varm sommardag.]]></item>
+      <item name="zoo.collectables.ice.skates.title"><![CDATA[Skridsko]]></item>
+      <item name="zoo.collectables.ice.skates.text"><![CDATA[Skridskoåkning är en fantastisk sport. Historiker tror att den uppfanns för ungefär 4 000 år sedan. Finnarna bidrog förmodligen till uppfinningen.]]></item>
+      <item name="zoo.collectables.ice.igloo.title"><![CDATA[Igloo]]></item>
+      <item name="zoo.collectables.ice.igloo.text"><![CDATA[Igloo betyder hus för eskimåerna, som är Nordamerikas ursprungliga invånare.]]></item>
+      <item name="zoo.collectables.ice.sign.title"><![CDATA[Istappar]]></item>
+      <item name="zoo.collectables.ice.sign.text"><![CDATA[De glittrande istapparna bildas i minusgrader. Naturligtvis smälter solens värme dem igen.]]></item>
+    </category>
+    <category name="zoo.collectables.bamboo">
+      <item name="zoo.collectables.bamboo.main.title"><![CDATA[Bambulund]]></item>
+      <item name="zoo.collectables.bamboo.main.text"><![CDATA[Bambu är pandornas enda föda och växer främst i Asien.]]></item>
+      <item name="zoo.collectables.bamboo.branches.title"><![CDATA[Bambugren]]></item>
+      <item name="zoo.collectables.bamboo.branches.text"><![CDATA[Bambu är ett samlingsnamn för flera släkten av vedartade gräs.]]></item>
+      <item name="zoo.collectables.bamboo.lantern.title"><![CDATA[Lampion]]></item>
+      <item name="zoo.collectables.bamboo.lantern.text"><![CDATA[Häng en fin lykta i din bambuträdgård och lys upp natten med ett mjukt ljus.]]></item>
+      <item name="zoo.collectables.bamboo.gong.title"><![CDATA[Gong]]></item>
+      <item name="zoo.collectables.bamboo.gong.text"><![CDATA[Gongongen är en fin dekoration för din bambuträdgård. Och det där exotiska ljudet... verkar vara gjort för att starta meditation.]]></item>
+      <item name="zoo.collectables.bamboo.statue.title"><![CDATA[Asiatisk staty]]></item>
+      <item name="zoo.collectables.bamboo.statue.text"><![CDATA[En staty i asiatisk stil kommer att ge en atmosfär av lugn och ro till bambuträdgården.]]></item>
+      <item name="zoo.collectables.bamboo.sign.title"><![CDATA[Bambuvingar]]></item>
+      <item name="zoo.collectables.bamboo.sign.text"><![CDATA[Människor har tillverkat vingar av bambu i lång tid. Det lätta men starka materialet gör att de kan nå otroliga höjder.]]></item>
+    </category>
+    <category name="zoo.collectables.parrot">
+      <item name="zoo.collectables.parrot.main.title"><![CDATA[Papegoja]]></item>
+      <item name="zoo.collectables.parrot.main.text"><![CDATA[Vissa papegojor är kända för att vara ganska pratsamma. En del av dem talar till och med i fullständiga meningar.]]></item>
+      <item name="zoo.collectables.parrot.plush.title"><![CDATA[Plyschpapegoja]]></item>
+      <item name="zoo.collectables.parrot.plush.text"><![CDATA[Papegojor är mycket sociala och populära husdjur, men de behöver gott om plats att springa runt på.]]></item>
+      <item name="zoo.collectables.parrot.paw.title"><![CDATA[Papegojans klo]]></item>
+      <item name="zoo.collectables.parrot.paw.text"><![CDATA[Papegojor har faktiskt fyra klor. Två är fram och två bak. På så sätt faller de inte av grenen även om de somnar.]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.title"><![CDATA[Blackjack]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.text"><![CDATA[Papegojor är egentligen pirater som förvandlats till färgglada fåglar av onda magiker.]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.title"><![CDATA[Peru]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.text"><![CDATA[Djungeln i Amazonasregionen i Peru är hem för många papegojor, och regnskogen ger dem en idealisk livsmiljö.]]></item>
+      <item name="zoo.collectables.parrot.sign.title"><![CDATA[Fruktfantaster]]></item>
+      <item name="zoo.collectables.parrot.sign.text"><![CDATA[Papegojor tycker om att äta frön och nötter, men de njuter också av frukt. Det spelar ingen roll om det är färskt eller torkat, det viktigaste är att det är sött.]]></item>
+    </category>
+    <category name="zoo.collectables.rabbit">
+      <item name="zoo.collectables.rabbit.main.title"><![CDATA[Hare]]></item>
+      <item name="zoo.collectables.rabbit.main.text"><![CDATA[Harar lever i en mängd olika områden - från öknar till skogar till kalla polarregioner.]]></item>
+      <item name="zoo.collectables.rabbit.plush.title"><![CDATA[Plyschhare]]></item>
+      <item name="zoo.collectables.rabbit.plush.text"><![CDATA[Harar har funnits i århundraden. Fossiler visar att harliknande varelser levde i Kina för 60 miljoner år sedan.]]></item>
+      <item name="zoo.collectables.rabbit.paw.title"><![CDATA[Kaninfot]]></item>
+      <item name="zoo.collectables.rabbit.paw.text"><![CDATA[Kaninfötter är en symbol för lycka i många kulturer.]]></item>
+      <item name="zoo.collectables.rabbit.paint.title"><![CDATA[Färgpalett]]></item>
+      <item name="zoo.collectables.rabbit.paint.text"><![CDATA[En gång om året kommer påskharen och gömmer choklad och färgade ägg.]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.title"><![CDATA[Portugal]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.text"><![CDATA[Europeiska vilda harar levde ursprungligen i Portugal, Spanien och nordvästra Afrika, men de har även nått Australien.]]></item>
+      <item name="zoo.collectables.rabbit.sign.title"><![CDATA[Vegetariska experter]]></item>
+      <item name="zoo.collectables.rabbit.sign.text"><![CDATA[Harar är vegetarianer. De föredrar att äta gräs, örter, sallad och färgglada blommor.]]></item>
+    </category>
+    <category name="zoo.collectables.penguin">
+      <item name="zoo.collectables.penguin.main.title"><![CDATA[Pingvin]]></item>
+      <item name="zoo.collectables.penguin.main.text"><![CDATA[Pingviner är sjöfåglar även om de inte kan flyga.]]></item>
+      <item name="zoo.collectables.penguin.plush.title"><![CDATA[Plyschpingvin]]></item>
+      <item name="zoo.collectables.penguin.plush.text"><![CDATA[Pingviner är mycket sociala och tävlingsinriktade djur som ofta tycker om att dansa under vattnet.]]></item>
+      <item name="zoo.collectables.penguin.paw.title"><![CDATA[Pingvinflippa]]></item>
+      <item name="zoo.collectables.penguin.paw.text"><![CDATA[En pingvins gång på land ser klumpig ut, men i vattnet är pingvinen en smidig simmare och dykare.]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.title"><![CDATA[Smoking]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.text"><![CDATA[Vissa kallar också en smoking för pingvinfrack eftersom den påfallande liknar en pingvins utseende.]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.title"><![CDATA[Antarktis]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.text"><![CDATA[Subpolaröarna är hem för en av de största och tyngsta pingvinerna - kejsarpingvinen.]]></item>
+      <item name="zoo.collectables.penguin.sign.title"><![CDATA[Fiskfantaster]]></item>
+      <item name="zoo.collectables.penguin.sign.text"><![CDATA[Pingviner är rena gourmeter. De föredrar fisk, men de tycker också om havsdjur.]]></item>
+    </category>
+    <category name="zoo.collectables.giantTurtle">
+      <item name="zoo.collectables.giantTurtle.main.title"><![CDATA[Jättesköldpadda]]></item>
+      <item name="zoo.collectables.giantTurtle.main.text"><![CDATA[Sköldpaddor är reptiler. De lever oftast nära eller i vatten. De största sköldpaddorna är vattensköldpaddor.]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.title"><![CDATA[Plyschsköldpadda]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.text"><![CDATA[Jättesköldpaddor i ungar kommunicerar med sina syskon medan de fortfarande är i ägget. De stöter helt enkelt på varandra med sina äggskal.]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.title"><![CDATA[Sköldpaddans fot]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.text"><![CDATA[Vattensköldpaddans fötter har simhudsförsedda fötter mellan tårna, medan landsköldpaddornas har fötter som mer liknar stubbar.]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.title"><![CDATA[Svänga]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.text"><![CDATA[Elefantsköldpaddor kan bli över 100 år gamla, men de får aldrig grått skägg.]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.title"><![CDATA[Ecuador]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.text"><![CDATA[Elefantsköldpaddor kommer från Galapagosöarna, som tillhör Ecuador i Sydamerika.]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.title"><![CDATA[Näringsspecialister]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.text"><![CDATA[De flesta sköldpaddor är allätare, men vissa arter specialiserar sig på endast en typ av föda, till exempel maneter.]]></item>
+    </category>
+    <category name="zoo.collectables.lion">
+      <item name="zoo.collectables.lion.main.title"><![CDATA[Lejon]]></item>
+      <item name="zoo.collectables.lion.main.text"><![CDATA[Lejon är de näst största kattdjuren i världen efter tigrar.]]></item>
+      <item name="zoo.collectables.lion.plush.title"><![CDATA[Plyschlejon]]></item>
+      <item name="zoo.collectables.lion.plush.text"><![CDATA[Vita lejon är egentligen helt vanliga lejon, bara det att deras päls har blekts av solen.]]></item>
+      <item name="zoo.collectables.lion.paw.title"><![CDATA[Lejontass]]></item>
+      <item name="zoo.collectables.lion.paw.text"><![CDATA[De inger respekt med sina stora tassar och deras klor greppar fast sitt byte.]]></item>
+      <item name="zoo.collectables.lion.crown.title"><![CDATA[Krona]]></item>
+      <item name="zoo.collectables.lion.crown.text"><![CDATA[Även om de bebor savanner och stäpper, kallas de ofta för "djungelns kungar".]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.title"><![CDATA[Tanzania]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.text"><![CDATA[Idag lever de främst i nationalparker som i Tanzania eller vid Östafrikas kust.]]></item>
+      <item name="zoo.collectables.lion.sign.title"><![CDATA[Biffälskare]]></item>
+      <item name="zoo.collectables.lion.sign.text"><![CDATA[Lejon, liksom alla kattdjur, är köttätare. De livnär sig på gnuer, zebror och bufflar.]]></item>
+    </category>
+    <category name="zoo.collectables.peacock">
+      <item name="zoo.collectables.peacock.main.title"><![CDATA[Påfågel]]></item>
+      <item name="zoo.collectables.peacock.main.text"><![CDATA[Påfåglar är imponerande exotiska fåglar. De strövar fritt omkring i många djurparker och parker.]]></item>
+      <item name="zoo.collectables.peacock.plush.title"><![CDATA[Plyschpåfågel]]></item>
+      <item name="zoo.collectables.peacock.plush.text"><![CDATA[Påfågelns stjärtfjädrar är vackra. I grekisk mytologi är påfågelögon en symbol för väktaren Argus, som bevakade Zeus älskare Io.]]></item>
+      <item name="zoo.collectables.peacock.paw.title"><![CDATA[Påfågelklor]]></item>
+      <item name="zoo.collectables.peacock.paw.text"><![CDATA[Hanar av påfåglar är ganska fåfänga. De kan tillbringa timmar med att kamma sina vackra fjädrar med sina klor. Och slutligen breder de ut dem i all sin prakt.]]></item>
+      <item name="zoo.collectables.peacock.mirror.title"><![CDATA[Spegel]]></item>
+      <item name="zoo.collectables.peacock.mirror.text"><![CDATA[Påfåglar kan göra några ganska coola upptåg för att väcka honors intresse, och honor gillar också att flirta med dem.]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.title"><![CDATA[Indien]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.text"><![CDATA[I Indien har påfågeln varit nationalfågeln sedan 1963. Indier värdesätter dessa fåglar eftersom de jagar giftiga kobror.]]></item>
+      <item name="zoo.collectables.peacock.sign.title"><![CDATA[Spannmålsälskare]]></item>
+      <item name="zoo.collectables.peacock.sign.text"><![CDATA[Påfåglar äter mestadels spannmål och säd, men då och då äter de även blommor och en och annan skalbagge.]]></item>
+    </category>
+    <category name="zoo.collectables.panda">
+      <item name="zoo.collectables.panda.main.title"><![CDATA[Panda]]></item>
+      <item name="zoo.collectables.panda.main.text"><![CDATA[Jättepandan är en svartvit björn som är infödd i Kina.]]></item>
+      <item name="zoo.collectables.panda.plush.title"><![CDATA[Plyschpanda]]></item>
+      <item name="zoo.collectables.panda.plush.text"><![CDATA[Pandungar är verkligen väldigt små. De väger bara 100 till 200 gram och är cirka 15–17 cm långa.]]></item>
+      <item name="zoo.collectables.panda.paw.title"><![CDATA[Pandatass]]></item>
+      <item name="zoo.collectables.panda.paw.text"><![CDATA[Jättepandor har en krokig tumme. De använder den för att hålla mat.]]></item>
+      <item name="zoo.collectables.panda.bowl.title"><![CDATA[Ätpinnar]]></item>
+      <item name="zoo.collectables.panda.bowl.text"><![CDATA[Smarta pandor använder bambupinnar för att spetta sin mat, precis som människor äter med ätpinnar i Asien.]]></item>
+      <item name="zoo.collectables.panda.flagChina.title"><![CDATA[Kina]]></item>
+      <item name="zoo.collectables.panda.flagChina.text"><![CDATA[De sista vilda pandorna lever i Kina, världens största land. Tyvärr finns det bara ett fåtal av dessa jättepandor kvar.]]></item>
+      <item name="zoo.collectables.panda.sign.title"><![CDATA[Bambuexpert]]></item>
+      <item name="zoo.collectables.panda.sign.text"><![CDATA[Pandor föredrar att tugga på bambu, särskilt bladen och de unga kvistarna. Eftersom de är stora djur äter de mycket av det.]]></item>
+    </category>
+    <category name="zoo.collectables.sonja">
+      <item name="zoo.collectables.sonja.main.title"><![CDATA[Uppfödare Soňa]]></item>
+      <item name="zoo.collectables.sonja.main.text"><![CDATA[Uppfödaren Soňa vet hur man tar hand om djuren perfekt. Bara hon kan gosa med alla djuren samtidigt.]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.title"><![CDATA[Elefantleksak]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.text"><![CDATA[Apor är glada följeslagare. De gillar att leka med till exempel färgglada träelefanter.]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.title"><![CDATA[Bästa]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.text"><![CDATA[Med sin glatt snurra kan Soňa muntra upp även den grinigaste noshörningen.]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.title"><![CDATA[Musleksak]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.text"><![CDATA[Söta huskatter gillar att jaga leksaksmöss, men lejon föredrar större byten.]]></item>
+      <item name="zoo.collectables.sonja.main.babyBear.title"><![CDATA[Björnunge]]></item>
+      <item name="zoo.collectables.sonja.babyBear.text"><![CDATA[Björnungarna bara gosade hela tiden. Vissa av dem vill inte lämna sin vårdare alls.]]></item>
+      <item name="zoo.collectables.sonja.sign.title"><![CDATA[Mästare på att gosa]]></item>
+      <item name="zoo.collectables.sonja.sign.text"><![CDATA[Sonia är en mästare på att gosa. Anlita henne så får du 12 % mer BZ för hennes tjänster!]]></item>
+    </category>
+    <category name="zoo.collectables.book">
+      <item name="zoo.collectables.book.tab.animals"><![CDATA[Djur]]></item>
+      <item name="zoo.collectables.book.tab.cages"><![CDATA[Hagar]]></item>
+      <item name="zoo.collectables.book.tab.assistants"><![CDATA[Assistenter]]></item>
+      <item name="zoo.collectables.book.more"><![CDATA[Mer...]]></item>
+    </category>
+    <category name="zoo.collectables.rewards">
+      <item name="zoo.collectables.book.rewards.unlocked.title"><![CDATA[Vinna!]]></item>
+      <item name="zoo.collectables.book.rewards.unlocked.text"><![CDATA[Välj ditt pris:]]></item>
+      <item name="zoo.collectables.book.rewards.locked.title"><![CDATA[Fortsätt samla...]]></item>
+      <item name="zoo.collectables.book.rewards.locked.text"><![CDATA[... Dessa fantastiska belöningar väntar på dig:]]></item>
+      <item name="zoo.collectables.book.rewards.button"><![CDATA[Välja]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.crafting">
+    <item name="zoo.window.crafting.intro.blueprintRewards"><![CDATA[Você coletou %mycards% de %allcards% plantas de construção!]]></item>
+    <item name="zoo.window.crafting.intro.title"><![CDATA[Oficina]]></item>
+    <item name="zoo.window.crafting.intro.text"><![CDATA[Atenção, artesãos e hobbistas! Use seus materiais para construir novos recintos, edifícios, decorações ou caminhos. Basta selecionar uma categoria abaixo e prosseguir para a próxima etapa de produção.]]></item>
+    <item name="zoo.window.crafting.intro.chooseCategorie"><![CDATA[Escolha uma categoria:]]></item>
+    <item name="zoo.window.crafting.produce.text"><![CDATA[É muito simples: no canto inferior esquerdo, você vê o que está sendo produzido no momento. O plano de construção mostra os materiais necessários. Acima disso, você vê o tempo de produção e o número de unidades que precisa pagar. Entendeu? Ótimo, então clique em "Iniciar".]]></item>
+    <item name="zoo.window.crafting.produce.button"><![CDATA[Começar]]></item>
+    <item name="zoo.window.crafting.progress.title"><![CDATA[Oficina]]></item>
+    <item name="zoo.window.crafting.progress.text"><![CDATA[Produção em andamento!]]></item>
+    <item name="zoo.window.crafting.progress.time"><![CDATA[Duração:]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.title"><![CDATA[Produza imediatamente]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.text"><![CDATA[Economize tempo e finalize a produção imediatamente!]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.button"><![CDATA[Completo]]></item>
+    <item name="zoo.window.crafting.progress.layer.elixir.text"><![CDATA[Acelere e conclua a produção na metade do tempo.]]></item>
+    <item name="zoo.window.crafting.progress.button.elixir"><![CDATA[Acelerar]]></item>
+    <item name="zoo.window.crafting.success.text"><![CDATA[Viva! Tudo pronto: o item que você acabou de criar já está no seu inventário!]]></item>
+    <item name="zoo.window.crafting.blueprint.text"><![CDATA[Viva! Você acaba de receber um projeto de construção! Vá até a oficina e construa um novo item para o seu zoológico!]]></item>
+  </category>
+</language>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.waterstorehouse">
+    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Torre de agua]]></item>
+    <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Edificio de almacén]]></item>
+    <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Los animales necesitan mucha agua. Mejora tu torre de agua nivel por nivel y asegúrate de tener suficiente agua para todos a medida que tu zoológico crece.]]></item>
+    <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Tus animales necesitan mucha comida. Aumenta tu almacenamiento nivel por nivel y asegúrate de tener suficiente comida para todos a medida que tu zoológico crece.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[¡Bravo! Has ampliado el almacén al máximo nivel.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[¡Bravo! Has ampliado la torre de agua al máximo nivel.]]></item>
+    <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Aktuální stupeň rozšíření: %have% / %max%]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.water"><![CDATA[Capacidad actual de la torre de agua]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.store"><![CDATA[Capacidad actual del almacenamiento]]></item>
+    <item name="zoo.window.waterstorehouse.buy.titel"><![CDATA[Expandir]]></item>
+    <item name="zoo.window.waterstorehouse.buy.text"><![CDATA[¿Te gustaría ampliar tu zoológico?]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgraderc"><![CDATA[Expandir para zoodólares]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Expandir para zoogrosh]]></item>
+    <item name="zoo.window.waterstorehouse.buy.nextcap"><![CDATA[Nuevo tamaño:]]></item>
+  </category>
+</language>

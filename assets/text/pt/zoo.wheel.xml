@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Tentativa extra]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Eba, você ganhou uma tentativa extra!<br> A cada dia que você fizer login, você ganhará uma rodada extra na roda da sorte.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Clique e tente a sua sorte!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Ou clique no prédio com a roda da sorte na cidade. Cada giro garante ótimos prêmios!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Novas tentativas]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Você gostaria de comprar outra tentativa?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Parabéns!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Eba! Você ganhou!]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Gire novamente, você só pode ganhar na roda da sorte!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Alimentador John por 1 hora]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Fornecedor de água Paul por 1 hora]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Zelador Stanley por 1 hora]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Criadora Sonja por 1 hora]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Coletor de lixo George por 1 hora]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Operador(a) de caixa por 1 hora]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Alimentador John por 3 horas]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Fornecedor de água Paul por 3 horas]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Zelador Stanley por 3 horas]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Criadora Sonja por 3 horas]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Coletor de lixo George por 3 horas]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Operador(a) de caixa por 3 horas]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[Bônus de 30% de EP por 8 horas completas!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[Bônus de 100% de EP por 8 horas completas!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[Bônus de 50% nas patas durante 5 horas completas!]]></item>
+    </category>
+  </category>
+</language>

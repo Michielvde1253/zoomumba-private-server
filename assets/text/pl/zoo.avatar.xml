@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.avatar">
+    <item name="zoo.avatar.heads"><![CDATA[Stwórz tu swój awatar i pochwal się nim przed znajomymi! Wybrałeś już płeć? Teraz pora na rysy twarzy!]]></item>
+    <item name="zoo.avatar.eyes"><![CDATA[Oko jest oknem duszy! Które z nich najbardziej Ci odpowiadają?]]></item>
+    <item name="zoo.avatar.mouths"><![CDATA[Uśmiechanie się, śmiech, szczerzenie zębów... Twoje usta pokazują innym, co czujesz!]]></item>
+    <item name="zoo.avatar.hair"><![CDATA[Kolor włosów i fryzura mogą całkowicie odmienić Twój wygląd!]]></item>
+    <item name="zoo.avatar.hats"><![CDATA[Nakrycie głowy (?) może sprawić, że będziesz wyglądać ważnie!]]></item>
+    <item name="zoo.avatar.clothes"><![CDATA[Wybierz odpowiedni strój do zoo.]]></item>
+  </category>
+</language>

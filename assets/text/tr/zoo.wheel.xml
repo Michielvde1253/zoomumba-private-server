@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Ek deneme]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Harika, fazladan bir deneme hakkı kazandınız!<br> Her giriş yaptığınız gün için şans çarkında fazladan bir çevirme hakkı elde edeceksiniz.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Tıklayın ve şansınızı deneyin!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Ya da şehirdeki şans çarkı bulunan binaya tıklayın. Her çevirme büyük ödüller garanti ediyor!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Daha fazla deneme]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Bir deneme daha satın almak ister misiniz?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Tebrikler!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Yaşasın! Kazandınız!]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Tekrar çevirin, sadece şans çarkında kazanabilirsiniz!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[John'u 1 saatliğine besleyin.]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Su Tedarikçisi Paul, 1 saatliğine]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Temizlikçi Stanley 1 saatliğine]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Damızlıkçı Sonja 1 saatliğine]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Çöp Toplayıcı George 1 saatliğine]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[1 saat boyunca kasiyerlik yaptım.]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[John'u 3 saatliğine besledim.]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Su Tedarikçisi Paul, 3 saatliğine]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Temizlikçi Stanley 3 saatliğine]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Damızlıkçı Sonja 3 saat boyunca]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Çöp Toplayıcı George 3 saatliğine]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[3 saat boyunca kasiyerlik yaptım.]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[Tam 8 saat boyunca %30 EP bonusu!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[Tam 8 saat boyunca %100 EP bonusu!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[Tam 5 saat boyunca %50 pati bonusu!]]></item>
+    </category>
+  </category>
+</language>

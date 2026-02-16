@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.user">
+    <item name="zoo.user.name"><![CDATA[Felhasználónév]]></item>
+    <item name="zoo.user.id"><![CDATA[Felhasználói azonosító]]></item>
+    <item name="zoo.user.notAuth.title"><![CDATA[Ellenőrzés]]></item>
+    <item name="zoo.user.notAuth.info"><![CDATA[Az ellenőrzés sikertelen. Kérjük, jelentkezzen be újra.]]></item>
+  </category>
+</language>

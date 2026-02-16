@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.quests">
+    <category name="zoo.quests.tabs">
+      <item name="zoo.quests.tabs.daily"><![CDATA[Sarcini zilnice]]></item>
+      <item name="zoo.quests.tabs.achievements"><![CDATA[Onoruri]]></item>
+      <item name="zoo.quests.tabs.collectables"><![CDATA[Colecții]]></item>
+    </category>
+    <category name="zoo.quests.daily">
+      <item name="zoo.quests.daily.info"><![CDATA[La fiecare grădină zoologică este multă muncă de făcut în fiecare zi: orice ajutor este binevenit! Asumă-ți aceste sarcini zilnice și du-le la bun sfârșit.]]></item>
+      <item name="zoo.quests.daily.nextquest.timestamp"><![CDATA[Sarcini noi în:]]></item>
+      <item name="zoo.quests.daily.refreshTitle"><![CDATA[Sarcini zilnice]]></item>
+      <item name="zoo.quests.daily.refreshQuestion"><![CDATA[Pentru o mică taxă poți obține noi sarcini zilnice. Ți-ar plăcea?]]></item>
+      <item name="zoo.quests.daily.taskTitle"><![CDATA[Sarcină]]></item>
+      <item name="zoo.quests.daily.rewardTitle"><![CDATA[Remuneraţie]]></item>
+      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Start\task]]></item>
+      <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Obțineți recompensă]]></item>
+      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Anulare\sarcină]]></item>
+      <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Sarcină]]></item>
+      <item name="zoo.quests.daily.window.activequest.info"><![CDATA[Deja lucrezi la o altă sarcină. Te rugăm să finalizezi sarcina activă înainte de a începe următoarea.]]></item>
+      <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Anula]]></item>
+      <item name="zoo.quests.daily.window.abortquest.info"><![CDATA[Dacă anulați această sarcină, aceasta va fi eliminată din lista de sarcini. Sigur doriți să o anulați?]]></item>
+      <item name="zoo.quests.daily.window.achievereward.title"><![CDATA[Felicitări!]]></item>
+      <item name="zoo.quests.daily.window.achievereward.info"><![CDATA[Ți-ai îndeplinit cu succes sarcina și primești următoarea recompensă:]]></item>
+    </category>
+    <category name="zoo.quests.help">
+      <item name="zoo.quests.help.daily.title"><![CDATA[Exemple de citire]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Exemplul 1: Dați 50 de baloți de mâncare oricăror animale.<br>Exemplul 2: Creșteți 2 pui de leu.]]></item>
+    </category>
+    <category name="zoo.quests.achievements.individual">
+      <item name="zoo.quests.achievements.individual.info.congrats"><![CDATA[Grozav! Ați finalizat cu succes următoarea sarcină:]]></item>
+      <item name="zoo.quests.achievements.individual.1.title"><![CDATA[Maestru al îmbrățișărilor]]></item>
+      <item name="zoo.quests.achievements.individual.2.title"><![CDATA[Prietenul animalelor]]></item>
+      <item name="zoo.quests.achievements.individual.3.title"><![CDATA[Expert în reproducere]]></item>
+      <item name="zoo.quests.achievements.individual.4.title"><![CDATA[Negustor/negustoare]]></item>
+      <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Maestru de friptură]]></item>
+      <item name="zoo.quests.achievements.individual.6.title"><![CDATA[Trebuie să existe ordine.]]></item>
+      <item name="zoo.quests.achievements.individual.7.title"><![CDATA[Ventilator din cereale integrale]]></item>
+      <item name="zoo.quests.achievements.individual.8.title"><![CDATA[Bine făcut]]></item>
+      <item name="zoo.quests.achievements.individual.9.title"><![CDATA[Iarba este distractivă]]></item>
+      <item name="zoo.quests.achievements.individual.10.title"><![CDATA[Dependent de vitamine]]></item>
+      <item name="zoo.quests.achievements.individual.11.title"><![CDATA[Pește proaspăt]]></item>
+      <item name="zoo.quests.achievements.individual.12.title"><![CDATA[Potolitor de sete]]></item>
+      <item name="zoo.quests.achievements.individual.1.requirement"><![CDATA[S-au cuibărit cu animalele lor %val%-mal.]]></item>
+      <item name="zoo.quests.achievements.individual.2.requirement"><![CDATA[Deține %val% din animale.]]></item>
+      <item name="zoo.quests.achievements.individual.3.requirement"><![CDATA[Crește %val% dintre bebeluși.]]></item>
+      <item name="zoo.quests.achievements.individual.4.requirement"><![CDATA[Colectează de %val% ori venitul brut din zoo pentru clădirile tale.]]></item>
+      <item name="zoo.quests.achievements.individual.5.requirement"><![CDATA[Hrănește bucăți de carne de %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.6.requirement"><![CDATA[Afișează coșul de gunoi %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.7.requirement"><![CDATA[Hrănește %val% cereale.]]></item>
+      <item name="zoo.quests.achievements.individual.8.requirement"><![CDATA[Câștigă %val% XP golind coșul de gunoi.]]></item>
+      <item name="zoo.quests.achievements.individual.9.requirement"><![CDATA[Hrănește cu iarbă %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.10.requirement"><![CDATA[Hrănește %val% fructe.]]></item>
+      <item name="zoo.quests.achievements.individual.11.requirement"><![CDATA[Hrănește %val% din pești.]]></item>
+      <item name="zoo.quests.achievements.individual.12.requirement"><![CDATA[Dă-le animalelor tale %val% de apă.]]></item>
+      <item name="zoo.quests.achievements.individual.bronze.congrats"><![CDATA[Animalele tale se bucură pentru că ai deblocat o nouă piesă de puzzle din setul Bronz.]]></item>
+      <item name="zoo.quests.achievements.individual.silver.congrats"><![CDATA[Animalele tale se bucură pentru că ai lansat o nouă piesă de puzzle în setul de argint.]]></item>
+      <item name="zoo.quests.achievements.individual.gold.congrats"><![CDATA[Animalele tale se bucură pentru că ai deblocat o nouă piesă de puzzle din setul de aur.]]></item>
+      <item name="zoo.quests.achievements.individual.platinum.congrats"><![CDATA[Animalele tale se bucură pentru că ai deblocat o nouă piesă de puzzle din Setul de Platină.]]></item>
+      <item name="zoo.quests.achievements.individual.open.achievements.info"><![CDATA[Acum accesați fereastra de activități pentru a vizualiza imaginea!]]></item>
+    </category>
+    <category name="zoo.quests.achievements.unlocked">
+      <item name="zoo.quests.achievements.unlocked.bronze.title"><![CDATA[Set de bronz]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.title"><![CDATA[Set de argint]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.title"><![CDATA[Set de aur]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.title"><![CDATA[Set de platină]]></item>
+      <item name="zoo.quests.achievements.unlocked.bronze.description"><![CDATA[Felicitări! Ai finalizat cu succes toate sarcinile din Setul Bronz și vei primi următoarele recompense:]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.description"><![CDATA[Felicitări! Ai finalizat cu succes toate sarcinile din Setul Argint și vei primi următoarele recompense:]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.description"><![CDATA[Felicitări! Ai finalizat cu succes toate sarcinile din Setul de Aur și vei primi următoarele recompense:]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.description"><![CDATA[Felicitări! Ai finalizat cu succes toate sarcinile din Setul de Platină și vei primi următoarele recompense:]]></item>
+      <item name="zoo.quests.achievements.unlocked.open.achievements.info"><![CDATA[Acum accesați fereastra de activități pentru a vizualiza imaginea complet deblocată!]]></item>
+      <item name="zoo.quests.help.daily.title"><![CDATA[Exemple de citire]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Exemplul 1: Hrănește orice animal cu 50x hrană.<br>Exemplul 2: Crește 2 pui de leu.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Temizlikçi Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley tüm kafesleri pırıl pırıl temiz tutacak. Onun püf noktası, hayvanları da işin içine katarak temizliği eğlenceli bir oyuna dönüştürmek.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Kaleci Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Bakıcı Sonja, hayvanlara nasıl mükemmel şekilde bakılacağını biliyor. Sadece o, tüm hayvanlarla aynı anda kucaklaşabiliyor.]]></item>
+  </category>
+</language>

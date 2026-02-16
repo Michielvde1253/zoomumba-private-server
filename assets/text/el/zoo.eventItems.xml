@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Τζακ-ο-φανάρι]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Τρομακτικές σκαλιστές κολοκύθες, που ονομάζονται Τζακ-ο-φανάρια, λάμπουν στο σκοτάδι της νύχτας του Χάλοουιν. Η αποκρουστική του γκριμάτσα γίνεται ακόμη πιο τρομακτική από το τρεμάμενο φως των κεριών. Ωωω]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[Χριστουγεννιάτικο δέντρο]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[Ένα λεπτό έλατο μεγάλωσε...! Ένα εορταστικά στολισμένο δέντρο, γεμάτο με χριστουγεννιάτικα δώρα.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Καρδιά]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Καλή τύχη! Σε πολλές χώρες, οι άνθρωποι πιστεύουν ότι το φιλί ενός καπνοδοχοκαθαριστή την ημέρα του Αγίου Βαλεντίνου θα τους φέρει μεγάλη τύχη!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Τούρτα γενεθλίων]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Νόστιμο! Τι θα ήταν τα γενέθλια χωρίς μια θερμιδική λιχουδιά;]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Τούρτα γενεθλίων]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Νόστιμο! Τι θα ήταν τα γενέθλια χωρίς αυτή την θερμιδική λιχουδιά;]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Σωρός από πασχαλινά αυγά]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[Μια ωραία συλλογή από πασχαλινά αυγά. Στο παρελθόν, χρησιμοποιούνταν βαμμένα αυγά κότας. Σήμερα, τα σοκολατένια αυγά είναι πιο συνηθισμένα.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Αυγό ουράνιου τόξου]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Πασχαλινά αυγά ειδικά προσαρμοσμένα για παιδιά με προβλήματα όρασης ώστε να συμμετέχουν στο πασχαλινό κυνήγι. Τα αυγά ηχούν ή παίζουν μια μελωδία.]]></item>
+  </category>
+</language>

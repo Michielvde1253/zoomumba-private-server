@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Estrada de cascalho]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Este caminho de cascalho conecta os recintos do seu zoológico. Uma rede de caminhos de qualidade ajuda seus visitantes a se orientarem e os conduz a todos os recintos.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Calçada azul e branca]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Este caminho de paralelepípedos azuis e brancos não só tem uma ótima aparência, como também é uma ótima superfície para carrinhos de bebê, patinetes e patins. Movimento suave e diversão de qualidade, simplesmente fantástico!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Estrada de areia]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[Raramente existem estradas pavimentadas na estepe. Você quer que seu zoológico se assemelhe à natureza selvagem!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Calçada rosa e branca]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Que lindo: este caminho de pedra feito de preciosos mosaicos rosa é algo verdadeiramente especial. A passarela perfeita para visitantes de salto alto.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Calçada preta e branca]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Pedras preciosas pretas e brancas, dispostas em mosaico, adornam este caminho com primor. Trabalhadas com grande esmero, elas se tornam uma verdadeira joia para o seu zoológico.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[O caminho rochoso]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Assim como na natureza, pequenos tufos de grama crescem nas frestas entre as pedras. Não é para os perfeccionistas, mas os amantes da natureza certamente irão apreciar.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Caminho de pedras]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Este caminho de cascalho parece agradável e tenho certeza de que ninguém vai escorregar nele. Seguro e bonito, o que mais se pode querer?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Estrada de terra]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[Caminhos de terra são populares na África. Eles conferem autenticidade ao seu zoológico e farão com que muitos animais se sintam em casa.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Via navegável]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Splash, splash, splash! Calce suas botas de borracha, encha seu bote inflável e pegue um patinho de borracha - vai ter muita água nessa viagem!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Estrada de gelo]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Eba! Uma estrada de gelo - isso vai ser divertido! Seus visitantes vão adorar deslizar pela estrada congelada. Cuidado, não tem sal!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Estrada Savannah]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[Uma trilha bem marcada serpenteia pela savana, tornando-a ideal para procurar pegadas, como em um safári.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Estrada do deserto]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Sob o calor escaldante do sol, a areia sopra pelo deserto, obliterando qualquer vestígio.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Caminho de pedra]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Este caminho é bastante irregular. Há pedras grandes e rochas no caminho, por isso é imprescindível usar calçado adequado. Tenha cuidado para não cair!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Trilha da Tundra]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[Seus visitantes precisarão de uma bússola nessa trilha, mas também é prudente seguir o caminho demarcado.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Estrada de neve]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[A neve pegajosa cobre o caminho nevado, por onde seus visitantes caminharão com suas botas quentes. Tudo é tão lindo aqui!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Trilha no deserto]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[Em áreas selvagens, o melhor é permanecer na estrada. Há toxinas e lixo por toda parte. Botas de borracha com solado resistente são indispensáveis!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Rota alpina]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Essa trilha de caminhada leva você para cima e para baixo pelos Alpes. Um bom calçado com suporte firme para os tornozelos evitará que você escorregue!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Caminho da caverna]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Mantenha os olhos bem abertos para não escorregar. Talvez você aviste um grão de ouro brilhante entre as pedras.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Trilha na floresta]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[Em dias de chuva, este caminho pode ficar um pouco lamacento, mas no verão a floresta é absolutamente idílica.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Estrada costeira]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Caminhar descalço na areia brilhante, entre conchas, algas marinhas e, ocasionalmente, algumas estrelas-do-mar, é muito benéfico para a saúde!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Trilha mágica]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[A trilha azul brilhante, que parece de outro mundo, pode parecer assustadora, mas também é cheia de aventuras. Para onde ela leva?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Trilha Sugar Land]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Puxa! Opa! Você pisou num doce? Cuidado, tem chicletes por perto! Que lugar lindo e colorido!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[trilha na floresta de bambu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[A neblina se espalha por uma vasta floresta de bambu, quase impenetrável. O bater de um pica-pau pode ser ouvido à distância. Simplesmente idílico!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Trilha na floresta]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Se você não quiser se balançar de cipó em cipó nesta selva, pode caminhar por esta trilha bem marcada. Mas cuidado: de vez em quando, uma cobra ou aranha pode cruzar o caminho.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[O caminho através do pântano]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[Seus visitantes devem se lembrar de permanecer no caminho certo no pântano. Um passo em falso e eles cairão na lama!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Plataforma de madeira]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Não há nada melhor do que caminhar por um cais de madeira e ouvir o rangido do convés de um navio. Seus visitantes terão uma verdadeira experiência costeira.]]></item>
+  </category>
+</language>

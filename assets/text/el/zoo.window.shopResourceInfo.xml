@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopResourceInfo">
+    <item name="zoo.window.shopResourceInfo.titel_1"><![CDATA[Νερό]]></item>
+    <item name="zoo.window.shopResourceInfo.text_1"><![CDATA[Τα ζώα σας χρειάζονται αναζωογόνηση! Κάντε τα χαρούμενα με δροσερό νερό!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_2"><![CDATA[Γρασίδι]]></item>
+    <item name="zoo.window.shopResourceInfo.text_2"><![CDATA[Δεν υπάρχει καλύτερος τρόπος για να χορτάσετε ένα πεινασμένο στομάχι από το να ταΐσετε τον εαυτό σας με νόστιμο πράσινο γρασίδι. Και με λίγη τύχη, θα υπάρχουν μερικά έντομα στο γρασίδι ως μπόνους :-) Νόστιμο!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_3"><![CDATA[Κρέας]]></item>
+    <item name="zoo.window.shopResourceInfo.text_3"><![CDATA[Ποιος δεν θα απολάμβανε ένα καλό κομμάτι κρέατος; Μια τόσο ζουμερή μπριζόλα είναι πραγματική απόλαυση!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_4"><![CDATA[Ψάρι]]></item>
+    <item name="zoo.window.shopResourceInfo.text_4"><![CDATA[Το ψάρι είναι υγιεινό! Και αγαπημένο φαγητό για πολλά ζώα. Δεν χρειάζεται να ανησυχείτε για το ξεκοιλιασμό ή τον τεμαχισμό, τα ζώα σας θα απολαύσουν τα πάντα!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_5"><![CDATA[Καρπός]]></item>
+    <item name="zoo.window.shopResourceInfo.text_5"><![CDATA[Γλυκά ζουμερά φρούτα - ποιος θα μπορούσε να αντισταθεί. Εδώ θα βρείτε φρούτα για όλα τα ζώα!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_6"><![CDATA[Σιτηρά]]></item>
+    <item name="zoo.window.shopResourceInfo.text_6"><![CDATA[Τα σιτηρά αποτελούν σημαντική πηγή τροφής για τα ζώα σας, βοηθώντας τα να παραμένουν δραστήρια και υγιή!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_7"><![CDATA[Φάρμακο]]></item>
+    <item name="zoo.window.shopResourceInfo.text_7"><![CDATA[Μήπως κάποιο από τα ζώα σας αισθάνεται αδιαθεσία; Αυτό το φάρμακο σίγουρα θα το βοηθήσει να σταθεί ξανά στα πόδια του.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_8"><![CDATA[Υπερτροφή]]></item>
+    <item name="zoo.window.shopResourceInfo.text_8"><![CDATA[Με τις υπερτροφές παίρνετε διπλάσια ποσότητα BZ.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_9"><![CDATA[Υπεριατρική]]></item>
+    <item name="zoo.window.shopResourceInfo.text_9"><![CDATA[Σε περίπτωση σοβαρής λοίμωξης, πρέπει να χρησιμοποιήσετε ένα πραγματικά αποτελεσματικό φάρμακο. Είμαι εδώ γρήγορα με ένα σούπερ φάρμακο. Επιπλέον, με τα σούπερ φάρμακα αυξάνετε τις πιθανότητές σας να κερδίσετε πολύτιμες ανταμοιβές που "πηδούν" έξω από το περίβλημα.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_10"><![CDATA[Το καλύτερο φαγητό]]></item>
+    <item name="zoo.window.shopResourceInfo.text_10"><![CDATA[Η καλύτερη τροφή θα σας δώσει τέσσερις φορές περισσότερα πόδια για να ομορφύνετε τα περιβλήματά σας.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_11"><![CDATA[Η Ουσία της Τόλια]]></item>
+    <item name="zoo.window.shopResourceInfo.text_11"><![CDATA[Το άρωμα Tolija μειώνει τον χρόνο αναπαραγωγής κατά 50%.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_12"><![CDATA[Φίλτρο ανάπτυξης]]></item>
+    <item name="zoo.window.shopResourceInfo.text_12"><![CDATA[Με το φίλτρο ανάπτυξης, τα μικρά σας θα μεγαλώσουν δύο φορές πιο γρήγορα!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_13"><![CDATA[Σκουπίδια]]></item>
+    <item name="zoo.window.shopResourceInfo.text_13"><![CDATA[Είναι απίστευτο τι πετάνε οι άνθρωποι! Ανακυκλώστε τα απόβλητα και χρησιμοποιήστε τα υλικά για να φτιάξετε νέα αντικείμενα για τον ζωολογικό σας κήπο.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_14"><![CDATA[Υπερφίλτρο]]></item>
+    <item name="zoo.window.shopResourceInfo.text_14"><![CDATA[Αν ανακυκλώνετε τα απόβλητα χρησιμοποιώντας ένα υπερφίλτρο, θα αυξήσετε τις πιθανότητες να αποκτήσετε σπάνια υλικά.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_15"><![CDATA[Ενισχυτικό για τεχνίτες]]></item>
+    <item name="zoo.window.shopResourceInfo.text_15"><![CDATA[Αυτό το μείγμα λυκίσκου και ενεργειακού ποτού είναι ακριβώς αυτό που χρειάζονται οι τεχνίτες σας για να ανεβάσουν την ενέργειά τους και να ολοκληρώσουν τη δουλειά τους πιο γρήγορα.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_16"><![CDATA[Φύκια]]></item>
+    <item name="zoo.window.shopResourceInfo.text_16"><![CDATA[Πράσινα υδρόβια φυτά γεμάτα πολύτιμα θρεπτικά συστατικά! Νόστιμα!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_17"><![CDATA[Πλαγκτόν]]></item>
+    <item name="zoo.window.shopResourceInfo.text_17"><![CDATA[Τα πλαγκτόν είναι μικροοργανισμοί που αποτελούν τροφή για πολλά ζώα του ωκεανού.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_18"><![CDATA[Γαρίδα]]></item>
+    <item name="zoo.window.shopResourceInfo.text_18"><![CDATA[Όχι μόνο οι άνθρωποι, αλλά και τα ζώα αγαπούν τις γαρίδες!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_19"><![CDATA[Μύδια]]></item>
+    <item name="zoo.window.shopResourceInfo.text_19"><![CDATA[Απολαύστε το μαλακό κρέας που κρύβεται μέσα. Ποιος θα μπορούσε να αντισταθεί σε μια τέτοια λιχουδιά;]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_20"><![CDATA[Φίλτρο νερού]]></item>
+    <item name="zoo.window.shopResourceInfo.text_20"><![CDATA[Χρησιμοποιήστε ένα καλό φίλτρο για να διατηρείτε το νερό στις δεξαμενές σας κρυστάλλινο.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_21"><![CDATA[Σούπερ τροφή για ψάρια]]></item>
+    <item name="zoo.window.shopResourceInfo.text_21"><![CDATA[Η Super Fish Food παρέχει μια ισορροπημένη διατροφή για τη θαλάσσια ζωή όλων των σχημάτων και μεγεθών. Σερβίρετε την και πάρτε διπλή δόση BZ!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_22"><![CDATA[Αποκλειστική τροφή για ψάρια]]></item>
+    <item name="zoo.window.shopResourceInfo.text_22"><![CDATA[Αποκλειστική τροφή για αποκλειστικά ψάρια. Ταΐστε τα ζώα σας με αυτήν την τροφή και αποκτήστε διπλάσια μαργαριτάρια!]]></item>
+  </category>
+</language>

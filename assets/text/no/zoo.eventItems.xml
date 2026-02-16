@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Jack-o'-lanterne]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Skumle utskårne gresskar, kalt Jack-o'-lanterner, gløder i mørket på Halloween-kvelden. Hans grusomme grimase blir enda mer skremmende av det flimrende stearinlyset. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[Juletre]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[Et slankt grantre har vokst frem ...! Et festlig pyntet tre, komplett med julegaver.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Hjerte]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Lykke til! Folk i mange land tror at det å kysse en skorsteinsfeier på Valentinsdagen vil bringe dem stor lykke!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Bursdagskake]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Nam! Hva ville en bursdag være uten en kaloririk godbit?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Bursdagskake]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Nam! Hva ville en bursdag vært uten denne kaloririke godbiten?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Haug med påskeegg]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[En fin samling påskeegg. Før i tiden brukte man malte kyllingegg. Nå for tiden er sjokoladeegg mer vanlige.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Regnbueegg]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Påskeegg spesielt tilpasset synshemmede barn for å delta i påskejakten. Eggene piper eller spiller en melodi.]]></item>
+  </category>
+</language>

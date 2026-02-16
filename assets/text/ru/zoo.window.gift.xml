@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.gift">
+    <category name="zoo.window.gift.superFeedPack">
+      <item name="zoo.window.gift.superFeedPack.info"><![CDATA[Сегодня в продаже суперфуд-пакеты! Выберите один из 3 вариантов: «Хорошее начало», «Мастер» и «Эксперт». В качестве эксперта вы можете отправить дополнительные подарки своим 5 друзьям. Не упустите свой шанс!]]></item>
+    </category>
+    <category name="zoo.window.gift.recipients">
+      <item name="zoo.window.gift.recipients.headerGift"><![CDATA[Подарок]]></item>
+      <item name="zoo.window.gift.recipients.headerUsername"><![CDATA[Имя игрока]]></item>
+      <item name="zoo.window.gift.recipients.headerUserID"><![CDATA[Идентификатор игрока]]></item>
+      <item name="zoo.window.gift.recipients.info"><![CDATA[Выберите 5 друзей и отправьте каждому подарок:]]></item>
+      <item name="zoo.window.gift.recipients.button.send"><![CDATA[Подарок]]></item>
+    </category>
+    <category name="zoo.window.gift.unwrapped">
+      <item name="zoo.window.gift.unwrapped.title"><![CDATA[Это будет сюрприз!]]></item>
+      <item name="zoo.window.gift.unwrapped.text.1"><![CDATA[Вы получили следующий подарок:]]></item>
+      <item name="zoo.window.gift.unwrapped.text.2"><![CDATA[Списание средств с вашего счета за подарок произойдет сразу после его распаковки.]]></item>
+    </category>
+  </category>
+</language>

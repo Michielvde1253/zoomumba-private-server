@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[Glædelig jul!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[Fra den 21. december til den 2. januar drejer alt i din zoologiske have sig om julen! Pynt dit juletræ og hjælp mig med at redde julen!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Først skal du opfostre 8 flyvende rensdyr og derefter en julemand Rudolf til hans kane. For hvert rensdyr du bringer til ham, får du en gave.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Fra tid til anden giver julemanden dig også en pynt til dit juletræ. Til sidst kan du beholde dit pyntede træ.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Hurra, vi har også en særlig julekollektion her! Pas på dine dyr og saml juleting. Du kan også bruge dem til at opdrætte rensdyr!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Store overraskelser i julebutikken]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Forvandl din zoologiske have til en farverig vinterverden: med masser af nye og populære julepynter.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Glædelig jul og hav det sjovt med julearrangementet!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[Det er forfærdeligt! Julemandens rensdyr er løbet væk, og nu kan han ikke uddele gaver! Giv ham 8 flyvende rensdyr og julemandens Rudolf, og placer dem foran hans kane. Som tak vil du modtage fantastiske gaver!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Julemanden er på vej til:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Du vandt:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Se på dit juletræ på parkeringspladsen!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Få noget nyt outfit til din avatar!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Hurtigt, tag et kig på dit lager!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Tak!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Dit rensdyr kan ikke vente med at komme ud på vejen. Takket være dig er julen reddet!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Tak!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Der mangler stadig nogle af mine rensdyr, men det er tid til at komme afsted! Bare rolig, jeg finder ud af det - jeg er trods alt julemanden!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[Det pyntede juletræ fra din parkeringsplads er nu i dit inventar.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Først skal vi tage 8 magiske rensdyr med til julemanden.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Julemanden har allerede 8 flyvende rensdyr, og alt han behøver er sin Rudolf!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Juledekoration]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Julestemning]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Et par sneugler]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Antal hanlige magiske rensdyr i dit inventar.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Antallet af flyvende rensdyr i dit inventar.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Før du giver julemanden hans Rudolf, skal han først bruge 8 flyvende rensdyr.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Antallet af mandlige julemands-Rudolfer i dit inventar.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Antallet af kvindelige julemands-Rudolfer i dit inventar.]]></item>
+    </category>
+  </category>
+</language>

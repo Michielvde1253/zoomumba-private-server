@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Conciërge Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley zorgt ervoor dat alle verblijven brandschoon zijn. Zijn truc is om de dieren erbij te betrekken en van schoonmaken een leuk spel te maken.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Keeper Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Dierenverzorgster Sonja weet precies hoe ze voor de dieren moet zorgen. Alleen zij kan met alle dieren tegelijk knuffelen.]]></item>
+  </category>
+</language>

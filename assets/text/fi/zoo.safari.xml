@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.safari">
+    <item name="zoo.safari.title"><![CDATA[Safari]]></item>
+    <item name="zoo.safari.fuel_singular"><![CDATA[Bensiinikanisteri]]></item>
+    <category name="zoo.safari.errors">
+      <item name="zoo.safari.errors.notAvailable"><![CDATA[Harmi! Valitettavasti tasosi on liian alhainen! Voit aloittaa safarikierroksen tasolta 7!]]></item>
+    </category>
+    <category name="zoo.safari.welcomeWindow">
+      <item name="zoo.safari.welcomeWindow.infoText"><![CDATA[Tervetuloa seikkailuntäyteiselle safarille: Voita upeita palkintoja ja jopa uusia eläimiä! <br /><br />Seuraavassa vaiheessa valitse vain alue, josta haluat aloittaa safarisi. <br /><br />Hurraa, luontoon!]]></item>
+    </category>
+    <category name="zoo.safari.regionWindow">
+      <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Valitse alue]]></item>
+      <item name="zoo.safari.startWindow.infoText"><![CDATA[Millä alueella haluat aloittaa safarisi? Valitse se tästä: Jokaisella alueella on 3 aktivoitavaa aluetta tasostasi riippuen.]]></item>
+    </category>
+    <category name="zoo.safari.shopWindow">
+      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Hei seikkailija! Lähde oikealle safarille. Käytä jokereita helpottaaksesi pääsyäsi erämaahan.<br><br>Tärkeää: Valitse matkallesi vain yksi kutakin jokerityyppiä!]]></item>
+      <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[Haluatko sijoittaa %skipTimerCost% zoodollareita ja aloittaa safarisi heti?]]></item>
+      <item name="zoo.safari.shopWindow.infoText"><![CDATA[Oletko valmis safarille? Näin se toimii: Seuraavassa vaiheessa näet pelin: se koostuu 9–25 kuvapuoli alaspäin olevasta kortista. Kortit kätkevät palkintoja tai eläinten jälkiä, joita seuraat saadaksesi pääpalkinnon. Mutta ole varovainen: jokainen kortti voi kätkeä myös ansan!<br /><br />Näetkö tuon bensiinikanisterin oikeassa alakulmassa? Se näyttää, kuinka paljon bensiiniä on jäljellä jeeppisi tankissa. Heti kun paljastat kortin, käytät sitä loppuun.<br /><br />Ja nyt pelin säännöt: Aluksi voit valita kortteja vain alariviltä. Napsauta korttia, niin se kääntyy. Näin näet, oletko löytänyt jotain ja jos olet, mitä se on. Sitten voit valita kortteja, jotka ovat viimeisen kortin ylä- tai alapuolella sekä sen oikealla tai vasemmalla puolella. Peli päättyy, jos löydät eläimen, mutta se päättyy myös, kun bensa loppuu.<br /> <br />Lisää mahdollisuuksiasi löytää hieno kortti kaupasta löytyvällä jokerilla(?). Jokereita on kahdenlaisia: korttijokereita ja navigointijokereita. Anna korttijokerin auttaa sinua paljastamaan korttisi – se paljastaa sinulle lisäkortteja. Navigointijokeri opastaa sinua oikeaan suuntaan kompassinsa avulla.<br /><br />Voit ottaa yhden jokerin kutakin tyyppiä mukaasi safarille. Käytitpä jokeria tai et, menetät sen safarin lopussa.]]></item>
+    </category>
+    <category name="zoo.safari.miniGame">
+      <item name="zoo.safari.miniGame.tileInfo.trap"><![CDATA[Hupsista, osuit esteeseen. Ärsyttävää, yksi kanisteri bensaa on loppunut.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.treasure"><![CDATA[Hienoa! Löysit %treasureCount% %treasureName%. Jatka etsimistä, tulet löytämään paljon lisää aarteita.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.animal"><![CDATA[Onnittelut, katso mitä löysit! Se on %animal%! Kiirehdi eläintarhaan, se odottaa sinua tavaroissasi. Olet suorittanut safarisi onnistuneesti.]]></item>
+      <item name="zoo.safari.miniGame.closeWarning"><![CDATA[Haluatko todella lopettaa safarin? Jos haluat, et voi aloittaa enempää safareita tänään ja bensasi ja tarvikkeesi ovat loppu!]]></item>
+      <item name="zoo.safari.miniGame.noJoker"><![CDATA[Ei jokeri]]></item>
+      <item name="zoo.safari.miniGame.buyGasThenEmpty"><![CDATA[Olet melkein perillä määränpäässäsi! Valitettavasti tankkisi on tyhjä. Haluatko tankata muutamalla zoodollarilla ja jatkaa safariasi? Valitse, kuinka paljon haluat ostaa bensaa.]]></item>
+      <item name="zoo.safari.miniGame.buyMissingGas"><![CDATA[Tämän maaston bensiinikanisterien määrä on %neededGas%. Sinulla on kuitenkin vain %missingGas%. Haluatko ostaa tarvittavan bensiinin zoodollareilla?]]></item>
+      <item name="zoo.safari.miniGame.buyGas"><![CDATA[Valitse, kuinka paljon bensiiniä haluat ostaa. Ole kuitenkin varovainen: Jos et käytä kaikkea bensiiniäsi safarilla, jäljelle jäävä bensiini menee hukkaan.]]></item>
+    </category>
+    <category name="zoo.safari.minigameInfo">
+      <item name="zoo.safari.minigameInfo.title"><![CDATA[Ohjeet]]></item>
+      <item name="zoo.safari.minigameInfo.1"><![CDATA[Tervetuloa safarille!<br /> Löydä epätavallisia eläimiä ja upeita aarteita. Mutta katso minne askeleesi johtavat. Ansoja vaanii kaikkialla. Maastosta riippuen kulutat eri määriä bensiiniä.<br /><br />Safari on ohi heti, kun tankkisi on tyhjä tai jos löydät eläimen.]]></item>
+      <item name="zoo.safari.minigameInfo.2"><![CDATA[Pääset erämaahan napsauttamalla yhtä alemmista ruuduista.]]></item>
+      <item name="zoo.safari.minigameInfo.3"><![CDATA[Liiku suorilla linjoilla pohjoiseen, etelään, länteen ja itään.]]></item>
+      <item name="zoo.safari.minigameInfo.4"><![CDATA[Voit aktivoida jokerisi milloin tahansa. Niillä on arvokkaita vinkkejä, jotka johdattavat sinut tavoitteeseesi nopeammin.]]></item>
+      <item name="zoo.safari.minigameInfo.terains"><![CDATA[Seuraavat maastotyypit ovat saatavilla:<br />]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.name"><![CDATA[Yksinkertainen maasto]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.info"><![CDATA[Käytät yhden yksikön bensiiniä.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.name"><![CDATA[Vaikeampi maasto]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.info"><![CDATA[Käytät 3 yksikköä bensiiniä.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.name"><![CDATA[Läpipääsemätön maasto]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.info"><![CDATA[Pääsy kielletty]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.name"><![CDATA[Tutkittu maasto]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.info"><![CDATA[Käytät yhden yksikön bensiiniä.]]></item>
+      <item name="zoo.safari.minigameInfo.events"><![CDATA[Löydät seuraavat tuotteet: <br />]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.name"><![CDATA[Eläinten jäljet]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.info"><![CDATA[Ne osoittavat suunnan, jossa eläin saattaa sijaita.]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.name"><![CDATA[AARRE]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.info"><![CDATA[Jee, aarre ja upea yllätys!]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.name"><![CDATA[ESTE]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.info"><![CDATA[Maksaa sinulle yhden bensiiniyksikön.]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.name"><![CDATA[KOHTAAMINEN ELÄIMEN KANSSA]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.info"><![CDATA[Jos kohtaat eläimen, se kuuluu sinulle ja tehtävä on ohi.]]></item>
+    </category>
+    <category name="zoo.safari.jokers">
+      <item name="zoo.safari.jokers.titel_1"><![CDATA[Apina, neuvonantaja]]></item>
+      <item name="zoo.safari.jokers.titel_2"><![CDATA[Sonja, neuvonantaja]]></item>
+      <item name="zoo.safari.jokers.titel_3"><![CDATA[Kompassi]]></item>
+      <item name="zoo.safari.jokers.titel_4"><![CDATA[Nopea matkustaminen]]></item>
+      <item name="zoo.safari.jokers.text_1"><![CDATA[Jokainen tarvitsee aika ajoin vähän apua. Jos annat apinan auttaa, voit paljastaa yhden satunnaisesti valitun kortin.<br /><br />Oletko utelias? Aloitetaan!]]></item>
+      <item name="zoo.safari.jokers.text_2"><![CDATA[Haluatko paljastaa tietyn kortin ja edetä safarilla?<br /><br /><br /> Käytä neuvoja Sonian apua. Hänen avullaan paljastat valitsemasi kortin. Tämä auttaa sinua saavuttamaan tavoitteesi nopeammin. Onnea matkaan!]]></item>
+      <item name="zoo.safari.jokers.text_3"><![CDATA[Tarvitsetko apua? Käytä kompassia jokerina merkitäksesi kortin puolestasi. Löydät siitä etsimäsi eläimen tai ansan. Haluatko kovasti selvittää, mitä siihen on piilotettu? Joten ole nopea ja ota selvää!]]></item>
+      <item name="zoo.safari.jokers.text_4"><![CDATA[Mutta nyt asiaan: Ryömitkö vain kohti tavoitettasi askel askeleelta? Etkö ole tarpeeksi nopea?<br /><br />Käytä sitten jokeria: Hän merkitsee sinulle 3 korttia, joiden joukossa voi olla piilossa etsimäsi eläin, mutta myös ansa.<br /><br />Eläin vai ansa... Nopeasti, katso!]]></item>
+    </category>
+    <category name="zoo.safari.tooltip">
+      <item name="zoo.safari.tooltip.cantStartSafari"><![CDATA[Voit aloittaa safarisi, kun olet saavuttanut tason 7]]></item>
+      <item name="zoo.safari.tooltip.startSafari"><![CDATA[Hyppää jeeppiin: Aloita safari napsauttamalla tästä!]]></item>
+      <item name="zoo.safari.tooltip.backToZoo"><![CDATA[Takaisin eläintarhaan]]></item>
+      <item name="zoo.safari.tooltip.regionSmall"><![CDATA[Pieni]]></item>
+      <item name="zoo.safari.tooltip.regionMedium"><![CDATA[Keskikokoinen]]></item>
+      <item name="zoo.safari.tooltip.regionLarge"><![CDATA[Iso]]></item>
+      <item name="zoo.safari.tooltip.skipTimerInShop"><![CDATA[Saat tietyn määrän bensiinikanistereita joka päivä.<br/> Haluatko lisää nyt? Lyhennä odotusaikaasi zoodollareilla!]]></item>
+      <item name="zoo.safari.tooltip.buyGasInMinigame"><![CDATA[Klikkaa tästä ostaaksesi lisää bensiiniä.]]></item>
+      <item name="zoo.safari.tooltip.regeonLevelRequared"><![CDATA[Tämä alue on käytettävissä, kun olet saavuttanut tason %regionLevel%.]]></item>
+    </category>
+    <category name="zoo.safari.button">
+      <item name="zoo.safari.button.startSafari"><![CDATA[Aloita safari]]></item>
+      <item name="zoo.safari.button.endSafari"><![CDATA[Viimeistele safari]]></item>
+      <item name="zoo.safari.button.activate"><![CDATA[Aktivoida]]></item>
+      <item name="zoo.safari.button.use"><![CDATA[Ota käyttöön]]></item>
+    </category>
+  </category>
+</language>

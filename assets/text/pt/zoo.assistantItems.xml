@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Zelador Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley vai manter todos os recintos impecavelmente limpos. Seu truque é envolver os animais, transformando a limpeza em uma brincadeira divertida.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Goleira Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[A tratadora Sonja sabe cuidar perfeitamente dos animais. Só ela consegue abraçar todos os animais ao mesmo tempo.]]></item>
+  </category>
+</language>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Som na ceste do rezervácie, kde chcú zvýšiť populáciu - %species%. Môžete mi pomôcť? Požičiam vám pár - %species% na 120 hodín. Za %amount% z %species% mláďat dostanete jedného dospelého jedinca.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Požičajte si pár]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Anakonda]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Skvelé! Teraz máš v inventári aspoň 5 mláďat. Rýchlo ich so mnou vymeň za jedného dospelého orangutana!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Skvelé! Veľmi si mi pomohol! Teraz vezmem mláďatá do rezervácie a tam ich vypustím do voľnej prírody. Ďakujem veľmi pekne a uvidíme sa nabudúce!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[Zvierací mobil sa vracia do rezervácie a prináša so sebou dve zvieratá, ktoré ste si požičali. Novonarodené mláďatá nájdete vo svojom inventári.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Na výmenu mláďat vám zostáva %count% hodín.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Mláďatá orangutanov vo vašom inventári]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Presuňte mláďatá orangutana do inventára.]]></item>
+    </category>
+  </category>
+</language>

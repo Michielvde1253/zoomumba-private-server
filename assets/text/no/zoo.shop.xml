@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop">
+    <category name="zoo.shop.category">
+      <item name="zoo.shop.category.animals"><![CDATA[Dyr]]></item>
+      <item name="zoo.shop.category.cages"><![CDATA[Habitater]]></item>
+      <item name="zoo.shop.category.stores"><![CDATA[Bygninger]]></item>
+      <item name="zoo.shop.category.deco"><![CDATA[Dekorasjoner]]></item>
+      <item name="zoo.shop.category.resources"><![CDATA[Mate]]></item>
+      <item name="zoo.shop.category.assistants"><![CDATA[Assistenter]]></item>
+      <item name="zoo.shop.category.specials"><![CDATA[Tilbehør]]></item>
+      <item name="zoo.shop.category.roads"><![CDATA[Veier]]></item>
+      <item name="zoo.shop.category.material"><![CDATA[Materiale]]></item>
+    </category>
+    <category name="zoo.shop.tabbar">
+      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Slik kommer du deg til verkstedet.]]></item>
+    </category>
+  </category>
+</language>

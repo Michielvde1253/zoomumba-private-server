@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.slayer">
+    <category name="zoo.slayer.friends">
+      <item name="zoo.slayer.friends.title"><![CDATA[Vänner]]></item>
+      <item name="zoo.slayer.friends.message"><![CDATA[Skicka ett meddelande till den här vännen]]></item>
+      <item name="zoo.slayer.friends.delete"><![CDATA[Är du säker på att du vill ta bort den här spelaren från din vänlista?]]></item>
+      <item name="zoo.slayer.friends.visit"><![CDATA[Besök din väns zoo.]]></item>
+      <item name="zoo.slayer.friends.empty"><![CDATA[Helt ensam? Varför inte snabbt bjuda in några vänner att spela tillsammans? Fler människor betyder roligare!]]></item>
+    </category>
+    <category name="zoo.slayer.receivedInvites">
+      <item name="zoo.slayer.receivedInvites.title"><![CDATA[Mottagna vänförfrågningar]]></item>
+      <item name="zoo.slayer.receivedInvites.accept"><![CDATA[Acceptera vänförfrågan]]></item>
+      <item name="zoo.slayer.receivedInvites.deny"><![CDATA[Avböj vänförfrågan]]></item>
+      <item name="zoo.slayer.receivedInvites.empty"><![CDATA[Tyvärr har du inga nya vänförfrågningar.]]></item>
+    </category>
+    <category name="zoo.slayer.sentInvites">
+      <item name="zoo.slayer.sentInvites.title"><![CDATA[Skickade vänförfrågningar]]></item>
+      <item name="zoo.slayer.sentInvites.empty"><![CDATA[Du har inte skickat några vänförfrågningar.]]></item>
+    </category>
+    <category name="zoo.slayer.add">
+      <item name="zoo.slayer.add.title"><![CDATA[Bjud in vänner]]></item>
+      <item name="zoo.slayer.add.requested"><![CDATA[Bra! Du har skickat din vänförfrågan till användaren %useName%.]]></item>
+      <item name="zoo.slayer.add.text"><![CDATA[Vill du inte spela ZooMumba ensam längre och hellre njuta av det med andra? Bjud in dina vänner!]]></item>
+      <item name="zoo.slayer.add.byName"><![CDATA[Bjud in vänner att spela ZooMumba!]]></item>
+      <item name="zoo.slayer.add.byName.message"><![CDATA[Ange dina vänners användarnamn för att skicka en vänskapsförfrågan.]]></item>
+      <item name="zoo.slayer.add.duplicated.message"><![CDATA[Vi hittade mer än ett användarnamn under sökningen. Välj din vän från listan:]]></item>
+      <item name="zoo.slayer.add.self"><![CDATA[Du kan inte lägga till dig själv i din egen vänlista!]]></item>
+      <item name="zoo.slayer.add.byMail"><![CDATA[Bjud in vänner via e-post.]]></item>
+      <item name="zoo.slayer.add.byFB"><![CDATA[Bjud in vänner via Facebook.]]></item>
+      <item name="zoo.slayer.add.button"><![CDATA[Bjuda]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.confirmation">
+    <item name="zoo.window.confirmation.closegame.title"><![CDATA[Vége a játéknak]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[Ez az állatkert még nem érhető el. Feloldhatod, ha eléred a %level% szintű bővítéseket a következő állatkertben: %zooName%. Vagy azonnal feloldhatod %zooDollar% állatkertdollárért.]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[Az állatkert feloldásához %level%. szinten kell lenned, vagy azonnal feloldhatod %zooDollar% állatkert dollárért.]]></item>
+    <item name="zoo.window.confirmation.map.level"><![CDATA[%level%. szinten kell lenned az állatkert feloldásához.]]></item>
+    <item name="zoo.window.confirmation.map.buy"><![CDATA[Szeretnél vásárolni egy állatkerti kiegészítőt?]]></item>
+    <item name="zoo.window.confirmation.title.buy"><![CDATA[Vétel]]></item>
+    <item name="zoo.window.confirmation.closegame.info"><![CDATA[Tényleg ki akarsz lépni a ZooMumba oldalról?]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.title"><![CDATA[Vásároljon tételeket]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.info"><![CDATA[Biztosan meg szeretnéd venni ezt a terméket?]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.title"><![CDATA[Vásárlás lépés]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.info"><![CDATA[Zoodollarsért akarod ezt a lépést megtenni?]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.title"><![CDATA[Elad]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Biztosan eladni szeretné ezt a terméket?]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[Figyelmeztetés]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[Ha a bekerített területet a leltárodba helyezed, elveszíti az akciófejlesztését.<br><br>Folytatod?]]></item>
+    <category name="zoo.window.confirmation.gift">
+      <item name="zoo.window.confirmation.gift.title"><![CDATA[Figyelem!]]></item>
+      <item name="zoo.window.confirmation.gift.info"><![CDATA[Még nem választottad ki az 5 barátodat! Ha folytatod, az ajándékaid elvesznek. Kár lenne... Folytatod még?]]></item>
+    </category>
+  </category>
+</language>

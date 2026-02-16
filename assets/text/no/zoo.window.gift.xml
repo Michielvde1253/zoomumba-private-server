@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.gift">
+    <category name="zoo.window.gift.superFeedPack">
+      <item name="zoo.window.gift.superFeedPack.info"><![CDATA[Dagens tilbud - supermatpakker! Velg mellom 3 alternativer: «God start», «Master» og «Ekspert». Som ekspert kan du sende ekstra gaver til dine 5 venner. Ikke nøl!]]></item>
+    </category>
+    <category name="zoo.window.gift.recipients">
+      <item name="zoo.window.gift.recipients.headerGift"><![CDATA[Gave]]></item>
+      <item name="zoo.window.gift.recipients.headerUsername"><![CDATA[Spillernavn]]></item>
+      <item name="zoo.window.gift.recipients.headerUserID"><![CDATA[Spiller-ID]]></item>
+      <item name="zoo.window.gift.recipients.info"><![CDATA[Velg 5 venner og send en gave til hver av dem:]]></item>
+      <item name="zoo.window.gift.recipients.button.send"><![CDATA[Gave]]></item>
+    </category>
+    <category name="zoo.window.gift.unwrapped">
+      <item name="zoo.window.gift.unwrapped.title"><![CDATA[Det blir en overraskelse!]]></item>
+      <item name="zoo.window.gift.unwrapped.text.1"><![CDATA[Du har mottatt følgende gave:]]></item>
+      <item name="zoo.window.gift.unwrapped.text.2"><![CDATA[Gaven din vil bli belastet kontoen din umiddelbart etter utpakking.]]></item>
+    </category>
+  </category>
+</language>

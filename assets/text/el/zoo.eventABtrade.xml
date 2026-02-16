@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventABtrade">
+    <category name="zoo.eventABtrade.button">
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Ανταλλαγή]]></item>
+    </category>
+    <category name="zoo.eventABtrade.layer">
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Γεια σας, είμαι ο Λούκας, ο διευθυντής του ζωολογικού κήπου στη γειτονική πόλη. Άκουσα ότι η ζωοτροφή σας, η Σόνα Σταροστλίβα, αναπαράγει νέα είδη ζώων που με ενδιαφέρουν πολύ. Για κάθε αρσενικό του είδους %priceSpecies%, θα σας δίνω ένα αρσενικό του είδους %rewardSpecies% ή ένα θηλυκό για ένα θηλυκό. Κατά τη διάρκεια της παρουσίας μου, ο χρόνος επώασης του είδους σας %priceGenus%s θα μειωθεί από 20 σε 2 ώρες! Λοιπόν, είστε μέσα;]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Τώρα επιστρέφω στον ζωολογικό κήπο μου. Ευχαριστώ πολύ και ελπίζω να σας ξαναδώ σύντομα!]]></item>
+    </category>
+  </category>
+</language>

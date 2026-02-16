@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.buyassistance">
+    <item name="zoo.window.buyassistance.title"><![CDATA[Yardım]]></item>
+    <item name="zoo.window.buyassistance.info"><![CDATA[Temizlikçi ile olan iş sözleşmeniz sona ermiştir.<br>Slávko'yu tekrar işe almak ister misiniz?]]></item>
+    <item name="zoo.window.buyassistance.empty"><![CDATA[#VALUE!]]></item>
+  </category>
+</language>

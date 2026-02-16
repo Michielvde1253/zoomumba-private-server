@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.animalbreed">
+    <item name="zoo.window.animalbreed.title"><![CDATA[Животноводство]]></item>
+    <item name="zoo.window.animalbreed.info"><![CDATA[Выращивайте милых малышей!\nПри небольшой удаче ваш зоопарк с радостью примет новых обитателей.]]></item>
+    <item name="zoo.window.animalbreed.breedtitle"><![CDATA[Стандартное воспроизведение]]></item>
+    <item name="zoo.window.animalbreed.breedinfo"><![CDATA[Возможные потомки для:]]></item>
+    <item name="zoo.window.animalbreed.button.startbreeding"><![CDATA[Начинать]]></item>
+    <item name="zoo.window.animalbreed.babytitle"><![CDATA[Принятие]]></item>
+    <item name="zoo.window.animalbreed.babyinfo"><![CDATA[Немедленно заведите ребенка:]]></item>
+    <item name="zoo.window.animalbreed.button.buydirectly"><![CDATA[Купить сейчас]]></item>
+    <item name="zoo.window.animalbreed.button.breedstart"><![CDATA[Начинать]]></item>
+    <item name="zoo.window.animalbreed.success.title"><![CDATA[Молодой]]></item>
+    <item name="zoo.window.animalbreed.success.info"><![CDATA[Ура! Поздравляем! В вашем зоопарке появилось очаровательное новое животное!]]></item>
+    <item name="zoo.window.animalbreed.failed.title"><![CDATA[Без повышения]]></item>
+    <item name="zoo.window.animalbreed.failed.info"><![CDATA[Жаль, на этот раз вам придётся подождать нового добавления.<br><br>Хотите попробовать ещё раз?<br><br>Удачи!]]></item>
+  </category>
+</language>

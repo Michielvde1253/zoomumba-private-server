@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Hei, jeg heter Tina, og jeg tar meg av ungene dine. De vokser opp til å bli voksne i dyrehagen min. Velg ungen du vil oppfostre fra inventaret ditt.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Klar til å vokse]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Det er her ungen vokser opp.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Ungen din har vokst opp!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Hev]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Bruk essens]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Hev umiddelbart]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Dyreavl]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Gjenværende tid:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Hev umiddelbart]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Før du vet ordet av det, er den lille voksen!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Vekstdrikk reduserer avlstiden med 50 %.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Jippi! Denne babyen har vokst opp og blitt flyttet til inventaret ditt:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Tilsyn: En baby vokser her! Hvis du flytter barnerommet til inventaret, vil prosessen bli avbrutt. Er du sikker på at du vil flytte det nå?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Til info: En baby vokser her! Hvis du selger barnerommet nå, vil prosessen bli avbrutt. Er du sikker på at du vil selge det nå?]]></item>
+    </category>
+  </category>
+</language>

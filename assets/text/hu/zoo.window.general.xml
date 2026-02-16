@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.general">
+    <item name="zoo.window.general.error"><![CDATA[Hiba]]></item>
+    <item name="zoo.window.general.petPenny_singular"><![CDATA[Zoogros]]></item>
+    <item name="zoo.window.general.petPenny_plural"><![CDATA[Zoogros]]></item>
+    <item name="zoo.window.general.petPaw_singular"><![CDATA[Mancs]]></item>
+    <item name="zoo.window.general.petPaw_plural"><![CDATA[Mancs]]></item>
+    <item name="zoo.window.general.zooDollar_singular"><![CDATA[Zoodollar]]></item>
+    <item name="zoo.window.general.zooDollar_plural"><![CDATA[Zoodollars]]></item>
+    <item name="zoo.window.general.xp_singular"><![CDATA[Tapasztalati pont]]></item>
+    <item name="zoo.window.general.xp_plural"><![CDATA[Tapasztalati pontok]]></item>
+    <item name="zoo.window.general.attractivity_singular"><![CDATA[Vonzerő]]></item>
+    <item name="zoo.window.general.start"><![CDATA[Indul]]></item>
+    <item name="zoo.window.general.skip"><![CDATA[Kihagyás]]></item>
+    <item name="zoo.window.general.next"><![CDATA[Más]]></item>
+    <item name="zoo.window.general.prev"><![CDATA[Vissza]]></item>
+    <item name="zoo.window.general.first"><![CDATA[Első]]></item>
+    <item name="zoo.window.general.last"><![CDATA[Utolsó]]></item>
+    <item name="zoo.window.general.congrats"><![CDATA[Szívből gratulálok!]]></item>
+    <item name="zoo.window.general.specialOffer"><![CDATA[Akció!]]></item>
+    <item name="zoo.window.general.attention"><![CDATA[Figyelem!]]></item>
+    <item name="zoo.window.general.sorry"><![CDATA[Elnézést kérünk.]]></item>
+    <item name="zoo.window.general.goodbye"><![CDATA[Búcsú!]]></item>
+    <item name="zoo.window.general.thankyou"><![CDATA[Köszönöm!]]></item>
+    <item name="zoo.window.general.second"><![CDATA[másodperc]]></item>
+    <item name="zoo.window.general.seconds"><![CDATA[másodperc]]></item>
+    <item name="zoo.window.general.minute"><![CDATA[perc]]></item>
+    <item name="zoo.window.general.minutes"><![CDATA[perc]]></item>
+    <item name="zoo.window.general.hour"><![CDATA[óra]]></item>
+    <item name="zoo.window.general.hours"><![CDATA[órák]]></item>
+    <item name="zoo.window.general.day"><![CDATA[nap]]></item>
+    <item name="zoo.window.general.days"><![CDATA[napok]]></item>
+    <item name="zoo.window.general.week"><![CDATA[Hét]]></item>
+    <item name="zoo.window.general.weeks"><![CDATA[hetek]]></item>
+    <item name="zoo.window.general.month"><![CDATA[hónap]]></item>
+    <item name="zoo.window.general.months"><![CDATA[hónapok]]></item>
+    <item name="zoo.window.general.year"><![CDATA[év]]></item>
+    <item name="zoo.window.general.years"><![CDATA[repülési]]></item>
+  </category>
+</language>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.cinema">
+    <category name="zoo.cinema.layer">
+      <item name="zoo.cinema.layer.intro"><![CDATA[Nézz filmeket, és kapj érte nagy jutalmat?<br /><br />Ez csak a mi moziban lehetséges! Nézz meg akár 3 klipet naponta, és mindegyikért kapsz jutalmat. A jutalom megszerzéséhez a klipet a végéig kell megnézned.<br /><br />Egyszerűen kattints a "Film indítása" gombra, és máris kezdődhet a műsor!<br /><br />Jó szórakozást!]]></item>
+      <item name="zoo.cinema.layer.selectReward"><![CDATA[Szerezd meg a jutalmad!]]></item>
+      <item name="zoo.cinema.layer.play"><![CDATA[Indítsd el a filmet!]]></item>
+      <item name="zoo.cinema.layer.noVideo"><![CDATA[Jelenleg nincsenek elérhető videók.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.settings">
+    <item name="zoo.window.settings.info"><![CDATA[Γεια σου, διευθυντή ζωολογικού κήπου!<br>Εδώ μπορείς να προσαρμόσεις το ZooMumba σύμφωνα με τις προτιμήσεις σου! Απόκτησε το παιχνίδι που σου αρέσει περισσότερο!]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[επί]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[μακριά από]]></item>
+    <item name="zoo.window.settings.quality.low"><![CDATA[χαμηλός]]></item>
+    <item name="zoo.window.settings.quality.middle"><![CDATA[μέσον]]></item>
+    <item name="zoo.window.settings.quality.high"><![CDATA[ψηλά]]></item>
+    <item name="zoo.window.settings.quality.title"><![CDATA[Γραφικές τέχνες]]></item>
+    <item name="zoo.window.settings.quality.info"><![CDATA[Ποιότητα]]></item>
+    <item name="zoo.window.settings.account.title"><![CDATA[Επεξεργασία λογαριασμού]]></item>
+    <item name="zoo.window.settings.account.info"><![CDATA[Εδώ μπορείτε να επεξεργαστείτε τα στοιχεία του λογαριασμού παιχνιδιού σας, όπως τη διεύθυνση email σας.]]></item>
+    <item name="zoo.window.settings.title.tooltipps"><![CDATA[Συμβουλές εργαλείων]]></item>
+    <item name="zoo.window.settings.title.visitors"><![CDATA[Επισκέπτες]]></item>
+    <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Επιθυμίες των επισκεπτών]]></item>
+    <item name="zoo.window.settings.title.sound"><![CDATA[Ήχος]]></item>
+    <item name="zoo.window.settings.title.sound.background"><![CDATA[Μουσική]]></item>
+    <item name="zoo.window.settings.title.sound.effects"><![CDATA[Ηχητικά εφφέ]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[να προσαρμόσω]]></item>
+    <item name="zoo.window.settings.tab.account"><![CDATA[λογαριασμός]]></item>
+    <item name="zoo.window.settings.tab.config"><![CDATA[Διαμόρφωση]]></item>
+    <item name="zoo.window.settings.tab.buildings"><![CDATA[Κύριο κτίριο]]></item>
+    <item name="zoo.window.settings.buildings.info"><![CDATA[Διάλεξε το κτίριο εισόδου του ζωολογικού κήπου ανάλογα με το γούστο σου. Έχεις διαθέσιμα τα κύρια κτίρια ανάλογα με το επίπεδό σου.<br>Με αυτόν τον τρόπο, ο ζωολογικός σου κήπος θα είναι όλο και πιο προσαρμοσμένος στις ανάγκες σου!]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Εμψύχωση]]></item>
+    <item name="zoo.window.settings.anim.info"><![CDATA[Αριθμός κινούμενων σχεδίων ζώων]]></item>
+    <item name="zoo.window.settings.saveAssets"><![CDATA[ενδιάμεση μνήμη]]></item>
+  </category>
+</language>

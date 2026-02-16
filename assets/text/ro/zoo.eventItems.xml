@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Halloween]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Dovleci sculptați înfricoșător, numiți Jack-o'-lanterns, strălucesc în întunericul nopții de Halloween. Grimasa lui hidoasă este făcută și mai terifiantă de lumina pâlpâitoare a lumânărilor. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[Brad de Crăciun]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[Un brad subțire a crescut...! Un brad împodobit festiv, complet cu cadouri de Crăciun.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Inimă]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Adu-ți noroc! Oamenii din multe țări cred că dacă sărută un coșar de Ziua Îndrăgostiților, le va aduce mult noroc!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Tort de ziua de naștere]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Poftă bună! Ce ar fi o zi de naștere fără o gustare calorică?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Tort de ziua de naștere]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Poftă bună! Ce ar fi o zi de naștere fără această delicatesă calorică?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[grămadă de ouă de Paște]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[O frumoasă colecție de ouă de Paște. În trecut se foloseau ouă de găină pictate. În zilele noastre, ouăle de ciocolată sunt mai comune.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Ouă curcubeu]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Ouă de Paște special adaptate pentru copiii cu deficiențe de vedere, pentru a participa la vânătoarea de Paște. Ouăle bipăie sau cântă o melodie.]]></item>
+  </category>
+</language>

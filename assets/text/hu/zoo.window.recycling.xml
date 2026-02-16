@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.recycling">
+    <item name="zoo.window.recycling.title"><![CDATA[Újrafeldolgozás]]></item>
+    <item name="zoo.window.recycling.info"><![CDATA[A hulladékban rengeteg nyersanyagot találsz, amelyeket újrahasznosíthatsz és értékes anyagokat állíthatsz elő.]]></item>
+    <item name="zoo.window.recycling.storage.info"><![CDATA[Raktárkapacitása: %count% <br> a teljes kapacitás %maxcount%-ából]]></item>
+    <item name="zoo.window.recycling.produce.text"><![CDATA[Készíts nyersanyagokat összegyűjtött hulladékból. Az anyagok elkészítéséhez szükséges idő a bal oldalon látható. Alább láthatod a szükséges hulladék mennyiségét és a zoogrok számát. Válaszd ki, hogy hány nyersanyagot szeretnél elkészíteni. Minden alkalommal, amikor elkészítesz valamit, lehetőséged van ritka nyersanyagot szerezni. Ezt az esélyt a szuper szűrő használatával növelheted.]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertitle"><![CDATA[Szuper szűrő]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertext"><![CDATA[Növeld meg az esélyedet egy ritka erőforrás megszerzésére %percent%%-kal]]></item>
+    <item name="zoo.window.recycling.produce.rarechancetext"><![CDATA[Ritka nyersanyag megszerzésének esélye: %percent%%]]></item>
+    <item name="zoo.window.recycling.produce.startrecycle"><![CDATA[Újrahasznosítás megkezdése]]></item>
+    <item name="zoo.window.recycling.produce.insertfilter"><![CDATA[Szűrő alkalmazása]]></item>
+    <item name="zoo.window.recycling.produce.deletefilter"><![CDATA[Szűrő eltávolítása]]></item>
+    <item name="zoo.window.recycling.card.create"><![CDATA[Gyártás]]></item>
+    <category name="zoo.window.recycling.slot">
+      <item name="zoo.window.recycling.slot.title.buy"><![CDATA[Béreljen most]]></item>
+      <item name="zoo.window.recycling.slot.title.chooseItem"><![CDATA[Elérhető]]></item>
+      <item name="zoo.window.recycling.slot.button.processfinished"><![CDATA[Felvétel]]></item>
+      <item name="zoo.window.recycling.slot.button.start"><![CDATA[Indul]]></item>
+      <item name="zoo.window.recycling.slot.button.chooseItem"><![CDATA[Válasszon]]></item>
+    </category>
+    <category name="zoo.window.recycling.info">
+      <item name="zoo.window.recycling.info.switchInfo"><![CDATA[Használja ezt az anyagot a következő tárgyak elkészítéséhez:]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[Buon Natale!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[Dal 21 dicembre al 2 gennaio, tutto nel tuo zoo ruota attorno al Natale! Decora il tuo albero di Natale e aiutami a salvare il Natale!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Per prima cosa alleva 8 renne volanti e poi una slitta di Babbo Natale, Rudolph. Per ogni renna che gli porterai, riceverai un regalo.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Di tanto in tanto, Babbo Natale ti regalerà anche una decorazione per il tuo albero di Natale. Alla fine, potrai tenere il tuo albero decorato.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Evviva, anche qui abbiamo una collezione natalizia speciale! Prenditi cura dei tuoi animali e colleziona oggetti natalizi. Puoi anche usarli per allevare le renne!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Grandi sorprese nel negozio di Natale]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Trasforma il tuo zoo in un colorato mondo invernale: con tante nuove e popolari decorazioni natalizie.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Buon Natale e buon divertimento all'evento natalizio!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[È terribile! Le renne di Babbo Natale sono scappate e ora non può consegnare i regali! Portategli 8 renne volanti e Rudolph di Babbo Natale e posizionateli davanti alla sua slitta. Come ringraziamento, riceverete fantastici regali!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Babbo Natale è in viaggio verso:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Hai vinto:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Guarda il tuo albero di Natale nel parcheggio!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Ottieni un nuovo vestito per il tuo avatar!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Presto, dai un'occhiata al tuo inventario!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Grazie!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Le tue renne non vedono l'ora di mettersi in viaggio. Grazie a te, il Natale è salvo!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Grazie!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Mancano ancora alcune delle mie renne, ma è ora di partire! Non preoccupatevi, troverò una soluzione: dopotutto, sono Babbo Natale!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[L'albero di Natale decorato del tuo parcheggio è ora nel tuo inventario.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Per prima cosa, portiamo 8 renne magiche a Babbo Natale.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Babbo Natale ha già 8 renne volanti e tutto ciò di cui ha bisogno è il suo Rudolph!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[decorazione natalizia]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Vestibilità natalizia]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Coppia di gufi delle nevi]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Numero di renne magiche maschili nel tuo inventario.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Il numero di renne volanti femmine nel tuo inventario.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Prima di portare a Babbo Natale il suo Rudolph, gli servono 8 renne volanti.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Il numero di Babbo Natale Rudolph maschi nel tuo inventario.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Il numero di Babbo Natale Rudolph femmine nel tuo inventario.]]></item>
+    </category>
+  </category>
+</language>

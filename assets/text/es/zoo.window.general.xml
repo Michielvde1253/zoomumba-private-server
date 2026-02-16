@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.general">
+    <item name="zoo.window.general.error"><![CDATA[Error]]></item>
+    <item name="zoo.window.general.petPenny_singular"><![CDATA[Zoogros]]></item>
+    <item name="zoo.window.general.petPenny_plural"><![CDATA[Zoogros]]></item>
+    <item name="zoo.window.general.petPaw_singular"><![CDATA[Pata]]></item>
+    <item name="zoo.window.general.petPaw_plural"><![CDATA[Pata]]></item>
+    <item name="zoo.window.general.zooDollar_singular"><![CDATA[Zoodólar]]></item>
+    <item name="zoo.window.general.zooDollar_plural"><![CDATA[Zoodólares]]></item>
+    <item name="zoo.window.general.xp_singular"><![CDATA[Punto de experiencia]]></item>
+    <item name="zoo.window.general.xp_plural"><![CDATA[Puntos de experiencia]]></item>
+    <item name="zoo.window.general.attractivity_singular"><![CDATA[Atractivo]]></item>
+    <item name="zoo.window.general.start"><![CDATA[Comenzar]]></item>
+    <item name="zoo.window.general.skip"><![CDATA[Saltar]]></item>
+    <item name="zoo.window.general.next"><![CDATA[Otro]]></item>
+    <item name="zoo.window.general.prev"><![CDATA[Atrás]]></item>
+    <item name="zoo.window.general.first"><![CDATA[Primero]]></item>
+    <item name="zoo.window.general.last"><![CDATA[Último]]></item>
+    <item name="zoo.window.general.congrats"><![CDATA[¡Mis más sinceras felicitaciones!]]></item>
+    <item name="zoo.window.general.specialOffer"><![CDATA[¡Acción!]]></item>
+    <item name="zoo.window.general.attention"><![CDATA[¡Atención!]]></item>
+    <item name="zoo.window.general.sorry"><![CDATA[Nos disculpamos.]]></item>
+    <item name="zoo.window.general.goodbye"><![CDATA[¡Adiós!]]></item>
+    <item name="zoo.window.general.thankyou"><![CDATA[¡Gracias!]]></item>
+    <item name="zoo.window.general.second"><![CDATA[segundo]]></item>
+    <item name="zoo.window.general.seconds"><![CDATA[artículos de segunda clase]]></item>
+    <item name="zoo.window.general.minute"><![CDATA[minuto]]></item>
+    <item name="zoo.window.general.minutes"><![CDATA[mín.]]></item>
+    <item name="zoo.window.general.hour"><![CDATA[hora]]></item>
+    <item name="zoo.window.general.hours"><![CDATA[horas]]></item>
+    <item name="zoo.window.general.day"><![CDATA[día]]></item>
+    <item name="zoo.window.general.days"><![CDATA[días]]></item>
+    <item name="zoo.window.general.week"><![CDATA[Semana]]></item>
+    <item name="zoo.window.general.weeks"><![CDATA[semanas]]></item>
+    <item name="zoo.window.general.month"><![CDATA[mes]]></item>
+    <item name="zoo.window.general.months"><![CDATA[meses]]></item>
+    <item name="zoo.window.general.year"><![CDATA[año]]></item>
+    <item name="zoo.window.general.years"><![CDATA[vuelo]]></item>
+  </category>
+</language>

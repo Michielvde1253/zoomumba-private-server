@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.recycling">
+    <item name="zoo.window.recycling.title"><![CDATA[Kierrätys]]></item>
+    <item name="zoo.window.recycling.info"><![CDATA[Jätteestä löydät paljon raaka-aineita, joita voit kierrättää ja tuottaa arvokkaita materiaaleja.]]></item>
+    <item name="zoo.window.recycling.storage.info"><![CDATA[Varastokapasiteettisi: %count% <br> kokonaiskapasiteetista %maxcount%]]></item>
+    <item name="zoo.window.recycling.produce.text"><![CDATA[Valmista resursseja kerätystä jätteestä. Näiden materiaalien valmistamiseen kuluva aika näkyy vasemmalla. Alla näet tarvittavan jätteen määrän ja zoogron lukumäärän. Valitse, kuinka monta resurssia haluat valmistaa. Joka kerta kun valmistat jotain, sinulla on mahdollisuus saada harvinainen resurssi. Voit lisätä tätä mahdollisuutta käyttämällä supersuodatinta.]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertitle"><![CDATA[Supersuodatin]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertext"><![CDATA[Lisää harvinaisen resurssin hankkimisen mahdollisuuksiasi %percent%%]]></item>
+    <item name="zoo.window.recycling.produce.rarechancetext"><![CDATA[Harvinaisen resurssin hankkimisen todennäköisyys: %percent%%]]></item>
+    <item name="zoo.window.recycling.produce.startrecycle"><![CDATA[Aloita kierrätys]]></item>
+    <item name="zoo.window.recycling.produce.insertfilter"><![CDATA[Käytä suodatinta]]></item>
+    <item name="zoo.window.recycling.produce.deletefilter"><![CDATA[Poista suodatin]]></item>
+    <item name="zoo.window.recycling.card.create"><![CDATA[Tehdä]]></item>
+    <category name="zoo.window.recycling.slot">
+      <item name="zoo.window.recycling.slot.title.buy"><![CDATA[Vuokraa nyt]]></item>
+      <item name="zoo.window.recycling.slot.title.chooseItem"><![CDATA[Saatavilla]]></item>
+      <item name="zoo.window.recycling.slot.button.processfinished"><![CDATA[Poimia]]></item>
+      <item name="zoo.window.recycling.slot.button.start"><![CDATA[Aloita]]></item>
+      <item name="zoo.window.recycling.slot.button.chooseItem"><![CDATA[Valita]]></item>
+    </category>
+    <category name="zoo.window.recycling.info">
+      <item name="zoo.window.recycling.info.switchInfo"><![CDATA[Käytä tätä materiaalia seuraavien esineiden valmistukseen:]]></item>
+    </category>
+  </category>
+</language>

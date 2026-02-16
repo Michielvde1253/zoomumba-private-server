@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.minitutorial">
+    <item name="zoo.window.minitutorial.title"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.minitutorial.infopage.1"><![CDATA[Willkommen bei ZooMumba, deinem verrückten Zoo-Abenteuer! Ich heiße Sonja und erkläre dir Schritt für Schritt, wie das Spiel funktioniert.<br><br>Im Shop kannst du verschiedene Tiergehege kaufen und sie auf deinem Zoogelände platzieren.]]></item>
+    <item name="zoo.window.minitutorial.infopage.2"><![CDATA[Klicken Sie auf das Gehege und kaufen Sie ein Tier. Achten Sie darauf, ob Sie ein Männchen oder ein Weibchen kaufen.<br><br> Wenn Sie beide Geschlechter im Gehege haben, können Sie sich bald auf Nachwuchs freuen!]]></item>
+    <item name="zoo.window.minitutorial.infopage.3"><![CDATA[Kümmere dich regelmäßig um deine Tiere, streichle sie und spiele mit ihnen. So werden sie glücklich und zufrieden sein. Probier es aus!]]></item>
+    <item name="zoo.window.minitutorial.infopage.4"><![CDATA[Sie müssen Ihre Gehege, Gebäude und Attraktionen mit Wegen verbinden, die zum Eingang führen, damit die Besucher alles bewundern können.]]></item>
+    <item name="zoo.window.minitutorial.infopage.5"><![CDATA[Im Laden finden Sie Futter und alles, was Ihre Tiere brauchen: Fleisch, Obst, Gras – schauen Sie sich einfach um!]]></item>
+    <item name="zoo.window.minitutorial.infopage.6"><![CDATA[Ab Stufe 2 können Sie außerdem Gebäude und Stände im Shop erwerben und Ihren Zoo so noch attraktiver für Besucher gestalten. <br><br>Die Eintrittsgelder können Sie regelmäßig im Hauptgebäude abholen.]]></item>
+    <item name="zoo.window.minitutorial.infopage.6b"><![CDATA[Du beginnst mit ein paar ZooDollars. Nutze sie, um tolle Tiere und besondere Attraktionen zu erwerben oder Assistenten einzustellen. Diese helfen dir bei der Instandhaltung und Pflege deines Zoos. <br><br>Und falls deine ZooDollars einmal aufgebraucht sind, keine Sorge! Du kannst sie jederzeit in der ZooBank wieder aufladen.]]></item>
+    <item name="zoo.window.minitutorial.infopage.7"><![CDATA[Je mehr Besucher Sie in Ihrem Zoo begrüßen, desto mehr Müll müssen Sie beseitigen. <br><br>Halten Sie Ihren Zoo sauber und sammeln Sie den Müll ein. Ihre Besucher werden es Ihnen danken!]]></item>
+    <item name="zoo.window.minitutorial.infopage.8"><![CDATA[Je zufriedener die Besucher deines Zoos sind, desto höher steigt dein Zoometer. <br><br>Leg los und baue den besten Zoo der Welt – in ZooMumba! Viel Spaß!]]></item>
+  </category>
+</language>

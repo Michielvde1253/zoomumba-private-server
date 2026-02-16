@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advisor">
+    <category name="zoo.advisor.buttons">
+      <item name="zoo.advisor.buttons.1"><![CDATA[Állatfajok]]></item>
+      <item name="zoo.advisor.buttons.2"><![CDATA[Elégedettség]]></item>
+      <item name="zoo.advisor.buttons.3"><![CDATA[Dekoráció]]></item>
+      <item name="zoo.advisor.buttons.4"><![CDATA[Állattenyésztés]]></item>
+      <item name="zoo.advisor.buttons.5"><![CDATA[Szemét]]></item>
+    </category>
+    <category name="zoo.advisor.descriptions">
+      <item name="zoo.advisor.descriptions.1.A"><![CDATA[Remek! Senki sem panaszkodhat az állatkerted változatosságának hiányára. Csak így tovább!]]></item>
+      <item name="zoo.advisor.descriptions.1.B"><![CDATA[A látogatók szeretik, ha az állatkertben sokféle állatot csodálhatnak meg. %currentspecies% különböző fajból van itt, ez rengeteg! Nézd meg a boltot, legalább %missingspecies% további állatot találsz ott.]]></item>
+      <item name="zoo.advisor.descriptions.1.C"><![CDATA[Az állatkertbe látogatók a lehető legtöbb állatot szeretnék látni. De az állatkerted megéri. Jelenleg %currentspecies% állatfajjal rendelkezel. Az állatkereskedésben legalább %missingspecies% további fajt találhatsz.]]></item>
+      <item name="zoo.advisor.descriptions.1.D"><![CDATA[Aki állatkertbe megy, állatokat akar látni! Az állatkertednek lehetne még nagyobb a választéka: Jelenleg %currentspecies% állatfaj van. Az állatkereskedésben legalább %missingspecies% fajjal többet kínálnak.]]></item>
+      <item name="zoo.advisor.descriptions.1.E"><![CDATA[Ó! Nincs sok állatfaj az állatkertedben. A látogatók megcsodálhatnak %currentspecies% fajt, amivel viszonylag gyorsan elboldogulnak. Vásárolj gyorsan legalább %missingspecies% állatot az Állatkerti Boltban.]]></item>
+      <item name="zoo.advisor.descriptions.2.A"><![CDATA[Az állataid teljesen elégedettek. Példás állatkerti igazgató vagy.]]></item>
+      <item name="zoo.advisor.descriptions.2.B"><![CDATA[Nagyon jól gondoskodsz az állataidról, de nézd csak, némelyikük még több figyelmet érdemelne.]]></item>
+      <item name="zoo.advisor.descriptions.2.C"><![CDATA[Ó! Az állataid egy kicsit unatkoznak. Nem szeretnél egy kicsit játszani velük, megetetni vagy vizet adni nekik? Az nagyszerű lenne nekik, és újra nagyon boldogok lennének!]]></item>
+      <item name="zoo.advisor.descriptions.2.D"><![CDATA[Jaj, te jó ég! Szomorúak az állataid, mert nem vigyáztál rájuk. Játssz velük egy kicsit! Egy kis étel és víz is felvidítja őket. Akkor az állatkerted újra ragyogni fog, és elragadtatja a látogatókat!]]></item>
+      <item name="zoo.advisor.descriptions.2.E"><![CDATA[Jaj, ne! Az állataid éhesek és szomjasak! Gyerünk, gondoskodj róluk! Ha megetettük őket és a kifutókat is kitakarítottuk, újra jó móka lesz az állatokkal játszani!]]></item>
+      <item name="zoo.advisor.descriptions.3.A"><![CDATA[Hűha! Gyönyörűen van feldíszítve az állatkerted! Annyi látnivaló van a látogatóknak. Csak így tovább!]]></item>
+      <item name="zoo.advisor.descriptions.3.B"><![CDATA[Remek! Szépen feldíszítetted az állatkerted! Nézd meg az állatkerti boltot: sok más szép és vicces dekorációt találsz ott. A látogatóid imádják a változatosságot!]]></item>
+      <item name="zoo.advisor.descriptions.3.C"><![CDATA[Szép az állatkerted, de ráférne egy kis változatosság! Sok szép és vicces dekorációt találsz az állatkerti boltban.]]></item>
+      <item name="zoo.advisor.descriptions.3.D"><![CDATA[Praktikus és funkcionális, de egy kicsit unalmas. A látogatók értékelni fogják a több dekorációt. Hadd lássa mindenki, hogy többet is mutathatsz!]]></item>
+      <item name="zoo.advisor.descriptions.3.E"><![CDATA[Az állatkertednek több dekorációra lenne szüksége. Lepd meg a látogatóidat új, feltűnő dekorációkkal.]]></item>
+      <item name="zoo.advisor.descriptions.4.A"><![CDATA[Annyi aranyos baba! Tényleg aranykezűek, és az állataidnak annyi utódja van. Nagyszerű!]]></item>
+      <item name="zoo.advisor.descriptions.4.B"><![CDATA[Az állatkert állatbébijeiről szóló miniatűr címsorok vonzzák a látogatókat. De minden állatkerti igazgató mindig keresi a fejlődés lehetőségeit. Nézd csak: Jelenleg %missingbabies%-kal több állatbébit nevelhetsz.]]></item>
+      <item name="zoo.advisor.descriptions.4.C"><![CDATA[Az állatkert új lakóinak híre messzire terjed. A látogatók imádják a kis esetlen kölyköket! Jelenleg %missingbabies%-kal több kölyköt lehet felnevelni.]]></item>
+      <item name="zoo.advisor.descriptions.4.D"><![CDATA[Az állatkertednek több utódra lenne szüksége. Nézd csak: A párok %missingbabies%-a jelenleg utódot keres. Próbálj meg szaporodni!]]></item>
+      <item name="zoo.advisor.descriptions.4.E"><![CDATA[Sok aggodalom övezi az utódokat az állatkertben: a párok %missingbabies%-a jelenleg babát vár. Próbáld meg szaporítani, és örvendeztesd meg a látogatókat esetlen kölykeid látványával.]]></item>
+      <item name="zoo.advisor.descriptions.5.A"><![CDATA[Remek, remekül néz ki az állatkerted! És a látogatók imádják. Csak így tovább!]]></item>
+      <item name="zoo.advisor.descriptions.5.B"><![CDATA[Jól csinálod, de az állatkerted még szebb lenne, ha eltakarítanád a többi szemetet is.]]></item>
+      <item name="zoo.advisor.descriptions.5.C"><![CDATA[Lassan gyűlik a szemét az állatkertedben. Végre takarítsd fel!]]></item>
+      <item name="zoo.advisor.descriptions.5.D"><![CDATA[Sok szemét hever az állatkertedben. Mindenképpen rendet kell raknod és fel kell takarítanod mindent.]]></item>
+      <item name="zoo.advisor.descriptions.5.E"><![CDATA[Az állatkerted fuldoklik a szemétben! Takarítsd el a szeméthegyeket az ösvényekről és ürítsd ki a kukákat.]]></item>
+    </category>
+    <category name="zoo.advisor.help">
+      <item name="zoo.advisor.help.1"><![CDATA[Az „Állatfajok” kategóriában láthatod, hogy minden lehetséges állatfaj képviselve van-e az állatkertedben.]]></item>
+      <item name="zoo.advisor.help.2"><![CDATA[Az „Elégedettség” kategória azt mutatja, hogy az állataid jelenleg mennyire boldogok.]]></item>
+      <item name="zoo.advisor.help.3"><![CDATA[A „Dekoráció” kategóriában láthatod, hogy az állatkerted dekorációi vonzóak-e a látogatók számára.]]></item>
+      <item name="zoo.advisor.help.4"><![CDATA[A látogatók imádják az aranyos babákat! Az „Állattenyésztés” elem megmutatja a tenyésztésed sikerességi szintjét.]]></item>
+      <item name="zoo.advisor.help.5"><![CDATA[A „Szemét” elem megmutatja, hogy az állatkert tiszta-e, vagy a látogatók szeméthegyekben botlanak-e meg.]]></item>
+      <item name="zoo.advisor.help.6"><![CDATA[Az 1-7 gombokkal gyorsabban eljuthatsz a boltba.]]></item>
+      <item name="zoo.advisor.help.7"><![CDATA[Használd a Q, W, E és R betűket tárgyak mozgatásához (W), megfordításához (E), eladásához (R) vagy játékmód váltásához (Q).]]></item>
+      <item name="zoo.advisor.help.8"><![CDATA[Ne felejts el biztonságos jelszót használni, amit senkivel sem osztasz meg!]]></item>
+      <item name="zoo.advisor.help.9"><![CDATA[A játék gyorsabb futtatásához gyengébb számítógépeken be- és kikapcsolhatod a játéktippeket és számos egyéb funkciót, például a látogatókat, a háttéreffektusokat és a hangeffektusokat.]]></item>
+      <item name="zoo.advisor.help.10"><![CDATA[Vásárolj állatkerti dollárokat a bankban. Néha jutalomként kaphatod őket a napi feladatok teljesítéséért. Akkor is megszerezheted őket, ha elég szintet lépsz.]]></item>
+      <item name="zoo.advisor.help.11"><![CDATA[Időről időre bónuszkódokkal kínált promóciók is lesznek, ezért érdemes figyelni a hivatalos bejelentéseket a fórumon.]]></item>
+      <item name="zoo.advisor.help.12"><![CDATA[Az állataid véletlenül is megbetegedhetnek. Minél jobban gondoskodsz róluk, annál tovább maradnak egészségesek. De ha az állatod nem beteg, akkor még injekciót sem adhatsz neki.]]></item>
+      <item name="zoo.advisor.help.13"><![CDATA[Az állataid minden kifutóban remekül érzik magukat. És nem számít, melyikbe teszed őket.]]></item>
+      <item name="zoo.advisor.help.14"><![CDATA[Jelenleg nem helyezhetsz át állatokat más kifutókra.]]></item>
+      <item name="zoo.advisor.help.15"><![CDATA[Ha eladod a kifutót, akkor az abban lévő állatot is eladod.]]></item>
+      <item name="zoo.advisor.help.16"><![CDATA[A játékban kétféle szurikáta van: a normál és a szürke szurikáta, Beda. Beda csak bizonyos események alkalmával jelenik meg, és csak különleges napokon vásárolható meg.]]></item>
+      <item name="zoo.advisor.help.17"><![CDATA[Ha az „örbefogadás zoodollarsért” gombra kattintasz, 100%-ig biztos lehetsz egy új tag érkezésében, és nem kell rá várnod.]]></item>
+      <item name="zoo.advisor.help.18"><![CDATA[Elmentheted a ZooMumba-ismerőseidet a címjegyzékedbe. Sajnos jelenleg nem hívhatsz meg szomszédokat.]]></item>
+      <item name="zoo.advisor.help.19"><![CDATA[Minél több üzleted van, annál több zoogrost keresel.]]></item>
+      <item name="zoo.advisor.help.20"><![CDATA[Nincs időd? Akkor bérelj fel asszisztenseket. Ne feledd, hogy az asszisztensek csak akkor működnek, ha rájuk kattintasz (nem működnek automatikusan).]]></item>
+      <item name="zoo.advisor.help.21"><![CDATA[Ha felveszel egy pénztárost, Kešíket, növelni fogod a bevételedet.]]></item>
+      <item name="zoo.advisor.help.22"><![CDATA[Megéri asszisztenseket használni: több tapasztalati pontot szerezhetsz.]]></item>
+      <item name="zoo.advisor.help.23"><![CDATA[Ha megvannak az összes asszisztensed, aktiválod David képviselőjét – egyetlen kattintással működésbe hozhatja az összes asszisztenst.]]></item>
+      <item name="zoo.advisor.help.24"><![CDATA[Minél több hulladékot szelektálsz az állatkertben, annál kevesebb kerül az utcára.]]></item>
+      <item name="zoo.advisor.help.25"><![CDATA[Vegyél egy azonos fajú hím és nőstény egyedeket, és hamarosan aranyos kicsinyeid lesznek az állatkertben.]]></item>
+      <item name="zoo.advisor.help.26"><![CDATA[A főépületben csak bizonyos összegű belépőpénzt tárolhatsz, ezért gondoskodj róla, hogy rendszeresen begyűjtsd.]]></item>
+      <item name="zoo.advisor.help.27"><![CDATA[Ahhoz, hogy profitot termelj az épületeidből, mindig összeköttetésben kell lenniük egy útvonallal. Hogyan másképp érhetnék el őket a látogatók?]]></item>
+      <item name="zoo.advisor.help.28"><![CDATA[Tartsd nyitva a szemed: Időről időre különleges állatok vagy tárgyak jelennek meg a boltban, amelyeket csak korlátozott ideig vásárolhatsz meg.]]></item>
+      <item name="zoo.advisor.help.29"><![CDATA[Etesd meg állataidat szuperélelmiszerekkel, így tovább maradnak jóllakottak!]]></item>
+      <item name="zoo.advisor.help.30"><![CDATA[Ó! Betegek az állataid? Adj nekik szuper gyógyszereket, és újra olyan egészségesek lesznek, mint a halak!]]></item>
+    </category>
+  </category>
+</language>

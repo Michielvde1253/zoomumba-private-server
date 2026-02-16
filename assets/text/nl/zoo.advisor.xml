@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advisor">
+    <category name="zoo.advisor.buttons">
+      <item name="zoo.advisor.buttons.1"><![CDATA[Diersoorten]]></item>
+      <item name="zoo.advisor.buttons.2"><![CDATA[Tevredenheid]]></item>
+      <item name="zoo.advisor.buttons.3"><![CDATA[Decoratie]]></item>
+      <item name="zoo.advisor.buttons.4"><![CDATA[Dierenfokkerij]]></item>
+      <item name="zoo.advisor.buttons.5"><![CDATA[Afval]]></item>
+    </category>
+    <category name="zoo.advisor.descriptions">
+      <item name="zoo.advisor.descriptions.1.A"><![CDATA[Fantastisch! Niemand kan echt klagen over het gebrek aan variatie in jullie dierentuin. Ga zo door!]]></item>
+      <item name="zoo.advisor.descriptions.1.B"><![CDATA[Bezoekers vinden het fijn als ze in een dierentuin een grote verscheidenheid aan dieren kunnen bewonderen. Jullie hebben %currentspecies% verschillende soorten, dat is een heleboel! Kijk ook eens in de winkel, daar vind je er nog minstens %missingspecies% meer.]]></item>
+      <item name="zoo.advisor.descriptions.1.C"><![CDATA[Dierentuinbezoekers willen zoveel mogelijk dieren zien. Maar jouw dierentuin is het waard. Je bezit momenteel %currentspecies% dieren. Je kunt minstens %missingspecies% meer soorten vinden in de dierenwinkel.]]></item>
+      <item name="zoo.advisor.descriptions.1.D"><![CDATA[Iedereen die naar de dierentuin gaat, wil dieren zien! Jouw dierentuin zou een nog grotere selectie kunnen hebben: Je hebt momenteel %currentspecies% diersoorten. De dierenwinkel biedt er minstens %missingspecies% meer aan.]]></item>
+      <item name="zoo.advisor.descriptions.1.E"><![CDATA[Oeps! Er zijn niet veel diersoorten in je dierentuin. Bezoekers kunnen %currentspecies% soorten bewonderen, die ze vrij snel kunnen bekijken. Koop snel minstens %missingspecies% meer dieren in de dierentuinwinkel.]]></item>
+      <item name="zoo.advisor.descriptions.2.A"><![CDATA[Uw dieren zijn zeer tevreden. U bent een voorbeeldige dierentuindirecteur.]]></item>
+      <item name="zoo.advisor.descriptions.2.B"><![CDATA[Je zorgt heel goed voor je dieren, maar sommige verdienen nog meer aandacht.]]></item>
+      <item name="zoo.advisor.descriptions.2.C"><![CDATA[Oh! Je dieren vervelen zich een beetje. Zou je niet wat met ze willen spelen, ze voeren of water geven? Dat zou geweldig voor ze zijn en ze zouden er weer helemaal blij van worden!]]></item>
+      <item name="zoo.advisor.descriptions.2.D"><![CDATA[O jee! Je dieren zijn verdrietig omdat je niet goed voor ze hebt gezorgd. Speel een beetje met ze! Wat eten en drinken zal ze ook opvrolijken. Dan zal je dierentuin weer stralen en bezoekers verrassen!]]></item>
+      <item name="zoo.advisor.descriptions.2.E"><![CDATA[Oh nee! Je dieren hebben honger en dorst! Kom op, zorg voor ze! Als ze eenmaal gevoerd zijn en de verblijven schoongemaakt zijn, is het weer leuk om met de dieren te spelen!]]></item>
+      <item name="zoo.advisor.descriptions.3.A"><![CDATA[Wauw! Jullie dierentuin is prachtig versierd! Er is zoveel te zien voor de bezoekers. Ga zo door!]]></item>
+      <item name="zoo.advisor.descriptions.3.B"><![CDATA[Geweldig! Je hebt je dierentuin prachtig versierd! Neem eens een kijkje in de dierentuinwinkel: daar vind je nog veel meer leuke en grappige versieringen. Je bezoekers zijn dol op afwisseling!]]></item>
+      <item name="zoo.advisor.descriptions.3.C"><![CDATA[Je dierentuin is leuk, maar er kan nog wel wat veranderd worden! Je vindt allerlei leuke en grappige versieringen in de dierentuinwinkel.]]></item>
+      <item name="zoo.advisor.descriptions.3.D"><![CDATA[Praktisch en functioneel, maar een beetje saai. Meer decoratie zou door bezoekers zeker gewaardeerd worden. Laat iedereen zien dat je meer in huis hebt!]]></item>
+      <item name="zoo.advisor.descriptions.3.E"><![CDATA[Uw dierentuin kan wel wat extra versiering gebruiken. Verras uw bezoekers met nieuwe, opvallende decoraties.]]></item>
+      <item name="zoo.advisor.descriptions.4.A"><![CDATA[Wat een hoop schattige baby'tjes! Je hebt echt gouden handen en je dieren hebben ontzettend veel nakomelingen. Geweldig!]]></item>
+      <item name="zoo.advisor.descriptions.4.B"><![CDATA[Korte, pakkende koppen over de jonge dieren in de dierentuin trekken bezoekers. Maar elke dierentuindirecteur is altijd op zoek naar manieren om te verbeteren. Kijk eens: je kunt momenteel %missingbabies% meer jonge dieren grootbrengen.]]></item>
+      <item name="zoo.advisor.descriptions.4.C"><![CDATA[Het nieuws over de nieuwe aanwinsten van de dierentuin verspreidt zich als een lopende vuurzee. Bezoekers zijn dol op de kleine, onhandige welpjes! Momenteel kun je %missingbabies% meer welpjes fokken.]]></item>
+      <item name="zoo.advisor.descriptions.4.D"><![CDATA[Uw dierentuin kan wel wat extra nakomelingen gebruiken. Kijk eens naar: %missingbabies% van de koppels is momenteel op zoek naar een jong. Probeer te fokken!]]></item>
+      <item name="zoo.advisor.descriptions.4.E"><![CDATA[Er is veel bezorgdheid over uw nakomelingen in uw dierentuin: %vermistebaby's% van de paren verwacht momenteel een jong. Probeer te fokken en uw bezoekers te verrassen met de aanblik van uw onhandige welpen.]]></item>
+      <item name="zoo.advisor.descriptions.5.A"><![CDATA[Fantastisch, je dierentuin ziet er geweldig uit! En de bezoekers vinden het ook geweldig. Ga zo door!]]></item>
+      <item name="zoo.advisor.descriptions.5.B"><![CDATA[Je doet het goed, maar je dierentuin zou nog mooier zijn als je de rest van het afval ook zou opruimen.]]></item>
+      <item name="zoo.advisor.descriptions.5.C"><![CDATA[Het afval in je dierentuin stapelt zich langzaam maar zeker op. Ruim het eindelijk eens op.]]></item>
+      <item name="zoo.advisor.descriptions.5.D"><![CDATA[Er ligt een hoop afval rond in je dierentuin. Je zou echt alles moeten opruimen en schoonmaken.]]></item>
+      <item name="zoo.advisor.descriptions.5.E"><![CDATA[Je dierentuin verdrinkt in afval! Ruim de bergen afval van de paden op en leeg de vuilnisbakken.]]></item>
+    </category>
+    <category name="zoo.advisor.help">
+      <item name="zoo.advisor.help.1"><![CDATA[In de categorie "Diersoorten" kunt u zien of alle mogelijke diersoorten in uw dierentuin vertegenwoordigd zijn.]]></item>
+      <item name="zoo.advisor.help.2"><![CDATA[De categorie "Tevredenheid" geeft aan hoe gelukkig uw dieren momenteel zijn.]]></item>
+      <item name="zoo.advisor.help.3"><![CDATA[In de categorie 'Decoratie' kunt u zien of de decoraties in uw dierentuin aantrekkelijk zijn voor bezoekers.]]></item>
+      <item name="zoo.advisor.help.4"><![CDATA[Bezoekers zijn dol op schattige baby's! Bij "Dieren fokken" kunt u de mate van succes van uw fokprogramma zien.]]></item>
+      <item name="zoo.advisor.help.5"><![CDATA[Het item "Afval" laat je zien of je dierentuin schoon is of dat bezoekers over bergen afval struikelen.]]></item>
+      <item name="zoo.advisor.help.6"><![CDATA[Gebruik de toetsen 1 tot en met 7 om sneller bij de winkel te komen.]]></item>
+      <item name="zoo.advisor.help.7"><![CDATA[Gebruik de letters Q, W, E en R om items te verplaatsen (W), om te draaien (E), te verkopen (R) of de spelmodus te veranderen (Q).]]></item>
+      <item name="zoo.advisor.help.8"><![CDATA[Vergeet niet een veilig wachtwoord te gebruiken dat je met niemand deelt!]]></item>
+      <item name="zoo.advisor.help.9"><![CDATA[Je kunt speltips en diverse andere functies, zoals bezoekers, achtergrondeffecten en geluidseffecten, in- of uitschakelen om het spel sneller te laten draaien op minder krachtige computers.]]></item>
+      <item name="zoo.advisor.help.10"><![CDATA[Koop Zoo Dollars bij de bank. Je kunt ze soms als beloning krijgen voor het voltooien van dagelijkse taken. Je kunt ze ook verdienen door voldoende levels te stijgen.]]></item>
+      <item name="zoo.advisor.help.11"><![CDATA[Er zullen ook regelmatig acties met bonuscodes zijn, dus houd de officiële aankondigingen op het forum in de gaten.]]></item>
+      <item name="zoo.advisor.help.12"><![CDATA[Je dieren kunnen per ongeluk ziek worden. Hoe beter je voor ze zorgt, hoe langer ze gezond blijven. Maar als je dier niet ziek is, kun je het zelfs geen injectie geven.]]></item>
+      <item name="zoo.advisor.help.13"><![CDATA[Je dieren voelen zich in alle verblijven prima. Het maakt niet uit in welk verblijf je ze plaatst.]]></item>
+      <item name="zoo.advisor.help.14"><![CDATA[Het is momenteel niet mogelijk om dieren naar andere verblijven te verplaatsen.]]></item>
+      <item name="zoo.advisor.help.15"><![CDATA[Als je het verblijf verkoopt, verkoop je ook het dier dat erin zit.]]></item>
+      <item name="zoo.advisor.help.16"><![CDATA[In het spel zijn er twee soorten stokstaartjes: de normale en de grijze stokstaart Beda. Beda verschijnt alleen tijdens bepaalde evenementen en kan alleen op speciale dagen worden gekocht.]]></item>
+      <item name="zoo.advisor.help.17"><![CDATA[Als je op "adopteer voor zoodollars" klikt, ben je 100% zeker van een nieuw huisdier en hoef je er niet op te wachten.]]></item>
+      <item name="zoo.advisor.help.18"><![CDATA[Je kunt je ZooMumba-vrienden opslaan in je adresboek. Helaas kun je op dit moment geen buren uitnodigen.]]></item>
+      <item name="zoo.advisor.help.19"><![CDATA[Hoe meer winkels je bezit, hoe meer zoogros je verdient.]]></item>
+      <item name="zoo.advisor.help.20"><![CDATA[Geen tijd? Huur dan assistenten in. Vergeet niet dat assistenten alleen werken als je erop klikt (ze werken niet automatisch).]]></item>
+      <item name="zoo.advisor.help.21"><![CDATA[Als je een kassier in dienst neemt, Kešík, zul je je inkomsten verhogen.]]></item>
+      <item name="zoo.advisor.help.22"><![CDATA[Het inschakelen van assistenten is de moeite waard: je verdient er meer ervaringspunten mee.]]></item>
+      <item name="zoo.advisor.help.23"><![CDATA[Als je alle assistenten hebt, activeer je Davids vertegenwoordiger - hij kan alle assistenten met één klik aan de slag laten gaan.]]></item>
+      <item name="zoo.advisor.help.24"><![CDATA[Hoe meer afval je in de dierentuin sorteert, hoe minder ervan op straat terechtkomt.]]></item>
+      <item name="zoo.advisor.help.25"><![CDATA[Koop een mannetje en een vrouwtje van dezelfde soort en je hebt al snel schattige baby'tjes in de dierentuin.]]></item>
+      <item name="zoo.advisor.help.26"><![CDATA[Je kunt slechts een beperkt bedrag aan entreegeld in het hoofdgebouw bewaren, dus zorg ervoor dat je het regelmatig ophaalt.]]></item>
+      <item name="zoo.advisor.help.27"><![CDATA[Om winst te maken met je gebouwen, moeten ze altijd met elkaar verbonden zijn door een pad. Hoe zouden bezoekers ze anders kunnen bereiken?]]></item>
+      <item name="zoo.advisor.help.28"><![CDATA[Houd je ogen open: Zo nu en dan verschijnen er speciale dieren of artikelen in de winkel die je slechts voor een beperkte tijd kunt kopen.]]></item>
+      <item name="zoo.advisor.help.29"><![CDATA[Geef je dieren superfood, dan blijven ze langer vol!]]></item>
+      <item name="zoo.advisor.help.30"><![CDATA[Oei! Zijn je dieren ziek? Geef ze supermedicijnen en ze zijn zo weer kerngezond!]]></item>
+    </category>
+  </category>
+</language>

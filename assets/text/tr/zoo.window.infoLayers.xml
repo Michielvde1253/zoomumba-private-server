@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.infoLayers">
+    <category name="zoo.window.infoLayers.forgottenZoo">
+      <item name="zoo.window.infoLayers.forgottenZoo.title"><![CDATA[Gizli Hayvanat Bahçesi]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.info"><![CDATA[Tebrikler! 3. genişleme paketiyle, Gizli Hayvanat Bahçesi krallığı artık ayaklarınızın altında! Otoparktaki ok sizi Gizli Hayvanat Bahçesi'ne yönlendirecek.]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.expansion"><![CDATA[Sınırlı bir süre için, tek bir satın alımla Gizli Hayvanat Bahçenizi maksimum boyuta genişletebilirsiniz! Gizli Hayvanat Bahçenize gidin, mağazayı açın ve "Eklentiler"e tıklayın. Teklifi burada bulacaksınız!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemreward">
+      <item name="zoo.window.infoLayers.itemreward.recycling.title"><![CDATA[Geri dönüşüm başarılı oldu!]]></item>
+      <item name="zoo.window.infoLayers.itemreward.recycling.info"><![CDATA[Harika, buna değdi! Bu malzemeleri çöpten geri dönüştürdünüz. Bunları envanterinizde bulacaksınız.]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.title"><![CDATA[Sürpriz kutusu]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.info"><![CDATA[Yaşasın! Sürpriz kutunuz yukarıdaki malzemelerle dolduruldu, bunları daha fazla işlem için kullanabilirsiniz. Bunları envanterinizde bulabilirsiniz.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedingLabNursery">
+      <item name="zoo.window.infoLayers.breedingLabNursery.info"><![CDATA[Yeni hayvan türleri yetiştirin! Üreme istasyonu ve hayvan kreşi artık kullanılabilir! Mavi file tıklayın: Binaları kontrol merkezinde bulabilirsiniz.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterNotification">
+      <item name="zoo.window.infoLayers.easterNotification.title"><![CDATA[Paskalya alışverişi]]></item>
+      <item name="zoo.window.infoLayers.easterNotification.text"><![CDATA[Satın aldığınız ürün envanterinize kaydedildi.<br><br>Envanterinizi şimdi açmak ister misiniz?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterComic">
+      <item name="zoo.window.infoLayers.easterComic.layer1.bubble"><![CDATA[Paskalya etkinliğine hoş geldiniz! 21-27 Nisan tarihleri ​​arasında Paskalya Tavşanı yumurta dağıtacak. Yumurtaları toplayın, harika ödüller sizi bekliyor. Daha fazla bilgi için oka tıklayın.]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer2.content"><![CDATA[Harika Paskalya süslemeleri, 7 gün boyunca hayvanat bahçesindeki tüm etkinlikler için %50 daha fazla BZ kazanmanızı sağlayacak. Paskalya hayvanat bahçenizin fotoğraflarını çekin ve bunları Facebook'ta veya forumda arkadaşlarınızla paylaşın!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.header"><![CDATA[Haydi gidip Paskalya yumurtaları arayalım!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.content"><![CDATA[Sevimli Paskalya şişme oyuncağı birçok müşteriyi çekecek. Ve en iyi yanı? Gerçek bir cazibe merkezine yakışır şekilde, Paskalya'dan sonra bile hayvanat bahçenizde kalacaklar!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer4.content"><![CDATA[Paskalya hayvanat bahçesi, içinde hangi hayvanlar yaşarsa yaşasın her zaman ilgi çekicidir. Paskalya hayvanat bahçeleri, başlangıçtan itibaren %20 daha fazla BZ kazandıracak!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.bubble"><![CDATA[Paskalya Tavşanı düzenli olarak yumurta dağıtır. Ancak hayvanat bahçenizde 5'ten fazla yumurta olduğunda, yumurtlama dönemi sona erer. İpucu: Her seferinde tüm yumurtaları topladığınızdan emin olmak istiyorsanız, Paskalya yardımcınız Sonia'dan tavsiye isteyin!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.content"><![CDATA[Tek bir tavşan size yetmiyor mu? O zaman mağazanın aksesuar bölümünde sizi bekleyen daha birçok Paskalya tavşanı var. Bir göz atın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Notification">
+      <item name="zoo.window.infoLayers.easter2012Notification.title"><![CDATA[Paskalya alışverişi]]></item>
+      <item name="zoo.window.infoLayers.easter2012Notification.text"><![CDATA[Satın aldığınız ürün envanterinize kaydedildi.<br><br>Envanterinizi şimdi açmak ister misiniz?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Comic">
+      <item name="zoo.window.infoLayers.easter2012Comic.layer1.bubble"><![CDATA[Hayvanat bahçenizde Paskalya'yı kutlayın! Paskalya Yumurta Avı 5-11 Nisan tarihleri ​​arasında gerçekleşecek! Bu Paskalya şölenine katılın ve harika ödüller ve sürprizler kazanın! İşte nasıl katılacağınız:]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve kafeslerinizdeki tüm renkli yumurtaları bulun. Yumurtaları toplayın ve Paskalya oyun tahtasına geri getirin.<br><br>Not: Tarlalarınızdaki yumurta sayısı her turda ikiye katlanır!]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer3.content"><![CDATA[Paskalya yumurtalarını ilgili oyun alanına bırakın. Kırmızı, yeşil ve mavi alanlarımız var. Muhteşem Paskalya ödülleri ve sevimli hayvanlar sizi bekliyor!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.fullScreen">
+      <item name="zoo.window.infoLayers.fullScreen.keyboard"><![CDATA[Tekrar yazabilmek için tam ekran önizlemeden çıkmak ister misiniz?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventUpgrade">
+      <item name="zoo.window.infoLayers.eventUpgrade"><![CDATA[Kulübelerinize daha da özgün bir doğum günü görünümü kazandırın ve doğum günü etkinliği sırasında %125 BZ kazanın ve balon alma şansınız artsın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolbar">
+      <item name="zoo.window.infoLayers.toolbar.title"><![CDATA[Bonus]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info1"><![CDATA[Harika! Giriş yaptığınız için araç çubuğunda bir bonus kazandınız:]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info2"><![CDATA[Yarın araç çubuğunu kullanarak tekrar giriş yapın ve başka bir bonus kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemInInventory">
+      <item name="zoo.window.infoLayers.itemInInventory.title"><![CDATA[Tebrikler!]]></item>
+      <item name="zoo.window.infoLayers.itemInInventory.text"><![CDATA[Envanterinize aşağıdaki ürünü satın aldınız:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.animalInInventory">
+      <item name="zoo.window.infoLayers.animalInInventory.text"><![CDATA[Envanterinize aşağıdaki hayvan eklendi:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemRedeemed">
+      <item name="zoo.window.infoLayers.itemRedeemed.title"><![CDATA[Tebrikler!]]></item>
+      <item name="zoo.window.infoLayers.itemRedeemed.success"><![CDATA[Ödülünüz hesabınıza yatırıldı.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.action.sorry">
+      <item name="zoo.window.infoLayers.action.sorry.title"><![CDATA[Özür dileriz!]]></item>
+      <item name="zoo.window.infoLayers.action.sorry.text"><![CDATA[Üzgünüz, ancak bu etkinlik şu anda mevcut değil.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.purchaseConfirmed">
+      <item name="zoo.window.infoLayers.purchaseConfirmed.title"><![CDATA[Tebrikler!]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.simple"><![CDATA[Satın alma işlemi hesaba geçirildi.]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.gift"><![CDATA[Satın alma işleminiz hesabınıza yansıtıldı ve hediyeleriniz gönderildi.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.welcomeBack">
+      <item name="zoo.window.infoLayers.welcomeBack.title"><![CDATA[Tekrar hoşgeldiniz!]]></item>
+      <item name="zoo.window.infoLayers.welcomeBack.text"><![CDATA[Hayvanlar sizi tekrar gördüklerine çok sevindiler.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedInInventory">
+      <item name="zoo.window.infoLayers.breedInInventory.title"><![CDATA[Dikkat!]]></item>
+      <item name="zoo.window.infoLayers.breedInInventory.text"><![CDATA[Şu anda burada üreme işlemi devam ediyor.<br><br>Kafesi envantere taşırsanız, üreme işlemi iptal edilecektir.<br><br>Devam etmek istiyor musunuz?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.collectables">
+      <item name="zoo.window.infoLayers.collectables.firstFinish.title"><![CDATA[Tebrikler!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.text"><![CDATA[Yaşasın! %collection%'ın tüm parçalarını ilk kez buldunuz!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.button.socialShare"><![CDATA[Arkadaşlarınıza gösterin]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.title"><![CDATA[Tebrikler!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.text"><![CDATA[%collection% işlemini ikinci kez tamamladınız!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.button.getGift"><![CDATA[Kullanmak]]></item>
+      <item name="zoo.window.infoLayers.collectables.button.viewCollection"><![CDATA[Koleksiyonu görüntüle]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.adamPenguin">
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.title"><![CDATA["Kara Panter" temalı üst düzey paket]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.text"><![CDATA[Şimdi, burada ve sadece bir kez. "Kara Panter" sadece sizin için burada. Ve ayrıca 24 saat boyunca tüm yardımcılar ücretsiz!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.title"><![CDATA["Beyaz Kaplan" paketi]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.text"><![CDATA[Tek seferlik fırsat - harika bir başlangıç ​​için "kombine paket"! Başlangıç ​​için gerekli ekipmanlarınız harika bir fiyata!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.title"><![CDATA["Terrarium" paketi]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.text"><![CDATA[Tek seferlik fırsat - harika bir başlangıç ​​için "kombine paket"! Başlangıç ​​için gerekli ekipmanlarınız harika bir fiyata!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.title"><![CDATA["Çayır" paketi]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.text"><![CDATA[Tek seferlik fırsat - harika bir başlangıç ​​için "kombine paket"! Başlangıç ​​için gerekli ekipmanlarınız harika bir fiyata!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.title"><![CDATA[Sadakat bonusu]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.text"><![CDATA[Sadece burada mevcut: Kişisel sadakat bonusunuzla birlikte bir Zoodollars paketi! "Satın al"a tıklayın ve daha fazla bonus kazanın.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.payment">
+      <item name="zoo.window.infoLayers.payment.happyHourHeader"><![CDATA[Zoodolar artı %percent%%!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBody"><![CDATA[Şimdi dileğiniz gerçek olacak!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_1"><![CDATA[Bugün ekstra zoodolar kazanın!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_2"><![CDATA[Örneğin, 100 zoodolar satın alın ve toplamda %ekstradolar% zoodolar kazanın!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_3"><![CDATA[Havale hariç tüm ödeme yöntemleri için geçerlidir.]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourFin"><![CDATA[Tereddüt etmeyin! Kampanya hala devam ediyor:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.conversionPack">
+      <item name="zoo.window.infoLayers.conversionPack_header"><![CDATA[Sadece %priceCurrency% fiyatıyla!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_save"><![CDATA[%tasarruf%%'tan tasarruf edin!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_footer"><![CDATA[Ve çok daha fazlası...]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_infoHeader"><![CDATA[Tereddüt etmeyin ve %tasarruf%% oranında tasarruf edin!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info1"><![CDATA[<ul><li>1 çift dişi köpek</li><li>1x savan koruma alanı</li><li>1 kuğu havuzu</li><li>15x süper yiyecek</li><li>15x en iyi yiyecek</li><li>10x süper ilaç</li><li>75 zoodolar</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info2"><![CDATA[<ul><li>1 çift vaşak</li><li>24 saat boyunca 6 asistanın tümü</li><li>1 kaya muhafazası</li><li>1 dodo kuşu heykeli</li><li>25x süper yiyecek</li><li>25x en iyi yiyecek</li><li>25x süper ilaç</li><li>150 zoodolar</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info3"><![CDATA[<ul><li>1 çift beyaz kaplan</li><li>6 asistanın tümü 24 saat boyunca</li><li>1 tundra alanı</li><li>1 ayı özgürlük heykeli</li><li>40x süper yiyecek</li><li>35x en iyi yiyecek</li><li>30x süper ilaç</li><li>200 zoodolar</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.paymentBug">
+      <item name="zoo.window.infoLayers.paymentBug.title"><![CDATA[Sevgili oyuncular]]></item>
+      <item name="zoo.window.infoLayers.paymentBug.info"><![CDATA[Bir hata nedeniyle, paketinizde size gereğinden fazla eşya eklendi. Maalesef, aynı paketi satın alan diğer oyunculara haksızlık olması için bu eşyaları kaldırmak zorundayız. Bu yanlış anlaşılma için size 500 pati (pati) telafisi sağladık.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventPack">
+      <item name="zoo.window.infoLayers.eventPack_header"><![CDATA[Eşsiz bir Noel sepeti edinin!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title1"><![CDATA[Noel etkinliğinizin daha hızlı geçmesini mi istiyorsunuz? Sadece bir kez satın alınabilen küçük bir Noel sepeti edinin!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info1"><![CDATA[<ul><li>10x Şekerlenmiş Elma</li><li>3x Tolia Essence</li><li>3x Büyüme İksiri</li><li>5x Süper Yiyecek</li><li>5x En İyi Yiyecek</li><li>25 Zoodollar</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title2"><![CDATA[Noel etkinliğinizin daha hızlı geçmesini mi istiyorsunuz? Sadece bir kez satın alınabilen büyük bir Noel sepeti edinin!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info2"><![CDATA[<ul><li>60x şekerlenmiş elma</li><li>24 saat boyunca 7 yardımcının tümü</li><li>20x tolija özü</li><li>20x büyüme iksiri</li><li>20x süper yiyecek</li><li>20x en iyi yiyecek</li><li>50 zoodolar</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.cinema">
+      <item name="zoo.window.infoLayers.cinema.limit"><![CDATA[Maalesef artık sinema biletiniz kalmadı.]]></item>
+      <item name="zoo.window.infoLayers.cinema.success1"><![CDATA[Yaşasın! Filmi izlediğiniz için ödülünüz burada:]]></item>
+      <item name="zoo.window.infoLayers.cinema.success2"><![CDATA[İndirim bir saat içinde hesabınıza yansıtılacaktır.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012">
+      <item name="zoo.window.infoLayers.easter2012.limit"><![CDATA[Yeterince Paskalya yumurtanız yok.]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success1"><![CDATA[Harika! Aşağıdaki ödülü kazandınız:]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success2"><![CDATA[Yumurta bulmada iyi şanslar!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.avatar">
+      <item name="zoo.window.infoLayers.avatar.Check"><![CDATA[Avatarınız başarıyla kaydedildi.]]></item>
+      <item name="zoo.window.infoLayers.avatar.X"><![CDATA[Bu pencereyi kapatmak istediğinizden emin misiniz? Avatarınız henüz kaydedilmedi!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.saveAssets">
+      <item name="zoo.window.infoLayers.saveAssets.text1"><![CDATA[Oyununuzun daha hızlı yüklenmesini mi istiyorsunuz? ZooMumba çok fazla grafik gerektiren bir oyun. Dilerseniz, görüntüleri doğrudan sabit diskinize kaydedebiliriz. Bu sayede oyun çok daha hızlı yüklenecektir!]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text2"><![CDATA[Bu değişiklikleri etkinleştirmek için, pencere bir sonraki açıldığında "İzin Ver"e tıklamanız yeterlidir. Aksi takdirde, oyun verileri tarayıcınızın önbelleğinde saklanmaya devam edecektir.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text3"><![CDATA[Eğer farklı bir karar verirseniz, ZooMumba'nın ayarlarını açıp önbellekleme özelliğini açıp kapatabilirsiniz.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.yes"><![CDATA[Evet, sabit diske kaydedin (önerilir).]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.no"><![CDATA[Hayır, tarayıcı önbelleğini kullanmaya devam edin.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.doublexp">
+      <item name="zoo.window.infoLayers.doublexp.allitems"><![CDATA[Daha hızlı seviye atlayın! Padoklardaki aktivitelerden iki kat daha fazla BZ kazanın!]]></item>
+      <item name="zoo.window.infoLayers.doublexp.specialitems"><![CDATA[Ekstra deneyim puanı kazanın! Bu hayvanlar size iki kat BZ kazandıracak:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.specialShopItem">
+      <item name="zoo.window.infoLayers.specialShopItem.title"><![CDATA[Süper fırsat: Sadece kısa bir süre için!]]></item>
+      <item name="zoo.window.infoLayers.specialShopItem.infotext"><![CDATA[Bugün özel hayvanlar için özel bir gün: Doğum günlerini kutluyoruz! Sadece kısa bir süreliğine mağazamızda satışta:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012">
+      <item name="zoo.window.infoLayers.frog2012.limit"><![CDATA[Maalesef, bonus eşyalarınız eksik. Pes etmeyin!]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success1"><![CDATA[Vur! Harika bir ödül kazandınız:]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success2"><![CDATA[Daha da fazla ürün bulun! Bol şans!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Notification">
+      <item name="zoo.window.infoLayers.frog2012Notification.title"><![CDATA[Koleksiyonluk eşya satın almak]]></item>
+      <item name="zoo.window.infoLayers.frog2012Notification.text"><![CDATA[Satın aldığınız ürün artık hayvanat bahçesi deponuzda. Depo açmak ister misiniz?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Comic">
+      <item name="zoo.window.infoLayers.frog2012Comic.layer1.bubble"><![CDATA[17-23 Mayıs tarihleri ​​arasında hayvanat bahçeniz bir peri masalına dönüşecek. Kraliyet Kurbağası Etkinliği boyunca sizi çok eğlence ve harika ödüller bekliyor! </br></br>Aşağıdaki adımlarda size nasıl yapacağınızı göstereceğiz:]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve özel bonus eşyalar toplayın: taçlı bir kurbağa, yüzgeçler veya bir taç. Ardından bunları kurbağa oyun tahtasında harika ödüllerle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayabilirsiniz. Gittikçe daha fazla eşyaya ihtiyacınız olacak, ancak ödüller de gittikçe daha muhteşem olacak! Yakında Kurbağa Kralı sizin hayvanat bahçenizde de ötmeye başlayacak!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australien2012Comic">
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Güneş, sörf ve keseli hayvanlar - 25 Haziran'dan 3 Temmuz'a kadar Avustralya tarzı hayvanat bahçenizde eğlenebilirsiniz! Kaçırmayın ve harika Avustralya ödülleri kazanın! </br></br>Aşağıdaki adımlarda size nasıl yapacağınızı göstereceğiz:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve özel bonus eşyalar toplayın: sörf tahtası, kırmızı kaya veya güneş kremi. Ardından bunları Avustralya oyun alanında harika sürprizlerle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayabilirsiniz. Ne kadar çok eşya toplarsanız, kazançlarınız o kadar büyülü olur! Hayvanat bahçenizi küçük bir Avustralya'ya dönüştürün!]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Güneş, sörf ve keseli hayvanlar - 25 Haziran'dan 3 Temmuz'a kadar Avustralya tarzı hayvanat bahçenizde eğlenebilirsiniz! Kaçırmayın ve harika Avustralya ödülleri kazanın! </br></br>Aşağıdaki adımlarda size nasıl yapacağınızı göstereceğiz:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve özel bonus eşyalar toplayın: sörf tahtası, kırmızı kaya veya güneş kremi. Ardından bunları Avustralya oyun alanında harika sürprizlerle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayabilirsiniz. Ne kadar çok eşya toplarsanız, kazançlarınız o kadar büyülü olur! Hayvanat bahçenizi küçük bir Avustralya'ya dönüştürün!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.indien2012Comic">
+      <item name="zoo.window.infoLayers.indien2012Comic.layer1.bubble"><![CDATA[Merhaba, merhaba! 19-26 Temmuz tarihleri ​​arasında eğlenmek ister misiniz? Size bu etkinlik hakkında biraz bilgi vereyim:]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer2.content"><![CDATA[Hayvanlarınızla ilgilenirken, karşınıza çıkan özel eşyalara dikkat edin: kına dövmeleri, kriket sopaları ve Tac Mahal. Bunları toplayın ve hayvanat bahçesinde harika ödüllerle takas edin!]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Ne kadar çok eşya toplarsanız, ödüller o kadar iyi olur. Hindistan burada!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.anniversary2012Comic">
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.bubble"><![CDATA[Doğum günün kutlu olsun! ZooMumba'nın ikinci yıl dönümünü bizimle birlikte kutlayın!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.content"><![CDATA[Parti oyunlarımız için olabildiğince çok korna, parti şapkası ve şampanya kadehi toplayın. İçinde birçok parti malzemesi bulunan bir parti sandığı kazanma şansınız olabilir!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer2.content"><![CDATA[Balonlar olmadan bir parti düşünülebilir mi? Hayvanlarınıza iyi bakın, balon toplayın ve oyun alanında çılgın parti sürprizleri için onları takas edin.]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer3.content"><![CDATA[Oyun turlarını istediğiniz kadar tekrarlayabilirsiniz. Hasat yaparken ortaya çıkacak daha fazla eşyaya ihtiyacınız olacak, ancak ödüller de giderek daha iyi olacak. Yaşasın! Tüm hayvanat bahçesi müdürlerine şan olsun!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.oktoberfest2012Comic">
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer1.bubble"><![CDATA[Parti başlasın! Oktoberfest geldi çattı - gelin ve Bavyera tarzında kutlayın!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer2.content"><![CDATA[1-7 Ekim tarihleri ​​arasında bira pong oyunu, yumuşak simitler ve geleneksel şapkaların yanı sıra yeni bir ev gibi harika ödüller kazanabilirsiniz: Oktoberfest - bir eğlence parkı!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer3.content"><![CDATA[Dilediğiniz kadar oynayabilirsiniz. Bir miktar açılır pencere eşyasına ihtiyacınız olacak, ancak karşılığında geleneksel Bavyera ödülleri alacaksınız. Bu yüzden tereddüt etmeyin, çok eğleneceksiniz!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.circusHelpcomic">
+      <item name="zoo.window.infoLayers.circusHelpcomic.layer1.content"><![CDATA[Sirkte çok sayıda egzotik hayvan dolu kafes var. İlk 5 saatten sonra, bir hayvan kafesten size doğru atlayacak! Ne tür bir hayvan olacak acaba?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Layer">
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble1"><![CDATA[Civcivleri teslim edin. Yanan her ışık daha fazla harika ödül anlamına gelir!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble2"><![CDATA[Şekerlenmiş elmaları teslim edin. Yanan her ışık daha fazla harika ödül anlamına gelir!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer2.bubble"><![CDATA[Hayvanlarınızı Zoogrosh'ta satarak Noel ağacınızı ışıklandırın!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.singleplayer.success"><![CDATA[Harika iş! Her yer ışıklandı ve tüm ödülleri topladın!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.multiplayer.success"><![CDATA[Tebrikler! Hep birlikte tüm Noel ağacını ışıklandırdık ve harika ödüller topladık!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Comic">
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.bubble"><![CDATA[Mutlu Noeller! Lütfen Noel ışıklarını yakmama yardım edin. Yaktığınız her ampul için, kutup tilkisi gibi çeşitli Noel ödülleri kazanabilirsiniz!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.content"><![CDATA[Işıkları açmak için envanterinize şeker elma veya yavru hayvan eklemeniz gerekir.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer2.content"><![CDATA[Bazı ışıklar sadece şekerli elmalarla yakılabilir. Elmalar hayvan evlerinden fırlayacak. Daha hızlı ilerlemek için daha fazla elma satın alabilirsiniz.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer3.content"><![CDATA[Envanterinizden bir yavru seçin ve teslim edin. İpucu: Hayvanın üreme seviyesi ne kadar yüksekse, ışıkları o kadar hızlı açabilirsiniz!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.multiplayer.bubble"><![CDATA[İşte tüm hayvanat bahçesi yöneticilerinin birlikte çalışması gereken yer: Envanterinizdeki hayvanları zoogros karşılığında satın. Birlikte adım adım ağacı ışıklandıracak ve harika Noel ödülleri kazanacaksınız.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentines2013Comic">
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer1.bubble"><![CDATA[Sevgililer Günü etkinliğine hoş geldiniz! 14-25 Şubat tarihleri ​​arasında, ciddi bir romantizme hazır olun! Sevgililer Günü oyunumuzu oynayın ve harika ödüller kazanın!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın, kekler, kalp balonları ve tebrik kartları toplayın. Oyun alanında adım adım ilerleyin ve yol boyunca ödüller kazanın. Ana ödül, hayvanat bahçeniz için leylekler olacak!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Daha fazla açılır pencere öğesine ihtiyacınız olacak, ancak bu daha fazla ödül kazanma şansınızı artıracak!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.multiplayer.bubble"><![CDATA[Unutmayın: tüm hayvanat bahçesi müdürleri birlikte oynar. Envanterinizdeki hayvanları zoogross karşılığında satın. Peluş dağının zirvesine doğru ilerleyin, orada ödül olarak margay kedileri sizi bekliyor!]]></item>
+      <item name="zoo.window.infoLayers.valentines.multiplayer.success"><![CDATA[Tebrikler! Peluş oyuncakların en üst seviyesine ulaştınız ve yol boyunca ödüller kazandınız.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterEvent2013Comic">
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer1.bubble"><![CDATA[Paskalya Hayvanat Bahçesi Etkinliğine Hoş Geldiniz! 27 Mart - 8 Nisan tarihleri ​​arasında hayvanat bahçeniz rengarenk bir gökkuşağına dönüşecek! Paskalya oyunumuzda rengarenk civcivler toplayın ve onları harika ödüllerle takas edin!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve çalışırken rengarenk civcivler toplayın! Oyun alanında adım adım ilerleyin ve yol boyunca tüm ödülleri toplayın. Ana ödül bir devekuşu olacak!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Her turda harika ödüller kazanın.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.multiplayer.bubble"><![CDATA[Unutmayın: tüm hayvanat bahçesi müdürleri birlikte oynar. Envanterinizdeki hayvanları zoogross karşılığında satın. Peluş yığınının en üstüne ulaşın ve bunu başarırsanız, sevimli bir çift karıncayiyen kazanacaksınız!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.intro"><![CDATA[Envanterinizdeki hayvanları satın ve birlikte peluş dağa tırmanın.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.success"><![CDATA[Tebrikler! Peluş oyuncakların en üst seviyesine ulaştınız ve yol boyunca ödüller kazandınız.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frenchEvent2013Comic">
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer1.bubble"><![CDATA[Fransız Hayvanat Bahçesi Etkinliğine Hoş Geldiniz! 11-16 Temmuz tarihleri ​​arasında Fransa'ya bir geziye çıkıyoruz! Fransız oyunumuz için eşyalar toplayın ve bunları muhteşem ödüllerle takas edin!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve patlayan nesneleri toplayın. Oyun alanında adım adım ilerleyin ve yol boyunca ödüller kazanın. Ana ödül ise yaban koyunları!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Her turda eğlenceli ödüller bulacaksınız.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthdayEvent2013Comic">
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer1.content"><![CDATA[Yaşasın! 3. yaş günümüzü kutlamak için bir atış festivali hazırladık: 15-28 Ağustos tarihleri ​​arasında balonları vurun ve ödüllerin üzerinize yağmasını izleyin! Her gün ücretsiz dart kazanacaksınız.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer2.content"><![CDATA[Oyun tahtasına balonlar yerleştirin. Yerleştirilen her balon sizi ödüle biraz daha yaklaştırır. Muhteşem doğum günü süsleri ve yeni hayvanlar kazanın.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. İpucu: Her gün giriş yapın ve günlük giriş bonusuyla daha fazla dart atın!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.over"><![CDATA[Bu adım için hala balonlara ihtiyacınız var (sayı: %count%). Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.default"><![CDATA[Atış festivaline doğru yol bu! Balonları patlatın ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.hungaryEvent2013Comic">
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer1.bubble"><![CDATA[Hayvanat bahçesindeki Macaristan etkinliğine hoş geldiniz! 12-24 Eylül tarihleri ​​arasında bizimle birlikte Macaristan'a bir yolculuğa çıkın! Macar oyunumuz için biber toplayın ve muhteşem ödüllerle takas edin!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve biber toplayın. Oyun alanında adım adım ilerleyin ve ödüller kazanın. Ana ödül yeni hayvanlar!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Küçük bir uyarı: Biberler 23 Eylül öğlen 12'ye kadar ortaya çıkacak. Ancak, 24 Eylül'e kadar takas edebilirsiniz.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2013Comic">
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer1.bubble"><![CDATA[Evet ya! O yaramaz penguenler sihirli rünlerle oynuyorlardı ve kaçmayı başardılar! İşte Flubber, Larry ve Swabby! Plazma topunu kullan ve yaramazlık yapmadan önce onları hızla yakala!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer2.content"><![CDATA[İyi kalpli Boo'nun hayaletleri yakalamasına yardım edin. Onları oyun alanına götürün ve korkunç ödüller kazanın!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer3.content"><![CDATA[Her gün oyuna giriş yaptığınızda, Boo size hayalet avlamak için plazma topları verecek. İpucu: Hayvanlarınıza iyi bakın, plazma topları yuvalarından çıkacaktır. Bol şans!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.over"><![CDATA[Bu adım için hala hayaletlere ihtiyacınız var (sayı: %count%). Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.default"><![CDATA[Hayaletlerinizi buraya gönderin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.thanksGiving2013Comic">
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer1.bubble"><![CDATA[Hayvanat bahçesinin Şükran Günü kutlamasına hoş geldiniz! Bu sefer ABD'de kutlayacağız! Renkli yapraklar toplayın ve harika ödüllerle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve rengarenk yapraklar toplayın. Oyun alanında adım adım ilerleyin ve yol boyunca ödüller kazanın. Ana ödül, hayvanat bahçeniz için yeni hayvanlar!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Unutmayın ki, etkinlik sona erene kadar yapraklar dökülmeye devam edecek, ancak etkinlik bittikten sonra 24 saat içinde onları takas edebilirsiniz.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.over"><![CDATA[Bu adım için hala (sayı: %count%) yaprağa ihtiyacınız var. Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.default"><![CDATA[Mektuplarınızı buraya gönderin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2013Comic">
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer1.bubble"><![CDATA[Hohoho! Hayvanat bahçesine Noel geliyor! 19 Aralık'tan 7 Ocak'a kadar hayvanat bahçenizde Noel süsleri toplayabilir ve bunları kış hayvanları ve Noel süsleri için renkli tabaklarla takas edebilirsiniz.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın, rengarenk süsler yuvalarından fırlayacak. Adım adım oyun alanında ilerleyin ve süsleri bayram ödülleriyle değiştirin.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Unutmayın ki, süslemeler 6 Ocak öğlen 12'ye kadar görünecek, ancak bunları 7 Ocak öğlen 12'ye kadar değiştirebilirsiniz.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.over"><![CDATA[Bu adım için (sayı: %count%) hâlâ süslemelere ihtiyacınız var. Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.default"><![CDATA[Süslemelerinizi buraya gönderin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.egypt2014Comic">
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer1.bubble"><![CDATA[Bizimle birlikte Doğu'ya yolculuk yapın: Antik Mısır'ı keşfedin, değerli skarabe böcekleri toplayın ve bunları bir Mısır masa oyununda takas edin.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve kafeslerinizden fırlayacak renkli böcekleri toplayın. Oyun tahtasında ilerleyin ve süs eşyalarını oryantal ödüllerle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Unutmayın ki, etkinlik sona erene kadar böcekler ortaya çıkmaya devam edecek. Ancak, etkinlik bittikten sonra 24 saat boyunca onları takas edebilirsiniz.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.over"><![CDATA[Bu adım için hala böceklere ihtiyacınız var (sayı: %count%). Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.default"><![CDATA[Böceklerinizi buraya teslim edin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014Comic">
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer1.bubble"><![CDATA[Tüm kalpleri toplayın: Sevgililer Günü masa oyunumuzda 21 Şubat - 10 Mart tarihleri ​​arasında kart toplayın!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve kafeslerinizden fırlayacak renkli kartları toplayın. Oyun tahtasında adım adım ilerleyin ve bunları romantik ödüllerle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Kartların 10 Mart öğlen 12'ye kadar ortaya çıkacağını, ancak 11 Mart öğlen 12'ye kadar takas edebileceğinizi unutmayın.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.over"><![CDATA[Bu adım için (sayı: %count%) hâlâ tebrik kartlarına ihtiyacınız var. Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.default"><![CDATA[Dileklerinizi buraya gönderin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityComic">
+      <item name="zoo.window.infoLayers.valentine2014CommunityComic.multiplayer.bubble"><![CDATA[Unutmayın: tüm hayvanat bahçesi müdürleri birlikte oynar. Envanterinizdeki hayvanları zoogros karşılığında satın. Peluş dağının zirvesine ulaşın - her seviyede harika ödüller sizi bekliyor!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.success"><![CDATA[Tebrikler, başardınız! Kalp yığınının en tepesine ulaştınız ve yol boyunca ödüller kazandınız.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.intro"><![CDATA[Hayvanlarınızı burada takas edin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2014Comic">
+      <item name="zoo.window.infoLayers.easter2014Comic.layer1.bubble"><![CDATA[10-28 Nisan 2014 tarihleri ​​arasında hayvanat bahçeniz tüm ihtişamıyla çiçek açacak: Muhteşem Paskalya etkinliğimizde eğlenmeye gelin! Paskalya sürprizleri ve yepyeni hayvanlar Paskalya masa oyununda sizi bekliyor!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve kafeslerinizden fırlayacak rengarenk Paskalya yumurtalarını toplayın. Oyun alanında adım adım ilerleyin ve yumurtaları muhteşem bahar ödülleriyle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Paskalya yumurtalarının 28 Nisan öğlen 12'ye kadar ortaya çıkacağını, ancak bunları 29 Nisan öğlen 12'ye kadar değiştirebileceğinizi unutmayın.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.over"><![CDATA[Bu adım için hala Paskalya yumurtalarına ihtiyacınız var (sayı: %count%). Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.default"><![CDATA[Paskalya yumurtalarınızı buraya teslim edin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.summer2014Comic">
+      <item name="zoo.window.infoLayers.summer2014Comic.layer1.bubble"><![CDATA[19 Haziran - 1 Temmuz tarihleri ​​arasında hayvanat bahçenizde futbol heyecanı! Bizimle Brezilya'ya yolculuk yapın: Samba, futbol, ​​Brezilya ritmi ve yepyeni hayvanlar masa oyunumuzda sizi bekliyor!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve kafeslerinizden fışkıracak rengarenk kokteyl meyvelerini toplayın. Oyun tahtasında adım adım ilerleyin ve kokteylleri süper yaz ödülleriyle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Kokteyl meyvelerinin 30 Haziran öğlen 12'ye kadar ortaya çıkacağını, ancak 1 Temmuz öğlen 12'ye kadar takas edebileceğinizi unutmayın.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.over"><![CDATA[Bu adım için hala kokteyl meyvesine ihtiyacınız var (adet: %count%). Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.default"><![CDATA[Kokteyl meyvelerini burada süper ödüllerle takas edin!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthday2014Comic">
+      <item name="zoo.window.infoLayers.bday2014Comic.layer1.bubble"><![CDATA[19 Ağustos - 2 Eylül tarihleri ​​arasında büyük bir doğum günü partisi! Masa oyunumuzda sizi birçok harika sürpriz bekliyor!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer2.content"><![CDATA[Oyun tahtasına balonlar yerleştirin. Yerleştirilen her balon sizi ödüle biraz daha yaklaştırır. Muhteşem doğum günü süsleri ve yeni hayvanlar kazanın.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer3.content"><![CDATA[İstediğiniz kadar tur oynayın. Unutmayın: Balonları yalnızca 27 Ağustos saat 12:00'ye kadar kendi alanlarınızdan toplayabilirsiniz. Ondan sonra, onları kullanmak için 24 saatiniz var.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.over"><![CDATA[Bu adım için hala balonlara ihtiyacınız var (sayı: %count%). Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.default"><![CDATA[Balonları yerleştirin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2014Comic">
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer1.bubble"><![CDATA[30 Ekim - 10 Kasım tarihleri ​​arasında bizimle birlikte Cadılar Bayramı'nı kutlayın! Masa oyunumuzda sizi birçok harika sürpriz bekliyor!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve evlerinizden çıkan sümükleri toplayın. Oyun alanında adım adım ilerleyin ve sümükleri ürkütücü ve harika ödüllerle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer3.content"><![CDATA[İstediğiniz kadar tur oynayın. Unutmayın ki, sümüksü sinekler yalnızca 10 Kasım öğlen 12'ye kadar ortaya çıkacak. Ondan sonra, onları tüketmek için 24 saatiniz var.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.over"><![CDATA[Bu adım için hâlâ Balçık Sineklerine ihtiyacınız var (sayı: %count%). Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.default"><![CDATA[Slime kalıplarınızı buraya gönderin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recyclingComic">
+      <item name="zoo.window.infoLayers.recyclingComic.layer1.bubble"><![CDATA[İnsanların neler çöpe attığına inanamıyorum! Atıkların içinde çok değerli hammaddeler var: Atıkları yeniden kullanım için ayırın. Hem çevreye hem de kendinize yardımcı olun!]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer2.content"><![CDATA[Toplanan tüm atıklar doğrudan geri dönüşüm tesisine gönderilir. Atıklardan üretmek istediğiniz ham maddeyi seçin.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer3.content"><![CDATA[Seçtiğiniz malzemelerden kaç adet ürün yapmak istediğinizi seçin. Bunları yapmak için yeterli hurda ve zoogros'unuz olduğundan emin olun.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer4.content"><![CDATA[Normal kaynaklara ek olarak, nadir kaynaklara da ihtiyacınız olacak. Süper filtre kullanmak, geri dönüşümden nadir kaynak elde etme şansınızı artıracaktır.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.craftingComic">
+      <item name="zoo.window.infoLayers.craftingComic.layer1.bubble"><![CDATA[Merhaba, ben Inga Neer. Ham maddeler kullanarak yeni eşyalar üretmenize yardımcı olacağım. Ama önce bir plana ihtiyacınız var. Yapı planları mevcuttur ve hayvanat bahçesinin her yerinde bulunabilir: seviye atladığınızda, yapboz parçalarından ve ödüllerden, koleksiyonlardan, safaride veya şans çarkında.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer2.content"><![CDATA[Tüm bina planları atölyede saklanmaktadır. Sahip olduğunuz planları görmek için ilgili kategoriyi açmanız yeterlidir.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer3.content"><![CDATA[Yeşil bir onay işareti, tüm malzemelere sahip olup olmadığınızı gösterecektir. Eğer hepsi mevcutsa, başlayabilirsiniz!]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer4.content"><![CDATA[İşçilerinizin hızlanmasını istiyorsanız, "Zanaatkar Güçlendirici"yi deneyin. Onu ekleyin ve artık iki kat daha hızlı çalışacaklar! Hayvanat Bahçesi Dolarları kullanarak üretimi çok kısa sürede tamamlayabilirsiniz.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recylingcraftingunlock">
+      <item name="zoo.window.infoLayers.recylingcraftingunlock.info"><![CDATA[Hayvanat bahçenizdeki atıkları geri dönüştürün ve yeni bir şeyler inşa edin! Geri dönüşüm tesisi ve atölye artık kullanılabilir. Mavi file tıklayın: Binaları kontrol merkezinde bulabilirsiniz.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolchange">
+      <item name="zoo.window.infoLayers.toolchange.info"><![CDATA[Geri dönüşüm tesisi ve atölyenin inşası birçok alet gerektirdi ve siz de bunları topladınız. Eksik kalmamanız için, topladığınız aletler için size deneyim puanı vereceğiz.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2014Comic">
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer1.bubble"><![CDATA[Mutlu Noeller! 11 Aralık'tan 29 Aralık'a kadar penguenler Noel şöminesini süsleyecek. Hayvanat bahçesinden ne kadar çok eşya toplarsanız, şömine o kadar güzel olacak. Masa oyununu oynayın ve bir Noel sürprizi kazanın!]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer2.content"><![CDATA[Hayvanlarınızla ilgilenin ve kafeslerinden çıkacak Noel ikramlarını toplayın. Oyun alanında adım adım ilerleyin ve bunları tatil ödülleriyle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Noel hediyelerinin yalnızca 29 Aralık öğlen 12'ye kadar ortaya çıkacağını unutmayın. Ondan sonra, bunları kullanmak için 24 saatiniz var.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.boardgame">
+      <item name="zoo.window.infoLayers.boardgame.info.over"><![CDATA[Bu adımı tamamlamak için hala %count%x %collectitem% ifadesini girmeniz gerekiyor. Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.boardgame.info.default"><![CDATA[Burada promosyon ürünlerini harika ödüllerle takas edebilirsiniz!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Comic">
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer1.bubble"><![CDATA[Hâlâ hayallerinizdeki erkeği veya kadını mı arıyorsunuz? O halde 12-23 Şubat 2015 tarihleri ​​arasında Sevgililer Günü masa oyununu oynayın!]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve kafeslerinden çıkan nilüferleri toplayın. Oyun alanında adım adım ilerleyin ve bunları tatil ödülleriyle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Su zambaklarının yalnızca 23 Şubat öğlen 12'ye kadar ortaya çıkacağını unutmayın. Ondan sonra, onları kullanmak için 24 saatiniz var.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Board">
+      <item name="zoo.window.infoLayers.valentine2015Board.title"><![CDATA[Sevgililer Günü]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityBoard">
+      <item name="zoo.window.infoLayers.valentine2014CommunityBoard.title"><![CDATA[Peluş Dağ]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2015Comic">
+      <item name="zoo.window.infoLayers.easter2015Comic.layer1.bubble"><![CDATA[Tavuk kümesinde tuhaf bir şeyler oluyor. Paskalya Tavşanı geç kaldı ve yardıma ihtiyacı var! Gizlice tavuk kümesine girin ve yumurtaları toplayın! Paskalya Tavşanı size minnettar olacaktır!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve kafeslerinizden fırlayacak rengarenk Paskalya tavşanlarını toplayın. Oyun tahtasında adım adım ilerleyin ve onları neşeli ödüllerle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer3.content"><![CDATA[İstediğiniz kadar tur oynayın. Paskalya tavşanlarının etkinlik sonuna kadar kafeslerinizden çıkacağını unutmayın. Ancak, ödüller kazanmak için onları etkinlik bittikten sonra 24 saat boyunca kullanmaya devam edebilirsiniz.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.over"><![CDATA[Bu adım için hala Paskalya tavşanlarına ihtiyacınız var (sayı: %count%). Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.default"><![CDATA[Paskalya tavşanlarınızı buraya teslim edin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Board">
+      <item name="zoo.window.infoLayers.asia2015Board.title"><![CDATA[Asya'ya Yolculuk]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Comic">
+      <item name="zoo.window.infoLayers.asia2015Comic.layer1.bubble"><![CDATA[Ejderha Dansı için bizimle Asya'ya seyahat edin! Kutlamanızı renklendirmek için rengarenk fenerler toplayın. Su ejderhası sizi kutsasın!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve kafeslerinizden çıkan renkli fenerleri toplayın. Oyun tahtasında ilerleyin ve fenerleri egzotik ödüllerle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. Fenerlerin etkinlik sonuna kadar ortaya çıkacağını unutmayın. Ancak, etkinlik bittikten sonra 24 saat içinde onları takas edebilirsiniz.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.over"><![CDATA[Bu adım için hala fenerlere ihtiyacınız var (sayı: %count%). Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.default"><![CDATA[Fenerlerinizi buraya gönderin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Board">
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Avustralya gezisi]]></item>
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Avustralya gezisi]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Comic">
+      <item name="zoo.window.infoLayers.australian2015Comic.layer1.bubble"><![CDATA[Zoomumba 5 yaşında! Yaşasın! Avustralya'nın ıssız bölgelerinde bize katılın ve muhteşem ödüller kazanın: Balonları vurun ve Timsah Dundee gibi Avustralya vahşi doğasında gizlice ilerleyin. Yaşasın!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve kafeslerinizden çıkan okları toplayın. Bu okları kullanarak balonları vurun. Oyun alanında adım adım ilerleyin ve balonları ödüllerle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer3.content"><![CDATA[İstediğiniz kadar tur oynayın. Unutmayın ki, etkinlik bitene kadar dartlar kalemlerinizden fırlayacak. Ancak, etkinlikten sonra 24 saat boyunca balonlara ateş etmeye devam edebilirsiniz.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.over"><![CDATA[Bu adım için hala balonlara ihtiyacınız var (sayı: %count%). Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.default"><![CDATA[Balonları yerleştirin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Board">
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Cadılar Bayramı]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Cadılar Bayramı]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Comic">
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer1.bubble"><![CDATA[Abrakadabra! Aman Tanrım! Hangi kötü büyücü küçük Perry'yi dev bir balkabağına dönüştürdü? Panzehiri bulmaya ve Perry'ye yardım etmeye çalışın. 29 Ekim'den 9 Kasım'a kadar tüm sihirli iksirleri deneyebileceksiniz!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve kafeslerinizden çıkacak iksirleri toplayın. Oyun tahtasında adım adım ilerleyin ve iksirleri ödüllerle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur oynayın. İksirlerin etkinlik sonuna kadar ortaya çıkacağını unutmayın. Ancak, etkinlik bittikten sonra 24 saat boyunca bunları takas edebilirsiniz.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.over"><![CDATA[Bu adım için hala sihirli iksirlere ihtiyacınız var (sayı: %count%). Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.default"><![CDATA[İksirlerinizi buraya teslim edin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.winter2015Comic">
+      <item name="zoo.window.infoLayers.winter2015Comic.layer1.bubble"><![CDATA[Mutlu Noeller! Penguenler Noel Arifesi için şöminelerini süslemek istiyorlar. Ne kadar çok Noel mumu toplarsanız, o kadar rahat hissedecekler. Masa oyununda kış sürprizi kazanabilirsiniz!]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve kafeslerinden fırlayacak renkli Noel mumlarını toplayın. Oyun alanında adım adım ilerleyin ve bunları muhteşem ödüllerle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer3.content"><![CDATA[Dilediğiniz kadar tur atın. Noel mumlarının etkinlik sonuna kadar kutularından çıkacağını, ancak etkinlikten sonraki 24 saat içinde onları değiştirebileceğinizi unutmayın.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2016Comic">
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer1.bubble"><![CDATA[Merhaba sevgililer! Aşk her yere yayılıyor, bu yüzden sizler için birbirinden güzel ödüllerle dolu özel bir etkinlik hazırladık. Ayrıca yeni bir evcil hayvanımız - çizgili bir firavun faresi -, yeni romantik temalı dekorasyonlarımız ve iki yeni mağazamız da var!]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve kafeslerinden fırlayacak rengarenk oyuncak ayıları toplayın. Onları geri getirin, oyun tahtasında sevgi yolunu yavaş yavaş takip edin ve ödülleri toplayın.]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer3.content"><![CDATA[Yolun sonuna ulaştığınızda, oyun tahtası sıfırlanır ve başka bir tur oynayabilirsiniz. Ayılar etkinlik sonuna kadar ortaya çıkmaya devam edecek. Ondan sonra, onları kullanmak için 24 saatiniz var!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2016Comic">
+      <item name="zoo.window.infoLayers.easter2016Comic.layer1.bubble"><![CDATA[Tavuk kümesinde tuhaf bir şeyler oluyor. Paskalya Tavşanı geç kaldı ve yardıma ihtiyacı var! Gizlice tavuk kümesine girin ve yumurtaları toplayın! Paskalya Tavşanı size minnettar olacaktır!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer2.content"><![CDATA[Hayvanlarınıza iyi bakın ve kafeslerinizden fırlayacak rengarenk Paskalya tavşanlarını toplayın. Oyun tahtasında adım adım ilerleyin ve onları neşeli ödüllerle takas edin.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer3.content"><![CDATA[İstediğiniz kadar tur oynayın. Paskalya tavşanlarının etkinlik sonuna kadar kafeslerinizden çıkacağını unutmayın. Ancak, ödüller kazanmak için onları etkinlik bittikten sonra 24 saat boyunca kullanmaya devam edebilirsiniz.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.over"><![CDATA[Bu adım için hala Paskalya tavşanlarına ihtiyacınız var (sayı: %count%). Acele edin ve ödülünüzü alın!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.default"><![CDATA[Paskalya tavşanlarınızı buraya teslim edin ve harika ödüller kazanın!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.OceanComic">
+      <item name="zoo.window.infoLayers.OceanComic.layer1.bubble"><![CDATA[Merhaba, ben Janička ve deniz memelileri yetiştiriyorum. Birlikte gelmiş geçmiş en iyi su altı hayvanat bahçesini kuracağız!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer1.content"><![CDATA[Sonya ve penguenler, gizli bir hayvanat bahçesinin arkasında eski bir su parkı buldular. Parktan pek bir şey kalmamış ama suyu muhteşem görünüyor. Hadi onu yenileyelim!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer2.content"><![CDATA[Her şeyi inşa etmemiz gerekecek! Penguenler sahildeki eski bir kulübede bazı planlar ve malzemeler buldular. İlk olarak su altı yaşam alanını ve iskeleyi inşa ederek başlayalım.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer3.content"><![CDATA[Su altı yaşam alanları, tüm su hayvanlarının kendilerini evlerinde hissetmeleri için üç farklı boyutta mevcuttur. Hayvanları deniz kenarındaki fuardan alabilir veya plaj kulübesinden satın alabilirsiniz!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer4.content"><![CDATA[Sualtı ekibinin tamamından yardım alın! Jindra yiyecekleri getirecek, Matěj suyu getirecek. Franta filtreleri temizleyecek, ben de hayvanlarla oynayacağım.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer5.content"><![CDATA[Tanklardaki suyu temiz tutun ve daha fazla inci toplayın! İnciler yaşam alanlarını daha da güzelleştirebilir.]]></item>
+      <category name="zoo.window.infoLayers.oceanWorld2016Board">
+        <item name="zoo.window.infoLayers.oceanWorld2016Board.title"><![CDATA[Doğum günü]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.oceanWorld2016Comic">
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer1.bubble"><![CDATA[Merhaba! Sualtı dünyası tüm hızıyla devam ediyor, bu yüzden sizin için özel bir dalış etkinliği hazırladık! Denizatları, yepyeni bir Tiki Koyu alanı, yeni mağazalar ve dekorasyonlar sizi bekliyor!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer2.content"><![CDATA[Hayvanlarınıza her zamanki gibi bakın ve kafeslerinizden çıkan renkli deniz yıldızlarını toplayın. Oyun tahtasındaki su altı bölgelerini keşfedin ve ödüller kazanın!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer3.content"><![CDATA[Tüm bölgeleri keşfettikten sonra, oyun tahtası sıfırlanacak ve tekrar dalış yapabileceksiniz! Deniz yıldızları etkinlik sonuna kadar ortaya çıkmaya devam edecek. Ondan sonra, onları kullanmak için 24 saatiniz olacak.]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.over"><![CDATA[Bu adım için hala yıldızlara (sayı: %count%) ihtiyacınız var!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.default"><![CDATA[Yıldızlarınızı burada muhteşem ödüllerle takas edin!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.monkey2016Comic">
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer1.bubble"><![CDATA[Maymunlar bir şeyler planlıyor... Yeni masa oyunumuzda onların yaramazlıklarına yardım edin! Hayvanat bahçeniz için yeni dükkanlar ve dekorasyonlar da dahil olmak üzere ödüller kazanın!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer2.content"><![CDATA[Hayvanlarınızla her zamanki gibi ilgilenin ve kafeslerinizden çıkan renkli sebzeleri toplayın. Her bir mirkete birer ödül verin ve ödüller kazanın.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer3.content"><![CDATA[Her bir mirkete yaramazlık yaptıktan sonra, oyun tahtası sıfırlanacak ve yeniden başlayabileceksiniz! Sebzeler etkinlik sonuna kadar ortaya çıkmaya devam edecek. Ondan sonra, onları kullanmak için 24 saatiniz olacak.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.over"><![CDATA[Bu adım için hala sebzelere ihtiyacınız var (sayı: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.default"><![CDATA[Sebzelerinizi burada harika ödüllerle takas edin!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Board">
+        <item name="zoo.window.infoLayers.halloween2016Board.title"><![CDATA[Hokus pokus]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Comic">
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer1.bubble"><![CDATA[Bu gizemli iksirler burada ne işe yarıyor? Ne işe yaradıklarını öğrenin ve hayvanat bahçeniz için özel Cadılar Bayramı eşyaları da dahil olmak üzere ödüller kazanın!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer2.content"><![CDATA[Hayvanlarınızla her zamanki gibi ilgilenin ve kafeslerinizden çıkan renkli şişeleri toplayın. Oyun tahtasında şişeleri açın ve ödüller kazanın.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer3.content"><![CDATA[Tüm şişeleri açtıktan sonra, oyun tahtası sıfırlanacak ve yeniden başlayabileceksiniz! Etkinlik sonuna kadar şişeler ortaya çıkmaya devam edecek. Ondan sonra, onları kullanmak için 24 saatiniz olacak.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.over"><![CDATA[Bu adım için hâlâ (sayı: %count%) şişeye ihtiyacınız var!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.default"><![CDATA[Burada şişelerinizi harika ödüllerle takas edin!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.winter2016Comic">
+        <item name="zoo.window.infoLayers.winter2016Comic.layer1.bubble"><![CDATA[Noel geldi! Hayvanat bahçesinde kar yağıyor ve hayvanlar Noel Baba'ya mektup yazıyor. Mutlu Noeller! Penguenler şömineyi süslüyor ve yardıma ihtiyaçları var! Masa oyununu oynayarak bayram eşyaları kazanın!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer2.content"><![CDATA[Hayvanlarınıza her zamanki gibi bakın ve kafeslerinizden çıkacak zencefilli kurabiyeleri toplayın. Oyun tahtasında dolaşın ve ödülleri toplayın.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer3.content"><![CDATA[Oyunu bitirdiğinizde, oyun tahtası sıfırlanacak ve yeniden başlayabilirsiniz! Etkinlik sonuna kadar zencefilli kurabiye adamlarını toplayabilirsiniz. Ondan sonra, onları kullanmak için 24 saatiniz olacak.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.over"><![CDATA[Bu adım için hala zencefilli kurabiyelere ihtiyacınız var (sayı: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.default"><![CDATA[Zencefilli kurabiyelerinizi burada harika ödüllerle takas edin!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Comic">
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer1.bubble"><![CDATA[Merhaba! Aşkı mı arıyorsunuz? Sevgililer Günü masa oyunumuzu oynayın ve Denizaltı Dünyası için birçok eşya kazanın. Belki de aşk yolunda gerçek aşkınızı bulursunuz.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer2.content"><![CDATA[Hayvanlarınıza her zamanki gibi bakın ve kafeslerinizden fırlayacak renkli kabukları toplayın. Oyun tahtasında dolaşın ve ödülleri toplayın.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer3.content"><![CDATA[Oyunu bitirdiğinizde, oyun tahtası sıfırlanacak ve yeniden başlayabileceksiniz! Kabuklar etkinlik sonuna kadar ortaya çıkmaya devam edecek. Ondan sonra, onları kullanmak için 24 saatiniz olacak.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.over"><![CDATA[Bu adım için hala kabuklara ihtiyacınız var (sayı: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.default"><![CDATA[Burada mermilerinizi muhteşem ödüllerle takas edin!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Board">
+        <item name="zoo.window.infoLayers.valentine2017Board.title"><![CDATA[Sevgililer Günü]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Comic">
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer1.bubble"><![CDATA[Bizimle birlikte Kamboçya'ya seyahat edin ve tropikal ormanların derinliklerine dalın. Khon maskeleri toplayın ve antik Khmer tapınaklarının sırlarını keşfedin. Zenginlikler ve maceralar sizi bekliyor!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer2.content"><![CDATA[Hayvanlarınıza her zamanki gibi bakın ve kafeslerinizden çıkacak olan Khon maskelerini toplayın. Oyun tahtasında dolaşın ve ödülleri toplayın.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer3.content"><![CDATA[Oyunu bitirdiğinizde, oyun tahtası sıfırlanacak ve yeniden başlayabileceksiniz! Etkinlik sonuna kadar Khon maskeleri ortaya çıkacak. Sonrasında, bunları kullanmak için 24 saatiniz olacak.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.over"><![CDATA[Bu adım için hala khon maskelerine ihtiyacınız var (sayı: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.default"><![CDATA[Khon maskelerinizi buraya gönderin ve harika ödüller kazanın!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Board">
+        <item name="zoo.window.infoLayers.cambodia2017Board.title"><![CDATA[Kamboçya gezisi]]></item>
+      </category>
+    </category>
+  </category>
+</language>

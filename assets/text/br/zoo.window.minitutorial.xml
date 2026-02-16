@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.minitutorial">
+    <item name="zoo.window.minitutorial.title"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.minitutorial.infopage.1"><![CDATA[Bem-vindo(a) ao ZooMumba, sua aventura maluca no zoológico! Meu nome é Sonja e vou te guiar passo a passo em como o jogo funciona.<br><br>Na loja, você pode comprar diversos recintos para animais e colocá-los no seu zoológico.]]></item>
+    <item name="zoo.window.minitutorial.infopage.2"><![CDATA[Clique no recinto e compre um animal. Certifique-se de verificar se está comprando um macho ou uma fêmea.<br><br> Se tiver ambos no recinto, em breve poderá esperar filhotes!]]></item>
+    <item name="zoo.window.minitutorial.infopage.3"><![CDATA[Cuide dos seus animais regularmente, abrace-os e brinque com eles. Assim, eles ficarão felizes e satisfeitos. Experimente!]]></item>
+    <item name="zoo.window.minitutorial.infopage.4"><![CDATA[Você precisa conectar seus recintos, edifícios e atrações com caminhos que levem à entrada, para que os visitantes possam admirar tudo.]]></item>
+    <item name="zoo.window.minitutorial.infopage.5"><![CDATA[Na loja, você encontra ração e tudo o que seus animais desejam: carne, frutas, pasto - dê uma olhada!]]></item>
+    <item name="zoo.window.minitutorial.infopage.6"><![CDATA[A partir do nível 2, você também pode obter edifícios e barracas na loja, tornando seu zoológico ainda mais atraente para os visitantes. <br><br>Você pode coletar regularmente os valores arrecadados com as taxas de entrada no prédio principal.]]></item>
+    <item name="zoo.window.minitutorial.infopage.6b"><![CDATA[Você começará com alguns ZooDollars. Use-os para adquirir animais incríveis e atrações especiais, ou para contratar assistentes. Eles ajudarão na manutenção e nos cuidados do seu zoológico. <br><br>E se seus ZooDollars acabarem, não se preocupe! Você pode recarregá-los a qualquer momento no ZooBank.]]></item>
+    <item name="zoo.window.minitutorial.infopage.7"><![CDATA[Quanto mais visitantes você receber no seu zoológico, mais lixo você precisará limpar. Mantenha seu zoológico limpo e recolha o lixo. Seus visitantes agradecerão!]]></item>
+    <item name="zoo.window.minitutorial.infopage.8"><![CDATA[Quanto mais visitantes satisfeitos seu zoológico tiver, mais seu zoometro subirá. <br><br>Mãos à obra e construam o melhor zoológico do mundo - em ZooMumba! Divirtam-se!]]></item>
+  </category>
+</language>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.storage">
+    <category name="zoo.storage.moreSpace">
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Hayvanat bahçenizi genişletin!]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Bu ürünü yalnızca %neededExpansion% hayvanat bahçesi genişletmesine sahip olduğunuzda satın alabilirsiniz. Şu anda yalnızca %userExpansion% hayvanat bahçesi genişletmesine sahipsiniz. Bu ürünü satın alabilmek için hayvanat bahçenizi hemen genişletmek ister misiniz?]]></item>
+    </category>
+    <category name="zoo.storage.firstExpansion">
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[Su kulesi ve depo]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Harika! Sonunda ilk su kulesini ve depolama tesisini inşa etmek için yeterli alana sahipsiniz. Her iki öğe de envanterinizde ücretsiz. Şimdi oyun başlasın!]]></item>
+    </category>
+    <category name="zoo.storage.buy">
+      <item name="zoo.storage.buy.belowWater"><![CDATA[Su kulesinin maksimum kapasitesi %kapasite%'dir. Bu değer, bu binayı satın alsanız bile artırılamaz. Yine de satın almak istiyor musunuz?]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[Depo alanınızın maksimum kapasitesi %kapasite%'dir. Bu değer, bu binayı satın alsanız bile artırılamaz. Yine de satın almak istiyor musunuz?]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[Su kapasitenizin %kapasitesi kadar su depolayabiliyorsunuz. Daha fazla su depolayamazsınız. Bu bina kapasitenizi artırmayacak. Yine de satın almak istiyor musunuz?]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[Depolama kapasitenizin %capacity%'si kullanılabilir durumda. Daha fazla depolama alanı oluşturamazsınız. Bu bina kapasitenizi artırmayacak. Yine de satın almak istiyor musunuz?]]></item>
+    </category>
+    <category name="zoo.storage.capacity">
+      <item name="zoo.storage.capacity.title"><![CDATA[Depolama kapasitesi]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[Hayvanlarınızın bol miktarda yem ve suya ihtiyacı var. Burada, elinizde ne kadar yem ve su bulunduğunu ve ne kadarını genişletebileceğinizi görebilirsiniz.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Su - kapasite]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Besleme - kapasite]]></item>
+    </category>
+  </category>
+</language>

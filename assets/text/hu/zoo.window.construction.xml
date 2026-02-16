@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.construction">
+    <item name="zoo.window.construction.title"><![CDATA[Építés]]></item>
+    <item name="zoo.window.construction.info"><![CDATA[Körülbelül]]></item>
+    <item name="zoo.window.construction.buildinginfo"><![CDATA[Majdnem kész! Csak:]]></item>
+    <item name="zoo.window.construction.buildinginfo2"><![CDATA[Vagy azonnal megkapod a tárgyat (építés nélkül):]]></item>
+    <item name="zoo.window.construction.button.buydirectly"><![CDATA[Vásároljon most]]></item>
+  </category>
+</language>

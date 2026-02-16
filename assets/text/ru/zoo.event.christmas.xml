@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[С Рождеством!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[С 21 декабря по 2 января в вашем зоопарке всё будет посвящено Рождеству! Украсьте свою рождественскую ёлку и помогите мне спасти Рождество!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Сначала вырастите 8 летающих оленей, а затем одного Санта-Рудольфа для его саней. За каждого привезенного ему оленя вы получите подарок.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Время от времени Санта также будет дарить вам украшение для вашей рождественской елки. В конце концов, вы сможете оставить свою украшенную елку себе.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Ура! У нас здесь тоже есть специальная рождественская коллекция! Позаботьтесь о своих животных и соберите рождественские предметы. Вы также можете использовать их для разведения оленей!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Приятные сюрпризы в рождественском магазине]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Превратите свой зоопарк в красочный зимний мир с множеством новых и популярных рождественских украшений.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Счастливого Рождества и хорошего вам дня на рождественском мероприятии!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[Это ужасно! Олени Санты убежали, и теперь он не может развозить подарки! Принесите ему 8 летающих оленей и Рудольфа Санты и поставьте их перед его санями. В знак благодарности вы получите замечательные подарки!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Санта едет в:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Вы победили:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Посмотрите на свою рождественскую елку на парковке!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Подберите новый наряд для своего аватара!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Быстро, проверьте свой инвентарь!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Спасибо!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Ваши олени с нетерпением ждут начала путешествия. Благодаря вам Рождество спасено!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Спасибо!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Часть моих оленей всё ещё пропала, но мне пора отправляться в путь! Не волнуйтесь, я всё улажу — в конце концов, я же Санта-Клаус!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[Украшенная рождественская елка с вашей парковки теперь находится в вашем инвентаре.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Для начала давайте принесём Санте 8 волшебных оленей.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[У Санты уже есть 8 летающих оленей, и ему нужен только Рудольф!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Рождественское украшение]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Рождественский наряд]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Пара полярных сов]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Количество самцов магических северных оленей в вашем инвентаре.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Количество самок летающих северных оленей в вашем инвентаре.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Прежде чем принести Санте Рудольфа, ему сначала нужно 8 летающих оленей.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Количество самцов Санта-Рудольфа в вашем инвентаре.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Количество самок Санта-Рудольфа в вашем инвентаре.]]></item>
+    </category>
+  </category>
+</language>

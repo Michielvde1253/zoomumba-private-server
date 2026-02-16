@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Arara-de-arakanga]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[Esses papagaios alegres são muito falantes! Mantenha-os sempre em pares ou em grupo. Os visitantes adoram esses bichinhos inteligentes com suas penas de cores vibrantes!]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[flamingo rosa]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[Esses lindos animais cor-de-rosa atraem a atenção dos visitantes. Sua principal fonte de alimento é o plâncton, mas eles também apreciam peixe fresco. Um deleite para aves gulosas!]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[Zebra da montanha]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[Listras, listras e mais listras por toda parte! É de deixar qualquer um boquiaberto! Num mundo cheio de listras de zebra, é uma ótima camuflagem, mas na nossa região, as zebras têm uma aparência bem engraçada. As zebras definitivamente deveriam estar em todos os zoológicos, então não se deixe enganar!]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Rinoceronte]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[Esses grandes paquidermes são solitários. Não é à toa que têm chifres tão imponentes! Apesar da aparência poderosa, raramente se envolvem em brigas. No entanto, o ideal é manter apenas um macho e uma fêmea juntos.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[Hipopótamo anfíbio]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[Em terra, parecem colossos desajeitados, mas as aparências enganam. Tenha cuidado para não irritá-los, pois, uma vez que começam a correr, é melhor não ficar no caminho deles. Felizmente, são animais tranquilos se sua privacidade for respeitada.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Girafa marmorizada]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[Sempre lá no alto, nas nuvens! As girafas alcançam as frutas mais doces bem no topo das árvores. Não é de admirar, portanto, que as árvores sejam tão bem pastoreadas. Com seus longos pescoços, elas se esticam bem alto e gostam especialmente de comer as folhas verdes e jovens!]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[rena do Ártico]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[As renas vivem em manadas no extremo norte. Mesmo nas duras condições do Ártico, essas renas destemidas encontram um lugar para sobreviver.]]></item>
+    </category>
+  </category>
+</language>

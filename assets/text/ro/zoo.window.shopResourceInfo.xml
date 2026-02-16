@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopResourceInfo">
+    <item name="zoo.window.shopResourceInfo.titel_1"><![CDATA[Apă]]></item>
+    <item name="zoo.window.shopResourceInfo.text_1"><![CDATA[Animalele tale au nevoie de împrospătare! Fă-le fericite cu apă rece!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_2"><![CDATA[Iarbă]]></item>
+    <item name="zoo.window.shopResourceInfo.text_2"><![CDATA[Nu există o modalitate mai bună de a satisface un stomac flămând decât să te hrănești cu iarbă verde delicioasă. Și cu puțin noroc, vor fi și niște insecte în iarbă, ca bonus :-) Delicios!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_3"><![CDATA[Carne]]></item>
+    <item name="zoo.window.shopResourceInfo.text_3"><![CDATA[Cine nu s-ar bucura de o bucată bună de carne? O friptură atât de suculentă este o adevărată încântare!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_4"><![CDATA[Peşte]]></item>
+    <item name="zoo.window.shopResourceInfo.text_4"><![CDATA[Peștele este sănătos! Și o hrană preferată pentru multe animale. Nu trebuie să vă faceți griji cu privire la eviscerare sau tăiere, animalele dumneavoastră se vor bucura de orice!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_5"><![CDATA[Fructe]]></item>
+    <item name="zoo.window.shopResourceInfo.text_5"><![CDATA[Fructe dulci și suculente - cine ar putea rezista. Aici veți găsi fructe pentru toate animalele!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_6"><![CDATA[Cereale]]></item>
+    <item name="zoo.window.shopResourceInfo.text_6"><![CDATA[Cerealele sunt o sursă importantă de hrană pentru animalele tale, ajutându-le să rămână active și sănătoase!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_7"><![CDATA[Medicament]]></item>
+    <item name="zoo.window.shopResourceInfo.text_7"><![CDATA[Se simte vreunul dintre animalele tale rău? Acest medicament îl va ajuta cu siguranță să se pună pe picioare.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_8"><![CDATA[Superaliment]]></item>
+    <item name="zoo.window.shopResourceInfo.text_8"><![CDATA[Cu superalimente primești dublu BZ.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_9"><![CDATA[Supermedicină]]></item>
+    <item name="zoo.window.shopResourceInfo.text_9"><![CDATA[În cazul unei infecții severe, trebuie să utilizați un medicament cu adevărat eficient. Vin rapid cu un super medicament. În plus, cu super medicamentele vă creșteți șansele de a obține recompense valoroase care „sar” din incintă.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_10"><![CDATA[Cea mai bună mâncare]]></item>
+    <item name="zoo.window.shopResourceInfo.text_10"><![CDATA[Cea mai bună hrană vă va oferi de patru ori mai multe lăbuțe pentru a vă înfrumuseța incintele.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_11"><![CDATA[Esența lui Tolija]]></item>
+    <item name="zoo.window.shopResourceInfo.text_11"><![CDATA[Esența Tolija scurtează timpul de reproducere cu 50%.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_12"><![CDATA[Poțiune de creștere]]></item>
+    <item name="zoo.window.shopResourceInfo.text_12"><![CDATA[Cu poțiunea de creștere, micuții tăi vor crește de două ori mai repede!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_13"><![CDATA[Gunoi]]></item>
+    <item name="zoo.window.shopResourceInfo.text_13"><![CDATA[E uimitor ce aruncă oamenii! Reciclează deșeurile și folosește materialele pentru a construi obiecte noi pentru grădina zoologică.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_14"><![CDATA[Super filtru]]></item>
+    <item name="zoo.window.shopResourceInfo.text_14"><![CDATA[Dacă reciclezi deșeurile folosind un superfiltru, îți vei crește șansele de a obține materiale rare.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_15"><![CDATA[Booster pentru meșteșugari]]></item>
+    <item name="zoo.window.shopResourceInfo.text_15"><![CDATA[Acest amestec de hamei și băutură energizantă este exact ceea ce meșterii tăi au nevoie pentru a-și face simțită prezența și a termina treaba mai repede.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_16"><![CDATA[Alge]]></item>
+    <item name="zoo.window.shopResourceInfo.text_16"><![CDATA[Plante acvatice verzi pline de nutrienți valoroși! Delicios!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_17"><![CDATA[Plancton]]></item>
+    <item name="zoo.window.shopResourceInfo.text_17"><![CDATA[Planctonul este un microorganisme care constituie hrană pentru multe animale oceanice.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_18"><![CDATA[Crevetă]]></item>
+    <item name="zoo.window.shopResourceInfo.text_18"><![CDATA[Nu doar oamenii, ci și animalele adoră creveții!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_19"><![CDATA[Midii]]></item>
+    <item name="zoo.window.shopResourceInfo.text_19"><![CDATA[Savurați carnea moale ascunsă în interior. Cine ar putea rezista unei asemenea delicatese?]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_20"><![CDATA[Filtru de apă]]></item>
+    <item name="zoo.window.shopResourceInfo.text_20"><![CDATA[Folosește un filtru bun pentru a menține apa din acvarii limpede ca cristalul.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_21"><![CDATA[Super hrană pentru pești]]></item>
+    <item name="zoo.window.shopResourceInfo.text_21"><![CDATA[Super Fish Food oferă o dietă echilibrată pentru viața marină de toate formele și dimensiunile. Servește-l și primește o doză dublă de BZ!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_22"><![CDATA[Hrană exclusivă pentru pești]]></item>
+    <item name="zoo.window.shopResourceInfo.text_22"><![CDATA[Hrană exclusivă pentru pești exclusivi. Hrănește-ți animalele cu această hrană și primești de două ori mai multe perle!]]></item>
+  </category>
+</language>

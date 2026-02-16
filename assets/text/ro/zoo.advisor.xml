@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advisor">
+    <category name="zoo.advisor.buttons">
+      <item name="zoo.advisor.buttons.1"><![CDATA[Specii de animale]]></item>
+      <item name="zoo.advisor.buttons.2"><![CDATA[Satisfacţie]]></item>
+      <item name="zoo.advisor.buttons.3"><![CDATA[Decorare]]></item>
+      <item name="zoo.advisor.buttons.4"><![CDATA[Creșterea animalelor]]></item>
+      <item name="zoo.advisor.buttons.5"><![CDATA[Gunoi]]></item>
+    </category>
+    <category name="zoo.advisor.descriptions">
+      <item name="zoo.advisor.descriptions.1.A"><![CDATA[Grozav! Nimeni nu se poate plânge de lipsa de varietate din grădina zoologică a voastră. Continuați tot așa!]]></item>
+      <item name="zoo.advisor.descriptions.1.B"><![CDATA[Vizitatorilor le place când pot admira o mare varietate de animale într-o grădină zoologică. Ai %currentspecies% din diferite specii, asta e mult! Vizitează magazinul, vei găsi acolo cel puțin %missingspecies% mai mult.]]></item>
+      <item name="zoo.advisor.descriptions.1.C"><![CDATA[Cei care vizitează grădina zoologică vor să vadă cât mai multe animale. Dar grădina zoologică merită. În prezent, dețineți %currentspecies% din animale. Puteți găsi cel puțin %missingspecies% mai multe specii în magazinul de animale.]]></item>
+      <item name="zoo.advisor.descriptions.1.D"><![CDATA[Oricine merge la grădina zoologică vrea să vadă animale! Grădina zoologică ar putea avea o selecție și mai mare: În prezent aveți %currentspecies% specii de animale. Magazinul de animale oferă cel puțin %missingspecies% mai mult.]]></item>
+      <item name="zoo.advisor.descriptions.1.E"><![CDATA[O! Nu sunt multe specii de animale în grădina zoologică. Vizitatorii pot admira %currentspecies% specii, pe care le pot gestiona destul de repede. Cumpără rapid cel puțin %missingspecies% mai multe animale din Magazinul Grădinii Zoologice.]]></item>
+      <item name="zoo.advisor.descriptions.2.A"><![CDATA[Animalele tale sunt complet mulțumite. Ești un director de grădină zoologică exemplar.]]></item>
+      <item name="zoo.advisor.descriptions.2.B"><![CDATA[Ai mare grijă de animalele tale, dar uite, unele dintre ele merită și mai multă atenție.]]></item>
+      <item name="zoo.advisor.descriptions.2.C"><![CDATA[O! Animalele tale se cam plictisesc. Nu ți-ar plăcea să te joci puțin cu ele, să le hrănești sau să le dai apă? Ar fi minunat pentru ele și ar fi din nou foarte fericiți!]]></item>
+      <item name="zoo.advisor.descriptions.2.D"><![CDATA[Vai de mine! Animalele tale sunt triste pentru că nu ai avut grijă de ele. Joacă-te puțin cu ele! Puțină mâncare și apă le vor înveseli și pe ele. Atunci grădina zoologică va străluci din nou și va încânta vizitatorii!]]></item>
+      <item name="zoo.advisor.descriptions.2.E"><![CDATA[O, nu! Animalelor tale le este foame și sete! Hai, ai grijă de ele! După ce sunt hrănite și țarcurile sunt curățate, va fi distractiv să ne jucăm din nou cu animalele!]]></item>
+      <item name="zoo.advisor.descriptions.3.A"><![CDATA[Uau! Grădina zoologică este frumos decorată! Vizitatorii au atât de multe de văzut. Continuă tot așa!]]></item>
+      <item name="zoo.advisor.descriptions.3.B"><![CDATA[Grozav! Ți-ai decorat frumos grădina zoologică! Vizitează magazinul de la grădina zoologică: vei găsi acolo o mulțime de alte decorațiuni drăguțe și amuzante. Vizitatorilor tăi le place schimbarea!]]></item>
+      <item name="zoo.advisor.descriptions.3.C"><![CDATA[Grădina zoologică e drăguță, dar ar putea fi mai bine schimbată! Poți găsi o mulțime de decorațiuni drăguțe și amuzante în magazinul de la grădina zoologică.]]></item>
+      <item name="zoo.advisor.descriptions.3.D"><![CDATA[Practic și funcțional, dar puțin plictisitor. Mai multe decorațiuni vor fi apreciate de vizitatori. Arată tuturor că poți arăta mai multe!]]></item>
+      <item name="zoo.advisor.descriptions.3.E"><![CDATA[Grădina zoologică ta ar putea avea nevoie de puțin mai multă decorațiune. Încântă-ți vizitatorii cu decorațiuni noi și atrăgătoare.]]></item>
+      <item name="zoo.advisor.descriptions.4.A"><![CDATA[Atâția bebeluși drăguți! Chiar ai mâini de aur și animalele tale au atât de mulți pui. Grozav!]]></item>
+      <item name="zoo.advisor.descriptions.4.B"><![CDATA[Titlurile miniaturale despre puii de animale de la grădina zoologică atrag vizitatorii. Dar fiecare director de grădină zoologică caută mereu modalități de îmbunătățire. Uite: În prezent, poți crește cu %missingbabies% mai mulți pui de animale.]]></item>
+      <item name="zoo.advisor.descriptions.4.C"><![CDATA[Vestea despre noile adăugiri la grădina zoologică se răspândește pretutindeni. Vizitatorii îi adoră pe puii mici și stângaci! În prezent, poți crește cu %missingbabies% mai mulți pui.]]></item>
+      <item name="zoo.advisor.descriptions.4.D"><![CDATA[Grădina zoologică ta ar avea nevoie de mai mulți pui. Vezi: %missingbabies% dintre cupluri caută în prezent un pui. Încearcă să-i împerechezi!]]></item>
+      <item name="zoo.advisor.descriptions.4.E"><![CDATA[Există multă îngrijorare cu privire la puii tăi de la grădina zoologică: %missingbabies% dintre cupluri așteaptă în prezent un copil. Încearcă să reproduci puii și să-ți încânți vizitatorii cu vederea puilor tăi stângaci.]]></item>
+      <item name="zoo.advisor.descriptions.5.A"><![CDATA[Grozav, grădina zoologică arată minunat! Și vizitatorilor le place la nebunie. Continuă tot așa!]]></item>
+      <item name="zoo.advisor.descriptions.5.B"><![CDATA[Te descurci bine, dar grădina zoologică ar fi și mai frumoasă dacă ai aduna restul gunoaielor.]]></item>
+      <item name="zoo.advisor.descriptions.5.C"><![CDATA[Gunoiul din grădina zoologică se adună încet. În sfârșit, curăță-l.]]></item>
+      <item name="zoo.advisor.descriptions.5.D"><![CDATA[Există o mulțime de gunoaie în grădina zoologică. Ar trebui neapărat să faci ordine și să cureți totul.]]></item>
+      <item name="zoo.advisor.descriptions.5.E"><![CDATA[Grădina zoologică se îneacă în gunoaie! Curățați munții de gunoaie de pe cărări și goliți coșurile de gunoi.]]></item>
+    </category>
+    <category name="zoo.advisor.help">
+      <item name="zoo.advisor.help.1"><![CDATA[În categoria „Specii de animale”, puteți vedea dacă toate speciile de animale posibile sunt reprezentate în grădina zoologică.]]></item>
+      <item name="zoo.advisor.help.2"><![CDATA[Categoria „Satisfacție” arată cât de fericite sunt animalele tale în prezent.]]></item>
+      <item name="zoo.advisor.help.3"><![CDATA[În categoria „Decorațiuni”, puteți vedea dacă decorațiunile din grădina zoologică sunt atractive pentru vizitatori.]]></item>
+      <item name="zoo.advisor.help.4"><![CDATA[Vizitatorilor le plac bebelușii drăguți! Obiectul „Creșterea animalelor” vă va arăta nivelul de succes al creșterii dumneavoastră.]]></item>
+      <item name="zoo.advisor.help.5"><![CDATA[Elementul „Gunoi” îți va arăta dacă grădina zoologică este curată sau dacă vizitatorii se împiedică de munți de gunoi.]]></item>
+      <item name="zoo.advisor.help.6"><![CDATA[Folosește tastele de la 1 la 7 pentru a ajunge mai repede la magazin.]]></item>
+      <item name="zoo.advisor.help.7"><![CDATA[Folosește literele Q, W, E și R pentru a muta (W), a întoarce (E), a vinde (R) sau a schimba modul de joc (Q) obiecte.]]></item>
+      <item name="zoo.advisor.help.8"><![CDATA[Nu uita să folosești o parolă sigură pe care să nu o împărtășești cu nimeni!]]></item>
+      <item name="zoo.advisor.help.9"><![CDATA[Puteți activa sau dezactiva sfaturile de joc și diverse alte funcții, cum ar fi vizitatorii, efectele de fundal și efectele sonore, pentru a face jocul să ruleze mai rapid pe computerele mai slabe.]]></item>
+      <item name="zoo.advisor.help.10"><![CDATA[Cumpără Dolari Zoo de la bancă. Uneori îi poți obține ca recompensă pentru îndeplinirea sarcinilor zilnice. Îi poți obține și dacă ajungi la un nivel suficient.]]></item>
+      <item name="zoo.advisor.help.11"><![CDATA[Vor exista și promoții cu coduri bonus din când în când, așa că fiți cu ochii pe anunțurile oficiale de pe forum.]]></item>
+      <item name="zoo.advisor.help.12"><![CDATA[Animalele tale se pot îmbolnăvi accidental. Cu cât ai mai multă grijă de ele, cu atât vor rămâne mai mult timp sănătoase. Dar dacă animalul tău nu este bolnav, nu îi poți face nici măcar o injecție.]]></item>
+      <item name="zoo.advisor.help.13"><![CDATA[Animalele tale se simt minunat în toate țarcurile. Și nu contează în ce țarc le pui.]]></item>
+      <item name="zoo.advisor.help.14"><![CDATA[În prezent, nu puteți muta animale în alte incinte.]]></item>
+      <item name="zoo.advisor.help.15"><![CDATA[Dacă vinzi țarcului, vinzi și animalul din el.]]></item>
+      <item name="zoo.advisor.help.16"><![CDATA[Există două tipuri de suricate în joc - normale și suricata gri Beda. Beda apare doar în timpul anumitor evenimente și poate fi cumpărată doar în zile speciale.]]></item>
+      <item name="zoo.advisor.help.17"><![CDATA[Dacă dai clic pe „adoptă pentru zoodolari”, ești 100% sigur de o nouă adăugare și nu trebuie să aștepți.]]></item>
+      <item name="zoo.advisor.help.18"><![CDATA[Îți poți salva prietenii de pe ZooMumba în agenda ta. Din păcate, momentan nu poți invita niciun vecin.]]></item>
+      <item name="zoo.advisor.help.19"><![CDATA[Cu cât deții mai multe magazine, cu atât câștigi mai mulți zoogroși.]]></item>
+      <item name="zoo.advisor.help.20"><![CDATA[Nu ai timp? Atunci angajează asistenți. Reține că asistenții funcționează doar atunci când dai clic pe ei (nu funcționează automat).]]></item>
+      <item name="zoo.advisor.help.21"><![CDATA[Dacă angajezi un casier, Kešík, îți vei mări veniturile.]]></item>
+      <item name="zoo.advisor.help.22"><![CDATA[Merită să folosești asistenți: vei câștiga mai multe puncte de experiență.]]></item>
+      <item name="zoo.advisor.help.23"><![CDATA[Dacă ai toți asistenții, activezi reprezentantul lui David - el îi poate face pe toți asistenții să lucreze cu un singur clic.]]></item>
+      <item name="zoo.advisor.help.24"><![CDATA[Cu cât sortezi mai multe deșeuri la grădina zoologică, cu atât mai puține vor ajunge pe străzi.]]></item>
+      <item name="zoo.advisor.help.25"><![CDATA[Cumpără un mascul și o femelă din aceeași specie și în curând vei avea pui drăguți la grădina zoologică.]]></item>
+      <item name="zoo.advisor.help.26"><![CDATA[Puteți depozita doar o anumită sumă de bani pentru bilete în clădirea principală, așa că asigurați-vă că o colectați în mod regulat.]]></item>
+      <item name="zoo.advisor.help.27"><![CDATA[Pentru a obține profit de pe urma clădirilor dumneavoastră, acestea trebuie să fie întotdeauna conectate printr-o cale. Cum altfel ar putea vizitatorii să ajungă la ele?]]></item>
+      <item name="zoo.advisor.help.28"><![CDATA[Fii atent: Din când în când, în magazin apar animale sau obiecte speciale pe care le poți cumpăra doar pentru o perioadă limitată de timp.]]></item>
+      <item name="zoo.advisor.help.29"><![CDATA[Hrănește-ți animalele cu super-hrană, acestea vor rămâne sătule mai mult timp!]]></item>
+      <item name="zoo.advisor.help.30"><![CDATA[O! Sunt animalele tale bolnave? Dă-le super-medicamente și vor fi din nou la fel de sănătoase ca peștii!]]></item>
+    </category>
+  </category>
+</language>

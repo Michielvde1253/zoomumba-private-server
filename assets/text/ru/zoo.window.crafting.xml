@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.crafting">
+    <item name="zoo.window.crafting.intro.blueprintRewards"><![CDATA[Вы собрали %mycards% из %allcards% чертежей зданий!]]></item>
+    <item name="zoo.window.crafting.intro.title"><![CDATA[Мастер-класс]]></item>
+    <item name="zoo.window.crafting.intro.text"><![CDATA[Внимание, мастера и любители! Используйте свои материалы для строительства новых ограждений, зданий, украшений или дорожек. Просто выберите категорию ниже и перейдите к следующему этапу производства.]]></item>
+    <item name="zoo.window.crafting.intro.chooseCategorie"><![CDATA[Выберите категорию:]]></item>
+    <item name="zoo.window.crafting.produce.text"><![CDATA[Всё очень просто: в левом нижнем углу вы видите, что сейчас производится. На плане строительства указаны необходимые материалы. Над ним отображается время производства и количество лап, которые вам нужно заплатить. Понятно? Хорошо, тогда нажмите «Старт».]]></item>
+    <item name="zoo.window.crafting.produce.button"><![CDATA[Начинать]]></item>
+    <item name="zoo.window.crafting.progress.title"><![CDATA[Мастер-класс]]></item>
+    <item name="zoo.window.crafting.progress.text"><![CDATA[Производство началось!]]></item>
+    <item name="zoo.window.crafting.progress.time"><![CDATA[Продолжительность:]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.title"><![CDATA[Произвести немедленно]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.text"><![CDATA[Сэкономьте время и завершите производство немедленно!]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.button"><![CDATA[Полный]]></item>
+    <item name="zoo.window.crafting.progress.layer.elixir.text"><![CDATA[Ускорьте и завершите производство вдвое.]]></item>
+    <item name="zoo.window.crafting.progress.button.elixir"><![CDATA[Ускорить]]></item>
+    <item name="zoo.window.crafting.success.text"><![CDATA[Ура! Всё готово: созданный вами предмет теперь находится в вашем инвентаре!]]></item>
+    <item name="zoo.window.crafting.blueprint.text"><![CDATA[Ура! Вы только что получили чертеж здания! Отправляйтесь в мастерскую и постройте новый объект для своего зоопарка!]]></item>
+  </category>
+</language>

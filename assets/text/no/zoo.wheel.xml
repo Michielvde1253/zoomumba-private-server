@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Ekstra forsøk]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Jøss, du har et ekstra forsøk!<br> For hver dag du logger inn, får du et ekstra spinn på lykkehjulet.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Klikk og prøv lykken!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Eller klikk på bygningen med lykkehjulet i byen. Hvert spinn garanterer flotte belønninger!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Ytterligere forsøk]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Har du lyst til å kjøpe et nytt forsøk?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Gratulerer!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Hurra! Du vant:]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Spinn igjen, du kan bare vinne på lykkehjulet!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Mater John i 1 time]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Vannleverandør Paul i 1 time]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Vaktmester Stanley i 1 time]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Oppdretter Sonja i 1 time]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Søppeltømmer George i 1 time]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Kasserer Kassemedarbeider i 1 time]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Mater John i 3 timer]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Vannleverandør Paul i 3 timer]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Vaktmester Stanley i 3 timer]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Oppdretter Sonja i 3 timer]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Søppeltømmer George i 3 timer]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Kasserer Kassemedarbeider i 3 timer]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[30 % EP-bonus i hele 8 timer!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100 % EP-bonus i hele 8 timer!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50 % potebonus i hele 5 timer!]]></item>
+    </category>
+  </category>
+</language>

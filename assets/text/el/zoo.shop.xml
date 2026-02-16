@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop">
+    <category name="zoo.shop.category">
+      <item name="zoo.shop.category.animals"><![CDATA[Ζώα]]></item>
+      <item name="zoo.shop.category.cages"><![CDATA[Οικότοποι]]></item>
+      <item name="zoo.shop.category.stores"><![CDATA[Κτίρια]]></item>
+      <item name="zoo.shop.category.deco"><![CDATA[Διακοσμήσεις]]></item>
+      <item name="zoo.shop.category.resources"><![CDATA[Τροφή]]></item>
+      <item name="zoo.shop.category.assistants"><![CDATA[Βοηθοί]]></item>
+      <item name="zoo.shop.category.specials"><![CDATA[Αξεσουάρ]]></item>
+      <item name="zoo.shop.category.roads"><![CDATA[Δρόμοι]]></item>
+      <item name="zoo.shop.category.material"><![CDATA[Υλικό]]></item>
+    </category>
+    <category name="zoo.shop.tabbar">
+      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Έτσι θα φτάσετε στο εργαστήριο.]]></item>
+    </category>
+  </category>
+</language>

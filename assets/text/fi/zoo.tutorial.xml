@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.tutorial">
+    <category name="zoo.tutorial.tour">
+      <item name="zoo.tutorial.tour.1"><![CDATA[Tervetuloa ZooMumbaan, sinun hullunkuriseen eläintarhaasi! Nimeni on Sonja, ja opastan sinua askel askeleelta pelin toiminnassa.<br><br>Kaupasta voit ostaa erilaisia ​​eläinaitauksia, jotka voit sitten sijoittaa pelikentälle.]]></item>
+      <item name="zoo.tutorial.tour.2"><![CDATA[Klikkaa aitausta ja osta eläin. Kiinnitä huomiota siihen, ostatko uroksen vai naaraan.<br><br>Jos aitauksessa on molemmat, voit odottaa jälkeläisiä pian!]]></item>
+      <item name="zoo.tutorial.tour.3"><![CDATA[Pidä huolta eläimistäsi säännöllisesti, halaa niitä ja leiki niiden kanssa. Näin ne ovat onnellisia ja tyytyväisiä. Kokeile!]]></item>
+      <item name="zoo.tutorial.tour.4"><![CDATA[Sinun on yhdistettävä aitaukset, rakennukset ja nähtävyydet sisäänkäynnille johtaviin polkuihin, jotta vierailijat voivat ihailla kaikkea.]]></item>
+      <item name="zoo.tutorial.tour.5"><![CDATA[Hanki kaupasta rehua ja kaikkea, mitä eläimesi haluavat: lihaa, hedelmiä, ruohoa - katso vain ympärillesi!]]></item>
+      <item name="zoo.tutorial.tour.6"><![CDATA[Tasolta 2 alkaen voit hankkia kauppaan myös rakennuksia ja kojuja, jotka tekevät eläintarhastasi entistä houkuttelevamman vierailijoille. <br><br>Voit kerätä säännöllisesti sisäänpääsymaksutuloja päärakennuksesta.]]></item>
+      <item name="zoo.tutorial.tour.7"><![CDATA[Mitä enemmän vierailijoita toivotat tervetulleiksi eläintarhaasi, sitä enemmän roskia joudut siivoamaan. <br><br>Pidä eläintarhasi puhtaana ja kerää roskat pitääksesi vierailijasi tyytyväisinä!]]></item>
+      <item name="zoo.tutorial.tour.8"><![CDATA[Mitä enemmän tyytyväisiä vierailijoita eläintarhassasi on, sitä korkeammalle Zoometerisi nousee.<br><br>Ryhtykää toimeen ja rakentakaa maailman upein eläintarha – ZooMumbassa! Pitäkää hauskaa!]]></item>
+    </category>
+    <category name="zoo.tutorial.general">
+      <item name="zoo.tutorial.general.forgive.title"><![CDATA[Ohita]]></item>
+      <item name="zoo.tutorial.general.forgive.text"><![CDATA[Haluatko todella ohittaa tämän vaiheen?]]></item>
+      <item name="zoo.tutorial.general.award"><![CDATA[Tehtävä %currentTask% suoritettu onnistuneesti. Tehtävien kokonaismäärä: %totalTasks%]]></item>
+    </category>
+    <category name="zoo.tutorial.title">
+      <item name="zoo.tutorial.title.0"><![CDATA[Tervetuloa ZooMumba-peliin!]]></item>
+      <item name="zoo.tutorial.title.1"><![CDATA[Nappaa pingviinit!]]></item>
+      <item name="zoo.tutorial.title.2"><![CDATA[Ruoki pingviinit!]]></item>
+      <item name="zoo.tutorial.title.3"><![CDATA[Hoitoa ja halailua]]></item>
+      <item name="zoo.tutorial.title.4"><![CDATA[Rakenna koteloita]]></item>
+      <item name="zoo.tutorial.title.5"><![CDATA[Hurraa, laitetaan eläimet aitauksiinsa!]]></item>
+      <item name="zoo.tutorial.title.6"><![CDATA[Luo uusi polku]]></item>
+      <item name="zoo.tutorial.title.7"><![CDATA[Hankkiudu eroon roskista!]]></item>
+      <item name="zoo.tutorial.title.8"><![CDATA[Lisäruokinta]]></item>
+      <item name="zoo.tutorial.title.9"><![CDATA[Kasvata jälkeläisiä]]></item>
+      <item name="zoo.tutorial.title.10"><![CDATA[Ansaintamahdollisuus]]></item>
+      <item name="zoo.tutorial.title.11"><![CDATA[Melkein sait sen!]]></item>
+      <item name="zoo.tutorial.title.12"><![CDATA[Jee, teit sen!]]></item>
+      <item name="zoo.tutorial.title.13"><![CDATA[Jee! Kutsu nyt kaverisi!]]></item>
+      <item name="zoo.tutorial.title.14"><![CDATA[Safari alkaa!]]></item>
+    </category>
+    <category name="zoo.tutorial.main">
+      <item name="zoo.tutorial.main.0"><![CDATA[Saanko esitellä itseni? Nimeni on Sonja, ja selitän, miten tämä hullu eläintarhapeli toimii. Oletko valmis? Mennään, eläintarhan johtaja!]]></item>
+      <item name="zoo.tutorial.main.1"><![CDATA[Pieni onnettomuus on sattunut! Pingviinit karkasivat aitauksestaan! Auta minua saamaan ne nopeasti kiinni ja palauttamaan ne aitaukseensa.]]></item>
+      <item name="zoo.tutorial.main.2"><![CDATA[Hienoa! Kaiken tuon juoksemisen jälkeen ne ovat nälkäisiä ja janoisia. Anna niille runsaasti vettä ja kaloja. Klikkaa aitausta, sitten kaloja ja ämpäriä.]]></item>
+      <item name="zoo.tutorial.main.3"><![CDATA[Napsauta harja kiinni ja puhdista kotelo. Näetkö? Se on nyt säihkyvän puhdas! Ja vielä vähän lisää halailua näille villeille eväjalkaisille - napsauta nallekarhua kiinni.]]></item>
+      <item name="zoo.tutorial.main.4"><![CDATA[Mahtavaa! Tiedät todella, miten eläimistä pidetään huolta! Nyt voit rakentaa aitauksia. Mene kauppaan, napsauta aitausta ja aseta se eläintarhaasi.]]></item>
+      <item name="zoo.tutorial.main.5"><![CDATA[Laita pari puheliaita papukaijoja lintuhäkkiin. Klikkaa lintuhäkkiä, valitse kaupasta naaras ja uros ja aseta ne sisälle.]]></item>
+      <item name="zoo.tutorial.main.6"><![CDATA[Yhdistä aitaukset poluilla. Mitä paremmat yhteydet, sitä houkuttelevampi eläintarhastasi tulee. Rakenna polku papukaijojen lintuhäkille.]]></item>
+      <item name="zoo.tutorial.main.7"><![CDATA[Turistitulvan myötä sinulla on myös paljon roskaa. Hoida se napsauttamalla lapiota.]]></item>
+      <item name="zoo.tutorial.main.8"><![CDATA[Osta kaupasta rehua kaikille eläimillesi. Tänään tarvitset hedelmiä papukaijojen ruokkimiseen.]]></item>
+      <item name="zoo.tutorial.main.9"><![CDATA[Jos sinulla on uros ja naaras yhdessä, napsauta "Jalostus"-painiketta ja sitten "Osta nyt".]]></item>
+      <item name="zoo.tutorial.main.10"><![CDATA[Eläintarhasi rakennukset tuottavat zoogroja, joten muista kerätä ansiosi säännöllisesti. Klikkaa vain rakennuksen yläpuolella olevaa zoogroa.]]></item>
+      <item name="zoo.tutorial.main.11"><![CDATA[Valmis. Onko sinulla kysyttävää? Lue vinkit rauhassa. Liikuta vain hiirtä ympäriinsä: sinusta tulee entistäkin älykkäämpi!]]></item>
+      <item name="zoo.tutorial.main.12"><![CDATA[Voimme kättellä, kollega. Sinusta on tullut kokenut eläintarhan johtaja. Keräämäsi tieto on tehnyt eläintarhastasi todella kuuluisan. Ja se on juhlimisen arvoinen asia!]]></item>
+      <item name="zoo.tutorial.main.13"><![CDATA[Hiljaa... Tiesitkö? Nyt voit kutsua ystäväsi peliin. Lähetä vain sähköpostia, niin voitte aloittaa pelaamisen yhdessä!]]></item>
+      <item name="zoo.tutorial.main.14"><![CDATA[Hurraa! Olet saavuttanut tason 7: Safarin maailma on nyt jalkojesi juuressa. Paina kaasua ja klikkaa jeeppiä ohjauskeskuksessa tai tarkista päärakennuksen valikko. Anna palaa!]]></item>
+    </category>
+    <category name="zoo.tutorial.hint">
+      <item name="zoo.tutorial.hint.0"><![CDATA[EI MITÄÄN]]></item>
+      <item name="zoo.tutorial.hint.1"><![CDATA[EI MITÄÄN]]></item>
+      <item name="zoo.tutorial.hint.2"><![CDATA[Ruoki eläimiäsi superruoalla ja ansaitse ylimääräisiä kokemuspisteitä!]]></item>
+      <item name="zoo.tutorial.hint.3"><![CDATA[Voit päätellä eläinten onnellisuuden oikukkaasta kissasta. Mitä enemmän pidät niistä huolta, sitä onnellisempia ne ovat.]]></item>
+      <item name="zoo.tutorial.hint.4"><![CDATA[Napsauta rakennusta lyhentääksesi rakennusaikaa.]]></item>
+      <item name="zoo.tutorial.hint.5"><![CDATA[Jos haluat jalostaa poikasia, varmista, että aitauksessa on uros ja naaras.]]></item>
+      <item name="zoo.tutorial.hint.6"><![CDATA[Varmista, että aitauksesi ovat yhteydessä polkujen kautta. Muuten eläintarhasi menettää viehättävyytensä.]]></item>
+      <item name="zoo.tutorial.hint.7"><![CDATA[Pidä huolta roskakoreista pitääksesi eläintarhasi puhtaana.]]></item>
+      <item name="zoo.tutorial.hint.8"><![CDATA[Ruoki eläimiäsi parhaalla rehulla useammin. Ansaitset siitä paljon kokemuspisteitä!]]></item>
+      <item name="zoo.tutorial.hint.9"><![CDATA[Tutti näyttää, kun lisääntyminen on valmis.]]></item>
+      <item name="zoo.tutorial.hint.10"><![CDATA[Pelin sisäinen valuutta vähissä? Hanki lisää! Klikkaa kultaista pussia.]]></item>
+      <item name="zoo.tutorial.hint.13"><![CDATA[Anna sen ystävän sähköpostiosoite, jonka haluat kutsua peliin.]]></item>
+      <item name="zoo.tutorial.hint.14"><![CDATA[Eri safarialueille pääsemiseksi tarvitset vaihtelevia määriä polttoainetta. Suljetuille alueille ei kuitenkaan pääse.]]></item>
+    </category>
+    <category name="zoo.tutorial.success">
+      <item name="zoo.tutorial.success.title"><![CDATA[Kunnossa!]]></item>
+      <item name="zoo.tutorial.success.step.1"><![CDATA[Hienoa! Pingviinit ovat takaisin aitauksessaan. Klikkaa nuolta siirtyäksesi seuraavaan vaiheeseen.]]></item>
+      <item name="zoo.tutorial.success.step.2"><![CDATA[Nam! Pingviinisi ovat nyt täynnä. Klikkaa nuolta jatkaaksesi!]]></item>
+      <item name="zoo.tutorial.success.step.3"><![CDATA[Hienoa työtä! Iloiset eväjalkaiset ovat nyt puhtaita ja onnellisia. Klikkaa nuolta jatkaaksesi!]]></item>
+      <item name="zoo.tutorial.success.step.4"><![CDATA[Huipputyötä! Kotelo on valmis. Siirry seuraavaan vaiheeseen napsauttamalla nuolta.]]></item>
+      <item name="zoo.tutorial.success.step.5"><![CDATA[Jee! Eläintarhassasi on nyt papukaijoja! Klikkaa nuolta jatkaaksesi!]]></item>
+      <item name="zoo.tutorial.success.step.6"><![CDATA[Jatkakaa samaan malliin! Vierailijat ihailevat uusia aitauksia. Klikkaa nuolta jatkaaksesi!]]></item>
+      <item name="zoo.tutorial.success.step.7"><![CDATA[Täydellistä! Tästä lähtien polut ovat säihkyvän puhtaita. Klikkaa nuolta jatkaaksesi!]]></item>
+      <item name="zoo.tutorial.success.step.8"><![CDATA[Kuinka ihanaa! Papukaijat ovat nyt täynnä. Klikkaa nuolta jatkaaksesi!]]></item>
+      <item name="zoo.tutorial.success.step.9"><![CDATA[Kuinka suloista! Olet onnistuneesti adoptoinut papukaijan jälkeläisen. Klikkaa nuolta jatkaaksesi!]]></item>
+      <item name="zoo.tutorial.success.step.10"><![CDATA[Hienoa! Rahaa virtaa sisään! Olet melkein valmis! Klikkaa nopeasti nuolta vielä kerran.]]></item>
+      <item name="zoo.tutorial.success.step.11"><![CDATA[Niin helppoa! Olet melkein ammattilainen keräämään pisteitä valikosta. Yksi klikkaus lisää, ja olet pienen matkamme päässä.]]></item>
+    </category>
+  </category>
+</language>

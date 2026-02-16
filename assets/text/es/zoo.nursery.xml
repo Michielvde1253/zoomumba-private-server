@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Hola, soy Tina y cuido de tus crías. Se convierten en adultas en mi criadero. Elige la cría que quieras criar de tu inventario.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Listo para crecer]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Aquí es donde está creciendo el cachorro.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[¡Tu cachorro ha crecido!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Aumentar]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Usar esencia]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Levantar inmediatamente]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Cría de animales]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Tiempo restante:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Levantar inmediatamente]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[¡Antes de que te des cuenta, tu pequeño será todo un adulto!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[La poción de crecimiento reduce el tiempo de reproducción en un 50%.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[¡Genial! Este bebé ya creció y ya está en tu inventario.]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Atención: ¡Aquí está creciendo un bebé! Si mueves la habitación del bebé al inventario, el proceso se interrumpirá. ¿Seguro que quieres moverla ahora?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Atención: ¡Aquí está creciendo un bebé! Si vende la habitación infantil ahora, el proceso se interrumpirá. ¿Seguro que quiere venderla ahora?]]></item>
+    </category>
+  </category>
+</language>

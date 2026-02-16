@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.welcomeBack">
+    <item name="zoo.window.welcomeBack.title"><![CDATA[Welkom terug, %username%!]]></item>
+    <item name="zoo.window.welcomeBack.info"><![CDATA[Wat fijn dat je terug bent! Laten we aan de slag gaan! Je dieren wachten vol ongeduld op je. Het wordt weer een wilde boel! Meer schattige nieuwe dieren, meer bijzondere vogels en heel veel enthousiaste bezoekers. <br><br>En je zult ook genieten van wat de dierentuin voor je in petto heeft:]]></item>
+    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Hoera! Snel, mis de drukte niet!]]></item>
+  </category>
+</language>

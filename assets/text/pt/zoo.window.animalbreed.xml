@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.animalbreed">
+    <item name="zoo.window.animalbreed.title"><![CDATA[Criação de animais]]></item>
+    <item name="zoo.window.animalbreed.info"><![CDATA[Crie filhotes fofos!\nCom um pouco de sorte, seu zoológico receberá novos moradores.]]></item>
+    <item name="zoo.window.animalbreed.breedtitle"><![CDATA[Reprodução padrão]]></item>
+    <item name="zoo.window.animalbreed.breedinfo"><![CDATA[Possíveis descendentes para:]]></item>
+    <item name="zoo.window.animalbreed.button.startbreeding"><![CDATA[Começar]]></item>
+    <item name="zoo.window.animalbreed.babytitle"><![CDATA[Adoção]]></item>
+    <item name="zoo.window.animalbreed.babyinfo"><![CDATA[Adquira um bebê imediatamente:]]></item>
+    <item name="zoo.window.animalbreed.button.buydirectly"><![CDATA[Comprar agora]]></item>
+    <item name="zoo.window.animalbreed.button.breedstart"><![CDATA[Começar]]></item>
+    <item name="zoo.window.animalbreed.success.title"><![CDATA[Jovem]]></item>
+    <item name="zoo.window.animalbreed.success.info"><![CDATA[Viva!<br>Parabéns! Seu zoológico tem um novo e adorável animal de estimação!]]></item>
+    <item name="zoo.window.animalbreed.failed.title"><![CDATA[Sem acréscimo]]></item>
+    <item name="zoo.window.animalbreed.failed.info"><![CDATA[Que pena, desta vez você terá que esperar pela nova versão.<br><br>Quer tentar novamente?<br><br>Boa sorte!]]></item>
+  </category>
+</language>

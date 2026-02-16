@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.levelup">
+    <item name="zoo.window.levelup.title"><![CDATA[Szintlépés]]></item>
+    <item name="zoo.window.levelup.info"><![CDATA[Bravó! Elérted a %level% szintet és új játékbeli lehetőségeket kaptál:]]></item>
+    <item name="zoo.window.levelup.gainmoney"><![CDATA[És megkaptad:]]></item>
+    <item name="zoo.window.levelup.quests.renew"><![CDATA[Ezen felül új napi feladatokat is kaptál.]]></item>
+    <item name="zoo.window.levelup.v2.title"><![CDATA[Lépj magasabb szintre]]></item>
+    <item name="zoo.window.levelup.v2.info.level.current"><![CDATA[Bravó! Elérted a %level% szintet, és megnyílik számodra a játék:]]></item>
+    <item name="zoo.window.levelup.v2.info.level.next"><![CDATA[A %level% szinten a következőket találod:]]></item>
+  </category>
+</language>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.upgrade">
+    <item name="zoo.window.upgrade.info"><![CDATA[Подобрете загражденията си, разкрасете ги и направете зоологическата си градина още по-привлекателна.]]></item>
+    <item name="zoo.window.upgrade.button"><![CDATA[Надграждане]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[От 21 до 27 април великденският заек ще подскача през вашата зоологическа градина и ще оставя яйце. Събирайте ги и ги разменяйте за великденски украси за заграждения, великденски зайчета и заграждения.]]></item>
+  </category>
+</language>

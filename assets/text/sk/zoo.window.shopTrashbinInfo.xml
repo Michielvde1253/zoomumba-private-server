@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Odpadkový kôš]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Ľudia po sebe nechávajú odpadky! Čím viac odpadkových košov máte vo svojej zoo, tým menej musíte upratovať po návštevníkoch.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Múmia odpadkový kôš]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Fuj... Chcem odpadky!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Duch z koša]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuuuuu... Odpadky]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Upír z odpadkového koša]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Potrebujem niečo na zahryznutie. Daj mi svoje smeti!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Príšera z odpadkového koša]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmmm ... Naozaj dobré!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Odpadkový kôš na narodeniny]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmmm, baliaci papier!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Veľrybí odpadkový kôš]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA["Prehltnem všetky tvoje odpadky!"]]></item>
+  </category>
+</language>

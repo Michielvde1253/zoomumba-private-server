@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advisor">
+    <category name="zoo.advisor.buttons">
+      <item name="zoo.advisor.buttons.1"><![CDATA[Specie animali]]></item>
+      <item name="zoo.advisor.buttons.2"><![CDATA[Soddisfazione]]></item>
+      <item name="zoo.advisor.buttons.3"><![CDATA[Decorazione]]></item>
+      <item name="zoo.advisor.buttons.4"><![CDATA[Allevamento di animali]]></item>
+      <item name="zoo.advisor.buttons.5"><![CDATA[Spazzatura]]></item>
+    </category>
+    <category name="zoo.advisor.descriptions">
+      <item name="zoo.advisor.descriptions.1.A"><![CDATA[Fantastico! Nessuno può davvero lamentarsi della mancanza di varietà nel vostro zoo. Continuate così!]]></item>
+      <item name="zoo.advisor.descriptions.1.B"><![CDATA[Ai visitatori piace ammirare una grande varietà di animali in uno zoo. Ci sono %currentspecies% di specie diverse, è davvero tanto! Date un'occhiata al negozio, ne troverete almeno %missingspecies% in più.]]></item>
+      <item name="zoo.advisor.descriptions.1.C"><![CDATA[Gli amanti dello zoo vogliono vedere quanti più animali possibile. Ma il tuo zoo ne vale la pena. Attualmente possiedi %currentspecies% di animali. Puoi trovare almeno %missingspecies% altre specie nel negozio di animali.]]></item>
+      <item name="zoo.advisor.descriptions.1.D"><![CDATA[Chiunque vada allo zoo vuole vedere gli animali! Il tuo zoo potrebbe avere una selezione ancora più ampia: attualmente hai %currentspecies% specie animali. Il negozio di animali ne offre almeno %missingspecies% in più.]]></item>
+      <item name="zoo.advisor.descriptions.1.E"><![CDATA[Oh! Non ci sono molte specie di animali nel tuo zoo. I visitatori possono ammirare %currentspecies% specie, che possono gestire abbastanza velocemente. Acquista rapidamente almeno %missingspecies% altri animali nel Negozio dello Zoo.]]></item>
+      <item name="zoo.advisor.descriptions.2.A"><![CDATA[I tuoi animali sono completamente soddisfatti. Sei un direttore di zoo esemplare.]]></item>
+      <item name="zoo.advisor.descriptions.2.B"><![CDATA[Ti prendi molta cura dei tuoi animali, ma guarda, alcuni di loro meritano ancora più attenzioni.]]></item>
+      <item name="zoo.advisor.descriptions.2.C"><![CDATA[Oh! I tuoi animali si annoiano un po'. Non ti piacerebbe giocare un po' con loro, dar loro da mangiare o dar loro da bere? Sarebbe fantastico per loro e sarebbero di nuovo felici!]]></item>
+      <item name="zoo.advisor.descriptions.2.D"><![CDATA[Oddio! I tuoi animali sono tristi perché non ti sei preso cura di loro. Gioca un po' con loro! Anche un po' di cibo e acqua li tireranno su di morale. E il tuo zoo tornerà a splendere e delizierà i visitatori!]]></item>
+      <item name="zoo.advisor.descriptions.2.E"><![CDATA[Oh no! I tuoi animali hanno fame e sete! Forza, prenditi cura di loro! Una volta che saranno stati nutriti e i recinti puliti, sarà di nuovo divertente giocare con loro!]]></item>
+      <item name="zoo.advisor.descriptions.3.A"><![CDATA[Wow! Il tuo zoo è splendidamente decorato! C'è così tanto da vedere per i visitatori. Continua così!]]></item>
+      <item name="zoo.advisor.descriptions.3.B"><![CDATA[Fantastico! Hai decorato il tuo zoo in modo fantastico! Dai un'occhiata al negozio dello zoo: troverai tante altre decorazioni carine e divertenti. I tuoi visitatori adorano il cambiamento!]]></item>
+      <item name="zoo.advisor.descriptions.3.C"><![CDATA[Il tuo zoo è carino, ma potrebbe giovare di qualche spicciolo in più! Puoi trovare tante decorazioni carine e divertenti nel negozio dello zoo.]]></item>
+      <item name="zoo.advisor.descriptions.3.D"><![CDATA[Pratico e funzionale, ma un po' noioso. Più decorazioni saranno apprezzate dai visitatori. Fai vedere a tutti che puoi mostrare di più!]]></item>
+      <item name="zoo.advisor.descriptions.3.E"><![CDATA[Il tuo zoo potrebbe aver bisogno di qualche decorazione in più. Delizia i tuoi visitatori con nuove, sorprendenti decorazioni.]]></item>
+      <item name="zoo.advisor.descriptions.4.A"><![CDATA[Quanti cuccioli adorabili! Hai davvero delle mani d'oro e i tuoi animali hanno avuto tanti cuccioli. Fantastico!]]></item>
+      <item name="zoo.advisor.descriptions.4.B"><![CDATA[I titoli in miniatura sui cuccioli dello zoo attraggono i visitatori. Ma ogni direttore di zoo è sempre alla ricerca di modi per migliorare. Dai un'occhiata: attualmente puoi allevare %missingbabies% cuccioli in più.]]></item>
+      <item name="zoo.advisor.descriptions.4.C"><![CDATA[La notizia delle nuove aggiunte allo zoo si sta diffondendo ovunque. I visitatori adorano i piccoli cuccioli un po' goffi! Al momento, puoi allevare %missingbabies% cuccioli in più.]]></item>
+      <item name="zoo.advisor.descriptions.4.D"><![CDATA[Il tuo zoo potrebbe aver bisogno di più cuccioli. Dai un'occhiata: %missingbabies% delle coppie sta attualmente cercando un cucciolo. Prova ad allevare!]]></item>
+      <item name="zoo.advisor.descriptions.4.E"><![CDATA[C'è molta preoccupazione per la tua prole allo zoo: il %missingbabies% delle coppie aspetta un cucciolo. Cerca di far riprodurre i cuccioli e delizia i visitatori con la vista dei tuoi goffi cuccioli.]]></item>
+      <item name="zoo.advisor.descriptions.5.A"><![CDATA[Fantastico, il tuo zoo è fantastico! E i visitatori lo adorano. Continua così!]]></item>
+      <item name="zoo.advisor.descriptions.5.B"><![CDATA[Stai andando bene, ma il tuo zoo sarebbe ancora più bello se ripulissi il resto della spazzatura.]]></item>
+      <item name="zoo.advisor.descriptions.5.C"><![CDATA[La spazzatura nel tuo zoo si sta lentamente accumulando. Finalmente, puliscila.]]></item>
+      <item name="zoo.advisor.descriptions.5.D"><![CDATA[C'è un sacco di spazzatura in giro nel tuo zoo. Dovresti assolutamente riordinare e pulire tutto.]]></item>
+      <item name="zoo.advisor.descriptions.5.E"><![CDATA[Il tuo zoo sta annegando nei rifiuti! Rimuovi le montagne di spazzatura dai sentieri e svuota i bidoni.]]></item>
+    </category>
+    <category name="zoo.advisor.help">
+      <item name="zoo.advisor.help.1"><![CDATA[Nella categoria "Specie animali" puoi vedere se nel tuo zoo sono rappresentate tutte le possibili specie animali.]]></item>
+      <item name="zoo.advisor.help.2"><![CDATA[La categoria "Soddisfazione" mostra quanto sono felici i tuoi animali in questo momento.]]></item>
+      <item name="zoo.advisor.help.3"><![CDATA[Nella categoria "Decorazioni" puoi verificare se le decorazioni del tuo zoo sono attraenti per i visitatori.]]></item>
+      <item name="zoo.advisor.help.4"><![CDATA[I visitatori adorano i cuccioli carini! La voce "Allevamento animali" ti mostrerà il livello di successo del tuo allevamento.]]></item>
+      <item name="zoo.advisor.help.5"><![CDATA[La voce "Spazzatura" ti mostrerà se il tuo zoo è pulito o se i visitatori inciampano in montagne di spazzatura.]]></item>
+      <item name="zoo.advisor.help.6"><![CDATA[Per raggiungere il negozio più velocemente, usa i tasti da 1 a 7.]]></item>
+      <item name="zoo.advisor.help.7"><![CDATA[Usa le lettere Q, W, E e R per spostare (W), capovolgere (E), vendere (R) o cambiare modalità di gioco (Q) gli oggetti.]]></item>
+      <item name="zoo.advisor.help.8"><![CDATA[Ricordati di usare una password sicura che non condividerai con nessuno!]]></item>
+      <item name="zoo.advisor.help.9"><![CDATA[È possibile attivare o disattivare i suggerimenti di gioco e altre funzionalità, come visitatori, effetti di sfondo ed effetti sonori, per rendere il gioco più veloce sui computer meno potenti.]]></item>
+      <item name="zoo.advisor.help.10"><![CDATA[Acquistate i Dollari Zoo in banca. A volte potete ottenerli come ricompensa per aver completato le attività giornaliere. Potete ottenerli anche salendo di livello.]]></item>
+      <item name="zoo.advisor.help.11"><![CDATA[Di tanto in tanto ci saranno anche promozioni con codici bonus, quindi tenete d'occhio gli annunci ufficiali sul forum.]]></item>
+      <item name="zoo.advisor.help.12"><![CDATA[I tuoi animali possono ammalarsi accidentalmente. Meglio ti prendi cura di loro, più a lungo rimarranno sani. Ma se il tuo animale non è malato, non puoi nemmeno fargli un'iniezione.]]></item>
+      <item name="zoo.advisor.help.13"><![CDATA[I tuoi animali si sentono a loro agio in tutti i recinti, indipendentemente dal tipo di recinto in cui li metti.]]></item>
+      <item name="zoo.advisor.help.14"><![CDATA[Al momento non è possibile spostare animali in altri recinti.]]></item>
+      <item name="zoo.advisor.help.15"><![CDATA[Se vendi il recinto, vendi anche l'animale che contiene.]]></item>
+      <item name="zoo.advisor.help.16"><![CDATA[Ci sono due tipi di suricati nel gioco: il suricato normale e il suricato grigio Beda. Beda appare solo durante determinati eventi e può essere acquistato solo in giorni speciali.]]></item>
+      <item name="zoo.advisor.help.17"><![CDATA[Se clicchi su "adotta per zoodollars", sei sicuro al 100% che arriverà un nuovo cucciolo e non devi aspettare.]]></item>
+      <item name="zoo.advisor.help.18"><![CDATA[Puoi salvare i tuoi amici di ZooMumba nella tua rubrica. Purtroppo, al momento non puoi invitare nuovi vicini.]]></item>
+      <item name="zoo.advisor.help.19"><![CDATA[Più negozi possiedi, più Zoogros guadagni.]]></item>
+      <item name="zoo.advisor.help.20"><![CDATA[Non hai tempo? Allora assumi degli assistenti. Ricorda che gli assistenti funzionano solo quando clicchi su di loro (non funzionano automaticamente).]]></item>
+      <item name="zoo.advisor.help.21"><![CDATA[Se assumi un cassiere, Kešík, aumenterai i tuoi guadagni.]]></item>
+      <item name="zoo.advisor.help.22"><![CDATA[Vale la pena usare gli assistenti: otterrai più punti esperienza.]]></item>
+      <item name="zoo.advisor.help.23"><![CDATA[Se hai tutti gli assistenti, attivi il rappresentante di David: lui può far lavorare tutti gli assistenti con un solo clic.]]></item>
+      <item name="zoo.advisor.help.24"><![CDATA[Più rifiuti si differenziano allo zoo, meno ne finiranno per strada.]]></item>
+      <item name="zoo.advisor.help.25"><![CDATA[Acquista un maschio e una femmina della stessa specie e presto avrai dei graziosi cuccioli nello zoo.]]></item>
+      <item name="zoo.advisor.help.26"><![CDATA[Nell'edificio principale è possibile depositare solo una certa quantità di denaro per il biglietto d'ingresso, quindi assicuratevi di ritirarlo regolarmente.]]></item>
+      <item name="zoo.advisor.help.27"><![CDATA[Per trarre profitto dai vostri edifici, questi devono essere sempre collegati da un percorso. Altrimenti, come potrebbero i visitatori raggiungerli?]]></item>
+      <item name="zoo.advisor.help.28"><![CDATA[Tieni gli occhi aperti: di tanto in tanto, nel negozio compaiono animali o oggetti speciali che puoi acquistare solo per un periodo di tempo limitato.]]></item>
+      <item name="zoo.advisor.help.29"><![CDATA[Dai ai tuoi animali superfood, si sentiranno sazi più a lungo!]]></item>
+      <item name="zoo.advisor.help.30"><![CDATA[Oh! I tuoi animali sono malati? Dai loro dei super farmaci e torneranno sani come pesci!]]></item>
+    </category>
+  </category>
+</language>

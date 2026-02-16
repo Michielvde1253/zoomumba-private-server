@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.upgrade">
+    <item name="zoo.window.upgrade.info"><![CDATA[Hayvanat bahçenizdeki hayvan barınaklarını yenileyin, güzelleştirin ve daha da çekici hale getirin.]]></item>
+    <item name="zoo.window.upgrade.button"><![CDATA[Güncelleme]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[21-27 Nisan tarihleri ​​arasında Paskalya tavşanı hayvanat bahçenizde dolaşacak ve bir yumurta bırakacak. Bu yumurtaları toplayıp Paskalya temalı hayvan barınak süsleri, Paskalya tavşanları ve barınaklarla takas edebilirsiniz.]]></item>
+  </category>
+</language>

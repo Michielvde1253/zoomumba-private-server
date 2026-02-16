@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Bem-vindos ao nosso evento de Dia dos Namorados! De 8 a 15 de fevereiro, o clima será romântico! Divirtam-se com o nosso jogo de Dia dos Namorados e concorram a muitos prêmios incríveis!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Veja como fazer:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Cuide dos seus animais e colete itens do Dia dos Namorados: Corações, Bilhetes de Amor e Arco e Flechas do Cupido. Use-os para ganhar surpresas adoráveis ​​durante o jogo romântico do Dia dos Namorados!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Com os itens coletados, você pode se movimentar pelo campo de jogo e coletar prêmios: veados majestosos, suprimentos de essência de Tolija e poções de crescimento aguardam por você!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Não deixe de conferir a loja - lá você encontrará reforços úteis que garantirão ainda mais sucesso e diversão no jogo!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Dobra o número de itens do Dia dos Namorados por 1 hora.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Reinicie o jogo de tabuleiro.]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Nosso evento de Dia dos Namorados está quase no fim! Você não receberá mais laços, cartas ou corações. Mas não desanime! Você ainda tem este tempo para ganhar recompensas do Dia dos Namorados:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Agora que você ganhou o cervo e a corça, pode começar o jogo de tabuleiro novamente! Basta clicar na marca de seleção verde ou no botão "Novo" no tabuleiro!]]></item>
+    </category>
+  </category>
+</language>

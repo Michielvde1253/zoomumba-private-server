@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.levelup">
+    <item name="zoo.window.levelup.title"><![CDATA[Ανεβείτε επίπεδο]]></item>
+    <item name="zoo.window.levelup.info"><![CDATA[Μπράβο! Φτάσατε στο επίπεδο %level% και αποκτήσατε νέες επιλογές εντός παιχνιδιού:]]></item>
+    <item name="zoo.window.levelup.gainmoney"><![CDATA[Και λάβατε:]]></item>
+    <item name="zoo.window.levelup.quests.renew"><![CDATA[Επιπλέον, λάβατε νέες καθημερινές εργασίες.]]></item>
+    <item name="zoo.window.levelup.v2.title"><![CDATA[Προχωρήστε σε υψηλότερο επίπεδο]]></item>
+    <item name="zoo.window.levelup.v2.info.level.current"><![CDATA[Μπράβο! Φτάσατε στο επίπεδο %level% και το παιχνίδι ανοίγει για εσάς:]]></item>
+    <item name="zoo.window.levelup.v2.info.level.next"><![CDATA[Στο επίπεδο %level% θα βρείτε:]]></item>
+  </category>
+</language>

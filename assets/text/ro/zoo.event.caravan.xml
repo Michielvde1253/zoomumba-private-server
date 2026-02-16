@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Sunt în drum spre o rezervație unde vor să crească populația de - %species%. Mă poți ajuta? Îți împrumut o pereche de - %species% timp de 120 de ore. Pentru %amount% de %species% pui, vei primi un adult.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Împrumută o pereche]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Anaconda]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Grozav! Acum ai cel puțin 5 pui în inventar. Schimbă-i repede cu mine pentru un urangutan adult!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Grozav! M-ai ajutat foarte mult! Acum voi duce puii în rezervație și îi voi elibera acolo în sălbăticie. Mulțumesc foarte mult și ne vedem data viitoare!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[Mobilul cu animale se întoarce în drum spre rezervație, aducând cu el două animale pe care le-ai împrumutat. Îți poți găsi nou-născuții în inventarul tău.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Mai ai %count% ore pentru a schimba puii.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Pui de urangutani în inventarul tău]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Mută ​​puii de urangutani în inventar.]]></item>
+    </category>
+  </category>
+</language>

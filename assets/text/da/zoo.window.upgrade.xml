@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.upgrade">
+    <item name="zoo.window.upgrade.info"><![CDATA[Opgrader dine indhegninger, forskønn dem og gør din zoologiske have endnu mere attraktiv.]]></item>
+    <item name="zoo.window.upgrade.button"><![CDATA[Opgrader]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[Fra den 21.-27. april hopper påskeharen gennem din zoologiske have og efterlader et æg. Saml dem og byt dem til påskepynt, påskeharer og andre indhegninger.]]></item>
+  </category>
+</language>

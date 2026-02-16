@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Ara Arakanga]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[Acești papagali veseli sunt foarte vorbăreți! Țineți-i întotdeauna în pereche sau în grup. Vizitatorii îi adoră pe acești papagali inteligenți cu penele lor viu colorate!]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[Flamingo roz]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[Aceste animale roz frumoase atrag atenția vizitatorilor. Hrana lor principală este planctonul, dar se bucură și de pește proaspăt. O încântare pentru păsările poftioase!]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[Zebră de munte]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[Dungi, dungi, dungi peste tot! E uluitor! Într-o lume plină de dungi de zebră, e un camuflaj bun, dar în partea noastră de lume, zebrele arată destul de comic. Zebrele își au locul în fiecare grădină zoologică, așa că nu lăsați asta să vă păcălească!]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Rinocer]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[Acești pachidermi mari sunt singuratici. Nu e de mirare că poartă astfel de coarne! În ciuda aspectului lor puternic, rareori se angajează în lupte. Cu toate acestea, cel mai bine este să țineți împreună doar un mascul și o femelă.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[Hipopotam amfibian]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[Pe uscat arată ca niște coloși greoi, dar aparențele înșală. Ai grijă să nu-i enervezi, deoarece odată ce încep să fugă, nu este recomandabil să le stai în cale. Din fericire, sunt animale prietenoase dacă li se respectă intimitatea.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Girafă marmorată]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[Mereu sus, printre nori! Girafele ajung la cele mai dulci fructe chiar în vârful copacilor. Nu e de mirare, așadar, că copacii sunt bine pășunați. Cu gâturile lor lungi, ajung foarte sus și le place cel mai mult să mănânce frunzele tinere și verzi!]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[Reni arctici]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[Renii trăiesc în turme departe în nord. Chiar și în condițiile dure ale Arcticii, renii neînfricați găsesc un loc pentru a supraviețui.]]></item>
+    </category>
+  </category>
+</language>

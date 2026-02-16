@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Я направляюсь в заповедник, где хотят увеличить популяцию - %видов%. Можете мне помочь? Я одолжу вам пару - %видов% на 120 часов. За %количества% детенышей %видов% вы получите одну взрослую особь.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Возьмите пару напрокат]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Анаконда]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Отлично! Теперь у вас в инвентаре как минимум 5 детенышей. Быстро обменяйте их у меня на одного взрослого орангутана!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Отлично! Вы мне очень помогли! Теперь я отвезу детенышей в заповедник и выпущу их там на волю. Большое спасибо и до встречи в следующий раз!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[Передвижная ферма с животными снова направляется в заповедник, привозя с собой двух животных, которых вы взяли напрокат. Вы можете найти своих новорожденных детенышей в инвентаре.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[У вас осталось %count% часов, чтобы поменять детенышей.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Детеныши орангутанов в вашем инвентаре]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Переместите детенышей орангутанов в инвентарь.]]></item>
+    </category>
+  </category>
+</language>

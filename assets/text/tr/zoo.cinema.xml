@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.cinema">
+    <category name="zoo.cinema.layer">
+      <item name="zoo.cinema.layer.intro"><![CDATA[Film izleyin ve karşılığında büyük ödüller kazanın!<br /><br />Bu sadece bizim sinemamızda mümkün! Günde en fazla 3 film izleyin ve her biri için ödül kazanın. Ödülünüzü almak için filmi sonuna kadar izlemeniz gerekiyor.<br /><br />Sadece "Filmi Başlat"a tıklayın ve gösteri başlasın!<br /><br />İyi eğlenceler!]]></item>
+      <item name="zoo.cinema.layer.selectReward"><![CDATA[Ödülünüzü alın!]]></item>
+      <item name="zoo.cinema.layer.play"><![CDATA[Filmi başlatın!]]></item>
+      <item name="zoo.cinema.layer.noVideo"><![CDATA[Şu anda kullanılabilir video bulunmamaktadır.]]></item>
+    </category>
+  </category>
+</language>

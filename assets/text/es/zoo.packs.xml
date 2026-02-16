@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA[Paquete de superalimentos "Buen comienzo"]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Este paquete contiene 40 unidades de Superfood y 5 Patas. ¡Te dará 40 veces el doble de BZ al alimentar y verás cómo mejora la belleza de tus recintos!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA[Paquete de superalimentos "Master"]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Este paquete contiene 125 unidades de Superfood y 20 Patitas. ¡Te dará 125 veces el doble de BZ y te ayudará a embellecer tus recintos!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA[Paquete de superalimentos "Experto"]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Este paquete contiene 350 unidades de superalimento y 30 patitas, además de 5 regalos con 5 unidades de superalimento para 5 de tus amigos. ¡Así ellos también podrán beneficiarse de este paquete!]]></item>
+    </category>
+  </category>
+</language>

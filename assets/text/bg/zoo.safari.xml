@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.safari">
+    <item name="zoo.safari.title"><![CDATA[Сафари]]></item>
+    <item name="zoo.safari.fuel_singular"><![CDATA[Бензинова бутилка]]></item>
+    <category name="zoo.safari.errors">
+      <item name="zoo.safari.errors.notAvailable"><![CDATA[Жалко! За съжаление, нивото ти е твърде ниско! От ниво 7 можеш да започнеш сафари обиколката!]]></item>
+    </category>
+    <category name="zoo.safari.welcomeWindow">
+      <item name="zoo.safari.welcomeWindow.infoText"><![CDATA[Добре дошли на сафари, пълно с приключения: Спечелете страхотни награди и дори нови животни! <br /><br />В следващата стъпка просто изберете района, където искате да започнете вашето сафари. <br /><br />Ура, в дивата природа!]]></item>
+    </category>
+    <category name="zoo.safari.regionWindow">
+      <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Изберете регион]]></item>
+      <item name="zoo.safari.startWindow.infoText"><![CDATA[В кой регион искате да започнете сафарито си? Изберете го тук: Във всеки регион има 3 области, които можете да активирате в зависимост от вашето ниво.]]></item>
+    </category>
+    <category name="zoo.safari.shopWindow">
+      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Хей, авантюристе! Отиди на истинско сафари. Използвай жокерите, за да си улесниш пътя в дивата природа.<br><br>Важно: Избери само по един от всеки вид жокер за пътуването си!]]></item>
+      <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[Искате ли да инвестирате %skipTimerCost% zoodollars и да започнете вашето сафари веднага?]]></item>
+      <item name="zoo.safari.shopWindow.infoText"><![CDATA[Готови ли сте за сафари? Ето как работи: В следващата стъпка ще видите игра: тя се състои от 9 до 25 карти с лицето надолу. Картите крият награди или животински следи, които ще следвате, за да получите главната награда. Но бъдете внимателни: всяка карта може да крие и капан!<br /><br />Виждате ли онази бутилка с бензин долу вдясно? Тя ви показва колко бензин е останал в резервоара на вашия джип. Веднага щом разкриете карта, ще изразходвате малко бензин.<br /><br />А сега за правилата на играта: В началото можете да избирате само карти от долния ред. Кликнете върху карта и тя ще се обърне. По този начин можете да видите дали сте намерили нещо и ако да, какво е то. След това можете да изберете карти, които са над или под последната карта, както и вдясно или вляво от нея. Играта приключва, ако намерите животно, но също така приключва, когато ви свърши горивото.<br /> <br />Увеличете шансовете си за страхотна находка с жокера(?) от магазина. Има 2 вида жокери: Картови и Навигационни. Нека Картовият Жокер ви помогне да откриете картите си - той ще ви разкрие допълнителни карти. Навигационният Жокер ще ви води в правилната посока благодарение на своя компас.<br /><br />Можете да вземете по един жокер от всеки вид със себе си на сафари. Независимо дали сте използвали жокера или не, ще го загубите в края на сафарито.]]></item>
+    </category>
+    <category name="zoo.safari.miniGame">
+      <item name="zoo.safari.miniGame.tileInfo.trap"><![CDATA[Опа, блъснахте се в препятствие. Това е досадно, 1 кутия бензин е свършила.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.treasure"><![CDATA[Страхотно! Намерихте %treasureCount% %treasureName%. Побързайте, продължавайте да търсите, можете да намерите още много съкровища.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.animal"><![CDATA[Поздравления, вижте какво намерихте! Това е %animal%! Побързайте към зоологическата градина, чака ви в инвентара ви. Успешно завършихте сафарито си.]]></item>
+      <item name="zoo.safari.miniGame.closeWarning"><![CDATA[Наистина ли искаш да прекратиш сафарито? Ако е така, не можеш да започнеш повече сафарита днес и горивото и провизиите ти ще свършат!]]></item>
+      <item name="zoo.safari.miniGame.noJoker"><![CDATA[Без шегаджия]]></item>
+      <item name="zoo.safari.miniGame.buyGasThenEmpty"><![CDATA[Почти сте стигнали до целта си! За съжаление, резервоарът ви е празен. Искате ли да заредите за няколко зоодолара и да продължите сафарито си? Изберете колко гориво искате да купите.]]></item>
+      <item name="zoo.safari.miniGame.buyMissingGas"><![CDATA[Количеството бензинови кутии за този терен е %neededGas%. Вие обаче имате само %missingGas%. Искате ли да закупите необходимото гориво със zoodollars?]]></item>
+      <item name="zoo.safari.miniGame.buyGas"><![CDATA[Моля, изберете колко бензин искате да купите. Но бъдете внимателни: Ако не изразходвате целия си бензин на сафари, останалият бензин ще бъде пропилян.]]></item>
+    </category>
+    <category name="zoo.safari.minigameInfo">
+      <item name="zoo.safari.minigameInfo.title"><![CDATA[Инструкции]]></item>
+      <item name="zoo.safari.minigameInfo.1"><![CDATA[Добре дошли на вашето сафари!<br /> Открийте необичайни животни и големи съкровища. Но внимавайте накъде водят стъпките ви. Капани дебнат навсякъде. В зависимост от вида на терена, ще използвате различно количество бензин.<br /><br />Сафарито приключва веднага щом резервоарът ви се изпразни или ако намерите животно.]]></item>
+      <item name="zoo.safari.minigameInfo.2"><![CDATA[Можете да влезете в дивата природа, като щракнете върху едно от долните полета.]]></item>
+      <item name="zoo.safari.minigameInfo.3"><![CDATA[Движете се по прави линии на север, юг, запад и изток.]]></item>
+      <item name="zoo.safari.minigameInfo.4"><![CDATA[Можете да активирате вашите жокери по всяко време. Те имат ценни съвети за вас, които ще ви отведат по-бързо до целта ви.]]></item>
+      <item name="zoo.safari.minigameInfo.terains"><![CDATA[Налични са следните типове терен:<br />]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.name"><![CDATA[Прост терен]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.info"><![CDATA[Ще използвате 1 единица бензин.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.name"><![CDATA[По-труден терен]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.info"><![CDATA[Ще използвате 3 единици бензин.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.name"><![CDATA[Непроходим терен]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.info"><![CDATA[Влизането е забранено]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.name"><![CDATA[Проучен терен]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.info"><![CDATA[Ще използвате 1 единица бензин.]]></item>
+      <item name="zoo.safari.minigameInfo.events"><![CDATA[Можете да намерите следните артикули: <br />]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.name"><![CDATA[ЖИВОТИНСКИ СЛЕДИ]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.info"><![CDATA[Те показват посоката, в която може да се намира животното.]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.name"><![CDATA[СЪКРОВИЩЕ]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.info"><![CDATA[Ура, съкровище с голяма изненада!]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.name"><![CDATA[БАРИЕРА]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.info"><![CDATA[Ще ви струва 1 бензинова единица.]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.name"><![CDATA[СРЕЩА С ЖИВОТНО]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.info"><![CDATA[Ако срещнете животно, то е ваше и мисията е приключила.]]></item>
+    </category>
+    <category name="zoo.safari.jokers">
+      <item name="zoo.safari.jokers.titel_1"><![CDATA[Маймуната, съветникът]]></item>
+      <item name="zoo.safari.jokers.titel_2"><![CDATA[Соня, съветникът]]></item>
+      <item name="zoo.safari.jokers.titel_3"><![CDATA[Компас]]></item>
+      <item name="zoo.safari.jokers.titel_4"><![CDATA[Бързо пътуване]]></item>
+      <item name="zoo.safari.jokers.text_1"><![CDATA[Всеки има нужда от малко помощ от време на време. Ако позволите на маймуната да ви помогне, можете да разкриете една произволно избрана карта.<br /><br />Любопитни ли сте? Да се ​​заемем!]]></item>
+      <item name="zoo.safari.jokers.text_2"><![CDATA[Искате ли да разкриете определена карта и да напреднете в сафарито?<br /><br /><br /> Възползвайте се от помощта на съветника Соня. С нейна помощ ще разкриете избраната от вас карта. Това ще ви помогне да постигнете целта си по-бързо. Успех!]]></item>
+      <item name="zoo.safari.jokers.text_3"><![CDATA[Нуждаете се от помощ? Използвайте компаса като жокер, за да маркирате карта. Ще намерите животното, което търсите, или капан на него. Нямате търпение да разберете какво е скрито на него? Затова побързайте и разберете!]]></item>
+      <item name="zoo.safari.jokers.text_4"><![CDATA[Но сега към същината: Просто ли пълзиш към целта си стъпка по стъпка? Не си ли достатъчно бърз?<br /><br />Тогава използвай жокера: Той ще ти маркира 3 карти, сред които може да е скрито животното, което търсиш, но и капан.<br /><br />Животно или капан... Бързо, виж!]]></item>
+    </category>
+    <category name="zoo.safari.tooltip">
+      <item name="zoo.safari.tooltip.cantStartSafari"><![CDATA[Можете да започнете сафарито си, след като достигнете ниво 7]]></item>
+      <item name="zoo.safari.tooltip.startSafari"><![CDATA[Качете се в джипа: Кликнете тук, за да започнете сафарито!]]></item>
+      <item name="zoo.safari.tooltip.backToZoo"><![CDATA[Обратно в зоологическата градина]]></item>
+      <item name="zoo.safari.tooltip.regionSmall"><![CDATA[Малък]]></item>
+      <item name="zoo.safari.tooltip.regionMedium"><![CDATA[Среден]]></item>
+      <item name="zoo.safari.tooltip.regionLarge"><![CDATA[Голям]]></item>
+      <item name="zoo.safari.tooltip.skipTimerInShop"><![CDATA[Получавате определено количество бензинови кутии за всеки ден.<br/> Искате още сега? Тогава съкратете времето си за чакане със zoodollars!]]></item>
+      <item name="zoo.safari.tooltip.buyGasInMinigame"><![CDATA[Кликнете, за да купите още бензин.]]></item>
+      <item name="zoo.safari.tooltip.regeonLevelRequared"><![CDATA[Този регион ще бъде достъпен, след като достигнете ниво %regionLevel%.]]></item>
+    </category>
+    <category name="zoo.safari.button">
+      <item name="zoo.safari.button.startSafari"><![CDATA[Започнете сафарито]]></item>
+      <item name="zoo.safari.button.endSafari"><![CDATA[Финализиране на сафарито]]></item>
+      <item name="zoo.safari.button.activate"><![CDATA[Активиране]]></item>
+      <item name="zoo.safari.button.use"><![CDATA[Разгръщане]]></item>
+    </category>
+  </category>
+</language>

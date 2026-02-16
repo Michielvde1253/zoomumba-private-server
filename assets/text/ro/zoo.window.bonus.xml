@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bonus">
+    <item name="zoo.window.bonus.main.title"><![CDATA[Cod bonus]]></item>
+    <item name="zoo.window.bonus.main.info"><![CDATA[Ai un cod bonus ZooMumba? Introdu-l aici și primește bonusul imediat!]]></item>
+    <item name="zoo.window.bonus.success.title"><![CDATA[Felicitări,]]></item>
+    <item name="zoo.window.bonus.success.info"><![CDATA[Grozav, ai introdus corect codul bonus și ai primit recompensa. Îți dorim multă distracție!]]></item>
+    <category name="zoo.window.bonus.error">
+      <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Eroare]]></item>
+      <item name="zoo.window.bonus.error.invalid.info"><![CDATA[Din păcate, codul bonus este incorect. Vă rugăm să verificați codul și să încercați din nou.]]></item>
+      <item name="zoo.window.bonus.error.participated.title"><![CDATA[Eroare]]></item>
+      <item name="zoo.window.bonus.error.participated.info"><![CDATA[Ai revendicat deja acest cod bonus.]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Eroare]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[Ai introdus codul bonus greșit de prea multe ori. Te rugăm să aștepți câteva minute înainte de a încerca din nou.]]></item>
+    </category>
+  </category>
+</language>

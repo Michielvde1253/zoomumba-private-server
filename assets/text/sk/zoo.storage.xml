@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.storage">
+    <category name="zoo.storage.moreSpace">
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Rozšírte svoju zoo!]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Túto položku si môžete kúpiť iba vtedy, ak máte %neededExpansion% rozšírení pre zoo. Momentálne máte iba %userExpansion% rozšírení pre zoo. Chcete si hneď teraz rozšíriť zoo, aby ste si mohli kúpiť túto položku?]]></item>
+    </category>
+    <category name="zoo.storage.firstExpansion">
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[Vodárenská veža a sklad]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Skvelé! Konečne máte dostatok miesta na postavenie svojej prvej vodárenskej veže a skladovacieho zariadenia. Obe položky máte vo svojom inventári zadarmo. A teraz sa hra môže začať!]]></item>
+    </category>
+    <category name="zoo.storage.buy">
+      <item name="zoo.storage.buy.belowWater"><![CDATA[Maximálna kapacita vodárenskej veže je %capacity%. Túto hodnotu nemožno zvýšiť ani kúpou tejto budovy. Chcete ju stále kúpiť?]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[Maximálna kapacita vášho skladu zásob je %capacity%. Túto hodnotu nemožno zvýšiť ani kúpou tejto budovy. Chcete si ju stále kúpiť?]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[K dispozícii máte %capacity% svojej vodnej kapacity. Nemôžete uskladniť viac. Táto budova nezvýši vašu kapacitu. Chcete si ju stále kúpiť?]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[Máte k dispozícii %capacity% svojej skladovacej kapacity. Viac skladovať nemôžete. Táto budova nezvýši vašu kapacitu. Chcete si ju stále kúpiť?]]></item>
+    </category>
+    <category name="zoo.storage.capacity">
+      <item name="zoo.storage.capacity.title"><![CDATA[Úložná kapacita]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[Vaše zvieratá potrebujú veľa krmiva a vody. Tu vidíte, koľko z toho máte k dispozícii a o koľko sa môžete rozšíriť.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Voda - kapacita]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Kapacita podávania]]></item>
+    </category>
+  </category>
+</language>

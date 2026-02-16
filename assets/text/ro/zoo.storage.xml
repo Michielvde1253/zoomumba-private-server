@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.storage">
+    <category name="zoo.storage.moreSpace">
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Extinde-ți grădina zoologică!]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Poți cumpăra acest articol doar atunci când ai %neededExpansion% expansiuni la grădina zoologică. În prezent, ai doar %userExpansion% expansiuni la grădina zoologică. Vrei să-ți extinzi grădina zoologică chiar acum pentru a putea cumpăra acest articol?]]></item>
+    </category>
+    <category name="zoo.storage.firstExpansion">
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[Turn de apă și depozit]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Grozav! În sfârșit ai suficient spațiu pentru a-ți construi primul turn de apă și o instalație de depozitare. Ambele obiecte sunt gratuite în inventarul tău. Acum, să înceapă jocul!]]></item>
+    </category>
+    <category name="zoo.storage.buy">
+      <item name="zoo.storage.buy.belowWater"><![CDATA[Capacitatea maximă a turnului de apă este de %capacity%. Această valoare nu poate fi mărită, nici măcar prin achiziționarea acestei clădiri. Doriți în continuare să o cumpărați?]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[Capacitatea maximă a depozitului dvs. de provizii este de %capacity%. Această valoare nu poate fi mărită, nici măcar prin achiziționarea acestei clădiri. Doriți în continuare să o cumpărați?]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[Aveți disponibil %capacity% din capacitatea dumneavoastră de apă. Nu mai puteți stoca apă. Această clădire nu vă va mări capacitatea. Doriți în continuare să o cumpărați?]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[Aveți disponibilă %capacity% din capacitatea de stocare. Nu mai puteți depozita nimic. Această clădire nu vă va mări capacitatea. Doriți în continuare să o cumpărați?]]></item>
+    </category>
+    <category name="zoo.storage.capacity">
+      <item name="zoo.storage.capacity.title"><![CDATA[Capacitate de stocare]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[Animalele tale au nevoie de multă hrană și apă. Aici poți vedea cât ai disponibil din fiecare și cât poți extinde.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Capacitate de apă]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Capacitate de alimentare]]></item>
+    </category>
+  </category>
+</language>

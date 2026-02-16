@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Lisäyritys]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Jee, sait ylimääräisen yrityksen!<br> Saat ylimääräisen pyöräytyksen onnenpyörään joka päivä, kun kirjaudut sisään.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Klikkaa ja kokeile onneasi!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Tai napsauta kaupungissa olevaa onnenpyörällä varustettua rakennusta. Jokainen pyöräytys takaa upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Lisäyritykset]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Haluatko ostaa toisen yrityksen?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Onnittelut!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Jee! Voitit:]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Pyöräytä uudelleen, voit vain voittaa onnenpyörällä!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Ruokinta-John 1 tunnin ajan]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Vesitoimittaja Paul 1 tunnin ajan]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Talonmies Stanley 1 tunnin ajan]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Kasvattaja Sonja 1 tunnin ajan]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Roskienkerääjä George 1 tunniksi]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Kassatyöntekijä Cashy 1 tunnin ajan]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Ruokinta-John 3 tuntia]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Vesitoimittaja Paul 3 tuntia]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Talonmies Stanley 3 tuntia]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Kasvattaja Sonja 3 tuntia]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Roskienkerääjä George 3 tuntia]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Kassa Cashy 3 tuntia]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[30 % EP-bonus kahdeksalle tunnille!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100 % EP-bonus kahdeksalle tunnille!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50 % tassubonus täydet 5 tuntia!]]></item>
+    </category>
+  </category>
+</language>

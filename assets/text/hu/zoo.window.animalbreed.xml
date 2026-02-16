@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.animalbreed">
+    <item name="zoo.window.animalbreed.title"><![CDATA[Állattenyésztés]]></item>
+    <item name="zoo.window.animalbreed.info"><![CDATA[Nevelj aranyos babákat!\nEgy kis szerencsével az állatkerted örömmel fogadja az új jövevényeket.]]></item>
+    <item name="zoo.window.animalbreed.breedtitle"><![CDATA[Standard reprodukció]]></item>
+    <item name="zoo.window.animalbreed.breedinfo"><![CDATA[Lehetséges utódok a következők számára:]]></item>
+    <item name="zoo.window.animalbreed.button.startbreeding"><![CDATA[Indul]]></item>
+    <item name="zoo.window.animalbreed.babytitle"><![CDATA[Örökbefogadás]]></item>
+    <item name="zoo.window.animalbreed.babyinfo"><![CDATA[Azonnal vállalj babát:]]></item>
+    <item name="zoo.window.animalbreed.button.buydirectly"><![CDATA[Vásároljon most]]></item>
+    <item name="zoo.window.animalbreed.button.breedstart"><![CDATA[Indul]]></item>
+    <item name="zoo.window.animalbreed.success.title"><![CDATA[Fiatal]]></item>
+    <item name="zoo.window.animalbreed.success.info"><![CDATA[Hurrá!<br>Gratulálok! Új, aranyos taggal bővült az állatkerted!]]></item>
+    <item name="zoo.window.animalbreed.failed.title"><![CDATA[Nincs növekmény]]></item>
+    <item name="zoo.window.animalbreed.failed.info"><![CDATA[Kár, ezúttal várnod kell az új kiegészítésre.<br><br>Újra szeretnéd próbálni?<br><br>Sok szerencsét!]]></item>
+  </category>
+</language>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Booster 30% EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[Con il booster del 30% otterrai il 30% di BZ in più per 1 ora! Se acquisti 2 booster uguali, il tempo verrà esteso. Consiglio: un booster del 30% di BZ e uno del 100% di BZ sono validi contemporaneamente e ti ricompenseranno con il 130% di BZ in più per l'intera ora.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[EP booster al 100%]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[Con il booster 100% BZ, ottieni il 100% di BZ in più per l'intera ora! Se acquisti 2 booster uguali, il tempo aumenterà. Consiglio: un booster 100% BZ e uno 30% BZ sono validi contemporaneamente, quindi ottieni il 130% di BZ in più per l'intera ora!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30% di potenziamento delle zampe]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[Con il Paw Booster del 30% ottieni il 30% di Zampe in più per l'intera ora! Se acquisti 2 booster uguali, il tempo verrà esteso. Consiglio: un Paw Booster del 30% e un Paw Booster del 100% sono validi contemporaneamente, quindi ottieni il 130% di Zampe in più per l'intera ora!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100% potenziatore per le zampe]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[Con il 100% Paw Booster ottieni il 100% di Zampe in più per l'intera ora! Se acquisti 2 booster uguali, il tempo aumenterà. Consiglio: un 100% Paw Booster e un 30% Paw Booster sono validi contemporaneamente, quindi ottieni il 130% di Zampe in più per l'intera ora!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Booster per giochi da tavolo]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[Con il booster del gioco da tavolo, otterrai il doppio degli oggetti collezionabili che usciranno dalle custodie per 1 ora! Se vuoi prolungare questo tempo, acquista altri booster.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[Booster zoocoin del 30%]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[Con un booster del 30%, riceverai il 30% di Zoogros extra dai tuoi negozi per 1 ora! Se acquisti 2 booster uguali, il tempo verrà esteso. Consiglio: un booster del 30% di Zoogros e uno del 100% di Zoogros sono validi contemporaneamente e ti ricompenseranno con il 130% di Zoogros extra per l'intera ora.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[Booster zoocoin del 100%]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[Con un booster del 100%, otterrai il 100% di Zoogros extra dai tuoi negozi per 1 ora! Se acquisti 2 booster uguali, il tempo verrà esteso. Consiglio: un booster del 100% di Zoogros e un booster del 30% di Zoogros sono validi contemporaneamente e ti ricompenseranno con il 130% di Zoogros extra per l'intera ora.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Booster della stazione di riproduzione]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Ibridi rari, facili da ottenere! Il Breeding Station Booster garantirà che i tuoi piccoli raggiungano almeno un livello superiore al livello più basso di uno dei genitori entro 24 ore. Ma attenzione: il Booster funziona solo se prendi il piccolo dalla Breeding Station.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Guacamayo arakanga]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[¡Estos alegres loros son muy habladores! Mantenlos siempre en pareja o en grupo. ¡A los visitantes les encantan estos inteligentes loros con sus plumas de colores brillantes!]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[flamenco rosado]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[Estos hermosos animales rosados ​​atraen la atención de los visitantes. Su principal alimento es el plancton, pero también disfrutan del pescado fresco. ¡Un deleite para los más golosos!]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[cebra de montaña]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[¡Rayas, rayas, rayas por todas partes! ¡Es alucinante! En un mundo lleno de rayas de cebra, es un buen camuflaje, pero en nuestra parte del mundo, las cebras tienen un aspecto bastante cómico. Sin duda, las cebras deberían estar en cualquier zoológico, ¡así que no te dejes engañar!]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Rinoceronte]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[Estos grandes paquidermos son solitarios. ¡No es de extrañar que tengan esos cuernos! A pesar de su apariencia poderosa, rara vez se pelean. Sin embargo, es mejor tener solo un macho y una hembra juntos.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[hipopótamo anfibio]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[En tierra parecen colosos torpes, pero las apariencias engañan. Tenga cuidado de no enfadarlos, ya que una vez que empiezan a correr, no es recomendable interponerse en su camino. Afortunadamente, son animales tranquilos si se respeta su privacidad.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Jirafa jaspeada]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[¡Siempre en las nubes! Las jirafas alcanzan las frutas más dulces hasta la copa de los árboles. No es de extrañar, entonces, que los árboles estén bien alimentados. Con sus largos cuellos, alcanzan grandes alturas y, sobre todo, les encanta comer las hojas tiernas.]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[reno ártico]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[Los renos viven en manadas en el extremo norte. Incluso en las duras condiciones árticas, estos intrépidos renos encuentran un lugar donde sobrevivir.]]></item>
+    </category>
+  </category>
+</language>

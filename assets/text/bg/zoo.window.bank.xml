@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bank">
+    <item name="zoo.window.bank.title"><![CDATA[Зоопарк банка]]></item>
+    <item name="zoo.window.bank.info"><![CDATA[Тези, които управляват добре, ще просперират! Купете ценни зоодолари от зоопарка или се възползвайте от нашите атрактивни премиум оферти!]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.title"><![CDATA[Купете<br>зоодолари]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.info"><![CDATA[Валутата в играта ви свършва? Това може да се случи! Тези, които искат да успеят, трябва да инвестират!]]></item>
+    <item name="zoo.window.bank.button.premium.title"><![CDATA[Премиум пакет]]></item>
+    <item name="zoo.window.bank.button.premium.info"><![CDATA[Използвайте предимствата на Premium, за да привлечете повече посетители към вашата зоологическа градина. Опитайте!]]></item>
+    <item name="zoo.window.bank.button.startpaket.title"><![CDATA[Асистенти]]></item>
+    <item name="zoo.window.bank.button.startpaket.info"><![CDATA[Не искате да правите всичко сами? Няма проблем! Асистентите в зоопарка ще ви помогнат!]]></item>
+    <item name="zoo.window.bank.button.cashaction.title"><![CDATA[Пари за действие]]></item>
+    <item name="zoo.window.bank.button.cashaction.info"><![CDATA[Нуждаете се от финансов тласък? Тук ще намерите страхотни оферти! Изберете доставчик и вземете zoodolars!]]></item>
+    <item name="zoo.window.bank.currency.title"><![CDATA[Обменно бюро]]></item>
+    <item name="zoo.window.bank.currency.info"><![CDATA[Обменете зоодоларите си за зоогроши и натрупайте достатъчно резерви в сметката си.]]></item>
+    <item name="zoo.window.bank.exchange.btnLabel"><![CDATA[Борса]]></item>
+  </category>
+</language>

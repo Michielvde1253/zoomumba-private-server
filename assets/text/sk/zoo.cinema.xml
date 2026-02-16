@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.cinema">
+    <category name="zoo.cinema.layer">
+      <item name="zoo.cinema.layer.intro"><![CDATA[Pozerať filmy a získavať za to veľké odmeny?<br /><br />Toto sa deje iba v našom kine! Pozrite si až 3 klipy denne a za každý z nich dostanete odmenu. Ak chcete získať svoju odmenu, musíte si klip pozrieť až do konca.<br /><br />Stačí kliknúť na „Spustiť film“ a predstavenie sa môže začať!<br /><br />Prajem veľa zábavy!]]></item>
+      <item name="zoo.cinema.layer.selectReward"><![CDATA[Získajte svoju odmenu!]]></item>
+      <item name="zoo.cinema.layer.play"><![CDATA[Spustite film!]]></item>
+      <item name="zoo.cinema.layer.noVideo"><![CDATA[Momentálne nie sú k dispozícii žiadne videá.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.premium">
+    <category name="zoo.premium.title">
+      <item name="zoo.premium.title.0"><![CDATA[Afgevaardigde David]]></item>
+      <item name="zoo.premium.title.1"><![CDATA[Krmic Honza]]></item>
+      <item name="zoo.premium.title.2"><![CDATA[Stroomvoorziening Pavel]]></item>
+      <item name="zoo.premium.title.3"><![CDATA[Schoonmaker Slavek]]></item>
+      <item name="zoo.premium.title.4"><![CDATA[Fokker Soňa]]></item>
+      <item name="zoo.premium.title.5"><![CDATA[Vuilnisophaler Jirka]]></item>
+      <item name="zoo.premium.title.6"><![CDATA[Kassier Kešík]]></item>
+      <item name="zoo.premium.title.7"><![CDATA[Dokter Lynn]]></item>
+      <item name="zoo.premium.title.11"><![CDATA[Grotere dierentuin]]></item>
+      <item name="zoo.premium.title.12"><![CDATA[Maxi dierentuin uitbreiding]]></item>
+      <item name="zoo.premium.title.13"><![CDATA[Uitbreiding van de dierentuin]]></item>
+      <item name="zoo.premium.title.14"><![CDATA[Uitbreiding van de dierentuin]]></item>
+      <item name="zoo.premium.title.15"><![CDATA[Paashaas]]></item>
+      <item name="zoo.premium.title.16"><![CDATA[Paashelper]]></item>
+      <item name="zoo.premium.title.23"><![CDATA[Verjaardagstaart]]></item>
+      <item name="zoo.premium.title.126"><![CDATA[Maximale dierentuinuitbreiding]]></item>
+      <item name="zoo.premium.title.29"><![CDATA[Maximale dierentuinuitbreiding]]></item>
+      <item name="zoo.premium.title.30"><![CDATA[Maximale dierentuinuitbreiding]]></item>
+      <item name="zoo.premium.title.125"><![CDATA[Uitbreiding van de dierentuin]]></item>
+      <item name="zoo.premium.title.35"><![CDATA[Uitbreiding van de dierentuin]]></item>
+      <item name="zoo.premium.title.36"><![CDATA[Uitbreiding van de dierentuin]]></item>
+      <item name="zoo.premium.title.37"><![CDATA[Maximale dierentuinuitbreiding]]></item>
+      <item name="zoo.premium.title.38"><![CDATA[Maximale dierentuinuitbreiding]]></item>
+      <item name="zoo.premium.title.123"><![CDATA[Zuur]]></item>
+      <item name="zoo.premium.title.124"><![CDATA[Zoet]]></item>
+      <item name="zoo.premium.title.128"><![CDATA[Verjaardagstaart]]></item>
+      <item name="zoo.premium.title.130"><![CDATA[Uitbreiding van de dierentuin]]></item>
+      <item name="zoo.premium.title.132"><![CDATA[Uitbreiding van de dierentuin]]></item>
+      <item name="zoo.premium.title.2001"><![CDATA[Vat water]]></item>
+      <item name="zoo.premium.title.2002"><![CDATA[Watertoren]]></item>
+      <item name="zoo.premium.title.2003"><![CDATA[Waterbron]]></item>
+      <item name="zoo.premium.title.2004"><![CDATA[Opbergdoos]]></item>
+      <item name="zoo.premium.title.2005"><![CDATA[Magazijn]]></item>
+      <item name="zoo.premium.title.2006"><![CDATA[Ondergronds magazijn]]></item>
+    </category>
+    <category name="zoo.premium.infoText">
+      <item name="zoo.premium.infoText.0"><![CDATA[Als u 6 assistenten in dienst neemt (exclusief Dr. Lynn), heeft u een co-directeur en personeel tot uw beschikking. U hoeft alleen maar te klikken en de 6 assistenten gaan direct aan de slag.]]></item>
+      <item name="zoo.premium.infoText.1"><![CDATA[John, de voederassistent, zorgt ervoor dat je dieren altijd goed gevoed en gelukkig zijn. Als je genoeg zoogro's hebt om te voeren, klik dan op hem en John zal ijverig en betrouwbaar aan de slag gaan.]]></item>
+      <item name="zoo.premium.infoText.2"><![CDATA[Pavel zorgt voor het water geven van de dieren. Als je op hem klikt, zal hij regelmatig water voor je dieren verzorgen. Maar alleen als je genoeg zoogros hebt.]]></item>
+      <item name="zoo.premium.infoText.3"><![CDATA[Schoonmaker Slávek zorgt voor de hygiëne en netheid van uw dieren. Als u op hem klikt, maakt hij de verblijven schoon en zorgt hij voor een comfortabel thuis voor uw dieren.]]></item>
+      <item name="zoo.premium.infoText.4"><![CDATA[Iedereen kijkt uit naar Sonia! Klik op haar en huur haar in: ze zal met je dieren knuffelen, zodat ze zich niet vervelen en stralen van tevredenheid.]]></item>
+      <item name="zoo.premium.infoText.5"><![CDATA[Jirka veegt nauwgezet elk pad en slaat geen enkele vuilnisbak over. Het moet er netjes uitzien, bezoekers komen niet terug naar een verwaarloosde dierentuin. Huur hem in met één klik en hij regelt al het werk.]]></item>
+      <item name="zoo.premium.infoText.6"><![CDATA[De slimme aap Kešík is goed met cijfers: klik op hem en huur hem in. Hij zal je inkomsten opleveren van alle winkels en gebouwen die je bouwt.]]></item>
+      <item name="zoo.premium.infoText.7"><![CDATA[Dr. Lynn is verantwoordelijk voor de gezondheid van uw dieren. Wanneer u op haar klikt, zal zij de juiste medicijnen aan alle zieke dieren toedienen!]]></item>
+      <item name="zoo.premium.infoText.11"><![CDATA[Vanaf niveau %nextExpandLevel% zal je dierentuin groeien. Geen zin om te wachten? Breid je dierentuin dan nu uit.]]></item>
+      <item name="zoo.premium.infoText.12"><![CDATA[Verspil geen tijd en breid je dierentuin met één klik uit tot 100%! Met de maxi dierentuinuitbreiding bespaar je jezelf de tussenstappen en heb je direct de maximale beschikbare ruimte. Wacht niet langer!]]></item>
+      <item name="zoo.premium.infoText.13"><![CDATA[Koop uitbreidingen voor je verborgen dierentuin met zoodollars.]]></item>
+      <item name="zoo.premium.infoText.14"><![CDATA[Ruil je verzamelde gereedschap in om je verborgen dierentuin uit te breiden.]]></item>
+      <item name="zoo.premium.infoText.15"><![CDATA[Van 21 tot en met 27 april laat de Paashaas eieren achter in jouw dierentuin. Verzamel ze en ruil ze in voor paasdecoraties voor de verblijven, paashaasjes en paasverblijven.]]></item>
+      <item name="zoo.premium.infoText.16"><![CDATA[Wat handig! Van 21 tot en met 27 april helpt paashulpje Sonja je met het verzamelen van eieren. Zelfs als je bent uitgelogd! Je kunt de eieren vervolgens inwisselen voor paasdecoraties, paashaasjes en paasverblijven.]]></item>
+      <item name="zoo.premium.infoText.23"><![CDATA[Koop deze taart om de verjaardagsupgrade voor je attracties sneller te krijgen. Hiermee krijg je meer ballonnen en kun je ook meer verjaardagsprijzen winnen.]]></item>
+      <item name="zoo.premium.infoText.29"><![CDATA[Verspil geen tijd en breid je dierentuin met één klik uit naar 100%! Met de maximale dierentuinuitbreiding bespaar je jezelf de tijdrovende tussenstappen en heb je direct de maximale beschikbare ruimte. Wacht niet langer!]]></item>
+      <item name="zoo.premium.infoText.30"><![CDATA[Verspil geen tijd en breid je dierentuin met één klik uit tot 100%! Met de maxi dierentuinuitbreiding bespaar je jezelf de tussenstappen en heb je direct de maximale beschikbare ruimte. Wacht niet langer!]]></item>
+      <item name="zoo.premium.infoText.35"><![CDATA[Breid je dierentuin uit met zoodollars.]]></item>
+      <item name="zoo.premium.infoText.125"><![CDATA[Koop een uitbreiding voor deze dierentuin met zoodollars.]]></item>
+      <item name="zoo.premium.infoText.36"><![CDATA[Breid je dierentuin uit met de gereedschappen die je hebt verzameld.]]></item>
+      <item name="zoo.premium.infoText.126"><![CDATA[Verspil geen tijd en breid je dierentuin met één klik uit tot 100%! Met de maxi dierentuinuitbreiding bespaar je jezelf de tussenstappen en heb je direct de maximale beschikbare ruimte. Wacht niet langer!]]></item>
+      <item name="zoo.premium.infoText.37"><![CDATA[Verspil geen tijd en breid je dierentuin met één klik uit tot 100%! Met de maxi dierentuinuitbreiding bespaar je jezelf de tussenstappen en heb je direct de maximale beschikbare ruimte. Wacht niet langer!]]></item>
+      <item name="zoo.premium.infoText.38"><![CDATA[Verspil geen tijd en breid je dierentuin met één klik uit tot 100%! Met de maxi dierentuinuitbreiding bespaar je jezelf de tussenstappen en heb je direct de maximale beschikbare ruimte. Wacht niet langer!]]></item>
+      <item name="zoo.premium.infoText.123"><![CDATA[Ruil kleine vleermuizen in voor zure vleermuizen om nieuwe Halloween-beloningen vrij te spelen.]]></item>
+      <item name="zoo.premium.infoText.124"><![CDATA[Ruil kleine vleermuizen in voor snoepjes om nieuwe Halloween-beloningen vrij te spelen.]]></item>
+      <item name="zoo.premium.infoText.128"><![CDATA[Koop deze taart om de verjaardagsupgrade voor je attracties sneller te krijgen. Hiermee krijg je meer ballonnen en kun je ook meer verjaardagsprijzen winnen.]]></item>
+      <item name="zoo.premium.infoText.130"><![CDATA[Koop de Coastal Zoo-uitbreiding met Zoo Dollars.]]></item>
+      <item name="zoo.premium.infoText.132"><![CDATA[Verkrijg de Undersea World-uitbreiding met Zoodollars.]]></item>
+      <item name="zoo.premium.infoText.2001"><![CDATA[Dit waterreservoir is een mooie aanwinst voor de dierentuin en geeft een rustieke uitstraling.]]></item>
+      <item name="zoo.premium.infoText.2002"><![CDATA[Wat een gigant! Deze watertoren zal van verre zichtbaar zijn.]]></item>
+      <item name="zoo.premium.infoText.2003"><![CDATA[Het water stroomt nu. De waterfontein zorgt voor verfrissend water in uw dierentuin. Water, laat het gewoon stromen!]]></item>
+      <item name="zoo.premium.infoText.2004"><![CDATA[Praktisch! Opbergdozen zijn perfect om op te klimmen, te zitten en mee te spelen. Kinderen zijn dol op houten dozen.]]></item>
+      <item name="zoo.premium.infoText.2005"><![CDATA[Geweldig! De schuur is een fantastische plek om verstoppertje te spelen. En in de winter is er genoeg ruimte voor hooibalen.]]></item>
+      <item name="zoo.premium.infoText.2006"><![CDATA[Geweldige opslagruimte! Er liggen een heleboel interessante dingen in deze ondergrondse opslagruimte. Maar bovenal is deze opslagruimte erg mysterieus... wat is daar verborgen?]]></item>
+    </category>
+    <category name="zoo.premium.window.renew">
+      <item name="zoo.premium.window.renew.text"><![CDATA[Oeps! Het arbeidscontract met deze assistent is verlopen. Wilt u het contract verlengen?]]></item>
+    </category>
+    <category name="zoo.premium.elixir">
+      <item name="zoo.premium.elixir.title"><![CDATA[Essentie van Tolija]]></item>
+      <item name="zoo.premium.elixir.text"><![CDATA[Geheim recept dat bij de fokkerij wordt gebruikt, verkort het fokproces met 50%.]]></item>
+    </category>
+    <category name="zoo.premium.breedingLab">
+      <item name="zoo.premium.breedingLab.title"><![CDATA[Fokstation]]></item>
+      <item name="zoo.premium.breedingLab.text"><![CDATA[Plaats een fokstation in je hoofd- of geheime dierentuin om zeldzame dieren te fokken.]]></item>
+    </category>
+    <category name="zoo.premium.nursery">
+      <item name="zoo.premium.nursery.title"><![CDATA[Dierenverblijf]]></item>
+      <item name="zoo.premium.nursery.text"><![CDATA[Plaats een broedstation in je hoofd- of geheime dierentuin, zodat je baby's een plek hebben om op te groeien.]]></item>
+    </category>
+    <category name="zoo.premium.assist.title">
+      <item name="zoo.premium.assist.title.0"><![CDATA[Afgevaardigde David]]></item>
+      <item name="zoo.premium.assist.title.1"><![CDATA[Krmic Honza]]></item>
+      <item name="zoo.premium.assist.title.2"><![CDATA[Stroomvoorziening Pavel]]></item>
+      <item name="zoo.premium.assist.title.3"><![CDATA[Schoonmaker Slavek]]></item>
+      <item name="zoo.premium.assist.title.4"><![CDATA[Fokker Soňa]]></item>
+      <item name="zoo.premium.assist.title.5"><![CDATA[Vuilnisophaler Jirka]]></item>
+      <item name="zoo.premium.assist.title.6"><![CDATA[Kassier, financieel assistent]]></item>
+      <item name="zoo.premium.assist.title.7"><![CDATA[Dokter Lynn]]></item>
+      <item name="zoo.premium.assist.title.8"><![CDATA[Jindra]]></item>
+      <item name="zoo.premium.assist.title.9"><![CDATA[Mattheüs]]></item>
+      <item name="zoo.premium.assist.title.10"><![CDATA[Frant]]></item>
+      <item name="zoo.premium.assist.title.11"><![CDATA[Jenny]]></item>
+    </category>
+    <category name="zoo.premium.assist.infoText">
+      <item name="zoo.premium.assist.infoText.0"><![CDATA[Als u 6 assistenten in dienst neemt (exclusief Dr. Lynn), zal de co-directeur u helpen met het personeel. Klik simpelweg op de betreffende persoon en deze gaat direct aan de slag.]]></item>
+      <item name="zoo.premium.assist.infoText.1"><![CDATA[Feeder Honza zorgt ervoor dat uw dieren altijd te eten hebben - zolang u maar genoeg zoogros heeft om deze kosten te dekken.]]></item>
+      <item name="zoo.premium.assist.infoText.2"><![CDATA[Klik op Pavel en hij zorgt ervoor dat de dieren met elkaar verbonden worden - mits je genoeg zoogros hebt om deze kosten te dekken.]]></item>
+      <item name="zoo.premium.assist.infoText.3"><![CDATA[Schoonmaker Slávek zorgt voor de hygiëne en netheid van uw dieren. Wanneer u op hem klikt, maakt hij uw verblijven schoon en zorgt hij voor een comfortabel thuis voor uw dieren.]]></item>
+      <item name="zoo.premium.assist.infoText.4"><![CDATA[Fokster Soňa zorgt voor uw dieren, knuffelt ze en geeft ze de liefde die ze verdienen. Klik op haar en kijk hoe ze te werk gaat!]]></item>
+      <item name="zoo.premium.assist.infoText.5"><![CDATA[Jirka veegt nauwgezet elk pad schoon en slaat geen enkele vuilnisbak over. Orde moet gehandhaafd worden. Huur hem in met één klik en hij gaat meteen aan de slag!]]></item>
+      <item name="zoo.premium.assist.infoText.6"><![CDATA[De slimme aap Kešík is goed met cijfers. Klik op hem en hij int de inkomsten van alle gebouwen in de dierentuin voor je!]]></item>
+      <item name="zoo.premium.assist.infoText.7"><![CDATA[Dr. Lynn is verantwoordelijk voor de gezondheid van uw dieren. Wanneer u op haar klikt, zal zij de juiste medicijnen aan alle zieke dieren toedienen!]]></item>
+      <item name="zoo.premium.assist.infoText.8"><![CDATA[Klik op Jindra en hij zal al je zeedieren voeren! Algen, plankton of visvoer - Jindra weet wat hij moet doen!]]></item>
+      <item name="zoo.premium.assist.infoText.9"><![CDATA[Matej heeft altijd een slang in zijn hand! Klik op hem en hij vult je watertanks, maar zorg ervoor dat je genoeg grondstoffen hebt om de kosten te dekken!]]></item>
+      <item name="zoo.premium.assist.infoText.10"><![CDATA[Franta is een zwembadtechnicus. Klik op hem en hij zal uw zwembad schoonmaken, filters vervangen en ervoor zorgen dat het water schoon en veilig is voor alle dieren.]]></item>
+      <item name="zoo.premium.assist.infoText.11"><![CDATA[Janička is een trainster van zeezoogdieren. Ze speelt met de dieren en leert ze allerlei trucjes! Klik op haar en huur haar in.]]></item>
+    </category>
+  </category>
+</language>

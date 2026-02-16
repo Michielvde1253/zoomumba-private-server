@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.storage">
+    <category name="zoo.storage.moreSpace">
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Разширете зоологическата си градина!]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Можете да закупите този артикул само когато имате %neededExpansion% разширения за зоопарк. В момента имате само %userExpansion% разширения за зоопарк. Искате ли да разширите зоопарка си веднага, за да можете да закупите този артикул?]]></item>
+    </category>
+    <category name="zoo.storage.firstExpansion">
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[Водна кула и склад]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Чудесно! Най-накрая имате достатъчно място, за да построите първата си водна кула и складово съоръжение. И двата предмета са безплатни във вашия инвентар. А сега нека играта започне!]]></item>
+    </category>
+    <category name="zoo.storage.buy">
+      <item name="zoo.storage.buy.belowWater"><![CDATA[Максималният капацитет на водната кула е %capacity%. Тази стойност не може да бъде увеличена, дори чрез закупуване на тази сграда. Все още ли искате да я купите?]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[Максималният капацитет на вашия склад за доставки е %capacity%. Тази стойност не може да бъде увеличена, дори чрез закупуване на тази сграда. Все още ли искате да я купите?]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[Наличен е %capacity% от вашия воден капацитет. Не можете да съхранявате повече. Тази сграда няма да увеличи капацитета ви. Все още ли искате да я купите?]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[Наличен е %capacity% от капацитета ви за съхранение. Не можете да съхранявате повече. Тази сграда няма да увеличи капацитета ви. Все още ли искате да я купите?]]></item>
+    </category>
+    <category name="zoo.storage.capacity">
+      <item name="zoo.storage.capacity.title"><![CDATA[Капацитет за съхранение]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[Вашите животни се нуждаят от много храна и вода. Тук можете да видите с какво количество от всяко разполагате и доколко можете да разширите капацитета си.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Вода - капацитет]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Капацитет на подаване]]></item>
+    </category>
+  </category>
+</language>

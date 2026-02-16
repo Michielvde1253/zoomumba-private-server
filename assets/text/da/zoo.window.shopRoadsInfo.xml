@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Grusvej]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Denne grussti forbinder dine zoologiske haveindhegninger. Et netværk af stier af høj kvalitet hjælper dine besøgende med at finde vej og fører dem til alle indhegningerne.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Blå og hvid fortov]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Denne blå og hvide brostenssti ser ikke kun fantastisk ud, men den er også en god overflade til barnevogne, løbehjul og rulleskøjter. Jævn bevægelse og kvalitetssjov, det er fantastisk!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Sandvej]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[Der er sjældent asfalterede veje i steppen. Du vil jo gerne have, at din zoologiske have minder om naturen!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Lyserød og hvid fortov]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Hvor dejligt: ​​Denne stensti lavet af ædle lyserøde mosaiksten er noget helt særligt. Den perfekte catwalk for besøgende i høje hæle.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Sort og hvid fortov]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Sorte og hvide ædelsten i mosaikform pryder smukt denne sti. De er bearbejdet med stor omhu og bliver et smykke i din zoologiske have.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[Den stenede vej]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Ligesom i naturen vokser små græstotter frem fra mellemrummene mellem stenene. Ikke for den pedantiske, men naturelskere vil helt sikkert nyde det.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Stensti]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Denne grussti ser pæn ud, og jeg er sikker på, at ingen vil glide på den. Sikker og pæn, hvad mere kan man ønske sig?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Grusvej]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[Grusstier er populære i Afrika. De tilføjer autenticitet til din zoologiske have og vil få mange dyr til at føle sig hjemme.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Vandvej]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Plask, plask, plask! Tag gummistøvlerne på, pust din gummibåd op og snup en gummiand - der bliver masser af vand på denne tur!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Isvej]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Hurra! En isvej - det bliver sjovt! Dine gæster vil have det sjovt med at glide ned ad den frosne vej. Pas på, den er ikke saltet!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Savannah Road]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[En veltramt sti snor sig gennem savannen, hvilket gør den ideel til at søge efter spor som på en safari.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Ørkenvej]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Under solens brændende hede blæser sand hen over ørkenen og udsletter ethvert spor.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Stensti]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Denne sti er ret ujævn. Der er store sten og kampesten på den, så godt fodtøj er et must. Pas på ikke at falde!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Tundra-stien]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[Dine besøgende skal bruge et kompas på denne rute, men det er også klogt at holde sig til de slagne stier.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Snevej]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[Klistret sne ligger på snestien, som dine gæster vil traske ad i deres varme støvler. Alt er så smukt her!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Ørkensti]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[I vildmarken er det bedst at blive på vejen. Der er giftstoffer og affaldsstoffer overalt. Gummistøvler med gode såler er et must!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Alperute]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Denne vandrerute tager dig op og ned gennem Alperne. Gode sko med solid ankelstøtte beskytter dig mod at glide!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Hulesti]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Hold øjnene åbne, så du ikke glider. Måske får du øje på et glitrende guldkorn blandt stenene.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Skovsti]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[På regnfulde dage kan denne sti være lidt mudret, men om sommeren er skoven helt idyllisk.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Kystvej]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Det er meget gavnligt for dit helbred at gå barfodet på glitrende sand, muslingeskaller, tang og lejlighedsvis søstjerner.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Magisk sti]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[Den lyseblå sti, som er helt ude af denne verden, kan virke skræmmende, men den er også eventyrlig. Hvor fører den hen?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Sugar Land-stien]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Krumme! Ups! Har du trådt på et slik? Pas på, der er tyggegummi på vej! Hvor er det smukt farverigt her!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Bambus skovsti]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[Tågen driver gennem en vidtstrakt, næsten uigennemtrængelig bambusskov. Lyden af ​​en spætte kan høres i det fjerne. Helt enkelt idyllisk!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Skovsti]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Hvis du ikke har lyst til at svinge dig fra vinstok til vinstok i denne jungle, kan du gå langs denne veltrampede sti. Pas på: Fra tid til anden kan en slange eller edderkop krydse stien.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[Stien gennem sumpen]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[Dine besøgende skal huske at holde sig på den rette vej i sumpen. Ét forkert skridt, og de falder i mudderet!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Træplatform]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Der er intet bedre end at gå langs en træmole og høre lyden af ​​et skibsdæk. Dine besøgende vil få en ægte kystoplevelse.]]></item>
+  </category>
+</language>

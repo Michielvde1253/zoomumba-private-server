@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Arakanga-ara]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[Disse muntre papegøyene er veldig pratsomme! Ha dem alltid som et par eller en gruppe. Besøkende elsker disse smarte karene med sine fargerike fjær!]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[Rosa flamingo]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[Disse vakre rosa dyrene tiltrekker seg besøkendes oppmerksomhet. Hovedføden deres er plankton, men de liker også fersk fisk. En godbit for søtsugende fugler!]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[Fjellsebra]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[Striper, striper, striper overalt! Det er helt utrolig! I en verden full av sebrastriper er det god kamuflasje, men i vår del av verden ser sebraer ganske komiske ut. Sebraer hører definitivt hjemme i alle dyrehager, så ikke la deg lure av det!]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Neshorn]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[Disse store tykkhudene er einstøinger. Det er ikke rart de har slike horn! Til tross for sitt kraftige utseende, deltar de sjelden i slåsskamper. Det er imidlertid best å bare holde en hann og en hunn sammen.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[Amfibieflodhest]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[På land ser de ut som klumpete kolosser, men synet bedrar. Vær forsiktig så du ikke gjør dem sinte, for når de først begynner å løpe, er det ikke tilrådelig å være i veien for dem. Heldigvis er de avslappede dyr hvis privatlivet deres respekteres.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Marmorert sjiraff]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[Alltid høyt oppe i skyene! Sjiraffer når de søteste fruktene helt opp til toppen av trærne. Det er ikke rart at trærne beites godt. Med sine lange halser når de veldig høyt, og de liker å spise de unge, grønne bladene aller best!]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[Arktisk reinsdyr]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[Reinsdyr lever i flokker langt nord. Selv under de tøffe arktiske forholdene finner de fryktløse reinsdyrene et sted å overleve.]]></item>
+    </category>
+  </category>
+</language>

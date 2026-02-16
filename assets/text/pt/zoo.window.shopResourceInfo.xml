@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopResourceInfo">
+    <item name="zoo.window.shopResourceInfo.titel_1"><![CDATA[Água]]></item>
+    <item name="zoo.window.shopResourceInfo.text_1"><![CDATA[Seus animais precisam se refrescar! Deixe-os felizes com água fresca!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_2"><![CDATA[Grama]]></item>
+    <item name="zoo.window.shopResourceInfo.text_2"><![CDATA[Não há nada melhor para saciar a fome do que se alimentar com grama verde e deliciosa. E, com um pouco de sorte, ainda pode encontrar alguns insetos na grama como bônus :-) Que delícia!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_3"><![CDATA[Carne]]></item>
+    <item name="zoo.window.shopResourceInfo.text_3"><![CDATA[Quem não gostaria de um bom pedaço de carne? Um bife suculento assim é uma verdadeira delícia!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_4"><![CDATA[Peixe]]></item>
+    <item name="zoo.window.shopResourceInfo.text_4"><![CDATA[Peixe é saudável! E é um dos alimentos favoritos de muitos animais. Você não precisa se preocupar em limpar ou cortar, seus animais vão adorar tudo!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_5"><![CDATA[Fruta]]></item>
+    <item name="zoo.window.shopResourceInfo.text_5"><![CDATA[Frutas doces e suculentas - quem resiste? Aqui você encontra frutas para todos os animais!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_6"><![CDATA[Grão]]></item>
+    <item name="zoo.window.shopResourceInfo.text_6"><![CDATA[Os grãos são uma importante fonte de alimento para seus animais, ajudando-os a se manterem ativos e saudáveis!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_7"><![CDATA[Medicamento]]></item>
+    <item name="zoo.window.shopResourceInfo.text_7"><![CDATA[Um dos seus animais está se sentindo mal? Este medicamento certamente o ajudará a se recuperar.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_8"><![CDATA[Superalimento]]></item>
+    <item name="zoo.window.shopResourceInfo.text_8"><![CDATA[Com superalimentos, você obtém o dobro de BZ.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_9"><![CDATA[Supermedicina]]></item>
+    <item name="zoo.window.shopResourceInfo.text_9"><![CDATA[Em caso de infecção grave, você precisa usar um remédio realmente eficaz. Estou aqui rapidinho com um super remédio. Além disso, com super remédios você aumenta suas chances de conseguir recompensas valiosas que "saltam" para fora do recinto.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_10"><![CDATA[A melhor comida]]></item>
+    <item name="zoo.window.shopResourceInfo.text_10"><![CDATA[A melhor ração lhe dará quatro vezes mais patas para embelezar seus recintos.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_11"><![CDATA[Essência de Tolija]]></item>
+    <item name="zoo.window.shopResourceInfo.text_11"><![CDATA[A essência Tolija reduz o tempo de reprodução em 50%.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_12"><![CDATA[poção de crescimento]]></item>
+    <item name="zoo.window.shopResourceInfo.text_12"><![CDATA[Com a poção do crescimento, seus pequenos crescerão duas vezes mais rápido!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_13"><![CDATA[Lixo]]></item>
+    <item name="zoo.window.shopResourceInfo.text_13"><![CDATA[É incrível o que as pessoas jogam fora! Recicle o lixo e use os materiais para construir novos itens para o seu zoológico.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_14"><![CDATA[Superfiltro]]></item>
+    <item name="zoo.window.shopResourceInfo.text_14"><![CDATA[Ao reciclar resíduos utilizando um superfiltro, você aumenta suas chances de obter materiais raros.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_15"><![CDATA[Reforço para artesãos]]></item>
+    <item name="zoo.window.shopResourceInfo.text_15"><![CDATA[Essa mistura de lúpulo e bebida energética é exatamente o que seus artesãos precisam para repor as energias e terminar o trabalho mais rápido.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_16"><![CDATA[Algas]]></item>
+    <item name="zoo.window.shopResourceInfo.text_16"><![CDATA[Plantas aquáticas verdes repletas de nutrientes valiosos! Que delícia!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_17"><![CDATA[Plâncton]]></item>
+    <item name="zoo.window.shopResourceInfo.text_17"><![CDATA[O plâncton é composto por microrganismos que servem de alimento para muitos animais marinhos.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_18"><![CDATA[Camarão]]></item>
+    <item name="zoo.window.shopResourceInfo.text_18"><![CDATA[Não só os humanos, mas também os animais adoram camarão!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_19"><![CDATA[mexilhões]]></item>
+    <item name="zoo.window.shopResourceInfo.text_19"><![CDATA[Delicie-se com a carne macia escondida no interior. Quem resistiria a tamanha iguaria?]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_20"><![CDATA[Filtro de água]]></item>
+    <item name="zoo.window.shopResourceInfo.text_20"><![CDATA[Use um bom filtro para manter a água dos seus aquários cristalina.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_21"><![CDATA[Superalimento para peixes]]></item>
+    <item name="zoo.window.shopResourceInfo.text_21"><![CDATA[Super Fish Food oferece uma dieta balanceada para a vida marinha de todos os tamanhos e formatos. Sirva e obtenha uma dose dupla de BZ!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_22"><![CDATA[Ração exclusiva para peixes]]></item>
+    <item name="zoo.window.shopResourceInfo.text_22"><![CDATA[Alimento exclusivo para peixes exclusivos. Alimente seus animais com este alimento e ganhe o dobro de pérolas!]]></item>
+  </category>
+</language>

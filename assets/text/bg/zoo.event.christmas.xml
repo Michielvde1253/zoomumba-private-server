@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[Весела Коледа!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[От 21 декември до 2 януари всичко във вашия зоопарк се върти около Коледа! Украсете коледната си елха и ми помогнете да спася Коледа!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Първо отгледайте 8 летящи елена, а след това един Дядо Коледа за шейната му. За всеки елен, който му доведете, ще получите подарък.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[От време на време Дядо Коледа ще ви подарява и украса за коледната ви елха. Накрая ще можете да запазите украсената си елха.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Ура, и тук имаме специална коледна колекция! Грижете се за животните си и събирайте коледни артикули. Можете да ги използвате и за отглеждане на елени!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Страхотни изненади в коледния магазин]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Превърнете зоологическата си градина в пъстър зимен свят: с много нови и популярни коледни украси.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Весела Коледа и приятно прекарване на коледното събитие!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[Това е ужасно! Елените на Дядо Коледа са избягали и сега той не може да раздава подаръци! Донесете му 8 летящи елени и Рудолф на Дядо Коледа и ги поставете пред шейната му. В знак на благодарност ще получите страхотни подаръци!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Дядо Коледа е на път към:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Вие спечелихте:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Вижте си коледната елха на паркинга!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Вземи си нов тоалет за аватара!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Бързо, разгледайте инвентара си!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Благодаря!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Вашите елени нямат търпение да тръгнат на път. Благодарение на вас Коледа е спасена!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Благодаря!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Все още липсват някои от моите елени, но е време да тръгвам! Не се притеснявайте, ще го разбера - все пак съм Дядо Коледа!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[Украсената коледна елха от паркинга ви вече е във вашия инвентар.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Първо, нека донесем 8 вълшебни елени на Дядо Коледа.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Дядо Коледа вече има 8 летящи елени и всичко, от което се нуждае, е неговият Рудолф!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Коледна украса]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Коледна прическа]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Двойка снежни сови]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Брой мъжки магически елени във вашия инвентар.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Броят на женските летящи северни елени във вашия инвентар.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Преди да донесете на Дядо Коледа неговия Рудолф, той първо се нуждае от 8 летящи северни елени.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Броят на мъжките Санта Рудолфи във вашия инвентар.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Броят на женските фигурки на Санта Рудолф във вашия инвентар.]]></item>
+    </category>
+  </category>
+</language>

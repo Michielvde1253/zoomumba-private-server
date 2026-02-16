@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Salut ! Je m'appelle Lucka et j'adore les chauves-souris ! Surtout leurs adorables petits. Apportez-m'en le plus possible et je vous offrirai de super articles d'Halloween. Il vous suffit d'échanger les bébés mignons contre ceux de gauche et les bébés méchants contre ceux de droite.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Inventaire]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Choisissez le nombre de bébés %espèces% que vous souhaitez transférer dans votre inventaire.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Nous nous excusons !]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Malheureusement, vous n'avez pas assez de bébés chauves-souris dans votre inventaire. Élevez des bébés chauves-souris et transférez-les dans votre inventaire pour pouvoir acheter cet objet.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Petites chauves-souris en stock]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Échangez des petites chauves-souris contre des bonbons]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Échangez les petites chauves-souris contre des chauves-souris acides]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Numéro : Doux]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Investissez %x% bonbons pour débloquer cet objet]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Investissez %x% d'argent pour débloquer cet article]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Numéro : Acide]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Aide]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Déplacer les bébés chauves-souris dans l'inventaire]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Bienvenue à l'événement d'Halloween ! Du 25 octobre au 1er novembre, une fête effrayante commence dans votre zoo ! De nombreux cadeaux et surprises vous attendent. L'étape suivante vous expliquera le fonctionnement de l'événement.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Collectez un maximum de bonbons <b>sucrés</b> et <b>aigres</b> ! Ils vous serviront à activer les caravanes fantômes ! Vous découvrirez comment ça marche à la page suivante.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Si vous avez suffisamment de bonbons sucrés et acides, vous pouvez les utiliser pour activer des objets. Attention : les bonbons sucrés vous feront regarder à gauche, les acides à droite. L’œil vous indiquera de quel côté les objets sont activés.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Vous pouvez obtenir des objets activés en les échangeant contre des bébés chauves-souris. Élevez plein de jolies chauves-souris ! Un nouveau bouton dans le menu de l'enclos vous permettra de sauvegarder rapidement et facilement les bébés dans votre inventaire.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Amusez-vous dans la boutique hantée !<br> Pour les plus impatients : les bonbons acidulés peuvent être échangés contre des bébés chauves-souris. D'autres surprises vous attendent dans la boutique.<br> <br>Joyeux Halloween !]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[C'est l'heure de s'amuser et d'effrayer !<br>Du <b>31 octobre au 6 novembre</b>, une fête d'Halloween aura lieu dans votre zoo !]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Récoltez autant de citrouilles que possible ! Elles sortiront de leurs enclos au fur et à mesure que vous prendrez soin de vos animaux.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Ajoutez-les au grand panier de citrouilles pour notre <b>Bataille de citrouilles</b>. Plus vous livrerez de citrouilles, plus les récompenses que vous pourrez gagner seront terrifiantes.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[En prenant soin de vos animaux, des friandises apparaîtront dans leurs enclos. Vous pourrez les ramasser tous ensemble. La barre d'action se remplira et un œil flottant vous indiquera les prix effrayants disponibles pour tous. Cliquez sur la récompense une fois activée.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Collectez des citrouilles pour la grande bataille des citrouilles. Plus vous en collectez, plus vous gagnez de prix.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Tout le monde joue ensemble ! Les trésors récoltés dans tous les zoos rempliront la jauge et débloqueront automatiquement des prix pour tous !]]></item>
+    </category>
+  </category>
+</language>

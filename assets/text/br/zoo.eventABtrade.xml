@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventABtrade">
+    <category name="zoo.eventABtrade.button">
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Intercâmbio]]></item>
+    </category>
+    <category name="zoo.eventABtrade.layer">
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Olá, sou Lukáš, o diretor do zoológico da cidade vizinha. Ouvi dizer que sua tratadora de animais, Soňa Starostlivá, está criando novas espécies de animais que me interessam muito. Para cada macho da espécie %priceSpecies%, eu lhe darei um macho da espécie %rewardSpecies% ou uma fêmea por uma fêmea. Durante minha presença, o tempo de incubação dos seus filhotes da espécie %priceGenus% será reduzido de 20 para 2 horas! Então, topa?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Estou retornando ao meu zoológico. Muito obrigado e espero vê-lo novamente em breve!]]></item>
+    </category>
+  </category>
+</language>

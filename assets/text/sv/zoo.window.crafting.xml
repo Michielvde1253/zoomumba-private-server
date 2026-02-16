@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.crafting">
+    <item name="zoo.window.crafting.intro.blueprintRewards"><![CDATA[Du har samlat %mycards% av %allcards% byggplaner!]]></item>
+    <item name="zoo.window.crafting.intro.title"><![CDATA[Verkstad]]></item>
+    <item name="zoo.window.crafting.intro.text"><![CDATA[Hantverkare och hobbyister, se upp! Använd era material för att bygga nya inhägnader, byggnader, dekorationer eller stigar. Välj bara en kategori nedan och fortsätt till nästa produktionssteg.]]></item>
+    <item name="zoo.window.crafting.intro.chooseCategorie"><![CDATA[Välj en kategori:]]></item>
+    <item name="zoo.window.crafting.produce.text"><![CDATA[Det är väldigt enkelt: Längst ner till vänster ser du vad som produceras just nu. Byggplanen visar vilka material du behöver. Ovanför ser du produktionstiden och antalet tassar du måste betala. Förstår du? Okej, klicka då på "Starta".]]></item>
+    <item name="zoo.window.crafting.produce.button"><![CDATA[Start]]></item>
+    <item name="zoo.window.crafting.progress.title"><![CDATA[Verkstad]]></item>
+    <item name="zoo.window.crafting.progress.text"><![CDATA[Produktionen är igång!]]></item>
+    <item name="zoo.window.crafting.progress.time"><![CDATA[Varaktighet:]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.title"><![CDATA[Producera omedelbart]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.text"><![CDATA[Spara tid och avsluta produktionen omedelbart!]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.button"><![CDATA[Komplett]]></item>
+    <item name="zoo.window.crafting.progress.layer.elixir.text"><![CDATA[Snabba upp och slutför produktionen på halva tiden.]]></item>
+    <item name="zoo.window.crafting.progress.button.elixir"><![CDATA[Accelerera]]></item>
+    <item name="zoo.window.crafting.success.text"><![CDATA[Hurra! Klart: föremålet du just tillverkade finns i ditt inventarium!]]></item>
+    <item name="zoo.window.crafting.blueprint.text"><![CDATA[Hurra! Du har precis fått en byggplan! Gå till verkstaden och bygg ett nytt föremål till ditt zoo!]]></item>
+  </category>
+</language>

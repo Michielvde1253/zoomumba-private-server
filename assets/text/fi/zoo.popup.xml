@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.popup">
+    <category name="zoo.popup.cageSlots">
+      <item name="zoo.popup.cageSlots.desc"><![CDATA[Eläimet aitauksessa:]]></item>
+    </category>
+  </category>
+</language>

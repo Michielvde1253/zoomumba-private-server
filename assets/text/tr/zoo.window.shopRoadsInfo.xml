@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Çakıllı yol]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Bu çakıllı yol, hayvanat bahçesi bölümlerinizi birbirine bağlıyor. Kaliteli bir yol ağı, ziyaretçilerinizin yolunu bulmasına ve tüm bölümlere ulaşmasına yardımcı olur.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Mavi ve beyaz kaldırım]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Bu mavi ve beyaz kaldırım taşlı yol sadece harika görünmekle kalmıyor, aynı zamanda bebek arabaları, scooterlar ve patenler için de mükemmel bir yüzey sunuyor. Akıcı hareket ve kaliteli eğlence, işte bu harika!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Kum yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[Bozkırlarda nadiren asfalt yol bulunur. Hayvanat bahçenizin vahşi doğaya benzemesini istiyorsunuz!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Pembe ve beyaz kaldırım]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Ne kadar güzel: Değerli pembe mozaik taşlardan yapılmış bu taş yol gerçekten çok özel. Yüksek topuklu ayakkabı giyen ziyaretçiler için mükemmel bir podyum.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Siyah beyaz kaldırım]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Mozaik şeklinde dizilmiş siyah ve beyaz değerli taşlar bu yolu muhteşem bir şekilde süslüyor. Büyük bir özenle işlenmiş bu taşlar, hayvanat bahçenizin birer mücevheri haline geliyor.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[engebeli yol]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Tıpkı doğada olduğu gibi, taşların arasındaki boşluklardan küçük ot kümeleri fışkırıyor. Titiz kişiler için uygun olmayabilir, ancak doğa severler kesinlikle keyif alacaklardır.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Çakıllı yol]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Bu çakıllı yol çok güzel görünüyor ve eminim kimse üzerinde kayıp düşmeyecek. Güvenli ve güzel, daha ne isteyebilirsiniz ki?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Toprak yol]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[Toprak yollar Afrika'da oldukça yaygındır. Hayvanat bahçenize otantik bir hava katarlar ve birçok hayvanın kendilerini evlerinde hissetmelerini sağlarlar.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Su yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Şıp şıp şıp! Lastik çizmelerinizi giyin, lastik botunuzu şişirin ve bir lastik ördek kapın - bu yolculukta bol bol su olacak!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Buz yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Yaşasın! Buzdan yol - bu çok eğlenceli olacak! Ziyaretçileriniz donmuş yolda kayarak çok eğlenecekler. Dikkat edin, tuzlanmamış!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Savannah Yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[Savana boyunca uzanan, iyi işlenmiş bir patika, safarideki gibi iz aramak için ideal bir ortam sunuyor.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Çöl yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Güneşin kavurucu sıcağı altında, kum çölü kaplayarak tüm izleri siliyor.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Taş yol]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Bu yol oldukça engebeli. Üzerinde büyük taşlar ve kayalar var, bu yüzden iyi bir ayakkabı giymek şart. Düşmemeye dikkat edin!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Tundra Yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[Ziyaretçilerinizin bu patikada pusulaya ihtiyacı olacak, ancak bilindik yollardan gitmemeleri de akıllıca olacaktır.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Kar yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[Karlı patikada yapış yapış kar var ve ziyaretçileriniz sıcak botlarıyla bu patikada ağır ağır yürüyecekler. Buradaki her şey çok güzel!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Çöl yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[Vahşi doğada yolda kalmak en iyisidir. Her yerde zehirli maddeler ve atıklar var. İyi tabanlı lastik çizmeler şart!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Alp rotası]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Bu yürüyüş parkuru sizi Alpler'in içinden yukarı ve aşağı doğru götürecek. Sağlam bilek desteği olan iyi ayakkabılar kaymanızı önleyecektir!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Mağara yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Gözlerinizi dört açın ki kayıp düşmeyin. Belki taşların arasında parıldayan bir altın tanesi görürsünüz.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Orman yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[Yağmurlu günlerde bu yol biraz çamurlu olabilir, ancak yazın orman kesinlikle çok güzeldir.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Sahil yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Parıldayan kumların, deniz kabuklarının, deniz yosunlarının ve ara sıra da denizyıldızlarının üzerinde çıplak ayakla yürümek sağlığınız için çok faydalıdır!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Büyülü yol]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[Olağanüstü güzellikteki parlak mavi iz, ilk bakışta korkutucu görünse de aynı zamanda macera dolu. Peki nereye çıkıyor?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Şeker Diyarı Yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Kırıntı! Aman! Şekere mi bastınız? Dikkatli olun, yolda sakızlar var! Burası ne kadar da güzel ve renkli!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Bambu ormanı yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[Sis, uçsuz bucaksız, neredeyse geçilmez bir bambu ormanının içinden süzülüyor. Uzaktan bir ağaçkakanın vuruşları duyuluyor. Tam anlamıyla pastoral!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Orman yolu]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Bu ormanda dallar arasında sallanmak istemiyorsanız, bu iyi işlenmiş patikadan yürüyebilirsiniz. Dikkatli olun: Zaman zaman bir yılan veya örümcek yoldan geçebilir.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[Bataklıktan geçen yol]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[Ziyaretçilerinizin bataklıkta doğru yolda kalmayı unutmamaları gerekiyor. Yanlış bir adım atarlarsa çamura düşebilirler!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Ahşap platform]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Ahşap bir iskelede yürüyüp gemi güvertesinin gıcırtısını dinlemekten daha güzel bir şey yok. Ziyaretçileriniz gerçek bir kıyı deneyimi yaşayacaklar.]]></item>
+  </category>
+</language>

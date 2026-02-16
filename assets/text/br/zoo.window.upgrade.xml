@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.upgrade">
+    <item name="zoo.window.upgrade.info"><![CDATA[Melhore os recintos, embeleze-os e torne seu zoológico ainda mais atraente.]]></item>
+    <item name="zoo.window.upgrade.button"><![CDATA[Atualizar]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[De 21 a 27 de abril, o coelhinho da Páscoa vai passar pelo seu zoológico e deixar um ovo. Colete-os e troque-os por decorações de Páscoa para os recintos, coelhinhos da Páscoa e novos recintos.]]></item>
+  </category>
+</language>

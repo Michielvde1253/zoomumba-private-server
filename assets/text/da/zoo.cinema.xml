@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.cinema">
+    <category name="zoo.cinema.layer">
+      <item name="zoo.cinema.layer.intro"><![CDATA[Se film og få store belønninger for det?<br /><br />Dette sker kun i vores biograf! Se op til 3 klip om dagen og få en belønning for hvert enkelt. For at få din belønning skal du se klippet til slutningen.<br /><br />Du skal blot klikke på "Start film", så kan showet begynde!<br /><br />Hav det sjovt!]]></item>
+      <item name="zoo.cinema.layer.selectReward"><![CDATA[Få din belønning!]]></item>
+      <item name="zoo.cinema.layer.play"><![CDATA[Start filmen!]]></item>
+      <item name="zoo.cinema.layer.noVideo"><![CDATA[Der er i øjeblikket ingen tilgængelige videoer.]]></item>
+    </category>
+  </category>
+</language>

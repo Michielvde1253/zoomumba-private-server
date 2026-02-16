@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.quests">
+    <category name="zoo.quests.tabs">
+      <item name="zoo.quests.tabs.daily"><![CDATA[Napi feladatok]]></item>
+      <item name="zoo.quests.tabs.achievements"><![CDATA[Kitüntetések]]></item>
+      <item name="zoo.quests.tabs.collectables"><![CDATA[Gyűjtemények]]></item>
+    </category>
+    <category name="zoo.quests.daily">
+      <item name="zoo.quests.daily.info"><![CDATA[Minden állatkertben rengeteg munka van nap mint nap: minden segítő kéz jól jön! Vállald el ezeket a napi feladatokat, és végezd el őket.]]></item>
+      <item name="zoo.quests.daily.nextquest.timestamp"><![CDATA[Új feladatok itt:]]></item>
+      <item name="zoo.quests.daily.refreshTitle"><![CDATA[Napi feladatok]]></item>
+      <item name="zoo.quests.daily.refreshQuestion"><![CDATA[Egy kis díjért új napi feladatokat kaphatsz. Szeretnéd?]]></item>
+      <item name="zoo.quests.daily.taskTitle"><![CDATA[Feladat]]></item>
+      <item name="zoo.quests.daily.rewardTitle"><![CDATA[Díjazás]]></item>
+      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Indítás\feladat]]></item>
+      <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Jutalmat kapsz]]></item>
+      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Feladat megszakítása]]></item>
+      <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Feladat]]></item>
+      <item name="zoo.quests.daily.window.activequest.info"><![CDATA[Már egy másik feladatot végzel. Kérjük, fejezd be az aktív feladatot, mielőtt a következőt kezdenéd.]]></item>
+      <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Mégsem]]></item>
+      <item name="zoo.quests.daily.window.abortquest.info"><![CDATA[Ha megszakítja ezt a feladatot, az eltávolításra kerül a feladatlistájáról. Biztosan megszakítja?]]></item>
+      <item name="zoo.quests.daily.window.achievereward.title"><![CDATA[Gratulálok!]]></item>
+      <item name="zoo.quests.daily.window.achievereward.info"><![CDATA[Sikeresen teljesítetted a feladatodat, és a következő jutalmat kaptad:]]></item>
+    </category>
+    <category name="zoo.quests.help">
+      <item name="zoo.quests.help.daily.title"><![CDATA[Olvasási példák]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[1. példa: Adj 50 bála élelmet bármilyen állatnak.<br>2. példa: Nevelj fel 2 oroszlánkölyköt.]]></item>
+    </category>
+    <category name="zoo.quests.achievements.individual">
+      <item name="zoo.quests.achievements.individual.info.congrats"><![CDATA[Remek! Sikeresen elvégezted a következő feladatot:]]></item>
+      <item name="zoo.quests.achievements.individual.1.title"><![CDATA[Az ölelkezés mestere]]></item>
+      <item name="zoo.quests.achievements.individual.2.title"><![CDATA[Állatbarát]]></item>
+      <item name="zoo.quests.achievements.individual.3.title"><![CDATA[Tenyésztési szakértő]]></item>
+      <item name="zoo.quests.achievements.individual.4.title"><![CDATA[Kereskedő/iparosnő]]></item>
+      <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Steakmester]]></item>
+      <item name="zoo.quests.achievements.individual.6.title"><![CDATA[Rendnek kell lennie.]]></item>
+      <item name="zoo.quests.achievements.individual.7.title"><![CDATA[Teljes kiőrlésű gabona rajongó]]></item>
+      <item name="zoo.quests.achievements.individual.8.title"><![CDATA[Gratulálok]]></item>
+      <item name="zoo.quests.achievements.individual.9.title"><![CDATA[A fű szórakoztató]]></item>
+      <item name="zoo.quests.achievements.individual.10.title"><![CDATA[Vitaminfüggő]]></item>
+      <item name="zoo.quests.achievements.individual.11.title"><![CDATA[Friss hal]]></item>
+      <item name="zoo.quests.achievements.individual.12.title"><![CDATA[Szomjoltó]]></item>
+      <item name="zoo.quests.achievements.individual.1.requirement"><![CDATA[Összebújtak a %val%-mal állataikkal.]]></item>
+      <item name="zoo.quests.achievements.individual.2.requirement"><![CDATA[Saját állatok %val%-a.]]></item>
+      <item name="zoo.quests.achievements.individual.3.requirement"><![CDATA[Nevelj fel %val%-nyi babát.]]></item>
+      <item name="zoo.quests.achievements.individual.4.requirement"><![CDATA[Gyűjtsd össze az épületeid zoogross bevételének %val% szorzatát.]]></item>
+      <item name="zoo.quests.achievements.individual.5.requirement"><![CDATA[%val%-szoros húsdarabokat adjon.]]></item>
+      <item name="zoo.quests.achievements.individual.6.requirement"><![CDATA[%val% kukás megjelenítése]]></item>
+      <item name="zoo.quests.achievements.individual.7.requirement"><![CDATA[%val% gabona takarmányozása.]]></item>
+      <item name="zoo.quests.achievements.individual.8.requirement"><![CDATA[Szerezz %val% XP-t a kuka kiürítésével.]]></item>
+      <item name="zoo.quests.achievements.individual.9.requirement"><![CDATA[Etesd meg a %val% füvet.]]></item>
+      <item name="zoo.quests.achievements.individual.10.requirement"><![CDATA[Etesd meg a %val% gyümölcsöt.]]></item>
+      <item name="zoo.quests.achievements.individual.11.requirement"><![CDATA[A halak %val%-át etesd meg.]]></item>
+      <item name="zoo.quests.achievements.individual.12.requirement"><![CDATA[Adj az állataidnak %val% vizet.]]></item>
+      <item name="zoo.quests.achievements.individual.bronze.congrats"><![CDATA[Az állataid örvendeznek, mert egy új kirakósdarabot oldottál fel a Bronz készletben.]]></item>
+      <item name="zoo.quests.achievements.individual.silver.congrats"><![CDATA[Az állataid örvendeznek, mert kiadtál egy új kirakós darabot az ezüst készletből.]]></item>
+      <item name="zoo.quests.achievements.individual.gold.congrats"><![CDATA[Az állataid örülnek, mert egy új kirakósdarabot oldottál fel az arany készletben.]]></item>
+      <item name="zoo.quests.achievements.individual.platinum.congrats"><![CDATA[Az állataid örülnek, mert egy új kirakósdarabot oldottál fel a Platina Készletben.]]></item>
+      <item name="zoo.quests.achievements.individual.open.achievements.info"><![CDATA[Most menj a feladatablakodba a kép megtekintéséhez!]]></item>
+    </category>
+    <category name="zoo.quests.achievements.unlocked">
+      <item name="zoo.quests.achievements.unlocked.bronze.title"><![CDATA[Bronz készlet]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.title"><![CDATA[Ezüst szett]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.title"><![CDATA[Arany szett]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.title"><![CDATA[Platina készlet]]></item>
+      <item name="zoo.quests.achievements.unlocked.bronze.description"><![CDATA[Gratulálunk! Sikeresen teljesítetted a Bronz Készlet összes feladatát, és a következő jutalmakat kapod:]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.description"><![CDATA[Gratulálunk! Sikeresen teljesítetted az Ezüst Készlet összes feladatát, és a következő jutalmakat kapod:]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.description"><![CDATA[Gratulálunk! Sikeresen teljesítetted az Arany Készlet összes feladatát, és a következő jutalmakat kapod:]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.description"><![CDATA[Gratulálunk! Sikeresen teljesítetted a Platina Készlet összes feladatát, és a következő jutalmakat kapod:]]></item>
+      <item name="zoo.quests.achievements.unlocked.open.achievements.info"><![CDATA[Most menj a feladatablakodba, hogy megtekinthesd a teljesen feloldott képet!]]></item>
+      <item name="zoo.quests.help.daily.title"><![CDATA[Olvasási példák]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[1. példa: Adj 50-szer annyi ételt bármely állatnak.<br>2. példa: Nevelj fel 2 oroszlánkölyköt.]]></item>
+    </category>
+  </category>
+</language>

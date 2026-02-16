@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.storage">
+    <category name="zoo.storage.moreSpace">
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Laajenna eläintarhaasi!]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Voit ostaa tämän esineen vain, jos sinulla on %neededExpansion% eläintarhalaajennuksia. Tällä hetkellä sinulla on vain %userExpansion% eläintarhalaajennuksia. Haluatko laajentaa eläintarhaasi juuri nyt, jotta voit ostaa tämän esineen?]]></item>
+    </category>
+    <category name="zoo.storage.firstExpansion">
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[Vesitorni ja varasto]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Hienoa! Sinulla on vihdoin tarpeeksi tilaa rakentaa ensimmäinen vesitorni ja varastotila. Molemmat esineet ovat ilmaisia ​​tavaraluettelossasi. Nyt peli alkaa!]]></item>
+    </category>
+    <category name="zoo.storage.buy">
+      <item name="zoo.storage.buy.belowWater"><![CDATA[Vesitornin enimmäiskapasiteetti on %kapasiteetti%. Tätä arvoa ei voi nostaa edes ostamalla tätä rakennusta. Haluatko silti ostaa sen?]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[Tarvikevarastosi enimmäiskapasiteetti on %capacity%. Tätä arvoa ei voi nostaa edes ostamalla tätä rakennusta. Haluatko silti ostaa sen?]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[Vesikapasiteetistasi on %kapasiteettia käytettävissä. Et voi varastoida enempää. Tämä rakennus ei lisää kapasiteettiasi. Haluatko silti ostaa sen?]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[Varastotilavuudestasi on %capacity% käytettävissä. Et voi varastoida enempää. Tämä rakennus ei lisää kapasiteettiasi. Haluatko silti ostaa sen?]]></item>
+    </category>
+    <category name="zoo.storage.capacity">
+      <item name="zoo.storage.capacity.title"><![CDATA[Tallennuskapasiteetti]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[Eläimesi tarvitsevat paljon rehua ja vettä. Tästä näet, kuinka paljon kutakin sinulla on käytettävissäsi ja kuinka paljon voit laajentaa.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Vesikapasiteetti]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Syöttökapasiteetti]]></item>
+    </category>
+  </category>
+</language>

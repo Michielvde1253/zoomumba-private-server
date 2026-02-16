@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Кошче за боклук]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Хората оставят боклук след себе си! Колкото повече кошчета за боклук имате в зоологическата си градина, толкова по-малко ще трябва да чистите след посетителите.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Кошче за боклук за мумия]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Уф... Искам боклук!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Призракът на кошчето за боклук]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Хуууууу... Боклук]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Вампир от кошчето за боклук]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Трябва ми нещо за хапване. Дай ми боклука си!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Чудовище от кошчето за боклук]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Мммм... Страхотно!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Кошче за боклук за рожден ден]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Мммм, опаковъчна хартия!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Кофа за боклук тип кит]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA[„Ще глътна всичките ти боклуци!“]]></item>
+  </category>
+</language>

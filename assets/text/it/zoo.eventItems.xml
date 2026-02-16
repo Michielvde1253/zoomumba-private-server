@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Zucca di Halloween]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Le spettrali zucche intagliate, chiamate Jack-o'-lantern, brillano nell'oscurità della notte di Halloween. La sua orribile smorfia è resa ancora più terrificante dalla luce tremolante delle candele. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[albero di Natale]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[È cresciuto un snello abete...! Un albero decorato a festa, completo di regali di Natale.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Cuore]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Che fortuna! In molti paesi si crede che baciare uno spazzacamino a San Valentino porti fortuna!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[torta di compleanno]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Che bontà! Cosa sarebbe un compleanno senza una leccornia calorica?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[torta di compleanno]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Che bontà! Che compleanno sarebbe senza questa delizia calorica?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Mucchio di uova di Pasqua]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[Una bella collezione di uova di Pasqua. In passato si usavano uova di gallina dipinte. Oggigiorno, sono più comuni le uova di cioccolato.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Uovo arcobaleno]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Uova di Pasqua appositamente adattate per la caccia pasquale dei bambini ipovedenti. Le uova emettono un segnale acustico o una melodia.]]></item>
+  </category>
+</language>

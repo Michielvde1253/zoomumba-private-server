@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.welcomeBack">
+    <item name="zoo.window.welcomeBack.title"><![CDATA[Üdv ismét, %username%!]]></item>
+    <item name="zoo.window.welcomeBack.info"><![CDATA[Milyen nagyszerű, hogy visszatértél! Szóval, lássunk munkához! Az állataid már alig várnak rád. Újra vad idő lesz! Több imádnivaló újdonság, több szokatlan madár és rengeteg izgatott látogató. <br><br>És azt is élvezni fogod, amit az állatkert tartogat számodra:]]></item>
+    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Hurrá! Gyorsan, ne hagyd ki az őrült rohanást!]]></item>
+  </category>
+</language>

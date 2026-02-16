@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.error">
+    <category name="zoo.error.user">
+      <item name="zoo.error.user.unknown"><![CDATA[Den här spelaren finns inte.]]></item>
+      <item name="zoo.error.user.notEnoughCr"><![CDATA[Du har inte tillräckligt med zoodolarer för det.]]></item>
+      <item name="zoo.error.user.notEnoughCv"><![CDATA[Du har inte tillräckligt med zoogros för det.]]></item>
+      <item name="zoo.error.user.notRequiredLevel"><![CDATA[Du har inte nått den nödvändiga nivån.]]></item>
+    </category>
+    <category name="zoo.error.login">
+      <item name="zoo.error.login.head"><![CDATA[Inloggningsfel]]></item>
+      <item name="zoo.error.login.text"><![CDATA[Ett fel uppstod vid inloggningen. Kontrollera dina uppgifter och försök igen.]]></item>
+      <item name="zoo.error.login.blocked"><![CDATA[Du har blivit blockerad av en administratör.]]></item>
+      <item name="zoo.error.login.100.title"><![CDATA[Fel]]></item>
+      <item name="zoo.error.login.100.info"><![CDATA[Du har redan använt bonuskoden på det här kontot, det är inte möjligt att använda den igen.]]></item>
+    </category>
+    <category name="zoo.error.conf">
+      <item name="zoo.error.conf.unknownObj"><![CDATA[Okänt objekt]]></item>
+      <item name="zoo.error.conf.notBuyable"><![CDATA[Varan är för närvarande inte tillgänglig för köp]]></item>
+      <item name="zoo.error.conf.notEvent"><![CDATA[Artikeln är inte tillämplig för närvarande]]></item>
+    </category>
+    <category name="zoo.error.badData">
+      <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Vi är ledsna!]]></item>
+      <item name="zoo.error.badData.dailyQuests.text"><![CDATA[Oj! Ett fel uppstod. Problemet har rapporterats till teamet!]]></item>
+    </category>
+    <category name="zoo.error.field">
+      <item name="zoo.error.field.unknownObj"><![CDATA[Objektet är inte tillgängligt i spelet.]]></item>
+      <item name="zoo.error.field.blocked"><![CDATA[Fält ockuperat]]></item>
+      <item name="zoo.error.field.breedFailed"><![CDATA[Aveln misslyckades. Tyvärr producerade dina djur ingen avkomma.]]></item>
+      <item name="zoo.error.field.wrongSpecies"><![CDATA[Olämpligt djur för detta inhägnad.]]></item>
+      <item name="zoo.error.field.maxChildReached"><![CDATA[Du har nått det maximala antalet valpar.]]></item>
+      <item name="zoo.error.field.maleAdultNeeded"><![CDATA[Du behöver en man för det.]]></item>
+      <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[Du behöver en kvinna för det.]]></item>
+      <item name="zoo.error.field.maxAdultReached"><![CDATA[Du har nått det maximala antalet vuxna.]]></item>
+      <item name="zoo.error.field.buildingNotFinished"><![CDATA[Denna byggnad är fortfarande under uppbyggnad.]]></item>
+    </category>
+    <category name="zoo.error.db">
+      <item name="zoo.error.db.failUpdate"><![CDATA[Databasuppdateringen misslyckades.]]></item>
+    </category>
+    <category name="zoo.error.invite">
+      <item name="zoo.error.invite.requesterror"><![CDATA[Ett fel har uppstått.]]></item>
+      <item name="zoo.error.invite.recruitexists"><![CDATA[Du har redan bjudit in den här användaren.]]></item>
+      <item name="zoo.error.invite.global"><![CDATA[Inbjudningsgränsen har nåtts. Vänta 24 timmar innan du kan skicka en ny inbjudan (för alla spel).]]></item>
+      <item name="zoo.error.invite.instance"><![CDATA[Inbjudningsgränsen har nåtts. Vänta 24 timmar innan du kan skicka en ny inbjudan (för alla spel).]]></item>
+      <item name="zoo.error.invite.error"><![CDATA[Ett fel uppstod... försök igen senare.]]></item>
+    </category>
+  </category>
+</language>

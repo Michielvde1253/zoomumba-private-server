@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.slayer">
+    <category name="zoo.slayer.friends">
+      <item name="zoo.slayer.friends.title"><![CDATA[Amigos]]></item>
+      <item name="zoo.slayer.friends.message"><![CDATA[Enviar mensagem para este amigo]]></item>
+      <item name="zoo.slayer.friends.delete"><![CDATA[Tem certeza de que deseja remover este jogador da sua lista de amigos?]]></item>
+      <item name="zoo.slayer.friends.visit"><![CDATA[Visite o zoológico do seu amigo.]]></item>
+      <item name="zoo.slayer.friends.empty"><![CDATA[Sozinho? Que tal convidar alguns amigos para jogarem juntos? Mais gente significa mais diversão!]]></item>
+    </category>
+    <category name="zoo.slayer.receivedInvites">
+      <item name="zoo.slayer.receivedInvites.title"><![CDATA[Pedidos de amizade recebidos]]></item>
+      <item name="zoo.slayer.receivedInvites.accept"><![CDATA[Aceitar solicitação de amizade]]></item>
+      <item name="zoo.slayer.receivedInvites.deny"><![CDATA[Recusar solicitação de amizade]]></item>
+      <item name="zoo.slayer.receivedInvites.empty"><![CDATA[Infelizmente, você não tem nenhum novo pedido de amizade.]]></item>
+    </category>
+    <category name="zoo.slayer.sentInvites">
+      <item name="zoo.slayer.sentInvites.title"><![CDATA[Enviei solicitações de amizade.]]></item>
+      <item name="zoo.slayer.sentInvites.empty"><![CDATA[Você não enviou nenhum pedido de amizade.]]></item>
+    </category>
+    <category name="zoo.slayer.add">
+      <item name="zoo.slayer.add.title"><![CDATA[Convide amigos]]></item>
+      <item name="zoo.slayer.add.requested"><![CDATA[Parabéns! Você enviou com sucesso sua solicitação de amizade para o usuário %useName%.]]></item>
+      <item name="zoo.slayer.add.text"><![CDATA[Não quer mais jogar ZooMumba sozinho e prefere se divertir com outras pessoas? Convide seus amigos!]]></item>
+      <item name="zoo.slayer.add.byName"><![CDATA[Convide seus amigos para jogar ZooMumba!]]></item>
+      <item name="zoo.slayer.add.byName.message"><![CDATA[Por favor, digite os nomes de usuário dos seus amigos para enviar uma solicitação de amizade.]]></item>
+      <item name="zoo.slayer.add.duplicated.message"><![CDATA[Encontramos mais de um nome de usuário na busca. Selecione seu amigo na lista:]]></item>
+      <item name="zoo.slayer.add.self"><![CDATA[Você não pode adicionar a si mesmo à sua própria lista de amigos!]]></item>
+      <item name="zoo.slayer.add.byMail"><![CDATA[Convide seus amigos por e-mail.]]></item>
+      <item name="zoo.slayer.add.byFB"><![CDATA[Convide seus amigos pelo Facebook.]]></item>
+      <item name="zoo.slayer.add.button"><![CDATA[Convidar]]></item>
+    </category>
+  </category>
+</language>

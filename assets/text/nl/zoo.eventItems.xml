@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Jack-o'-lantern]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Griezelige uitgeholde pompoenen, Jack-o-lanterns genaamd, gloeien in de duisternis van Halloweenavond. Zijn afschuwelijke grimas wordt nog angstaanjagender door het flikkerende kaarslicht. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[kerstboom]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[Er is een slanke spar gegroeid...! Een feestelijk versierde boom, compleet met kerstcadeaus.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Hart]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Moge het geluk maar komen! In veel landen geloven mensen dat het kussen van een schoorsteenveger op Valentijnsdag hen veel geluk brengt!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Verjaardagstaart]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Mmm! Wat zou een verjaardag zijn zonder een calorierijke traktatie?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Verjaardagstaart]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Mmm! Wat zou een verjaardag zijn zonder deze calorierijke traktatie?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Stapel paaseieren]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[Een mooie verzameling paaseieren. Vroeger werden beschilderde kippeneieren gebruikt. Tegenwoordig zijn chocolade-eieren gebruikelijker.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Regenboogei]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Paaseieren die speciaal zijn aangepast zodat visueel gehandicapte kinderen kunnen deelnemen aan de paasjacht. De eieren piepen of spelen een melodie.]]></item>
+  </category>
+</language>

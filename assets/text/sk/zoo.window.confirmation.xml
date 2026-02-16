@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.confirmation">
+    <item name="zoo.window.confirmation.closegame.title"><![CDATA[Koniec hry]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[Táto zoo zatiaľ nie je k dispozícii. Môžete ju odomknúť dosiahnutím %level% rozšírení v nasledujúcej zoo: %zooName%. Alebo ju odomknete okamžite za %zooDollar% zoodolárov.]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[Na odomknutie tejto zoo musíte byť na úrovni %level%. Alebo ju odomknite okamžite za %zooDollar% zoodolárov.]]></item>
+    <item name="zoo.window.confirmation.map.level"><![CDATA[Na odomknutie tejto zoo musíte mať úroveň %level%.]]></item>
+    <item name="zoo.window.confirmation.map.buy"><![CDATA[Chcete si kúpiť rozšírenie zoologickej záhrady?]]></item>
+    <item name="zoo.window.confirmation.title.buy"><![CDATA[Kúpiť]]></item>
+    <item name="zoo.window.confirmation.closegame.info"><![CDATA[Naozaj chceš opustiť ZooMumbu?]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.title"><![CDATA[Kúpiť položky]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.info"><![CDATA[Naozaj si chcete kúpiť túto položku?]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.title"><![CDATA[Kúpiť ťah]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.info"><![CDATA[Chceš urobiť tento krok kvôli zoodollars?]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.title"><![CDATA[Predať]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Naozaj chcete predať túto položku?]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[POZOR]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[Ak umiestnite kryt do inventára, stratí svoje akčné vylepšenie.<br><br>Chcete pokračovať?]]></item>
+    <category name="zoo.window.confirmation.gift">
+      <item name="zoo.window.confirmation.gift.title"><![CDATA[Pozor!]]></item>
+      <item name="zoo.window.confirmation.gift.info"><![CDATA[Ešte si si nevybral/a svojich 5 priateľov! Ak budeš pokračovať, tvoje darčeky sa stratia. To by bola škoda... Chceš stále pokračovať?]]></item>
+    </category>
+  </category>
+</language>

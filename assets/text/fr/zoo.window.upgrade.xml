@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.upgrade">
+    <item name="zoo.window.upgrade.info"><![CDATA[Améliorez vos enclos, embellissez-les et rendez votre zoo encore plus attrayant.]]></item>
+    <item name="zoo.window.upgrade.button"><![CDATA[Mise à niveau]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[Du 21 au 27 avril, le lapin de Pâques fera son apparition dans votre zoo et déposera un œuf. Collectionnez-les et échangez-les contre des décorations, des lapins et des enclos de Pâques.]]></item>
+  </category>
+</language>

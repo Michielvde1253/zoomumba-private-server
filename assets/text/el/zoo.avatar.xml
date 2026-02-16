@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.avatar">
+    <item name="zoo.avatar.heads"><![CDATA[Δημιουργήστε το δικό σας avatar εδώ και δείξτε το στους φίλους σας! Έχετε ήδη επιλέξει το φύλο σας; Τότε αποφασίστε για τα χαρακτηριστικά του προσώπου σας!]]></item>
+    <item name="zoo.avatar.eyes"><![CDATA[Το μάτι είναι το παράθυρο της ψυχής! Ποια σας ταιριάζουν καλύτερα;]]></item>
+    <item name="zoo.avatar.mouths"><![CDATA[Χαμογελώντας, γελώντας, χαμογελώντας... Το στόμα σου δείχνει στους άλλους πώς αισθάνεσαι!]]></item>
+    <item name="zoo.avatar.hair"><![CDATA[Το χρώμα και το χτένισμα των μαλλιών μπορούν να αλλάξουν ριζικά την εμφάνισή σας!]]></item>
+    <item name="zoo.avatar.hats"><![CDATA[Τα καλύμματα κεφαλής (?) μπορούν να σε κάνουν να φαίνεσαι σημαντικός!]]></item>
+    <item name="zoo.avatar.clothes"><![CDATA[Διάλεξε την κατάλληλη στολή για τον ζωολογικό κήπο.]]></item>
+  </category>
+</language>

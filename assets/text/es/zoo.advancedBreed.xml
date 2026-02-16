@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[¡Hola! Soy Soňa Starostlivá, enfermera del zoológico. ¿Tienen ganas de criar a los nuevos y adorables cachorros? ¡Les explicaré cómo funciona! Primero, deben decidir qué especie animal quieren criar.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Elige dos animales adultos de tu inventario para que se conviertan en padres. Cuanto más raros sean, más probable será que tengan una cría aún más rara. Sin embargo, los padres deben permanecer conmigo durante esta crianza.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Usar objetos adicionales, alimento fuerte, superalimento o supermedicina aumentará tus posibilidades de criar un bebé excepcional. ¡Cuantos más corazones tenga el objeto, más probabilidades tendrás!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[¡Ya casi terminas los preparativos! Revisa tus elecciones antes de que empiece todo. ¿Quieres cambiar algo? ¡No hay problema, solo usa el botón "Atrás"!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[En el experimento de cría se utilizaron los siguientes animales y elementos:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Estación de cría lista]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Aquí es donde se cría]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[¡Ha nacido un bebé!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[¡Los bebés están aquí!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Empezar a criar]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Usar esencia]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[¿De verdad quieres empezar a criar sin suplementos? Piénsalo bien: con suplementos, tienes más posibilidades de obtener una descendencia excepcional.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Estás en plenos preparativos. ¿De verdad quieres dejar la estación de cría?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Estación de cría]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Estos animales están teniendo crías ahora mismo:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Tiempo restante:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Esencia de Tolija]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[La esencia de Tolija acorta el tiempo de cría en un 50%.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[¡Hurra! ¡Tienes un bebé! Puedes encontrar a este adorable pequeñín en tu inventario:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[¡Hurra! ¡Tienes un hijo! Puedes encontrar a este adorable duende en tu inventario:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Traslada al pequeño a la guardería de animales para que crezca.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Lleva a los más pequeños a la guardería de animales para que puedan crecer.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Advertencia: ¡La crianza está en curso! Si mueves la estación a tu inventario ahora, el proceso se interrumpirá y perderás todos los animales y suplementos. ¿Seguro que quieres moverla ahora?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Advertencia: ¡La cría está en curso! Si vendes la estación ahora, el proceso se interrumpirá y perderás todos los animales y suplementos. ¿Seguro que quieres vender la estación ahora?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Si el proceso de cría se completa una vez finalizado el evento, solo recibirás 1 bebé.]]></item>
+    </category>
+  </category>
+</language>

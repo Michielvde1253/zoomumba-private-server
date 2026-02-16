@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Bine ați venit la circul ambulant! Vă prezentăm Cutia Misterioasă! Cumpărați o cutie și primiți unul dintre cele 10 animale. Puteți avea până la 20 de cutii odată, iar fiecare cutie poate fi deschisă în până la 5 ore. Distracție plăcută!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Animale:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Felicitări din suflet!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[Următoarele animale au fost adăugate în inventarul tău: %animal%. Obține și mai multe lăzi misterioase pentru a obține și mai multe animale unice!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[O, ne pare rău!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Ai deja 20 de cufere misterioase. Așteaptă până se deschide una dintre ele și apoi ia o altă cuferă.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Cutia misterioasă se va deschide pentru: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Faceți clic pentru a vizualiza animalele dvs.]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Bine ai revenit!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Cât timp ai lipsit, animalelor tale le-a fost sete din cauza cuștii misterioase. Crescătoarea Sonia a avut grijă de ele și le-a adus în inventarul ei. Aruncă o privire rapidă!]]></item>
+  </category>
+</language>

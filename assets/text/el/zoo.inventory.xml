@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.inventory">
+    <item name="zoo.inventory.sell.title"><![CDATA[Πωλώ]]></item>
+    <item name="zoo.inventory.sell.info"><![CDATA[Πόσα θέλετε να πουλήσετε;]]></item>
+    <item name="zoo.inventory.store.error.title"><![CDATA[ΣΠΟΥΔΑΙΟΣ]]></item>
+    <item name="zoo.inventory.store.error.info"><![CDATA[Αν θέλετε να μετακινήσετε τα ζώα σας με περιβλήματα στο απόθεμά σας, πρέπει πρώτα να είναι υγιή και ικανοποιημένα.]]></item>
+    <category name="zoo.inventory.tabs">
+      <item name="zoo.inventory.tabs.gifts"><![CDATA[Δώρα]]></item>
+      <item name="zoo.inventory.tabs.inventory"><![CDATA[Καταγραφή εμπορευμάτων]]></item>
+      <item name="zoo.inventory.tabs.pawprints"><![CDATA[Πόδια]]></item>
+      <item name="zoo.inventory.tabs.pearls"><![CDATA[Μαργαριτάρια]]></item>
+      <item name="zoo.inventory.tabs.specials"><![CDATA[Αξεσουάρ]]></item>
+      <item name="zoo.inventory.tabs.trash"><![CDATA[Σκουπίδια]]></item>
+    </category>
+    <category name="zoo.inventory.trash">
+      <item name="zoo.inventory.trash.info"><![CDATA[Προστασία του περιβάλλοντος με επαναχρησιμοποίηση: Ανακυκλώστε τα απόβλητα σε μια εγκατάσταση ανακύκλωσης και χρησιμοποιήστε τις πρώτες ύλες για να φτιάξετε κάτι που χρειάζεστε.]]></item>
+      <item name="zoo.inventory.trash.amount"><![CDATA[Ποσότητα σκουπιδιών:]]></item>
+    </category>
+    <category name="zoo.inventory.pawprints">
+      <item name="zoo.inventory.tabs.pawprints.info"><![CDATA[Όσο περισσότερο φροντίζετε τα ζώα σας, τόσο περισσότερες πατούσες θα συλλέγετε. Στη συνέχεια, μπορείτε να τις χρησιμοποιήσετε για να βελτιώσετε τα περιβλήματά σας.<br> <br>Τρέχουσα ποσότητα ποδιών που συλλέχθηκαν:]]></item>
+    </category>
+    <category name="zoo.inventory.pearls">
+      <item name="zoo.inventory.tabs.pearls.info"><![CDATA[Όσο περισσότερο φροντίζετε τα ζώα σας, τόσο περισσότερα μαργαριτάρια θα κερδίζετε για να ομορφύνετε τα ενδιαιτήματά σας.<br><br>Τρέχουσα κατάσταση μαργαριταριών:]]></item>
+    </category>
+    <category name="zoo.inventory.inventory">
+      <item name="zoo.inventory.inventory.empty"><![CDATA[ΠΑΝΤΟΥ ΕΙΝΑΙ ΑΔΕΙΟ;<br>Το απόθεμά σας είναι αυτήν τη στιγμή άδειο.<br>Γιατί δεν έρχεστε να ρίξετε μια ματιά στο κατάστημα ή να πάτε ένα σαφάρι;]]></item>
+      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Χρήση]]></item>
+    </category>
+    <category name="zoo.inventory.gifts">
+      <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Όνομα παίκτη]]></item>
+      <item name="zoo.inventory.gifts.headerUserID"><![CDATA[Αναγνωριστικό παίκτη]]></item>
+      <item name="zoo.inventory.gifts.received"><![CDATA[Τι όμορφο! Ο φίλος σου σου έστειλε ένα δώρο. Γρήγορα, ξετύλιξέ το!]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Διαστέλλω]]></item>
+      <item name="zoo.inventory.gifts.none"><![CDATA[Τι κρίμα! Δεν έχεις κανένα νέο δώρο αυτή τη στιγμή... Αλλά μην λυπάσαι, κάτι θα συμβεί σύντομα.]]></item>
+    </category>
+    <category name="zoo.inventory.move">
+      <item name="zoo.inventory.move.title"><![CDATA[Πληρωμή]]></item>
+      <item name="zoo.inventory.move.info"><![CDATA[Για πόσα ζώα θέλετε να πληρώσετε;]]></item>
+    </category>
+    <category name="zoo.inventory.allin">
+      <item name="zoo.inventory.allin.title"><![CDATA[Αποστολή όλων στο απόθεμα]]></item>
+      <item name="zoo.inventory.allin.confirmation"><![CDATA[Είστε σίγουροι ότι θέλετε να στείλετε τα πάντα στο απόθεμα; Προειδοποίηση: Τα ζώα σας πρέπει να είναι καθαρά, ταϊσμένα και ευτυχισμένα πριν μπορέσετε να το κάνετε αυτό.]]></item>
+    </category>
+  </category>
+</language>

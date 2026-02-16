@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Jadę do rezerwatu, gdzie chcą zwiększyć populację - %species%. Możesz mi pomóc? Pożyczę ci parę - %species% na 120 godzin. Za %amount% młodych %species% dostaniesz jednego dorosłego.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Pożycz parę]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Anakonda]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Świetnie! Masz już co najmniej 5 maluchów w swoim ekwipunku. Szybko wymień je ze mną na jednego dorosłego orangutana!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Świetnie! Naprawdę bardzo mi pomogłeś! Teraz zabiorę młode do rezerwatu i tam je wypuszczę na wolność. Dziękuję bardzo i do zobaczenia następnym razem!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[Mobil ze zwierzętami wraca do rezerwatu, przywożąc ze sobą dwa pożyczone zwierzęta. Noworodki znajdziesz w swoim ekwipunku.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Pozostało %count% godzin na wymianę młodych.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Małe orangutany w twoim ekwipunku]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Przenieś młode orangutany do ekwipunku.]]></item>
+    </category>
+  </category>
+</language>

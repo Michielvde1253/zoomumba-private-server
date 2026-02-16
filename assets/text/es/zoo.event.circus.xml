@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[¡Bienvenidos al circo ambulante! ¡Presentamos la Caja Misteriosa! Compra una caja y llévate uno de los 10 animales. Puedes tener hasta 20 cajas a la vez, y cada una se abre en hasta 5 horas. ¡Diviértete!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Animales:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[¡Mis más sinceras felicitaciones!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[Se han añadido los siguientes animales a tu inventario: %animal%. ¡Consigue aún más cajas misteriosas para conseguir animales aún más únicos!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[¡Oh, lo sentimos!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Ya tienes 20 cofres misteriosos. Espera a que uno se abra y consigue otro.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[La caja misteriosa se abrirá por: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Haga clic para ver sus animales]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[¡Bienvenido de nuevo!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Mientras estabas fuera, tus animales sintieron sed por culpa de la misteriosa caja. La criadora Sonia los cuidó y los trajo a su inventario. ¡Échales un vistazo!]]></item>
+  </category>
+</language>

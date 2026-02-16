@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Tehoste 30 % EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[30 % boosterilla saat 30 % enemmän BZ:tä 1 tunniksi! Jos ostat kaksi samanlaista boosteria, aika pidenee. Vinkki: Yksi 30 % BZ-boosteri ja yksi 100 % BZ-boosteri ovat voimassa samanaikaisesti ja palkitsevat sinut 130 % enemmän BZ:tä koko 1 tunnin ajaksi.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[100 % tehoste-EP]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[100 % BZ-tehosteella saat 100 % enemmän BZ:tä koko tunniksi! Jos ostat kaksi samanlaista tehosteainetta, aika pidenee. Vinkki: yksi 100 % BZ-tehoste ja yksi 30 % BZ-tehoste ovat voimassa samanaikaisesti, joten saat 130 % enemmän BZ:tä koko tunniksi!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30 % tassunvahvistin]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[30 %:n tassuntehosteella saat 30 % enemmän tassuja koko tunniksi! Jos ostat kaksi samanlaista tehostetta, aika pidenee. Vinkki: yksi 30 %:n tassuntehoste ja yksi 100 %:n tassuntehoste ovat voimassa samanaikaisesti, joten saat 130 % enemmän tassuja koko tunniksi!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100 % tassunvahvistin]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[100 %:n tassuntehosteella saat 100 % enemmän tassuja koko tunniksi! Jos ostat kaksi samanlaista tehostetta, aika pidenee. Vinkki: yksi 100 %:n tassuntehoste ja yksi 30 %:n tassuntehoste ovat voimassa samanaikaisesti, joten saat 130 % enemmän tassuja koko tunniksi!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Lautapelin tehostaja]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[Lautapeliboosterin avulla saat tuplamäärän keräilyesineitä, jotka ponnahtavat esiin koteloista 1 tunnin ajaksi! Jos haluat pidentää tätä aikaa, osta lisää boostereita.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[30 % zoocoin-tehoste]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[30 %:n boosterilla saat 30 % ylimääräisiä zoogroja kaupoistasi 1 tunnin ajaksi! Jos ostat kaksi samanlaista boosteria, aika pidenee. Vinkki: Yksi 30 %:n zoogros-boosteri ja yksi 100 %:n zoogros-boosteri ovat voimassa samanaikaisesti ja palkitsevat sinut 130 % ylimääräisillä zoogroilla koko 1 tunnin ajaksi.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[100 % zoocoin-tehoste]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[100 % boosterilla saat 100 % ylimääräistä zoogrosia kaupoistasi 1 tunnin ajaksi! Jos ostat kaksi samanlaista boosteria, aika pidenee. Vinkki: Yksi 100 % zoogros-boosteri ja yksi 30 % zoogros-boosteri ovat voimassa samanaikaisesti ja palkitsevat sinut 130 % ylimääräisellä zoogrolla koko 1 tunnin ajaksi.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Kasvatusaseman tehostaja]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Harvinaisia ​​hybridejä helposti! Kasvatusaseman tehostin varmistaa, että poikasesi saavuttavat vähintään yhden tason korkeamman tason kuin jonkin vanhemmistaan ​​alin taso 24 tunnin kuluessa. Mutta ole varovainen: Tehostin toimii vain, jos noudat poikasen kasvatusasemalta.]]></item>
+    </category>
+  </category>
+</language>

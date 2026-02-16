@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bank">
+    <item name="zoo.window.bank.title"><![CDATA[Zoobank]]></item>
+    <item name="zoo.window.bank.info"><![CDATA[De som sköter sig väl kommer att lyckas! Köp värdefulla zoodollars på zoobanken eller dra nytta av våra attraktiva Premium-erbjudanden!]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.title"><![CDATA[Köp<br>zoodollars]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.info"><![CDATA[Har du slut på spelvaluta? Det kan hända! De som vill lyckas måste investera!]]></item>
+    <item name="zoo.window.bank.button.premium.title"><![CDATA[Premiumpaket]]></item>
+    <item name="zoo.window.bank.button.premium.info"><![CDATA[Använd Premium-förmåner för att locka fler besökare till din djurpark. Testa!]]></item>
+    <item name="zoo.window.bank.button.startpaket.title"><![CDATA[Assistenter]]></item>
+    <item name="zoo.window.bank.button.startpaket.info"><![CDATA[Vill du inte göra allt själv? Inga problem! Zooassistenter hjälper dig!]]></item>
+    <item name="zoo.window.bank.button.cashaction.title"><![CDATA[Kontanter för<br>Action]]></item>
+    <item name="zoo.window.bank.button.cashaction.info"><![CDATA[Behöver du en ekonomisk boost? Här hittar du fantastiska erbjudanden! Välj en leverantör och få zoodollars!]]></item>
+    <item name="zoo.window.bank.currency.title"><![CDATA[Växlingskontor]]></item>
+    <item name="zoo.window.bank.currency.info"><![CDATA[Växla dina zoodollars mot zoogroshes och bygg upp tillräckligt med reserver på ditt konto.]]></item>
+    <item name="zoo.window.bank.exchange.btnLabel"><![CDATA[Utbyta]]></item>
+  </category>
+</language>

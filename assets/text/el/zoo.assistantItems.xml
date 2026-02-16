@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Θυρωρός Στάνλεϊ]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Ο Στάνλεϊ θα διατηρεί όλα τα περιβλήματα πεντακάθαρα. Το κόλπο του είναι να εμπλέξει τα ζώα, μετατρέποντας το καθάρισμα σε ένα διασκεδαστικό παιχνίδι.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Φύλακας Σόνια]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Η φύλακας Σόνια ξέρει πώς να φροντίζει τέλεια τα ζώα. Μόνο αυτή μπορεί να αγκαλιάζει όλα τα ζώα ταυτόχρονα.]]></item>
+  </category>
+</language>

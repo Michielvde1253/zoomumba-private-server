@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bonus">
+    <item name="zoo.window.bonus.main.title"><![CDATA[Бонус-код]]></item>
+    <item name="zoo.window.bonus.main.info"><![CDATA[У вас есть бонусный код ZooMumba? Просто введите его здесь и получите бонус немедленно!]]></item>
+    <item name="zoo.window.bonus.success.title"><![CDATA[Поздравляем!]]></item>
+    <item name="zoo.window.bonus.success.info"><![CDATA[Отлично, вы правильно ввели бонусный код и получили свою награду. Желаем вам отлично провести время!]]></item>
+    <category name="zoo.window.bonus.error">
+      <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Ошибка]]></item>
+      <item name="zoo.window.bonus.error.invalid.info"><![CDATA[К сожалению, бонусный код неверный. Пожалуйста, проверьте код и попробуйте снова.]]></item>
+      <item name="zoo.window.bonus.error.participated.title"><![CDATA[Ошибка]]></item>
+      <item name="zoo.window.bonus.error.participated.info"><![CDATA[Вы уже активировали этот бонусный код.]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Ошибка]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[Вы слишком часто неправильно вводили бонусный код. Подождите несколько минут, прежде чем повторить попытку.]]></item>
+    </category>
+  </category>
+</language>

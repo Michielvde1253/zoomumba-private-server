@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.cinema">
+    <category name="zoo.cinema.layer">
+      <item name="zoo.cinema.layer.intro"><![CDATA[Vizionezi filme și primești recompense mari pentru asta?<br /><br />Acest lucru se întâmplă doar în cinematografele noastre! Vizionează până la 3 clipuri pe zi și primești o recompensă pentru fiecare. Pentru a-ți primi recompensa, trebuie să vizionezi clipul până la sfârșit.<br /><br />Pur și simplu dă clic pe „Începe filmul” și spectacolul poate începe!<br /><br />Distrează-te!]]></item>
+      <item name="zoo.cinema.layer.selectReward"><![CDATA[Primește-ți recompensa!]]></item>
+      <item name="zoo.cinema.layer.play"><![CDATA[Începe filmul!]]></item>
+      <item name="zoo.cinema.layer.noVideo"><![CDATA[În prezent nu sunt disponibile videoclipuri.]]></item>
+    </category>
+  </category>
+</language>

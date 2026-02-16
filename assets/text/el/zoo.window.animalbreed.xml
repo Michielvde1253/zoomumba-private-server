@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.animalbreed">
+    <item name="zoo.window.animalbreed.title"><![CDATA[Κτηνοτροφία]]></item>
+    <item name="zoo.window.animalbreed.info"><![CDATA[Μεγαλώστε χαριτωμένα μωρά!\nΜε λίγη τύχη, ο ζωολογικός σας κήπος θα καλωσορίσει νέες προσθήκες.]]></item>
+    <item name="zoo.window.animalbreed.breedtitle"><![CDATA[Τυπική αναπαραγωγή]]></item>
+    <item name="zoo.window.animalbreed.breedinfo"><![CDATA[Πιθανοί απόγονοι για:]]></item>
+    <item name="zoo.window.animalbreed.button.startbreeding"><![CDATA[Αρχή]]></item>
+    <item name="zoo.window.animalbreed.babytitle"><![CDATA[Υιοθέτηση]]></item>
+    <item name="zoo.window.animalbreed.babyinfo"><![CDATA[Αποκτήστε αμέσως ένα μωρό:]]></item>
+    <item name="zoo.window.animalbreed.button.buydirectly"><![CDATA[Αγοράστε τώρα]]></item>
+    <item name="zoo.window.animalbreed.button.breedstart"><![CDATA[Αρχή]]></item>
+    <item name="zoo.window.animalbreed.success.title"><![CDATA[Νέος]]></item>
+    <item name="zoo.window.animalbreed.success.info"><![CDATA[Ζήτω!<br>Συγχαρητήρια! Ο ζωολογικός σας κήπος έχει μια χαριτωμένη νέα προσθήκη!]]></item>
+    <item name="zoo.window.animalbreed.failed.title"><![CDATA[Χωρίς αύξηση]]></item>
+    <item name="zoo.window.animalbreed.failed.info"><![CDATA[Κρίμα, αλλά αυτή τη φορά θα πρέπει να περιμένετε τη νέα προσθήκη.<br><br>Θέλετε να προσπαθήσετε ξανά;<br><br>Καλή τύχη!]]></item>
+  </category>
+</language>

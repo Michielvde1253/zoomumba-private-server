@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.animalbreed">
+    <item name="zoo.window.animalbreed.title"><![CDATA[Husdyrhold]]></item>
+    <item name="zoo.window.animalbreed.info"><![CDATA[Opfostre søde babyer!\nMed lidt held vil din zoologiske have byde nye tilføjelser velkommen.]]></item>
+    <item name="zoo.window.animalbreed.breedtitle"><![CDATA[Standardgengivelse]]></item>
+    <item name="zoo.window.animalbreed.breedinfo"><![CDATA[Muligt afkom til:]]></item>
+    <item name="zoo.window.animalbreed.button.startbreeding"><![CDATA[Starte]]></item>
+    <item name="zoo.window.animalbreed.babytitle"><![CDATA[Adoption]]></item>
+    <item name="zoo.window.animalbreed.babyinfo"><![CDATA[Få et barn med det samme:]]></item>
+    <item name="zoo.window.animalbreed.button.buydirectly"><![CDATA[Køb nu]]></item>
+    <item name="zoo.window.animalbreed.button.breedstart"><![CDATA[Starte]]></item>
+    <item name="zoo.window.animalbreed.success.title"><![CDATA[Ung]]></item>
+    <item name="zoo.window.animalbreed.success.info"><![CDATA[Hurra!<br>Tillykke! Din zoologiske have har fået en sød ny tilføjelse!]]></item>
+    <item name="zoo.window.animalbreed.failed.title"><![CDATA[Ingen forøgelse]]></item>
+    <item name="zoo.window.animalbreed.failed.info"><![CDATA[Ærgerligt, denne gang skal du vente på den nye tilføjelse.<br><br>Vil du prøve igen?<br><br>Held og lykke!]]></item>
+  </category>
+</language>

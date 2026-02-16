@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Abóbora de Halloween]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Abóboras esculpidas e assustadoras, chamadas de Jack-o'-lanterns, brilham na escuridão da noite de Halloween. Sua expressão horripilante fica ainda mais aterrorizante à luz bruxuleante das velas. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[árvore de Natal]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[Um pinheiro esguio cresceu...! Uma árvore festivamente decorada, repleta de presentes de Natal.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Coração]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Que venha a boa sorte! Em muitos países, as pessoas acreditam que beijar um limpador de chaminés no Dia dos Namorados traz muita sorte!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Bolo de aniversário]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Que delícia! O que seria de um aniversário sem uma guloseima calórica?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Bolo de aniversário]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Que delícia! O que seria de um aniversário sem essa guloseima calórica?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Pilha de ovos de Páscoa]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[Uma bela coleção de ovos de Páscoa. Antigamente, usavam-se ovos de galinha pintados. Hoje em dia, os ovos de chocolate são mais comuns.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Ovo arco-íris]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Ovos de Páscoa especialmente adaptados para que crianças com deficiência visual participem da caça aos ovos. Os ovos emitem um sinal sonoro ou tocam uma melodia.]]></item>
+  </category>
+</language>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.waterstorehouse">
+    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Watertoren]]></item>
+    <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Magazijngebouw]]></item>
+    <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Dieren hebben veel water nodig. Upgrade je watertoren niveau voor niveau en zorg ervoor dat je genoeg water hebt voor iedereen naarmate je dierentuin groeit.]]></item>
+    <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Je dieren hebben veel voedsel nodig. Breid je opslagruimte verdieping voor verdieping uit en zorg ervoor dat je genoeg voedsel hebt voor al je dieren naarmate je dierentuin groeit.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Bravo! Je hebt het magazijn tot het maximale niveau uitgebreid.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[Bravo! Je hebt de watertoren tot het maximale niveau uitgebreid.]]></item>
+    <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Actieve stupeň rozšíření: %have% / %max%]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.water"><![CDATA[Huidige capaciteit van de watertoren]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.store"><![CDATA[Huidige opslagcapaciteit]]></item>
+    <item name="zoo.window.waterstorehouse.buy.titel"><![CDATA[Uitbreiden]]></item>
+    <item name="zoo.window.waterstorehouse.buy.text"><![CDATA[Wilt u uw dierentuin uitbreiden?]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgraderc"><![CDATA[Uitbreiden voor zoodollars]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Uitbreiden voor zoogrosh]]></item>
+    <item name="zoo.window.waterstorehouse.buy.nextcap"><![CDATA[Nieuwe maat:]]></item>
+  </category>
+</language>

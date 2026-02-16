@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.user">
+    <item name="zoo.user.name"><![CDATA[Používateľské meno]]></item>
+    <item name="zoo.user.id"><![CDATA[ID používateľa]]></item>
+    <item name="zoo.user.notAuth.title"><![CDATA[Overenie]]></item>
+    <item name="zoo.user.notAuth.info"><![CDATA[Overenie zlyhalo. Prihláste sa znova.]]></item>
+  </category>
+</language>

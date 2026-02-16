@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Добро пожаловать в передвижной цирк! Представляем вам «Коробку-сюрприз»! Купите одну коробку и получите одно из 10 животных. Вы можете иметь до 20 коробок одновременно, и каждую коробку можно открыть в течение 5 часов. Веселитесь!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Животные:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Искренние поздравления!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[В ваш инвентарь добавлены следующие животные: %животных%. Получайте ещё больше загадочных ящиков, чтобы найти ещё больше уникальных животных!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[О, нам очень жаль!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[У вас уже есть 20 загадочных сундуков. Подождите, пока один из них откроется, а затем возьмите следующий сундук.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Загадочная коробка откроется за: %суммы%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Нажмите, чтобы посмотреть ваших животных]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Добро пожаловать!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Пока вас не было, ваши животные захотели пить из таинственного ящика. Заводчица Соня позаботилась о них и принесла в свой инвентарь. Взгляните!]]></item>
+  </category>
+</language>

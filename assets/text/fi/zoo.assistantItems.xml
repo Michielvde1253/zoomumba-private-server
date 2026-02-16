@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Talonmies Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley pitää kaikki aitaukset säihkyvän puhtaina. Hänen temppunsa on ottaa eläimet mukaan, jolloin siivoamisesta tulee hauska leikki.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Vartija Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Hoitaja Sonja osaa pitää täydellisesti huolta eläimistä. Vain hän voi halata kaikkia eläimiä kerralla.]]></item>
+  </category>
+</language>

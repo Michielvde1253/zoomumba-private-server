@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.safari">
+    <item name="zoo.safari.title"><![CDATA[Safari]]></item>
+    <item name="zoo.safari.fuel_singular"><![CDATA[Benzinekan]]></item>
+    <category name="zoo.safari.errors">
+      <item name="zoo.safari.errors.notAvailable"><![CDATA[Jammer! Je niveau is helaas te laag! Vanaf niveau 7 kun je de safaritocht starten!]]></item>
+    </category>
+    <category name="zoo.safari.welcomeWindow">
+      <item name="zoo.safari.welcomeWindow.infoText"><![CDATA[Welkom bij een safari vol avontuur: win fantastische beloningen en spot zelfs nieuwe dieren! <br /><br />Kies in de volgende stap het gebied waar je je safari wilt beginnen. <br /><br />Hup, de wildernis in!]]></item>
+    </category>
+    <category name="zoo.safari.regionWindow">
+      <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Kies een regio]]></item>
+      <item name="zoo.safari.startWindow.infoText"><![CDATA[In welke regio wilt u uw safari beginnen? Kies hier: In elke regio zijn er 3 gebieden die u kunt activeren, afhankelijk van uw niveau.]]></item>
+    </category>
+    <category name="zoo.safari.shopWindow">
+      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Hé avonturier! Ga op een echte safari. Gebruik de jokers om je weg in de wildernis makkelijker te vinden.<br><br>Belangrijk: Kies slechts één joker van elk type voor je reis!]]></item>
+      <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[Wil je %skipTimerCost% zoodollars investeren en meteen met je safari beginnen?]]></item>
+      <item name="zoo.safari.shopWindow.infoText"><![CDATA[Ben je klaar voor een safari? Zo werkt het: In de volgende stap zie je een spel: het bestaat uit 9 tot 25 kaarten die met de afbeelding naar beneden liggen. Op de kaarten vind je beloningen of dierensporen die je moet volgen om de hoofdprijs te winnen. Maar pas op: elke kaart kan ook een valstrik bevatten!<br /><br />Zie je die jerrycan rechtsonder? Die laat zien hoeveel benzine er nog in de tank van je jeep zit. Zodra je een kaart omdraait, verbruik je benzine.<br /><br />En nu de spelregels: In het begin kun je alleen kaarten van de onderste rij kiezen. Klik op een kaart en deze wordt omgedraaid. Zo kun je zien of je iets gevonden hebt en zo ja, wat het is. Daarna kun je kaarten kiezen die boven of onder de laatst gevonden kaart liggen, en ook links of rechts ervan. Het spel eindigt als je een dier vindt, maar ook als je benzine op is.<br /><br />Vergroot je kansen op een geweldige vondst met de joker(?) uit de winkel. Er zijn 2 soorten jokers: Kaartjoker en Navigatiejoker. Laat de Kaartjoker je helpen je kaarten te vinden - hij onthult extra kaarten voor je. De Navigatiejoker wijst je de juiste richting dankzij zijn kompas.<br /><br />Je mag één joker van elk type meenemen op safari. Of je de joker nu gebruikt hebt of niet, je raakt hem kwijt aan het einde van de safari.]]></item>
+    </category>
+    <category name="zoo.safari.miniGame">
+      <item name="zoo.safari.miniGame.tileInfo.trap"><![CDATA[Oeps, je bent tegen een obstakel gebotst. Dat is vervelend, 1 jerrycan benzine is weg.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.treasure"><![CDATA[Geweldig! Je hebt %treasureCount% %treasureName% gevonden. Schiet op, blijf zoeken, je kunt nog veel meer schatten vinden.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.animal"><![CDATA[Gefeliciteerd, kijk eens wat je gevonden hebt! Het is %dier%! Haast je naar de dierentuin, het wacht op je in je inventaris. Je hebt je safari succesvol voltooid.]]></item>
+      <item name="zoo.safari.miniGame.closeWarning"><![CDATA[Wil je de safari echt beëindigen? Zo ja, dan kun je vandaag geen nieuwe safari's meer starten en zijn je brandstof en voorraden op!]]></item>
+      <item name="zoo.safari.miniGame.noJoker"><![CDATA[Geen grappenmaker]]></item>
+      <item name="zoo.safari.miniGame.buyGasThenEmpty"><![CDATA[Je bent bijna op je bestemming! Helaas is je tank leeg. Wil je voor een paar zoodollars tanken en je safari voortzetten? Kies hoeveel benzine je wilt kopen.]]></item>
+      <item name="zoo.safari.miniGame.buyMissingGas"><![CDATA[Het aantal jerrycans benzine dat je voor dit terrein nodig hebt, is %neededGas%. Je hebt echter maar %missingGas%. Wil je de benodigde benzine kopen met zoodollars?]]></item>
+      <item name="zoo.safari.miniGame.buyGas"><![CDATA[Kies hoeveel benzine u wilt kopen. Maar let op: als u niet alle benzine tijdens de safari verbruikt, gaat de rest verloren.]]></item>
+    </category>
+    <category name="zoo.safari.minigameInfo">
+      <item name="zoo.safari.minigameInfo.title"><![CDATA[Instructies]]></item>
+      <item name="zoo.safari.minigameInfo.1"><![CDATA[Welkom op safari!<br /> Ontdek bijzondere dieren en geweldige schatten. Maar let op waar je loopt. Overal liggen vallen op de loer. Afhankelijk van het terrein verbruik je verschillende hoeveelheden benzine.<br /><br />De safari is voorbij zodra je tank leeg is of als je een dier vindt.]]></item>
+      <item name="zoo.safari.minigameInfo.2"><![CDATA[Je kunt de wildernis betreden door op een van de onderste vakjes te klikken.]]></item>
+      <item name="zoo.safari.minigameInfo.3"><![CDATA[Beweeg in rechte lijnen naar het noorden, zuiden, westen en oosten.]]></item>
+      <item name="zoo.safari.minigameInfo.4"><![CDATA[Je kunt je jokers op elk moment activeren. Ze bevatten waardevolle tips die je helpen je doel sneller te bereiken.]]></item>
+      <item name="zoo.safari.minigameInfo.terains"><![CDATA[De volgende terreintypen zijn beschikbaar:<br />]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.name"><![CDATA[Eenvoudig terrein]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.info"><![CDATA[Je verbruikt 1 eenheid benzine.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.name"><![CDATA[Moeilijker terrein]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.info"><![CDATA[Je verbruikt 3 eenheden benzine.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.name"><![CDATA[Onbegaanbaar terrein]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.info"><![CDATA[Toegang verboden]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.name"><![CDATA[Verkend terrein]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.info"><![CDATA[Je verbruikt 1 eenheid benzine.]]></item>
+      <item name="zoo.safari.minigameInfo.events"><![CDATA[U kunt de volgende artikelen vinden: <br />]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.name"><![CDATA[DIERENSPOORTEN]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.info"><![CDATA[Ze geven de richting aan waarin het dier zich mogelijk bevindt.]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.name"><![CDATA[SCHAT]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.info"><![CDATA[Hoera, een schat met een geweldige verrassing!]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.name"><![CDATA[BARRIÈRE]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.info"><![CDATA[Dit kost u 1 benzine-eenheid.]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.name"><![CDATA[ONTMOETING MET EEN DIER]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.info"><![CDATA[Als je een dier tegenkomt, is het van jou en is de missie voltooid.]]></item>
+    </category>
+    <category name="zoo.safari.jokers">
+      <item name="zoo.safari.jokers.titel_1"><![CDATA[Aap, de adviseur]]></item>
+      <item name="zoo.safari.jokers.titel_2"><![CDATA[Sonya, de adviseur]]></item>
+      <item name="zoo.safari.jokers.titel_3"><![CDATA[Kompas]]></item>
+      <item name="zoo.safari.jokers.titel_4"><![CDATA[Snel reizen]]></item>
+      <item name="zoo.safari.jokers.text_1"><![CDATA[Iedereen kan wel eens wat hulp gebruiken. Als je de aap laat helpen, mag je een willekeurig gekozen kaart onthullen.<br /><br />Ben je nieuwsgierig? Laten we beginnen!]]></item>
+      <item name="zoo.safari.jokers.text_2"><![CDATA[Wil je een bepaalde kaart onthullen en verder komen in de safari?<br /><br /><br /> Maak gebruik van de hulp van adviseur Sonia. Met haar hulp kun je de kaart van je keuze onthullen. Dit helpt je om je doel sneller te bereiken. Veel succes!]]></item>
+      <item name="zoo.safari.jokers.text_3"><![CDATA[Hulp nodig? Gebruik het kompas als joker om een ​​kaart voor je te markeren. Je vindt er het dier dat je zoekt of een valstrik op. Ben je benieuwd wat er verborgen zit? Schiet dan op en ontdek het!]]></item>
+      <item name="zoo.safari.jokers.text_4"><![CDATA[Maar nu ter zake: Kruip je stap voor stap naar je doel toe? Ga je niet snel genoeg?<br /><br />Gebruik dan de joker: Hij markeert 3 kaarten voor je, waaronder het dier dat je zoekt, maar ook een val.<br /><br />Dier of val... Snel, kijk!]]></item>
+    </category>
+    <category name="zoo.safari.tooltip">
+      <item name="zoo.safari.tooltip.cantStartSafari"><![CDATA[Je kunt je safari starten zodra je level 7 bereikt.]]></item>
+      <item name="zoo.safari.tooltip.startSafari"><![CDATA[Stap in de jeep: Klik hier om de safari te starten!]]></item>
+      <item name="zoo.safari.tooltip.backToZoo"><![CDATA[Terug naar de dierentuin]]></item>
+      <item name="zoo.safari.tooltip.regionSmall"><![CDATA[Klein]]></item>
+      <item name="zoo.safari.tooltip.regionMedium"><![CDATA[Medium]]></item>
+      <item name="zoo.safari.tooltip.regionLarge"><![CDATA[Groot]]></item>
+      <item name="zoo.safari.tooltip.skipTimerInShop"><![CDATA[Je krijgt een bepaald aantal jerrycans benzine per dag.<br/> Wil je er nu meer? Verkort dan je wachttijd met zoodollars!]]></item>
+      <item name="zoo.safari.tooltip.buyGasInMinigame"><![CDATA[Klik hier om meer benzine te kopen.]]></item>
+      <item name="zoo.safari.tooltip.regeonLevelRequared"><![CDATA[Deze regio wordt toegankelijk zodra je het niveau %regionLevel% bereikt.]]></item>
+    </category>
+    <category name="zoo.safari.button">
+      <item name="zoo.safari.button.startSafari"><![CDATA[Begin de safari]]></item>
+      <item name="zoo.safari.button.endSafari"><![CDATA[Safari afronden]]></item>
+      <item name="zoo.safari.button.activate"><![CDATA[Activeren]]></item>
+      <item name="zoo.safari.button.use"><![CDATA[Aanwenden]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.premium">
+    <category name="zoo.premium.title">
+      <item name="zoo.premium.title.0"><![CDATA[Представитель Дэвид]]></item>
+      <item name="zoo.premium.title.1"><![CDATA[Крмич Хонза]]></item>
+      <item name="zoo.premium.title.2"><![CDATA[Источник питания Павел]]></item>
+      <item name="zoo.premium.title.3"><![CDATA[Уборщик Славек]]></item>
+      <item name="zoo.premium.title.4"><![CDATA[Заводчица Соня]]></item>
+      <item name="zoo.premium.title.5"><![CDATA[Мусорщик Йирка]]></item>
+      <item name="zoo.premium.title.6"><![CDATA[Кассир Кешик]]></item>
+      <item name="zoo.premium.title.7"><![CDATA[Доктор Линн]]></item>
+      <item name="zoo.premium.title.11"><![CDATA[Более крупный зоопарк]]></item>
+      <item name="zoo.premium.title.12"><![CDATA[Расширение зоопарка Макси]]></item>
+      <item name="zoo.premium.title.13"><![CDATA[Расширение зоопарка]]></item>
+      <item name="zoo.premium.title.14"><![CDATA[Расширение зоопарка]]></item>
+      <item name="zoo.premium.title.15"><![CDATA[пасхальный кролик]]></item>
+      <item name="zoo.premium.title.16"><![CDATA[пасхальный помощник]]></item>
+      <item name="zoo.premium.title.23"><![CDATA[Торт на день рождения]]></item>
+      <item name="zoo.premium.title.126"><![CDATA[Максимальное расширение зоопарка]]></item>
+      <item name="zoo.premium.title.29"><![CDATA[Максимальное расширение зоопарка]]></item>
+      <item name="zoo.premium.title.30"><![CDATA[Максимальное расширение зоопарка]]></item>
+      <item name="zoo.premium.title.125"><![CDATA[Расширение зоопарка]]></item>
+      <item name="zoo.premium.title.35"><![CDATA[Расширение зоопарка]]></item>
+      <item name="zoo.premium.title.36"><![CDATA[Расширение зоопарка]]></item>
+      <item name="zoo.premium.title.37"><![CDATA[Максимальное расширение зоопарка]]></item>
+      <item name="zoo.premium.title.38"><![CDATA[Максимальное расширение зоопарка]]></item>
+      <item name="zoo.premium.title.123"><![CDATA[Кислый]]></item>
+      <item name="zoo.premium.title.124"><![CDATA[Сладкий]]></item>
+      <item name="zoo.premium.title.128"><![CDATA[Торт на день рождения]]></item>
+      <item name="zoo.premium.title.130"><![CDATA[Расширение зоопарка]]></item>
+      <item name="zoo.premium.title.132"><![CDATA[Расширение зоопарка]]></item>
+      <item name="zoo.premium.title.2001"><![CDATA[Бочка воды]]></item>
+      <item name="zoo.premium.title.2002"><![CDATA[Водонапорная башня]]></item>
+      <item name="zoo.premium.title.2003"><![CDATA[Источник воды]]></item>
+      <item name="zoo.premium.title.2004"><![CDATA[ящик для хранения]]></item>
+      <item name="zoo.premium.title.2005"><![CDATA[Склад]]></item>
+      <item name="zoo.premium.title.2006"><![CDATA[Подземный склад]]></item>
+    </category>
+    <category name="zoo.premium.infoText">
+      <item name="zoo.premium.infoText.0"><![CDATA[Если у вас есть 6 ассистентов (исключая доктора Линн), то у вас есть соруководитель и персонал, которые вам помогут. Просто нажмите кнопку, и 6 ассистентов приступят к работе.]]></item>
+      <item name="zoo.premium.infoText.1"><![CDATA[Джон, помощник по кормлению, следит за тем, чтобы ваши животные всегда были сыты и счастливы. Если у вас достаточно зоогросов для кормления, щелкните по нему, и Джон будет усердно и надежно работать.]]></item>
+      <item name="zoo.premium.infoText.2"><![CDATA[Павел заботится о водопое животных. Если вы нажмете на него, он будет регулярно поить ваших животных. Но только если у вас достаточно зоогросов.]]></item>
+      <item name="zoo.premium.infoText.3"><![CDATA[Уборщик Славек позаботится о гигиене и чистоте ваших животных. Если вы нажмете на него, он почистит вольеры и обеспечит вашим питомцам уютный дом.]]></item>
+      <item name="zoo.premium.infoText.4"><![CDATA[Все с нетерпением ждут Соню! Нажмите на нее и наймите: она будет обниматься с вашими животными, так что им не будет скучно, и они будут сиять от счастья.]]></item>
+      <item name="zoo.premium.infoText.5"><![CDATA[Йирка тщательно подметает все дорожки и не пропускает ни одной мусорной урны. Чистота необходима, посетители не вернутся в заброшенный зоопарк. Нанимайте его одним щелчком мыши, и он позаботится обо всей работе.]]></item>
+      <item name="zoo.premium.infoText.6"><![CDATA[Умная обезьянка Кешик отлично разбирается в цифрах: кликните на неё и наймите. Она будет приносить вам доход от всех магазинов и зданий, которые вы построите.]]></item>
+      <item name="zoo.premium.infoText.7"><![CDATA[Доктор Линн отвечает за здоровье ваших животных. При нажатии на её изображение, она доставит необходимые лекарства всем больным животным!]]></item>
+      <item name="zoo.premium.infoText.11"><![CDATA[Начиная с уровня %nextExpandLevel%, ваш зоопарк будет расти. Не хотите ждать? Тогда расширяйте свой зоопарк прямо сейчас.]]></item>
+      <item name="zoo.premium.infoText.12"><![CDATA[Не теряйте время и расширьте свой зоопарк на 100% всего одним щелчком мыши! С расширением зоопарка до максимальной площади вы избавитесь от промежуточных шагов и сразу получите максимально доступную площадь. Не медлите!]]></item>
+      <item name="zoo.premium.infoText.13"><![CDATA[Приобретайте дополнения для своего скрытого зоопарка за зоодоллары.]]></item>
+      <item name="zoo.premium.infoText.14"><![CDATA[Обменивайте собранные инструменты, чтобы расширить свой скрытый зоопарк.]]></item>
+      <item name="zoo.premium.infoText.15"><![CDATA[С 21 по 27 апреля пасхальный кролик будет разбрасывать яйца в вашем зоопарке. Собирайте их и обменивайте на пасхальные украшения для вольеров, пасхальных кроликов и пасхальные вольеры.]]></item>
+      <item name="zoo.premium.infoText.16"><![CDATA[Как удобно! С 21 по 27 апреля пасхальная помощница Соня поможет вам собрать яйца. Даже если вы выйдете из игры! Затем вы сможете обменять яйца на пасхальные украшения для вольеров, пасхальных кроликов и пасхальные вольеры.]]></item>
+      <item name="zoo.premium.infoText.23"><![CDATA[Купите этот торт, чтобы быстрее получить праздничные улучшения для ваших ограждений. Это даст вам больше воздушных шаров, а также позволит получить больше призов на день рождения.]]></item>
+      <item name="zoo.premium.infoText.29"><![CDATA[Не теряйте время и расширьте свой зоопарк на 100% всего одним щелчком мыши! С помощью расширения зоопарка до максимальной площади вы избавитесь от утомительных промежуточных шагов и сразу получите максимально доступную площадь. Не медлите!]]></item>
+      <item name="zoo.premium.infoText.30"><![CDATA[Не теряйте время и расширьте свой зоопарк на 100% всего одним щелчком мыши! С расширением зоопарка до максимальной площади вы избавитесь от промежуточных шагов и сразу получите максимально доступную площадь. Не медлите!]]></item>
+      <item name="zoo.premium.infoText.35"><![CDATA[Расширьте свой зоопарк с помощью зоодолларов.]]></item>
+      <item name="zoo.premium.infoText.125"><![CDATA[Приобретите дополнение к этому зоопарку за зоодоллары.]]></item>
+      <item name="zoo.premium.infoText.36"><![CDATA[Расширьте свой зоопарк, используя собранные инструменты.]]></item>
+      <item name="zoo.premium.infoText.126"><![CDATA[Не теряйте время и расширьте свой зоопарк на 100% всего одним щелчком мыши! С расширением зоопарка до максимальной площади вы избавитесь от промежуточных шагов и сразу получите максимально доступную площадь. Не медлите!]]></item>
+      <item name="zoo.premium.infoText.37"><![CDATA[Не теряйте время и расширьте свой зоопарк на 100% всего одним щелчком мыши! С расширением зоопарка до максимальной площади вы избавитесь от промежуточных шагов и сразу получите максимально доступную площадь. Не сомневайтесь!]]></item>
+      <item name="zoo.premium.infoText.38"><![CDATA[Не теряйте время и расширьте свой зоопарк на 100% всего одним щелчком мыши! С расширением зоопарка до максимальной площади вы избавитесь от промежуточных шагов и сразу получите максимально доступную площадь. Не сомневайтесь!]]></item>
+      <item name="zoo.premium.infoText.123"><![CDATA[Обменяйте маленьких летучих мышей на кислых, чтобы разблокировать новые награды на Хэллоуин.]]></item>
+      <item name="zoo.premium.infoText.124"><![CDATA[Обменивайте маленьких летучих мышей на сладости, чтобы разблокировать новые награды на Хэллоуин.]]></item>
+      <item name="zoo.premium.infoText.128"><![CDATA[Купите этот торт, чтобы быстрее получить праздничные улучшения для ваших ограждений. Это даст вам больше воздушных шаров, а также позволит получить больше призов на день рождения.]]></item>
+      <item name="zoo.premium.infoText.130"><![CDATA[Приобретите дополнение "Прибрежный зоопарк" за Zoo Dollars.]]></item>
+      <item name="zoo.premium.infoText.132"><![CDATA[Приобретите дополнение «Подводный мир» с Zoodollars.]]></item>
+      <item name="zoo.premium.infoText.2001"><![CDATA[Эта бочка с водой станет прекрасным дополнением к зоопарку и придаст ему деревенский колорит.]]></item>
+      <item name="zoo.premium.infoText.2002"><![CDATA[Какой гигант! Эта водонапорная башня будет видна издалека.]]></item>
+      <item name="zoo.premium.infoText.2003"><![CDATA[Вода течёт! Фонтан обеспечит ваш зоопарк освежающей водой. Вода, просто теки!]]></item>
+      <item name="zoo.premium.infoText.2004"><![CDATA[Практично! Ящики для хранения идеально подходят для лазания, сидения и игр. Дети обожают деревянные ящики.]]></item>
+      <item name="zoo.premium.infoText.2005"><![CDATA[Как здорово! В сарае отлично играть в прятки. А зимой там предостаточно места для тюков сена.]]></item>
+      <item name="zoo.premium.infoText.2006"><![CDATA[Отличная кладовая! В подземном хранилище много интересных вещей. Но самое главное, это хранилище очень загадочное... что же там спрятано?]]></item>
+    </category>
+    <category name="zoo.premium.window.renew">
+      <item name="zoo.premium.window.renew.text"><![CDATA[Ой! Срок действия трудового договора с этим ассистентом истек. Хотите продлить договор?]]></item>
+    </category>
+    <category name="zoo.premium.elixir">
+      <item name="zoo.premium.elixir.title"><![CDATA[Суть Толиджи]]></item>
+      <item name="zoo.premium.elixir.text"><![CDATA[Секретный рецепт, используемый в селекции, сокращает процесс разведения на 50%.]]></item>
+    </category>
+    <category name="zoo.premium.breedingLab">
+      <item name="zoo.premium.breedingLab.title"><![CDATA[Племенная станция]]></item>
+      <item name="zoo.premium.breedingLab.text"><![CDATA[Разместите в своем основном или секретном зоопарке станцию ​​для разведения редких животных.]]></item>
+    </category>
+    <category name="zoo.premium.nursery">
+      <item name="zoo.premium.nursery.title"><![CDATA[питомник животных]]></item>
+      <item name="zoo.premium.nursery.text"><![CDATA[Разместите станцию ​​для разведения в своем главном или секретном зоопарке, чтобы у ваших детенышей было место, где они могли бы расти.]]></item>
+    </category>
+    <category name="zoo.premium.assist.title">
+      <item name="zoo.premium.assist.title.0"><![CDATA[Представитель Дэвид]]></item>
+      <item name="zoo.premium.assist.title.1"><![CDATA[Крмич Хонза]]></item>
+      <item name="zoo.premium.assist.title.2"><![CDATA[Источник питания Павел]]></item>
+      <item name="zoo.premium.assist.title.3"><![CDATA[Уборщик Славек]]></item>
+      <item name="zoo.premium.assist.title.4"><![CDATA[Заводчица Соня]]></item>
+      <item name="zoo.premium.assist.title.5"><![CDATA[Мусорщик Йирка]]></item>
+      <item name="zoo.premium.assist.title.6"><![CDATA[Кассир, финансовый помощник]]></item>
+      <item name="zoo.premium.assist.title.7"><![CDATA[Доктор Линн]]></item>
+      <item name="zoo.premium.assist.title.8"><![CDATA[Джиндра]]></item>
+      <item name="zoo.premium.assist.title.9"><![CDATA[Мэтью]]></item>
+      <item name="zoo.premium.assist.title.10"><![CDATA[Франт]]></item>
+      <item name="zoo.premium.assist.title.11"><![CDATA[Дженни]]></item>
+    </category>
+    <category name="zoo.premium.assist.infoText">
+      <item name="zoo.premium.assist.infoText.0"><![CDATA[Если вы наймете 6 ассистентов (исключая доктора Линн), содиректор поможет вам с персоналом. Просто щелкните по ним, и все они сразу же приступят к работе.]]></item>
+      <item name="zoo.premium.assist.infoText.1"><![CDATA[Feeder Honza гарантирует, что ваши животные всегда будут накормлены — при условии, что у вас достаточно зоогросов для покрытия этих расходов.]]></item>
+      <item name="zoo.premium.assist.infoText.2"><![CDATA[Нажмите на Павла, и он позаботится о подключении животных — при условии, что у вас достаточно зоогросов для покрытия этих расходов.]]></item>
+      <item name="zoo.premium.assist.infoText.3"><![CDATA[Славек-уборщик позаботится о гигиене и чистоте ваших животных. Нажав на него, вы заметите, как он почистит ваши вольеры и обеспечит вашим питомцам уютный дом.]]></item>
+      <item name="zoo.premium.assist.infoText.4"><![CDATA[Заводчица Соня заботится о ваших животных, обнимает их и дарит им любовь, которую они заслуживают. Кликните на неё и посмотрите, как она работает!]]></item>
+      <item name="zoo.premium.assist.infoText.5"><![CDATA[Йирка тщательно подметает все дорожки и не пропускает ни одной мусорной корзины. Порядок должен поддерживаться. Нанимайте его одним щелчком мыши, и он немедленно приступит к работе!]]></item>
+      <item name="zoo.premium.assist.infoText.6"><![CDATA[Умная обезьянка Кешик отлично разбирается в числах. Нажмите на неё, и она соберёт для вас доход со всех зданий в зоопарке!]]></item>
+      <item name="zoo.premium.assist.infoText.7"><![CDATA[Доктор Линн отвечает за здоровье ваших животных. При нажатии на её изображение, она доставит необходимые лекарства всем больным животным!]]></item>
+      <item name="zoo.premium.assist.infoText.8"><![CDATA[Нажмите на Джиндру, и он накормит всех ваших морских обитателей! Водоросли, планктон или корм для рыб — Джиндра знает, что делать!]]></item>
+      <item name="zoo.premium.assist.infoText.9"><![CDATA[У Матея всегда в руках шланг! Нажмите на него, и он наполнит ваши резервуары водой, но убедитесь, что у вас достаточно ресурсов, чтобы покрыть расходы!]]></item>
+      <item name="zoo.premium.assist.infoText.10"><![CDATA[Франта — специалист по обслуживанию бассейнов. Нажмите на него, и он почистит ваши водоемы, заменит фильтры и убедится, что вода чистая и безопасная для всех животных.]]></item>
+      <item name="zoo.premium.assist.infoText.11"><![CDATA[Яничка — дрессировщица морских млекопитающих. Она играет с животными и учит их различным трюкам! Нажмите на неё и закажите её услуги.]]></item>
+    </category>
+  </category>
+</language>

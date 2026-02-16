@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventABtrade">
+    <category name="zoo.eventABtrade.button">
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Csere]]></item>
+    </category>
+    <category name="zoo.eventABtrade.layer">
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Helló, Lukáš vagyok, a szomszédos város állatkertjének igazgatója. Hallottam, hogy az állatgondozójuk, Soňa Starostlivá, új állatfajokat tenyészt, amelyek nagyon érdekelnek. A faj minden hímjéért a(z) %priceSpecies% fajba tartozó egyedért adok egyet a(z) %rewardSpecies% fajba tartozó hím egyedért, vagy egy nőstényt a nőstényért. Jelenlétem alatt a faj (%priceGenus%s) kelési ideje 20 óráról 2 órára csökken! Szóval, benne vagy?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Most visszatérek az állatkertembe. Nagyon köszönöm, és remélem, hamarosan újra látlak!]]></item>
+    </category>
+  </category>
+</language>

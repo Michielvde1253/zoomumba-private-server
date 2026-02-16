@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.inventory">
+    <item name="zoo.inventory.sell.title"><![CDATA[Продавать]]></item>
+    <item name="zoo.inventory.sell.info"><![CDATA[Сколько вы хотите продать?]]></item>
+    <item name="zoo.inventory.store.error.title"><![CDATA[ВАЖНЫЙ]]></item>
+    <item name="zoo.inventory.store.error.info"><![CDATA[Если вы хотите переместить своих животных в загонах в свой инвентарь, они должны быть сначала здоровы и довольны.]]></item>
+    <category name="zoo.inventory.tabs">
+      <item name="zoo.inventory.tabs.gifts"><![CDATA[Подарки]]></item>
+      <item name="zoo.inventory.tabs.inventory"><![CDATA[Инвентаризация]]></item>
+      <item name="zoo.inventory.tabs.pawprints"><![CDATA[Лапы]]></item>
+      <item name="zoo.inventory.tabs.pearls"><![CDATA[Жемчуг]]></item>
+      <item name="zoo.inventory.tabs.specials"><![CDATA[Аксессуары]]></item>
+      <item name="zoo.inventory.tabs.trash"><![CDATA[Мусор]]></item>
+    </category>
+    <category name="zoo.inventory.trash">
+      <item name="zoo.inventory.trash.info"><![CDATA[Защита окружающей среды посредством повторного использования: перерабатывайте отходы на предприятии по переработке и используйте сырье для производства необходимых вам товаров.]]></item>
+      <item name="zoo.inventory.trash.amount"><![CDATA[Количество мусора:]]></item>
+    </category>
+    <category name="zoo.inventory.pawprints">
+      <item name="zoo.inventory.tabs.pawprints.info"><![CDATA[Чем лучше вы заботитесь о своих животных, тем больше лап вы соберете. Затем вы сможете использовать их для улучшения своих вольеров.<br> <br>Текущее количество собранных лап:]]></item>
+    </category>
+    <category name="zoo.inventory.pearls">
+      <item name="zoo.inventory.tabs.pearls.info"><![CDATA[Чем больше вы заботитесь о своих животных, тем больше жемчуга заработаете, чтобы украсить свои жилища.<br><br>Текущий уровень жемчуга:]]></item>
+    </category>
+    <category name="zoo.inventory.inventory">
+      <item name="zoo.inventory.inventory.empty"><![CDATA[ВЕЗДЕ ПУСТО?<br>Ваш инвентарь в данный момент пуст.<br>Почему бы вам не заглянуть в магазин или не отправиться на сафари?]]></item>
+      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Использовать]]></item>
+    </category>
+    <category name="zoo.inventory.gifts">
+      <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Имя игрока]]></item>
+      <item name="zoo.inventory.gifts.headerUserID"><![CDATA[Идентификатор игрока]]></item>
+      <item name="zoo.inventory.gifts.received"><![CDATA[Как красиво! Подруга прислала тебе подарок. Быстро распакуй его!]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Расширять]]></item>
+      <item name="zoo.inventory.gifts.none"><![CDATA[Какая жалость! У тебя пока нет новых подарков... Но не расстраивайся, скоро что-нибудь появится.]]></item>
+    </category>
+    <category name="zoo.inventory.move">
+      <item name="zoo.inventory.move.title"><![CDATA[Платить]]></item>
+      <item name="zoo.inventory.move.info"><![CDATA[За какое количество животных вы готовы заплатить?]]></item>
+    </category>
+    <category name="zoo.inventory.allin">
+      <item name="zoo.inventory.allin.title"><![CDATA[Отправить все на инвентаризацию]]></item>
+      <item name="zoo.inventory.allin.confirmation"><![CDATA[Вы уверены, что хотите отправить все товары на инвентаризацию? Внимание: Ваши животные должны быть чистыми, накормленными и довольными, прежде чем вы сможете это сделать.]]></item>
+    </category>
+  </category>
+</language>

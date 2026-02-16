@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.managementcenter">
+    <item name="zoo.tooltip.managementcenter.message.buylayer"><![CDATA[Voulez-vous vraiment acheter le bâtiment '%building%' pour %zoodollar% zoodollars ?]]></item>
+  </category>
+</language>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.welcomeBack">
+    <item name="zoo.window.welcomeBack.title"><![CDATA[С возвращением, %username%!]]></item>
+    <item name="zoo.window.welcomeBack.info"><![CDATA[Как здорово, что вы вернулись! Так что давайте приступим к работе! Ваши животные с нетерпением ждут вас. Будет снова невероятно! Ещё больше очаровательных пополнений, ещё больше необычных птиц и множество восторженных посетителей. <br><br>А ещё вам понравится то, что зоопарк приготовил для вас:]]></item>
+    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Ура! Быстрее, не пропустите этот безумный ажиотаж!]]></item>
+  </category>
+</language>

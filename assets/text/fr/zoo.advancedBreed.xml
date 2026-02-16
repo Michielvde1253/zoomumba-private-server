@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Bonjour ! Je suis Soňa Starostlivá, infirmière au zoo. Avez-vous hâte de faire se reproduire les adorables petits ? Je vais vous expliquer comment ça marche ! Tout d'abord, vous devez choisir l'espèce animale que vous souhaitez faire se reproduire.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Choisissez deux animaux adultes parmi votre inventaire pour qu'ils deviennent parents. Plus ils sont rares, plus ils ont de chances d'avoir un petit encore plus rare. Cependant, les parents doivent rester avec moi pour cette reproduction.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Utiliser des objets supplémentaires collectés, de la nourriture forte, de la super-nourriture ou des super-médicaments augmentera vos chances d'élever un bébé particulièrement rare. Plus l'objet a de cœurs, meilleures sont vos chances !]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Vos préparatifs sont presque terminés ! Vérifiez une dernière fois vos choix avant le début. Vous souhaitez modifier quelque chose ? Aucun problème, utilisez simplement le bouton « Retour » !]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[L'expérience de reproduction a utilisé les animaux et les éléments suivants :]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Station de reproduction prête]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[C'est là qu'il est élevé.]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Un bébé est né !]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Les bébés sont là !]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Commencez la reproduction]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Utiliser l'essence]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Voulez-vous vraiment commencer l'élevage sans aucun complément alimentaire ? Réfléchissez bien : avec des compléments, vous avez une meilleure chance d'obtenir une descendance rare.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Vous êtes en pleine préparation. Voulez-vous vraiment quitter la station de reproduction ?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Station de reproduction]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Ces animaux sont en train de mettre bas en ce moment :]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Temps restant :]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Essence de Tolija]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[L'essence de Tolija réduit le temps de reproduction de 50 %.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hourra ! Vous avez un bébé ! Vous trouverez ce petit bout de chou dans votre inventaire :]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hourra ! Vous avez un enfant ! Vous trouverez ce petit lutin mignon dans votre inventaire :]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Transférez le petit dans la nurserie pour animaux afin qu'il grandisse.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Amenez les petits à la nurserie pour qu'ils puissent grandir.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Attention : la reproduction est en cours ! Si vous déplacez la station dans votre inventaire maintenant, le processus sera interrompu et vous perdrez tous vos animaux et compléments. Êtes-vous sûr de vouloir la déplacer maintenant ?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Attention : la reproduction est en cours ! Si vous vendez la station maintenant, le processus sera interrompu et tous les animaux et compléments alimentaires seront perdus. Êtes-vous sûr de vouloir vendre la station maintenant ?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Si le processus de reproduction est terminé après la fin de l'événement, vous ne recevrez qu'un seul bébé.]]></item>
+    </category>
+  </category>
+</language>

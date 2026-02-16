@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Reforço 30% EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[Com o booster de 30%, você receberá 30% mais BZ por 1 hora! Se comprar 2 boosters iguais, o tempo será estendido. Dica: Um booster de 30% de BZ e um booster de 100% de BZ podem ser usados ​​simultaneamente e lhe darão 130% mais BZ durante toda a 1 hora.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[EP de reforço de 100%]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[Com o booster de 100% de BZ, você ganha 100% mais BZ durante toda a 1 hora! Se comprar 2 boosters iguais, o tempo será estendido. Dica: um booster de 100% de BZ e um booster de 30% de BZ são válidos ao mesmo tempo, então você ganha 130% mais BZ durante toda a 1 hora!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30% de reforço para as patas]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[Com o Booster de Patas de 30%, você ganha 30% mais Patas durante toda a 1 hora! Se comprar 2 boosters iguais, o tempo será estendido. Dica: um Booster de Patas de 30% e um Booster de Patas de 100% são válidos ao mesmo tempo, então você ganha 130% mais Patas durante toda a 1 hora!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100% reforçador de patas]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[Com o Booster de Patas 100%, você ganha 100% mais Patas durante toda a 1 hora! Se comprar 2 boosters iguais, o tempo será estendido. Dica: um Booster de Patas 100% e um Booster de Patas 30% são válidos ao mesmo tempo, então você ganha 130% mais Patas durante toda a 1 hora!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Reforço para jogo de tabuleiro]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[Com o booster do jogo de tabuleiro, você terá o dobro de itens colecionáveis ​​que sairão dos compartimentos por 1 hora! Se quiser estender esse tempo, compre mais boosters.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[Booster de 30% em zoocoins]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[Com um reforço de 30%, você receberá 30% de zoogros extras nas suas lojas por 1 hora! Se comprar 2 reforços iguais, o tempo será estendido. Dica: Um reforço de 30% de zoogros e um reforço de 100% de zoogros podem ser usados ​​simultaneamente e lhe darão 130% de zoogros extras durante toda a 1 hora.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[Impulsionador de zoocoin de 100%]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[Com um booster de 100%, você receberá 100% de zoogros extras nas suas lojas por 1 hora! Se comprar 2 boosters iguais, o tempo será estendido. Dica: Um booster de 100% de zoogros e um booster de 30% de zoogros podem ser usados ​​simultaneamente e lhe darão 130% de zoogros extras durante toda a 1 hora.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Reforço da estação de reprodução]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Híbridos raros facilitados! O Reforço da Estação de Reprodução garantirá que seus filhotes alcancem pelo menos um nível acima do nível mais baixo de um dos pais em 24 horas. Mas atenção: o Reforço só funciona se você pegar o filhote na Estação de Reprodução.]]></item>
+    </category>
+  </category>
+</language>

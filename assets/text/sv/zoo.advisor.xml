@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advisor">
+    <category name="zoo.advisor.buttons">
+      <item name="zoo.advisor.buttons.1"><![CDATA[Djurarter]]></item>
+      <item name="zoo.advisor.buttons.2"><![CDATA[Tillfredsställelse]]></item>
+      <item name="zoo.advisor.buttons.3"><![CDATA[Dekoration]]></item>
+      <item name="zoo.advisor.buttons.4"><![CDATA[Djuravel]]></item>
+      <item name="zoo.advisor.buttons.5"><![CDATA[Skräp]]></item>
+    </category>
+    <category name="zoo.advisor.descriptions">
+      <item name="zoo.advisor.descriptions.1.A"><![CDATA[Toppen! Ingen kan egentligen klaga på bristen på variation i ert zoo. Fortsätt så!]]></item>
+      <item name="zoo.advisor.descriptions.1.B"><![CDATA[Besökare uppskattar det när de kan beundra en stor variation av djur i ett zoo. Du har %currentspecies% av olika arter, det är många! Kolla in butiken, du hittar minst %missingspecies% fler där.]]></item>
+      <item name="zoo.advisor.descriptions.1.C"><![CDATA[Djurbesökare vill se så många djur som möjligt. Men ditt zoo är värt det. Du äger för närvarande %currentspecies% djur. Du kan hitta minst %missingspecies% fler arter i djuraffären.]]></item>
+      <item name="zoo.advisor.descriptions.1.D"><![CDATA[Alla som går till djurparken vill se djur! Ditt djurpark skulle kunna ha ett ännu större utbud: Du har för närvarande %currentspecies% djurarter. Djuraffären erbjuder minst %missingspecies% fler.]]></item>
+      <item name="zoo.advisor.descriptions.1.E"><![CDATA[Åh! Det finns inte många djurarter i ditt zoo. Besökare kan beundra %currentspecies% arter, som de kan hantera ganska snabbt. Köp snabbt minst %missingspecies% fler djur i zoobutiken.]]></item>
+      <item name="zoo.advisor.descriptions.2.A"><![CDATA[Dina djur är helt nöjda. Du är en exemplarisk zoochef.]]></item>
+      <item name="zoo.advisor.descriptions.2.B"><![CDATA[Du tar väl hand om dina djur, men titta, vissa av dem förtjänar ännu mer uppmärksamhet.]]></item>
+      <item name="zoo.advisor.descriptions.2.C"><![CDATA[Åh! Dina djur är lite uttråkade. Skulle du inte vilja leka lite med dem, mata dem eller ge dem vatten? Det skulle vara toppen för dem och de skulle bli riktigt glada igen!]]></item>
+      <item name="zoo.advisor.descriptions.2.D"><![CDATA[Åh herregud! Dina djur är ledsna för att du inte har tagit hand om dem. Lek lite med dem! Lite mat och vatten kommer också att muntra upp dem. Då kommer ditt zoo att stråla igen och glädja besökarna!]]></item>
+      <item name="zoo.advisor.descriptions.2.E"><![CDATA[Åh nej! Era djur är hungriga och törstiga! Kom igen, ta hand om dem! När de väl är matade och inhägnaderna är städade, ska det bli kul att leka med djuren igen!]]></item>
+      <item name="zoo.advisor.descriptions.3.A"><![CDATA[Wow! Ert zoo är vackert dekorerat! Det finns så mycket för besökarna att se. Fortsätt så!]]></item>
+      <item name="zoo.advisor.descriptions.3.B"><![CDATA[Toppen! Du har dekorerat ditt zoo fint! Kolla in zoobutiken: där hittar du massor av andra fina och roliga dekorationer. Dina besökare älskar omväxlingar!]]></item>
+      <item name="zoo.advisor.descriptions.3.C"><![CDATA[Ditt zoo är fint, men det skulle behöva lite mer förändring! Du kan hitta massor av fina och roliga dekorationer i zoobutiken.]]></item>
+      <item name="zoo.advisor.descriptions.3.D"><![CDATA[Praktiskt och funktionellt, men lite tråkigt. Mer dekorationer kommer att uppskattas av besökarna. Låt alla se att du kan visa upp mer!]]></item>
+      <item name="zoo.advisor.descriptions.3.E"><![CDATA[Din djurpark skulle behöva lite mer dekoration. Förtjusta dina besökare med nya slående dekorationer.]]></item>
+      <item name="zoo.advisor.descriptions.4.A"><![CDATA[Så många söta bebisar! Du har verkligen gyllene händer och dina djur får så många avkommor. Toppen!]]></item>
+      <item name="zoo.advisor.descriptions.4.B"><![CDATA[Miniatyrrubriker om djurparkens ungar lockar besökare. Men varje djurparkschef letar alltid efter sätt att förbättra sig. Kolla in det: Du kan för närvarande föda upp %missingbabies% fler djurungar.]]></item>
+      <item name="zoo.advisor.descriptions.4.C"><![CDATA[Nyheter om djurparkens nya tillskott sprids vitt och brett. Besökare älskar de små klumpiga ungarna! För närvarande kan du föda upp %missingbabies% fler ungar.]]></item>
+      <item name="zoo.advisor.descriptions.4.D"><![CDATA[Din djurpark skulle behöva fler avkommor. Kolla in: %missingbabies% av paren letar just nu efter en unge. Försök att para sig!]]></item>
+      <item name="zoo.advisor.descriptions.4.E"><![CDATA[Det finns mycket oro kring dina ungar på ditt zoo: %missingbabies% av paren väntar just nu en unge. Försök att para sig och glädja dina besökare med synen av dina klumpiga ungar.]]></item>
+      <item name="zoo.advisor.descriptions.5.A"><![CDATA[Toppen, ert zoo ser fantastiskt ut! Och besökarna älskar det. Fortsätt så!]]></item>
+      <item name="zoo.advisor.descriptions.5.B"><![CDATA[Det går bra för dig, men ditt zoo skulle vara ännu finare om du städade upp resten av skräpet.]]></item>
+      <item name="zoo.advisor.descriptions.5.C"><![CDATA[Skräpet i din djurpark hopar sig sakta. Äntligen, städa upp det.]]></item>
+      <item name="zoo.advisor.descriptions.5.D"><![CDATA[Det ligger mycket skräp i din djurpark. Du borde definitivt städa upp och rengöra allting.]]></item>
+      <item name="zoo.advisor.descriptions.5.E"><![CDATA[Din djurpark drunknar i skräp! Rensa skräpbergen från stigarna och töm soptunnorna.]]></item>
+    </category>
+    <category name="zoo.advisor.help">
+      <item name="zoo.advisor.help.1"><![CDATA[I kategorin "Djurarter" kan du se om alla möjliga djurarter är representerade i din djurpark.]]></item>
+      <item name="zoo.advisor.help.2"><![CDATA[Kategorin "Nöjdhet" visar hur nöjda dina djur är för närvarande.]]></item>
+      <item name="zoo.advisor.help.3"><![CDATA[I kategorin "Dekoration" kan du se om dekorationerna i din djurpark är attraktiva för besökare.]]></item>
+      <item name="zoo.advisor.help.4"><![CDATA[Besökare älskar söta bebisar! Objektet "Djuravel" visar dig hur framgångsrik din avel är.]]></item>
+      <item name="zoo.advisor.help.5"><![CDATA["Papperskorgen" visar om ditt zoo är rent eller om besökare snubblar över skräpberg.]]></item>
+      <item name="zoo.advisor.help.6"><![CDATA[Använd knapparna 1 till 7 för att komma till butiken snabbare.]]></item>
+      <item name="zoo.advisor.help.7"><![CDATA[Använd bokstäverna Q, W, E och R för att flytta (W), vända (E), sälja (R) eller ändra föremål i spelläge (Q).]]></item>
+      <item name="zoo.advisor.help.8"><![CDATA[Kom ihåg att använda ett säkert lösenord som du inte delar med någon!]]></item>
+      <item name="zoo.advisor.help.9"><![CDATA[Du kan aktivera eller inaktivera speltips och diverse andra funktioner som besökare, bakgrundseffekter och ljudeffekter för att få spelet att köras snabbare på svagare datorer.]]></item>
+      <item name="zoo.advisor.help.10"><![CDATA[Köp Zoo-dollars på banken. Ibland kan du få dem som belöning för att du slutfört dagliga uppgifter. Du kan också få dem om du går upp tillräckligt i nivå.]]></item>
+      <item name="zoo.advisor.help.11"><![CDATA[Det kommer också att finnas kampanjer med bonuskoder då och då, så håll utkik efter officiella tillkännagivanden i forumet.]]></item>
+      <item name="zoo.advisor.help.12"><![CDATA[Dina djur kan bli sjuka av misstag. Ju bättre du tar hand om dem, desto längre kommer de att hålla sig friska. Men om ditt djur inte är sjukt kan du inte ens ge det en injektion.]]></item>
+      <item name="zoo.advisor.help.13"><![CDATA[Dina djur mår bra i alla inhägnader. Och det spelar ingen roll vilken inhägnad du placerar dem i.]]></item>
+      <item name="zoo.advisor.help.14"><![CDATA[Du kan för närvarande inte flytta några djur till andra inhägnader.]]></item>
+      <item name="zoo.advisor.help.15"><![CDATA[Om du säljer hägnet säljer du även djuret i det.]]></item>
+      <item name="zoo.advisor.help.16"><![CDATA[Det finns två typer av meerkater i spelet - den vanliga och den grå meerkaten Beda. Beda dyker bara upp under vissa evenemang och kan bara köpas på speciella dagar.]]></item>
+      <item name="zoo.advisor.help.17"><![CDATA[Om du klickar på "adoptera för zoodollars" är du 100% säker på ett nytt tillskott och du behöver inte vänta på det.]]></item>
+      <item name="zoo.advisor.help.18"><![CDATA[Du kan spara dina ZooMumba-vänner i din adressbok. Tyvärr kan du inte bjuda in några grannar för tillfället.]]></item>
+      <item name="zoo.advisor.help.19"><![CDATA[Ju fler butiker du äger, desto mer zoogros tjänar du.]]></item>
+      <item name="zoo.advisor.help.20"><![CDATA[Har du inte tid? Anlita då assistenter. Kom ihåg att assistenter bara fungerar när du klickar på dem (de fungerar inte automatiskt).]]></item>
+      <item name="zoo.advisor.help.21"><![CDATA[Om du anställer en kassör, ​​Kešík, kommer du att öka din inkomst.]]></item>
+      <item name="zoo.advisor.help.22"><![CDATA[Att använda assistenter är värt det: du kommer att få fler erfarenhetspoäng.]]></item>
+      <item name="zoo.advisor.help.23"><![CDATA[Om du har alla assistenter aktiverar du Davids representant – han kan få alla assistenter att arbeta med bara ett klick.]]></item>
+      <item name="zoo.advisor.help.24"><![CDATA[Ju mer avfall du sorterar på djurparken, desto mindre hamnar det på gatorna.]]></item>
+      <item name="zoo.advisor.help.25"><![CDATA[Köp en hane och en hona av samma art så får du snart söta ungar i djurparken.]]></item>
+      <item name="zoo.advisor.help.26"><![CDATA[Du kan bara förvara en viss mängd inträdespengar i huvudbyggnaden, så se till att hämta ut dem regelbundet.]]></item>
+      <item name="zoo.advisor.help.27"><![CDATA[För att kunna göra vinst på era byggnader måste de alltid vara sammankopplade med en stig. Hur skulle besökare annars kunna nå dem?]]></item>
+      <item name="zoo.advisor.help.28"><![CDATA[Håll ögonen öppna: Ibland dyker det upp speciella djur eller föremål i butiken som du bara kan köpa under en begränsad tid.]]></item>
+      <item name="zoo.advisor.help.29"><![CDATA[Ge dina djur supermat, de håller sig mätta längre!]]></item>
+      <item name="zoo.advisor.help.30"><![CDATA[Åh! Är dina djur sjuka? Ge dem supermediciner så blir de lika friska som fiskar igen!]]></item>
+    </category>
+  </category>
+</language>

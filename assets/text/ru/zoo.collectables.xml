@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.collectables">
+    <category name="zoo.collectables.forgottenZoo">
+      <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Инструменты]]></item>
+      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Собирайте инструменты и обменивайте их на расширения для своего скрытого зоопарка.<br> <br>Инструменты вы получаете в сафари и на колесе фортуны. Затем идите в магазин и обменяйте их.<br> <br>На данный момент у вас есть столько-то инструментов:]]></item>
+      <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[Хотите расширить свой скрытый зоопарк, добавив %tools% инструментов и %zd% зоодолларов?]]></item>
+    </category>
+    <category name="zoo.collectables.easterEvent">
+      <item name="zoo.collectables.easterEvent.title"><![CDATA[пасхальные яйца]]></item>
+      <item name="zoo.collectables.easterEvent.text"><![CDATA[С 21 по 27 апреля вас ждёт настоящий наплыв пасхальных яиц! Собирайте их и обменивайте на пасхальные украшения для вольеров, пасхальных кроликов и сами вольеры. Ваш текущий статус пасхальных яиц:]]></item>
+    </category>
+    <category name="zoo.collectables.meadow">
+      <item name="zoo.collectables.meadow.main.title"><![CDATA[Луг]]></item>
+      <item name="zoo.collectables.meadow.main.text"><![CDATA[На этом прекрасном, красочном лугу произрастает множество злаков, цветов и сочного клевера.]]></item>
+      <item name="zoo.collectables.meadow.flower.title"><![CDATA[Цветы]]></item>
+      <item name="zoo.collectables.meadow.flower.text"><![CDATA[Весной луга превращаются в море полевых цветов. И ваши животные их обожают!]]></item>
+      <item name="zoo.collectables.meadow.log.title"><![CDATA[Пень]]></item>
+      <item name="zoo.collectables.meadow.log.text"><![CDATA[Переходный луг создается путем вырубки деревьев. После исчезновения леса на этом месте сначала вырастают небольшие побеги травы.]]></item>
+      <item name="zoo.collectables.meadow.gnome.title"><![CDATA[Эльфийский]]></item>
+      <item name="zoo.collectables.meadow.gnome.text"><![CDATA[На лугах также часто обитают эльфы, которые выходят из своих укрытий по ночам. Эти застенчивые, но дружелюбные существа часто делят свои дома с зайцами.]]></item>
+      <item name="zoo.collectables.meadow.mushroom.title"><![CDATA[Грибы]]></item>
+      <item name="zoo.collectables.meadow.mushroom.text"><![CDATA[Грибы — это вкусные грибы, которые растут, например, в Северной Америке.]]></item>
+      <item name="zoo.collectables.meadow.sign.title"><![CDATA[Дикий луг]]></item>
+      <item name="zoo.collectables.meadow.sign.text"><![CDATA[Если долгое время никто не будет ухаживать за "переходным лугом", то вскоре на нем снова разрастется дикий лес.]]></item>
+    </category>
+    <category name="zoo.collectables.ice">
+      <item name="zoo.collectables.ice.main.title"><![CDATA[Лед]]></item>
+      <item name="zoo.collectables.ice.main.text"><![CDATA[Пингвины и белые медведи не только любят холодный климат, но и арктическая лиса обожает лед и снег!]]></item>
+      <item name="zoo.collectables.ice.popsicle.title"><![CDATA[Эскимо]]></item>
+      <item name="zoo.collectables.ice.popsicle.text"><![CDATA[Мало кто знает, но пингвины тоже любят мороженое на палочке и иногда воруют его у туристов.]]></item>
+      <item name="zoo.collectables.ice.cubes.title"><![CDATA[Кубики льда]]></item>
+      <item name="zoo.collectables.ice.cubes.text"><![CDATA[Кубики льда — идеальный способ охладить горячий напиток. Они освежают в жаркий летний день.]]></item>
+      <item name="zoo.collectables.ice.skates.title"><![CDATA[Кататься на коньках]]></item>
+      <item name="zoo.collectables.ice.skates.text"><![CDATA[Катание на коньках — удивительный вид спорта. Историки считают, что он был изобретен около 4000 лет назад. Вероятно, финны внесли свой вклад в его изобретение.]]></item>
+      <item name="zoo.collectables.ice.igloo.title"><![CDATA[Иглу]]></item>
+      <item name="zoo.collectables.ice.igloo.text"><![CDATA[Для эскимосов, коренных жителей Северной Америки, иглу означает дом.]]></item>
+      <item name="zoo.collectables.ice.sign.title"><![CDATA[Сосульки]]></item>
+      <item name="zoo.collectables.ice.sign.text"><![CDATA[Сверкающие сосульки образуются при минусовых температурах. Конечно, тепло солнца снова их растапливает.]]></item>
+    </category>
+    <category name="zoo.collectables.bamboo">
+      <item name="zoo.collectables.bamboo.main.title"><![CDATA[Бамбуковая роща]]></item>
+      <item name="zoo.collectables.bamboo.main.text"><![CDATA[Бамбук — единственная пища для панд, и произрастает он преимущественно в Азии.]]></item>
+      <item name="zoo.collectables.bamboo.branches.title"><![CDATA[Ветка бамбука]]></item>
+      <item name="zoo.collectables.bamboo.branches.text"><![CDATA[Бамбук — это собирательное название для нескольких родов древесных злаков.]]></item>
+      <item name="zoo.collectables.bamboo.lantern.title"><![CDATA[Лампион]]></item>
+      <item name="zoo.collectables.bamboo.lantern.text"><![CDATA[Повесьте красивый фонарик в своем бамбуковом саду и осветите ночь мягким светом.]]></item>
+      <item name="zoo.collectables.bamboo.gong.title"><![CDATA[Гонг]]></item>
+      <item name="zoo.collectables.bamboo.gong.text"><![CDATA[Гонг станет прекрасным украшением для вашего бамбукового сада. А этот экзотический звук... кажется, создан для того, чтобы помочь начать медитацию.]]></item>
+      <item name="zoo.collectables.bamboo.statue.title"><![CDATA[Азиатская статуя]]></item>
+      <item name="zoo.collectables.bamboo.statue.text"><![CDATA[Статуя в азиатском стиле добавит бамбуковому саду атмосферу спокойствия и умиротворения.]]></item>
+      <item name="zoo.collectables.bamboo.sign.title"><![CDATA[Бамбуковые крылья]]></item>
+      <item name="zoo.collectables.bamboo.sign.text"><![CDATA[Люди изготавливают крылья из бамбука уже очень давно. Этот легкий, но прочный материал позволяет им достигать невероятной высоты.]]></item>
+    </category>
+    <category name="zoo.collectables.parrot">
+      <item name="zoo.collectables.parrot.main.title"><![CDATA[Попугай]]></item>
+      <item name="zoo.collectables.parrot.main.text"><![CDATA[Известно, что некоторые попугаи довольно разговорчивы. Некоторые из них даже говорят целыми предложениями.]]></item>
+      <item name="zoo.collectables.parrot.plush.title"><![CDATA[Плюшевый попугай]]></item>
+      <item name="zoo.collectables.parrot.plush.text"><![CDATA[Попугаи — очень общительные и популярные домашние животные, но им нужно много места для бега.]]></item>
+      <item name="zoo.collectables.parrot.paw.title"><![CDATA[коготь попугая]]></item>
+      <item name="zoo.collectables.parrot.paw.text"><![CDATA[У попугаев на самом деле 4 когтя. Два спереди и два сзади. Благодаря этому они не упадут с ветки, даже если заснут.]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.title"><![CDATA[Блэкджек]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.text"><![CDATA[Попугаи на самом деле — пираты, которых злые маги превратили в разноцветных птиц.]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.title"><![CDATA[Перу]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.text"><![CDATA[В джунглях перуанской Амазонки обитает множество попугаев, и тропические леса предоставляют им идеальную среду обитания.]]></item>
+      <item name="zoo.collectables.parrot.sign.title"><![CDATA[Любители фруктов]]></item>
+      <item name="zoo.collectables.parrot.sign.text"><![CDATA[Попугаи любят семена и орехи, но им также нравятся фрукты. Неважно, свежие они или сушеные, главное, чтобы они были сладкими.]]></item>
+    </category>
+    <category name="zoo.collectables.rabbit">
+      <item name="zoo.collectables.rabbit.main.title"><![CDATA[заяц]]></item>
+      <item name="zoo.collectables.rabbit.main.text"><![CDATA[Зайцы обитают в самых разных местах — от пустынь и лесов до холодных полярных регионов.]]></item>
+      <item name="zoo.collectables.rabbit.plush.title"><![CDATA[Плюшевый заяц]]></item>
+      <item name="zoo.collectables.rabbit.plush.text"><![CDATA[Зайцы существуют уже много веков. Ископаемые останки свидетельствуют о том, что похожие на зайцев существа обитали в Китае 60 миллионов лет назад.]]></item>
+      <item name="zoo.collectables.rabbit.paw.title"><![CDATA[Заячья лапка]]></item>
+      <item name="zoo.collectables.rabbit.paw.text"><![CDATA[Во многих культурах кроличьи лапки являются символом удачи.]]></item>
+      <item name="zoo.collectables.rabbit.paint.title"><![CDATA[Цветовая палитра]]></item>
+      <item name="zoo.collectables.rabbit.paint.text"><![CDATA[Раз в год приходит Пасхальный кролик и прячет шоколад и цветные яйца.]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.title"><![CDATA[Португалия]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.text"><![CDATA[Европейские дикие зайцы первоначально обитали в Португалии, Испании и северо-западной Африке, но также достигли Австралии.]]></item>
+      <item name="zoo.collectables.rabbit.sign.title"><![CDATA[Эксперты по овощам]]></item>
+      <item name="zoo.collectables.rabbit.sign.text"><![CDATA[Зайцы — вегетарианцы. Они предпочитают питаться травой, зеленью, салатом и яркими цветами.]]></item>
+    </category>
+    <category name="zoo.collectables.penguin">
+      <item name="zoo.collectables.penguin.main.title"><![CDATA[Пингвин]]></item>
+      <item name="zoo.collectables.penguin.main.text"><![CDATA[Пингвины — морские птицы, хотя и не умеют летать.]]></item>
+      <item name="zoo.collectables.penguin.plush.title"><![CDATA[Плюшевый пингвин]]></item>
+      <item name="zoo.collectables.penguin.plush.text"><![CDATA[Пингвины — очень социальные и конкурентоспособные животные, которые часто любят танцевать под водой.]]></item>
+      <item name="zoo.collectables.penguin.paw.title"><![CDATA[Ласты пингвина]]></item>
+      <item name="zoo.collectables.penguin.paw.text"><![CDATA[Походка пингвина по суше выглядит неуклюжей, но в воде он ловко плавает и ныряет.]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.title"><![CDATA[Смокинг]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.text"><![CDATA[Некоторые также называют смокинг «пингвиньим фраком», потому что он поразительно похож на внешний вид пингвина.]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.title"><![CDATA[Антарктида]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.text"><![CDATA[На Субполярных островах обитают одни из самых крупных и тяжелых пингвинов — императорские пингвины.]]></item>
+      <item name="zoo.collectables.penguin.sign.title"><![CDATA[любители рыбы]]></item>
+      <item name="zoo.collectables.penguin.sign.text"><![CDATA[Пингвины — настоящие гурманы. Они предпочитают рыбу, но также любят морских обитателей.]]></item>
+    </category>
+    <category name="zoo.collectables.giantTurtle">
+      <item name="zoo.collectables.giantTurtle.main.title"><![CDATA[Гигантская черепаха]]></item>
+      <item name="zoo.collectables.giantTurtle.main.text"><![CDATA[Черепахи — это рептилии. Чаще всего они живут рядом с водой или в воде. Самые крупные черепахи — это водные черепахи.]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.title"><![CDATA[Плюшевая черепашка]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.text"><![CDATA[Детеныши гигантских черепах общаются со своими братьями и сестрами еще в яйце. Они просто сталкиваются друг с другом скорлупой яиц.]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.title"><![CDATA[Черепашья лапка]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.text"><![CDATA[У водных черепах между пальцами имеются перепонки, тогда как у сухопутных черепах лапы больше похожи на обрубки.]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.title"><![CDATA[Качать]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.text"><![CDATA[Слоновидные черепахи могут доживать до ста лет и более, но у них никогда не вырастает седая борода.]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.title"><![CDATA[Эквадор]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.text"><![CDATA[Слоновидные черепахи обитают на Галапагосских островах, принадлежащих Эквадору и расположенным в Южной Америке.]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.title"><![CDATA[Специалисты по питанию]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.text"><![CDATA[Большинство черепах всеядны, но некоторые виды специализируются только на одном виде пищи, например, медузы.]]></item>
+    </category>
+    <category name="zoo.collectables.lion">
+      <item name="zoo.collectables.lion.main.title"><![CDATA[Лев]]></item>
+      <item name="zoo.collectables.lion.main.text"><![CDATA[Львы — вторые по величине кошачьи в мире после тигров.]]></item>
+      <item name="zoo.collectables.lion.plush.title"><![CDATA[Плюшевый лев]]></item>
+      <item name="zoo.collectables.lion.plush.text"><![CDATA[Белые львы на самом деле совершенно обычные львы, просто их шерсть выцвела на солнце.]]></item>
+      <item name="zoo.collectables.lion.paw.title"><![CDATA[Львиная лапа]]></item>
+      <item name="zoo.collectables.lion.paw.text"><![CDATA[Своими большими лапами они внушают уважение, а когти крепко хватают добычу.]]></item>
+      <item name="zoo.collectables.lion.crown.title"><![CDATA[Корона]]></item>
+      <item name="zoo.collectables.lion.crown.text"><![CDATA[Хотя они обитают в саваннах и степях, их часто называют «царями джунглей».]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.title"><![CDATA[Танзания]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.text"><![CDATA[Сегодня они обитают преимущественно в национальных парках, например, в Танзании или на побережье Восточной Африки.]]></item>
+      <item name="zoo.collectables.lion.sign.title"><![CDATA[Любители стейков]]></item>
+      <item name="zoo.collectables.lion.sign.text"><![CDATA[Львы, как и все кошачьи, — хищники. Они питаются антилопами гну, зебрами и буйволами.]]></item>
+    </category>
+    <category name="zoo.collectables.peacock">
+      <item name="zoo.collectables.peacock.main.title"><![CDATA[Павлин]]></item>
+      <item name="zoo.collectables.peacock.main.text"><![CDATA[Павлины — впечатляющие экзотические птицы. Они свободно разгуливают по многим зоопаркам и паркам.]]></item>
+      <item name="zoo.collectables.peacock.plush.title"><![CDATA[Плюшевый павлин]]></item>
+      <item name="zoo.collectables.peacock.plush.text"><![CDATA[Перья павлиньего хвоста прекрасны. В греческой мифологии глаза павлина являются символом хранителя Аргуса, который охранял возлюбленную Зевса, Ио.]]></item>
+      <item name="zoo.collectables.peacock.paw.title"><![CDATA[павлиньи когти]]></item>
+      <item name="zoo.collectables.peacock.paw.text"><![CDATA[Самцы павлинов весьма тщеславны. Они могут часами расчесывать свои прекрасные перья когтями. И наконец, расправляют их во всей красе.]]></item>
+      <item name="zoo.collectables.peacock.mirror.title"><![CDATA[Зеркало]]></item>
+      <item name="zoo.collectables.peacock.mirror.text"><![CDATA[Павлины умеют вытворять довольно интересные трюки, чтобы привлечь внимание самок, а самки также любят с ними флиртовать.]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.title"><![CDATA[Индия]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.text"><![CDATA[В Индии павлин является национальной птицей с 1963 года. Индийцы ценят этих птиц, потому что они охотятся на ядовитых кобр.]]></item>
+      <item name="zoo.collectables.peacock.sign.title"><![CDATA[Любитель зерна]]></item>
+      <item name="zoo.collectables.peacock.sign.text"><![CDATA[Павлины питаются в основном зерном и злаками, но время от времени они также едят цветы и изредка жуков.]]></item>
+    </category>
+    <category name="zoo.collectables.panda">
+      <item name="zoo.collectables.panda.main.title"><![CDATA[Панда]]></item>
+      <item name="zoo.collectables.panda.main.text"><![CDATA[Большая панда — это черно-белый медведь, обитающий в Китае.]]></item>
+      <item name="zoo.collectables.panda.plush.title"><![CDATA[Плюшевая панда]]></item>
+      <item name="zoo.collectables.panda.plush.text"><![CDATA[Детеныши панд действительно очень маленькие. Они весят всего от 100 до 200 граммов и имеют длину около 15-17 см.]]></item>
+      <item name="zoo.collectables.panda.paw.title"><![CDATA[Лапа панды]]></item>
+      <item name="zoo.collectables.panda.paw.text"><![CDATA[У больших панд искривлённый большой палец. Они используют его, чтобы держать еду.]]></item>
+      <item name="zoo.collectables.panda.bowl.title"><![CDATA[Палочки для еды]]></item>
+      <item name="zoo.collectables.panda.bowl.text"><![CDATA[Умные панды используют бамбуковые палочки, чтобы нанизывать на них еду, подобно тому как люди едят палочками в Азии.]]></item>
+      <item name="zoo.collectables.panda.flagChina.title"><![CDATA[Китай]]></item>
+      <item name="zoo.collectables.panda.flagChina.text"><![CDATA[Последние дикие панды живут в Китае, крупнейшей стране мира. К сожалению, этих гигантских панд осталось совсем немного.]]></item>
+      <item name="zoo.collectables.panda.sign.title"><![CDATA[эксперт по бамбуку]]></item>
+      <item name="zoo.collectables.panda.sign.text"><![CDATA[Панды предпочитают жевать бамбук, особенно листья и молодые побеги. Поскольку это крупные животные, они потребляют его в больших количествах.]]></item>
+    </category>
+    <category name="zoo.collectables.sonja">
+      <item name="zoo.collectables.sonja.main.title"><![CDATA[Заводчица Соня]]></item>
+      <item name="zoo.collectables.sonja.main.text"><![CDATA[Заводчица Соня знает, как идеально ухаживать за животными. Только она может обнять всех животных одновременно.]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.title"><![CDATA[Игрушка-слон]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.text"><![CDATA[Обезьяны — весёлые и жизнерадостные животные. Им нравится играть, например, с ярко раскрашенными деревянными слонами.]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.title"><![CDATA[Вершина]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.text"><![CDATA[С помощью своего весело вращающегося волчка Соня может поднять настроение даже самому угрюмому носорогу.]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.title"><![CDATA[Игрушка-мышь]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.text"><![CDATA[Милые домашние кошки любят гоняться за игрушечными мышками, но львы предпочитают более крупную добычу.]]></item>
+      <item name="zoo.collectables.sonja.main.babyBear.title"><![CDATA[Медвежонок]]></item>
+      <item name="zoo.collectables.sonja.babyBear.text"><![CDATA[Медвежата постоянно обнимались и целовались. Некоторые из них вообще не хотят расставаться со своими опекунами.]]></item>
+      <item name="zoo.collectables.sonja.sign.title"><![CDATA[Мастер объятий]]></item>
+      <item name="zoo.collectables.sonja.sign.text"><![CDATA[Соня — мастер объятий. Закажите её услуги, и вы получите на 12% больше BZ!]]></item>
+    </category>
+    <category name="zoo.collectables.book">
+      <item name="zoo.collectables.book.tab.animals"><![CDATA[Животные]]></item>
+      <item name="zoo.collectables.book.tab.cages"><![CDATA[Пастбища]]></item>
+      <item name="zoo.collectables.book.tab.assistants"><![CDATA[Помощники]]></item>
+      <item name="zoo.collectables.book.more"><![CDATA[Более...]]></item>
+    </category>
+    <category name="zoo.collectables.rewards">
+      <item name="zoo.collectables.book.rewards.unlocked.title"><![CDATA[Победить!]]></item>
+      <item name="zoo.collectables.book.rewards.unlocked.text"><![CDATA[Выберите цену:]]></item>
+      <item name="zoo.collectables.book.rewards.locked.title"><![CDATA[Продолжайте коллекционировать...]]></item>
+      <item name="zoo.collectables.book.rewards.locked.text"><![CDATA[...Вас ждут эти замечательные награды:]]></item>
+      <item name="zoo.collectables.book.rewards.button"><![CDATA[Выбирать]]></item>
+    </category>
+  </category>
+</language>

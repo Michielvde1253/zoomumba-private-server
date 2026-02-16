@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[На път съм към резерват, където искат да увеличат популацията на - %species%. Можете ли да ми помогнете? Ще ви заема чифт от - %species% за 120 часа. За %amount% от %species% бебета ще получите един възрастен.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Вземете назаем чифт]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Анаконда]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Чудесно! Вече имате поне 5 бебета в инвентара си. Бързо ги разменете с мен за един възрастен орангутан!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Страхотно! Наистина много ми помогна! Сега ще заведа малките в резервата и ще ги пусна в дивата природа там. Много ти благодаря и до следващия път!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[Мобилът за животни се завръща на път към резервата, носейки със себе си две животни, които сте взели назаем. Можете да намерите новородените си бебета в инвентара си.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Остават ви %count% часа за размяна на малки.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Бебета орангутани във вашия инвентар]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Преместете бебетата орангутани в инвентара.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Route de gravier]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Ce chemin de gravier relie les enclos de votre zoo. Un réseau de sentiers de qualité permet à vos visiteurs de s'orienter et de découvrir tous les enclos.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Trottoir bleu et blanc]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Ce chemin pavé bleu et blanc est non seulement esthétique, mais il offre aussi une surface idéale pour les poussettes, les trottinettes et les patins à roulettes. Des déplacements fluides et du plaisir garanti !]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Route de sable]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[Les routes goudronnées sont rares dans la steppe. Vous voulez que votre zoo ressemble à la nature sauvage !]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Trottoir rose et blanc]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Quel ravissement ! Ce chemin de pierres, composé de précieuses mosaïques de mosaïque rose, est vraiment exceptionnel. Un véritable podium pour les promeneuses en talons hauts.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Trottoir noir et blanc]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Des pierres précieuses noires et blanches, agencées en mosaïque, bordent magnifiquement ce chemin. Travaillées avec un grand soin, elles constituent un véritable joyau pour votre zoo.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[La route rocailleuse]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Comme dans la nature, de petites touffes d'herbe poussent entre les pierres. Un détail qui ne plaira pas aux puristes, mais qui ravira les amoureux de la nature.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Chemin de galets]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Ce chemin de gravier est joli et je suis sûre que personne ne glissera dessus. Sûr et esthétique, que demander de plus ?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Chemin de terre]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[Les chemins de terre sont très répandus en Afrique. Ils ajoutent une touche d'authenticité à votre zoo et permettront à de nombreux animaux de se sentir comme chez eux.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Voie navigable]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Plouf, plouf, plouf ! Enfilez vos bottes en caoutchouc, gonflez votre bateau pneumatique et prenez un canard en caoutchouc - il y aura beaucoup d'eau pendant cette excursion !]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Route de glace]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Super ! Une route de glace ! Ça va être génial ! Vos visiteurs vont s'amuser à glisser sur la route gelée. Attention, elle n'est pas salée !]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Route de Savannah]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[Un sentier bien tracé serpente à travers la savane, ce qui le rend idéal pour la recherche de traces comme lors d'un safari.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Route du désert]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Sous la chaleur torride du soleil, le sable balaie le désert, effaçant toute trace.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Chemin de pierres]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Ce chemin est assez accidenté. Il est jonché de grosses pierres et de rochers, de bonnes chaussures sont donc indispensables. Attention à ne pas tomber !]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Sentier de la toundra]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[Vos visiteurs auront besoin d'une boussole sur ce sentier, mais il est également conseillé de rester sur les chemins battus.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Route enneigée]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[La neige collante recouvre le sentier enneigé que vos visiteurs emprunteront avec leurs bottes bien chaudes. Tout est si beau ici !]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Sentier du désert]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[En pleine nature, mieux vaut rester sur les sentiers. On trouve des toxines et des déchets partout. Des bottes en caoutchouc à semelles épaisses sont indispensables !]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Route alpine]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Ce sentier de randonnée vous fera traverser les Alpes, avec des montées et des descentes. De bonnes chaussures offrant un bon maintien de la cheville vous éviteront de glisser !]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[sentier de la grotte]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Ouvrez bien les yeux pour ne pas glisser. Peut-être apercevrez-vous un grain d'or scintillant parmi les pierres.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Chemin forestier]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[Les jours de pluie, ce chemin peut être un peu boueux, mais en été, la forêt est absolument idyllique.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Route côtière]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Marcher pieds nus sur du sable scintillant, des coquillages, des algues et parfois quelques étoiles de mer est très bénéfique pour la santé !]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Sentier magique]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[Ce sentier d'un bleu éclatant, qui semble venu d'un autre monde, peut paraître effrayant, mais il est aussi synonyme d'aventure. Où mène-t-il ?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Sentier de Sugar Land]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Mince alors ! Oups ! Tu as marché sur un bonbon ? Attention, il y a des chewing-gums par ici ! C'est magnifique et coloré ici !]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Sentier de la forêt de bambous]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[Le brouillard flotte sur une immense forêt de bambous presque impénétrable. Au loin, on entend le martèlement d'un pic. Un paysage tout simplement idyllique !]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Sentier forestier]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Si vous ne souhaitez pas vous balancer de liane en liane dans cette jungle, vous pouvez emprunter ce sentier bien tracé. Attention : il arrive qu’un serpent ou une araignée le traverse.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[Le chemin à travers le marais]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[Vos visiteurs doivent se souvenir de rester sur le bon chemin dans le marais. Un faux pas et ils tomberont dans la boue !]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Plateforme en bois]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Il n'y a rien de mieux que de se promener sur une jetée en bois et d'entendre le craquement du pont d'un navire. Vos visiteurs vivront une authentique expérience côtière.]]></item>
+  </category>
+</language>

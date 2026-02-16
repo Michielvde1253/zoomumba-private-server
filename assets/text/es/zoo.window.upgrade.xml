@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.upgrade">
+    <item name="zoo.window.upgrade.info"><![CDATA[Mejora tus recintos, embellecelos y haz que tu zoológico sea aún más atractivo.]]></item>
+    <item name="zoo.window.upgrade.button"><![CDATA[Mejora]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[Del 21 al 27 de abril, el conejo de Pascua saltará por tu zoológico y dejará un huevo. Recógelos y cámbialos por decoraciones para el recinto de Pascua, conejos de Pascua y recintos.]]></item>
+  </category>
+</language>

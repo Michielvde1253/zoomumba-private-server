@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.cinema">
+    <category name="zoo.cinema.layer">
+      <item name="zoo.cinema.layer.intro"><![CDATA[¿Ver películas y ganar grandes premios?<br /><br />¡Esto solo pasa en nuestro cine! Ve hasta 3 vídeos al día y obtén una recompensa por cada uno. Para obtener tu recompensa, tienes que ver el vídeo hasta el final.<br /><br />¡Simplemente haz clic en "Iniciar película" y que empiece la función!<br /><br />¡Diviértete!]]></item>
+      <item name="zoo.cinema.layer.selectReward"><![CDATA[¡Obtén tu recompensa!]]></item>
+      <item name="zoo.cinema.layer.play"><![CDATA[¡Comienza la película!]]></item>
+      <item name="zoo.cinema.layer.noVideo"><![CDATA[Actualmente no hay vídeos disponibles.]]></item>
+    </category>
+  </category>
+</language>

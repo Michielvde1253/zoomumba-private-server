@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.collectables">
+    <category name="zoo.collectables.forgottenZoo">
+      <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Εργαλεία]]></item>
+      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Συλλέξτε εργαλεία και ανταλλάξτε τα με επεκτάσεις για τον κρυφό ζωολογικό κήπο σας.<br> <br>Παίρνετε εργαλεία στο σαφάρι και στον τροχό της τύχης. Μετά πηγαίνετε στο κατάστημα και ανταλλάξτε τα.<br> <br>Μέχρι στιγμής έχετε στην κατοχή σας τόσα πολλά εργαλεία:]]></item>
+      <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[Θέλεις να επεκτείνεις τον κρυφό ζωολογικό κήπο σου για %tools% εργαλεία και %zd% ζωοδολάρια;]]></item>
+    </category>
+    <category name="zoo.collectables.easterEvent">
+      <item name="zoo.collectables.easterEvent.title"><![CDATA[Πασχαλινά αυγά]]></item>
+      <item name="zoo.collectables.easterEvent.text"><![CDATA[Από τις 21 Απριλίου έως τις 27 Απριλίου, θα ζήσετε μια πλημμύρα από πασχαλινά αυγά! Συλλέξτε τα και ανταλλάξτε τα με πασχαλινά στολίδια για περιβλήματα, πασχαλινά λαγουδάκια και περιβλήματα. Η τρέχουσα κατάστασή σας με τα πασχαλινά αυγά:]]></item>
+    </category>
+    <category name="zoo.collectables.meadow">
+      <item name="zoo.collectables.meadow.main.title"><![CDATA[Λιβάδι]]></item>
+      <item name="zoo.collectables.meadow.main.text"><![CDATA[Πολλά χόρτα, λουλούδια και παχύφυτα τριφύλλι φυτρώνουν σε ένα όμορφο, πολύχρωμο λιβάδι.]]></item>
+      <item name="zoo.collectables.meadow.flower.title"><![CDATA[Λουλούδια]]></item>
+      <item name="zoo.collectables.meadow.flower.text"><![CDATA[Την άνοιξη, τα λιβάδια μετατρέπονται σε μια θάλασσα από αγριολούλουδα. Και τα ζώα σας τα λατρεύουν!]]></item>
+      <item name="zoo.collectables.meadow.log.title"><![CDATA[Κούτσουρο]]></item>
+      <item name="zoo.collectables.meadow.log.text"><![CDATA[Ένα μεταβατικό λιβάδι δημιουργείται με την αποψίλωση των δέντρων. Μόλις εξαφανιστεί το δάσος, θα φυτρώσουν πρώτα εκεί μικροί βλαστοί χόρτου.]]></item>
+      <item name="zoo.collectables.meadow.gnome.title"><![CDATA[Σκανταλιάρης]]></item>
+      <item name="zoo.collectables.meadow.gnome.text"><![CDATA[Τα λιβάδια φιλοξενούν επίσης συχνά ξωτικά, τα οποία βγαίνουν από τις κρυψώνες τους τη νύχτα. Αυτά τα ντροπαλά αλλά φιλικά πλάσματα συχνά μοιράζονται τα σπίτια τους με λαγούς.]]></item>
+      <item name="zoo.collectables.meadow.mushroom.title"><![CDATA[Μανιτάρια]]></item>
+      <item name="zoo.collectables.meadow.mushroom.text"><![CDATA[Τα μανιτάρια είναι νόστιμα μανιτάρια και καλλιεργούνται, για παράδειγμα, στη Βόρεια Αμερική.]]></item>
+      <item name="zoo.collectables.meadow.sign.title"><![CDATA[Άγριο λιβάδι]]></item>
+      <item name="zoo.collectables.meadow.sign.text"><![CDATA[Αν κανείς δεν φροντίσει για ένα «μεταβατικό λιβάδι» για μεγάλο χρονικό διάστημα, σύντομα θα ξαναφυτρώσει πάνω του ένα άγριο δάσος.]]></item>
+    </category>
+    <category name="zoo.collectables.ice">
+      <item name="zoo.collectables.ice.main.title"><![CDATA[Πάγος]]></item>
+      <item name="zoo.collectables.ice.main.text"><![CDATA[Όχι μόνο οι πιγκουίνοι και οι πολικές αρκούδες αγαπούν τα κρύα κλίματα, αλλά και η αρκτική αλεπού απολαμβάνει τον πάγο και το χιόνι!]]></item>
+      <item name="zoo.collectables.ice.popsicle.title"><![CDATA[παγωτό γρανίτας]]></item>
+      <item name="zoo.collectables.ice.popsicle.text"><![CDATA[Λίγοι το γνωρίζουν αυτό, αλλά στους πιγκουίνους αρέσουν επίσης τα παγωτά και μερικές φορές τα κλέβουν από τους τουρίστες.]]></item>
+      <item name="zoo.collectables.ice.cubes.title"><![CDATA[Παγάκια]]></item>
+      <item name="zoo.collectables.ice.cubes.text"><![CDATA[Τα παγάκια είναι ο ιδανικός τρόπος για να δροσίσετε ένα ζεστό ρόφημα. Προσφέρουν αναζωογόνηση σε μια ζεστή καλοκαιρινή μέρα.]]></item>
+      <item name="zoo.collectables.ice.skates.title"><![CDATA[Πατινάζ]]></item>
+      <item name="zoo.collectables.ice.skates.text"><![CDATA[Το πατινάζ στον πάγο είναι ένα καταπληκτικό άθλημα. Οι ιστορικοί πιστεύουν ότι εφευρέθηκε πριν από περίπου 4.000 χρόνια. Οι Φινλανδοί πιθανότατα συνέβαλαν στην εφεύρεση.]]></item>
+      <item name="zoo.collectables.ice.igloo.title"><![CDATA[Καλύβη από πάγο]]></item>
+      <item name="zoo.collectables.ice.igloo.text"><![CDATA[Ιγκλού σημαίνει σπίτι για τους Εσκιμώους, οι οποίοι είναι οι πρώτοι κάτοικοι της Βόρειας Αμερικής.]]></item>
+      <item name="zoo.collectables.ice.sign.title"><![CDATA[Παγοκρύσταλλοι]]></item>
+      <item name="zoo.collectables.ice.sign.text"><![CDATA[Τα λαμπερά παγοκρύσταλλα σχηματίζονται σε θερμοκρασίες μηδέν. Φυσικά, η ζέστη του ήλιου τα λιώνει ξανά.]]></item>
+    </category>
+    <category name="zoo.collectables.bamboo">
+      <item name="zoo.collectables.bamboo.main.title"><![CDATA[Μπαμπού άλσος]]></item>
+      <item name="zoo.collectables.bamboo.main.text"><![CDATA[Το μπαμπού είναι η μόνη τροφή για τα πάντα και καλλιεργείται κυρίως στην Ασία.]]></item>
+      <item name="zoo.collectables.bamboo.branches.title"><![CDATA[Κλαδί μπαμπού]]></item>
+      <item name="zoo.collectables.bamboo.branches.text"><![CDATA[Το μπαμπού είναι μια συλλογική ονομασία για διάφορα γένη ξυλωδών αγρωστωδών.]]></item>
+      <item name="zoo.collectables.bamboo.lantern.title"><![CDATA[Λάμπιον]]></item>
+      <item name="zoo.collectables.bamboo.lantern.text"><![CDATA[Κρεμάστε ένα όμορφο φανάρι στον κήπο σας από μπαμπού και φωτίστε τη νύχτα με ένα απαλό φως.]]></item>
+      <item name="zoo.collectables.bamboo.gong.title"><![CDATA[Δισκοειδής]]></item>
+      <item name="zoo.collectables.bamboo.gong.text"><![CDATA[Το γκονγκ είναι μια ωραία διακόσμηση για τον κήπο σας με μπαμπού. Και αυτός ο εξωτικός ήχος... φαίνεται να είναι φτιαγμένος για να ξεκινήσει ο διαλογισμός.]]></item>
+      <item name="zoo.collectables.bamboo.statue.title"><![CDATA[Ασιατικό άγαλμα]]></item>
+      <item name="zoo.collectables.bamboo.statue.text"><![CDATA[Ένα άγαλμα ασιατικού στιλ θα προσθέσει μια ατμόσφαιρα ηρεμίας και γαλήνης στον κήπο με μπαμπού.]]></item>
+      <item name="zoo.collectables.bamboo.sign.title"><![CDATA[Φτερά από μπαμπού]]></item>
+      <item name="zoo.collectables.bamboo.sign.text"><![CDATA[Οι άνθρωποι κατασκευάζουν φτερά από μπαμπού εδώ και πολύ καιρό. Το ελαφρύ αλλά ανθεκτικό υλικό τους επιτρέπει να φτάνουν σε απίστευτα ύψη.]]></item>
+    </category>
+    <category name="zoo.collectables.parrot">
+      <item name="zoo.collectables.parrot.main.title"><![CDATA[Παπαγάλος]]></item>
+      <item name="zoo.collectables.parrot.main.text"><![CDATA[Μερικοί παπαγάλοι είναι γνωστοί για την αρκετά ομιλητικότητά τους. Μερικοί από αυτούς μιλούν ακόμη και με ολοκληρωμένες προτάσεις.]]></item>
+      <item name="zoo.collectables.parrot.plush.title"><![CDATA[Λούτρινος παπαγάλος]]></item>
+      <item name="zoo.collectables.parrot.plush.text"><![CDATA[Οι παπαγάλοι είναι πολύ κοινωνικά και δημοφιλή κατοικίδια, αλλά χρειάζονται άφθονο χώρο για να τρέχουν τριγύρω.]]></item>
+      <item name="zoo.collectables.parrot.paw.title"><![CDATA[Νύχι παπαγάλου]]></item>
+      <item name="zoo.collectables.parrot.paw.text"><![CDATA[Οι παπαγάλοι στην πραγματικότητα έχουν 4 νύχια. Δύο μπροστά και δύο πίσω. Με αυτόν τον τρόπο δεν θα πέσουν από το κλαδί ακόμα κι αν κοιμηθούν.]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.title"><![CDATA[Κοντό ρόπαλο δεμένο με λουρί]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.text"><![CDATA[Οι παπαγάλοι είναι στην πραγματικότητα πειρατές που μεταμορφώθηκαν σε πολύχρωμα πουλιά από κακούς μάγους.]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.title"><![CDATA[Περού]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.text"><![CDATA[Οι ζούγκλες της περιοχής του Αμαζονίου στο Περού φιλοξενούν πολλούς παπαγάλους και το τροπικό δάσος τους παρέχει ένα ιδανικό βιότοπο.]]></item>
+      <item name="zoo.collectables.parrot.sign.title"><![CDATA[Οι λάτρεις των φρούτων]]></item>
+      <item name="zoo.collectables.parrot.sign.text"><![CDATA[Στους παπαγάλους αρέσει να τρώνε σπόρους και ξηρούς καρπούς, αλλά θα απολαύσουν και τα φρούτα. Δεν έχει σημασία αν είναι φρέσκα ή αποξηραμένα, το κύριο πράγμα είναι να είναι γλυκά.]]></item>
+    </category>
+    <category name="zoo.collectables.rabbit">
+      <item name="zoo.collectables.rabbit.main.title"><![CDATA[Λαγός]]></item>
+      <item name="zoo.collectables.rabbit.main.text"><![CDATA[Οι λαγοί ζουν σε μια ποικιλία περιοχών - από ερήμους μέχρι δάση και ψυχρές πολικές περιοχές.]]></item>
+      <item name="zoo.collectables.rabbit.plush.title"><![CDATA[Λούτρινο λαγό]]></item>
+      <item name="zoo.collectables.rabbit.plush.text"><![CDATA[Οι λαγοί υπάρχουν εδώ και αιώνες. Τα απολιθώματα δείχνουν ότι πλάσματα που μοιάζουν με λαγούς ζούσαν στην Κίνα πριν από 60 εκατομμύρια χρόνια.]]></item>
+      <item name="zoo.collectables.rabbit.paw.title"><![CDATA[Πόδι κουνελιού]]></item>
+      <item name="zoo.collectables.rabbit.paw.text"><![CDATA[Τα πόδια του κουνελιού είναι σύμβολο καλής τύχης σε πολλούς πολιτισμούς.]]></item>
+      <item name="zoo.collectables.rabbit.paint.title"><![CDATA[Παλέτα χρωμάτων]]></item>
+      <item name="zoo.collectables.rabbit.paint.text"><![CDATA[Μία φορά το χρόνο, το Πασχαλινό Λαγουδάκι φτάνει και κρύβει σοκολατένια και χρωματιστά αυγά.]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.title"><![CDATA[Πορτογαλία]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.text"><![CDATA[Οι ευρωπαϊκοί άγριοι λαγοί ζούσαν αρχικά στην Πορτογαλία, την Ισπανία και τη βορειοδυτική Αφρική, αλλά έχουν φτάσει και στην Αυστραλία.]]></item>
+      <item name="zoo.collectables.rabbit.sign.title"><![CDATA[Ειδικοί σε λαχανικά]]></item>
+      <item name="zoo.collectables.rabbit.sign.text"><![CDATA[Οι λαγοί είναι χορτοφάγοι. Προτιμούν να τρώνε γρασίδι, βότανα, μαρούλι και πολύχρωμα λουλούδια.]]></item>
+    </category>
+    <category name="zoo.collectables.penguin">
+      <item name="zoo.collectables.penguin.main.title"><![CDATA[Πιγκουίνος]]></item>
+      <item name="zoo.collectables.penguin.main.text"><![CDATA[Οι πιγκουίνοι είναι θαλασσοπούλια παρόλο που δεν μπορούν να πετάξουν.]]></item>
+      <item name="zoo.collectables.penguin.plush.title"><![CDATA[Λούτρινος πιγκουίνος]]></item>
+      <item name="zoo.collectables.penguin.plush.text"><![CDATA[Οι πιγκουίνοι είναι πολύ κοινωνικά και ανταγωνιστικά ζώα που συχνά απολαμβάνουν να χορεύουν κάτω από το νερό.]]></item>
+      <item name="zoo.collectables.penguin.paw.title"><![CDATA[Πτερύγιο πιγκουίνου]]></item>
+      <item name="zoo.collectables.penguin.paw.text"><![CDATA[Το περπάτημα ενός πιγκουίνου στην ξηρά φαίνεται αδέξιο, αλλά στο νερό, ο πιγκουίνος είναι ένας ευκίνητος κολυμβητής και δύτης.]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.title"><![CDATA[Σμόκιν]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.text"><![CDATA[Μερικοί άνθρωποι αποκαλούν επίσης το σμόκιν φράκο πιγκουίνου επειδή μοιάζει εντυπωσιακά με πιγκουίνο.]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.title"><![CDATA[Ανταρκτική]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.text"><![CDATA[Τα Υποπολικά Νησιά φιλοξενούν έναν από τους μεγαλύτερους και βαρύτερους πιγκουίνους - τον αυτοκρατορικό πιγκουίνο.]]></item>
+      <item name="zoo.collectables.penguin.sign.title"><![CDATA[Οι λάτρεις του ψαριού]]></item>
+      <item name="zoo.collectables.penguin.sign.text"><![CDATA[Οι πιγκουίνοι είναι απόλυτοι καλοφαγάδες. Προτιμούν τα ψάρια, αλλά απολαμβάνουν και τα θαλάσσια πλάσματα.]]></item>
+    </category>
+    <category name="zoo.collectables.giantTurtle">
+      <item name="zoo.collectables.giantTurtle.main.title"><![CDATA[Γιγαντιαία χελώνα]]></item>
+      <item name="zoo.collectables.giantTurtle.main.text"><![CDATA[Οι χελώνες είναι ερπετά. Συχνά ζουν κοντά ή μέσα στο νερό. Οι μεγαλύτερες χελώνες είναι οι νεροχελώνες.]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.title"><![CDATA[Λούτρινη χελώνα]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.text"><![CDATA[Τα μωρά γιγάντιες χελώνες επικοινωνούν με τα αδέλφια τους ενώ βρίσκονται ακόμα μέσα στο αυγό. Απλώς χτυπούν η μία την άλλη με τα τσόφλια των αυγών τους.]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.title"><![CDATA[Το πόδι της χελώνας]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.text"><![CDATA[Τα πόδια μιας νεροχελώνας έχουν μεμβρανώδη πέλματα ανάμεσα στα δάχτυλα, ενώ αυτά των χερσαίων χελωνών έχουν πόδια που μοιάζουν περισσότερο με κολοβώματα.]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.title"><![CDATA[Κούνια]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.text"><![CDATA[Οι χελώνες ελέφαντα μπορούν να ζήσουν πάνω από 100 χρόνια, αλλά ποτέ δεν αφήνουν γκρίζα γενειάδα.]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.title"><![CDATA[Εκουαδόρ]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.text"><![CDATA[Οι ελέφαντες χελώνες προέρχονται από τα νησιά Γκαλαπάγκος, τα οποία ανήκουν στον Ισημερινό στη Νότια Αμερική.]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.title"><![CDATA[Ειδικοί στη διατροφή]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.text"><![CDATA[Οι περισσότερες χελώνες είναι παμφάγα, αλλά ορισμένα είδη ειδικεύονται μόνο σε ένα είδος τροφής, όπως οι μέδουσες.]]></item>
+    </category>
+    <category name="zoo.collectables.lion">
+      <item name="zoo.collectables.lion.main.title"><![CDATA[Λιοντάρι]]></item>
+      <item name="zoo.collectables.lion.main.text"><![CDATA[Τα λιοντάρια είναι τα δεύτερα μεγαλύτερα αιλουροειδή στον κόσμο μετά τις τίγρεις.]]></item>
+      <item name="zoo.collectables.lion.plush.title"><![CDATA[Λούτρινο λιοντάρι]]></item>
+      <item name="zoo.collectables.lion.plush.text"><![CDATA[Τα λευκά λιοντάρια είναι στην πραγματικότητα εντελώς φυσιολογικά λιοντάρια, μόνο που η γούνα τους έχει ξεθωριάσει από τον ήλιο.]]></item>
+      <item name="zoo.collectables.lion.paw.title"><![CDATA[Πόδι λιονταριού]]></item>
+      <item name="zoo.collectables.lion.paw.text"><![CDATA[Επικαλούνται τον σεβασμό με τα μεγάλα τους πόδια και τα νύχια τους πιάνουν σταθερά το θήραμά τους.]]></item>
+      <item name="zoo.collectables.lion.crown.title"><![CDATA[Στέμμα]]></item>
+      <item name="zoo.collectables.lion.crown.text"><![CDATA[Αν και κατοικούν σε σαβάνες και στέπες, συχνά αναφέρονται ως οι «βασιλιάδες της ζούγκλας».]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.title"><![CDATA[Τανζανία]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.text"><![CDATA[Σήμερα ζουν κυρίως σε εθνικά πάρκα όπως στην Τανζανία ή στις ακτές της Ανατολικής Αφρικής.]]></item>
+      <item name="zoo.collectables.lion.sign.title"><![CDATA[Λάτρεις της μπριζόλας]]></item>
+      <item name="zoo.collectables.lion.sign.text"><![CDATA[Τα λιοντάρια, όπως όλα τα αιλουροειδή, είναι σαρκοφάγα. Τρέφονται με γκνου, ζέβρες και βουβάλια.]]></item>
+    </category>
+    <category name="zoo.collectables.peacock">
+      <item name="zoo.collectables.peacock.main.title"><![CDATA[Παγώνι]]></item>
+      <item name="zoo.collectables.peacock.main.text"><![CDATA[Τα παγώνια είναι εντυπωσιακά εξωτικά πουλιά. Περιφέρονται ελεύθερα σε πολλούς ζωολογικούς κήπους και πάρκα.]]></item>
+      <item name="zoo.collectables.peacock.plush.title"><![CDATA[Λούτρινο παγώνι]]></item>
+      <item name="zoo.collectables.peacock.plush.text"><![CDATA[Τα φτερά της ουράς του παγωνιού είναι όμορφα. Στην ελληνική μυθολογία, τα μάτια του παγωνιού είναι σύμβολο του φύλακα Άργους, ο οποίος φύλαγε την ερωμένη του Δία, την Ιώ.]]></item>
+      <item name="zoo.collectables.peacock.paw.title"><![CDATA[Νύχια παγωνιού]]></item>
+      <item name="zoo.collectables.peacock.paw.text"><![CDATA[Τα αρσενικά παγώνια είναι αρκετά ματαιόδοξα. Μπορούν να περάσουν ώρες χτενίζοντας τα όμορφα φτερά τους με τα νύχια τους. Και τελικά τα απλώνουν σε όλο τους το μεγαλείο.]]></item>
+      <item name="zoo.collectables.peacock.mirror.title"><![CDATA[Καθρέπτης]]></item>
+      <item name="zoo.collectables.peacock.mirror.text"><![CDATA[Τα παγώνια μπορούν να κάνουν μερικά πολύ ωραία ακροβατικά για να κεντρίσουν το ενδιαφέρον των θηλυκών, και στα θηλυκά αρέσει επίσης να φλερτάρουν μαζί τους.]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.title"><![CDATA[Ινδία]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.text"><![CDATA[Στην Ινδία, το παγώνι είναι το εθνικό πουλί από το 1963. Οι Ινδοί εκτιμούν αυτά τα πουλιά επειδή κυνηγούν δηλητηριώδεις κόμπρες.]]></item>
+      <item name="zoo.collectables.peacock.sign.title"><![CDATA[Λάτρης των σιτηρών]]></item>
+      <item name="zoo.collectables.peacock.sign.text"><![CDATA[Τα παγώνια τρώνε κυρίως σιτηρά και δημητριακά, αλλά κατά καιρούς τρώνε επίσης λουλούδια και περιστασιακά σκαθάρια.]]></item>
+    </category>
+    <category name="zoo.collectables.panda">
+      <item name="zoo.collectables.panda.main.title"><![CDATA[Αρκτοειδές ζώο της ασίας]]></item>
+      <item name="zoo.collectables.panda.main.text"><![CDATA[Το γιγάντιο πάντα είναι μια ασπρόμαυρη αρκούδα που προέρχεται από την Κίνα.]]></item>
+      <item name="zoo.collectables.panda.plush.title"><![CDATA[Λούτρινο πάντα]]></item>
+      <item name="zoo.collectables.panda.plush.text"><![CDATA[Τα μωρά πάντα είναι πράγματι πολύ μικρά. Ζυγίζουν μόνο 100 έως 200 γραμμάρια και έχουν μήκος περίπου 15-17 εκατοστά.]]></item>
+      <item name="zoo.collectables.panda.paw.title"><![CDATA[Πόδι πάντα]]></item>
+      <item name="zoo.collectables.panda.paw.text"><![CDATA[Τα γιγάντια πάντα έχουν στραβό αντίχειρα. Τον χρησιμοποιούν για να κρατούν τροφή.]]></item>
+      <item name="zoo.collectables.panda.bowl.title"><![CDATA[Τσοπ στικς]]></item>
+      <item name="zoo.collectables.panda.bowl.text"><![CDATA[Τα έξυπνα πάντα χρησιμοποιούν ξυλάκια μπαμπού για να σουβλίζουν το φαγητό τους, όπως ακριβώς οι άνθρωποι τρώνε με ξυλάκια στην Ασία.]]></item>
+      <item name="zoo.collectables.panda.flagChina.title"><![CDATA[Κίνα]]></item>
+      <item name="zoo.collectables.panda.flagChina.text"><![CDATA[Τα τελευταία άγρια ​​πάντα ζουν στην Κίνα, τη μεγαλύτερη χώρα στον κόσμο. Δυστυχώς, έχουν απομείνει μόνο λίγα από αυτά τα γιγάντια πάντα.]]></item>
+      <item name="zoo.collectables.panda.sign.title"><![CDATA[Ειδικός στο μπαμπού]]></item>
+      <item name="zoo.collectables.panda.sign.text"><![CDATA[Τα πάντα προτιμούν να μασούν μπαμπού, ειδικά τα φύλλα και τα νεαρά κλαδάκια. Επειδή είναι μεγάλα ζώα, καταναλώνουν μεγάλη ποσότητα.]]></item>
+    </category>
+    <category name="zoo.collectables.sonja">
+      <item name="zoo.collectables.sonja.main.title"><![CDATA[Εκτροφέας Soňa]]></item>
+      <item name="zoo.collectables.sonja.main.text"><![CDATA[Η εκτροφέας Σόνα ξέρει πώς να φροντίζει τέλεια τα ζώα. Μόνο αυτή μπορεί να αγκαλιάσει όλα τα ζώα ταυτόχρονα.]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.title"><![CDATA[Παιχνίδι ελέφαντα]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.text"><![CDATA[Οι πίθηκοι είναι χαρούμενοι σύντροφοι. Τους αρέσει να παίζουν, για παράδειγμα, με ξύλινους ελέφαντες με έντονα χρώματα.]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.title"><![CDATA[Κορυφή]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.text"><![CDATA[Με την χαρούμενη σβούρα της, η Σόνα μπορεί να φτιάξει τη διάθεση ακόμη και του πιο γκρινιάρη ρινόκερου.]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.title"><![CDATA[Παιχνίδι ποντικιού]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.text"><![CDATA[Οι χαριτωμένες γάτες σπιτιού αρέσκονται να κυνηγούν ποντίκια-παιχνίδια, αλλά τα λιοντάρια προτιμούν μεγαλύτερα θηράματα.]]></item>
+      <item name="zoo.collectables.sonja.main.babyBear.title"><![CDATA[Αρκουδάκι]]></item>
+      <item name="zoo.collectables.sonja.babyBear.text"><![CDATA[Τα αρκουδάκια απλώς αγκαλιάζονταν συνέχεια. Μερικά από αυτά δεν ήθελαν καθόλου να αφήσουν τον φροντιστή τους.]]></item>
+      <item name="zoo.collectables.sonja.sign.title"><![CDATA[Μάστερ της αγκαλιάς]]></item>
+      <item name="zoo.collectables.sonja.sign.text"><![CDATA[Η Σόνια είναι μια εξαιρετική αγκαλίτσα. Προσλάβετέ την και θα λάβετε 12% περισσότερο BZ για τις υπηρεσίες της!]]></item>
+    </category>
+    <category name="zoo.collectables.book">
+      <item name="zoo.collectables.book.tab.animals"><![CDATA[Ζώα]]></item>
+      <item name="zoo.collectables.book.tab.cages"><![CDATA[Πάντοκ]]></item>
+      <item name="zoo.collectables.book.tab.assistants"><![CDATA[Βοηθοί]]></item>
+      <item name="zoo.collectables.book.more"><![CDATA[Περισσότερο...]]></item>
+    </category>
+    <category name="zoo.collectables.rewards">
+      <item name="zoo.collectables.book.rewards.unlocked.title"><![CDATA[Νίκη!]]></item>
+      <item name="zoo.collectables.book.rewards.unlocked.text"><![CDATA[Επιλέξτε την τιμή σας:]]></item>
+      <item name="zoo.collectables.book.rewards.locked.title"><![CDATA[Συνέχισε να συλλέγεις...]]></item>
+      <item name="zoo.collectables.book.rewards.locked.text"><![CDATA[... Αυτές οι σπουδαίες ανταμοιβές σας περιμένουν:]]></item>
+      <item name="zoo.collectables.book.rewards.button"><![CDATA[Επιλέγω]]></item>
+    </category>
+  </category>
+</language>

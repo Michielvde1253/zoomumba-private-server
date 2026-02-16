@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bank">
+    <item name="zoo.window.bank.title"><![CDATA[Állatkerti bank]]></item>
+    <item name="zoo.window.bank.info"><![CDATA[Akik jól gazdálkodnak, azok boldogulni fognak! Vásárolj értékes zoodollarokat a zoobankban, vagy használd ki vonzó prémium ajánlatainkat!]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.title"><![CDATA[Vásárolj<br>zoodollars-t]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.info"><![CDATA[Kevés a játékbeli fizetőeszköz? Ez megtörténhet! Aki sikerre akar menni, annak be kell fektetnie!]]></item>
+    <item name="zoo.window.bank.button.premium.title"><![CDATA[Prémium csomag]]></item>
+    <item name="zoo.window.bank.button.premium.info"><![CDATA[Használd ki a Prémium előnyöket, hogy több látogatót vonzz az állatkertedbe. Próbáld ki!]]></item>
+    <item name="zoo.window.bank.button.startpaket.title"><![CDATA[Asszisztensek]]></item>
+    <item name="zoo.window.bank.button.startpaket.info"><![CDATA[Nem akarsz mindent egyedül csinálni? Semmi gond! Az állatkerti asszisztensek segítenek!]]></item>
+    <item name="zoo.window.bank.button.cashaction.title"><![CDATA[Készpénz akcióért]]></item>
+    <item name="zoo.window.bank.button.cashaction.info"><![CDATA[Pénzügyi lendületre van szüksége? Itt nagyszerű ajánlatokat talál! Válasszon szolgáltatót, és szerezzen zoodollars-t!]]></item>
+    <item name="zoo.window.bank.currency.title"><![CDATA[Pénzváltó]]></item>
+    <item name="zoo.window.bank.currency.info"><![CDATA[Váltsd be a zoodollarjaidat zoogroshe-ra, és halmozz fel elegendő tartalékot a számládon.]]></item>
+    <item name="zoo.window.bank.exchange.btnLabel"><![CDATA[Csere]]></item>
+  </category>
+</language>

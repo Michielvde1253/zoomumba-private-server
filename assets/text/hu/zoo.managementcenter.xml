@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.managementcenter">
+    <item name="zoo.tooltip.managementcenter.message.buylayer"><![CDATA[Biztosan meg akarod venni a(z) '%building%' épületet %zoodollar% zoodollarért?]]></item>
+  </category>
+</language>

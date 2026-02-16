@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Booster 30% EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[Med 30%-boostren får du 30% mer BZ i 1 timme! Om du köper 2 av samma boosters förlängs tiden. Tips: En 30% BZ-booster och en 100% BZ-booster är giltiga samtidigt och belönar dig med 130% mer BZ under hela timmen.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[100 % booster-EP]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[Med 100% BZ-boostern får du 100% mer BZ under hela timmen! Om du köper två likadana boosters förlängs tiden. Tips: en 100% BZ-booster och en 30% BZ-booster är giltiga samtidigt, så du får 130% mer BZ under hela timmen!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30 % tassförstärkare]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[Med 30% Paw Booster får du 30% fler Paws under hela timmen! Om du köper 2 av samma boosters förlängs tiden. Tips: en 30% Paw Booster och en 100% Paw Booster är giltiga samtidigt, så du får 130% fler Paws under hela timmen!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100 % tassbooster]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[Med 100% Paw Booster får du 100% fler Paws under hela timmen! Om du köper 2 av samma boosters förlängs tiden. Tips: en 100% Paw Booster och en 30% Paw Booster är giltiga samtidigt, så du får 130% fler Paws under hela timmen!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Brädspelsförstärkare]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[Med brädspelsboostern får du dubbelt så många samlarföremål som dyker upp ur höljena under en timme! Om du vill förlänga den här tiden kan du köpa fler boosters.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[30% zoocoin-booster]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[Med en 30% booster får du 30% extra zoogros från dina butiker i 1 timme! Om du köper 2 av samma boosters förlängs tiden. Tips: En 30% zoogros-booster och en 100% zoogros-booster är giltiga samtidigt och belönar dig med 130% extra zoogros under hela timmen.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[100 % zoocoin-booster]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[Med en 100 % booster får du 100 % extra zoogros från dina butiker i 1 timme! Om du köper 2 av samma boosters förlängs tiden. Tips: En 100 % zoogros-booster och en 30 % zoogros-booster är giltiga samtidigt och belönar dig med 130 % extra zoogros under hela timmen.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Avelsstationsförstärkare]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Sällsynta hybrider på ett enkelt sätt! Avelsstationsförstärkaren ser till att dina kläckta ungar når minst en nivå högre än den lägsta nivån hos en av sina föräldrar inom 24 timmar. Men var försiktig: Förstärkaren fungerar bara om du hämtar kläckningen från avelsstationen.]]></item>
+    </category>
+  </category>
+</language>

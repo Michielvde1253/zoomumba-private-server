@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Güçlendirici %30 EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[%30'luk güçlendirici ile 1 saat boyunca %30 daha fazla BZ kazanacaksınız! Aynı güçlendiriciden 2 tane satın alırsanız, süre uzar. İpucu: Bir adet %30'luk BZ güçlendirici ve bir adet %100'lük BZ güçlendirici aynı anda geçerlidir ve size 1 saat boyunca %130 daha fazla BZ kazandırır.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[%100 güçlendirici EP]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[%100 BZ güçlendirici ile 1 saat boyunca %100 daha fazla BZ kazanırsınız! Aynı güçlendiriciden 2 tane satın alırsanız, süre uzar. İpucu: Bir adet %100 BZ güçlendirici ve bir adet %30 BZ güçlendirici aynı anda geçerlidir, böylece 1 saat boyunca %130 daha fazla BZ kazanırsınız!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[%30 pati güçlendirici]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[%30 Pati Güçlendirici ile 1 saat boyunca %30 daha fazla Pati kazanırsınız! Aynı güçlendiriciden 2 tane satın alırsanız, süre uzar. İpucu: Bir adet %30 Pati Güçlendirici ve bir adet %100 Pati Güçlendirici aynı anda geçerlidir, böylece 1 saat boyunca %130 daha fazla Pati kazanırsınız!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[%100 pati güçlendirici]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[%100 Pati Güçlendirici ile 1 saat boyunca %100 daha fazla Pati kazanırsınız! Aynı güçlendiriciden 2 tane satın alırsanız, süre uzar. İpucu: Bir adet %100 Pati Güçlendirici ve bir adet %30 Pati Güçlendirici aynı anda geçerlidir, böylece 1 saat boyunca %130 daha fazla Pati kazanırsınız!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Masa oyunu güçlendirici]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[Masa oyunu güçlendirici paketiyle, 1 saat boyunca kutulardan çıkacak koleksiyonluk eşya sayısı iki katına çıkacak! Bu süreyi uzatmak isterseniz, daha fazla güçlendirici paket satın alın.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[%30 Zoocoin güçlendirici]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[%30'luk bir takviye ile, 1 saat boyunca dükkanlarınızdan %30 daha fazla zoogros kazanacaksınız! Aynı takviyeden 2 tane alırsanız, süre uzar. İpucu: Bir adet %30'luk zoogros takviyesi ve bir adet %100'lük zoogros takviyesi aynı anda geçerlidir ve size 1 saat boyunca %130 daha fazla zoogros kazandırır.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[%100 Zoocoin güçlendirici]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[%100'lük bir güçlendirici ile, 1 saat boyunca dükkanlarınızdan %100 daha fazla zoogros kazanacaksınız! Aynı güçlendiriciden 2 tane satın alırsanız, süre uzar. İpucu: Bir adet %100 zoogros güçlendirici ve bir adet %30 zoogros güçlendirici aynı anda geçerlidir ve size 1 saat boyunca %130 daha fazla zoogros kazandırır.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Üreme istasyonu güçlendiricisi]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Nadir melezler elde etmek artık çok kolay! Üreme İstasyonu Güçlendiricisi, yavrularınızın 24 saat içinde ebeveynlerinden birinin en düşük seviyesinden en az bir seviye daha yüksek bir seviyeye ulaşmasını sağlayacaktır. Ancak dikkatli olun: Güçlendirici yalnızca yavruyu Üreme İstasyonundan aldığınızda çalışır.]]></item>
+    </category>
+  </category>
+</language>

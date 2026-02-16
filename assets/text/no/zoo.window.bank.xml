@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bank">
+    <item name="zoo.window.bank.title"><![CDATA[Dyrehagebank]]></item>
+    <item name="zoo.window.bank.info"><![CDATA[De som klarer seg godt vil lykkes! Kjøp verdifulle zoodollars i zoobanken eller dra nytte av våre attraktive Premium-tilbud!]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.title"><![CDATA[Kjøp<br>zoodollars]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.info"><![CDATA[Går du tom for valuta i spillet? Det kan skje! De som vil lykkes må investere!]]></item>
+    <item name="zoo.window.bank.button.premium.title"><![CDATA[Premium-pakke]]></item>
+    <item name="zoo.window.bank.button.premium.info"><![CDATA[Bruk Premium-fordeler for å tiltrekke flere besøkende til dyrehagen din. Prøv det!]]></item>
+    <item name="zoo.window.bank.button.startpaket.title"><![CDATA[Assistenter]]></item>
+    <item name="zoo.window.bank.button.startpaket.info"><![CDATA[Vil du ikke gjøre alt selv? Ikke noe problem! Dyrehageassistenter hjelper deg!]]></item>
+    <item name="zoo.window.bank.button.cashaction.title"><![CDATA[Kontanter for<br>handling]]></item>
+    <item name="zoo.window.bank.button.cashaction.info"><![CDATA[Trenger du et økonomisk løft? Her finner du gode tilbud! Velg en leverandør og få zoodollars!]]></item>
+    <item name="zoo.window.bank.currency.title"><![CDATA[Vekslekontor]]></item>
+    <item name="zoo.window.bank.currency.info"><![CDATA[Veksle zoodollarene dine mot zoogroshes og bygg opp nok reserver på kontoen din.]]></item>
+    <item name="zoo.window.bank.exchange.btnLabel"><![CDATA[Utveksling]]></item>
+  </category>
+</language>

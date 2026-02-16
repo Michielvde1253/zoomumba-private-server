@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.construction">
+    <item name="zoo.window.construction.title"><![CDATA[Rakentaminen]]></item>
+    <item name="zoo.window.construction.info"><![CDATA[Noin]]></item>
+    <item name="zoo.window.construction.buildinginfo"><![CDATA[Melkein valmis! Vain:]]></item>
+    <item name="zoo.window.construction.buildinginfo2"><![CDATA[Tai hanki esine heti (ilman rakentamista):]]></item>
+    <item name="zoo.window.construction.button.buydirectly"><![CDATA[Osta nyt]]></item>
+  </category>
+</language>

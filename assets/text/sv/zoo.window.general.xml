@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.general">
+    <item name="zoo.window.general.error"><![CDATA[Fel]]></item>
+    <item name="zoo.window.general.petPenny_singular"><![CDATA[Zoogros]]></item>
+    <item name="zoo.window.general.petPenny_plural"><![CDATA[Zoogros]]></item>
+    <item name="zoo.window.general.petPaw_singular"><![CDATA[Tass]]></item>
+    <item name="zoo.window.general.petPaw_plural"><![CDATA[Tass]]></item>
+    <item name="zoo.window.general.zooDollar_singular"><![CDATA[Zoodollar]]></item>
+    <item name="zoo.window.general.zooDollar_plural"><![CDATA[Zoodollars]]></item>
+    <item name="zoo.window.general.xp_singular"><![CDATA[Erfarenhetspunkt]]></item>
+    <item name="zoo.window.general.xp_plural"><![CDATA[Erfarenhetspoäng]]></item>
+    <item name="zoo.window.general.attractivity_singular"><![CDATA[Attraktivitet]]></item>
+    <item name="zoo.window.general.start"><![CDATA[Start]]></item>
+    <item name="zoo.window.general.skip"><![CDATA[Hoppa]]></item>
+    <item name="zoo.window.general.next"><![CDATA[Andra]]></item>
+    <item name="zoo.window.general.prev"><![CDATA[Tillbaka]]></item>
+    <item name="zoo.window.general.first"><![CDATA[Första]]></item>
+    <item name="zoo.window.general.last"><![CDATA[Sista]]></item>
+    <item name="zoo.window.general.congrats"><![CDATA[Hjärtligt grattis!]]></item>
+    <item name="zoo.window.general.specialOffer"><![CDATA[Handling!]]></item>
+    <item name="zoo.window.general.attention"><![CDATA[Uppmärksamhet!]]></item>
+    <item name="zoo.window.general.sorry"><![CDATA[Vi ber om ursäkt.]]></item>
+    <item name="zoo.window.general.goodbye"><![CDATA[Adjö!]]></item>
+    <item name="zoo.window.general.thankyou"><![CDATA[Tack!]]></item>
+    <item name="zoo.window.general.second"><![CDATA[sek]]></item>
+    <item name="zoo.window.general.seconds"><![CDATA[sekunder]]></item>
+    <item name="zoo.window.general.minute"><![CDATA[minut]]></item>
+    <item name="zoo.window.general.minutes"><![CDATA[min.]]></item>
+    <item name="zoo.window.general.hour"><![CDATA[timme]]></item>
+    <item name="zoo.window.general.hours"><![CDATA[timmar]]></item>
+    <item name="zoo.window.general.day"><![CDATA[dag]]></item>
+    <item name="zoo.window.general.days"><![CDATA[dagar]]></item>
+    <item name="zoo.window.general.week"><![CDATA[Vecka]]></item>
+    <item name="zoo.window.general.weeks"><![CDATA[veckor]]></item>
+    <item name="zoo.window.general.month"><![CDATA[månad]]></item>
+    <item name="zoo.window.general.months"><![CDATA[månader]]></item>
+    <item name="zoo.window.general.year"><![CDATA[år]]></item>
+    <item name="zoo.window.general.years"><![CDATA[flyg]]></item>
+  </category>
+</language>

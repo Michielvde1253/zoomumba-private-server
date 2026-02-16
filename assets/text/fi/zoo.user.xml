@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.user">
+    <item name="zoo.user.name"><![CDATA[Käyttäjätunnus]]></item>
+    <item name="zoo.user.id"><![CDATA[Käyttäjätunnus]]></item>
+    <item name="zoo.user.notAuth.title"><![CDATA[Vahvistus]]></item>
+    <item name="zoo.user.notAuth.info"><![CDATA[Vahvistus epäonnistui. Kirjaudu sisään uudelleen.]]></item>
+  </category>
+</language>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.confirmation">
+    <item name="zoo.window.confirmation.closegame.title"><![CDATA[Край на играта]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[Тази зоологическа градина все още не е налична. Можете да я отключите, като достигнете %level% разширения в следната зоологическа градина: %zooName%. Или да я отключите веднага за %zooDollar% zoodollars.]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[За да отключите тази зоологическа градина, трябва да сте на ниво %level%. Или я отключете веднага за %zooDollar% зоодолар.]]></item>
+    <item name="zoo.window.confirmation.map.level"><![CDATA[Трябва да сте на ниво %level%, за да отключите тази зоологическа градина.]]></item>
+    <item name="zoo.window.confirmation.map.buy"><![CDATA[Искате ли да закупите разширение на зоопарка?]]></item>
+    <item name="zoo.window.confirmation.title.buy"><![CDATA[Купете]]></item>
+    <item name="zoo.window.confirmation.closegame.info"><![CDATA[Наистина ли искате да излезете от ZooMumba?]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.title"><![CDATA[Купуване на артикули]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.info"><![CDATA[Наистина ли искате да купите този артикул?]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.title"><![CDATA[Купете ход]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.info"><![CDATA[Искате ли да направите този ход за зоодолари?]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.title"><![CDATA[Продай]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Наистина ли искате да продадете този артикул?]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[Предупреждение]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[Ако поставите заграждението в инвентара си, то ще загуби подобрението си за действие.<br><br>Искате ли да продължите?]]></item>
+    <category name="zoo.window.confirmation.gift">
+      <item name="zoo.window.confirmation.gift.title"><![CDATA[Внимание!]]></item>
+      <item name="zoo.window.confirmation.gift.info"><![CDATA[Все още не си избрал/а 5-те си приятели! Ако продължиш, подаръците ти ще бъдат загубени. Би било жалко... Все още ли искаш да продължиш?]]></item>
+    </category>
+  </category>
+</language>

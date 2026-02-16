@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Školník Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley udrží všetky výbehy žiarivo čisté. Jeho trik spočíva v zapojení zvierat, čím sa upratovanie premení na zábavnú hru.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Brankárka Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Ošetrovateľka Sonja vie, ako sa o zvieratá dokonale postarať. Len ona sa dokáže túliť so všetkými zvieratami naraz.]]></item>
+  </category>
+</language>

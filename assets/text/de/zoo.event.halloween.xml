@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Hallo! Ich bin Lucka und ich liebe Fledermäuse! Vor allem ihre süßen Babys. Bringt mir so viele Babys wie möglich, dann habe ich richtig tolle Halloween-Artikel für euch. Tauscht einfach süße Babys gegen die Artikel links oder saure Babys gegen die Artikel rechts.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Inventar]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Wähle aus, wie viele %species% Babys du in dein Inventar verschieben möchtest.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Wir entschuldigen uns!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Leider befinden sich nicht genügend Fledermausbabys in Ihrem Inventar. Züchten Sie Fledermausbabys und verschieben Sie diese in Ihr Inventar, um diesen Artikel zu kaufen.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Kleine Fledermäuse im Bestand]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Tausche kleine Fledermäuse gegen Süßigkeiten]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Tausche kleine Fledermäuse gegen saure Fledermäuse]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Nummer: Süß]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Investiere %x% Süßigkeiten, um diesen Gegenstand freizuschalten.]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Investiere %x% Säure, um diesen Gegenstand freizuschalten.]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Nummer: Sauer]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Helfen]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Babyfledermäuse ins Inventar verschieben]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Willkommen zum Halloween-Event! Vom 25. Oktober bis zum 1. November findet in deinem Zoo eine gruselige Party statt! Viele Geschenke und Überraschungen warten auf dich. Im nächsten Schritt erfährst du, wie alles funktioniert.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Sammle so viele süße und saure Dinge wie möglich! Du brauchst sie, um die Geisteranhänger zu aktivieren! Wie das alles funktioniert, erfährst du auf der nächsten Seite.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Wenn du genug Süßes und Saures hast, kannst du damit <b>Gegenstände</b> aktivieren. Aber Vorsicht: Süßigkeiten lassen dich nach links schauen, Saures nach rechts. Dein Auge zeigt dir an, auf welcher Seite die Gegenstände aktiviert werden.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Aktivierte Gegenstände erhältst du, indem du sie gegen <b>Babyfledermäuse</b> eintauschst. Ziehe viele süße Fledermäuse groß. Mit einer neuen Schaltfläche im Gehege-Menü kannst du die Babys schnell und einfach in deinem Inventar speichern.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Viel Spaß im Gruselladen!<br> Für alle Ungeduldigen: Süß-Sauer gibt es im Laden gegen Babyfledermäuse einzutauschen. Weitere Überraschungen erwarten euch im Laden.<br> Viel Spaß an Halloween!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[Es ist Zeit für gruseligen Spaß!<br>Vom <b>31. Oktober bis zum 6. November</b> findet eine Halloween-Party in Ihrem Zoo statt!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Sammle so viele Kürbisse wie möglich! Sie erscheinen aus den Gehegen, während du dich um deine Tiere kümmerst.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Füge sie dem großen Kürbiskorb für unsere <b>Kürbisschlacht</b> hinzu. Je mehr Kürbisse du ablieferst, desto schaurigere Belohnungen kannst du gewinnen.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Während ihr euch um eure Tiere kümmert, erscheinen Leckerlis aus den Gehegen. Sammelt sie gemeinsam ein! Die Aktionsleiste füllt sich und ein schwebendes Auge zeigt euch an, welche gruseligen Preise für alle verfügbar sind. Klickt auf die Belohnung, sobald sie aktiviert ist.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Sammle Kürbisse für die große Kürbisschlacht. Je mehr du sammelst, desto mehr Preise kannst du gewinnen.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Alle spielen zusammen! Leckereien aus allen Zoos füllen die Anzeige und schalten automatisch Preise für alle frei!]]></item>
+    </category>
+  </category>
+</language>

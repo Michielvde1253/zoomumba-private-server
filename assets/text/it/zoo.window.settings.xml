@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.settings">
+    <item name="zoo.window.settings.info"><![CDATA[Ciao, direttore dello zoo!<br>Qui puoi personalizzare ZooMumba a tuo piacimento! Scegli il gioco che più ti piace!]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[SU]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[spento]]></item>
+    <item name="zoo.window.settings.quality.low"><![CDATA[Basso]]></item>
+    <item name="zoo.window.settings.quality.middle"><![CDATA[medio]]></item>
+    <item name="zoo.window.settings.quality.high"><![CDATA[alto]]></item>
+    <item name="zoo.window.settings.quality.title"><![CDATA[Arti grafiche]]></item>
+    <item name="zoo.window.settings.quality.info"><![CDATA[Qualità]]></item>
+    <item name="zoo.window.settings.account.title"><![CDATA[Modifica account]]></item>
+    <item name="zoo.window.settings.account.info"><![CDATA[Qui puoi modificare i dettagli del tuo account di gioco, come ad esempio l'indirizzo email.]]></item>
+    <item name="zoo.window.settings.title.tooltipps"><![CDATA[Suggerimenti]]></item>
+    <item name="zoo.window.settings.title.visitors"><![CDATA[Visitatori]]></item>
+    <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Desideri dei visitatori]]></item>
+    <item name="zoo.window.settings.title.sound"><![CDATA[Suono]]></item>
+    <item name="zoo.window.settings.title.sound.background"><![CDATA[Musica]]></item>
+    <item name="zoo.window.settings.title.sound.effects"><![CDATA[Effetti sonori]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[per regolare]]></item>
+    <item name="zoo.window.settings.tab.account"><![CDATA[account]]></item>
+    <item name="zoo.window.settings.tab.config"><![CDATA[Configurazione]]></item>
+    <item name="zoo.window.settings.tab.buildings"><![CDATA[Edificio principale]]></item>
+    <item name="zoo.window.settings.buildings.info"><![CDATA[Scegli l'edificio d'ingresso dello zoo in base ai tuoi gusti. Avrai a disposizione gli edifici principali in base al tuo livello.<br>In questo modo, il tuo zoo sarà sempre più personalizzato!]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Animazione]]></item>
+    <item name="zoo.window.settings.anim.info"><![CDATA[Numero di animazioni animali]]></item>
+    <item name="zoo.window.settings.saveAssets"><![CDATA[Memoria buffer]]></item>
+  </category>
+</language>

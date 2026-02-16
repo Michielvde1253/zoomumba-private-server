@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Velkommen til det rejsende cirkus! Vi præsenterer Mysteriekassen! Køb én kasse og få et af 10 dyr. Du kan have op til 20 kasser ad gangen, og hver kasse kan åbnes på op til 5 timer. Hav det sjovt!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Dyr:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Hjertelig tillykke!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[Følgende dyr er blevet føjet til din beholdning: %animal%. Få endnu flere mystiske kasser for at få endnu flere unikke dyr!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Åh, vi beklager!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Du har allerede 20 mystiske kister. Vent, indtil en af ​​dem åbner sig, og hent så en anden kiste.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Mysterieboksen åbnes for: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Klik for at se dine dyr]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Velkommen tilbage!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Mens du var væk, blev dine dyr tørstige af den mystiske kasse. Opdrætter Sonia tog sig af dem og bragte dem til sit inventar. Tag et hurtigt kig!]]></item>
+  </category>
+</language>

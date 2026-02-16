@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Grusväg]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Denna grusväg förbinder dina djurparksinhägnader. Ett högkvalitativt nätverk av stigar hjälper dina besökare att hitta rätt och leder dem till alla inhägnader.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Blå och vit trottoar]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Denna blåvita kullerstensstig ser inte bara fantastisk ut, utan är också en utmärkt yta för barnvagnar, skotrar och rullskridskor. Smidig rörelse och roligt av hög kvalitet, det är ju toppen!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Sandväg]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[Det finns sällan asfalterade vägar i stäppen. Du vill att ditt zoo ska likna naturen!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Rosa och vit trottoar]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Så vackert: Denna stenstig gjord av ädelrosa mosaikstenar är något alldeles extra. Den perfekta catwalken för besökare i höga klackar.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Svartvit trottoar]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Svarta och vita ädelstenar i mosaikform kantar vackert denna stig. De är bearbetade med stor omsorg och blir en juvel i din djurpark.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[Den steniga vägen]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Precis som i naturen växer små grästuvor ur springorna mellan stenarna. Inte för den pedantiske, men naturälskare kommer säkert att uppskatta det.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Stenstig]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Den här grusvägen ser fin ut och jag är säker på att ingen kommer att halka på den. Säker och vacker, vad mer kan man önska sig?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Grusväg]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[Grusvägar är populära i Afrika. De ger autenticitet till din djurpark och kommer att få många djur att känna sig hemma.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Vattenväg]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Plask, plask, plask! Ta på er gummistövlarna, blås upp er gummibåt och hämta en gummianka – det kommer att bli mycket vatten på den här turen!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Isväg]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Hurra! En isväg – det kommer att bli kul! Dina besökare kommer att ha roligt när de åker nerför den frusna vägen. Var försiktig, den är inte saltad!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Savannahvägen]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[En väl upptrampad stig slingrar sig genom savannen, vilket gör den idealisk för att leta efter spår som på en safari.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Ökenväg]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Under solens brännande hetta blåser sand över öknen och utplånar alla spår.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Stenstig]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Den här stigen är ganska guppig. Det finns stora stenar och stenblock på den, så bra skor är ett måste. Var försiktig så att du inte ramlar!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Tundraleden]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[Dina besökare behöver en kompass på den här leden, men det är också klokt att hålla sig till de upptrampade stigarna.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Snöväg]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[Kladdig snö ligger på snövägen, som dina besökare kommer att släpa sig fram på i sina varma stövlar. Allt är så vackert här!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Ökenstig]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[I vildmarken är det bäst att hålla sig på vägen. Det finns gifter och avfall överallt. Gummistövlar med bra sulor är ett måste!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Alpvägen]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Denna vandringsled tar dig upp och ner genom Alperna. Bra skor med bra fotledsstöd skyddar dig från att halka!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Grottstig]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Håll ögonen öppna så att du inte halkar. Kanske får du syn på ett glittrande guldkorn bland stenarna.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Skogsstig]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[På regniga dagar kan den här stigen vara lite lerig, men på sommaren är skogen helt idyllisk.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Kustväg]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Att gå barfota på glittrande sand, snäckor, sjögräs och ibland även sjöstjärnor är mycket gynnsamt för din hälsa.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Magisk stig]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[Den knallblå leden, som är helt otrolig, kan verka skrämmande, men den är också äventyrlig. Vart leder den?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Sugar Land-leden]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Smula! Hoppsan! Trampade du på en godis? Var försiktig, det är tuggummin på vägen! Så vackert färgglatt det är här!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Bambuskogsstig]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[Dimman driver genom en vidsträckt, nästan ogenomtränglig bambuskog. En hackspetts knackande ljud hörs i fjärran. Helt enkelt idylliskt!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Skogsstig]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Om du inte vill svänga från vinranka till vinranka i denna djungel kan du gå längs denna vältrampade stig. Var försiktig: Ibland kan en orm eller spindel korsa stigen.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[Stigen genom träsket]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[Dina besökare bör komma ihåg att hålla sig på rätt väg i träsket. Ett felsteg och de faller ner i leran!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Träplattform]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Det finns inget bättre än att promenera längs en träpir och höra knarrandet från ett skeppsdäck. Dina besökare kommer att få en sann kustupplevelse.]]></item>
+  </category>
+</language>

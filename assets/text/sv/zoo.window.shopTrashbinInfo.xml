@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Soptunna]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Folk lämnar skräp efter sig! Ju fler soptunnor du har i ditt zoo, desto mindre behöver du städa upp efter besökare.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Mamma papperskorg]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Usch... jag vill ha skräp!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Papperskorgspöke]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuhhuuuuu... Sopor]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Papperskorg Vampyr]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Jag behöver något att bita i. Ge mig ditt skräp!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Papperskorgmonster]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmmm ... Skräpgott!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Födelsedagspapperskorg]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmm, omslagspapper!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Val soptunna]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA["Jag ska svälja allt ditt skräp!"]]></item>
+  </category>
+</language>

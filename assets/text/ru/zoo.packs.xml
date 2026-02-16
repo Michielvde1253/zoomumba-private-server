@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA[Суперфуд-пакет "Хорошее начало"]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Этот набор содержит 40 единиц суперфуда и 5 лапок. Это обеспечит вам 40-кратное увеличение желчного пузыря при кормлении и позволит увидеть прогресс в улучшении внешнего вида ваших террариумов!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA[«Мастер-пакет» суперфудов]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Этот набор содержит 125 единиц суперфуда и 20 лапок. Это даст вам в 125 раз больше BZ и поможет улучшить внешний вид ваших вольеров!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA[«Экспертный» набор суперфудов]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Этот набор содержит 350 единиц суперфуда и 30 лапок, а также 5 подарков по 5 единиц суперфуда для 5 ваших друзей. Так что и они смогут получить выгоду от этого набора!]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.mail">
+    <category name="zoo.mail.tabs">
+      <item name="zoo.mail.tabs.inbox"><![CDATA[Inbox]]></item>
+      <item name="zoo.mail.tabs.outbox"><![CDATA[Căsuță de trimis]]></item>
+      <item name="zoo.mail.tabs.newMail"><![CDATA[Mesaj nou]]></item>
+      <item name="zoo.mail.tabs.contactList"><![CDATA[Agendă de adrese]]></item>
+    </category>
+    <category name="zoo.mail.general">
+      <item name="zoo.mail.general.pagination"><![CDATA[Pagina %x% din %y%]]></item>
+      <item name="zoo.mail.general.message"><![CDATA[Mesaj]]></item>
+      <item name="zoo.mail.general.send"><![CDATA[Trimite]]></item>
+      <item name="zoo.mail.general.close"><![CDATA[Aproape]]></item>
+      <item name="zoo.mail.general.userWrote"><![CDATA[%user% a scris:]]></item>
+      <item name="zoo.mail.general.userSent"><![CDATA[I-ai scris jucătorului %user%:]]></item>
+    </category>
+    <category name="zoo.mail.column">
+      <item name="zoo.mail.column.action"><![CDATA[Acţiune]]></item>
+      <item name="zoo.mail.column.messageSender"><![CDATA[Expeditor]]></item>
+      <item name="zoo.mail.column.messageReceiver"><![CDATA[Destinatar]]></item>
+      <item name="zoo.mail.column.messageTitle"><![CDATA[Subiect]]></item>
+      <item name="zoo.mail.column.messageDate"><![CDATA[Data]]></item>
+      <item name="zoo.mail.column.playerName"><![CDATA[Numele jucătorului]]></item>
+      <item name="zoo.mail.column.level"><![CDATA[Nivel]]></item>
+    </category>
+    <category name="zoo.mail.info">
+      <item name="zoo.mail.info.addUserTitle"><![CDATA[Adăuga]]></item>
+      <item name="zoo.mail.info.addUserQuestion"><![CDATA[Sigur vrei să adaugi jucătorul %user% în agenda ta?]]></item>
+      <item name="zoo.mail.info.deleteMessageTitle"><![CDATA[Şterge]]></item>
+      <item name="zoo.mail.info.deleteMessageQuestion"><![CDATA[Chiar vrei să ștergi acest mesaj?]]></item>
+      <item name="zoo.mail.info.deleteContactTitle"><![CDATA[Şterge]]></item>
+      <item name="zoo.mail.info.deleteContactQuestion"><![CDATA[Chiar vrei să elimini jucătorul %user% din agenda ta?]]></item>
+      <item name="zoo.mail.info.noRecipientTitle"><![CDATA[Eroare]]></item>
+      <item name="zoo.mail.info.noRecipientMessage"><![CDATA[Acest jucător nu există.]]></item>
+      <item name="zoo.mail.info.sentOkTitle"><![CDATA[Trimis]]></item>
+      <item name="zoo.mail.info.noAddSelf"><![CDATA[Nu te poți adăuga în agenda ta.]]></item>
+      <item name="zoo.mail.info.sentOkMessage"><![CDATA[Mesajul dumneavoastră a fost trimis cu succes.]]></item>
+      <item name="zoo.mail.info.addUserMessage"><![CDATA[Introduceți numele sau ID-ul jucătorului dacă doriți să îl adăugați în agenda dvs.]]></item>
+      <item name="zoo.mail.info.multipleUserFound"><![CDATA[Acest nume apare frecvent. Vă rugăm să introduceți ID-ul jucătorului, care este unic și distinctiv.]]></item>
+      <item name="zoo.mail.info.writeMailError.noUserName"><![CDATA[Vă rugăm să introduceți un destinatar pentru ca mesajul dvs. să poată fi trimis.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSubject"><![CDATA[Vă rugăm să introduceți un subiect pentru ca mesajul dvs. să poată fi trimis.]]></item>
+      <item name="zoo.mail.info.writeMailError.noMessage"><![CDATA[Vă rugăm să introduceți textul mesajului pentru ca acesta să poată fi trimis.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSelfSend"><![CDATA[Nu poți să-ți trimiți un mesaj ție însuți.]]></item>
+      <item name="zoo.mail.info.writeMailError.notFriend"><![CDATA[Din păcate, poți trimite mesaje doar jucătorilor care sunt pe lista ta de prieteni.]]></item>
+      <item name="zoo.mail.info.writeMailError.userAlreadyExists"><![CDATA[Acest jucător a fost deja adăugat în agenda ta.]]></item>
+    </category>
+  </category>
+</language>

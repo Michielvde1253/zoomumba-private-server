@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA[Superfood-pakken "God Start"]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Denne pakke indeholder 40 enheder Superfood og 5 Paws. Dette giver dig 40 gange dobbelt BZ, når du fodrer, og du kan se fremskridt med at forskønne dine indhegninger!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA["Master" superfood-pakke]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Denne pakke indeholder 125 enheder Superfood og 20 poter. Dette giver dig 125x dobbelt BZ og fremskridt i retning af at forskønne dine indhegninger!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA["Ekspert" superfoodpakke]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Denne pakke indeholder 350 enheder superfood og 30 poter, men også 5 gaver med 5 enheder superfood til 5 af dine venner. Så de også kan drage fordel af denne pakke!]]></item>
+    </category>
+  </category>
+</language>

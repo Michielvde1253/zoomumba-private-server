@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventABtrade">
+    <category name="zoo.eventABtrade.button">
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Vaihtaa]]></item>
+    </category>
+    <category name="zoo.eventABtrade.layer">
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Hei, olen Lukáš, naapurikaupungin eläintarhan johtaja. Kuulin, että eläintenhoitajanne Soňa Starostlivá kasvattaa uusia eläinlajeja, joista olen erittäin kiinnostunut. Jokaisesta lajin %priceSpecies% uroksesta annan teille lajin %rewardSpecies% uroksen tai naaraan naaraasta. Läsnäoloni aikana lajinne %priceGenus%s haudonta-aika lyhenee 20 tunnista 2 tuntiin! Oletteko siis mukana?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Palaan nyt eläintarhaani. Kiitos paljon ja toivottavasti näemme sinut pian uudelleen!]]></item>
+    </category>
+  </category>
+</language>

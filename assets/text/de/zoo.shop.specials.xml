@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Booster 30% EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[Mit dem 30%-Booster erhältst du 30 % mehr BZ für 1 Stunde! Wenn du 2 gleiche Booster kaufst, verlängert sich die Zeit. Tipp: Ein 30%-BZ-Booster und ein 100%-BZ-Booster sind gleichzeitig gültig und belohnen dich mit 130 % mehr BZ für die gesamte Stunde.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[100% Booster EP]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[Mit dem 100%-BZ-Booster erhältst du 100 % mehr BZ für die gesamte Stunde! Wenn du zwei gleiche Booster kaufst, verlängert sich die Zeit. Tipp: Ein 100%-BZ-Booster und ein 30%-BZ-Booster sind gleichzeitig gültig, sodass du insgesamt 130 % mehr BZ für die gesamte Stunde erhältst!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30% Pfotenbooster]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[Mit dem 30%-Pfoten-Booster erhältst du 30 % mehr Pfoten für die gesamte Stunde! Wenn du zwei gleiche Booster kaufst, verlängert sich die Zeit. Tipp: Ein 30%-Pfoten-Booster und ein 100%-Pfoten-Booster sind gleichzeitig gültig, sodass du insgesamt 130 % mehr Pfoten für die gesamte Stunde erhältst!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100% Pfotenbooster]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[Mit dem 100%-Pfoten-Booster erhältst du 100 % mehr Pfoten für die gesamte Stunde! Wenn du zwei gleiche Booster kaufst, verlängert sich die Zeit. Tipp: Ein 100%-Pfoten-Booster und ein 30%-Pfoten-Booster sind gleichzeitig gültig, sodass du insgesamt 130 % mehr Pfoten für die gesamte Stunde erhältst!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Brettspiel-Booster]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[Mit dem Brettspiel-Booster erhältst du die doppelte Anzahl an Sammelobjekten, die 1 Stunde lang aus den Verpackungen erscheinen! Wenn du diese Zeit verlängern möchtest, kaufe weitere Booster.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[30% Zoocoin-Booster]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[Mit einem 30%-Booster erhältst du 1 Stunde lang 30 % mehr Zoogros in deinen Shops! Kaufst du zwei gleiche Booster, verlängert sich die Wirkungsdauer. Tipp: Ein 30%-Booster und ein 100%-Booster sind gleichzeitig gültig und belohnen dich mit 130 % mehr Zoogros für die gesamte Stunde.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[100% Zoocoin-Booster]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[Mit einem 100%-Booster erhältst du 1 Stunde lang 100 % mehr Zoogros in deinen Shops! Kaufst du zwei gleiche Booster, verlängert sich die Wirkungsdauer. Tipp: Ein 100%-Zoogros-Booster und ein 30%-Zoogros-Booster sind gleichzeitig gültig und belohnen dich mit 130 % mehr Zoogros für die gesamte Stunde.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Brutstationsverstärker]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Seltene Hybriden ganz einfach! Der Zuchtstations-Booster sorgt dafür, dass deine Jungtiere innerhalb von 24 Stunden mindestens ein Level über dem niedrigsten Level eines ihrer Elternteile erreichen. Aber Achtung: Der Booster funktioniert nur, wenn du das Jungtier aus der Zuchtstation holst.]]></item>
+    </category>
+  </category>
+</language>

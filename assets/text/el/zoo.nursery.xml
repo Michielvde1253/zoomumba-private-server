@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Γεια σας, είμαι η Τίνα και φροντίζω τα μωρά σας. Μεγαλώνουν και γίνονται ενήλικες στο φυτώριο ζώων μου. Επιλέξτε το μωρό που θέλετε να μεγαλώσετε από το απόθεμά σας.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Έτοιμο για ανάπτυξη]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Εδώ μεγαλώνει το λιονταράκι.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Το μικρό σου μεγάλωσε!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Αύξηση]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Χρησιμοποιήστε ουσία]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Σηκώστε αμέσως]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Εκτροφή ζώων]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Χρόνος που απομένει:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Σηκώστε αμέσως]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Πριν το καταλάβεις, το μικρό σου θα έχει γίνει ενήλικας!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Το Φίλτρο Ανάπτυξης μειώνει τον χρόνο αναπαραγωγής κατά 50%.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Γιούπι! Αυτό το μωρό μεγάλωσε και μεταφέρθηκε στο απόθεμά σου:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Προσοχή: Ένα μωρό μεγαλώνει εδώ! Εάν μετακινήσετε το βρεφικό δωμάτιο στο απόθεμα, η διαδικασία θα διακοπεί. Είστε σίγουροι ότι θέλετε να το μετακινήσετε τώρα;]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Προσοχή: Ένα μωρό μεγαλώνει εδώ! Αν πουλήσετε το παιδικό δωμάτιο τώρα, η διαδικασία θα διακοπεί. Είστε σίγουροι ότι θέλετε να το πουλήσετε τώρα;]]></item>
+    </category>
+  </category>
+</language>

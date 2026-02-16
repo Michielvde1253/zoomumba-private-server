@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Balkabağı feneri]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Cadılar Bayramı gecesinin karanlığında, Jack-o-lantern adı verilen ürkütücü oyulmuş balkabakları parlıyor. Mum ışığının titremesiyle korkunç suratı daha da ürkütücü hale geliyor. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[Noel ağacı]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[İncecik bir çam ağacı büyüdü...! Noel hediyeleriyle süslenmiş, şenlikli bir ağaç.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Kalp]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[İyi şanslar gelsin! Birçok ülkede insanlar Sevgililer Günü'nde bir baca temizleyicisini öpmenin onlara büyük şans getireceğine inanıyor!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Doğum günü pastası]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Nefis! Kalorisi yüksek bir ikram olmadan doğum günü olur mu?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Doğum günü pastası]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Nefis! Bu kalorili lezzet olmadan bir doğum günü nasıl olurdu ki?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Paskalya yumurtaları yığını]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[Güzel bir Paskalya yumurtası koleksiyonu. Eskiden boyalı tavuk yumurtaları kullanılırdı. Günümüzde ise çikolata yumurtaları daha yaygın.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Gökkuşağı yumurtası]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Görme engelli çocukların Paskalya yumurta avına katılabilmeleri için özel olarak tasarlanmış Paskalya yumurtaları. Yumurtalar bip sesi çıkarıyor veya bir melodi çalıyor.]]></item>
+  </category>
+</language>

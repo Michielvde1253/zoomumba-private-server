@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.waterstorehouse">
+    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Водонапорная башня]]></item>
+    <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Здание склада]]></item>
+    <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Животным нужно много воды. Улучшайте свою водонапорную башню уровень за уровнем и следите за тем, чтобы по мере роста вашего зоопарка у вас всегда было достаточно воды для всех животных.]]></item>
+    <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Вашим животным нужно много еды. Расширяйте хранилище уровень за уровнем и убедитесь, что у вас достаточно еды для всех по мере роста вашего зоопарка.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Браво! Вы расширили склад до максимального уровня.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[Браво! Вы максимально расширили водонапорную башню.]]></item>
+    <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Актуальное повышение уровня: %have% / %max%]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.water"><![CDATA[Текущая мощность водонапорной башни]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.store"><![CDATA[Текущая емкость хранилища]]></item>
+    <item name="zoo.window.waterstorehouse.buy.titel"><![CDATA[Расширять]]></item>
+    <item name="zoo.window.waterstorehouse.buy.text"><![CDATA[Хотите расширить свой зоопарк?]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgraderc"><![CDATA[Развернуть для зоодолларов]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Развернуть для zoogrosh]]></item>
+    <item name="zoo.window.waterstorehouse.buy.nextcap"><![CDATA[Новый размер:]]></item>
+  </category>
+</language>

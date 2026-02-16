@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Hei, olen Tina ja hoidan pentujasi. Ne kasvavat aikuisiksi eläintarhassani. Valitse kasvatettava pentu varastostasi.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Valmis kasvamaan]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Tässä pentu kasvaa.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Pentusi on kasvanut!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Nosta]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Käytä essenssiä]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Nosta heti]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Eläinten jalostus]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Jäljellä oleva aika:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Nosta heti]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Ennen kuin huomaatkaan, pienokaisesi on aikuinen!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Kasvujuoma lyhentää lisääntymisaikaa 50 %.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Jippii! Tämä vauva on kasvanut ja siirretty tavaraluetteloosi:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Huomio: Vauva kasvaa täällä! Jos siirrät lastenhuoneen inventaarioon, prosessi keskeytyy. Haluatko varmasti siirtää sen nyt?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Huomio: Täällä kasvaa vauva! Jos myyt lastenhuoneen nyt, prosessi keskeytyy. Oletko varma, että haluat myydä sen nyt?]]></item>
+    </category>
+  </category>
+</language>

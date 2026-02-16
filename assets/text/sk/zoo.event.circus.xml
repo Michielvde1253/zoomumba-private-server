@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Vitajte v putovnom cirkuse! Predstavujeme Záhadnú krabicu! Kúpte si jednu krabicu a dostanete jedno z 10 zvierat. Môžete mať naraz až 20 krabíc a každú krabicu je možné otvoriť až 5 hodín. Zabavte sa!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Zvieratá:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Srdečne gratulujem!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[Do vášho inventára boli pridané nasledujúce zvieratá: %animal%. Získajte ešte viac záhadných debien, aby ste získali ešte viac jedinečných zvierat!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Och, prepáčte!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Už máš 20 záhadných truhlíc. Počkaj, kým sa jedna z nich otvorí, a potom si vezmi ďalšiu.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Záhadná skrinka sa otvorí pre: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Kliknite pre zobrazenie vašich zvierat]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Vitaj späť!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Kým si bol preč, tvoje zvieratá dostali smäd z tajomnej prepravky. Chovateľka Sonia sa o ne postarala a priniesla ich do svojho inventára. Rýchlo sa na to pozri!]]></item>
+  </category>
+</language>

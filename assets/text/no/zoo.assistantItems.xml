@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Vaktmester Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley skal holde alle innhegningene skinnende rene. Trikset hans er å involvere dyrene, slik at rengjøringen blir en morsom lek.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Keeper Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Dyrepasser Sonja vet hvordan man tar perfekt vare på dyrene. Bare hun kan kose med alle dyrene samtidig.]]></item>
+  </category>
+</language>

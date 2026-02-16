@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.waterstorehouse">
+    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Su Kulesi]]></item>
+    <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Depo binası]]></item>
+    <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Hayvanların çok suya ihtiyacı var. Hayvanat bahçeniz büyüdükçe su kulesini seviye seviye yükseltin ve herkes için yeterli suyunuz olduğundan emin olun.]]></item>
+    <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Hayvanlarınızın çok fazla yiyeceğe ihtiyacı var. Hayvanat bahçeniz büyüdükçe depolama alanınızı kademeli olarak genişletin ve herkes için yeterli yiyeceğiniz olduğundan emin olun.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Tebrikler! Depoyu maksimum seviyeye kadar genişlettiniz.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[Bravo! Su kulesini maksimum seviyeye kadar uzattınız.]]></item>
+    <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Geçerli olanlar: %have% / %max%]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.water"><![CDATA[Su kulesinin mevcut kapasitesi]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.store"><![CDATA[Depolamanın mevcut kapasitesi]]></item>
+    <item name="zoo.window.waterstorehouse.buy.titel"><![CDATA[Genişletmek]]></item>
+    <item name="zoo.window.waterstorehouse.buy.text"><![CDATA[Hayvanat bahçenizi genişletmek ister misiniz?]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgraderc"><![CDATA[Zoodollars için genişletin]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Zoogrosh için genişletin]]></item>
+    <item name="zoo.window.waterstorehouse.buy.nextcap"><![CDATA[Yeni boyut:]]></item>
+  </category>
+</language>

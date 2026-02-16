@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.animalbreed">
+    <item name="zoo.window.animalbreed.title"><![CDATA[creșterea animalelor]]></item>
+    <item name="zoo.window.animalbreed.info"><![CDATA[Creșteți puișori drăguți!\nCu puțin noroc, grădina zoologică va primi cu brațele deschise noii adăugiri.]]></item>
+    <item name="zoo.window.animalbreed.breedtitle"><![CDATA[Reproducere standardă]]></item>
+    <item name="zoo.window.animalbreed.breedinfo"><![CDATA[Posibili urmași pentru:]]></item>
+    <item name="zoo.window.animalbreed.button.startbreeding"><![CDATA[Început]]></item>
+    <item name="zoo.window.animalbreed.babytitle"><![CDATA[Adopţie]]></item>
+    <item name="zoo.window.animalbreed.babyinfo"><![CDATA[Fă-ți un copil imediat:]]></item>
+    <item name="zoo.window.animalbreed.button.buydirectly"><![CDATA[Cumpără acum]]></item>
+    <item name="zoo.window.animalbreed.button.breedstart"><![CDATA[Început]]></item>
+    <item name="zoo.window.animalbreed.success.title"><![CDATA[Tineri]]></item>
+    <item name="zoo.window.animalbreed.success.info"><![CDATA[Ura!<br>Felicitări! Grădina zoologică are o nouă adăugire drăguță!]]></item>
+    <item name="zoo.window.animalbreed.failed.title"><![CDATA[Fără incrementare]]></item>
+    <item name="zoo.window.animalbreed.failed.info"><![CDATA[Păcat, de data asta va trebui să așteptați noua adăugire.<br><br>Vrei să încerci din nou?<br><br>Mult succes!]]></item>
+  </category>
+</language>

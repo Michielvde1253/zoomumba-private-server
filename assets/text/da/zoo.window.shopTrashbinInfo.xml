@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Skraldespand]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Folk efterlader affald! Jo flere skraldespande du har i din zoologiske have, jo mindre skal du rydde op efter besøgende.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Mumie skraldespand]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Åh... jeg vil have skrald!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Skraldespandsspøgelse]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuhhuuuuu... Skrald]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Skraldespand vampyr]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Jeg har brug for noget at bide i. Giv mig dit affald!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Skraldespandsmonster]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmmm ... Godt som affald!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Fødselsdags skraldespand]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmmmm, indpakningspapir!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Hval skraldespand]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA["Jeg sluger alt dit skrald!"]]></item>
+  </category>
+</language>

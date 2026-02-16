@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.cinema">
+    <category name="zoo.cinema.layer">
+      <item name="zoo.cinema.layer.intro"><![CDATA[Oglądaj filmy i zgarniaj za to duże nagrody?<br /><br />To możliwe tylko w naszym kinie! Oglądaj do 3 klipów dziennie i zgarniaj nagrodę za każdy. Aby otrzymać nagrodę, musisz obejrzeć klip do końca.<br /><br />Wystarczy kliknąć „Rozpocznij film”, a seans się rozpocznie!<br /><br />Baw się dobrze!]]></item>
+      <item name="zoo.cinema.layer.selectReward"><![CDATA[Odbierz swoją nagrodę!]]></item>
+      <item name="zoo.cinema.layer.play"><![CDATA[Rozpocznij film!]]></item>
+      <item name="zoo.cinema.layer.noVideo"><![CDATA[Obecnie nie ma dostępnych filmów.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.settings">
+    <item name="zoo.window.settings.info"><![CDATA[Здравствуйте, директор зоопарка!<br>Здесь вы можете настроить ZooMumba по своему вкусу! Наслаждайтесь игрой, которая вам больше всего нравится!]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[на]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[выключенный]]></item>
+    <item name="zoo.window.settings.quality.low"><![CDATA[низкий]]></item>
+    <item name="zoo.window.settings.quality.middle"><![CDATA[середина]]></item>
+    <item name="zoo.window.settings.quality.high"><![CDATA[высокий]]></item>
+    <item name="zoo.window.settings.quality.title"><![CDATA[Графические искусства]]></item>
+    <item name="zoo.window.settings.quality.info"><![CDATA[Качество]]></item>
+    <item name="zoo.window.settings.account.title"><![CDATA[Редактировать аккаунт]]></item>
+    <item name="zoo.window.settings.account.info"><![CDATA[Здесь вы можете изменить данные своей игровой учетной записи, например, адрес электронной почты.]]></item>
+    <item name="zoo.window.settings.title.tooltipps"><![CDATA[Всплывающие подсказки]]></item>
+    <item name="zoo.window.settings.title.visitors"><![CDATA[Посетители]]></item>
+    <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Пожелания посетителей]]></item>
+    <item name="zoo.window.settings.title.sound"><![CDATA[Звук]]></item>
+    <item name="zoo.window.settings.title.sound.background"><![CDATA[Музыка]]></item>
+    <item name="zoo.window.settings.title.sound.effects"><![CDATA[Звуковые эффекты]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[регулировать]]></item>
+    <item name="zoo.window.settings.tab.account"><![CDATA[счет]]></item>
+    <item name="zoo.window.settings.tab.config"><![CDATA[Конфигурация]]></item>
+    <item name="zoo.window.settings.tab.buildings"><![CDATA[Главное здание]]></item>
+    <item name="zoo.window.settings.buildings.info"><![CDATA[Выберите входное здание зоопарка по своему вкусу. В зависимости от вашего уровня доступны основные здания.<br>Таким образом, ваш зоопарк будет всё больше соответствовать вашим предпочтениям!]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Анимация]]></item>
+    <item name="zoo.window.settings.anim.info"><![CDATA[Количество анимаций животных]]></item>
+    <item name="zoo.window.settings.saveAssets"><![CDATA[Буферная память]]></item>
+  </category>
+</language>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[Vrolijk Kerstfeest!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[Van 21 december tot en met 2 januari draait alles in jouw dierentuin om Kerstmis! Versier je kerstboom en help me Kerstmis te redden!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Verzamel eerst 8 vliegende rendieren en daarna één kerstman Rudolf voor zijn slee. Voor elk rendier dat je hem brengt, ontvang je een cadeautje.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Van tijd tot tijd geeft de Kerstman je ook een kerstbal voor in je kerstboom. Uiteindelijk mag je je versierde boom houden.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Hoera, we hebben hier ook een speciale kerstcollectie! Zorg goed voor je dieren en verzamel kerstspullen. Je kunt ze ook gebruiken om rendieren te fokken!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Geweldige verrassingen in de kerstwinkel]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Verander je dierentuin in een kleurrijke winterwereld met tal van nieuwe en populaire kerstversieringen.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Fijne kerstdagen en veel plezier op het kerstevenement!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[Dit is vreselijk! De rendieren van de Kerstman zijn weggelopen en nu kan hij geen cadeaus meer bezorgen! Breng hem 8 vliegende rendieren en Rudolf van de Kerstman en zet ze voor zijn slee. Als dank ontvang je geweldige cadeaus!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[De Kerstman is onderweg naar:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Je hebt gewonnen:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Kijk eens naar die kerstboom op de parkeerplaats!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Geef je avatar een nieuwe outfit!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Kijk snel even naar je voorraad!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Bedankt!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Je rendieren kunnen niet wachten om op pad te gaan. Dankzij jou is Kerstmis gered!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Bedankt!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Ik mis nog steeds een paar van mijn rendieren, maar het is tijd voor mij om op pad te gaan! Maak je geen zorgen, ik vind wel een oplossing - ik ben tenslotte de Kerstman!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[De versierde kerstboom van uw parkeerplaats bevindt zich nu in uw inventaris.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Laten we eerst 8 magische rendieren naar de Kerstman brengen.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[De Kerstman heeft al 8 vliegende rendieren en het enige wat hij nog nodig heeft is zijn Rudolph!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Kerstversiering]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Kerstoutfit]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Een paar sneeuwuilen]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Aantal mannelijke magische rendieren in je inventaris.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Het aantal vrouwelijke vliegende rendieren in je inventaris.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Voordat je de kerstman zijn Rudolf brengt, heeft hij eerst 8 vliegende rendieren nodig.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Het aantal mannelijke Santa Rudolphs in je inventaris.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Het aantal vrouwelijke Santa Rudolphs in je inventaris.]]></item>
+    </category>
+  </category>
+</language>

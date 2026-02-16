@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Booster 30% EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[Z boosterem 30% otrzymasz o 30% więcej BZ przez 1 godzinę! Jeśli kupisz 2 takie same boostery, czas zostanie wydłużony. Wskazówka: Jeden booster 30% BZ i jeden booster 100% BZ są ważne jednocześnie i nagrodzą Cię o 130% więcej BZ przez całą godzinę.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[100% wzmacniacz EP]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[Z boosterem 100% BZ otrzymujesz o 100% więcej BZ przez całą godzinę! Jeśli kupisz 2 takie same boostery, czas działania zostanie wydłużony. Wskazówka: jeden booster 100% BZ i jeden booster 30% BZ są ważne jednocześnie, więc otrzymujesz o 130% więcej BZ przez całą godzinę!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30% wzmacniacz łap]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[Z 30% Paw Booster zyskujesz o 30% więcej Paws przez całą godzinę! Jeśli kupisz 2 takie same boostery, czas się wydłuży. Wskazówka: jeden 30% Paw Booster i jeden 100% Paw Booster są ważne jednocześnie, więc zyskujesz o 130% więcej Paws przez całą godzinę!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100% wzmacniacz łap]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[Z zestawem 100% Paw Booster zyskujesz o 100% więcej łapek przez całą godzinę! Kupując 2 takie same wzmacniacze, czas się wydłuży. Wskazówka: jeden zestaw 100% Paw Booster i jeden 30% Paw Booster są ważne jednocześnie, więc zyskujesz o 130% więcej łapek przez całą godzinę!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Wzmacniacz do gier planszowych]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[Z boosterem do gry planszowej otrzymasz dwukrotnie więcej przedmiotów kolekcjonerskich, które wyskoczą z pudełek na 1 godzinę! Jeśli chcesz wydłużyć ten czas, kup więcej boosterów.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[30% wzmacniacz zoocoinów]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[Z boosterem 30% otrzymasz 30% dodatkowych zoogrosów ze swoich sklepów przez 1 godzinę! Jeśli kupisz 2 takie same boostery, czas zostanie wydłużony. Wskazówka: Jeden booster 30% zoogrosów i jeden booster 100% zoogrosów są ważne jednocześnie i nagrodzą Cię 130% dodatkowych zoogrosów przez całą godzinę.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[100% wzmacniacz Zoocoin]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[Z boosterem 100% otrzymasz 100% dodatkowych zoogrosów ze swoich sklepów przez 1 godzinę! Jeśli kupisz 2 takie same boostery, czas zostanie wydłużony. Wskazówka: Jeden booster 100% zoogros i jeden booster 30% zoogros są ważne jednocześnie i nagrodzą Cię 130% dodatkowych zoogrosów przez całą godzinę.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Wzmacniacz stacji hodowlanej]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Rzadkie hybrydy w prosty sposób! Wzmacniacz Stacji Hodowlanej zapewni, że Twoje pisklęta osiągną co najmniej o jeden poziom wyższy niż najniższy poziom jednego z rodziców w ciągu 24 godzin. Ale uwaga: Wzmacniacz działa tylko wtedy, gdy odbierzesz pisklę ze Stacji Hodowlanej.]]></item>
+    </category>
+  </category>
+</language>

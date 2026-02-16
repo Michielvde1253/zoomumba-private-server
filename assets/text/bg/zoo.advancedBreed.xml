@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Здравейте! Аз съм Соня Старостлива, медицинска сестра тук в зоологическата градина. Нямате ли търпение да развъждате новите сладки малки? Ще ви обясня как работи! Първо, трябва да решите кои животински видове искате да развъждате.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Изберете две възрастни животни от инвентара си, които да станат родители. Колкото по-редки са, толкова по-вероятно е да имат още по-рядко бебе. Родителите обаче трябва да останат с мен за това размножаване.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Използването на допълнително събрани предмети, силна храна, супер храна или супер лекарство ще увеличи шансовете ви да отгледате особено рядко бебе. Колкото повече сърца има предметът, толкова по-голям е шансът!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Почти сте готови с подготовката! Проверете отново избора си, преди всичко да започне. Искате да промените нещо? Няма проблем, просто използвайте бутона „Назад“!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[В развъдния експеримент са използвани следните животни и предмети:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Развъдната станция е готова]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Тук се развъжда]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Ражда се бебе!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Бебетата са тук!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Започнете размножаване]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Използвайте есенция]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Наистина ли искате да започнете развъждане без никакви добавки? Помислете добре – с добавките имате по-голям шанс да получите рядко потомство.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Вие сте в разгара на подготовката. Наистина ли искате да напуснете развъдника?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Развъдна станция]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Тези животни раждат бебета в момента:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Оставащо време:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Същността на Толия]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Есенцията Толия съкращава времето за размножаване с 50%.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Ура - имаш бебе! Можеш да намериш това сладко мъниче в инвентара си:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Ура - имаш дете! Можеш да намериш това сладко дяволче в инвентара си:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Преместете мъничето в развъдника за животни, за да порасне.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Заведете малките в развъдника за животни, за да могат да пораснат.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Внимание: Развъждането е в ход! Ако преместите станцията в инвентара си сега, процесът ще бъде прекъснат и ще загубите всички животни и добавки. Сигурни ли сте, че искате да я преместите сега?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Внимание: Развъждането е в ход! Ако продадете станцията сега, процесът ще бъде прекъснат и всички животни и добавки ще бъдат загубени. Сигурни ли сте, че искате да продадете станцията сега?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Ако процесът на размножаване приключи след края на събитието, ще получите само 1 бебе.]]></item>
+    </category>
+  </category>
+</language>

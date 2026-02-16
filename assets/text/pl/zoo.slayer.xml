@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.slayer">
+    <category name="zoo.slayer.friends">
+      <item name="zoo.slayer.friends.title"><![CDATA[Przyjaciele]]></item>
+      <item name="zoo.slayer.friends.message"><![CDATA[Wyślij wiadomość do tego znajomego]]></item>
+      <item name="zoo.slayer.friends.delete"><![CDATA[Czy na pewno chcesz usunąć tego gracza ze swojej listy znajomych?]]></item>
+      <item name="zoo.slayer.friends.visit"><![CDATA[Odwiedź zoo swojego przyjaciela.]]></item>
+      <item name="zoo.slayer.friends.empty"><![CDATA[Zupełnie sam? Może zaproś szybko kilku znajomych do wspólnej gry? Więcej osób oznacza więcej zabawy!]]></item>
+    </category>
+    <category name="zoo.slayer.receivedInvites">
+      <item name="zoo.slayer.receivedInvites.title"><![CDATA[Otrzymano prośby o dodanie do znajomych]]></item>
+      <item name="zoo.slayer.receivedInvites.accept"><![CDATA[Zaakceptuj prośbę o dodanie do znajomych]]></item>
+      <item name="zoo.slayer.receivedInvites.deny"><![CDATA[Odrzuć prośbę o dodanie do znajomych]]></item>
+      <item name="zoo.slayer.receivedInvites.empty"><![CDATA[Niestety, nie masz żadnych nowych próśb o dodanie do grona znajomych.]]></item>
+    </category>
+    <category name="zoo.slayer.sentInvites">
+      <item name="zoo.slayer.sentInvites.title"><![CDATA[Wysłane prośby o dodanie do znajomych]]></item>
+      <item name="zoo.slayer.sentInvites.empty"><![CDATA[Nie wysłałeś żadnych zaproszeń do znajomych.]]></item>
+    </category>
+    <category name="zoo.slayer.add">
+      <item name="zoo.slayer.add.title"><![CDATA[Zaproś znajomych]]></item>
+      <item name="zoo.slayer.add.requested"><![CDATA[Brawo! Pomyślnie wysłałeś prośbę o dodanie do znajomych użytkownikowi %useName%.]]></item>
+      <item name="zoo.slayer.add.text"><![CDATA[Nie chcesz już grać w ZooMumbę sam i wolisz bawić się z innymi? Zaproś znajomych!]]></item>
+      <item name="zoo.slayer.add.byName"><![CDATA[Zaproś znajomych do gry w ZooMumba!]]></item>
+      <item name="zoo.slayer.add.byName.message"><![CDATA[Proszę wpisać nazwy użytkowników znajomych, aby wysłać prośbę o dodanie do grona znajomych.]]></item>
+      <item name="zoo.slayer.add.duplicated.message"><![CDATA[Podczas wyszukiwania znaleźliśmy więcej niż jedną nazwę użytkownika. Wybierz znajomego z listy:]]></item>
+      <item name="zoo.slayer.add.self"><![CDATA[Nie możesz dodać samego siebie do swojej listy znajomych!]]></item>
+      <item name="zoo.slayer.add.byMail"><![CDATA[Zaproś znajomych za pomocą poczty e-mail.]]></item>
+      <item name="zoo.slayer.add.byFB"><![CDATA[Zaproś znajomych przez Facebooka.]]></item>
+      <item name="zoo.slayer.add.button"><![CDATA[Zapraszać]]></item>
+    </category>
+  </category>
+</language>

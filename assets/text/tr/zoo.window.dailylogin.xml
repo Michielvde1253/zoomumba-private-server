@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.dailylogin">
+    <item name="zoo.window.dailylogin.title"><![CDATA[Günlük giriş bonusu]]></item>
+    <item name="zoo.window.dailylogin.info"><![CDATA[Her gün giriş yapın - buna değer! Her gün harika ödüller kazanın!]]></item>
+    <item name="zoo.window.dailylogin.reward"><![CDATA[Günlük ödülünüz:]]></item>
+    <item name="zoo.window.dailylogin.day"><![CDATA[Gün: %gün%]]></item>
+    <item name="zoo.window.dailylogin.eventshop"><![CDATA[Özel teklif]]></item>
+  </category>
+</language>

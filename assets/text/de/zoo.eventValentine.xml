@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Herzlich willkommen zu unserem Valentinstags-Event! Vom 8. bis 15. Februar erwartet euch eine romantische Atmosphäre! Viel Spaß beim Spielen unseres Valentinstags-Spiels und freut euch auf tolle Preise!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Hier erfahren Sie, wie es geht:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Kümmere dich um deine Tiere und sammle Valentinstags-Gegenstände: Herzen, Liebesbotschaften und Amors Pfeil und Bogen. Nutze sie, um im romantischen Valentinstagsspiel bezaubernde Überraschungen zu gewinnen!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Mit den gesammelten Gegenständen kannst du dich auf dem Spielfeld bewegen und Preise einsammeln: Majestätische Hirsche sowie Vorräte an Tolija-Essenz und Wachstumstränken erwarten dich!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Schaut auch im Shop vorbei – dort findet ihr nützliche Booster, die euch noch mehr Erfolg und Spielspaß garantieren!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Verdoppelt die Anzahl der Valentinstagsartikel für 1 Stunde.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Starte das Brettspiel neu.]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Unser Valentinstag-Event ist fast vorbei! Ihr erhaltet keine Schleifen, Briefe oder Herzen mehr. Aber gebt nicht auf! Ihr habt noch so viel Zeit, um Valentinstags-Belohnungen zu gewinnen:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Nachdem du nun Hirsch und Hirschkuh gewonnen hast, kannst du das Brettspiel von vorne beginnen! Klicke einfach auf das grüne Häkchen oder den „Neu“-Button auf dem Spielbrett!]]></item>
+    </category>
+  </category>
+</language>

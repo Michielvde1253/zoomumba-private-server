@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.powerUpItems">
+    <item name="zoo.powerUpItems.setName.7"><![CDATA[Poteforstærker]]></item>
+    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[Poteboosteren giver dig 50% flere poter i 5 timer. Den aktiveres umiddelbart efter valg.]]></item>
+  </category>
+</language>

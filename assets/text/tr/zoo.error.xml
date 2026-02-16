@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.error">
+    <category name="zoo.error.user">
+      <item name="zoo.error.user.unknown"><![CDATA[Bu oyuncu mevcut değil.]]></item>
+      <item name="zoo.error.user.notEnoughCr"><![CDATA[Bunun için yeterli zoodolarınız yok.]]></item>
+      <item name="zoo.error.user.notEnoughCv"><![CDATA[Bunun için yeterli zoogronuz yok.]]></item>
+      <item name="zoo.error.user.notRequiredLevel"><![CDATA[Gerekli seviyeye ulaşmadınız.]]></item>
+    </category>
+    <category name="zoo.error.login">
+      <item name="zoo.error.login.head"><![CDATA[Giriş hatası]]></item>
+      <item name="zoo.error.login.text"><![CDATA[Giriş yaparken bir hata oluştu. Lütfen bilgilerinizi kontrol edin ve tekrar deneyin.]]></item>
+      <item name="zoo.error.login.blocked"><![CDATA[Yönetici tarafından engellendiniz.]]></item>
+      <item name="zoo.error.login.100.title"><![CDATA[Hata]]></item>
+      <item name="zoo.error.login.100.info"><![CDATA[Bu hesapta bonus kodunu daha önce kullandınız, tekrar kullanmanız mümkün değil.]]></item>
+    </category>
+    <category name="zoo.error.conf">
+      <item name="zoo.error.conf.unknownObj"><![CDATA[Bilinmeyen nesne]]></item>
+      <item name="zoo.error.conf.notBuyable"><![CDATA[Bu ürün şu anda satın alınamaz.]]></item>
+      <item name="zoo.error.conf.notEvent"><![CDATA[Bu ürün şu anda geçerli değil.]]></item>
+    </category>
+    <category name="zoo.error.badData">
+      <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Özür dileriz!]]></item>
+      <item name="zoo.error.badData.dailyQuests.text"><![CDATA[Ah! Bir hata oluştu. Sorun ekibe bildirildi!]]></item>
+    </category>
+    <category name="zoo.error.field">
+      <item name="zoo.error.field.unknownObj"><![CDATA[Bu nesne oyunda mevcut değil.]]></item>
+      <item name="zoo.error.field.blocked"><![CDATA[Alan işgal edildi]]></item>
+      <item name="zoo.error.field.breedFailed"><![CDATA[Çiftleşme başarısız oldu. Maalesef hayvanlarınız hiç yavru dünyaya getirmedi.]]></item>
+      <item name="zoo.error.field.wrongSpecies"><![CDATA[Bu kafes için uygun bir hayvan değil.]]></item>
+      <item name="zoo.error.field.maxChildReached"><![CDATA[Maksimum yavru sayısına ulaştınız.]]></item>
+      <item name="zoo.error.field.maleAdultNeeded"><![CDATA[Bunun için bir erkeğe ihtiyacınız var.]]></item>
+      <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[Bunun için bir kadına ihtiyacınız var.]]></item>
+      <item name="zoo.error.field.maxAdultReached"><![CDATA[Maksimum yetişkin sayısına ulaştınız.]]></item>
+      <item name="zoo.error.field.buildingNotFinished"><![CDATA[Bu bina hala inşaat halinde.]]></item>
+    </category>
+    <category name="zoo.error.db">
+      <item name="zoo.error.db.failUpdate"><![CDATA[Veritabanı güncellemesi başarısız oldu.]]></item>
+    </category>
+    <category name="zoo.error.invite">
+      <item name="zoo.error.invite.requesterror"><![CDATA[Bir hata oluştu.]]></item>
+      <item name="zoo.error.invite.recruitexists"><![CDATA[Bu kullanıcıyı zaten davet ettiniz.]]></item>
+      <item name="zoo.error.invite.global"><![CDATA[Davet limiti doldu. Lütfen yeni bir davet gönderebilmek için 24 saat bekleyin (tüm oyunlar için geçerlidir).]]></item>
+      <item name="zoo.error.invite.instance"><![CDATA[Davet limiti doldu. Lütfen yeni bir davet gönderebilmek için 24 saat bekleyin (tüm oyunlar için geçerlidir).]]></item>
+      <item name="zoo.error.invite.error"><![CDATA[Bir hata oluştu... lütfen daha sonra tekrar deneyin.]]></item>
+    </category>
+  </category>
+</language>

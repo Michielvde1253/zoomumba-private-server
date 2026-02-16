@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Ara Arakanga]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[Questi allegri pappagalli sono molto chiacchieroni! Teneteli sempre in coppia o in gruppo. I visitatori adorano questi simpatici pappagalli con le loro piume dai colori vivaci!]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[fenicottero rosa]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[Questi splendidi animali rosa attirano l'attenzione dei visitatori. Il loro cibo principale è il plancton, ma apprezzano anche il pesce fresco. Una delizia per gli uccelli golosi!]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[Zebra di montagna]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[Strisce, strisce, strisce ovunque! È incredibile! In un mondo pieno di strisce zebrate, è un buon modo per mimetizzarsi, ma dalle nostre parti, le zebre hanno un aspetto piuttosto comico. Le zebre dovrebbero essere presenti in ogni zoo, quindi non lasciatevi ingannare!]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Rinoceronte]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[Questi grandi pachidermi sono solitari. Non c'è da stupirsi che indossino corna del genere! Nonostante il loro aspetto possente, raramente combattono. Tuttavia, è meglio tenere insieme solo un maschio e una femmina.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[Ippopotamo anfibio]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[Sulla terraferma sembrano dei goffi colossi, ma l'apparenza inganna. Fate attenzione a non farli arrabbiare, perché una volta che iniziano a correre, non è consigliabile intralciarli. Fortunatamente, sono animali tranquilli se la loro privacy viene rispettata.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Giraffa marmorizzata]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[Sempre in alto tra le nuvole! Le giraffe raggiungono i frutti più dolci proprio sulla cima degli alberi. Non c'è da stupirsi quindi che gli alberi siano ben pascolati. Con i loro lunghi colli, raggiungono altezze notevoli e amano mangiare soprattutto le giovani foglie verdi!]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[renna artica]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[Le renne vivono in branchi nell'estremo nord. Anche nelle dure condizioni artiche, queste impavide renne trovano un posto dove sopravvivere.]]></item>
+    </category>
+  </category>
+</language>

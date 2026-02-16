@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.gift">
+    <category name="zoo.window.gift.superFeedPack">
+      <item name="zoo.window.gift.superFeedPack.info"><![CDATA[Idag erbjuds superfoodpaket! Välj mellan 3 alternativ: "Bra start", "Mästare" och "Expert". Som expert kan du skicka ytterligare presenter till dina 5 vänner. Tveka inte!]]></item>
+    </category>
+    <category name="zoo.window.gift.recipients">
+      <item name="zoo.window.gift.recipients.headerGift"><![CDATA[Gåva]]></item>
+      <item name="zoo.window.gift.recipients.headerUsername"><![CDATA[Spelarens namn]]></item>
+      <item name="zoo.window.gift.recipients.headerUserID"><![CDATA[Spelar-ID]]></item>
+      <item name="zoo.window.gift.recipients.info"><![CDATA[Välj 5 vänner och skicka var och en en present:]]></item>
+      <item name="zoo.window.gift.recipients.button.send"><![CDATA[Gåva]]></item>
+    </category>
+    <category name="zoo.window.gift.unwrapped">
+      <item name="zoo.window.gift.unwrapped.title"><![CDATA[Det blir en överraskning!]]></item>
+      <item name="zoo.window.gift.unwrapped.text.1"><![CDATA[Du har fått följande gåva:]]></item>
+      <item name="zoo.window.gift.unwrapped.text.2"><![CDATA[Din gåva kommer att debiteras från ditt konto omedelbart efter uppackning.]]></item>
+    </category>
+  </category>
+</language>

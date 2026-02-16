@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Velkommen til det reisende sirkuset! Vi introduserer Mysterieboksen! Kjøp én boks og få ett av 10 dyr. Du kan ha opptil 20 bokser om gangen, og hver boks kan åpnes på opptil 5 timer. Kos deg!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Dyr:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Hjertelig gratulasjon!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[Følgende dyr er lagt til i beholdningen din: %animal%. Få enda flere mystiske kasser for å få enda flere unike dyr!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Å, vi beklager!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Du har allerede 20 mystiske kister. Vent til en av dem åpnes, og så skaff deg en ny kiste.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Mysterieboksen åpnes for: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Klikk for å se dyrene dine]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Velkommen tilbake!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Mens du var borte, ble dyrene dine tørste av den mystiske buret. Oppdretter Sonia tok seg av dem og brakte dem til inventaret sitt. Ta en rask titt!]]></item>
+  </category>
+</language>

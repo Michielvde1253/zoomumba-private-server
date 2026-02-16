@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.welcomeBack">
+    <item name="zoo.window.welcomeBack.title"><![CDATA[Vitaj späť, %username%!]]></item>
+    <item name="zoo.window.welcomeBack.info"><![CDATA[To je skvelé, že si späť! Tak poďme do práce! Tvoje zvieratká na teba netrpezlivo čakajú. Bude to opäť divoké! Ďalšie rozkošné prírastky, ďalšie nezvyčajné vtáky a množstvo nadšených návštevníkov. <br><br>A tiež si užiješ, čo pre teba zoo chystá:]]></item>
+    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Hurá! Rýchlo, nenechajte si ujsť ten šialený zhon!]]></item>
+  </category>
+</language>

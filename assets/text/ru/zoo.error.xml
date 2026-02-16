@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.error">
+    <category name="zoo.error.user">
+      <item name="zoo.error.user.unknown"><![CDATA[Такого игрока не существует.]]></item>
+      <item name="zoo.error.user.notEnoughCr"><![CDATA[У вас на это не хватит зоодаларовых денег.]]></item>
+      <item name="zoo.error.user.notEnoughCv"><![CDATA[У вас на это не хватит зоогросов.]]></item>
+      <item name="zoo.error.user.notRequiredLevel"><![CDATA[Вы не достигли необходимого уровня.]]></item>
+    </category>
+    <category name="zoo.error.login">
+      <item name="zoo.error.login.head"><![CDATA[Ошибка входа в систему]]></item>
+      <item name="zoo.error.login.text"><![CDATA[Произошла ошибка при входе в систему. Пожалуйста, проверьте свои данные и попробуйте снова.]]></item>
+      <item name="zoo.error.login.blocked"><![CDATA[Вы были заблокированы администратором.]]></item>
+      <item name="zoo.error.login.100.title"><![CDATA[Ошибка]]></item>
+      <item name="zoo.error.login.100.info"><![CDATA[Вы уже использовали бонусный код на этом аккаунте, повторное использование невозможно.]]></item>
+    </category>
+    <category name="zoo.error.conf">
+      <item name="zoo.error.conf.unknownObj"><![CDATA[Неизвестный объект]]></item>
+      <item name="zoo.error.conf.notBuyable"><![CDATA[В настоящее время товар недоступен для покупки.]]></item>
+      <item name="zoo.error.conf.notEvent"><![CDATA[Данный пункт в данный момент не применим.]]></item>
+    </category>
+    <category name="zoo.error.badData">
+      <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Приносим свои извинения!]]></item>
+      <item name="zoo.error.badData.dailyQuests.text"><![CDATA[Ой! Произошла ошибка. Проблема передана команде!]]></item>
+    </category>
+    <category name="zoo.error.field">
+      <item name="zoo.error.field.unknownObj"><![CDATA[Данный объект недоступен в игре.]]></item>
+      <item name="zoo.error.field.blocked"><![CDATA[Поле занято]]></item>
+      <item name="zoo.error.field.breedFailed"><![CDATA[Попытка размножения не удалась. К сожалению, ваши животные не дали потомства.]]></item>
+      <item name="zoo.error.field.wrongSpecies"><![CDATA[Это животное не подходит для данного вольера.]]></item>
+      <item name="zoo.error.field.maxChildReached"><![CDATA[Вы достигли максимального количества щенков.]]></item>
+      <item name="zoo.error.field.maleAdultNeeded"><![CDATA[Для этого нужен мужчина.]]></item>
+      <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[Для этого нужна женщина.]]></item>
+      <item name="zoo.error.field.maxAdultReached"><![CDATA[Вы достигли максимального количества взрослых.]]></item>
+      <item name="zoo.error.field.buildingNotFinished"><![CDATA[Это здание всё ещё находится в стадии строительства.]]></item>
+    </category>
+    <category name="zoo.error.db">
+      <item name="zoo.error.db.failUpdate"><![CDATA[Обновление базы данных не удалось.]]></item>
+    </category>
+    <category name="zoo.error.invite">
+      <item name="zoo.error.invite.requesterror"><![CDATA[Произошла ошибка.]]></item>
+      <item name="zoo.error.invite.recruitexists"><![CDATA[Вы уже пригласили этого пользователя.]]></item>
+      <item name="zoo.error.invite.global"><![CDATA[Достигнут лимит приглашений. Пожалуйста, подождите 24 часа, прежде чем вы сможете отправить еще одно приглашение (для всех игр).]]></item>
+      <item name="zoo.error.invite.instance"><![CDATA[Достигнут лимит приглашений. Пожалуйста, подождите 24 часа, прежде чем вы сможете отправить еще одно приглашение (для всех игр).]]></item>
+      <item name="zoo.error.invite.error"><![CDATA[Произошла ошибка... пожалуйста, попробуйте позже.]]></item>
+    </category>
+  </category>
+</language>

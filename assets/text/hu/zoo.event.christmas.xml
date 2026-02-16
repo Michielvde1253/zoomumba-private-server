@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[Boldog Karácsonyt!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[December 21-től január 2-ig az állatkertedben minden a karácsony körül forog! Díszítsd fel a karácsonyfádat, és segíts megmenteni a karácsonyt!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Először nevelj fel 8 repülő rénszarvast, majd egy Mikulás Rudolfot a szánjára. Minden elhozott rénszarvasért ajándékot kapsz.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Időről időre a Mikulás karácsonyfadíszeket is ad. Végül megtarthatod a feldíszített fádat.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Hurrá, van itt egy különleges karácsonyi kollekciónk is! Gondoskodj az állataidról és gyűjts karácsonyi ajándékokat. Akár rénszarvastenyésztésre is felhasználhatod őket!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Nagy meglepetések a karácsonyi boltban]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Változtasd át állatkertedet egy színes téli világgá: rengeteg új és népszerű karácsonyi dekorációval.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Kellemes karácsonyi ünnepeket és jó szórakozást a karácsonyi rendezvényen!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[Ez szörnyű! A Mikulás rénszarvasai elszöktek, és most nem tud ajándékokat kézbesíteni! Vegyél neki 8 repülő rénszarvast és a Mikulás Rudolfját, és helyezd őket a szánja elé. Hálából nagyszerű ajándékokat kapsz!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[A Mikulás úton van ide:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Ön nyert:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Nézd meg a karácsonyfádat a parkolóban!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Szerezz be valami új ruhát az avatárodnak!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Gyorsan, nézd át a készletedet!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Köszönöm!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[A rénszarvasaid alig várják, hogy útra kelhessenek. Neked köszönhetően megmentettük a karácsonyt!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Köszönöm!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Még mindig hiányzik néhány rénszarvasom, de itt az ideje, hogy útra keljek! Ne aggódjatok, megoldom majd - végül is én vagyok a Mikulás!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[A parkolódban lévő feldíszített karácsonyfa mostantól a készletedben van.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Először is, vigyünk 8 varázsrénszarvast a Mikulásnak.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[A Mikulásnak már 8 repülő rénszarvasa van, és már csak a Rudolfjára van szüksége!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[karácsonyi dekoráció]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Karácsonyi fittség]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Pár hóbagoly]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[A hím varázsrénszarvasok száma a készletedben.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[A nőstény repülő rénszarvasok száma a készletedben.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Mielőtt elhoznád a Mikulásnak Rudolfját, először 8 repülő rénszarvasra van szüksége.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[A férfi Mikulás Rudolfok száma a készletedben.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[A női Mikulás Rudolfok száma a készletedben.]]></item>
+    </category>
+  </category>
+</language>

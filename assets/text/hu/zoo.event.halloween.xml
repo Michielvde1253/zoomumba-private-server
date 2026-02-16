@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Szia! Lucka vagyok és imádom a denevéreket! De különösen az aranyos kicsinyeiket. Hozz nekem annyi kicsikét, amennyit csak tudsz, és lesznek igazán szép halloweeni tárgyaim számodra. Egyszerűen cseréld ki az édeseket, hogy a bal oldaliakat, vagy a savanyúakat, hogy a jobb oldaliakat kapd.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Leltár]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Válaszd ki, hogy hány %species% bébit szeretnél áthelyezni a készletedbe.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Elnézést kérünk!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Sajnos nincs elég denevérfióka a készletedben. Tenyéssz denevérfiókákat és helyezd át őket a készletedbe, hogy megvásárolhasd ezt a tárgyat.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Kis denevérek a leltárban]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Cserélj kis denevéreket édességekre]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Cseréld le a kis denevéreket savanyúakra]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Szám: Édes]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Fektess be %x% édességet a tárgy feloldásához]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Befektess %x% sour-t a tárgy feloldásához]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Szám: Savanyú]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Segítség]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Kölyök denevérek áthelyezése a leltárba]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Üdvözlünk a halloweeni eseményen!<br> <b>Október 25-től november 1-ig</b> egy hátborzongató buli veszi kezdetét az állatkertedben! Rengeteg ajándék és meglepetés vár rád. A következő lépésben meglátod, hogyan fog működni minden.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Gyűjts össze annyi <b>édes</b> és <b>savanyú</b> ízt, amennyit csak tudsz! Szükséged van az édes és savanyú ízre a szellemelőzetesek aktiválásához! A következő oldalon megtudod, hogyan működik az egész.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Ha elég édes és savanyú elemed van, akkor <b>tárgyakat</b> aktiválhatsz velük. De légy óvatos: az édességeknél balra, a savanyúaknál jobbra kell nézned. A szem megmutatja, melyik oldalon vannak aktiválva a tárgyak.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Aktivált tárgyakat szerezhetsz, ha <b>denevérkölykökre</b> cseréled őket. Nevelj sok aranyos denevért. A bekerített terület menüjében található új gomb segít gyorsan és egyszerűen menteni a kicsiket a készletedbe.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Érezd jól magad a hátborzongató boltban!<br> Minden türelmetlennek: Az édes-savanyú finomságokat denevérbébikre lehet cserélni a boltban. További meglepetések várnak rád a boltban.<br> <br>Érezd jól magad idén Halloweenkor!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[Itt az ideje egy kis hátborzongató mókának!<br><b>Október 31. és november 6.</b> között Halloween-buli lesz az állatkertedben!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Gyűjts össze annyi <b>tököt</b>, amennyit csak tudsz! Ki fognak pattanni a kifutóból, miközben gondoskodsz az állataidról.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Tedd őket a nagy tökös kosárba a <b>Tökös Csatánkhoz</b>. Minél több tököt szállítasz le, annál félelmetesebb jutalmakat nyerhetsz.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Miközben gondoskodsz az állataidról, jutalomfalatok fognak előbukkanni a kifutókon található tárgyakból. Mindannyian együtt begyűjthetitek őket. Az akciósáv feltöltődik, és egy lebegő szem mutatja, milyen hátborzongató nyeremények érhetők el mindenki számára. Kattints a jutalomra, miután aktiválódott.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Gyűjts tököket a nagy tökös csatára. Minél többet gyűjtesz, annál több nyereményt nyerhetsz.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Mindenki együtt játszik! Az összes állatkertből származó ajándékok feltöltik a mérőórát, és automatikusan feloldják a nyereményeket mindenki számára!]]></item>
+    </category>
+  </category>
+</language>

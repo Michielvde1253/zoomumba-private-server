@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bank">
+    <item name="zoo.window.bank.title"><![CDATA[Eläintarhan pankki]]></item>
+    <item name="zoo.window.bank.info"><![CDATA[Hyvin hallitsevat menestyvät! Osta arvokkaita zoodollareita zoobankista tai hyödynnä houkuttelevia Premium-tarjouksiamme!]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.title"><![CDATA[Osta<br>zoodollareita]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.info"><![CDATA[Onko pelin sisäinen valuutta vähissä? Niin voi käydä! Niiden, jotka haluavat menestyä, on investoitava!]]></item>
+    <item name="zoo.window.bank.button.premium.title"><![CDATA[Premium-paketti]]></item>
+    <item name="zoo.window.bank.button.premium.info"><![CDATA[Käytä Premium-etuja houkutellaksesi lisää kävijöitä eläintarhaasi. Kokeile!]]></item>
+    <item name="zoo.window.bank.button.startpaket.title"><![CDATA[Avustajat]]></item>
+    <item name="zoo.window.bank.button.startpaket.info"><![CDATA[Etkö halua tehdä kaikkea itse? Ei hätää! Eläintarhan avustajat auttavat sinua!]]></item>
+    <item name="zoo.window.bank.button.cashaction.title"><![CDATA[Rahaa toiminnasta]]></item>
+    <item name="zoo.window.bank.button.cashaction.info"><![CDATA[Tarvitsetko taloudellista piristystä? Täältä löydät upeita tarjouksia! Valitse palveluntarjoaja ja nappaa zoodollareita!]]></item>
+    <item name="zoo.window.bank.currency.title"><![CDATA[Valuuttatoimisto]]></item>
+    <item name="zoo.window.bank.currency.info"><![CDATA[Vaihda zoodollarisi zoogrosheiksi ja kerrytä tilillesi riittävästi varantoja.]]></item>
+    <item name="zoo.window.bank.exchange.btnLabel"><![CDATA[Vaihtaa]]></item>
+  </category>
+</language>

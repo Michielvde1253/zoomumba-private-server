@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.premium">
+    <category name="zoo.premium.title">
+      <item name="zoo.premium.title.0"><![CDATA[Edustaja David]]></item>
+      <item name="zoo.premium.title.1"><![CDATA[Krmić Honza]]></item>
+      <item name="zoo.premium.title.2"><![CDATA[Virtalähde Pavel]]></item>
+      <item name="zoo.premium.title.3"><![CDATA[Siivooja Slavek]]></item>
+      <item name="zoo.premium.title.4"><![CDATA[Kasvattaja Soňa]]></item>
+      <item name="zoo.premium.title.5"><![CDATA[Roskienkerääjä Jirka]]></item>
+      <item name="zoo.premium.title.6"><![CDATA[Kassa Kešík]]></item>
+      <item name="zoo.premium.title.7"><![CDATA[Tohtori Lynn]]></item>
+      <item name="zoo.premium.title.11"><![CDATA[Suurempi eläintarha]]></item>
+      <item name="zoo.premium.title.12"><![CDATA[Maxi-eläintarhan laajennus]]></item>
+      <item name="zoo.premium.title.13"><![CDATA[Eläintarhan laajennus]]></item>
+      <item name="zoo.premium.title.14"><![CDATA[Eläintarhan laajennus]]></item>
+      <item name="zoo.premium.title.15"><![CDATA[Pääsiäispupu]]></item>
+      <item name="zoo.premium.title.16"><![CDATA[Pääsiäisapulainen]]></item>
+      <item name="zoo.premium.title.23"><![CDATA[Syntymäpäiväkakku]]></item>
+      <item name="zoo.premium.title.126"><![CDATA[Eläintarhan maksimaalinen laajennus]]></item>
+      <item name="zoo.premium.title.29"><![CDATA[Eläintarhan maksimaalinen laajennus]]></item>
+      <item name="zoo.premium.title.30"><![CDATA[Eläintarhan maksimaalinen laajennus]]></item>
+      <item name="zoo.premium.title.125"><![CDATA[Eläintarhan laajennus]]></item>
+      <item name="zoo.premium.title.35"><![CDATA[Eläintarhan laajennus]]></item>
+      <item name="zoo.premium.title.36"><![CDATA[Eläintarhan laajennus]]></item>
+      <item name="zoo.premium.title.37"><![CDATA[Eläintarhan maksimaalinen laajennus]]></item>
+      <item name="zoo.premium.title.38"><![CDATA[Eläintarhan maksimaalinen laajennus]]></item>
+      <item name="zoo.premium.title.123"><![CDATA[Hapan]]></item>
+      <item name="zoo.premium.title.124"><![CDATA[Makea]]></item>
+      <item name="zoo.premium.title.128"><![CDATA[Syntymäpäiväkakku]]></item>
+      <item name="zoo.premium.title.130"><![CDATA[Eläintarhan laajennus]]></item>
+      <item name="zoo.premium.title.132"><![CDATA[Eläintarhan laajennus]]></item>
+      <item name="zoo.premium.title.2001"><![CDATA[Tynnyri vettä]]></item>
+      <item name="zoo.premium.title.2002"><![CDATA[Vesitorni]]></item>
+      <item name="zoo.premium.title.2003"><![CDATA[Lähdevesi]]></item>
+      <item name="zoo.premium.title.2004"><![CDATA[Säilytyslaatikko]]></item>
+      <item name="zoo.premium.title.2005"><![CDATA[Varasto]]></item>
+      <item name="zoo.premium.title.2006"><![CDATA[Maanalainen varasto]]></item>
+    </category>
+    <category name="zoo.premium.infoText">
+      <item name="zoo.premium.infoText.0"><![CDATA[Jos palkkaat kuusi avustajaa (pois lukien tohtori Lynn), sinulla on apunasi toinen johtaja ja henkilökuntaa. Napsauta vain, niin kuusi avustajaa ryhtyvät töihin.]]></item>
+      <item name="zoo.premium.infoText.1"><![CDATA[Ruokinta-avustaja John varmistaa, että eläimesi ovat aina hyvin ruokittuja ja onnellisia. Jos sinulla on tarpeeksi zoogros-eläimiä ruokittavaksi, napsauta häntä, niin John työskentelee ahkerasti ja luotettavasti.]]></item>
+      <item name="zoo.premium.infoText.2"><![CDATA[Pavel huolehtii eläinten juottamisesta. Jos napsautat häntä, hän toimittaa eläimillesi säännöllisesti vettä. Mutta vain jos sinulla on tarpeeksi zoogroja.]]></item>
+      <item name="zoo.premium.infoText.3"><![CDATA[Siivooja Slávek huolehtii eläimiesi hygieniasta ja puhtaudesta. Jos napsautat häntä, hän siivoaa aitaukset ja tarjoaa eläimillesi viihtyisän kodin.]]></item>
+      <item name="zoo.premium.infoText.4"><![CDATA[Kaikki odottavat innolla Soniaa! Klikkaa häntä ja palkkaa hänet: Hän halailee eläimiäsi, joten ne eivät tylsisty ja hehkuvat tyytyväisyydestä.]]></item>
+      <item name="zoo.premium.infoText.5"><![CDATA[Jirka lakaisee ahkerasti jokaisen polun eikä jätä yhtäkään roskakoria huomaamatta. Tavaran on oltava siistiä, jotta vierailijat eivät palaa laiminlyötyyn eläintarhaan. Palkkaa hänet yhdellä napsautuksella, niin hän hoitaa kaiken työn.]]></item>
+      <item name="zoo.premium.infoText.6"><![CDATA[Fiksu apina Kešík on hyvä numeroiden kanssa: Klikkaa häntä ja palkkaa hänet. Hän tuo sinulle tuloja kaikista rakentamistasi kaupoista ja rakennuksista.]]></item>
+      <item name="zoo.premium.infoText.7"><![CDATA[Tohtori Lynn on vastuussa eläimiesi terveydestä. Kun napsautat häntä, hän toimittaa sopivan lääkkeen kaikille sairaille eläimille!]]></item>
+      <item name="zoo.premium.infoText.11"><![CDATA[Eläintarhasi kasvaa tasolta %nextExpandLevel% alkaen. Eikö sinulla ole halua odottaa? Joten laajenna eläintarhaasi nyt.]]></item>
+      <item name="zoo.premium.infoText.12"><![CDATA[Älä tuhlaa aikaa ja laajenna eläintarhaasi 100 % yhdellä napsautuksella! Maxi-eläintarhalaajennuksella säästät välivaiheet ja saat heti käyttöösi maksimialueen. Älä epäröi!]]></item>
+      <item name="zoo.premium.infoText.13"><![CDATA[Osta piilotetun eläintarhasi laajennuksia eläintarhadollareilla.]]></item>
+      <item name="zoo.premium.infoText.14"><![CDATA[Vaihda keräämiäsi työkaluja laajentaaksesi piilotettua eläintarhaasi.]]></item>
+      <item name="zoo.premium.infoText.15"><![CDATA[Pääsiäispupu pudottelee munia eläintarhassasi 21.–27. huhtikuuta. Kerää munia ja vaihda ne pääsiäisaitauskoristeisiin, pääsiäispupuihin ja pääsiäisaitauksiin.]]></item>
+      <item name="zoo.premium.infoText.16"><![CDATA[Kuinka käytännöllistä! Pääsiäisapulainen Sonja auttaa sinua keräämään munia 21.–27. huhtikuuta. Vaikka kirjautuisit ulos! Voit sitten vaihtaa munat pääsiäisaiheisiin, pääsiäispupuihin ja pääsiäisaiheisiin.]]></item>
+      <item name="zoo.premium.infoText.23"><![CDATA[Osta tämä kakku saadaksesi syntymäpäiväpäivityksen koteloihisi nopeammin. Saat näin enemmän ilmapalloja ja voit myös saada lisää syntymäpäiväpalkintoja.]]></item>
+      <item name="zoo.premium.infoText.29"><![CDATA[Älä tuhlaa aikaa ja laajenna eläintarhasi 100 %:iin yhdellä napsautuksella! Maksimaalisen eläintarhan laajennuksen avulla säästyt vaivalloisilta välivaiheilta ja saat heti käyttöösi maksimialueen. Älä epäröi!]]></item>
+      <item name="zoo.premium.infoText.30"><![CDATA[Älä tuhlaa aikaa ja laajenna eläintarhaasi 100 % yhdellä napsautuksella! Maxi-eläintarhalaajennuksella säästät välivaiheet ja saat heti käyttöösi maksimialueen. Älä epäröi!]]></item>
+      <item name="zoo.premium.infoText.35"><![CDATA[Laajenna eläintarhaasi zoodollareilla.]]></item>
+      <item name="zoo.premium.infoText.125"><![CDATA[Osta laajennus tälle eläintarhalle zoodollareilla.]]></item>
+      <item name="zoo.premium.infoText.36"><![CDATA[Laajenna eläintarhaasi keräämilläsi työkaluilla.]]></item>
+      <item name="zoo.premium.infoText.126"><![CDATA[Älä tuhlaa aikaa ja laajenna eläintarhaasi 100 % yhdellä napsautuksella! Maxi-eläintarhalaajennuksella säästät välivaiheet ja saat heti käyttöösi maksimialueen. Älä epäröi!]]></item>
+      <item name="zoo.premium.infoText.37"><![CDATA[Älä tuhlaa aikaa ja laajenna eläintarhaasi 100 % yhdellä napsautuksella! Maxi-eläintarhalaajennuksen avulla säästät itseltäsi välivaiheet ja saat heti käyttöösi maksimialueen. Älä epäröi!]]></item>
+      <item name="zoo.premium.infoText.38"><![CDATA[Älä tuhlaa aikaa ja laajenna eläintarhaasi 100 % yhdellä napsautuksella! Maxi-eläintarhalaajennuksen avulla säästät itseltäsi välivaiheet ja saat heti käyttöösi maksimialueen. Älä epäröi!]]></item>
+      <item name="zoo.premium.infoText.123"><![CDATA[Vaihda pienet lepakot happamiin avataksesi uusia Halloween-palkintoja.]]></item>
+      <item name="zoo.premium.infoText.124"><![CDATA[Vaihda pieniä lepakoita makeisiin avataksesi uusia Halloween-palkintoja.]]></item>
+      <item name="zoo.premium.infoText.128"><![CDATA[Osta tämä kakku saadaksesi syntymäpäiväpäivityksen koteloihisi nopeammin. Saat näin enemmän ilmapalloja ja voit myös saada lisää syntymäpäiväpalkintoja.]]></item>
+      <item name="zoo.premium.infoText.130"><![CDATA[Osta Rannikkoeläintarhan laajennus eläintarhadollareilla.]]></item>
+      <item name="zoo.premium.infoText.132"><![CDATA[Hanki Undersea World -laajennus Zoodollarsilla.]]></item>
+      <item name="zoo.premium.infoText.2001"><![CDATA[Tämä vesitynnyri on mukava lisä eläintarhaan ja tuo siihen maalaismaista tunnelmaa.]]></item>
+      <item name="zoo.premium.infoText.2002"><![CDATA[Mikä jättiläinen! Tämä vesitorni näkyy kauas.]]></item>
+      <item name="zoo.premium.infoText.2003"><![CDATA[Se virtaa nyt. Vesilähde tarjoaa virkistävää vettä eläintarhallesi. Vesi, virtaa vain!]]></item>
+      <item name="zoo.premium.infoText.2004"><![CDATA[Käytännöllistä! Säilytyslaatikot sopivat täydellisesti kiipeilyyn, istumiseen ja leikkimiseen. Lapset rakastavat puisia laatikoita.]]></item>
+      <item name="zoo.premium.infoText.2005"><![CDATA[Todella mahtavaa! Navetta on loistava paikka leikkiä piilosta. Ja talvella siellä on runsaasti tilaa heinäpaaleille.]]></item>
+      <item name="zoo.premium.infoText.2006"><![CDATA[Hieno varastotila! Maanalaisessa varastotilassa on paljon mielenkiintoisia asioita. Mutta ennen kaikkea tämä varastotila on hyvin salaperäinen... mitä siellä on piilotettu?]]></item>
+    </category>
+    <category name="zoo.premium.window.renew">
+      <item name="zoo.premium.window.renew.text"><![CDATA[Voi ei! Tämän avustajan työsopimus on päättynyt. Haluatko jatkaa sopimusta?]]></item>
+    </category>
+    <category name="zoo.premium.elixir">
+      <item name="zoo.premium.elixir.title"><![CDATA[Tolijan olemus]]></item>
+      <item name="zoo.premium.elixir.text"><![CDATA[Jalostuksessa käytetty salainen resepti lyhentää jalostusprosessia 50 %]]></item>
+    </category>
+    <category name="zoo.premium.breedingLab">
+      <item name="zoo.premium.breedingLab.title"><![CDATA[Kasvatusasema]]></item>
+      <item name="zoo.premium.breedingLab.text"><![CDATA[Aseta jalostusasema pää- tai salaiseen eläintarhaasi harvinaisten eläinten kasvattamiseksi.]]></item>
+    </category>
+    <category name="zoo.premium.nursery">
+      <item name="zoo.premium.nursery.title"><![CDATA[Eläinten päiväkoti]]></item>
+      <item name="zoo.premium.nursery.text"><![CDATA[Sijoita kasvatusasema pää- tai salaiseen eläintarhaasi, jotta poikasi voivat kasvaa.]]></item>
+    </category>
+    <category name="zoo.premium.assist.title">
+      <item name="zoo.premium.assist.title.0"><![CDATA[Edustaja David]]></item>
+      <item name="zoo.premium.assist.title.1"><![CDATA[Krmić Honza]]></item>
+      <item name="zoo.premium.assist.title.2"><![CDATA[Virtalähde Pavel]]></item>
+      <item name="zoo.premium.assist.title.3"><![CDATA[Siivooja Slavek]]></item>
+      <item name="zoo.premium.assist.title.4"><![CDATA[Kasvattaja Soňa]]></item>
+      <item name="zoo.premium.assist.title.5"><![CDATA[Roskienkerääjä Jirka]]></item>
+      <item name="zoo.premium.assist.title.6"><![CDATA[Kassatyöntekijä, talousassistentti]]></item>
+      <item name="zoo.premium.assist.title.7"><![CDATA[Tohtori Lynn]]></item>
+      <item name="zoo.premium.assist.title.8"><![CDATA[Jindra]]></item>
+      <item name="zoo.premium.assist.title.9"><![CDATA[Matteus]]></item>
+      <item name="zoo.premium.assist.title.10"><![CDATA[Frant]]></item>
+      <item name="zoo.premium.assist.title.11"><![CDATA[Jenni]]></item>
+    </category>
+    <category name="zoo.premium.assist.infoText">
+      <item name="zoo.premium.assist.infoText.0"><![CDATA[Jos palkkaat kuusi avustajaa (pois lukien tohtori Lynn), apulaisjohtaja auttaa sinua henkilökunnan kanssa. Klikkaa heitä, niin he kaikki ryhtyvät heti töihin.]]></item>
+      <item name="zoo.premium.assist.infoText.1"><![CDATA[Feeder Honza varmistaa, että eläimesi ruokitaan aina – kunhan sinulla on tarpeeksi zoogroja näiden kustannusten kattamiseen.]]></item>
+      <item name="zoo.premium.assist.infoText.2"><![CDATA[Klikkaa Pavelia, niin hän hoitaa eläinten yhdistämisen – edellyttäen, että sinulla on tarpeeksi zoogroja kattamaan nämä kustannukset.]]></item>
+      <item name="zoo.premium.assist.infoText.3"><![CDATA[Siivooja Slávek huolehtii eläimiesi hygieniasta ja puhtaudesta. Kun napsautat häntä, hän siivoaa aitauksesi ja tarjoaa eläimillesi viihtyisän kodin.]]></item>
+      <item name="zoo.premium.assist.infoText.4"><![CDATA[Kasvattaja Soňa huolehtii eläimistäsi, halaa niitä ja tarjoaa niille ansaitsemaansa rakkautta. Klikkaa häntä ja katso hänen työtään!]]></item>
+      <item name="zoo.premium.assist.infoText.5"><![CDATA[Jirka lakaisee ahkerasti jokaisen polun eikä jätä yhtäkään roskakoria huomaamatta. Järjestys on pidettävä yllä. Palkkaa hänet yhdellä klikkauksella, niin hän ryhtyy heti töihin!]]></item>
+      <item name="zoo.premium.assist.infoText.6"><![CDATA[Fiksu apina Kešík on hyvä numeroiden kanssa. Klikkaa häntä, niin hän kerää sinulle tulot kaikista eläintarhan rakennuksista!]]></item>
+      <item name="zoo.premium.assist.infoText.7"><![CDATA[Tohtori Lynn on vastuussa eläimiesi terveydestä. Kun napsautat häntä, hän toimittaa sopivan lääkkeen kaikille sairaille eläimille!]]></item>
+      <item name="zoo.premium.assist.infoText.8"><![CDATA[Klikkaa Jindraa, niin hän ruokkii kaikki merieläimesi! Levää, planktonia tai kalaruokaa - Jindra tietää mitä tehdä!]]></item>
+      <item name="zoo.premium.assist.infoText.9"><![CDATA[Matejilla on aina letku kädessään! Klikkaa häntä, niin hän täyttää vesisäiliösi, mutta varmista, että sinulla on tarpeeksi resursseja kustannusten kattamiseen!]]></item>
+      <item name="zoo.premium.assist.infoText.10"><![CDATA[Franta on allasteknikko. Klikkaa häntä, niin hän puhdistaa vesialueesi, vaihtaa suodattimet ja varmistaa, että vesi on puhdasta ja turvallista kaikille eläimille.]]></item>
+      <item name="zoo.premium.assist.infoText.11"><![CDATA[Janička on merinisäkkäiden kouluttaja. Hän leikkii eläinten kanssa ja opettaa niille erilaisia ​​temppuja! Klikkaa häntä ja palkkaa hänet.]]></item>
+    </category>
+  </category>
+</language>

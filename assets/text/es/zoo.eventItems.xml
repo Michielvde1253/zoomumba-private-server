@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Jack-o'-lantern]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Las espeluznantes calabazas talladas, llamadas Jack-o-lanterns, brillan en la oscuridad de la noche de Halloween. Su horrible mueca se vuelve aún más aterradora con la luz parpadeante de las velas. ¡Uuu!]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[árbol de Navidad]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[¡Ha crecido un esbelto abeto! Un árbol decorado para las fiestas, con regalos de Navidad incluidos.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Corazón]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[¡Que te traiga buena suerte! En muchos países, la gente cree que besar a un deshollinador en San Valentín les traerá mucha suerte.]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Torta de cumpleaños]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[¡Mmm! ¿Qué sería de un cumpleaños sin un capricho calórico?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Torta de cumpleaños]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[¡Mmm! ¿Qué sería de un cumpleaños sin este capricho calórico?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Pila de huevos de Pascua]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[Una bonita colección de huevos de Pascua. Antiguamente, se usaban huevos de gallina pintados. Hoy en día, los huevos de chocolate son más comunes.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Huevo arcoiris]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Huevos de Pascua especialmente adaptados para que niños con discapacidad visual participen en la búsqueda de Pascua. Los huevos emiten un pitido o tocan una melodía.]]></item>
+  </category>
+</language>

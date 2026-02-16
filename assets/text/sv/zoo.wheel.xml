@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Extra försök]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Woohoo, du har ett extra försök!<br> För varje dag du loggar in får du ett extra snurr på lyckohjulet.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Klicka och pröva lyckan!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Eller klicka på byggnaden med lyckohjulet i staden. Varje snurr garanterar fantastiska belöningar!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Ytterligare försök]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Vill du köpa ett nytt försök?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Grattis!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Jippie! Du vann:]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Snurra igen, du kan bara vinna på lyckohjulet!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Matare John i 1 timme]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Vattenleverantör Paul i 1 timme]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Vaktmästare Stanley i 1 timme]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Uppfödare Sonja i 1 timme]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Sopsamlare George i 1 timme]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Kassör Kassör i 1 timme]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Matare John i 3 timmar]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Vattenleverantör Paul i 3 timmar]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Vaktmästare Stanley i 3 timmar]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Uppfödare Sonja i 3 timmar]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Sopsamlare George i 3 timmar]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Kassör Kassör i 3 timmar]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[30 % EP-bonus i hela 8 timmar!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100 % EP-bonus i hela 8 timmar!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50 % tassbonus i hela 5 timmar!]]></item>
+    </category>
+  </category>
+</language>

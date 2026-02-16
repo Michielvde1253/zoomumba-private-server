@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Extra kísérlet]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Hurrá, kaptál egy plusz próbálkozást!<br> Minden bejelentkezés után kapsz egy plusz pörgetést a szerencsekeréken.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Kattints és próbáld ki a szerencsédet!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Vagy kattints a városban található szerencsekerékkel ellátott épületre. Minden pörgetés nagyszerű jutalmat garantál!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[További próbálkozások]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Szeretne még egy próbálkozást vásárolni?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Gratulálok!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Jaj! Te nyertél:]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Pörgess újra, a szerencsekeréken csak nyerhetsz!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Etető John 1 órán át]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Vízszolgáltató Paul 1 órára]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Stanley takarító 1 órára]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Tenyésztő Sonja 1 órán át]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Szemétszállító George 1 órára]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Pénztáros Cashy 1 órán át]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Etető John 3 órán át]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Vízszolgáltató Paul 3 órán át]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Stanley takarító 3 órán át]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Tenyésztő Sonja 3 órán át]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Szemétszállító George 3 órán át]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Pénztáros Cashy 3 órán át]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[30% EP bónusz teljes 8 órán keresztül!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100% EP bónusz teljes 8 órán keresztül!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50% mancs bónusz 5 teljes órán keresztül!]]></item>
+    </category>
+  </category>
+</language>

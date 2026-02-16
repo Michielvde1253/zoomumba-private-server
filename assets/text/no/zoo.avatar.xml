@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.avatar">
+    <item name="zoo.avatar.heads"><![CDATA[Lag din egen avatar her og vis den til vennene dine! Har du allerede valgt kjønn? Bestem deg deretter for ansiktstrekkene dine!]]></item>
+    <item name="zoo.avatar.eyes"><![CDATA[Øyet er et vindu til sjelen! Hvilke passer deg best?]]></item>
+    <item name="zoo.avatar.mouths"><![CDATA[Smiler, ler, gliser ... Munnen din viser andre hvordan du føler deg!]]></item>
+    <item name="zoo.avatar.hair"><![CDATA[Hårfarge og frisyre kan endre utseendet ditt fullstendig!]]></item>
+    <item name="zoo.avatar.hats"><![CDATA[Hodeplagg (?) kan få deg til å se viktig ut!]]></item>
+    <item name="zoo.avatar.clothes"><![CDATA[Velg passende antrekk til dyrehagen.]]></item>
+  </category>
+</language>

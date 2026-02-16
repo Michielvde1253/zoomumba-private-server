@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Strada sterrata]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Questo sentiero di ghiaia collega i recinti del tuo zoo. Una rete di sentieri di qualità aiuta i visitatori a orientarsi e li conduce a tutti i recinti.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Marciapiede blu e bianco]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Questo sentiero in ciottoli blu e bianchi non è solo bello da vedere, ma è anche un'ottima superficie per passeggini, monopattini e pattini a rotelle. Movimento fluido e divertimento di qualità, davvero fantastico!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Strada di sabbia]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[Nella steppa raramente ci sono strade asfaltate. Vuoi che il tuo zoo assomigli alla natura selvaggia!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Marciapiede rosa e bianco]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Che meraviglia: questo sentiero in pietra, realizzato con preziose pietre rosa a mosaico, è davvero speciale. La passerella perfetta per chi indossa tacchi alti.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Marciapiede bianco e nero]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Pietre preziose bianche e nere, disposte a mosaico, costeggiano splendidamente questo sentiero. Lavorate con grande cura, diventano un gioiello per il vostro zoo.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[La strada rocciosa]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Proprio come in natura, piccoli ciuffi d'erba crescono tra le pietre. Non è un'esperienza per i pedanti, ma gli amanti della natura ne saranno sicuramente entusiasti.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[sentiero di ciottoli]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Questo sentiero di ghiaia è bello e sono sicuro che nessuno ci scivolerà sopra. Sicuro e bello, cosa si può desiderare di più?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Strada sterrata]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[I sentieri sterrati sono molto popolari in Africa. Conferiscono autenticità al tuo zoo e faranno sentire molti animali a casa.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Via d'acqua]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Schizzi, schizzi, schizzi! Indossa gli stivali di gomma, gonfia il gommone e prendi una paperella di gomma: ci sarà un sacco di acqua durante questa escursione!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Strada ghiacciata]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Evviva! Una strada ghiacciata: sarà divertente! I vostri ospiti si divertiranno un mondo a scivolare sulla pista ghiacciata. Attenzione, non è salata!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Savannah Road]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[Un sentiero ben battuto si snoda attraverso la savana, rendendola ideale per la ricerca di tracce come durante un safari.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Strada del deserto]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Sotto il calore cocente del sole, la sabbia soffia sul deserto, cancellandone ogni traccia.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[sentiero di pietra]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Questo sentiero è piuttosto accidentato. Ci sono grandi pietre e massi, quindi è indispensabile indossare buone calzature. Attenzione a non cadere!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Sentiero della tundra]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[Su questo sentiero i visitatori avranno bisogno di una bussola, ma è consigliabile anche attenersi al sentiero battuto.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Strada innevata]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[La neve appiccicosa ricopre il sentiero innevato, che i vostri visitatori percorreranno con i loro caldi stivali. Qui è tutto così bello!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Sentiero nel deserto]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[Nella natura selvaggia, è meglio rimanere sulla strada. Ci sono tossine e rifiuti ovunque. Stivali di gomma con buone suole sono d'obbligo!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[percorso alpino]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Questo sentiero escursionistico vi porterà su e giù per le Alpi. Delle buone scarpe con un buon supporto per la caviglia vi proteggeranno dalle cadute!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Sentiero della grotta]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Tieni gli occhi aperti per non scivolare. Forse noterai un granello d'oro scintillante tra le pietre.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Sentiero nel bosco]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[Nei giorni di pioggia il sentiero può essere un po' fangoso, ma in estate la foresta è assolutamente idilliaca.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Strada costiera]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Camminare a piedi nudi sulla sabbia scintillante, sulle conchiglie, sulle alghe e, ogni tanto, su qualche stella marina fa molto bene alla salute!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Sentiero magico]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[Il sentiero blu brillante, che sembra fuori dal mondo, può sembrare spaventoso, ma è anche avventuroso. Dove porta?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Sentiero di Sugar Land]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Briciola! Ops! Hai calpestato una caramella? Fai attenzione, ci sono gomme da masticare lungo il percorso! Che colori meravigliosi!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Sentiero nella foresta di bambù]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[La nebbia aleggia attraverso una vasta, quasi impenetrabile foresta di bambù. In lontananza si sente il ticchettio di un picchio. Semplicemente idilliaco!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Sentiero forestale]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Se non volete dondolarvi da una liana all'altra in questa giungla, potete camminare lungo questo sentiero ben battuto. Fate attenzione: di tanto in tanto, un serpente o un ragno potrebbero attraversare il sentiero.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[Il sentiero attraverso la palude]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[I tuoi visitatori dovrebbero ricordarsi di rimanere sul sentiero giusto nella palude. Un passo falso e cadranno nel fango!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[piattaforma di legno]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Non c'è niente di meglio che camminare lungo un molo di legno e sentire lo scricchiolio del ponte di una nave. I vostri ospiti vivranno una vera esperienza costiera.]]></item>
+  </category>
+</language>

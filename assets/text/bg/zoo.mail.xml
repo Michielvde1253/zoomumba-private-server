@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.mail">
+    <category name="zoo.mail.tabs">
+      <item name="zoo.mail.tabs.inbox"><![CDATA[Входяща поща]]></item>
+      <item name="zoo.mail.tabs.outbox"><![CDATA[Изходяща поща]]></item>
+      <item name="zoo.mail.tabs.newMail"><![CDATA[Ново съобщение]]></item>
+      <item name="zoo.mail.tabs.contactList"><![CDATA[Адресна книга]]></item>
+    </category>
+    <category name="zoo.mail.general">
+      <item name="zoo.mail.general.pagination"><![CDATA[Страница %x% от %y%]]></item>
+      <item name="zoo.mail.general.message"><![CDATA[Съобщение]]></item>
+      <item name="zoo.mail.general.send"><![CDATA[Изпрати]]></item>
+      <item name="zoo.mail.general.close"><![CDATA[Затвори]]></item>
+      <item name="zoo.mail.general.userWrote"><![CDATA[%потребител% написа:]]></item>
+      <item name="zoo.mail.general.userSent"><![CDATA[Писахте на играч %user%:]]></item>
+    </category>
+    <category name="zoo.mail.column">
+      <item name="zoo.mail.column.action"><![CDATA[Действие]]></item>
+      <item name="zoo.mail.column.messageSender"><![CDATA[Изпращач]]></item>
+      <item name="zoo.mail.column.messageReceiver"><![CDATA[Получател]]></item>
+      <item name="zoo.mail.column.messageTitle"><![CDATA[Тема]]></item>
+      <item name="zoo.mail.column.messageDate"><![CDATA[Дата]]></item>
+      <item name="zoo.mail.column.playerName"><![CDATA[Име на играча]]></item>
+      <item name="zoo.mail.column.level"><![CDATA[Ниво]]></item>
+    </category>
+    <category name="zoo.mail.info">
+      <item name="zoo.mail.info.addUserTitle"><![CDATA[Добавяне]]></item>
+      <item name="zoo.mail.info.addUserQuestion"><![CDATA[Наистина ли искате да добавите играч %user% към адресната си книга?]]></item>
+      <item name="zoo.mail.info.deleteMessageTitle"><![CDATA[Изтриване]]></item>
+      <item name="zoo.mail.info.deleteMessageQuestion"><![CDATA[Наистина ли искате да изтриете това съобщение?]]></item>
+      <item name="zoo.mail.info.deleteContactTitle"><![CDATA[Изтриване]]></item>
+      <item name="zoo.mail.info.deleteContactQuestion"><![CDATA[Наистина ли искате да премахнете играча %user% от адресната си книга?]]></item>
+      <item name="zoo.mail.info.noRecipientTitle"><![CDATA[Грешка]]></item>
+      <item name="zoo.mail.info.noRecipientMessage"><![CDATA[Този играч не съществува.]]></item>
+      <item name="zoo.mail.info.sentOkTitle"><![CDATA[Изпратено]]></item>
+      <item name="zoo.mail.info.noAddSelf"><![CDATA[Не можете да добавите себе си в адресната си книга.]]></item>
+      <item name="zoo.mail.info.sentOkMessage"><![CDATA[Съобщението ви е изпратено успешно.]]></item>
+      <item name="zoo.mail.info.addUserMessage"><![CDATA[Моля, въведете името или идентификационния номер на играча, ако искате да го добавите към адресната си книга.]]></item>
+      <item name="zoo.mail.info.multipleUserFound"><![CDATA[Това име се среща често. Моля, въведете идентификационния номер на играча, който е уникален и отличителен.]]></item>
+      <item name="zoo.mail.info.writeMailError.noUserName"><![CDATA[Моля, въведете получател, за да може съобщението ви да бъде изпратено.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSubject"><![CDATA[Моля, въведете тема, за да може съобщението ви да бъде изпратено.]]></item>
+      <item name="zoo.mail.info.writeMailError.noMessage"><![CDATA[Моля, въведете текста на съобщението, за да може то да бъде изпратено.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSelfSend"><![CDATA[Не можете да изпратите съобщение до себе си.]]></item>
+      <item name="zoo.mail.info.writeMailError.notFriend"><![CDATA[За съжаление, можете да изпращате съобщения само на играчи, които са в списъка ви с приятели.]]></item>
+      <item name="zoo.mail.info.writeMailError.userAlreadyExists"><![CDATA[Този играч вече е добавен към вашата адресна книга.]]></item>
+    </category>
+  </category>
+</language>

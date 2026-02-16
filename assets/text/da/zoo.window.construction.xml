@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.construction">
+    <item name="zoo.window.construction.title"><![CDATA[Konstruktion]]></item>
+    <item name="zoo.window.construction.info"><![CDATA[Om]]></item>
+    <item name="zoo.window.construction.buildinginfo"><![CDATA[Næsten færdig! Bare:]]></item>
+    <item name="zoo.window.construction.buildinginfo2"><![CDATA[Eller få varen med det samme (uden at bygge):]]></item>
+    <item name="zoo.window.construction.button.buydirectly"><![CDATA[Køb nu]]></item>
+  </category>
+</language>

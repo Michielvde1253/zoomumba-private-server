@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Cześć, jestem Tina i zaopiekuję się Twoimi maluchami. Dorastają w moim żłobku dla zwierząt. Wybierz malucha, którego chcesz wychować, ze swoich zasobów.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Gotowy do wzrostu]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[To tutaj dorasta młode.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Twoje szczenię jest już dorosłe!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Wznosić]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Użyj esencji]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Podnieś natychmiast]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Hodowla zwierząt]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Pozostały czas:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Podnieś natychmiast]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Nim się obejrzysz, Twoje dziecko będzie już dorosłe!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Mikstura Wzrostu skraca czas rozmnażania o 50%.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Hura! To maleństwo wyrosło i trafiło do Twojego ekwipunku:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Uwaga: Tu rośnie dziecko! Jeśli przeniesiesz pokój dziecięcy do ekwipunku, proces zostanie przerwany. Czy na pewno chcesz go teraz przenieść?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Uwaga: Tu rośnie dziecko! Jeśli sprzedasz pokój dziecięcy teraz, proces zostanie przerwany. Czy na pewno chcesz go teraz sprzedać?]]></item>
+    </category>
+  </category>
+</language>

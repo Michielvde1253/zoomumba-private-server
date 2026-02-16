@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Willkommen im Wanderzirkus! Wir präsentieren die Überraschungsbox! Kaufe eine Box und erhalte eines von 10 Tieren. Du kannst bis zu 20 Boxen gleichzeitig besitzen und jede Box innerhalb von 5 Stunden öffnen. Viel Spaß!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Tiere:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Herzliche Glückwunsch!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[Folgende Tiere wurden deinem Inventar hinzugefügt: %animal%. Öffne noch mehr geheimnisvolle Kisten, um noch mehr einzigartige Tiere zu erhalten!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Oh, das tut uns leid!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Du besitzt bereits 20 mysteriöse Truhen. Warte, bis sich eine davon öffnet, und nimm dir dann eine weitere.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Die Überraschungsbox öffnet sich für: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Klicken Sie hier, um Ihre Tiere anzusehen.]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Willkommen zurück!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Während deiner Abwesenheit bekamen deine Tiere Durst, weil sie in der mysteriösen Kiste nichts zu trinken bekamen. Züchterin Sonia kümmerte sich um sie und brachte sie in ihren Bestand. Schau doch mal kurz nach!]]></item>
+  </category>
+</language>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.premium">
+    <category name="zoo.premium.title">
+      <item name="zoo.premium.title.0"><![CDATA[Temsilci David]]></item>
+      <item name="zoo.premium.title.1"><![CDATA[Krimic Honza]]></item>
+      <item name="zoo.premium.title.2"><![CDATA[Güç kaynağı Pavel]]></item>
+      <item name="zoo.premium.title.3"><![CDATA[Temizleyici Köle]]></item>
+      <item name="zoo.premium.title.4"><![CDATA[Yetiştirici Soňa]]></item>
+      <item name="zoo.premium.title.5"><![CDATA[Çöp toplayıcı Jirka]]></item>
+      <item name="zoo.premium.title.6"><![CDATA[Kasiyer Kešík]]></item>
+      <item name="zoo.premium.title.7"><![CDATA[Dr. Lynn]]></item>
+      <item name="zoo.premium.title.11"><![CDATA[Daha büyük hayvanat bahçesi]]></item>
+      <item name="zoo.premium.title.12"><![CDATA[Maxi hayvanat bahçesi genişletmesi]]></item>
+      <item name="zoo.premium.title.13"><![CDATA[Hayvanat bahçesi genişletmesi]]></item>
+      <item name="zoo.premium.title.14"><![CDATA[Hayvanat bahçesi genişletmesi]]></item>
+      <item name="zoo.premium.title.15"><![CDATA[Paskalya tavşanı]]></item>
+      <item name="zoo.premium.title.16"><![CDATA[Paskalya yardımcısı]]></item>
+      <item name="zoo.premium.title.23"><![CDATA[Doğum günü pastası]]></item>
+      <item name="zoo.premium.title.126"><![CDATA[Hayvanat bahçesinin maksimum genişlemesi]]></item>
+      <item name="zoo.premium.title.29"><![CDATA[Hayvanat bahçesinin maksimum genişlemesi]]></item>
+      <item name="zoo.premium.title.30"><![CDATA[Hayvanat bahçesinin maksimum genişlemesi]]></item>
+      <item name="zoo.premium.title.125"><![CDATA[Hayvanat bahçesi genişletmesi]]></item>
+      <item name="zoo.premium.title.35"><![CDATA[Hayvanat bahçesi genişletmesi]]></item>
+      <item name="zoo.premium.title.36"><![CDATA[Hayvanat bahçesi genişletmesi]]></item>
+      <item name="zoo.premium.title.37"><![CDATA[Hayvanat bahçesinin maksimum genişlemesi]]></item>
+      <item name="zoo.premium.title.38"><![CDATA[Hayvanat bahçesinin maksimum genişlemesi]]></item>
+      <item name="zoo.premium.title.123"><![CDATA[Ekşi]]></item>
+      <item name="zoo.premium.title.124"><![CDATA[Tatlı]]></item>
+      <item name="zoo.premium.title.128"><![CDATA[Doğum günü pastası]]></item>
+      <item name="zoo.premium.title.130"><![CDATA[Hayvanat bahçesi genişletmesi]]></item>
+      <item name="zoo.premium.title.132"><![CDATA[Hayvanat bahçesi genişletmesi]]></item>
+      <item name="zoo.premium.title.2001"><![CDATA[Su fıçısı]]></item>
+      <item name="zoo.premium.title.2002"><![CDATA[Su kulesi]]></item>
+      <item name="zoo.premium.title.2003"><![CDATA[Su kaynağı]]></item>
+      <item name="zoo.premium.title.2004"><![CDATA[Saklama kutusu]]></item>
+      <item name="zoo.premium.title.2005"><![CDATA[Depo]]></item>
+      <item name="zoo.premium.title.2006"><![CDATA[Yeraltı deposu]]></item>
+    </category>
+    <category name="zoo.premium.infoText">
+      <item name="zoo.premium.infoText.0"><![CDATA[Eğer (Dr. Lynn hariç) 6 asistan çalıştırırsanız, size yardımcı olacak bir eş direktörünüz ve personeliniz olur. Sadece tıklayın ve 6 asistan da işe koyulacaktır.]]></item>
+      <item name="zoo.premium.infoText.1"><![CDATA[Besleme asistanı John, hayvanlarınızın her zaman iyi beslenmiş ve mutlu olmasını sağlar. Besleyecek kadar zoogronuz varsa, ona tıklayın ve John özenle ve güvenilir bir şekilde çalışacaktır.]]></item>
+      <item name="zoo.premium.infoText.2"><![CDATA[Pavel hayvanların sulanmasıyla ilgileniyor. Ona tıklarsanız, hayvanlarınıza düzenli olarak su verecektir. Ancak bu, yeterli zoogros'unuz varsa geçerlidir.]]></item>
+      <item name="zoo.premium.infoText.3"><![CDATA[Temizlikçi Slávek, hayvanlarınızın hijyen ve temizliğiyle ilgilenir. Ona tıkladığınızda, kafesleri temizleyecek ve hayvanlarınız için rahat bir yuva sağlayacaktır.]]></item>
+      <item name="zoo.premium.infoText.4"><![CDATA[Herkes Sonia'yı dört gözle bekliyor! Ona tıklayın ve işe alın: Hayvanlarınızla kucaklaşacak, böylece sıkılmayacaklar ve mutluluktan ışıldayacaklar.]]></item>
+      <item name="zoo.premium.infoText.5"><![CDATA[Jirka her yolu özenle süpürür ve tek bir çöp kutusunu bile atlamaz. Her şey düzenli olmalı, ziyaretçiler bakımsız bir hayvanat bahçesine geri dönmezler. Tek bir tıklamayla onu işe alın ve tüm işleri o halletsin.]]></item>
+      <item name="zoo.premium.infoText.6"><![CDATA[Zeki maymun Kešík sayılar konusunda çok iyidir: Ona tıklayın ve işe alın. İnşa ettiğiniz tüm dükkanlardan ve binalardan size gelir getirecektir.]]></item>
+      <item name="zoo.premium.infoText.7"><![CDATA[Dr. Lynn, hayvanlarınızın sağlığından sorumludur. Ona tıkladığınızda, hasta olan tüm hayvanlara uygun ilacı ulaştıracaktır!]]></item>
+      <item name="zoo.premium.infoText.11"><![CDATA[Hayvanat bahçeniz %nextExpandLevel% seviyesinden itibaren büyüyecek. Beklemek istemiyor musunuz? O halde hayvanat bahçenizi şimdi genişletin.]]></item>
+      <item name="zoo.premium.infoText.12"><![CDATA[Vakit kaybetmeyin ve tek bir tıklamayla hayvanat bahçenizi %100 genişletin! Maxi hayvanat bahçesi genişletmesiyle ara adımlardan kurtulursunuz ve anında maksimum alana sahip olursunuz. Tereddüt etmeyin!]]></item>
+      <item name="zoo.premium.infoText.13"><![CDATA[Gizli hayvanat bahçeniz için genişletmeleri zoodollars ile satın alın.]]></item>
+      <item name="zoo.premium.infoText.14"><![CDATA[Topladığınız aletleri takas ederek gizli hayvanat bahçenizi genişletin.]]></item>
+      <item name="zoo.premium.infoText.15"><![CDATA[21 Nisan'dan 27 Nisan'a kadar Paskalya Tavşanı hayvanat bahçenize yumurta bırakacak. Yumurtaları toplayın ve Paskalya temalı hayvan barınak süsleri, Paskalya tavşanları ve Paskalya barınaklarıyla takas edin.]]></item>
+      <item name="zoo.premium.infoText.16"><![CDATA[Ne kadar pratik! 21-27 Nisan tarihleri ​​arasında Paskalya yardımcısı Sonja, yumurta toplamanıza yardımcı olacak. Hatta oyundan çıkış yapsanız bile! Daha sonra topladığınız yumurtaları Paskalya temalı bahçe süsleri, Paskalya tavşanları ve Paskalya bahçe kutuları ile takas edebilirsiniz.]]></item>
+      <item name="zoo.premium.infoText.23"><![CDATA[Bu pastayı satın alarak, çevrenizdekilerin doğum günü yükseltmesini daha hızlı tamamlayabilirsiniz. Bu sayede daha fazla balona sahip olabilir ve daha fazla doğum günü ödülü kazanabilirsiniz.]]></item>
+      <item name="zoo.premium.infoText.29"><![CDATA[Vakit kaybetmeyin ve tek bir tıklamayla hayvanat bahçenizi %100'e genişletin! Maksimum hayvanat bahçesi genişletmesiyle, zahmetli ara adımlardan kurtulacak ve anında maksimum alana sahip olacaksınız. Tereddüt etmeyin!]]></item>
+      <item name="zoo.premium.infoText.30"><![CDATA[Vakit kaybetmeyin ve tek bir tıklamayla hayvanat bahçenizi %100 genişletin! Maxi hayvanat bahçesi genişletmesiyle ara adımlardan kurtulursunuz ve anında maksimum alana sahip olursunuz. Tereddüt etmeyin!]]></item>
+      <item name="zoo.premium.infoText.35"><![CDATA[Zoodollars ile hayvanat bahçenizi genişletin.]]></item>
+      <item name="zoo.premium.infoText.125"><![CDATA[Bu hayvanat bahçesi için zoodollar kullanarak bir genişletme satın alın.]]></item>
+      <item name="zoo.premium.infoText.36"><![CDATA[Topladığınız araçlarla hayvanat bahçenizi genişletin.]]></item>
+      <item name="zoo.premium.infoText.126"><![CDATA[Vakit kaybetmeyin ve tek bir tıklamayla hayvanat bahçenizi %100 genişletin! Maxi hayvanat bahçesi genişletmesiyle ara adımlardan kurtulursunuz ve anında maksimum alana sahip olursunuz. Tereddüt etmeyin!]]></item>
+      <item name="zoo.premium.infoText.37"><![CDATA[Vakit kaybetmeyin ve tek bir tıklamayla hayvanat bahçenizi %100 genişletin! Maxi hayvanat bahçesi genişletmesiyle ara adımlardan kurtulacak ve anında maksimum alana sahip olacaksınız. Tereddüt etmeyin!]]></item>
+      <item name="zoo.premium.infoText.38"><![CDATA[Vakit kaybetmeyin ve tek bir tıklamayla hayvanat bahçenizi %100 genişletin! Maxi hayvanat bahçesi genişletmesiyle ara adımlardan kurtulacak ve anında maksimum alana sahip olacaksınız. Tereddüt etmeyin!]]></item>
+      <item name="zoo.premium.infoText.123"><![CDATA[Küçük yarasaları ekşi olanlarla değiştirerek yeni Cadılar Bayramı ödüllerinin kilidini açın.]]></item>
+      <item name="zoo.premium.infoText.124"><![CDATA[Küçük yarasaları şekerlemelerle takas ederek yeni Cadılar Bayramı ödüllerinin kilidini açın.]]></item>
+      <item name="zoo.premium.infoText.128"><![CDATA[Bu pastayı satın alarak, çevrenizdekilerin doğum günü yükseltmesini daha hızlı tamamlayabilirsiniz. Bu sayede daha fazla balona sahip olabilir ve daha fazla doğum günü ödülü kazanabilirsiniz.]]></item>
+      <item name="zoo.premium.infoText.130"><![CDATA[Zoo Dollars kullanarak Coastal Zoo genişletme paketini satın alın.]]></item>
+      <item name="zoo.premium.infoText.132"><![CDATA[Zoodollars ile Denizaltı Dünyası genişletmesini edinin.]]></item>
+      <item name="zoo.premium.infoText.2001"><![CDATA[Bu su fıçısı hayvanat bahçesine güzel bir katkı olacak ve rustik bir hava katacak.]]></item>
+      <item name="zoo.premium.infoText.2002"><![CDATA[Ne devasa bir yapı! Bu su kulesi çok uzaklardan bile görülebilecek.]]></item>
+      <item name="zoo.premium.infoText.2003"><![CDATA[Su şimdi akıyor. Su çeşmesi hayvanat bahçeniz için ferahlatıcı su sağlayacak. Su, akmaya devam et!]]></item>
+      <item name="zoo.premium.infoText.2004"><![CDATA[Çok kullanışlı! Saklama kutuları tırmanmak, oturmak ve oynamak için mükemmeldir. Çocuklar ahşap kutuları çok sever.]]></item>
+      <item name="zoo.premium.infoText.2005"><![CDATA[Ne kadar harika! Ahır, saklambaç oynamak için mükemmel bir yer. Ve kışın saman balyaları için bolca yer var.]]></item>
+      <item name="zoo.premium.infoText.2006"><![CDATA[Harika bir depo! Yeraltı deposunda birçok ilginç şey var. Ama her şeyden önemlisi, bu depo çok gizemli... orada ne saklı?]]></item>
+    </category>
+    <category name="zoo.premium.window.renew">
+      <item name="zoo.premium.window.renew.text"><![CDATA[Ah! Bu asistanla olan iş sözleşmemiz sona ermiş. Sözleşmeyi uzatmak ister misiniz?]]></item>
+    </category>
+    <category name="zoo.premium.elixir">
+      <item name="zoo.premium.elixir.title"><![CDATA[Tolija'nın Özü]]></item>
+      <item name="zoo.premium.elixir.text"><![CDATA[Üretimde kullanılan gizli formül, üretim sürecini %50 oranında kısaltıyor.]]></item>
+    </category>
+    <category name="zoo.premium.breedingLab">
+      <item name="zoo.premium.breedingLab.title"><![CDATA[Üreme istasyonu]]></item>
+      <item name="zoo.premium.breedingLab.text"><![CDATA[Nadir hayvanları yetiştirmek için ana veya gizli hayvanat bahçenize bir üreme istasyonu yerleştirin.]]></item>
+    </category>
+    <category name="zoo.premium.nursery">
+      <item name="zoo.premium.nursery.title"><![CDATA[Hayvan fidanlığı]]></item>
+      <item name="zoo.premium.nursery.text"><![CDATA[Yavrularınızın büyüyebileceği bir yer olması için ana veya gizli hayvanat bahçenize bir üreme istasyonu yerleştirin.]]></item>
+    </category>
+    <category name="zoo.premium.assist.title">
+      <item name="zoo.premium.assist.title.0"><![CDATA[Temsilci David]]></item>
+      <item name="zoo.premium.assist.title.1"><![CDATA[Krimic Honza]]></item>
+      <item name="zoo.premium.assist.title.2"><![CDATA[Güç kaynağı Pavel]]></item>
+      <item name="zoo.premium.assist.title.3"><![CDATA[Temizleyici Köle]]></item>
+      <item name="zoo.premium.assist.title.4"><![CDATA[Yetiştirici Soňa]]></item>
+      <item name="zoo.premium.assist.title.5"><![CDATA[Çöp toplayıcı Jirka]]></item>
+      <item name="zoo.premium.assist.title.6"><![CDATA[Kasiyer, mali asistan]]></item>
+      <item name="zoo.premium.assist.title.7"><![CDATA[Dr. Lynn]]></item>
+      <item name="zoo.premium.assist.title.8"><![CDATA[Jindra]]></item>
+      <item name="zoo.premium.assist.title.9"><![CDATA[Matthew]]></item>
+      <item name="zoo.premium.assist.title.10"><![CDATA[Frant]]></item>
+      <item name="zoo.premium.assist.title.11"><![CDATA[Jenny]]></item>
+    </category>
+    <category name="zoo.premium.assist.infoText">
+      <item name="zoo.premium.assist.infoText.0"><![CDATA[Eğer (Dr. Lynn hariç) 6 asistan işe alırsanız, eş direktör size personel konusunda yardımcı olacaktır. Sadece üzerlerine tıklayın ve hepsi hemen işe koyulacaktır.]]></item>
+      <item name="zoo.premium.assist.infoText.1"><![CDATA[Feeder Honza, hayvanlarınızın her zaman beslenmesini sağlar - yeter ki bu masrafları karşılayacak kadar zoogrosunuz olsun.]]></item>
+      <item name="zoo.premium.assist.infoText.2"><![CDATA[Pavel'e tıklayın, hayvanları birbirine bağlama işlemini o halledecektir - tabii ki bu masrafları karşılayacak kadar zoogros'unuz varsa.]]></item>
+      <item name="zoo.premium.assist.infoText.3"><![CDATA[Temizlikçi Slávek, hayvanlarınızın hijyen ve temizliğiyle ilgilenir. Ona tıkladığınızda, kafeslerinizi temizleyecek ve hayvanlarınız için rahat bir yuva sağlayacaktır.]]></item>
+      <item name="zoo.premium.assist.infoText.4"><![CDATA[Hayvan yetiştiricisi Soňa, hayvanlarınızla ilgileniyor, onları kucaklıyor ve hak ettikleri sevgiyi sunuyor. Ona tıklayın ve nasıl çalıştığını izleyin!]]></item>
+      <item name="zoo.premium.assist.infoText.5"><![CDATA[Jirka her yolu titizlikle süpürür ve tek bir çöp kutusunu bile atlamaz. Düzenin korunması şart. Onu tek tıkla işe alın ve hemen çalışmaya başlasın!]]></item>
+      <item name="zoo.premium.assist.infoText.6"><![CDATA[Zeki maymun Kešík sayılar konusunda çok iyidir. Ona tıklayın ve hayvanat bahçesindeki tüm binaların gelirlerini sizin için toplayacaktır!]]></item>
+      <item name="zoo.premium.assist.infoText.7"><![CDATA[Dr. Lynn, hayvanlarınızın sağlığından sorumludur. Ona tıkladığınızda, hasta olan tüm hayvanlara uygun ilacı ulaştıracaktır!]]></item>
+      <item name="zoo.premium.assist.infoText.8"><![CDATA[Jindra'ya tıklayın ve o tüm deniz canlılarınızı beslesin! Yosun, plankton veya balık yemi - Jindra ne yapacağını biliyor!]]></item>
+      <item name="zoo.premium.assist.infoText.9"><![CDATA[Matej'in elinde her zaman bir hortum var! Ona tıklayın ve su depolarınızı doldursun, ancak maliyetleri karşılayacak kadar kaynağınız olduğundan emin olun!]]></item>
+      <item name="zoo.premium.assist.infoText.10"><![CDATA[Franta bir havuz teknisyeni. Ona tıklayın, su alanlarınızı temizleyecek, filtreleri değiştirecek ve suyun tüm hayvanlar için temiz ve güvenli olduğundan emin olacaktır.]]></item>
+      <item name="zoo.premium.assist.infoText.11"><![CDATA[Janička bir deniz memelisi eğitmeni. Hayvanlarla oynuyor ve onlara çeşitli numaralar öğretiyor! Ona tıklayın ve onu işe alın.]]></item>
+    </category>
+  </category>
+</language>

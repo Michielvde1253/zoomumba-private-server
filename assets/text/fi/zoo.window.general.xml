@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.general">
+    <item name="zoo.window.general.error"><![CDATA[Virhe]]></item>
+    <item name="zoo.window.general.petPenny_singular"><![CDATA[Zoogros]]></item>
+    <item name="zoo.window.general.petPenny_plural"><![CDATA[Zoogros]]></item>
+    <item name="zoo.window.general.petPaw_singular"><![CDATA[Tassu]]></item>
+    <item name="zoo.window.general.petPaw_plural"><![CDATA[Tassu]]></item>
+    <item name="zoo.window.general.zooDollar_singular"><![CDATA[Zoodollar]]></item>
+    <item name="zoo.window.general.zooDollar_plural"><![CDATA[Zoodollars]]></item>
+    <item name="zoo.window.general.xp_singular"><![CDATA[Kokemuspiste]]></item>
+    <item name="zoo.window.general.xp_plural"><![CDATA[Kokemuspisteet]]></item>
+    <item name="zoo.window.general.attractivity_singular"><![CDATA[Houkuttelevuus]]></item>
+    <item name="zoo.window.general.start"><![CDATA[Aloita]]></item>
+    <item name="zoo.window.general.skip"><![CDATA[Ohita]]></item>
+    <item name="zoo.window.general.next"><![CDATA[Muut]]></item>
+    <item name="zoo.window.general.prev"><![CDATA[Takaisin]]></item>
+    <item name="zoo.window.general.first"><![CDATA[Ensimmäinen]]></item>
+    <item name="zoo.window.general.last"><![CDATA[Kestää]]></item>
+    <item name="zoo.window.general.congrats"><![CDATA[Sydämelliset onnittelut!]]></item>
+    <item name="zoo.window.general.specialOffer"><![CDATA[Toimintaa!]]></item>
+    <item name="zoo.window.general.attention"><![CDATA[Huomio!]]></item>
+    <item name="zoo.window.general.sorry"><![CDATA[Pahoittelemme.]]></item>
+    <item name="zoo.window.general.goodbye"><![CDATA[Hyvästi!]]></item>
+    <item name="zoo.window.general.thankyou"><![CDATA[Kiitos!]]></item>
+    <item name="zoo.window.general.second"><![CDATA[sek]]></item>
+    <item name="zoo.window.general.seconds"><![CDATA[sekuntia]]></item>
+    <item name="zoo.window.general.minute"><![CDATA[minuutti]]></item>
+    <item name="zoo.window.general.minutes"><![CDATA[min.]]></item>
+    <item name="zoo.window.general.hour"><![CDATA[tunnin]]></item>
+    <item name="zoo.window.general.hours"><![CDATA[tuntia]]></item>
+    <item name="zoo.window.general.day"><![CDATA[päivä]]></item>
+    <item name="zoo.window.general.days"><![CDATA[päivää]]></item>
+    <item name="zoo.window.general.week"><![CDATA[Viikko]]></item>
+    <item name="zoo.window.general.weeks"><![CDATA[viikkoja]]></item>
+    <item name="zoo.window.general.month"><![CDATA[kuukausi]]></item>
+    <item name="zoo.window.general.months"><![CDATA[kuukautta]]></item>
+    <item name="zoo.window.general.year"><![CDATA[vuosi]]></item>
+    <item name="zoo.window.general.years"><![CDATA[lento]]></item>
+  </category>
+</language>

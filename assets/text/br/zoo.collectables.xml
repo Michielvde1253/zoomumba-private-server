@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.collectables">
+    <category name="zoo.collectables.forgottenZoo">
+      <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Ferramentas]]></item>
+      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Colete ferramentas e troque-as por expansões para o seu zoológico secreto.<br><br>Você consegue ferramentas no safári e na roda da fortuna. Depois, vá à loja e troque-as.<br><br>Até agora, você possui estas ferramentas:]]></item>
+      <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[Deseja expandir seu zoológico secreto para %tools% ferramentas e %zd% zoodólares?]]></item>
+    </category>
+    <category name="zoo.collectables.easterEvent">
+      <item name="zoo.collectables.easterEvent.title"><![CDATA[ovos de Páscoa]]></item>
+      <item name="zoo.collectables.easterEvent.text"><![CDATA[De 21 a 27 de abril, você encontrará uma avalanche de ovos de Páscoa! Colete-os e troque-os por decorações de Páscoa para cercadinhos, coelhinhos da Páscoa e outros itens para cercar sua casa. Seu status atual de ovos de Páscoa:]]></item>
+    </category>
+    <category name="zoo.collectables.meadow">
+      <item name="zoo.collectables.meadow.main.title"><![CDATA[Prado]]></item>
+      <item name="zoo.collectables.meadow.main.text"><![CDATA[Em um belo e colorido prado, crescem diversas gramíneas, flores e trevos suculentos.]]></item>
+      <item name="zoo.collectables.meadow.flower.title"><![CDATA[Flores]]></item>
+      <item name="zoo.collectables.meadow.flower.text"><![CDATA[Na primavera, os prados se transformam num mar de flores silvestres. E seus animais adoram!]]></item>
+      <item name="zoo.collectables.meadow.log.title"><![CDATA[Toco]]></item>
+      <item name="zoo.collectables.meadow.log.text"><![CDATA[Um prado de transição é criado através da remoção de árvores. Assim que a floresta desaparece, pequenos brotos de grama começam a crescer ali.]]></item>
+      <item name="zoo.collectables.meadow.gnome.title"><![CDATA[Elfo]]></item>
+      <item name="zoo.collectables.meadow.gnome.text"><![CDATA[Os prados também costumam ser o lar de elfos, que emergem de seus esconderijos à noite. Essas criaturas tímidas, mas amigáveis, frequentemente compartilham suas casas com lebres.]]></item>
+      <item name="zoo.collectables.meadow.mushroom.title"><![CDATA[Cogumelos]]></item>
+      <item name="zoo.collectables.meadow.mushroom.text"><![CDATA[Os cogumelos são saborosos e crescem, por exemplo, na América do Norte.]]></item>
+      <item name="zoo.collectables.meadow.sign.title"><![CDATA[Prado selvagem]]></item>
+      <item name="zoo.collectables.meadow.sign.text"><![CDATA[Se ninguém cuidar de um "prado de transição" por muito tempo, uma floresta selvagem logo voltará a crescer ali.]]></item>
+    </category>
+    <category name="zoo.collectables.ice">
+      <item name="zoo.collectables.ice.main.title"><![CDATA[Gelo]]></item>
+      <item name="zoo.collectables.ice.main.text"><![CDATA[Não são apenas os pinguins e os ursos polares que gostam de climas frios, mas a raposa-do-ártico também aprecia o gelo e a neve!]]></item>
+      <item name="zoo.collectables.ice.popsicle.title"><![CDATA[picolé]]></item>
+      <item name="zoo.collectables.ice.popsicle.text"><![CDATA[Poucas pessoas sabem disso, mas os pinguins também gostam de picolés e às vezes os roubam dos turistas.]]></item>
+      <item name="zoo.collectables.ice.cubes.title"><![CDATA[Cubos de gelo]]></item>
+      <item name="zoo.collectables.ice.cubes.text"><![CDATA[Os cubos de gelo são a maneira perfeita de resfriar uma bebida quente. Eles proporcionam refresco em um dia quente de verão.]]></item>
+      <item name="zoo.collectables.ice.skates.title"><![CDATA[Patim]]></item>
+      <item name="zoo.collectables.ice.skates.text"><![CDATA[A patinação no gelo é um esporte incrível. Historiadores acreditam que ela foi inventada há cerca de 4.000 anos. Os finlandeses provavelmente contribuíram para a sua invenção.]]></item>
+      <item name="zoo.collectables.ice.igloo.title"><![CDATA[Iglu]]></item>
+      <item name="zoo.collectables.ice.igloo.text"><![CDATA[Para os esquimós, que são os habitantes originais da América do Norte, iglu significa casa.]]></item>
+      <item name="zoo.collectables.ice.sign.title"><![CDATA[Estalactites]]></item>
+      <item name="zoo.collectables.ice.sign.text"><![CDATA[Os pingentes de gelo brilhantes se formam em temperaturas congelantes. Claro, o calor do sol os derrete novamente.]]></item>
+    </category>
+    <category name="zoo.collectables.bamboo">
+      <item name="zoo.collectables.bamboo.main.title"><![CDATA[Bosque de bambu]]></item>
+      <item name="zoo.collectables.bamboo.main.text"><![CDATA[O bambu é o único alimento dos pandas e cresce principalmente na Ásia.]]></item>
+      <item name="zoo.collectables.bamboo.branches.title"><![CDATA[Ramo de bambu]]></item>
+      <item name="zoo.collectables.bamboo.branches.text"><![CDATA[Bambu é um nome coletivo para vários gêneros de gramíneas lenhosas.]]></item>
+      <item name="zoo.collectables.bamboo.lantern.title"><![CDATA[Lampião]]></item>
+      <item name="zoo.collectables.bamboo.lantern.text"><![CDATA[Pendure uma lanterna bonita no seu jardim de bambu e ilumine a noite com uma luz suave.]]></item>
+      <item name="zoo.collectables.bamboo.gong.title"><![CDATA[Gongo]]></item>
+      <item name="zoo.collectables.bamboo.gong.text"><![CDATA[O gongo é uma bela decoração para o seu jardim de bambu. E aquele som exótico... parece ter sido feito para iniciar a meditação.]]></item>
+      <item name="zoo.collectables.bamboo.statue.title"><![CDATA[estátua asiática]]></item>
+      <item name="zoo.collectables.bamboo.statue.text"><![CDATA[Uma estátua em estilo asiático dará um toque de calma e paz ao jardim de bambu.]]></item>
+      <item name="zoo.collectables.bamboo.sign.title"><![CDATA[Asas de bambu]]></item>
+      <item name="zoo.collectables.bamboo.sign.text"><![CDATA[Há muito tempo que as pessoas fabricam asas de bambu. O material leve, mas resistente, permite-lhes atingir alturas incríveis.]]></item>
+    </category>
+    <category name="zoo.collectables.parrot">
+      <item name="zoo.collectables.parrot.main.title"><![CDATA[Papagaio]]></item>
+      <item name="zoo.collectables.parrot.main.text"><![CDATA[Sabe-se que alguns papagaios são bastante falantes. Alguns deles chegam a falar em frases completas.]]></item>
+      <item name="zoo.collectables.parrot.plush.title"><![CDATA[papagaio de pelúcia]]></item>
+      <item name="zoo.collectables.parrot.plush.text"><![CDATA[Os papagaios são animais de estimação muito sociáveis ​​e populares, mas precisam de bastante espaço para correr.]]></item>
+      <item name="zoo.collectables.parrot.paw.title"><![CDATA[Garra de papagaio]]></item>
+      <item name="zoo.collectables.parrot.paw.text"><![CDATA[Os papagaios têm, na verdade, quatro garras. Duas na frente e duas atrás. Dessa forma, eles não caem do galho mesmo se adormecerem.]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.title"><![CDATA[Blackjack]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.text"><![CDATA[Os papagaios são, na verdade, piratas que foram transformados em pássaros coloridos por feiticeiros malignos.]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.title"><![CDATA[Peru]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.text"><![CDATA[As selvas da região amazônica do Peru abrigam muitos papagaios, e a floresta tropical lhes proporciona um habitat ideal.]]></item>
+      <item name="zoo.collectables.parrot.sign.title"><![CDATA[Fãs de frutas]]></item>
+      <item name="zoo.collectables.parrot.sign.text"><![CDATA[Os papagaios gostam de comer sementes e nozes, mas também apreciam frutas. Não importa se são frescas ou secas, o importante é que sejam doces.]]></item>
+    </category>
+    <category name="zoo.collectables.rabbit">
+      <item name="zoo.collectables.rabbit.main.title"><![CDATA[lebre]]></item>
+      <item name="zoo.collectables.rabbit.main.text"><![CDATA[As lebres vivem em uma variedade de áreas - desde desertos e florestas até regiões polares frias.]]></item>
+      <item name="zoo.collectables.rabbit.plush.title"><![CDATA[lebre de pelúcia]]></item>
+      <item name="zoo.collectables.rabbit.plush.text"><![CDATA[As lebres existem há séculos. Fósseis mostram que criaturas semelhantes a lebres viveram na China há 60 milhões de anos.]]></item>
+      <item name="zoo.collectables.rabbit.paw.title"><![CDATA[Pé de coelho]]></item>
+      <item name="zoo.collectables.rabbit.paw.text"><![CDATA[Em muitas culturas, os pés de coelho são um símbolo de boa sorte.]]></item>
+      <item name="zoo.collectables.rabbit.paint.title"><![CDATA[Paleta de cores]]></item>
+      <item name="zoo.collectables.rabbit.paint.text"><![CDATA[Uma vez por ano, o Coelho da Páscoa chega e esconde ovos de chocolate e ovos coloridos.]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.title"><![CDATA[Portugal]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.text"><![CDATA[As lebres selvagens europeias viviam originalmente em Portugal, Espanha e no noroeste da África, mas também chegaram à Austrália.]]></item>
+      <item name="zoo.collectables.rabbit.sign.title"><![CDATA[Especialistas em vegetais]]></item>
+      <item name="zoo.collectables.rabbit.sign.text"><![CDATA[As lebres são vegetarianas. Elas preferem comer grama, ervas, alface e flores coloridas.]]></item>
+    </category>
+    <category name="zoo.collectables.penguin">
+      <item name="zoo.collectables.penguin.main.title"><![CDATA[Pinguim]]></item>
+      <item name="zoo.collectables.penguin.main.text"><![CDATA[Os pinguins são aves marinhas, embora não consigam voar.]]></item>
+      <item name="zoo.collectables.penguin.plush.title"><![CDATA[pinguim de pelúcia]]></item>
+      <item name="zoo.collectables.penguin.plush.text"><![CDATA[Os pinguins são animais muito sociais e competitivos que frequentemente gostam de dançar debaixo d'água.]]></item>
+      <item name="zoo.collectables.penguin.paw.title"><![CDATA[Nadadeira de pinguim]]></item>
+      <item name="zoo.collectables.penguin.paw.text"><![CDATA[A caminhada de um pinguim em terra parece desajeitada, mas na água, ele é um nadador e mergulhador ágil.]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.title"><![CDATA[Smoking]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.text"><![CDATA[Algumas pessoas também chamam o smoking de "casaco de pinguim" porque ele se assemelha muito à aparência de um pinguim.]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.title"><![CDATA[Antártica]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.text"><![CDATA[As Ilhas Subpolares abrigam um dos maiores e mais pesados ​​pinguins - o pinguim-imperador.]]></item>
+      <item name="zoo.collectables.penguin.sign.title"><![CDATA[Fãs de peixes]]></item>
+      <item name="zoo.collectables.penguin.sign.text"><![CDATA[Os pinguins são verdadeiros gourmets. Eles preferem peixe, mas também apreciam criaturas marinhas.]]></item>
+    </category>
+    <category name="zoo.collectables.giantTurtle">
+      <item name="zoo.collectables.giantTurtle.main.title"><![CDATA[tartaruga gigante]]></item>
+      <item name="zoo.collectables.giantTurtle.main.text"><![CDATA[As tartarugas são répteis. Elas vivem, na maioria das vezes, perto ou dentro da água. As maiores tartarugas são as tartarugas aquáticas.]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.title"><![CDATA[tartaruga de pelúcia]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.text"><![CDATA[As tartarugas-gigantes bebês se comunicam com seus irmãos ainda dentro do ovo. Elas simplesmente se esbarram umas nas outras com as cascas dos ovos.]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.title"><![CDATA[Pé de tartaruga]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.text"><![CDATA[As patas das tartarugas aquáticas possuem membranas interdigitais, enquanto as das tartarugas terrestres são mais parecidas com tocos.]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.title"><![CDATA[Balanço]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.text"><![CDATA[As tartarugas-elefante podem viver mais de 100 anos, mas nunca desenvolvem uma barba grisalha.]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.title"><![CDATA[Equador]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.text"><![CDATA[As tartarugas-elefante são originárias das Ilhas Galápagos, que pertencem ao Equador, na América do Sul.]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.title"><![CDATA[Especialistas em nutrição]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.text"><![CDATA[A maioria das tartarugas são onívoras, mas algumas espécies se especializam em apenas um tipo de alimento, como as águas-vivas.]]></item>
+    </category>
+    <category name="zoo.collectables.lion">
+      <item name="zoo.collectables.lion.main.title"><![CDATA[Leão]]></item>
+      <item name="zoo.collectables.lion.main.text"><![CDATA[Os leões são os segundos maiores felinos do mundo, depois dos tigres.]]></item>
+      <item name="zoo.collectables.lion.plush.title"><![CDATA[Leão de pelúcia]]></item>
+      <item name="zoo.collectables.lion.plush.text"><![CDATA[Os leões brancos são, na verdade, leões completamente normais; apenas sua pelagem foi descolorida pelo sol.]]></item>
+      <item name="zoo.collectables.lion.paw.title"><![CDATA[Pata de leão]]></item>
+      <item name="zoo.collectables.lion.paw.text"><![CDATA[Eles impõem respeito com suas patas grandes e suas garras agarram firmemente suas presas.]]></item>
+      <item name="zoo.collectables.lion.crown.title"><![CDATA[Coroa]]></item>
+      <item name="zoo.collectables.lion.crown.text"><![CDATA[Embora habitem savanas e estepes, são frequentemente chamados de "reis da selva".]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.title"><![CDATA[Tanzânia]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.text"><![CDATA[Atualmente, vivem principalmente em parques nacionais, como na Tanzânia ou no litoral da África Oriental.]]></item>
+      <item name="zoo.collectables.lion.sign.title"><![CDATA[Amantes de bife]]></item>
+      <item name="zoo.collectables.lion.sign.text"><![CDATA[Os leões, como todos os felinos, são carnívoros. Eles se alimentam de gnus, zebras e búfalos.]]></item>
+    </category>
+    <category name="zoo.collectables.peacock">
+      <item name="zoo.collectables.peacock.main.title"><![CDATA[Pavão]]></item>
+      <item name="zoo.collectables.peacock.main.text"><![CDATA[Os pavões são aves exóticas impressionantes. Eles circulam livremente em muitos zoológicos e parques.]]></item>
+      <item name="zoo.collectables.peacock.plush.title"><![CDATA[Pavão de pelúcia]]></item>
+      <item name="zoo.collectables.peacock.plush.text"><![CDATA[As penas da cauda do pavão são belíssimas. Na mitologia grega, os olhos do pavão são um símbolo do deus Argos, que protegia Io, amante de Zeus.]]></item>
+      <item name="zoo.collectables.peacock.paw.title"><![CDATA[Garras de pavão]]></item>
+      <item name="zoo.collectables.peacock.paw.text"><![CDATA[Os pavões machos são bastante vaidosos. Podem passar horas penteando suas belas penas com as garras. E, finalmente, as exibem em toda a sua glória.]]></item>
+      <item name="zoo.collectables.peacock.mirror.title"><![CDATA[Espelho]]></item>
+      <item name="zoo.collectables.peacock.mirror.text"><![CDATA[Os pavões conseguem fazer acrobacias bem legais para despertar o interesse das fêmeas, e as fêmeas também gostam de flertar com eles.]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.title"><![CDATA[Índia]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.text"><![CDATA[Na Índia, o pavão é a ave nacional desde 1963. Os indianos valorizam essas aves porque elas caçam cobras venenosas.]]></item>
+      <item name="zoo.collectables.peacock.sign.title"><![CDATA[Amante de grãos]]></item>
+      <item name="zoo.collectables.peacock.sign.text"><![CDATA[Os pavões alimentam-se principalmente de grãos e cereais, mas ocasionalmente também comem flores e, às vezes, besouros.]]></item>
+    </category>
+    <category name="zoo.collectables.panda">
+      <item name="zoo.collectables.panda.main.title"><![CDATA[Panda]]></item>
+      <item name="zoo.collectables.panda.main.text"><![CDATA[O panda-gigante é um urso preto e branco nativo da China.]]></item>
+      <item name="zoo.collectables.panda.plush.title"><![CDATA[panda de pelúcia]]></item>
+      <item name="zoo.collectables.panda.plush.text"><![CDATA[Os filhotes de panda são realmente muito pequenos. Eles pesam apenas de 100 a 200 gramas e têm cerca de 15 a 17 cm de comprimento.]]></item>
+      <item name="zoo.collectables.panda.paw.title"><![CDATA[Pata de panda]]></item>
+      <item name="zoo.collectables.panda.paw.text"><![CDATA[Os pandas-gigantes têm um polegar torto. Eles o usam para segurar comida.]]></item>
+      <item name="zoo.collectables.panda.bowl.title"><![CDATA[pauzinhos]]></item>
+      <item name="zoo.collectables.panda.bowl.text"><![CDATA[Os pandas, muito espertos, usam palitos de bambu para espetar a comida, assim como as pessoas comem com pauzinhos na Ásia.]]></item>
+      <item name="zoo.collectables.panda.flagChina.title"><![CDATA[China]]></item>
+      <item name="zoo.collectables.panda.flagChina.text"><![CDATA[Os últimos pandas selvagens vivem na China, o maior país do mundo. Infelizmente, restam apenas alguns desses pandas gigantes.]]></item>
+      <item name="zoo.collectables.panda.sign.title"><![CDATA[Especialista em bambu]]></item>
+      <item name="zoo.collectables.panda.sign.text"><![CDATA[Os pandas preferem mastigar bambu, especialmente as folhas e os galhos jovens. Por serem animais grandes, consomem uma grande quantidade.]]></item>
+    </category>
+    <category name="zoo.collectables.sonja">
+      <item name="zoo.collectables.sonja.main.title"><![CDATA[Criadora Soňa]]></item>
+      <item name="zoo.collectables.sonja.main.text"><![CDATA[A criadora Soňa sabe como cuidar perfeitamente dos animais. Só ela consegue abraçar todos os animais ao mesmo tempo.]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.title"><![CDATA[Brinquedo de elefante]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.text"><![CDATA[Os macacos são companheiros alegres. Eles gostam de brincar, por exemplo, com elefantes de madeira coloridos.]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.title"><![CDATA[Principal]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.text"><![CDATA[Com seu pião que gira alegremente, Soňa consegue animar até o rinoceronte mais mal-humorado.]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.title"><![CDATA[Brinquedo de rato]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.text"><![CDATA[Gatos domésticos fofos gostam de perseguir ratinhos de brinquedo, mas leões preferem presas maiores.]]></item>
+      <item name="zoo.collectables.sonja.main.babyBear.title"><![CDATA[Filhote de urso]]></item>
+      <item name="zoo.collectables.sonja.babyBear.text"><![CDATA[Os filhotes de urso ficavam se aconchegando o tempo todo. Alguns deles não queriam se separar de seus cuidadores de jeito nenhum.]]></item>
+      <item name="zoo.collectables.sonja.sign.title"><![CDATA[Mestre do aconchego]]></item>
+      <item name="zoo.collectables.sonja.sign.text"><![CDATA[Sonia é uma mestre em abraços. Contrate-a e você receberá 12% a mais em BZ pelos seus serviços!]]></item>
+    </category>
+    <category name="zoo.collectables.book">
+      <item name="zoo.collectables.book.tab.animals"><![CDATA[Animais]]></item>
+      <item name="zoo.collectables.book.tab.cages"><![CDATA[Pastos]]></item>
+      <item name="zoo.collectables.book.tab.assistants"><![CDATA[Assistentes]]></item>
+      <item name="zoo.collectables.book.more"><![CDATA[Mais...]]></item>
+    </category>
+    <category name="zoo.collectables.rewards">
+      <item name="zoo.collectables.book.rewards.unlocked.title"><![CDATA[Ganhar!]]></item>
+      <item name="zoo.collectables.book.rewards.unlocked.text"><![CDATA[Escolha o seu preço:]]></item>
+      <item name="zoo.collectables.book.rewards.locked.title"><![CDATA[Continue coletando...]]></item>
+      <item name="zoo.collectables.book.rewards.locked.text"><![CDATA[... Essas grandes recompensas estão esperando por você:]]></item>
+      <item name="zoo.collectables.book.rewards.button"><![CDATA[Escolher]]></item>
+    </category>
+  </category>
+</language>

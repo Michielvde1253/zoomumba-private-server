@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventABtrade">
+    <category name="zoo.eventABtrade.button">
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Aandelenbeurs]]></item>
+    </category>
+    <category name="zoo.eventABtrade.layer">
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Hallo, ik ben Lukáš, de directeur van de dierentuin in de naburige stad. Ik hoorde dat uw dierenverzorgster, Soňa Starostlivá, nieuwe diersoorten fokt waar ik erg in geïnteresseerd ben. Voor elk mannetje van de soort %priceSpecies% geef ik u een mannetje van de soort %rewardSpecies% of een vrouwtje voor een vrouwtje. Tijdens mijn aanwezigheid wordt de incubatietijd van uw soort %priceGenus%s verkort van 20 naar 2 uur! Dus, doet u mee?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Ik ga nu terug naar mijn dierentuin. Heel erg bedankt en ik hoop je snel weer te zien!]]></item>
+    </category>
+  </category>
+</language>

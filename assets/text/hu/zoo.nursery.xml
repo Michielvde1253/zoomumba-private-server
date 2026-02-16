@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Szia, Tina vagyok és a kicsinyeidről gondoskodom. Felnőtt állattá válnak az állatóvodámban. Válaszd ki a felnevelni kívánt kicsinyeket a készletedből.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Készen áll a növekedésre]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Itt nő fel a kölyök.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Felnőtt a kiskutyád!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Emel]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Használja az esszenciát]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Azonnal emelje fel]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Állattenyésztés]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Hátralévő idő:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Azonnal emelje fel]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Mielőtt észrevennéd, a kicsi felnőtt lesz!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[A Növekedési Főzet 50%-kal csökkenti a szaporodási időt.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Hurrá! Ez a baba felnőtt és átkerült a készletedbe:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Figyelem: Egy baba növekszik itt! Ha a gyerekszobát a leltárba helyezi, a folyamat megszakad. Biztosan most áthelyezi?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Figyelem: Egy baba növekszik itt! Ha most eladja a gyerekszobát, a folyamat megszakad. Biztosan most eladja?]]></item>
+    </category>
+  </category>
+</language>

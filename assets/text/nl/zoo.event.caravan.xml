@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Ik ben onderweg naar een reservaat waar ze de populatie van - %species% willen vergroten. Kun je me helpen? Ik leen je een paar - %species% voor 120 uur. Voor % aantal %species% jongen krijg je één volwassen exemplaar.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Leen een paar]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Anaconda]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Geweldig! Je hebt nu minstens 5 baby's in je inventaris. Ruil ze snel met mij in voor één volwassen orang-oetan!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Geweldig! Je hebt me echt enorm geholpen! Nu neem ik de welpen mee naar het reservaat en laat ik ze daar in het wild vrij. Heel erg bedankt en tot de volgende keer!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[De mobiele dierentransportwagen is weer onderweg naar het reservaat en brengt twee dieren mee die je hebt geleend. Je kunt je pasgeboren baby's in je inventaris vinden.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Je hebt nog %count% uur om welpen te wisselen.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Baby-orang-oetans in uw inventaris]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Verplaats de orang-oetanbaby's naar de inventaris.]]></item>
+    </category>
+  </category>
+</language>

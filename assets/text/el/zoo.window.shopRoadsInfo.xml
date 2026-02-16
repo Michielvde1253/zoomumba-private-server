@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Χωματόδρομος]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Αυτό το χαλικόστρωτο μονοπάτι συνδέει τους περιφραγμένους χώρους του ζωολογικού σας κήπου. Ένα ποιοτικό δίκτυο μονοπατιών βοηθά τους επισκέπτες σας να βρουν τον δρόμο τους και τους οδηγεί σε όλους τους περιφραγμένους χώρους.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Μπλε και άσπρο πεζοδρόμιο]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Αυτό το μπλε και άσπρο πλακόστρωτο μονοπάτι όχι μόνο φαίνεται υπέροχο, αλλά είναι επίσης μια εξαιρετική επιφάνεια για καροτσάκια, πατίνια και πατίνια. Ομαλή κίνηση και ποιοτική διασκέδαση, αυτό είναι υπέροχο!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Αμμώδης δρόμος]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[Σπάνια υπάρχουν ασφαλτοστρωμένοι δρόμοι στη στέπα. Θέλετε ο ζωολογικός σας κήπος να μοιάζει με την άγρια ​​φύση!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Ροζ και άσπρο πεζοδρόμιο]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Πόσο υπέροχο: Αυτό το πέτρινο μονοπάτι φτιαγμένο από πολύτιμες ροζ ψηφιδωτές πέτρες είναι κάτι πραγματικά ξεχωριστό. Η τέλεια πασαρέλα για επισκέπτες με ψηλοτάκουνα.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Μαύρο και άσπρο πεζοδρόμιο]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Μαύρες και άσπρες πολύτιμες πέτρες σε σχήμα μωσαϊκού πλαισιώνουν όμορφα αυτό το μονοπάτι. Είναι δουλεμένες με μεγάλη προσοχή και γίνονται ένα κόσμημα του ζωολογικού σας κήπου.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[Ο βραχώδης δρόμος]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Όπως ακριβώς και στην άγρια ​​φύση, μικρές τούφες χόρτου φυτρώνουν από τα κενά ανάμεσα στις πέτρες. Όχι για τους σχολαστικούς, αλλά οι λάτρεις της φύσης σίγουρα θα το απολαύσουν.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Μονοπάτι με βότσαλα]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Αυτό το χωμάτινο μονοπάτι φαίνεται ωραίο και είμαι σίγουρος ότι κανείς δεν θα γλιστρήσει πάνω του. Ασφαλές και όμορφο, τι περισσότερο θα μπορούσε κανείς να θέλει;]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Χωματόδρομος]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[Τα χωμάτινα μονοπάτια είναι δημοφιλή στην Αφρική. Προσθέτουν αυθεντικότητα στον ζωολογικό κήπο σας και θα κάνουν πολλά ζώα να νιώσουν σαν στο σπίτι τους.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Πορθμός]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Πιτσιλιές, πιτσιλιές, πιτσιλιές! Φορέστε τις λαστιχένιες μπότες σας, φουσκώστε τη λαστιχένια βάρκα σας και πάρτε μια λαστιχένια πάπια - θα υπάρχει πολύ νερό σε αυτό το ταξίδι!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Παγωμένος δρόμος]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Γιούπι! Ένας παγωμένος δρόμος - αυτό θα είναι διασκεδαστικό! Οι επισκέπτες σας θα διασκεδάσουν γλιστρώντας στον παγωμένο δρόμο. Προσοχή, δεν είναι αλατισμένος!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Οδός Σαβάνα]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[Ένα καλοδιατηρημένο μονοπάτι διασχίζει τη σαβάνα, καθιστώντας την ιδανική για αναζήτηση ιχνών όπως σε ένα σαφάρι.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Δρόμος της ερήμου]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Κάτω από την καυτή ζέστη του ήλιου, άμμος φυσάει πάνω από την έρημο, εξαφανίζοντας κάθε ίχνος.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Πέτρινο μονοπάτι]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Αυτό το μονοπάτι είναι αρκετά ανώμαλο. Υπάρχουν μεγάλες πέτρες και βράχοι πάνω του, επομένως είναι απαραίτητο να φοράτε καλά παπούτσια. Προσέξτε να μην πέσετε!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Μονοπάτι Τούνδρας]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[Οι επισκέπτες σας θα χρειαστούν πυξίδα σε αυτό το μονοπάτι, αλλά είναι επίσης συνετό να ακολουθήσετε το πεπατημένο μονοπάτι.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Χιονισμένος δρόμος]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[Κολλώδες χιόνι απλώνεται στο χιονισμένο μονοπάτι, το οποίο οι επισκέπτες σας θα περπατήσουν με τις ζεστές τους μπότες. Όλα είναι τόσο όμορφα εδώ!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Μονοπάτι της ερήμου]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[Στην άγρια ​​φύση, είναι καλύτερο να μένεις στο δρόμο. Υπάρχουν τοξίνες και απόβλητα παντού. Οι λαστιχένιες μπότες με καλές σόλες είναι απαραίτητες!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Αλπική διαδρομή]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Αυτό το μονοπάτι πεζοπορίας θα σας οδηγήσει πάνω κάτω στις Άλπεις. Τα καλά παπούτσια με σταθερή στήριξη στον αστράγαλο θα σας προστατεύσουν από ολίσθηση!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Μονοπάτι σπηλαίου]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Κράτα τα μάτια σου ανοιχτά για να μην γλιστρήσεις. Ίσως εντοπίσεις έναν λαμπερό κόκκο χρυσού ανάμεσα στις πέτρες.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Δασικό μονοπάτι]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[Τις βροχερές μέρες αυτό το μονοπάτι μπορεί να είναι λίγο λασπωμένο, αλλά το καλοκαίρι το δάσος είναι απολύτως ειδυλλιακό.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Παράκτιος δρόμος]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Το περπάτημα ξυπόλητο σε αστραφτερή άμμο, κοχύλια, φύκια και περιστασιακά σε αστερίες είναι πολύ ωφέλιμο για την υγεία σας!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Μαγικό μονοπάτι]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[Το φωτεινό μπλε μονοπάτι, που είναι εξωπραγματικό, μπορεί να φαίνεται τρομακτικό, αλλά είναι επίσης και περιπετειώδες. Πού οδηγεί;]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Μονοπάτι Ζάχαρης Γης]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Ψίχουλα! Ωχ! Πάτησες κάποια καραμέλα; Προσοχή, υπάρχουν τσίχλες καθ' οδόν! Πόσο όμορφα χρωματιστά είναι εδώ!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Μονοπάτι στο δάσος μπαμπού]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[Η ομίχλη διασχίζει ένα απέραντο, σχεδόν αδιαπέραστο δάσος από μπαμπού. Το χτύπημα ενός δρυοκολάπτη ακούγεται στο βάθος. Απλά ειδυλλιακό!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Μονοπάτι του δάσους]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Αν δεν θέλετε να πηδάτε από κλήμα σε κλήμα σε αυτή τη ζούγκλα, μπορείτε να περπατήσετε σε αυτό το πεζοδρομημένο μονοπάτι. Προσοχή: Κατά καιρούς, κάποιο φίδι ή αράχνη μπορεί να διασχίσει το μονοπάτι.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[Το μονοπάτι μέσα από το βάλτο]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[Οι επισκέπτες σας θα πρέπει να θυμούνται να παραμένουν στο σωστό μονοπάτι μέσα στο βάλτο. Ένα λάθος βήμα και θα πέσουν στη λάσπη!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Ξύλινη πλατφόρμα]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Δεν υπάρχει τίποτα καλύτερο από το να περπατάς κατά μήκος μιας ξύλινης προβλήτας και να ακούς το τρίξιμο του καταστρώματος ενός πλοίου. Οι επισκέπτες σας θα ζήσουν μια πραγματική παράκτια εμπειρία.]]></item>
+  </category>
+</language>

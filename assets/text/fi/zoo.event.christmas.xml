@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[Hyvää joulua!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[Joulukuun 21. päivästä tammikuun 2. päivään kaikki eläintarhassasi pyörii joulun ympärillä! Koristele joulukuusi ja auta minua pelastamaan joulu!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Nosta ensin kahdeksan lentävää poroa ja sitten yksi joulupukki Rudolf rekeensä. Saat lahjan jokaisesta tuomastasi porosta.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Aika ajoin joulupukki antaa sinulle myös joulukuusen koristeen. Lopulta voit pitää koristellun kuusen.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Hurraa, meillä on täällä myös erityinen joulukokoelma! Pidä huolta eläimistäsi ja kerää joulutavaroita. Voit myös käyttää niitä porojen kasvattamiseen!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Upeita yllätyksiä joulukaupassa]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Muunna eläintarhasi värikkääksi talvimaailmaksi: paljon uusia ja suosittuja joulukoristeita.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Hyvää joulua ja pitäkää hauskaa joulutapahtumassa!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[Tämä on kamalaa! Joulupukin porot ovat karanneet, eikä hän nyt voi jakaa lahjoja! Tuo hänelle 8 lentävää poroa ja Joulupukin Rudolf ja aseta ne hänen rekensä eteen. Kiitoksena saat upeita lahjoja!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Joulupukki on matkalla kohteeseen:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Voitit:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Katso joulukuustasi parkkipaikalla!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Hanki uusi asu avatarillesi!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Nopea, katso varastoasi!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Kiitos!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Porosi odottavat innolla pääsyä tien päälle. Sinun ansiostasi joulu on pelastettu!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Kiitos!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Osa poroistani puuttuu vielä, mutta minun on aika lähteä matkaan! Älä huoli, minä hoidan asian – olenhan minä Joulupukki!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[Koristeltu joulukuusi parkkipaikaltasi on nyt tavaraluettelossasi.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Ensin viedään kahdeksan taikaporoa joulupukille.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Joulupukilla on jo kahdeksan lentävää poroa, ja hän tarvitsee vain Rudolfin!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Joulukoristeita]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Jouluasut]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Pari lumista pöllöä]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Urospuolisten taikaporojen lukumäärä tavaraluettelossasi.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Lentävien naaraspeurojen lukumäärä tavaraluettelossasi.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Ennen kuin tuot joulupukille hänen Rudolphinsa, hän tarvitsee ensin kahdeksan lentävää poroa.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Miespuolisten Joulupukki Rudolphien lukumäärä tavaraluettelossasi.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Naispuolisten Joulupukki Rudolphien lukumäärä tavaraluettelossasi.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.waterstorehouse">
+    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Vesitorni]]></item>
+    <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Varastorakennus]]></item>
+    <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Eläimet tarvitsevat paljon vettä. Nosta vesitorniasi taso tasolta ja varmista, että sinulla on tarpeeksi vettä kaikille eläintarhan kasvaessa.]]></item>
+    <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Eläimesi tarvitsevat paljon ruokaa. Laajenna varastotasoasi tasolta ja varmista, että sinulla on tarpeeksi ruokaa kaikille eläintarhan kasvaessa.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Bravo! Olet laajentanut varastoa maksimitasolle.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[Bravo! Olette laajentaneet vesitornia maksimitasolle.]]></item>
+    <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Aktualní stupeň rozšíření: %have% / %max%]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.water"><![CDATA[Vesitornin nykyinen kapasiteetti]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.store"><![CDATA[Tallennustilan nykyinen kapasiteetti]]></item>
+    <item name="zoo.window.waterstorehouse.buy.titel"><![CDATA[Laajentaa]]></item>
+    <item name="zoo.window.waterstorehouse.buy.text"><![CDATA[Haluaisitko laajentaa eläintarhaasi?]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgraderc"><![CDATA[Laajenna Zoodollareille]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Laajenna zoogrosh-sivustolle]]></item>
+    <item name="zoo.window.waterstorehouse.buy.nextcap"><![CDATA[Uusi koko:]]></item>
+  </category>
+</language>

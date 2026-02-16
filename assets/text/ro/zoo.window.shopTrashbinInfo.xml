@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Coș de gunoi]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Oamenii lasă gunoi în urmă! Cu cât ai mai multe coșuri de gunoi în grădina zoologică, cu atât mai puțin trebuie să strângi după vizitatori.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Coș de gunoi Mumie]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Uff... Vreau gunoi!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Fantoma coșului de gunoi]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuuuuu... Gunoi]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Vampirul coșului de gunoi]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Am nevoie de ceva de care să mușc. Dă-mi gunoiul tău!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Monstrul coșului de gunoi]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmmm ... Gunoiul e bun!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Coș de gunoi pentru ziua de naștere]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmm, hârtie de împachetat!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Coș de gunoi pentru balene]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA[„Îți voi înghiți toate gunoaiele!”]]></item>
+  </category>
+</language>

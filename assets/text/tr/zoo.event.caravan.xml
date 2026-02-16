@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Nüfusunu artırmak istedikleri bir koruma alanına gidiyorum. Bana yardımcı olabilir misiniz? Size 120 saatliğine bir çift %species% ödünç vereceğim. %amount% adet %species% yavru karşılığında bir yetişkin alacaksınız.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Bir çift ödünç alın]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Anakonda]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Harika! Artık envanterinizde en az 5 yavru orangutan var. Bunları hemen benimle bir yetişkin orangutanla takas edin!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Harika! Bana gerçekten çok yardımcı oldunuz! Şimdi yavruları koruma alanına götürüp oradaki doğal ortamlarına salacağım. Çok teşekkür ederim, bir dahaki sefere görüşmek üzere!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[Hayvan taşıma aracı, ödünç aldığınız iki hayvanı da beraberinde getirerek rezerv alanına geri dönüyor. Yeni doğan yavrularınızı envanterinizde bulabilirsiniz.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Yavruları değiştirmek için %count% saatiniz kaldı.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Envanterinizdeki Bebek Orangutanlar]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Orangutan yavrularını envantere taşıyın.]]></item>
+    </category>
+  </category>
+</language>

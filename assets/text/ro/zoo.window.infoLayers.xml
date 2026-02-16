@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.infoLayers">
+    <category name="zoo.window.infoLayers.forgottenZoo">
+      <item name="zoo.window.infoLayers.forgottenZoo.title"><![CDATA[Grădină Zoologică Ascunsă]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.info"><![CDATA[Felicitări! Cu a treia expansiune, regatul Grădinii Zoologice Ascunse este acum la picioarele tale! Săgeata din parcare te va îndruma către Grădina Zoologică Ascunsă.]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.expansion"><![CDATA[Pentru o perioadă limitată, poți extinde Grădina Zoologică Secretă la dimensiunea sa maximă cu o singură achiziție! Accesează Grădina Zoologică Secretă, deschide magazinul și dă clic pe „Suplimente”. Vei găsi oferta aici!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemreward">
+      <item name="zoo.window.infoLayers.itemreward.recycling.title"><![CDATA[Reciclarea a fost reușită!]]></item>
+      <item name="zoo.window.infoLayers.itemreward.recycling.info"><![CDATA[Grozav, a meritat! Ai reciclat aceste materiale din gunoi. Le vei găsi în inventarul tău.]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.title"><![CDATA[Cutie surpriză]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.info"><![CDATA[Ura! Cutia ta surpriză a fost umplută cu materialele de mai sus, pe care le poți folosi pentru procesare ulterioară. Le găsești în inventarul tău.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedingLabNursery">
+      <item name="zoo.window.infoLayers.breedingLabNursery.info"><![CDATA[Creșteți noi specii de animale! Stația de reproducere și pepiniera sunt acum disponibile! Faceți clic pe elefantul albastru: Puteți găsi clădirile în centrul de control.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterNotification">
+      <item name="zoo.window.infoLayers.easterNotification.title"><![CDATA[Cumpărături de Paște]]></item>
+      <item name="zoo.window.infoLayers.easterNotification.text"><![CDATA[Articolul achiziționat a fost salvat în inventarul dvs.<br><br>Doriți să deschideți inventarul acum?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterComic">
+      <item name="zoo.window.infoLayers.easterComic.layer1.bubble"><![CDATA[Bun venit la evenimentul de Paște! Între **21 și 27 aprilie**, Iepurașul de Paște va împărți ouă. Colecționează-le, te așteaptă recompense grozave. Apasă pe săgeată pentru a afla mai multe.]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer2.content"><![CDATA[Decorațiunile minunate de Paște îți vor aduce cu 50% mai mult BZ pentru toate evenimentele din incinte timp de 7 zile. Fă fotografii cu grădina zoologică de Paște și distribuie-le prietenilor tăi pe Facebook sau pe forum!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.header"><![CDATA[Hai să căutăm ouă de Paște!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.content"><![CDATA[Drăgălașele joystick-uri de Paște vor atrage o mulțime de clienți. Și partea cea mai bună? Vor rămâne în grădina zoologică chiar și după Paște - așa cum se cuvine unei atracții adevărate!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer4.content"><![CDATA[Țărcul de Paște este întotdeauna o atracție, indiferent de animalele care trăiesc în el. Țărcurile de Paște vă vor aduce cu 20% mai mult BZ încă de la început!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.bubble"><![CDATA[Iepurașul de Paște împarte ouă în mod regulat. Dar odată ce există mai mult de 5 ouă în grădina zoologică, depunerea ouălor se va termina. Sfat: Dacă vrei să te asiguri că aduni toate ouăle de fiecare dată, cere sfatul Soniei, ajutoarei tale de Paște!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.content"><![CDATA[Un singur iepuraș nu este suficient pentru tine? Atunci mai sunt iepurași de Paște care te așteaptă în secțiunea de accesorii a magazinului. Aruncă o privire!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Notification">
+      <item name="zoo.window.infoLayers.easter2012Notification.title"><![CDATA[Cumpărături de Paște]]></item>
+      <item name="zoo.window.infoLayers.easter2012Notification.text"><![CDATA[Articolul achiziționat a fost salvat în inventarul dvs.<br><br>Doriți să deschideți inventarul acum?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Comic">
+      <item name="zoo.window.infoLayers.easter2012Comic.layer1.bubble"><![CDATA[Sărbătorește Paștele la grădina zoologică! Vânătoarea de ouă de Paște va avea loc între 5 și 11 aprilie! Alătură-te acestei extravaganțe de Paște și câștigă premii grozave și surprize! Iată cum:]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și găsește toate ouăle colorate din țarcurile tale. Colectează și pune ouăle înapoi pe tabla de joc de Paște.<br><br>Notă: numărul de ouă din câmpurile tale se dublează în fiecare rundă!]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer3.content"><![CDATA[Pune ouăle de Paște pe câmpul de joc corespunzător. Avem câmpuri roșii, verzi și albastre. Recompense fantastice de Paște și animale drăguțe te așteaptă!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.fullScreen">
+      <item name="zoo.window.infoLayers.fullScreen.keyboard"><![CDATA[Doriți să ieșiți din previzualizarea pe tot ecranul pentru a putea tasta din nou?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventUpgrade">
+      <item name="zoo.window.infoLayers.eventUpgrade"><![CDATA[Dă-le cutiilor tale un aspect și mai distinctiv, specific unei zile de naștere, și vei obține 125% BZ și o șansă mai mare de a avea baloane în timpul evenimentului!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolbar">
+      <item name="zoo.window.infoLayers.toolbar.title"><![CDATA[Bonus]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info1"><![CDATA[Grozav! Ai primit un bonus în bara de instrumente pentru conectare:]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info2"><![CDATA[Conectează-te din nou mâine folosind bara de instrumente și primești încă un bonus!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemInInventory">
+      <item name="zoo.window.infoLayers.itemInInventory.title"><![CDATA[Felicitări!]]></item>
+      <item name="zoo.window.infoLayers.itemInInventory.text"><![CDATA[Ați achiziționat următorul articol pentru inventarul dvs.:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.animalInInventory">
+      <item name="zoo.window.infoLayers.animalInInventory.text"><![CDATA[Următorul animal a fost adăugat în inventarul tău:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemRedeemed">
+      <item name="zoo.window.infoLayers.itemRedeemed.title"><![CDATA[Felicitări!]]></item>
+      <item name="zoo.window.infoLayers.itemRedeemed.success"><![CDATA[Recompensa ta a fost creditată.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.action.sorry">
+      <item name="zoo.window.infoLayers.action.sorry.title"><![CDATA[Ne cerem scuze!]]></item>
+      <item name="zoo.window.infoLayers.action.sorry.text"><![CDATA[Ne pare rău, dar acest eveniment nu este disponibil momentan.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.purchaseConfirmed">
+      <item name="zoo.window.infoLayers.purchaseConfirmed.title"><![CDATA[Felicitări!]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.simple"><![CDATA[Achiziția a fost creditată.]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.gift"><![CDATA[Achiziția ta a fost creditată și cadourile tale au fost expediate.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.welcomeBack">
+      <item name="zoo.window.infoLayers.welcomeBack.title"><![CDATA[Bine ai revenit!]]></item>
+      <item name="zoo.window.infoLayers.welcomeBack.text"><![CDATA[Animalele sunt încântate să te revadă.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedInInventory">
+      <item name="zoo.window.infoLayers.breedInInventory.title"><![CDATA[Atenţie!]]></item>
+      <item name="zoo.window.infoLayers.breedInInventory.text"><![CDATA[Reproducerea este în curs de desfășurare aici.<br> <br>Dacă mutați incinta în inventar, procesul de reproducere va fi anulat.<br> <br>Sigur doriți să continuați?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.collectables">
+      <item name="zoo.window.infoLayers.collectables.firstFinish.title"><![CDATA[Felicitări!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.text"><![CDATA[Ura! Ai găsit toate părțile din %collection% pentru prima dată!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.button.socialShare"><![CDATA[Arată-le prietenilor]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.title"><![CDATA[Felicitări!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.text"><![CDATA[Ai finalizat %colecția% pentru a doua oară!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.button.getGift"><![CDATA[Utilizare]]></item>
+      <item name="zoo.window.infoLayers.collectables.button.viewCollection"><![CDATA[Vezi colecția]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.adamPenguin">
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.title"><![CDATA[Pachet superior „Pantera Neagră”]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.text"><![CDATA[Acum și aici și doar o singură dată disponibil. „Pantera Neagră” este aici exclusiv pentru tine. Și ceva în plus, cum ar fi toți ajutoarele gratuite timp de 24 de ore!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.title"><![CDATA[Pachetul „Tigrul Alb”]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.text"><![CDATA[Ofertă unică - „pachet combinat” pentru un început excelent! Echipamentul tău pentru început la o ofertă excelentă!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.title"><![CDATA[Pachet „Terariu”]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.text"><![CDATA[Ofertă unică - „pachet combinat” pentru un început excelent! Echipamentul tău pentru început la o ofertă excelentă!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.title"><![CDATA[Pachetul „Prerie”]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.text"><![CDATA[Ofertă unică - „pachet combinat” pentru un început excelent! Echipamentul tău pentru început la o ofertă excelentă!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.title"><![CDATA[Bonus de fidelitate]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.text"><![CDATA[Disponibil doar aici: un pachet Zoodollars cu bonusul tău personal de loialitate! Apasă pe „cumpără” și primești mai multe bonusuri.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.payment">
+      <item name="zoo.window.infoLayers.payment.happyHourHeader"><![CDATA[Zoodolari plus %percent%%!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBody"><![CDATA[Acum dorința ta se va îndeplini!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_1"><![CDATA[Primește zoodolari suplimentari astăzi!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_2"><![CDATA[Cumpără, de exemplu, 100 de zoodolari și primești un total de %extradollar% zoodolari!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_3"><![CDATA[Se aplică tuturor metodelor de plată, cu excepția transferului.]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourFin"><![CDATA[Nu ezita! Oferta este încă valabilă:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.conversionPack">
+      <item name="zoo.window.infoLayers.conversionPack_header"><![CDATA[Exclusiv - doar %priceCurrency%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_save"><![CDATA[Economisiți %economii%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_footer"><![CDATA[Și mult mai multe...]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_infoHeader"><![CDATA[Nu ezita și economisește %economii%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info1"><![CDATA[<ul><li>1 pereche de femele de câine</li><li>1 x incintă de savană</li><li>1 iaz cu lebede</li><li>15 x super-aliment</li><li>15 x cea mai bună hrană</li><li>10 x supermedicina</li><li>75 zoodolari</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info2"><![CDATA[<ul><li>1 pereche de râși</li><li>toți cei 6 asistenți timp de 24 de ore</li><li>1 incintă de stâncă</li><li>1 statuie de pasăre dodo</li><li>25x super-aliment</li><li>25x cel mai bun aliment</li><li>25x supermedicin</li><li>150 zoodolari</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info3"><![CDATA[<ul><li>1 pereche de tigri albi</li><li>toți cei 6 asistenți timp de 24 de ore</li><li>1 incintă tundră</li><li>1 urs statuia libertății</li><li>40x superaliment</li><li>35x cea mai bună mâncare</li><li>30x supermedicina</li><li>200 zoodolari</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.paymentBug">
+      <item name="zoo.window.infoLayers.paymentBug.title"><![CDATA[Dragi jucători]]></item>
+      <item name="zoo.window.infoLayers.paymentBug.info"><![CDATA[Din cauza unei erori, ți-au fost acordate prea multe articole în pachet. Din păcate, trebuie să eliminăm aceste articole, deoarece nu ar fi corect față de jucătorii care au achiziționat același pachet. Ți-am acordat 500 de labe drept compensație pentru această neînțelegere.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventPack">
+      <item name="zoo.window.infoLayers.eventPack_header"><![CDATA[Ia un coș de Crăciun unic!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title1"><![CDATA[Vrei să faci evenimentul tău de Crăciun să meargă mai repede? Ia un coșuleț de Crăciun care poate fi cumpărat o singură dată!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info1"><![CDATA[<ul><li>10x mere confiate</li><li>3x Esență Tolia</li><li>3x Poțiune de creștere</li><li>5x Superalimente</li><li>5x Cea mai bună mâncare</li><li>25 Zoodolari</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title2"><![CDATA[Vrei să faci evenimentul tău de Crăciun să meargă mai repede? Ia un coș mare de Crăciun care poate fi achiziționat o singură dată!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info2"><![CDATA[<ul><li>60x mere confiate</li><li>toți cei 7 ajutoare timp de 24 de ore</li><li>20x esență de tolija</li><li>20x poțiune de creștere</li><li>20x super-aliment</li><li>20x cea mai bună mâncare</li><li>50 zoodolari</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.cinema">
+      <item name="zoo.window.infoLayers.cinema.limit"><![CDATA[Din păcate, nu mai ai bilete la film.]]></item>
+      <item name="zoo.window.infoLayers.cinema.success1"><![CDATA[Iuhuu! Iată recompensa ta pentru că ai vizionat filmul:]]></item>
+      <item name="zoo.window.infoLayers.cinema.success2"><![CDATA[Creditul va fi aplicat în următoarea oră.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012">
+      <item name="zoo.window.infoLayers.easter2012.limit"><![CDATA[Nu ai suficiente ouă de Paște.]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success1"><![CDATA[Ura! Ai câștigat următoarea recompensă:]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success2"><![CDATA[Mult noroc în găsirea ouălor!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.avatar">
+      <item name="zoo.window.infoLayers.avatar.Check"><![CDATA[Avatarul tău a fost salvat cu succes.]]></item>
+      <item name="zoo.window.infoLayers.avatar.X"><![CDATA[Sigur vrei să închizi această fereastră? Avatarul tău nu a fost încă salvat!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.saveAssets">
+      <item name="zoo.window.infoLayers.saveAssets.text1"><![CDATA[Vrei ca jocul tău să se încarce mai repede? ZooMumba are grafică foarte solicitantă. Dacă dorești, putem salva imaginile direct pe hard disk. În acest fel, jocul se va încărca mult mai repede!]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text2"><![CDATA[Pentru a activa aceste modificări, pur și simplu faceți clic pe „Permite” data viitoare când se deschide fereastra. În caz contrar, datele jocului vor continua să fie stocate în memoria cache a browserului.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text3"><![CDATA[Dacă decideți altfel, pur și simplu deschideți setările ZooMumba și activați sau dezactivați memoria cache.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.yes"><![CDATA[Da, salvează pe hard disk (recomandat)]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.no"><![CDATA[Nu, continuă să utilizezi memoria cache a browserului]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.doublexp">
+      <item name="zoo.window.infoLayers.doublexp.allitems"><![CDATA[Treci la nivelul următor mai repede! Obține dublul cantității de BZ pentru activitățile din padocuri!]]></item>
+      <item name="zoo.window.infoLayers.doublexp.specialitems"><![CDATA[Obține puncte de experiență suplimentare! Aceste animale îți vor oferi o doză dublă de BZ:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.specialShopItem">
+      <item name="zoo.window.infoLayers.specialShopItem.title"><![CDATA[Super ofertă: Doar pentru scurt timp!]]></item>
+      <item name="zoo.window.infoLayers.specialShopItem.infotext"><![CDATA[Astăzi este o zi specială pentru animale speciale: Le sărbătorim zilele de naștere! Disponibil în magazin doar pentru o perioadă scurtă de timp:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012">
+      <item name="zoo.window.infoLayers.frog2012.limit"><![CDATA[Din păcate, îți lipsesc obiecte bonus. Nu renunța!]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success1"><![CDATA[Lovitură! Ai câștigat o recompensă grozavă:]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success2"><![CDATA[Găsește și mai multe articole! Mult noroc!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Notification">
+      <item name="zoo.window.infoLayers.frog2012Notification.title"><![CDATA[Cumpărarea de obiecte de colecție]]></item>
+      <item name="zoo.window.infoLayers.frog2012Notification.text"><![CDATA[Articolul achiziționat se află acum în depozitul grădinii zoologice. Doriți să deschideți un depozit?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Comic">
+      <item name="zoo.window.infoLayers.frog2012Comic.layer1.bubble"><![CDATA[Între 17 și 23 mai, grădina zoologică va fi ca un basm. Multă distracție și premii grozave vă așteaptă în timpul Evenimentului Broasca Regală! </br></br>În pașii următori, vă vom arăta cum:]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează obiecte bonus speciale: o broască încoronată, aripioare sau o coroană. Apoi schimbă-le pe tabla de joc cu broaște pentru premii grozave.]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer3.content"><![CDATA[Poți juca oricâte runde dorești. Vei avea nevoie de tot mai multe obiecte, dar premiile vor fi din ce în ce mai fabuloase! În curând, Regele Broaște va orăcăi și în grădina zoologică a ta!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australien2012Comic">
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Soare, valuri și marsupiale - între 25 iunie și 3 iulie te poți distra în grădina zoologică în stil australian! Nu rata ocazia și câștigă premii australiene grozave! </br></br>În pașii următori, îți vom arăta cum:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează obiecte bonus speciale: o placă de surf, o piatră roșie sau cremă de protecție solară. Apoi schimbă-le pentru surprize grozave pe terenul de joc australian.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Poți juca oricâte runde dorești. Cu cât colectezi mai multe obiecte, cu atât câștigurile tale vor fi mai magice! Transformă-ți grădina zoologică într-o mică Australia!]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Soare, valuri și marsupiale - între 25 iunie și 3 iulie te poți distra în grădina zoologică în stil australian! Nu rata ocazia și câștigă premii australiene grozave! </br></br>În pașii următori, îți vom arăta cum:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează obiecte bonus speciale: o placă de surf, o piatră roșie sau cremă de protecție solară. Apoi schimbă-le pentru surprize grozave pe terenul de joc australian.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Poți juca oricâte runde dorești. Cu cât colectezi mai multe obiecte, cu atât câștigurile tale vor fi mai magice! Transformă-ți grădina zoologică într-o mică Australia!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.indien2012Comic">
+      <item name="zoo.window.infoLayers.indien2012Comic.layer1.bubble"><![CDATA[Salut, salut! Vrei să te distrezi între 19 și 26 iulie? Permite-mi să-ți spun ceva despre acest eveniment:]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer2.content"><![CDATA[În timp ce ai grijă de animalele tale, fii atent la obiectele speciale care apar: tatuaje cu henna, bâte de cricket și Taj Mahal. Colecționează-le și schimbă-le pentru recompense interesante la grădina zoologică!]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Cu cât colectezi mai multe obiecte, cu atât recompensele sunt mai bune. India este aici!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.anniversary2012Comic">
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.bubble"><![CDATA[La mulți ani! Sărbătoriți a doua aniversare a ZooMumba alături de noi!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.content"><![CDATA[Adună cât mai multe coarne, pălării de petrecere și pahare de șampanie pentru jocurile noastre de petrecere. Ai putea câștiga o cușcă de petrecere cu o mulțime de bunătăți!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer2.content"><![CDATA[Ce ar fi o petrecere fără baloane? Ai grijă de animalele tale, colecționează baloane și schimbă-le pe terenul de joc pentru surprize nebunești de petrecere.]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer3.content"><![CDATA[Poți repeta rundele individuale de joc de câte ori dorești. Vei avea nevoie de tot mai multe obiecte care vor apărea la recoltare, dar recompensele vor fi din ce în ce mai bune. Hip, hip, ura! Slavă tuturor directorilor de grădini zoologice!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.oktoberfest2012Comic">
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer1.bubble"><![CDATA[Să înceapă petrecerea! A sosit Oktoberfest - vino și sărbătorește în stil bavarez!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer2.content"><![CDATA[În perioada 1-7 octombrie, puteți colecționa beer pong, covrigei moi și pălării tradiționale, precum și recompense fantastice, cum ar fi o casă nouă: Oktoberfest - un parc de distracții!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer3.content"><![CDATA[Poți juca oricât de des dorești. Vei avea nevoie de o rezervă de obiecte pop-up, dar vei primi în schimb recompense tradiționale bavareze. Așa că nu ezita, te vei distra de minune!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.circusHelpcomic">
+      <item name="zoo.window.infoLayers.circusHelpcomic.layer1.content"><![CDATA[În circ sunt o mulțime de lăzi cu animale exotice. După primele 5 ore, un animal va sări din cușcă la tine! Ce fel de animal va fi?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Layer">
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble1"><![CDATA[Livrați puii. Fiecare lumină aprinsă înseamnă mai multe premii grozave!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble2"><![CDATA[Livrați merele confiate. Fiecare lumină aprinsă înseamnă mai multe premii grozave!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer2.bubble"><![CDATA[Vinde-ți animalele pentru zoogrosh și luminează bradul de Crăciun!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.singleplayer.success"><![CDATA[Bravo! Totul este luminat și ai adunat toate recompensele!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.multiplayer.success"><![CDATA[Felicitări! Împreună am luminat întregul brad de Crăciun și am strâns premii grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Comic">
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.bubble"><![CDATA[Crăciun fericit! Vă rog să mă ajutați să aprind luminile de Crăciun. Pentru fiecare bec pe care îl aprindeți, puteți câștiga diverse premii de sărbători, cum ar fi o vulpe arctică!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.content"><![CDATA[Pentru a aprinde luminile, trebuie să adăugați mere caramelizate sau animale mici din inventarul vostru.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer2.content"><![CDATA[Unele lumini pot fi aprinse doar cu mere de caramel. Merele vor ieși din căsuțele animalelor. Poți cumpăra mai multe mere pentru a progresa mai repede.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer3.content"><![CDATA[Selectează un pui din inventarul tău și livrează-l. Sfat: Cu cât nivelul de reproducere al animalului este mai mare, cu atât mai repede poți aprinde luminile!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.multiplayer.bubble"><![CDATA[Aici trebuie să lucreze împreună toți directorii de grădini zoologice: Vindeți animalele din inventarul vostru pentru zoogros. Împreună veți aprinde bradul pas cu pas și veți câștiga premii grozave de Crăciun.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentines2013Comic">
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer1.bubble"><![CDATA[Bine ați venit la evenimentul de Ziua Îndrăgostiților! Între 14 și 25 februarie, pregătiți-vă pentru o poveste de dragoste serioasă! Joacă jocul nostru de Ziua Îndrăgostiților și câștigă premii grozave!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer2.content"><![CDATA[Ai grijă de animalele tale, colectează brioșe, baloane în formă de inimă și felicitări. Parcurge terenul de joc pas cu pas și obține recompense pe parcurs. Premiul principal vor fi berze pentru grădina zoologică!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Vei avea nevoie de mai multe obiecte pop-up, dar îți vor crește șansele de a obține mai multe recompense!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.multiplayer.bubble"><![CDATA[Nu uita: toți directorii de la grădina zoologică joacă împreună. Vinde animale din inventarul tău pentru a câștiga bani. Avansează până în vârful muntelui de pluș, unde pisicile margay te așteaptă drept recompensă!]]></item>
+      <item name="zoo.window.infoLayers.valentines.multiplayer.success"><![CDATA[Felicitări! Ai atins culmile grămezii de plușuri și ai câștigat recompense pe parcurs.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterEvent2013Comic">
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer1.bubble"><![CDATA[Bine ați venit la evenimentul Grădinii Zoologice de Paște! În perioada 27 martie - 8 aprilie, grădina zoologică se va transforma într-un curcubeu colorat! Colectați pui colorați în jocul nostru de Paște și schimbați-i pentru premii grozave!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează pui colorați pe măsură ce lucrezi! Mergi pas cu pas pe terenul de joc și colectează toate recompensele pe parcurs. Premiul principal va fi un emu!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Obține premii grozave în fiecare rundă.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.multiplayer.bubble"><![CDATA[Nu uita: toți directorii de la grădina zoologică joacă împreună. Vinde animale din inventarul tău pentru a câștiga bani. Ajunge în vârful grămezi de plușuri și, dacă reușești, vei câștiga o pereche drăguță de furnicari!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.intro"><![CDATA[Vinde animalele din inventarul tău și urcă împreună pe muntele de pluș.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.success"><![CDATA[Felicitări! Ai atins culmile grămezii de plușuri și ai câștigat recompense pe parcurs.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frenchEvent2013Comic">
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer1.bubble"><![CDATA[Bun venit la evenimentul Grădina Zoologică Franceză! Mergem într-o excursie în Franța între 11 și 16 iulie! Colectează obiecte pentru jocul nostru francez și schimbă-le pentru recompense fantastice!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează obiectele care sparg. Parcurge câmpul de joc pas cu pas și obține recompense pe parcurs. Premiul principal sunt mufloni!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Vei găsi premii distractive în fiecare rundă.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthdayEvent2013Comic">
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer1.content"><![CDATA[Ura! Pentru a sărbători a treia noastră aniversare, am pregătit un festival de tir: trageți cu baloane între 15 și 28 august și urmăriți cum recompensele vor cădea asupra voastră! Veți primi darts gratuit în fiecare zi.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer2.content"><![CDATA[Introdu baloane în jocul de societate. Fiecare balon introdus te aduce mai aproape de premiu. Câștigă decorațiuni senzaționale pentru ziua de naștere și animale noi.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Sfat: Conectează-te în fiecare zi și obține și mai multe darts cu bonusul zilnic de conectare!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.over"><![CDATA[Încă mai ai nevoie de baloane pentru acest pas (număr: %count). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.default"><![CDATA[Pe aici, spre festivalul de tir! Sparge baloanele și câștigă premii grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.hungaryEvent2013Comic">
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer1.bubble"><![CDATA[Bine ați venit la evenimentul maghiar de la grădina zoologică! Veniți cu noi într-o excursie în Ungaria între 12 și 24 septembrie! Colectați ardei pentru jocul nostru maghiar și schimbați-i pentru premii fantastice!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează ardei. Parcurge câmpul de joc pas cu pas și obține recompense. Premiul principal sunt animale noi!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer3.content"><![CDATA[Joacă câte runde dorești. Un mic avertisment: Ardeii vor apărea până la ora 12:00 pe 23 septembrie. Cu toate acestea, îi poți schimba până pe 24 septembrie.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2013Comic">
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer1.bubble"><![CDATA[O, da! Pinguinii aceia obraznici se jucau cu rune magice și au reușit să scape! Iată-i pe Flubber, Larry și Swabby! Folosește pata de plasmă și prinde-i repede înainte să facă vreo năzbâtie!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer2.content"><![CDATA[Ajută-l pe bunul Boo să prindă fantomele. Du-le pe terenul de joc și câștigă premii terifiante!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer3.content"><![CDATA[În fiecare zi în care te conectezi la joc, Boo îți va oferi bule de plasmă pentru a vâna fantome. Sfat: Ai grijă de animalele tale și bule de plasmă vor ieși din casele lor. Mult noroc!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.over"><![CDATA[Încă mai ai nevoie de fantome pentru acest pas (număr: %count). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.default"><![CDATA[Trimite-ți fantomele aici și câștigă premii grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.thanksGiving2013Comic">
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer1.bubble"><![CDATA[Bine ați venit la sărbătoarea Zilei Recunoștinței de la grădina zoologică! De data aceasta vom sărbători în SUA! Colectați frunze colorate și schimbați-le pentru recompense grozave.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și adună frunze colorate. Parcurge câmpul de joc pas cu pas și obține recompense pe parcurs. Premiul principal sunt animale noi pentru grădina zoologică!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Reține că frunzele vor cădea până la sfârșitul evenimentului, dar le poți schimba în continuare timp de 24 de ore după aceea.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.over"><![CDATA[Încă mai ai nevoie de frunze (număr: %count%) pentru acest pas. Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.default"><![CDATA[Trimiteți scrisorile aici și câștigați premii grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2013Comic">
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer1.bubble"><![CDATA[Hohoho! Vine Crăciunul la grădina zoologică! Între 19 decembrie și 7 ianuarie, puteți colecta ornamente de Crăciun din grădina zoologică și le puteți schimba pe farfurii colorate cu animale de iarnă și decorațiuni de Crăciun.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și decorațiuni colorate vor ieși din casele lor. Pas cu pas, mișcă-te pe terenul de joc și schimbă decorațiunile pentru recompense de sărbători.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer3.content"><![CDATA[Joacă câte runde dorești. Reține că decorațiunile vor apărea până la ora 12:00 pe 6 ianuarie, dar le poți schimba până la ora 12:00 pe 7 ianuarie.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.over"><![CDATA[Încă mai ai nevoie de decorațiuni pentru acest pas (număr: %count). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.default"><![CDATA[Trimiteți decorațiunile aici și câștigați premii grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.egypt2014Comic">
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer1.bubble"><![CDATA[Călătorește cu noi în Orient: Descoperă Egiptul antic, colecționează scarabei valoroși și schimbă-i într-un joc de societate egiptean.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează scarabei colorați care vor ieși din țarcurile tale. Progresează pe tabla de joc și schimbă ornamente pentru recompense orientale.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Reține că scarabeii vor apărea până la sfârșitul evenimentului. Cu toate acestea, îi poți schimba timp de 24 de ore după aceea.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.over"><![CDATA[Încă mai ai nevoie de scarabei pentru acest pas (număr: %count). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.default"><![CDATA[Livrați scarabeii aici și câștigați recompense grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014Comic">
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer1.bubble"><![CDATA[Prinde toate inimioarele: Colecționează cărți între 21 februarie și 10 martie în jocul nostru de societate de Ziua Îndrăgostiților!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează cărți colorate care vor ieși din țarcurile tale. Parcurge pas cu pas tabla de joc și schimbă-le pentru premii romantice.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Reține că cărțile vor apărea până la ora 12:00 pe 10 martie, dar le poți schimba până la ora 12:00 pe 11 martie.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.over"><![CDATA[Încă mai ai nevoie de felicitări pentru acest pas (număr: %count). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.default"><![CDATA[Trimite-ți dorințele aici și câștigă premii grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityComic">
+      <item name="zoo.window.infoLayers.valentine2014CommunityComic.multiplayer.bubble"><![CDATA[Nu uita: toți directorii de la grădina zoologică joacă împreună. Vinde animale din inventarul tău pentru zoogros. Ajunge în vârful muntelui de pluș - premii grozave te așteaptă la fiecare nivel!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.success"><![CDATA[Felicitări, ai reușit! Ai ajuns în vârful grămezii de inimioare și ai câștigat recompense pe parcurs.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.intro"><![CDATA[Schimbă-ți animalele aici și primește recompense dulci!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2014Comic">
+      <item name="zoo.window.infoLayers.easter2014Comic.layer1.bubble"><![CDATA[În perioada 10-28 aprilie 2014, grădina zoologică va fi în plină floare: Veniți și distrați-vă la fantasticul nostru eveniment de Paște! O mulțime de surprize de Paște și animale noi vă așteaptă în jocul de societate de Paște!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează ouă colorate de Paște care vor ieși din țarcurile tale. Parcurge pas cu pas câmpul de joc și schimbă ouăle pentru super recompense de primăvară.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer3.content"><![CDATA[Joacă câte runde dorești. Reține că ouăle de Paște vor apărea până la ora 12:00 pe 28 aprilie, dar le poți schimba până la ora 12:00 pe 29 aprilie.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.over"><![CDATA[Încă mai ai nevoie de ouă de Paște pentru acest pas (număr: %count%). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.default"><![CDATA[Livrați ouăle de Paște aici și câștigați premii grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.summer2014Comic">
+      <item name="zoo.window.infoLayers.summer2014Comic.layer1.bubble"><![CDATA[Febră de fotbal în grădina zoologică între 19 iunie și 1 iulie! Călătorește cu noi în Brazilia: Samba, fotbal, ritm brazilian și animale noi-nouțe te așteaptă în jocul nostru de societate!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează fructe colorate pentru cocktailuri care vor ieși din țarcurile tale. Parcurge pas cu pas tabla de joc și schimbă cocktailurile pentru super recompense de vară.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer3.content"><![CDATA[Joacă câte runde dorești. Reține că fructele pentru cocktail vor apărea până la ora 12:00 pe 30 iunie, dar le poți schimba până la ora 12:00 pe 1 iulie.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.over"><![CDATA[Pentru acest pas, încă mai ai nevoie de fructe cocktail (număr: %count). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.default"><![CDATA[Schimbă fructe de cocktail pentru super recompense aici!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthday2014Comic">
+      <item name="zoo.window.infoLayers.bday2014Comic.layer1.bubble"><![CDATA[Petrecere mare de ziua de naștere între 19 august și 2 septembrie! O mulțime de surprize fantastice vă așteaptă în jocul nostru de societate!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer2.content"><![CDATA[Introdu baloane în jocul de societate. Fiecare balon introdus te aduce mai aproape de premiu. Câștigă decorațiuni senzaționale pentru ziua de naștere și animale noi.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Reține: Poți colecta baloane din incinte doar până pe 27 august, ora 12:00. După aceea, ai la dispoziție 24 de ore să le folosești.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.over"><![CDATA[Încă mai ai nevoie de baloane pentru acest pas (număr: %count). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.default"><![CDATA[Pune baloane și câștigă premii grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2014Comic">
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer1.bubble"><![CDATA[Sărbătorește Halloween-ul alături de noi între 30 octombrie și 10 noiembrie! Te așteaptă o mulțime de surprize fantastice în jocul nostru de societate!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează slimelele care vor ieși din locuințele tale. Mergi pas cu pas pe terenul de joc și schimbă slimelele pentru recompense înfricoșătoare și minunate.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Reține că muștele de slime vor apărea doar până la ora 12:00 pe 10 noiembrie. După aceea, ai la dispoziție 24 de ore să le consumi.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.over"><![CDATA[Încă mai ai nevoie de țânțari de nămol pentru acest pas (număr: %count). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.default"><![CDATA[Trimiteți matrițele voastre de slime aici și câștigați premii grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recyclingComic">
+      <item name="zoo.window.infoLayers.recyclingComic.layer1.bubble"><![CDATA[Este incredibil ce aruncă oamenii! Există atât de multe materii prime valoroase în deșeuri: Separați deșeurile pentru reutilizare. Ajutați mediul înconjurător și pe dumneavoastră înșivă!]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer2.content"><![CDATA[Toate deșeurile colectate ajung direct la instalația de reciclare. Alegeți materia primă pe care doriți să o obțineți din deșeuri.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer3.content"><![CDATA[Alege câte articole vrei să faci din materialele selectate. Asigură-te că ai suficiente resturi și zoogros pentru a le face.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer4.content"><![CDATA[Pe lângă resursele normale, vei avea nevoie și de resurse rare. Utilizarea unui superfiltru îți va crește șansele de a obține o resursă rară din reciclare.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.craftingComic">
+      <item name="zoo.window.infoLayers.craftingComic.layer1.bubble"><![CDATA[Bună, sunt Inga Neer. Te voi ajuta să creezi obiecte noi folosind materii prime. Dar mai întâi, ai nevoie de un plan. Planurile de construcție sunt disponibile și pot fi găsite în toată grădina zoologică: la trecerea în nivel, din piesele de puzzle și recompense, din colecții, în safari sau pe roata norocului.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer2.content"><![CDATA[Toate planurile de construcție sunt stocate în atelier. Pur și simplu deschideți categoria pentru a vedea ce planuri aveți deja.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer3.content"><![CDATA[O bifă verde vă va arăta dacă aveți toate ingredientele. Dacă da, atunci puteți începe!]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer4.content"><![CDATA[Dacă vrei ca muncitorii tăi să se grăbească, încearcă „Craftsman Booster”. Adaugă-l și acum vor lucra de două ori mai repede! Folosind Zoo Dollars, poți termina producția în cel mai scurt timp.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recylingcraftingunlock">
+      <item name="zoo.window.infoLayers.recylingcraftingunlock.info"><![CDATA[Reciclează deșeurile din grădina zoologică și construiește ceva nou! Centrul de reciclare și atelierul sunt acum disponibile. Apasă pe elefantul albastru: Poți găsi clădirile în centrul de control.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolchange">
+      <item name="zoo.window.infoLayers.toolchange.info"><![CDATA[Construirea instalației de reciclare și a atelierului a necesitat o mulțime de unelte, pe care le-ați colectat și dumneavoastră. Ca să vă asigurăm că nu veți da greș, vă vom oferi puncte de experiență pentru uneltele pe care le colectați.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2014Comic">
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer1.bubble"><![CDATA[Crăciun fericit! Între 11 și 29 decembrie, pinguinii vor decora șemineul de Crăciun. Cu cât colecționezi mai multe obiecte de la grădina zoologică, cu atât va fi mai frumos. Joacă jocul de societate și câștigă o surpriză de sărbători!]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează dulciuri de Crăciun care vor ieși din țarcurile lor. Mergi pas cu pas pe terenul de joc și schimbă-le pe recompense de sărbători.]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Reține că bunătățile de Crăciun vor apărea doar până la ora 12:00 pe 29 decembrie. După aceea, ai la dispoziție 24 de ore să le consumi.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.boardgame">
+      <item name="zoo.window.infoLayers.boardgame.info.over"><![CDATA[Pentru a finaliza acest pas, trebuie să inserați în continuare %count%x %collectitem. Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.boardgame.info.default"><![CDATA[Aici poți schimba articole promoționale pentru recompense grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Comic">
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer1.bubble"><![CDATA[Încă mai cauți bărbatul sau femeia visurilor tale? Atunci joacă jocul de societate de Ziua Îndrăgostiților între 12 și 23 februarie 2015!]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și adună nuferii care vor ieși din țarcurile lor. Mergi pas cu pas pe terenul de joc și schimbă-i pe recompense de sărbători.]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Reține că nuferii vor apărea doar până la ora 12:00 pe 23 februarie. După aceea, ai la dispoziție 24 de ore să-i folosești.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Board">
+      <item name="zoo.window.infoLayers.valentine2015Board.title"><![CDATA[Ziua Îndrăgostiților]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityBoard">
+      <item name="zoo.window.infoLayers.valentine2014CommunityBoard.title"><![CDATA[Muntele de pluș]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2015Comic">
+      <item name="zoo.window.infoLayers.easter2015Comic.layer1.bubble"><![CDATA[Ceva ciudat se întâmplă în cotețul de găini. Iepurașul de Paște întârzie și are nevoie de ajutor! Strecoară-te în cotețul de găini și adună ouăle! Iepurașul de Paște îți va fi recunoscător!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colecționează iepurași colorați de Paște care vor ieși din țarcurile tale. Parcurge pas cu pas tabla de joc și schimbă-i pentru recompense vesele.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Reține că iepurașii de Paște vor ieși din țarcuri până la sfârșitul evenimentului. Cu toate acestea, îi poți folosi în continuare timp de 24 de ore după aceea pentru a câștiga recompense.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.over"><![CDATA[Încă mai ai nevoie de iepurași de Paște pentru acest pas (număr: %count%). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.default"><![CDATA[Livrați-vă iepurașii de Paște aici și câștigați premii grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Board">
+      <item name="zoo.window.infoLayers.asia2015Board.title"><![CDATA[Călătorie în Asia]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Comic">
+      <item name="zoo.window.infoLayers.asia2015Comic.layer1.bubble"><![CDATA[Călătorește cu noi în Asia pentru Dansul Dragonului! Colecționează felinare colorate pentru a-ți înveseli sărbătoarea. Fie ca dragonul de apă să te binecuvânteze!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează felinare colorate care ies din țarcurile tale. Progresează pe tabla de joc și schimbă felinarele pentru recompense exotice.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Reține că felinarele vor apărea până la sfârșitul evenimentului. Cu toate acestea, le poți schimba timp de 24 de ore după aceea.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.over"><![CDATA[Încă mai ai nevoie de felinare pentru acest pas (număr: %count). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.default"><![CDATA[Trimiteți felinarele aici și câștigați premii grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Board">
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Călătorie în Australia]]></item>
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Călătorie în Australia]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Comic">
+      <item name="zoo.window.infoLayers.australian2015Comic.layer1.bubble"><![CDATA[Zoomumba a împlinit 5 ani! Hip, hip, ura! Alătură-te nouă în pustiul australian și câștigă premii uimitoare: Trage cu baloane și strecoară-te prin sălbăticia australiană precum Crocodilul Dundee. Ura!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează săgeți care vor ieși din țarcurile tale. Folosește-le pentru a doborî baloane. Mergi pas cu pas prin câmpul de joc și schimbă baloane pentru recompense.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Reține că din țarcuri vor ieși săgeți până la sfârșitul evenimentului. Cu toate acestea, poți trage cu baloane timp de 24 de ore după aceea.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.over"><![CDATA[Încă mai ai nevoie de baloane pentru acest pas (număr: %count). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.default"><![CDATA[Pune baloane și câștigă premii grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Board">
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Halloween]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Halloween]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Comic">
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer1.bubble"><![CDATA[Abracadabra! O, nu! Care vrăjitor malefic l-a transformat pe micul Perry într-un dovleac uriaș? Încearcă să găsești antidotul și ajută-l pe Perry. Între 29 octombrie și 9 noiembrie, vei putea încerca toate poțiunile magice!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează poțiuni care vor ieși din țarcurile tale. Parcurge pas cu pas tabla de joc și schimbă poțiunile pentru recompense.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Reține că poțiunile vor apărea până la sfârșitul evenimentului. Cu toate acestea, le poți schimba timp de 24 de ore după aceea.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.over"><![CDATA[Încă mai ai nevoie de poțiuni magice pentru acest pas (număr: %count). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.default"><![CDATA[Livrați-vă poțiunile aici și câștigați recompense grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.winter2015Comic">
+      <item name="zoo.window.infoLayers.winter2015Comic.layer1.bubble"><![CDATA[Crăciun fericit! Pinguinii vor să-și decoreze șemineul în Ajunul Crăciunului. Cu cât aduni mai multe lumânări de Crăciun, cu atât se vor simți mai confortabili. Poți câștiga o surpriză de iarnă în jocul de societate!]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează lumânări colorate de Crăciun care vor ieși din țarcuri. Mergi pas cu pas prin terenul de joc și schimbă-le pentru recompense fantastice.]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer3.content"><![CDATA[Parcurgeți câte ture doriți. Rețineți că lumânările de Crăciun vor ieși din carcase până la sfârșitul evenimentului, dar le puteți schimba în continuare timp de 24 de ore după aceea.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2016Comic">
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer1.bubble"><![CDATA[Salut tuturor îndrăgostiților! Dragostea se răspândește, așa că am pregătit un eveniment special pentru voi, cu o mulțime de recompense frumoase. Avem și un nou animal de companie - o mangustă dungată, decorațiuni noi cu tematică romantică și două magazine noi!]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colectează ursuleți de pluș colorați care vor sări din țarcuri. Dă-i înapoi, urmează treptat calea iubirii în jocul de societate și colectează recompense.]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer3.content"><![CDATA[Când ajungi la capătul cărării, tabla se resetează și poți juca o altă rundă. Urșii vor apărea până la sfârșitul evenimentului. După aceea, ai la dispoziție 24 de ore să-i folosești!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2016Comic">
+      <item name="zoo.window.infoLayers.easter2016Comic.layer1.bubble"><![CDATA[Ceva ciudat se întâmplă în cotețul de găini. Iepurașul de Paște întârzie și are nevoie de ajutor! Strecoară-te în cotețul de găini și adună ouăle! Iepurașul de Paște îți va fi recunoscător!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer2.content"><![CDATA[Ai grijă de animalele tale și colecționează iepurași colorați de Paște care vor ieși din țarcurile tale. Parcurge pas cu pas tabla de joc și schimbă-i pentru recompense vesele.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer3.content"><![CDATA[Joacă oricâte runde dorești. Reține că iepurașii de Paște vor ieși din țarcuri până la sfârșitul evenimentului. Cu toate acestea, îi poți folosi în continuare timp de 24 de ore după aceea pentru a câștiga recompense.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.over"><![CDATA[Încă mai ai nevoie de iepurași de Paște pentru acest pas (număr: %count%). Grăbește-te și primește-ți recompensa!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.default"><![CDATA[Livrați-vă iepurașii de Paște aici și câștigați premii grozave!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.OceanComic">
+      <item name="zoo.window.infoLayers.OceanComic.layer1.bubble"><![CDATA[Bună, sunt Janička și dresez mamifere marine. Împreună vom construi cea mai bună grădină zoologică acvatică din toate timpurile!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer1.content"><![CDATA[Sonya și pinguinii au găsit un vechi parc acvatic în spatele unei grădini zoologice ascunse. Nu a mai rămas mare lucru din el, dar apa arată uimitor. Hai să-l renovăm!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer2.content"><![CDATA[Va trebui să construim totul! Pinguinii au găsit niște planuri și materiale într-o baracă veche de pe plajă. Să începem prin a construi primul habitat acvatic și un dig.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer3.content"><![CDATA[Habitatele acvatice sunt disponibile în trei dimensiuni pentru ca toate animalele acvatice să se simtă ca acasă. Puteți cumpăra animalele de la Seafari sau de la cabana de plajă!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer4.content"><![CDATA[Cereți ajutor întregii echipe subacvatice! Jindra va livra mâncarea, iar Matěj va aduce apa. Franta va curăța filtrele, iar eu mă voi juca cu animalele.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer5.content"><![CDATA[Păstrează apa din acvarii curată și adună mai multe perle! Perlele pot înfrumuseța habitatele și mai mult.]]></item>
+      <category name="zoo.window.infoLayers.oceanWorld2016Board">
+        <item name="zoo.window.infoLayers.oceanWorld2016Board.title"><![CDATA[Ziua de naștere]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.oceanWorld2016Comic">
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer1.bubble"><![CDATA[Salut! Lumea subacvatică este în plină desfășurare, așa că am pregătit un eveniment special de scufundări pentru tine! Căluți de mare, o incintă Tiki Bay complet nouă, magazine și decorațiuni noi te așteaptă!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer2.content"><![CDATA[Ai grijă de animalele tale ca de obicei și colectează stele de mare colorate care ies din țarcurile tale. Explorează zonele subacvatice de pe tabla de joc și câștigă recompense!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer3.content"><![CDATA[După ce ai explorat toate zonele, tabla se va reseta și te poți scufunda din nou! Steluțele de mare vor apărea până la sfârșitul evenimentului. După aceea, vei avea 24 de ore să le folosești.]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.over"><![CDATA[Încă mai ai nevoie de stele (număr: %count%) pentru acest pas!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.default"><![CDATA[Schimbă-ți stelele pentru recompense minunate aici!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.monkey2016Comic">
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer1.bubble"><![CDATA[Maimuțele pun ceva la cale... Ajută-le cu năzbâtiile lor în noul nostru joc de societate! Câștigă recompense, inclusiv magazine noi și decorațiuni pentru grădina zoologică!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer2.content"><![CDATA[Ai grijă de animalele tale ca de obicei și adună legumele colorate care ies din țarcurile tale. Oferă fiecărei suricate o recompensă și câștigă recompense.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer3.content"><![CDATA[După ce ai făcut rău fiecărei suricate, tabla se va reseta și poți lua-o de la capăt! Legumele vor apărea până la sfârșitul evenimentului. După aceea, vei avea 24 de ore să le folosești.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.over"><![CDATA[Încă mai ai nevoie de legume pentru acest pas (număr: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.default"><![CDATA[Schimbă-ți legumele pentru recompense grozave aici!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Board">
+        <item name="zoo.window.infoLayers.halloween2016Board.title"><![CDATA[Hocus pocus]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Comic">
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer1.bubble"><![CDATA[Ce caută aceste poțiuni misterioase aici? Află la ce sunt folosite și câștigă recompense, inclusiv articole exclusive de Halloween pentru grădina zoologică!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer2.content"><![CDATA[Ai grijă de animalele tale ca de obicei și colectează sticlele colorate care ies din țarcurile tale. Deschide-le pe tabla de joc și primește recompense.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer3.content"><![CDATA[După ce ai deschis toate sticlele, tabla se va reseta și poți lua-o de la capăt! Sticlele vor apărea până la sfârșitul evenimentului. După aceea, vei avea 24 de ore să le folosești.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.over"><![CDATA[Încă mai ai nevoie de sticle (număr: %count%) pentru acest pas!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.default"><![CDATA[Schimbă sticlele pentru recompense grozave aici!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.winter2016Comic">
+        <item name="zoo.window.infoLayers.winter2016Comic.layer1.bubble"><![CDATA[A sosit Crăciunul! Ninge la grădina zoologică, iar animalele îi scriu o scrisoare lui Moș Crăciun. Crăciun fericit! Pinguinii decorează șemineul și au nevoie de ajutor! Câștigă obiecte de sărbători jucând jocul de societate!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer2.content"><![CDATA[Ai grijă de animalele tale ca de obicei și colectează omuleții de turtă dulce care vor ieși din țarcurile tale. Călătorește pe tabla de joc și colectează premii.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer3.content"><![CDATA[După ce termini jocul, tabla se va reseta și poți lua-o de la capăt! Poți colecta omuleți de turtă dulce până la sfârșitul evenimentului. După aceea, vei avea 24 de ore să-i folosești.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.over"><![CDATA[Pentru acest pas, mai aveți nevoie de omuleți de turtă dulce (număr: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.default"><![CDATA[Schimbă-ți omuleții de turtă dulce pentru recompense minunate aici!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Comic">
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer1.bubble"><![CDATA[Salut! Cauți dragostea? Joacă jocul nostru de societate de Ziua Îndrăgostiților și obține o mulțime de obiecte pentru Lumea Subacvatică. Poate că îți vei găsi adevărata dragoste pe calea iubirii.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer2.content"><![CDATA[Ai grijă de animalele tale ca de obicei și colectează scoicile colorate care vor ieși din țarcurile tale. Călătorește pe tabla de joc și colectează premii.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer3.content"><![CDATA[După ce termini jocul, tabla se va reseta și poți lua-o de la capăt! Scoicile vor apărea până la sfârșitul evenimentului. După aceea, vei avea 24 de ore să le folosești.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.over"><![CDATA[Încă mai ai nevoie de cochilii pentru acest pas (număr: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.default"><![CDATA[Schimbă scoici pentru recompense minunate aici!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Board">
+        <item name="zoo.window.infoLayers.valentine2017Board.title"><![CDATA[Ziua Îndrăgostiților]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Comic">
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer1.bubble"><![CDATA[Călătorește cu noi în Cambodgia și aventurează-te în adâncurile pădurilor tropicale. Colecționează măști khon și descoperă secretele templelor khmere antice. Bogății și aventură te așteaptă!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer2.content"><![CDATA[Ai grijă de animalele tale ca de obicei și colectează măști khon care vor ieși din țarcurile tale. Călătorește pe tabla de joc și colectează premii.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer3.content"><![CDATA[După ce termini jocul, tabla se va reseta și poți lua-o de la capăt! Măștile Khon vor apărea până la sfârșitul evenimentului. După aceea, vei avea 24 de ore să le folosești.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.over"><![CDATA[Pentru acest pas, aveți nevoie în continuare de măști khon (număr: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.default"><![CDATA[Trimiteți-vă măștile khon aici și câștigați premii grozave!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Board">
+        <item name="zoo.window.infoLayers.cambodia2017Board.title"><![CDATA[Excursie în Cambodgia]]></item>
+      </category>
+    </category>
+  </category>
+</language>

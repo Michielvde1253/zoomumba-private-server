@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Kosz na śmieci]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Ludzie zostawiają śmieci! Im więcej koszy na śmieci masz w zoo, tym mniej musisz sprzątać po gościach.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Kosz na śmieci w kształcie mumii]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Ughh... Chcę śmieci!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Kosz na śmieci Duch]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuhhuuuuu... Śmieci]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Wampir ze śmietnika]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Muszę coś ugryźć. Daj mi swoje śmieci!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Potwór z kosza na śmieci]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmmm... Świetne!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Kosz na śmieci urodzinowy]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmmmm, papier do pakowania!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Kosz na śmieci w kształcie wieloryba]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA["Połknę wszystkie twoje śmieci!"]]></item>
+  </category>
+</language>

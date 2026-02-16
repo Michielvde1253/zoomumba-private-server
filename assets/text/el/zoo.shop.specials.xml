@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Ενισχυτικό 30% EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[Με το ενισχυτικό 30% θα λάβετε 30% περισσότερο BZ για 1 ώρα! Αν αγοράσετε 2 από τα ίδια ενισχυτικά, ο χρόνος θα παραταθεί. Συμβουλή: Ένα ενισχυτικό BZ 30% και ένα ενισχυτικό BZ 100% ισχύουν ταυτόχρονα και θα σας ανταμείψουν με 130% περισσότερο BZ για ολόκληρη την 1 ώρα.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[100% ενισχυτικό EP]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[Με το ενισχυτικό 100% BZ, λαμβάνετε 100% περισσότερο BZ για ολόκληρη την 1 ώρα! Αν αγοράσετε 2 από τα ίδια ενισχυτικά, ο χρόνος θα παραταθεί. Συμβουλή: ένα ενισχυτικό 100% BZ και ένα ενισχυτικό 30% BZ ισχύουν ταυτόχρονα, επομένως λαμβάνετε 130% περισσότερο BZ για ολόκληρη την 1 ώρα!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30% ενισχυτικό ποδιού]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[Με το 30% Paw Booster παίρνετε 30% περισσότερες Paws για ολόκληρη την 1 ώρα! Αν αγοράσετε 2 από τα ίδια boosters, ο χρόνος θα παραταθεί. Συμβουλή: ένα 30% Paw Booster και ένα 100% Paw Booster ισχύουν ταυτόχρονα, επομένως παίρνετε 130% περισσότερες Paws για ολόκληρη την 1 ώρα!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100% ενισχυτικό ποδιού]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[Με το 100% Paw Booster παίρνετε 100% περισσότερες Paws για ολόκληρη την 1 ώρα! Αν αγοράσετε 2 από τα ίδια boosters, ο χρόνος θα παραταθεί. Συμβουλή: ένα 100% Paw Booster και ένα 30% Paw Booster ισχύουν ταυτόχρονα, επομένως παίρνετε 130% περισσότερες Paws για ολόκληρη την 1 ώρα!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Ενισχυτής επιτραπέζιων παιχνιδιών]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[Με το ενισχυτικό επιτραπέζιου παιχνιδιού, θα αποκτήσετε διπλάσια ποσότητα συλλεκτικών αντικειμένων που θα βγαίνουν από τα περιβλήματα για 1 ώρα! Αν θέλετε να παρατείνετε αυτόν τον χρόνο, αγοράστε περισσότερα ενισχυτικά.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[30% ενίσχυση zoocoin]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[Με ένα booster 30%, θα λαμβάνετε 30% επιπλέον zoogros από τα καταστήματά σας για 1 ώρα! Αν αγοράσετε 2 από τα ίδια boosters, ο χρόνος θα παραταθεί. Συμβουλή: Ένα booster zoogros 30% και ένα booster zoogros 100% ισχύουν ταυτόχρονα και θα σας ανταμείψουν με 130% επιπλέον zoogros για ολόκληρη την 1 ώρα.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[100% ενισχυτής zoocoin]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[Με ένα ενισχυτικό 100%, θα λαμβάνετε 100% επιπλέον zoogros από τα καταστήματά σας για 1 ώρα! Αν αγοράσετε 2 από τα ίδια ενισχυτικά, ο χρόνος θα παραταθεί. Συμβουλή: Ένα ενισχυτικό zoogros 100% και ένα ενισχυτικό zoogros 30% ισχύουν ταυτόχρονα και θα σας ανταμείψουν με 130% επιπλέον zoogros για ολόκληρη την 1 ώρα.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Ενισχυτής σταθμού αναπαραγωγής]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Σπάνια υβρίδια εύκολα! Ο Ενισχυτής του Σταθμού Αναπαραγωγής θα διασφαλίσει ότι τα νεοσσά σας θα φτάσουν τουλάχιστον ένα επίπεδο υψηλότερο από το χαμηλότερο επίπεδο ενός από τους γονείς τους εντός 24 ωρών. Αλλά να είστε προσεκτικοί: Ο Ενισχυτής λειτουργεί μόνο αν παραλάβετε το νεοσσό από τον Σταθμό Αναπαραγωγής.]]></item>
+    </category>
+  </category>
+</language>

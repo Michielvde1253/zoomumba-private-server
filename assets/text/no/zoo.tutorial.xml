@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.tutorial">
+    <category name="zoo.tutorial.tour">
+      <item name="zoo.tutorial.tour.1"><![CDATA[Velkommen til ZooMumba, din sprø dyrehage! Jeg heter Sonja, og jeg vil veilede deg trinn for trinn i hvordan spillet fungerer.<br><br>I butikken kan du kjøpe forskjellige dyreinnhegninger, som du deretter kan plassere på spillebanen.]]></item>
+      <item name="zoo.tutorial.tour.2"><![CDATA[Klikk på innhegningen og kjøp et dyr. Vær oppmerksom på om du kjøper en hann eller en hunn.<br><br>Hvis du har begge i innhegningen, kan du snart forvente avkom!]]></item>
+      <item name="zoo.tutorial.tour.3"><![CDATA[Ta vare på dyrene dine regelmessig, kos med dem og lek med dem. På den måten blir de glade og tilfredse. Prøv det!]]></item>
+      <item name="zoo.tutorial.tour.4"><![CDATA[Du må forbinde innhegningene, bygningene og attraksjonene dine med stier som fører til inngangen, slik at besøkende kan beundre alt.]]></item>
+      <item name="zoo.tutorial.tour.5"><![CDATA[Få fôr og alt dyrene dine ønsker seg i butikken: kjøtt, frukt, gress – bare ta en titt!]]></item>
+      <item name="zoo.tutorial.tour.6"><![CDATA[Fra nivå 2 kan du også få bygninger og boder i butikken for å gjøre dyrehagen din enda mer attraktiv for besøkende. <br><br>Du kan jevnlig hente inngangspenger fra hovedbygningen.]]></item>
+      <item name="zoo.tutorial.tour.7"><![CDATA[Jo flere besøkende du ønsker velkommen til dyrehagen din, desto mer søppel må du rydde opp. <br><br>Hold dyrehagen ren og samle opp søppelet for å holde besøkende fornøyde!]]></item>
+      <item name="zoo.tutorial.tour.8"><![CDATA[Jo flere fornøyde besøkende dyrehagen din har, desto høyere vil Zoometeret ditt stige.<br><br>Gå for det og bygg verdens mest fantastiske dyrehage – i ZooMumba! Kos deg!]]></item>
+    </category>
+    <category name="zoo.tutorial.general">
+      <item name="zoo.tutorial.general.forgive.title"><![CDATA[Hopp over]]></item>
+      <item name="zoo.tutorial.general.forgive.text"><![CDATA[Vil du virkelig hoppe over dette trinnet?]]></item>
+      <item name="zoo.tutorial.general.award"><![CDATA[Oppgave %currentTask% fullført. Totalt antall oppgaver: %totalTasks%]]></item>
+    </category>
+    <category name="zoo.tutorial.title">
+      <item name="zoo.tutorial.title.0"><![CDATA[Velkommen til spillet ZooMumba!]]></item>
+      <item name="zoo.tutorial.title.1"><![CDATA[Fang pingvinene!]]></item>
+      <item name="zoo.tutorial.title.2"><![CDATA[Mat pingvinene!]]></item>
+      <item name="zoo.tutorial.title.3"><![CDATA[Omsorg og kos]]></item>
+      <item name="zoo.tutorial.title.4"><![CDATA[Bygg innhegninger]]></item>
+      <item name="zoo.tutorial.title.5"><![CDATA[Hurra, la oss få dyrene inn i innhegningene sine!]]></item>
+      <item name="zoo.tutorial.title.6"><![CDATA[Opprett en ny bane]]></item>
+      <item name="zoo.tutorial.title.7"><![CDATA[Bli kvitt søppelet!]]></item>
+      <item name="zoo.tutorial.title.8"><![CDATA[Ekstra fôring]]></item>
+      <item name="zoo.tutorial.title.9"><![CDATA[Avl avkommet]]></item>
+      <item name="zoo.tutorial.title.10"><![CDATA[Mulighet for inntjening]]></item>
+      <item name="zoo.tutorial.title.11"><![CDATA[Du fikk det nesten til!]]></item>
+      <item name="zoo.tutorial.title.12"><![CDATA[Jippi, du klarte det!]]></item>
+      <item name="zoo.tutorial.title.13"><![CDATA[Hurra! Inviter vennene dine nå!]]></item>
+      <item name="zoo.tutorial.title.14"><![CDATA[Safarien er i gang!]]></item>
+    </category>
+    <category name="zoo.tutorial.main">
+      <item name="zoo.tutorial.main.0"><![CDATA[Kan jeg presentere meg? Jeg heter Sonja, og jeg skal forklare hvordan dette vanvittige dyrehagespillet fungerer. Er du klar? Kom igjen, dyrehagedirektør!]]></item>
+      <item name="zoo.tutorial.main.1"><![CDATA[Det har skjedd en liten ulykke! Pingvinene rømte fra innhegningen sin! Hjelp meg å fange dem raskt og få dem tilbake i innhegningen sin.]]></item>
+      <item name="zoo.tutorial.main.2"><![CDATA[Flott! Etter all den løpingen er de sultne og tørste. Gi dem rikelig med vann og fisk. Klikk på innhegningen, deretter på fisken og bøtta.]]></item>
+      <item name="zoo.tutorial.main.3"><![CDATA[Klikk på børsten og rengjør innhegningen. Ser du? Den er skinnende ren nå! Og bare litt mer kos til disse sprø pinnipediaene – klikk på bamsen.]]></item>
+      <item name="zoo.tutorial.main.4"><![CDATA[Så flott! Du vet virkelig hvordan du skal ta vare på dyrene! Nå kan du bygge innhegninger. Gå til butikken, klikk på innhegningen og plasser den i dyrehagen din.]]></item>
+      <item name="zoo.tutorial.main.5"><![CDATA[Sett et par pratsomme papegøyer i volieret. Klikk på volieret, velg en hunn og en hann fra butikken, og plasser dem inni.]]></item>
+      <item name="zoo.tutorial.main.6"><![CDATA[Koble innhegningene med stier. Jo bedre forbindelsene er, desto mer attraktiv blir dyrehagen din. Lag en sti til papegøyevolieren.]]></item>
+      <item name="zoo.tutorial.main.7"><![CDATA[Med tilstrømningen av turister vil du også ha mye søppel. Ta tak i det ved å klikke på spaden.]]></item>
+      <item name="zoo.tutorial.main.8"><![CDATA[Kjøp fôr til alle dyrene dine i butikken. I dag trenger du frukt til å mate papegøyene.]]></item>
+      <item name="zoo.tutorial.main.9"><![CDATA[Hvis du har en hann og en hunn sammen, klikker du på «Avl»-knappen og deretter på «Kjøp nå».]]></item>
+      <item name="zoo.tutorial.main.10"><![CDATA[Bygningene i dyrehagen din genererer zoogros, så sørg for å samle inn inntektene dine regelmessig. Bare klikk på zoogrosene over bygningen.]]></item>
+      <item name="zoo.tutorial.main.11"><![CDATA[Ferdig. Har du noen spørsmål? Ta deg tid til å lese tipsene. Bare beveg musen rundt: du blir enda smartere!]]></item>
+      <item name="zoo.tutorial.main.12"><![CDATA[Vi kan håndhilse, kollega. Du har blitt en dyktig dyrehagedirektør. Din innsamlede kunnskap har virkelig gjort dyrehagen din berømt. Og det er noe å feire!]]></item>
+      <item name="zoo.tutorial.main.13"><![CDATA[Ssj ... Visste du det? Nå kan du invitere vennene dine til spillet. Bare send en e-post, så kan dere begynne å spille sammen!]]></item>
+      <item name="zoo.tutorial.main.14"><![CDATA[Hurra! Du har nådd nivå 7: Safariens verden ligger nå for dine føtter. Tråkk gassen og klikk på jeepen i kontrollsenteret, eller sjekk menyen i hovedbygningen. Kjør på!]]></item>
+    </category>
+    <category name="zoo.tutorial.hint">
+      <item name="zoo.tutorial.hint.0"><![CDATA[INGEN]]></item>
+      <item name="zoo.tutorial.hint.1"><![CDATA[INGEN]]></item>
+      <item name="zoo.tutorial.hint.2"><![CDATA[Gi dyrene dine superfôr og tjen ekstra erfaringspoeng!]]></item>
+      <item name="zoo.tutorial.hint.3"><![CDATA[Du kan se hvor glade dyrene er på den humørsyke katten. Jo mer du tar vare på dem, desto gladere blir de.]]></item>
+      <item name="zoo.tutorial.hint.4"><![CDATA[Klikk på bygningen for å forkorte byggetiden.]]></item>
+      <item name="zoo.tutorial.hint.5"><![CDATA[Hvis du vil avle unger, sørg for å plassere en hann og en hunn i innhegningen.]]></item>
+      <item name="zoo.tutorial.hint.6"><![CDATA[Sørg for at innhegningene dine er forbundet med stier. Ellers vil dyrehagen miste sin attraktivitet.]]></item>
+      <item name="zoo.tutorial.hint.7"><![CDATA[Ta vare på søppelbøttene for å holde dyrehagen ren.]]></item>
+      <item name="zoo.tutorial.hint.8"><![CDATA[Gi dyrene dine det beste fôret oftere. Du vil tjene mange erfaringspoeng for det!]]></item>
+      <item name="zoo.tutorial.hint.9"><![CDATA[Smokken vil vise deg når paringen er fullført.]]></item>
+      <item name="zoo.tutorial.hint.10"><![CDATA[Går du tom for valuta i spillet? Skaff deg mer! Klikk på den gylne posen.]]></item>
+      <item name="zoo.tutorial.hint.13"><![CDATA[Skriv inn e-postadressen til vennen du vil invitere til spillet.]]></item>
+      <item name="zoo.tutorial.hint.14"><![CDATA[For å komme inn i forskjellige safariregioner trenger du varierende mengder drivstoff. Du kan imidlertid ikke komme inn i lukkede områder.]]></item>
+    </category>
+    <category name="zoo.tutorial.success">
+      <item name="zoo.tutorial.success.title"><![CDATA[Greit!]]></item>
+      <item name="zoo.tutorial.success.step.1"><![CDATA[Flott! Pingvinene er tilbake i innhegningen sin. Klikk på pilen for å gå videre til neste trinn.]]></item>
+      <item name="zoo.tutorial.success.step.2"><![CDATA[Nam! Pingvinene dine er nå fulle. Klikk på pilen for å fortsette!]]></item>
+      <item name="zoo.tutorial.success.step.3"><![CDATA[Bra jobbet! De muntre pinnipedene er nå rene og glade. Klikk på pilen for å fortsette!]]></item>
+      <item name="zoo.tutorial.success.step.4"><![CDATA[Førsteklasses arbeid! Skapet ditt er klart. Klikk på pilen for å gå videre til neste trinn.]]></item>
+      <item name="zoo.tutorial.success.step.5"><![CDATA[Hurra! Nå har du papegøyer i dyrehagen din! Klikk på pilen for å fortsette!]]></item>
+      <item name="zoo.tutorial.success.step.6"><![CDATA[Stå på! Besøkende beundrer de nye innhegningene. Klikk på pilen for å fortsette!]]></item>
+      <item name="zoo.tutorial.success.step.7"><![CDATA[Perfekt! Fra nå av er stiene skinnende rene. Klikk på pilen for å fortsette!]]></item>
+      <item name="zoo.tutorial.success.step.8"><![CDATA[Så fantastisk! Papegøyene er mette nå. Klikk på pilen for å fortsette!]]></item>
+      <item name="zoo.tutorial.success.step.9"><![CDATA[Så søtt! Du har adoptert papegøyeavkom. Klikk på pilen for å fortsette!]]></item>
+      <item name="zoo.tutorial.success.step.10"><![CDATA[Flott! Pengene strømmer inn! Du er nesten ferdig! Klikk raskt på pilen én gang til.]]></item>
+      <item name="zoo.tutorial.success.step.11"><![CDATA[Så enkelt! Du er nesten en proff på å samle poeng i menyen. Ett klikk til, så er du ved slutten av vår lille reise.]]></item>
+    </category>
+  </category>
+</language>

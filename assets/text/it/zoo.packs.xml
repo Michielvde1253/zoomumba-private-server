@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA[Pacchetto superfood "Good Start"]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Questa confezione contiene 40 unità di Superfood e 5 Paws. Questo ti darà 40 volte il doppio del BZ quando lo alimenti e vedrai i progressi nell'abbellire i tuoi recinti!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA[Pacchetto superfood "Master"]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Questa confezione contiene 125 unità di Superfood e 20 Zampe. Questo ti darà 125 volte il doppio di BZ e ti aiuterà a migliorare l'aspetto dei tuoi recinti!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA[Pacchetto superfood "Expert"]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Questo pacchetto contiene 350 unità di superfood e 30 zampe, ma anche 5 regali con 5 unità di superfood per 5 dei tuoi amici. Così anche loro potranno beneficiare di questo pacchetto!]]></item>
+    </category>
+  </category>
+</language>

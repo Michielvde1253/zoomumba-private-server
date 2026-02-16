@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.storage">
+    <category name="zoo.storage.moreSpace">
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Αναπτύξτε τον ζωολογικό σας κήπο!]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Μπορείτε να αγοράσετε αυτό το αντικείμενο μόνο όταν έχετε επεκτάσεις ζωολογικού κήπου %neededExpansion%. Προς το παρόν, έχετε μόνο επεκτάσεις ζωολογικού κήπου %userExpansion%. Θέλετε να επεκτείνετε τον ζωολογικό σας κήπο τώρα ώστε να μπορείτε να αγοράσετε αυτό το αντικείμενο;]]></item>
+    </category>
+    <category name="zoo.storage.firstExpansion">
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[Πύργος νερού και αποθήκη]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Τέλεια! Επιτέλους έχεις αρκετό χώρο για να χτίσεις τον πρώτο σου πύργο νερού και την πρώτη σου εγκατάσταση αποθήκευσης. Και τα δύο αντικείμενα είναι δωρεάν στο απόθεμά σου. Τώρα, ας ξεκινήσει το παιχνίδι!]]></item>
+    </category>
+    <category name="zoo.storage.buy">
+      <item name="zoo.storage.buy.belowWater"><![CDATA[Η μέγιστη χωρητικότητα του πύργου νερού είναι %capacity%. Αυτή η τιμή δεν μπορεί να αυξηθεί, ακόμη και με την αγορά αυτού του κτιρίου. Θέλετε ακόμα να το αγοράσετε;]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[Η μέγιστη χωρητικότητα της αποθήκης προμηθειών σας είναι %capacity. Αυτή η τιμή δεν μπορεί να αυξηθεί, ακόμη και με την αγορά αυτού του κτιρίου. Θέλετε ακόμα να το αγοράσετε;]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[Έχετε διαθέσιμη %capacity% της χωρητικότητας νερού σας. Δεν μπορείτε να αποθηκεύσετε άλλο. Αυτό το κτίριο δεν θα αυξήσει τη χωρητικότητά σας. Θέλετε ακόμα να το αγοράσετε;]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[Έχετε διαθέσιμο %capacity% της χωρητικότητας αποθήκευσης. Δεν μπορείτε να αποθηκεύσετε άλλο. Αυτό το κτίριο δεν θα αυξήσει τη χωρητικότητά σας. Θέλετε ακόμα να το αγοράσετε;]]></item>
+    </category>
+    <category name="zoo.storage.capacity">
+      <item name="zoo.storage.capacity.title"><![CDATA[Χωρητικότητα αποθήκευσης]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[Τα ζώα σας χρειάζονται πολλή τροφή και νερό. Εδώ μπορείτε να δείτε πόση ποσότητα από το καθένα έχετε διαθέσιμη και πόσο μπορείτε να επεκτείνετε.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Νερό - χωρητικότητα]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Χωρητικότητα τροφοδοσίας]]></item>
+    </category>
+  </category>
+</language>

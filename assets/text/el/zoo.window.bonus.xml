@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bonus">
+    <item name="zoo.window.bonus.main.title"><![CDATA[Κωδικός μπόνους]]></item>
+    <item name="zoo.window.bonus.main.info"><![CDATA[Έχετε κωδικό μπόνους ZooMumba; Απλώς εισάγετέ τον εδώ και λάβετε το μπόνους σας αμέσως!]]></item>
+    <item name="zoo.window.bonus.success.title"><![CDATA[Συγχαρητήρια,]]></item>
+    <item name="zoo.window.bonus.success.info"><![CDATA[Τέλεια, εισάγατε σωστά τον κωδικό μπόνους και λάβατε την ανταμοιβή σας. Σας ευχόμαστε καλή διασκέδαση!]]></item>
+    <category name="zoo.window.bonus.error">
+      <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Σφάλμα]]></item>
+      <item name="zoo.window.bonus.error.invalid.info"><![CDATA[Δυστυχώς, ο κωδικός μπόνους είναι λανθασμένος. Ελέγξτε τον κωδικό και δοκιμάστε ξανά.]]></item>
+      <item name="zoo.window.bonus.error.participated.title"><![CDATA[Σφάλμα]]></item>
+      <item name="zoo.window.bonus.error.participated.info"><![CDATA[Έχετε ήδη διεκδικήσει αυτόν τον κωδικό μπόνους.]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Σφάλμα]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[Έχετε εισάγει τον κωδικό μπόνους λανθασμένα πάρα πολλές φορές. Περιμένετε λίγα λεπτά πριν προσπαθήσετε ξανά.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.dailylogin">
+    <item name="zoo.window.dailylogin.title"><![CDATA[Päivittäinen kirjautumisbonus]]></item>
+    <item name="zoo.window.dailylogin.info"><![CDATA[Kirjaudu sisään päivittäin – se kannattaa! Voita upeita palkintoja joka päivä!]]></item>
+    <item name="zoo.window.dailylogin.reward"><![CDATA[Päivittäinen palkintosi:]]></item>
+    <item name="zoo.window.dailylogin.day"><![CDATA[Päivä: %päivä%]]></item>
+    <item name="zoo.window.dailylogin.eventshop"><![CDATA[Erikoistarjous]]></item>
+  </category>
+</language>

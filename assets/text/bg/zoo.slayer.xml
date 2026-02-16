@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.slayer">
+    <category name="zoo.slayer.friends">
+      <item name="zoo.slayer.friends.title"><![CDATA[Приятели]]></item>
+      <item name="zoo.slayer.friends.message"><![CDATA[Изпрати съобщение на този приятел]]></item>
+      <item name="zoo.slayer.friends.delete"><![CDATA[Сигурни ли сте, че искате да премахнете този играч от списъка си с приятели?]]></item>
+      <item name="zoo.slayer.friends.visit"><![CDATA[Посетете зоологическата градина на вашия приятел.]]></item>
+      <item name="zoo.slayer.friends.empty"><![CDATA[Съвсем сам? Защо не поканите бързо няколко приятели да играете заедно? Повече хора означават повече забавление!]]></item>
+    </category>
+    <category name="zoo.slayer.receivedInvites">
+      <item name="zoo.slayer.receivedInvites.title"><![CDATA[Получени заявки за приятелство]]></item>
+      <item name="zoo.slayer.receivedInvites.accept"><![CDATA[Приемане на заявка за приятелство]]></item>
+      <item name="zoo.slayer.receivedInvites.deny"><![CDATA[Отхвърляне на заявка за приятелство]]></item>
+      <item name="zoo.slayer.receivedInvites.empty"><![CDATA[За съжаление, нямате нови заявки за приятелство.]]></item>
+    </category>
+    <category name="zoo.slayer.sentInvites">
+      <item name="zoo.slayer.sentInvites.title"><![CDATA[Изпратени заявки за приятелство]]></item>
+      <item name="zoo.slayer.sentInvites.empty"><![CDATA[Не сте изпратили никакви заявки за приятелство.]]></item>
+    </category>
+    <category name="zoo.slayer.add">
+      <item name="zoo.slayer.add.title"><![CDATA[Покани приятели]]></item>
+      <item name="zoo.slayer.add.requested"><![CDATA[Браво! Успешно изпратихте поканата си за приятелство до потребителя %useName%.]]></item>
+      <item name="zoo.slayer.add.text"><![CDATA[Не искате вече да играете ZooMumba сами и предпочитате да й се насладите с други? Поканете приятелите си!]]></item>
+      <item name="zoo.slayer.add.byName"><![CDATA[Поканете приятели да играят ZooMumba!]]></item>
+      <item name="zoo.slayer.add.byName.message"><![CDATA[Моля, въведете потребителските имена на вашите приятели, за да изпратите заявка за приятелство.]]></item>
+      <item name="zoo.slayer.add.duplicated.message"><![CDATA[Открихме повече от едно потребителско име при търсене. Моля, изберете приятеля си от списъка:]]></item>
+      <item name="zoo.slayer.add.self"><![CDATA[Не можеш да се добавиш към собствения си списък с приятели!]]></item>
+      <item name="zoo.slayer.add.byMail"><![CDATA[Поканете приятели по имейл.]]></item>
+      <item name="zoo.slayer.add.byFB"><![CDATA[Поканете приятели чрез Facebook.]]></item>
+      <item name="zoo.slayer.add.button"><![CDATA[Покани]]></item>
+    </category>
+  </category>
+</language>

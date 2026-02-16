@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.safari">
+    <item name="zoo.safari.title"><![CDATA[Safari]]></item>
+    <item name="zoo.safari.fuel_singular"><![CDATA[Benzindunk]]></item>
+    <category name="zoo.safari.errors">
+      <item name="zoo.safari.errors.notAvailable"><![CDATA[Ærgerligt! Desværre er dit niveau for lavt! Fra niveau 7 kan du starte safarituren!]]></item>
+    </category>
+    <category name="zoo.safari.welcomeWindow">
+      <item name="zoo.safari.welcomeWindow.infoText"><![CDATA[Velkommen til en safari fuld af eventyr: Vind fantastiske belønninger og endda nye dyr! <br /><br />I næste trin skal du blot vælge det område, hvor du vil starte din safari. <br /><br />Hurra, ud i naturen!]]></item>
+    </category>
+    <category name="zoo.safari.regionWindow">
+      <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Vælg en region]]></item>
+      <item name="zoo.safari.startWindow.infoText"><![CDATA[Hvilken region vil du starte din safari i? Vælg den her: I hver region er der 3 områder, som du kan aktivere afhængigt af dit niveau.]]></item>
+    </category>
+    <category name="zoo.safari.shopWindow">
+      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Hej eventyrer! Tag på en rigtig safari. Brug jokerne til at gøre det nemmere for dig at komme ud i vildmarken.<br><br>Vigtigt: Vælg kun én af hver type joker til din rejse!]]></item>
+      <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[Vil du investere %skipTimerCost% zoodollars og starte din safari med det samme?]]></item>
+      <item name="zoo.safari.shopWindow.infoText"><![CDATA[Er du klar til en safari? Sådan fungerer det: I næste trin ser du et spil: det består af 9 til 25 kort med billedsiden nedad. Kortene skjuler belønninger eller dyrespor, som du skal følge for at få hovedpræmien. Men vær forsigtig: hvert kort kan også skjule en fælde!<br /><br />Ser du den benzinbeholder nederst til højre? Den viser dig, hvor meget benzin der er tilbage i din jeeps tank. Så snart du afslører et kort, bruger du noget benzin.<br /><br />Og nu til spillets regler: I begyndelsen kan du kun vælge kort fra den nederste række. Klik på et kort, og det vender sig. På denne måde kan du se, om du har fundet noget, og i så fald hvad det er. Derefter kan du vælge kort, der er over eller under det sidste kort, samt til højre eller venstre for det. Spillet slutter, hvis du finder et dyr, men det slutter også, når du løber tør for benzin.<br /> <br />Øg dine chancer for et godt fund med jokeren(?) fra butikken. Der er 2 typer jokere: Kort og Navigation. Lad Kortjokeren hjælpe dig med at afdække dine kort - den vil afsløre ekstra kort for dig. Navigationjokeren vil guide dig i den rigtige retning takket være sit kompas.<br /><br />Du kan tage én joker af hver type med dig på safari. Uanset om du brugte jokeren eller ej, mister du den ved slutningen af ​​safarien.]]></item>
+    </category>
+    <category name="zoo.safari.miniGame">
+      <item name="zoo.safari.miniGame.tileInfo.trap"><![CDATA[Ups, du ramte en forhindring. Det er irriterende, 1 dunk benzin er brugt op.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.treasure"><![CDATA[Fantastisk! Du har fundet %treasureCount% %treasureName%. Skynd dig, bliv ved med at lede, du kan finde mange flere skatte.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.animal"><![CDATA[Tillykke, se hvad du fandt! Det er %animal%! Skynd dig til zoologisk have, den venter på dig i dit inventar. Du har gennemført din safari.]]></item>
+      <item name="zoo.safari.miniGame.closeWarning"><![CDATA[Vil du virkelig afslutte safarien? Hvis det er tilfældet, kan du ikke starte flere safarier i dag, og din benzin og dine forsyninger vil være væk!]]></item>
+      <item name="zoo.safari.miniGame.noJoker"><![CDATA[Ingen joker]]></item>
+      <item name="zoo.safari.miniGame.buyGasThenEmpty"><![CDATA[Du er næsten fremme ved din destination! Desværre er din tank tom. Vil du tanke op for et par zoodollars og fortsætte din safari? Vælg, hvor meget benzin du vil købe.]]></item>
+      <item name="zoo.safari.miniGame.buyMissingGas"><![CDATA[Mængden af ​​benzindunke til dette terræn er %neededGas%. Du har dog kun %missingGas%. Vil du købe den nødvendige benzin med zoodollars?]]></item>
+      <item name="zoo.safari.miniGame.buyGas"><![CDATA[Vælg venligst, hvor meget benzin du vil købe. Men vær forsigtig: Hvis du ikke bruger al din benzin på safari, vil den resterende benzin være spildt.]]></item>
+    </category>
+    <category name="zoo.safari.minigameInfo">
+      <item name="zoo.safari.minigameInfo.title"><![CDATA[Instruktioner]]></item>
+      <item name="zoo.safari.minigameInfo.1"><![CDATA[Velkommen til din safari!<br /> Oplev usædvanlige dyr og fantastiske skatte. Men pas på, hvor dine skridt fører hen. Fælder lurer overalt. Afhængigt af terræntypen vil du bruge forskellige mængder benzin.<br /><br />Safarien er slut, så snart din tank er tom, eller hvis du finder et dyr.]]></item>
+      <item name="zoo.safari.minigameInfo.2"><![CDATA[Du kan komme ind i vildmarken ved at klikke på en af ​​de nederste bokse.]]></item>
+      <item name="zoo.safari.minigameInfo.3"><![CDATA[Bevæg dig i lige linjer nord, syd, vest og øst.]]></item>
+      <item name="zoo.safari.minigameInfo.4"><![CDATA[Du kan aktivere dine jokere når som helst. De har værdifulde tips til dig, der vil føre dig hurtigere til dit mål.]]></item>
+      <item name="zoo.safari.minigameInfo.terains"><![CDATA[Følgende terræntyper er tilgængelige:]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.name"><![CDATA[Simpelt terræn]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.info"><![CDATA[Du bruger 1 enhed benzin.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.name"><![CDATA[Mere vanskeligt terræn]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.info"><![CDATA[Du vil bruge 3 enheder benzin.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.name"><![CDATA[Ufremkommeligt terræn]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.info"><![CDATA[Adgang forbudt]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.name"><![CDATA[Udforsket terræn]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.info"><![CDATA[Du bruger 1 enhed benzin.]]></item>
+      <item name="zoo.safari.minigameInfo.events"><![CDATA[Du kan finde følgende varer: <br />]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.name"><![CDATA[DYRESPORE]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.info"><![CDATA[De angiver den retning, hvor dyret muligvis befinder sig.]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.name"><![CDATA[SKAT]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.info"><![CDATA[Hurra, en skat med en stor overraskelse!]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.name"><![CDATA[BARRIERE]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.info"><![CDATA[Det koster dig 1 benzinenhed.]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.name"><![CDATA[MØDE MED ET DYR]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.info"><![CDATA[Hvis du støder på et dyr, tilhører det dig, og missionen er slut.]]></item>
+    </category>
+    <category name="zoo.safari.jokers">
+      <item name="zoo.safari.jokers.titel_1"><![CDATA[Aben, rådgiveren]]></item>
+      <item name="zoo.safari.jokers.titel_2"><![CDATA[Sonya, rådgiveren]]></item>
+      <item name="zoo.safari.jokers.titel_3"><![CDATA[Kompas]]></item>
+      <item name="zoo.safari.jokers.titel_4"><![CDATA[Hurtig rejse]]></item>
+      <item name="zoo.safari.jokers.text_1"><![CDATA[Alle har brug for lidt hjælp fra tid til anden. Hvis du lader aben hjælpe, kan du afsløre et tilfældigt valgt kort.<br /><br />Er du nysgerrig? Lad os komme i gang!]]></item>
+      <item name="zoo.safari.jokers.text_2"><![CDATA[Vil du afsløre et bestemt kort og komme videre i safarien?<br /><br /><br /> Brug hjælp fra rådgiveren Sonia. Med hendes hjælp vil du afsløre det kort, du ønsker. Dette vil hjælpe dig med at nå dit mål hurtigere. Held og lykke!]]></item>
+      <item name="zoo.safari.jokers.text_3"><![CDATA[Brug for hjælp? Brug kompasset som en joker til at markere et kort for dig. Du finder det dyr, du leder efter, eller en fælde på det. Er du ivrig efter at finde ud af, hvad der gemmer sig på det? Så skynd dig og find ud af det!]]></item>
+      <item name="zoo.safari.jokers.text_4"><![CDATA[Men nu til sagen: Krabler du bare mod dit mål skridt for skridt? Er du ikke hurtig nok?<br /><br />Brug så jokeren: Han markerer 3 kort til dig, hvoriblandt det dyr, du leder efter, måske er gemt, men også en fælde.<br /><br />Dyr eller fælde... Hurtigt, se!]]></item>
+    </category>
+    <category name="zoo.safari.tooltip">
+      <item name="zoo.safari.tooltip.cantStartSafari"><![CDATA[Du kan starte din safari, når du når niveau 7]]></item>
+      <item name="zoo.safari.tooltip.startSafari"><![CDATA[Hop ind i jeepen: Klik her for at starte safarien!]]></item>
+      <item name="zoo.safari.tooltip.backToZoo"><![CDATA[Tilbage til zoologisk have]]></item>
+      <item name="zoo.safari.tooltip.regionSmall"><![CDATA[Lille]]></item>
+      <item name="zoo.safari.tooltip.regionMedium"><![CDATA[Medium]]></item>
+      <item name="zoo.safari.tooltip.regionLarge"><![CDATA[Stor]]></item>
+      <item name="zoo.safari.tooltip.skipTimerInShop"><![CDATA[Du får et vist antal benzindunke hver dag.<br/> Vil du have flere nu? Så forkort din ventetid med zoodollars!]]></item>
+      <item name="zoo.safari.tooltip.buyGasInMinigame"><![CDATA[Klik for at købe mere benzin.]]></item>
+      <item name="zoo.safari.tooltip.regeonLevelRequared"><![CDATA[Denne region vil være tilgængelig, når du når niveauet %regionLevel%.]]></item>
+    </category>
+    <category name="zoo.safari.button">
+      <item name="zoo.safari.button.startSafari"><![CDATA[Start safarien]]></item>
+      <item name="zoo.safari.button.endSafari"><![CDATA[Afslut safari]]></item>
+      <item name="zoo.safari.button.activate"><![CDATA[Aktivér]]></item>
+      <item name="zoo.safari.button.use"><![CDATA[Indsætte]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.minitutorial">
+    <item name="zoo.window.minitutorial.title"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.minitutorial.infopage.1"><![CDATA[Velkommen til ZooMumba, dit skøre zoo-eventyr! Mit navn er Sonja, og jeg vil guide dig trin for trin i, hvordan spillet fungerer.<br><br>I butikken kan du købe forskellige dyreindhegninger og placere dem på din zoo-grund.]]></item>
+    <item name="zoo.window.minitutorial.infopage.2"><![CDATA[Klik på indhegningen og køb et dyr. Sørg for at tjekke, om du køber en han eller en hun.<br><br> Hvis du har begge i indhegningen, kan du snart forvente dyreunger!]]></item>
+    <item name="zoo.window.minitutorial.infopage.3"><![CDATA[Pas dine dyr regelmæssigt, kæl med dem og leg med dem. På den måde bliver de glade og tilfredse. Prøv det!]]></item>
+    <item name="zoo.window.minitutorial.infopage.4"><![CDATA[Du skal forbinde dine indhegninger, bygninger og attraktioner med stier, der fører til indgangen, så besøgende kan beundre alt.]]></item>
+    <item name="zoo.window.minitutorial.infopage.5"><![CDATA[Få foder og alt, hvad dine dyr ønsker sig, i butikken: kød, frugt, græs - bare tag et kig!]]></item>
+    <item name="zoo.window.minitutorial.infopage.6"><![CDATA[Fra niveau 2 kan du også få bygninger og boder i butikken, hvilket gør din zoologiske have endnu mere attraktiv for besøgende. <br><br>Du kan regelmæssigt opkræve dine entréindtægter fra hovedbygningen.]]></item>
+    <item name="zoo.window.minitutorial.infopage.6b"><![CDATA[Du starter med et par ZooDollars. Brug dem til at få fantastiske dyr og særlige attraktioner, eller hyr assistenter. De hjælper dig med vedligeholdelsen og plejen af ​​din zoologiske have. <br><br>Og hvis du løber tør for ZooDollars, så bare rolig! Du kan fylde dem op når som helst i ZooBank.]]></item>
+    <item name="zoo.window.minitutorial.infopage.7"><![CDATA[Jo flere besøgende du byder velkommen til din zoologiske have, jo mere affald skal du rydde op. <br><br>Hold din zoologiske have ren og saml affaldet op. Dine besøgende vil sætte pris på det!]]></item>
+    <item name="zoo.window.minitutorial.infopage.8"><![CDATA[Jo flere tilfredse besøgende din zoo har, desto højere vil din zoometer stige. <br><br>Kom i gang og byg verdens bedste zoo - i ZooMumba! Hav det sjovt!]]></item>
+  </category>
+</language>

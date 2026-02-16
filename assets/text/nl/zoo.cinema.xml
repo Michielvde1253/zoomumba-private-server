@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.cinema">
+    <category name="zoo.cinema.layer">
+      <item name="zoo.cinema.layer.intro"><![CDATA[Films kijken en er geweldige beloningen voor krijgen?<br /><br />Dit kan alleen in onze bioscoop! Bekijk tot 3 filmpjes per dag en ontvang voor elk filmpje een beloning. Om je beloning te ontvangen, moet je het filmpje wel helemaal afkijken.<br /><br />Klik gewoon op "Film starten" en de show kan beginnen!<br /><br />Veel plezier!]]></item>
+      <item name="zoo.cinema.layer.selectReward"><![CDATA[Haal je beloning op!]]></item>
+      <item name="zoo.cinema.layer.play"><![CDATA[Start de film!]]></item>
+      <item name="zoo.cinema.layer.noVideo"><![CDATA[Er zijn momenteel geen video's beschikbaar.]]></item>
+    </category>
+  </category>
+</language>

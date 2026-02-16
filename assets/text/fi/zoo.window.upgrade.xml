@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.upgrade">
+    <item name="zoo.window.upgrade.info"><![CDATA[Päivitä aitauksiasi, kaunista niitä ja tee eläintarhastasi entistä houkuttelevampi.]]></item>
+    <item name="zoo.window.upgrade.button"><![CDATA[Päivitä]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[Pääsiäispupu hyppii eläintarhassasi 21.–27. huhtikuuta ja jättää munan. Kerää ne ja vaihda ne pääsiäisaitauskoristeisiin, pääsiäispupuihin ja aitauksiin.]]></item>
+  </category>
+</language>

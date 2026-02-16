@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.quests">
+    <category name="zoo.quests.tabs">
+      <item name="zoo.quests.tabs.daily"><![CDATA[Günlük görevler]]></item>
+      <item name="zoo.quests.tabs.achievements"><![CDATA[Onurlar]]></item>
+      <item name="zoo.quests.tabs.collectables"><![CDATA[Koleksiyonlar]]></item>
+    </category>
+    <category name="zoo.quests.daily">
+      <item name="zoo.quests.daily.info"><![CDATA[Her hayvanat bahçesinde her gün yapılacak çok iş var: her yardım eli memnuniyetle karşılanıyor! Bu günlük görevleri üstlenin ve tamamlayın.]]></item>
+      <item name="zoo.quests.daily.nextquest.timestamp"><![CDATA[Yeni görevler:]]></item>
+      <item name="zoo.quests.daily.refreshTitle"><![CDATA[Günlük görevler]]></item>
+      <item name="zoo.quests.daily.refreshQuestion"><![CDATA[Küçük bir ücret karşılığında her gün yeni görevler alabilirsiniz. İster misiniz?]]></item>
+      <item name="zoo.quests.daily.taskTitle"><![CDATA[Görev]]></item>
+      <item name="zoo.quests.daily.rewardTitle"><![CDATA[Ücretlendirme]]></item>
+      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Görevi başlat]]></item>
+      <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Ödül kazanın]]></item>
+      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Görevi iptal et]]></item>
+      <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Görev]]></item>
+      <item name="zoo.quests.daily.window.activequest.info"><![CDATA[Şu anda başka bir görev üzerinde çalışıyorsunuz. Lütfen bir sonraki göreve başlamadan önce aktif görevi tamamlayın.]]></item>
+      <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[İptal etmek]]></item>
+      <item name="zoo.quests.daily.window.abortquest.info"><![CDATA[Bu görevi iptal ederseniz, görev listenizden kaldırılacaktır. İptal etmek istediğinizden emin misiniz?]]></item>
+      <item name="zoo.quests.daily.window.achievereward.title"><![CDATA[Tebrikler!]]></item>
+      <item name="zoo.quests.daily.window.achievereward.info"><![CDATA[Görevinizi başarıyla tamamladınız ve aşağıdaki ödülü almaya hak kazandınız:]]></item>
+    </category>
+    <category name="zoo.quests.help">
+      <item name="zoo.quests.help.daily.title"><![CDATA[Okuma örnekleri]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Örnek 1: Herhangi bir hayvana 50 balya yem verin.<br>Örnek 2: 2 aslan yavrusu büyütün.]]></item>
+    </category>
+    <category name="zoo.quests.achievements.individual">
+      <item name="zoo.quests.achievements.individual.info.congrats"><![CDATA[Harika! Aşağıdaki görevi başarıyla tamamladınız:]]></item>
+      <item name="zoo.quests.achievements.individual.1.title"><![CDATA[Sarılma ustası]]></item>
+      <item name="zoo.quests.achievements.individual.2.title"><![CDATA[Hayvan dostu]]></item>
+      <item name="zoo.quests.achievements.individual.3.title"><![CDATA[Üreme uzmanı]]></item>
+      <item name="zoo.quests.achievements.individual.4.title"><![CDATA[Tüccar/esnaf]]></item>
+      <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Biftek Ustası]]></item>
+      <item name="zoo.quests.achievements.individual.6.title"><![CDATA[Bir düzen olmalı.]]></item>
+      <item name="zoo.quests.achievements.individual.7.title"><![CDATA[Tam tahıllı ürünler hayranı]]></item>
+      <item name="zoo.quests.achievements.individual.8.title"><![CDATA[Tebrikler]]></item>
+      <item name="zoo.quests.achievements.individual.9.title"><![CDATA[Çimler eğlencelidir.]]></item>
+      <item name="zoo.quests.achievements.individual.10.title"><![CDATA[Vitamin bağımlısı]]></item>
+      <item name="zoo.quests.achievements.individual.11.title"><![CDATA[Taze balık]]></item>
+      <item name="zoo.quests.achievements.individual.12.title"><![CDATA[Susuzluk giderici]]></item>
+      <item name="zoo.quests.achievements.individual.1.requirement"><![CDATA[Evcil hayvanlarıyla kucaklaştılar.]]></item>
+      <item name="zoo.quests.achievements.individual.2.requirement"><![CDATA[Sahip olduğunuz hayvanların %val%'i.]]></item>
+      <item name="zoo.quests.achievements.individual.3.requirement"><![CDATA[Bebeklerin %val%'ini büyütün.]]></item>
+      <item name="zoo.quests.achievements.individual.4.requirement"><![CDATA[Binalarınızdan elde ettiğiniz brüt geliri %val% katı olarak toplayın.]]></item>
+      <item name="zoo.quests.achievements.individual.5.requirement"><![CDATA[%val% kez et parçası yedirin.]]></item>
+      <item name="zoo.quests.achievements.individual.6.requirement"><![CDATA[%val% çöp kutusunu göster.]]></item>
+      <item name="zoo.quests.achievements.individual.7.requirement"><![CDATA[%val% tahılı besleyin.]]></item>
+      <item name="zoo.quests.achievements.individual.8.requirement"><![CDATA[Çöp kutusunu boşaltarak %val% XP kazanın.]]></item>
+      <item name="zoo.quests.achievements.individual.9.requirement"><![CDATA[%val% oranında çim besleyin.]]></item>
+      <item name="zoo.quests.achievements.individual.10.requirement"><![CDATA[%val% meyve ile besleyin.]]></item>
+      <item name="zoo.quests.achievements.individual.11.requirement"><![CDATA[Balıkların %val%'ini besleyin.]]></item>
+      <item name="zoo.quests.achievements.individual.12.requirement"><![CDATA[Hayvanlarınıza %val% su verin.]]></item>
+      <item name="zoo.quests.achievements.individual.bronze.congrats"><![CDATA[Hayvanlarınız çok sevindi çünkü Bronz setinde yeni bir yapboz parçasının kilidini açtınız.]]></item>
+      <item name="zoo.quests.achievements.individual.silver.congrats"><![CDATA[Hayvanlarınız çok sevindi çünkü gümüş setine yeni bir yapboz parçası eklediniz.]]></item>
+      <item name="zoo.quests.achievements.individual.gold.congrats"><![CDATA[Hayvanlarınız çok seviniyor çünkü altın setin yeni bir yapboz parçasının kilidini açtınız.]]></item>
+      <item name="zoo.quests.achievements.individual.platinum.congrats"><![CDATA[Hayvanlarınız çok seviniyor çünkü Platin Set'te yeni bir yapboz parçasının kilidini açtınız.]]></item>
+      <item name="zoo.quests.achievements.individual.open.achievements.info"><![CDATA[Şimdi resmi görüntülemek için görev penceresine gidin!]]></item>
+    </category>
+    <category name="zoo.quests.achievements.unlocked">
+      <item name="zoo.quests.achievements.unlocked.bronze.title"><![CDATA[Bronz set]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.title"><![CDATA[Gümüş set]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.title"><![CDATA[Altın set]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.title"><![CDATA[Platin set]]></item>
+      <item name="zoo.quests.achievements.unlocked.bronze.description"><![CDATA[Tebrikler! Bronz Set'teki tüm görevleri başarıyla tamamladınız ve aşağıdaki ödülleri alacaksınız:]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.description"><![CDATA[Tebrikler! Gümüş Set'teki tüm görevleri başarıyla tamamladınız ve aşağıdaki ödülleri alacaksınız:]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.description"><![CDATA[Tebrikler! Altın Set'teki tüm görevleri başarıyla tamamladınız ve aşağıdaki ödülleri alacaksınız:]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.description"><![CDATA[Tebrikler! Platin Set'teki tüm görevleri başarıyla tamamladınız ve aşağıdaki ödülleri alacaksınız:]]></item>
+      <item name="zoo.quests.achievements.unlocked.open.achievements.info"><![CDATA[Şimdi, kilidi açılmış görüntüyü görüntülemek için görev pencerenize gidin!]]></item>
+      <item name="zoo.quests.help.daily.title"><![CDATA[Okuma örnekleri]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Örnek 1: Herhangi bir hayvana 50 kat daha fazla yiyecek verin.<br>Örnek 2: 2 aslan yavrusu büyütün.]]></item>
+    </category>
+  </category>
+</language>

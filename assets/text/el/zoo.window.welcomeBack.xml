@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.welcomeBack">
+    <item name="zoo.window.welcomeBack.title"><![CDATA[Καλώς ήρθες πίσω, %username%!]]></item>
+    <item name="zoo.window.welcomeBack.info"><![CDATA[Τι ωραία που επέστρεψες! Ας πιάσουμε, λοιπόν! Τα ζώα σου σε περιμένουν με ανυπομονησία. Θα είναι ξανά άγρια! Περισσότερες αξιολάτρευτες προσθήκες, περισσότερα ασυνήθιστα πουλιά και πολλοί ενθουσιασμένοι επισκέπτες. <br><br>Και θα απολαύσεις επίσης ό,τι σου επιφυλάσσει ο ζωολογικός κήπος:]]></item>
+    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Γιούπι! Γρήγορα, μην χάσετε την τρελή έξαρση!]]></item>
+  </category>
+</language>

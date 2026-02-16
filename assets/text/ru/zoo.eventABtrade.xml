@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventABtrade">
+    <category name="zoo.eventABtrade.button">
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Обмен]]></item>
+    </category>
+    <category name="zoo.eventABtrade.layer">
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Здравствуйте, меня зовут Лукаш, я директор зоопарка в соседнем городе. Я слышал, что ваша няня, Соня Старостлива, разводит новые виды животных, которые меня очень интересуют. За каждого самца вида %priceSpecies% я дам вам самца вида %rewardSpecies% или самку за самку. В моё присутствие инкубационный период для вашего вида %priceGenus%s сократится с 20 до 2 часов! Итак, вы согласны?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Я возвращаюсь в свой зоопарк. Большое спасибо, и надеюсь увидеть вас снова в ближайшее время!]]></item>
+    </category>
+  </category>
+</language>

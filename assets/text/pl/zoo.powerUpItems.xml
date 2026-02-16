@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.powerUpItems">
+    <item name="zoo.powerUpItems.setName.7"><![CDATA[Wzmacniacz łap]]></item>
+    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[Wzmacniacz Łapy zapewni Ci o 50% więcej Łapek na 5 godzin. Zostanie aktywowany natychmiast po wybraniu.]]></item>
+  </category>
+</language>

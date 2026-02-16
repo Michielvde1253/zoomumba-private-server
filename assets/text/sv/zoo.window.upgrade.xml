@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.upgrade">
+    <item name="zoo.window.upgrade.info"><![CDATA[Uppgradera dina inhägnader, försköna dem och gör din djurpark ännu mer attraktiv.]]></item>
+    <item name="zoo.window.upgrade.button"><![CDATA[Uppgradera]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[Från 21-27 april hoppar påskharen genom din djurpark och lämnar ett ägg. Samla dem och byt ut dem mot påskkryddor, påskharar och andra inhägnader.]]></item>
+  </category>
+</language>

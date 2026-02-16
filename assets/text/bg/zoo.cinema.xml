@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.cinema">
+    <category name="zoo.cinema.layer">
+      <item name="zoo.cinema.layer.intro"><![CDATA[Гледайте филми и получавайте големи награди за това?<br /><br />Това се случва само в нашето кино! Гледайте до 3 клипа на ден и получавайте награда за всеки един. За да получите наградата си, трябва да изгледате клипа до края.<br /><br />Просто кликнете върху „Стартирай филма“ и шоуто може да започне!<br /><br />Забавлявайте се!]]></item>
+      <item name="zoo.cinema.layer.selectReward"><![CDATA[Вземи своята награда!]]></item>
+      <item name="zoo.cinema.layer.play"><![CDATA[Пусни филма!]]></item>
+      <item name="zoo.cinema.layer.noVideo"><![CDATA[В момента няма налични видеоклипове.]]></item>
+    </category>
+  </category>
+</language>

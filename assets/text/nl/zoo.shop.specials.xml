@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Booster 30% EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[Met de 30% booster krijg je 30% meer BZ gedurende 1 uur! Als je 2 dezelfde boosters koopt, wordt de tijd verlengd. Tip: Een 30% BZ booster en een 100% BZ booster zijn tegelijkertijd geldig en geven je 130% meer BZ gedurende het hele uur.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[100% booster EP]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[Met de 100% BZ-booster krijg je 100% meer BZ gedurende het hele uur! Als je 2 dezelfde boosters koopt, wordt de tijd verlengd. Tip: een 100% BZ-booster en een 30% BZ-booster zijn tegelijkertijd geldig, dus je krijgt 130% meer BZ gedurende het hele uur!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30% pootbooster]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[Met de 30% Paw Booster krijg je 30% meer Paws gedurende het hele uur! Als je 2 dezelfde boosters koopt, wordt de tijd verlengd. Tip: een 30% Paw Booster en een 100% Paw Booster zijn tegelijkertijd geldig, dus je krijgt 130% meer Paws gedurende het hele uur!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100% pootversterker]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[Met de 100% Paw Booster krijg je 100% meer Paws gedurende het hele uur! Als je 2 dezelfde boosters koopt, wordt de tijd verlengd. Tip: één 100% Paw Booster en één 30% Paw Booster zijn tegelijkertijd geldig, dus je krijgt 130% meer Paws gedurende het hele uur!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Bordspelbooster]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[Met de bordspelbooster krijg je twee keer zoveel verzamelobjecten die gedurende 1 uur uit de vakjes verschijnen! Wil je deze tijd verlengen, koop dan meer boosters.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[30% Zoocoin-booster]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[Met een booster van 30% krijg je 30% extra zoogros in je winkels gedurende 1 uur! Als je 2 dezelfde boosters koopt, wordt de tijd verlengd. Tip: Een booster van 30% zoogros en een booster van 100% zoogros zijn tegelijkertijd geldig en belonen je met 130% extra zoogros gedurende het hele uur.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[100% zoocoin booster]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[Met een 100% booster krijg je 100% extra zoogros in je winkels gedurende 1 uur! Als je 2 dezelfde boosters koopt, wordt de tijd verlengd. Tip: Een 100% zoogros booster en een 30% zoogros booster zijn tegelijkertijd geldig en belonen je met 130% extra zoogros gedurende het hele uur.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Fokstation booster]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Zeldzame hybriden gemakkelijk te kweken! De Breeding Station Booster zorgt ervoor dat je nakomelingen binnen 24 uur minstens één niveau hoger zijn dan het laagste niveau van een van hun ouders. Maar let op: de Booster werkt alleen als je de nakomeling ophaalt bij het Breeding Station.]]></item>
+    </category>
+  </category>
+</language>

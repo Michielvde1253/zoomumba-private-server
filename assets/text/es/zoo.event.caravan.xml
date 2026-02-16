@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Voy de camino a una reserva donde quieren aumentar la población de - %species%. ¿Me pueden ayudar? Les presto un par de - %species% por 120 horas. Por %amount% de %species% crías, recibirán un adulto.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Toma prestado un par]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Anaconda]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[¡Genial! Ya tienes al menos 5 crías en tu inventario. ¡Cámbialas rápidamente por un orangután adulto!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[¡Genial! ¡Me ayudaste muchísimo! Ahora llevaré a los cachorros a la reserva y los liberaré allí. ¡Muchas gracias y nos vemos la próxima vez!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[El móvil de animales regresa a la reserva con dos animales que tomaste prestados. Puedes encontrar a tus crías recién nacidas en tu inventario.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Te quedan %count% horas para intercambiar cachorros.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Orangutanes bebés en tu inventario]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Mueva las crías orangután al inventario.]]></item>
+    </category>
+  </category>
+</language>

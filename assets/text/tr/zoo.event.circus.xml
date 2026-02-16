@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Seyyar sirke hoş geldiniz! Gizemli Kutu ile tanışın! Bir kutu alın ve 10 hayvandan birini elde edin. Aynı anda en fazla 20 kutunuz olabilir ve her kutuyu en fazla 5 saat içinde açabilirsiniz. İyi eğlenceler!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Hayvanlar:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[En içten tebrikler!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[Envanterinize aşağıdaki hayvanlar eklendi: %hayvan%. Daha da eşsiz hayvanlar elde etmek için daha da gizemli sandıklar açın!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Çok üzgünüz!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Zaten 20 gizemli sandığınız var. Sandıklardan biri açılana kadar bekleyin ve ardından başka bir sandık alın.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Gizemli kutu şu tutar karşılığında açılacaktır: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Hayvanlarınızı görüntülemek için tıklayın.]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Tekrar hoşgeldiniz!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Siz yokken, hayvanlarınız gizemli sandıktan susamış. Hayvan yetiştiricisi Sonia onlarla ilgilendi ve envanterine ekledi. Bir göz atın!]]></item>
+  </category>
+</language>

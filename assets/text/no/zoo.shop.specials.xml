@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Booster 30 % EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[Med 30 %-boosteren får du 30 % mer BZ i 1 time! Hvis du kjøper 2 av de samme boosterne, forlenges tiden. Tips: Én 30 % BZ-booster og én 100 % BZ-booster er gyldige samtidig og vil belønne deg med 130 % mer BZ i hele timen.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[100 % booster-EP]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[Med 100 % BZ-boosteren får du 100 % mer BZ i hele timen! Hvis du kjøper to like boostere, forlenges tiden. Tips: én 100 % BZ-booster og én 30 % BZ-booster er gyldige samtidig, så du får 130 % mer BZ i hele timen!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30 % poteforsterker]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[Med 30 % potebooster får du 30 % flere poter i hele timen! Hvis du kjøper to like boostere, forlenges tiden. Tips: én potebooster med 30 % og én potebooster med 100 % er gyldige samtidig, slik at du får 130 % flere poter i hele timen!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100 % poteforsterker]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[Med 100 % potebooster får du 100 % flere poter i hele timen! Hvis du kjøper to like boostere, forlenges tiden. Tips: én 100 % potebooster og én 30 % potebooster er gyldige samtidig, slik at du får 130 % flere poter i hele timen!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Brettspillforsterker]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[Med brettspillboosteren får du dobbelt så mange samleobjekter som dukker opp fra boksene i løpet av én time! Hvis du vil forlenge denne tiden, kan du kjøpe flere boostere.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[30 % zoocoin-booster]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[Med en 30 % booster får du 30 % ekstra zoogros fra butikkene dine i 1 time! Hvis du kjøper 2 av de samme boosterne, forlenges tiden. Tips: Én 30 % zoogros-booster og én 100 % zoogros-booster er gyldige samtidig og vil belønne deg med 130 % ekstra zoogros i hele timen.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[100 % zoocoin-booster]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[Med en 100 % booster får du 100 % ekstra zoogros fra butikkene dine i 1 time! Hvis du kjøper 2 av de samme boosterne, forlenges tiden. Tips: Én 100 % zoogros-booster og én 30 % zoogros-booster er gyldige samtidig og vil belønne deg med 130 % ekstra zoogros i hele timen.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Avlsstasjonsforsterker]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Sjeldne hybrider gjort enkelt! Avlsstasjonsforsterkeren sørger for at klekkede ungene dine når minst ett nivå høyere enn det laveste nivået til en av foreldrene sine innen 24 timer. Men vær forsiktig: Forsterkeren fungerer bare hvis du plukker opp klekkede ungen fra avlsstasjonen.]]></item>
+    </category>
+  </category>
+</language>

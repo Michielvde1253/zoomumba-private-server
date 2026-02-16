@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advisor">
+    <category name="zoo.advisor.buttons">
+      <item name="zoo.advisor.buttons.1"><![CDATA[Eläinlajit]]></item>
+      <item name="zoo.advisor.buttons.2"><![CDATA[Tyytyväisyys]]></item>
+      <item name="zoo.advisor.buttons.3"><![CDATA[Koristelu]]></item>
+      <item name="zoo.advisor.buttons.4"><![CDATA[Eläinten jalostus]]></item>
+      <item name="zoo.advisor.buttons.5"><![CDATA[Roska]]></item>
+    </category>
+    <category name="zoo.advisor.descriptions">
+      <item name="zoo.advisor.descriptions.1.A"><![CDATA[Hienoa! Kukaan ei voi valittaa eläintarhanne monimuotoisuuden puutteesta. Jatkakaa samaan malliin!]]></item>
+      <item name="zoo.advisor.descriptions.1.B"><![CDATA[Vierailijat pitävät siitä, että he voivat ihailla eläintarhan suurta eläinvalikoimaa. Sinulla on %currentspecies% eri lajeja, se on paljon! Tutustu kauppaan, löydät sieltä ainakin %missingspecies% lisää.]]></item>
+      <item name="zoo.advisor.descriptions.1.C"><![CDATA[Eläintarhan kävijät haluavat nähdä mahdollisimman monta eläintä. Mutta eläintarhasi on sen arvoinen. Sinulla on tällä hetkellä %currentspecies% eläimiä. Löydät lemmikkikaupasta ainakin %missingspecies% lisää lajeja.]]></item>
+      <item name="zoo.advisor.descriptions.1.D"><![CDATA[Jokainen eläintarhaan menevä haluaa nähdä eläimiä! Eläintarhassasi voisi olla vielä suurempi valikoima: Sinulla on tällä hetkellä %currentspecies% eläinlajia. Lemmikkikaupassa on tarjolla ainakin %missingspecies% enemmän.]]></item>
+      <item name="zoo.advisor.descriptions.1.E"><![CDATA[Voi ei! Eläintarhassasi ei ole montaa eläinlajia. Vierailijat voivat ihailla %currentspecies% lajeja, joita he voivat käsitellä melko nopeasti. Osta nopeasti ainakin %missingspecies% lisää eläimiä eläintarhan kaupasta.]]></item>
+      <item name="zoo.advisor.descriptions.2.A"><![CDATA[Eläimesi ovat täysin tyytyväisiä. Olet esimerkillinen eläintarhan johtaja.]]></item>
+      <item name="zoo.advisor.descriptions.2.B"><![CDATA[Pidät hyvää huolta eläimistäsi, mutta katso, jotkut niistä ansaitsevat vielä enemmän huomiota.]]></item>
+      <item name="zoo.advisor.descriptions.2.C"><![CDATA[Voi! Eläimesi ovat vähän tylsistyneitä. Eikö olisi hienoa leikkiä niiden kanssa, ruokkia niitä tai antaa niille vettä? Se olisi niille hienoa ja ne olisivat taas todella onnellisia!]]></item>
+      <item name="zoo.advisor.descriptions.2.D"><![CDATA[Voi luoja! Eläimesi ovat surullisia, koska et ole pitänyt niistä huolta. Leiki niiden kanssa vähän! Myös ruoka ja vesi piristävät niitä. Sitten eläintarhasi loistaa jälleen ja ilahduttaa vierailijoita!]]></item>
+      <item name="zoo.advisor.descriptions.2.E"><![CDATA[Voi ei! Eläimesi ovat nälkäisiä ja janoisia! Tulkaa, pitäkää niistä huolta! Kun ne on ruokittu ja aitaukset siivottu, on hauskaa leikkiä eläinten kanssa taas!]]></item>
+      <item name="zoo.advisor.descriptions.3.A"><![CDATA[Vau! Eläintarhanne on kauniisti koristeltu! Siellä on niin paljon nähtävää vierailijoille. Jatkakaa samaan malliin!]]></item>
+      <item name="zoo.advisor.descriptions.3.B"><![CDATA[Hienoa! Olet sisustanut eläintarhasi kauniisti! Tutustu eläintarhakauppaan: löydät sieltä paljon muita kivoja ja hauskoja koristeita. Vierailijasi rakastavat vaihtelua!]]></item>
+      <item name="zoo.advisor.descriptions.3.C"><![CDATA[Eläintarhasi on kiva, mutta se voisi kaivata hieman enemmän vaihtelua! Löydät paljon kivoja ja hauskoja koristeita eläintarhakaupasta.]]></item>
+      <item name="zoo.advisor.descriptions.3.D"><![CDATA[Käytännöllinen ja toimiva, mutta hieman tylsä. Vierailijat arvostavat enemmän koristeita. Anna kaikkien nähdä, että voit näyttää enemmän!]]></item>
+      <item name="zoo.advisor.descriptions.3.E"><![CDATA[Eläintarhasi voisi kaivata hieman enemmän koristelua. Ilahduta vierailijoitasi uusilla upeilla koristeilla.]]></item>
+      <item name="zoo.advisor.descriptions.4.A"><![CDATA[Niin paljon suloisia vauvoja! Sinulla on todellakin kultaiset kädet ja eläimilläsi on niin paljon jälkeläisiä. Hienoa!]]></item>
+      <item name="zoo.advisor.descriptions.4.B"><![CDATA[Eläintarhan poikasia käsittelevät pikkukuvien otsikot houkuttelevat kävijöitä. Mutta jokainen eläintarhan johtaja etsii aina tapoja parantaa. Katso: Tällä hetkellä voit kasvattaa %missingbabies% enemmän poikasia.]]></item>
+      <item name="zoo.advisor.descriptions.4.C"><![CDATA[Uutiset eläintarhan uusista tulokkaista leviävät laajalle. Vierailijat rakastavat pieniä kömpelöitä pentuja! Tällä hetkellä voit kasvattaa %missingbabies% enemmän pentuja.]]></item>
+      <item name="zoo.advisor.descriptions.4.D"><![CDATA[Eläintarhasi kaipaisi lisää jälkeläisiä. Katso: %missingbabies% pariskunnista etsii tällä hetkellä poikasta. Yritä lisääntyä!]]></item>
+      <item name="zoo.advisor.descriptions.4.E"><![CDATA[Eläintarhassasi on paljon huolta jälkeläisistäsi: %missingbabies% pariskunnista odottaa parhaillaan vauvaa. Yritä lisääntyä ja ilahduttaa vierailijoitasi kömpelöiden pentujesi näkemisellä.]]></item>
+      <item name="zoo.advisor.descriptions.5.A"><![CDATA[Hienoa, eläintarhanne näyttää upealta! Ja vierailijat rakastavat sitä. Jatkakaa samaan malliin!]]></item>
+      <item name="zoo.advisor.descriptions.5.B"><![CDATA[Pärjäät hyvin, mutta eläintarhasi olisi vieläkin mukavampi, jos siivoisit loputkin roskat.]]></item>
+      <item name="zoo.advisor.descriptions.5.C"><![CDATA[Eläintarhassasi roskat kasaantuvat hitaasti. Siivoa ne vihdoin.]]></item>
+      <item name="zoo.advisor.descriptions.5.D"><![CDATA[Eläintarhassasi lojuu paljon roskia. Sinun pitäisi ehdottomasti siivota ja raivata kaikki.]]></item>
+      <item name="zoo.advisor.descriptions.5.E"><![CDATA[Eläintarhasi hukkuu roskiin! Siivoa roskavuoret poluilta ja tyhjennä roska-astiat.]]></item>
+    </category>
+    <category name="zoo.advisor.help">
+      <item name="zoo.advisor.help.1"><![CDATA["Eläinlajit"-kategoriassa voit nähdä, ovatko eläintarhassasi edustettuina kaikki mahdolliset eläinlajit.]]></item>
+      <item name="zoo.advisor.help.2"><![CDATA["Tyytyväisyys"-kategoria näyttää, kuinka onnellisia eläimesi ovat tällä hetkellä.]]></item>
+      <item name="zoo.advisor.help.3"><![CDATA["Koriste"-kategoriassa voit nähdä, ovatko eläintarhasi koristeet vierailijoille houkuttelevia.]]></item>
+      <item name="zoo.advisor.help.4"><![CDATA[Vierailijat rakastavat suloisia vauvoja! "Eläinten kasvatus" -kohta näyttää sinulle kasvatustyösi onnistumisasteen.]]></item>
+      <item name="zoo.advisor.help.5"><![CDATA["Roska"-kohta näyttää, onko eläintarhasi siisti vai kompastelevatko vierailijat roskavuoriin.]]></item>
+      <item name="zoo.advisor.help.6"><![CDATA[Käytä näppäimiä 1–7 päästäksesi kauppaan nopeammin.]]></item>
+      <item name="zoo.advisor.help.7"><![CDATA[Käytä kirjaimia Q, W, E ja R esineiden siirtämiseen (W), kääntämiseen (E), myymiseen (R) tai pelitilan vaihtamiseen (Q).]]></item>
+      <item name="zoo.advisor.help.8"><![CDATA[Muista käyttää turvallista salasanaa, jota et jaa kenenkään kanssa!]]></item>
+      <item name="zoo.advisor.help.9"><![CDATA[Voit ottaa pelivinkkejä ja muita ominaisuuksia, kuten vierailijoita, taustatehosteita ja äänitehosteita, käyttöön tai poistaa ne käytöstä, jotta peli toimisi nopeammin heikommilla tietokoneilla.]]></item>
+      <item name="zoo.advisor.help.10"><![CDATA[Osta eläintarhan dollareita pankista. Voit joskus saada niitä palkkiona päivittäisten tehtävien suorittamisesta. Voit saada niitä myös, jos nouset tarpeeksi tasoa.]]></item>
+      <item name="zoo.advisor.help.11"><![CDATA[Tarjolla on myös bonuskoodeja sisältäviä kampanjoita silloin tällöin, joten pidä silmällä virallisia ilmoituksia foorumilla.]]></item>
+      <item name="zoo.advisor.help.12"><![CDATA[Eläimesi voivat sairastua vahingossa. Mitä paremmin pidät niistä huolta, sitä pidempään ne pysyvät terveinä. Mutta jos eläimesi ei ole sairas, et voi edes antaa sille pistosta.]]></item>
+      <item name="zoo.advisor.help.13"><![CDATA[Eläimesi viihtyvät kaikissa aitauksissa. Ja sillä ei ole väliä, mihin aitaukseen ne laitat.]]></item>
+      <item name="zoo.advisor.help.14"><![CDATA[Eläimiä ei voi tällä hetkellä siirtää muihin aitauksiin.]]></item>
+      <item name="zoo.advisor.help.15"><![CDATA[Jos myyt aitauksen, myyt myös siinä olevan eläimen.]]></item>
+      <item name="zoo.advisor.help.16"><![CDATA[Pelissä on kahdenlaisia ​​mangusteja – tavallinen ja harmaa mangusti Beda. Beda ilmestyy vain tiettyjen tapahtumien aikana ja sen voi ostaa vain erityispäivinä.]]></item>
+      <item name="zoo.advisor.help.17"><![CDATA[Jos napsautat "adoptoi zoodollareilla", olet 100% varma uudesta lisäyksestä, eikä sinun tarvitse odottaa sitä.]]></item>
+      <item name="zoo.advisor.help.18"><![CDATA[Voit tallentaa ZooMumba-ystäväsi osoitekirjaasi. Valitettavasti et voi tällä hetkellä kutsua naapureita.]]></item>
+      <item name="zoo.advisor.help.19"><![CDATA[Mitä enemmän omistat kauppoja, sitä enemmän zoogroja ansaitset.]]></item>
+      <item name="zoo.advisor.help.20"><![CDATA[Eikö sinulla ole aikaa? Palkkaa sitten avustajia. Muista, että avustajat toimivat vain, kun napsautat niitä (ne eivät toimi automaattisesti).]]></item>
+      <item name="zoo.advisor.help.21"><![CDATA[Jos palkkaat kassanhoitajan, Kešíkin, lisäät tulojasi.]]></item>
+      <item name="zoo.advisor.help.22"><![CDATA[Avustajien käyttö kannattaa: saat enemmän kokemuspisteitä.]]></item>
+      <item name="zoo.advisor.help.23"><![CDATA[Jos sinulla on kaikki avustajat, aktivoit Davidin edustajan – hän voi saada kaikki avustajat työskentelemään yhdellä napsautuksella.]]></item>
+      <item name="zoo.advisor.help.24"><![CDATA[Mitä enemmän lajittelet eläintarhassa jätettä, sitä vähemmän sitä päätyy kaduille.]]></item>
+      <item name="zoo.advisor.help.25"><![CDATA[Osta saman lajin uros ja naaras, niin saat pian suloisia poikasia eläintarhassa.]]></item>
+      <item name="zoo.advisor.help.26"><![CDATA[Päärakennuksessa voi säilyttää vain tietyn määrän pääsymaksuja, joten muista kerätä niitä säännöllisesti.]]></item>
+      <item name="zoo.advisor.help.27"><![CDATA[Jotta rakennuksistasi olisi hyötyä, niiden välillä on aina oltava polku. Miten muuten vierailijat voisivat päästä niihin?]]></item>
+      <item name="zoo.advisor.help.28"><![CDATA[Pidä silmäsi auki: Kauppaan ilmestyy aika ajoin erityisiä eläimiä tai esineitä, joita voit ostaa vain rajoitetun ajan.]]></item>
+      <item name="zoo.advisor.help.29"><![CDATA[Ruoki eläimiäsi superruoalla, ne pysyvät kylläisinä pidempään!]]></item>
+      <item name="zoo.advisor.help.30"><![CDATA[Ovatko eläimesi sairaita? Antakaa niille superlääkkeitä, niin ne ovat taas yhtä terveitä kuin kalat!]]></item>
+    </category>
+  </category>
+</language>

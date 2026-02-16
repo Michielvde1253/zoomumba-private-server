@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Tentativo extra]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Evviva, hai un tentativo extra!<br> Per ogni giorno in cui effettui l'accesso, riceverai un giro extra sulla ruota della fortuna.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Clicca e tenta la fortuna!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Oppure clicca sull'edificio con la ruota della fortuna in città. Ogni giro garantisce grandi ricompense!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Ulteriori tentativi]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Vuoi acquistare un altro tentativo?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Congratulazioni!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Evviva! Hai vinto:]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Gira di nuovo, puoi vincere solo sulla ruota della fortuna!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Feeder John per 1 ora]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Fornitore d'acqua Paul per 1 ora]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Bidello Stanley per 1 ora]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Allevatrice Sonja per 1 ora]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Il netturbino George per 1 ora]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Cassiere Cashy per 1 ora]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Feeder John per 3 ore]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Fornitore d'acqua Paul per 3 ore]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Il bidello Stanley per 3 ore]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Allevatrice Sonja per 3 ore]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Il netturbino George per 3 ore]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Cassiere Cashy per 3 ore]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[Bonus EP del 30% per ben 8 ore!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[Bonus EP del 100% per ben 8 ore!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[Bonus zampe del 50% per ben 5 ore!]]></item>
+    </category>
+  </category>
+</language>

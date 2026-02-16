@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[¡Bienvenidos a nuestro evento de San Valentín! Del 8 al 15 de febrero, ¡habrá un ambiente romántico! ¡Diviértanse jugando a nuestro juego de San Valentín y esperen un montón de premios geniales!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Vea cómo hacerlo:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Cuida a tus animales y colecciona artículos de San Valentín: corazones, notas de amor y el arco y las flechas de Cupido. ¡Úsalos para ganar adorables sorpresas durante el romántico juego de San Valentín!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Con los objetos que hayas recolectado, podrás moverte por el campo de juego y recolectar premios: ¡te esperan ciervos majestuosos y suministros de esencia de Tolija y pociones de crecimiento!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[También echa un vistazo a la tienda: ¡encontrarás potenciadores útiles que te garantizarán aún más éxito y diversión en el juego!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Duplica la cantidad de artículos del Día de San Valentín durante 1 hora.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Reiniciar el juego de mesa]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[¡Nuestro evento de San Valentín ya casi termina! Ya no recibirás más lazos, cartas ni corazones. ¡Pero no te rindas! Aún tienes este tiempo para ganar recompensas de San Valentín:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Ahora que has ganado el ciervo y la cierva, ¡puedes empezar el juego de mesa de nuevo! Simplemente haz clic en la marca verde o en el botón "Nuevo" del tablero.]]></item>
+    </category>
+  </category>
+</language>

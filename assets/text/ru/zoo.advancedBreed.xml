@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Привет! Меня зовут Соня Старостлива, я работаю медсестрой в зоопарке. Вы с нетерпением ждёте появления на свет новых милых детёнышей? Я объясню, как это работает! Сначала вам нужно решить, какой вид животных вы хотите разводить.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Выберите двух взрослых животных из своего инвентаря, чтобы они стали родителями. Чем реже они встречаются, тем выше вероятность рождения ещё более редкого детёныша. Однако родители должны оставаться со мной на время разведения.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Использование дополнительных собранных предметов, крепкого корма, суперкорма или суперлекарства повысит ваши шансы на выведение особенно редкого детеныша. Чем больше сердечек у предмета, тем выше шанс!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Подготовка почти завершена! Перед началом игры ещё раз проверьте свой выбор. Хотите что-то изменить? Нет проблем, просто воспользуйтесь кнопкой «Назад»!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[В эксперименте по разведению использовались следующие животные и предметы:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Племенная станция готова]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Здесь его разводят.]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Родился ребёнок!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Малыши появились на свет!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Начать разведение]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Используйте эссенцию]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Вы действительно хотите начать разведение без каких-либо добавок? Хорошо подумайте — с добавками у вас больше шансов получить редкое потомство.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Вы сейчас в процессе подготовки. Вы действительно хотите покинуть племенную станцию?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Племенная станция]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Эти животные прямо сейчас рожают детенышей:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Осталось времени:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Суть Толиджи]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Эссенция Толия сокращает время размножения на 50%.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Ура! У вас родился малыш! Вы можете найти этого милого малыша в своем инвентаре:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Ура! У вас родился ребёнок! Вы можете найти этого милого проказника в своём инвентаре:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Переведите малыша в питомник для животных, чтобы он подрос.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Приведите малышей в питомник для животных, чтобы они могли вырасти.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Внимание: В данный момент идёт процесс разведения! Если вы сейчас переместите станцию ​​в свой инвентарь, процесс будет прерван, и вы потеряете всех животных и добавки. Вы уверены, что хотите переместить её сейчас?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Внимание: В данный момент ведётся разведение! Если вы продадите станцию ​​сейчас, процесс будет прерван, и все животные и добавки будут потеряны. Вы уверены, что хотите продать станцию ​​сейчас?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Если процесс разведения завершится после окончания мероприятия, вы получите только одного детеныша.]]></item>
+    </category>
+  </category>
+</language>

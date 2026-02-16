@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Tervetuloa kiertävään sirkukseen! Esittelyssä Mystery Box! Osta yksi laatikko ja saat yhden kymmenestä eläimestä. Voit pitää jopa 20 laatikkoa kerrallaan, ja jokaisen laatikon avaaminen kestää enintään 5 tuntia. Pitäkää hauskaa!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Eläimet:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Sydämelliset onnittelut!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[Seuraavat eläimet on lisätty tavaraluetteloosi: %animal%. Hanki vielä lisää salaperäisiä laatikoita saadaksesi entistä ainutlaatuisempia eläimiä!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Voi, olemme pahoillamme!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Sinulla on jo 20 salaperäistä arkkua. Odota, kunnes yksi niistä avautuu, ja ota sitten toinen arkku.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Mysteerilaatikko avautuu ja siinä on: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Klikkaa nähdäksesi eläimet]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Tervetuloa takaisin!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Poissa ollessasi eläimesi janottivat salaperäistä häkkiä. Kasvattaja Sonia huolehti niistä ja toi ne varastoonsa. Katsokaa niitä nopeasti!]]></item>
+  </category>
+</language>

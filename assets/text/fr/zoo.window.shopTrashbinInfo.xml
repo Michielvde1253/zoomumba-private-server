@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Poubelle]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Les gens laissent des déchets derrière eux ! Plus vous avez de poubelles dans votre zoo, moins vous aurez à nettoyer après les visiteurs.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Poubelle de maman]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Beurk... Je veux des ordures !]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Fantôme de la poubelle]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuhhuuuuu... Déchets]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Vampire de la poubelle]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[J'ai besoin de quelque chose à mordre. Donnez-moi vos déchets !]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Monstre de la poubelle]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmmm... C'est bon, même si c'est de la camelote !]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Poubelle d'anniversaire]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmm, du papier cadeau !]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Poubelle à baleines]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA[«Je vais avaler toutes vos ordures!»]]></item>
+  </category>
+</language>

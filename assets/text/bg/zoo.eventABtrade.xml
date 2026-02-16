@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventABtrade">
+    <category name="zoo.eventABtrade.button">
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Борса]]></item>
+    </category>
+    <category name="zoo.eventABtrade.layer">
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Здравейте, аз съм Лукаш, директор на зоологическата градина в съседния град. Чух, че вашата медицинска сестра, Соня Старостлива, развъжда нови животински видове, които ме интересуват много. За всеки мъжки от вида %priceSpecies%, ще ви дам мъжки от вида %rewardSpecies% или женска за женска. По време на моето присъствие, времето за инкубация на вашия вид %priceGenus%s ще бъде намалено от 20 на 2 часа! И така, участвате ли?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Сега се връщам в зоологическата си градина. Много благодаря и се надявам скоро да се видим отново!]]></item>
+    </category>
+  </category>
+</language>

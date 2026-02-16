@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.infoLayers">
+    <category name="zoo.window.infoLayers.forgottenZoo">
+      <item name="zoo.window.infoLayers.forgottenZoo.title"><![CDATA[Rejtett állatkert]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.info"><![CDATA[Gratulálunk! A 3. kiegészítővel a Rejtett Állatkert királysága most a lábad előtt hever! A parkolóban lévő nyíl a Rejtett Állatkertbe mutat.]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.expansion"><![CDATA[Korlátozott ideig egyetlen vásárlással maximálisra bővítheted a Titkos Állatkerted méretét! Menj a Titkos Állatkertbe, nyisd meg a boltot, és kattints a „Kiegészítők” gombra. Az ajánlatot itt találod!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemreward">
+      <item name="zoo.window.infoLayers.itemreward.recycling.title"><![CDATA[Az újrahasznosítás sikeres volt!]]></item>
+      <item name="zoo.window.infoLayers.itemreward.recycling.info"><![CDATA[Remek, megérte! Ezeket az anyagokat a szemétből hasznosítottad újra. Megtalálod őket a készletedben.]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.title"><![CDATA[Meglepetésdoboz]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.info"><![CDATA[Hurrá! A meglepetésdobozod megtelt a fenti anyagokkal, amelyeket további feldolgozáshoz felhasználhatsz. Megtalálod őket a készletedben.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedingLabNursery">
+      <item name="zoo.window.infoLayers.breedingLabNursery.info"><![CDATA[Nevelj új állatfajokat! A tenyésztőállomás és az állatóvoda mostantól elérhető! Kattints a kék elefántra: Az épületeket az irányítóközpontban találod.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterNotification">
+      <item name="zoo.window.infoLayers.easterNotification.title"><![CDATA[Húsvéti bevásárlás]]></item>
+      <item name="zoo.window.infoLayers.easterNotification.text"><![CDATA[A megvásárolt tételt mentettük a készletedbe.<br><br>Szeretnéd most megnyitni a készletedet?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterComic">
+      <item name="zoo.window.infoLayers.easterComic.layer1.bubble"><![CDATA[Üdvözlünk a húsvéti eseményen! <b>Április 21. és 27. között</b> a húsvéti nyuszi tojásokat oszt. Gyűjtsd össze őket, nagyszerű jutalmak várnak rád. Kattints a nyílra a további információkért.]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer2.content"><![CDATA[Nagyszerű húsvéti dekorációkkal 50%-kal több büféjegyet kapsz a kifutók minden eseményére 7 napon keresztül. Készíts fotókat a húsvéti állatkertedről, és oszd meg őket barátaiddal a Facebookon vagy a fórumon!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.header"><![CDATA[Menjünk, keressünk húsvéti tojásokat!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.content"><![CDATA[Az aranyos húsvéti ugrálóvárak sok vásárlót vonzanak majd. És a legjobb az egészben? Húsvét után is az állatkertben maradnak - ahogy az egy igazi látványossághoz illik!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer4.content"><![CDATA[A húsvéti kifutó mindig látványos, függetlenül attól, hogy milyen állatok élnek benne. A húsvéti kifutók már a legelejétől 20%-kal több izgalmat hoznak!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.bubble"><![CDATA[A húsvéti nyuszi rendszeresen szórja a tojásokat. De ha már több mint 5 tojás gyűlik az állatkertedben, a tojásrakásnak vége. Tipp: Ha minden alkalommal be szeretnéd gyűjteni az összes tojást, kérj tanácsot húsvéti segítődtől, Szonjától!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.content"><![CDATA[Egy nyuszi nem elég? Akkor további húsvéti nyuszik várnak rád az áruház kiegészítő részlegén. Nézz be!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Notification">
+      <item name="zoo.window.infoLayers.easter2012Notification.title"><![CDATA[Húsvéti bevásárlás]]></item>
+      <item name="zoo.window.infoLayers.easter2012Notification.text"><![CDATA[A megvásárolt tételt mentettük a készletedbe.<br><br>Szeretnéd most megnyitni a készletedet?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Comic">
+      <item name="zoo.window.infoLayers.easter2012Comic.layer1.bubble"><![CDATA[Ünnepeld a húsvétot az állatkertedben! A húsvéti tojásvadászat április 5. és 11. között zajlik! Csatlakozz ehhez a húsvéti extravagáns játékhoz, és nyerj nagyszerű díjakat és meglepetéseket! Így csináld:]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer2.content"><![CDATA[Vigyázz az állataidra, és keresd meg az összes színes tojást a kifutóidban. Gyűjtsd össze és tedd vissza a tojásokat a húsvéti játéktáblára.<br><br>Megjegyzés: a tojások száma a mezőiden minden körben megduplázódik!]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer3.content"><![CDATA[Dobd le a húsvéti tojásokat a megfelelő játékmezőre. Piros, zöld és kék mezőink vannak. Fantasztikus húsvéti jutalmak és aranyos állatok várnak rád!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.fullScreen">
+      <item name="zoo.window.infoLayers.fullScreen.keyboard"><![CDATA[Ki szeretne lépni a teljes képernyős előnézetből, hogy újra gépelhessen?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventUpgrade">
+      <item name="zoo.window.infoLayers.eventUpgrade"><![CDATA[Adj a dobozoknak még egyedibb születésnapi megjelenést, és 125%-os nyereményt, valamint nagyobb esélyt kapsz lufikra a születésnapi eseményen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolbar">
+      <item name="zoo.window.infoLayers.toolbar.title"><![CDATA[Bónusz]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info1"><![CDATA[Remek! Kaptál egy eszköztár bónuszt a bejelentkezésért:]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info2"><![CDATA[Jelentkezz be újra holnap az eszköztár segítségével, és szerezz egy újabb bónuszt!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemInInventory">
+      <item name="zoo.window.infoLayers.itemInInventory.title"><![CDATA[Gratulálok!]]></item>
+      <item name="zoo.window.infoLayers.itemInInventory.text"><![CDATA[A következő tételt vásárolta meg a készletéhez:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.animalInInventory">
+      <item name="zoo.window.infoLayers.animalInInventory.text"><![CDATA[A következő állat került a készletedbe:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemRedeemed">
+      <item name="zoo.window.infoLayers.itemRedeemed.title"><![CDATA[Gratulálok!]]></item>
+      <item name="zoo.window.infoLayers.itemRedeemed.success"><![CDATA[A jutalmad jóváírásra került.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.action.sorry">
+      <item name="zoo.window.infoLayers.action.sorry.title"><![CDATA[Elnézést kérünk!]]></item>
+      <item name="zoo.window.infoLayers.action.sorry.text"><![CDATA[Sajnáljuk, de ez az esemény jelenleg nem elérhető.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.purchaseConfirmed">
+      <item name="zoo.window.infoLayers.purchaseConfirmed.title"><![CDATA[Gratulálok!]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.simple"><![CDATA[A vásárlás jóváírásra került.]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.gift"><![CDATA[A vásárlásod jóváírásra került, és az ajándékokat elküldtük.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.welcomeBack">
+      <item name="zoo.window.infoLayers.welcomeBack.title"><![CDATA[Üdv ismét!]]></item>
+      <item name="zoo.window.infoLayers.welcomeBack.text"><![CDATA[Az állatok nagyon örülnek, hogy újra látnak.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedInInventory">
+      <item name="zoo.window.infoLayers.breedInInventory.title"><![CDATA[Figyelem!]]></item>
+      <item name="zoo.window.infoLayers.breedInInventory.text"><![CDATA[Jelenleg tenyésztés folyik itt.<br> <br>Ha a kifutót a leltárba helyezi, a tenyésztési folyamat leáll.<br> <br>Biztosan folytatja?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.collectables">
+      <item name="zoo.window.infoLayers.collectables.firstFinish.title"><![CDATA[Gratulálok!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.text"><![CDATA[Hurrá! Most először megtaláltad a %collection% összes részét!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.button.socialShare"><![CDATA[Mutasd meg a barátaidat]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.title"><![CDATA[Gratulálok!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.text"><![CDATA[Másodszorra is teljesítetted a %collection% összeget!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.button.getGift"><![CDATA[Használat]]></item>
+      <item name="zoo.window.infoLayers.collectables.button.viewCollection"><![CDATA[Gyűjtemény megtekintése]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.adamPenguin">
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.title"><![CDATA[Top csomag "Fekete Párduc"]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.text"><![CDATA[Most, itt és csak egyszer elérhető. A "Fekete Párduc" kizárólag neked szól. És valami extra, például minden segítő 24 órán át ingyen!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.title"><![CDATA["Fehér Tigris" csomag]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.text"><![CDATA[Egyszeri ajánlat - "kombinált csomag" a nagyszerű kezdéshez! Felszerelésed a kezdéshez egy nagyszerű ajánlatért!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.title"><![CDATA["Terrárium" csomag]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.text"><![CDATA[Egyszeri ajánlat - "kombinált csomag" a nagyszerű kezdéshez! Felszerelésed a kezdéshez egy nagyszerű ajánlatért!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.title"><![CDATA["Préri" csomag]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.text"><![CDATA[Egyszeri ajánlat - "kombinált csomag" a nagyszerű kezdéshez! Felszerelésed a kezdéshez egy nagyszerű ajánlatért!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.title"><![CDATA[Hűségbónusz]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.text"><![CDATA[Csak itt érhető el: Zoodollars csomag a személyes hűségbónuszoddal! Kattints a „vásárlás” gombra, és szerezz további bónuszokat.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.payment">
+      <item name="zoo.window.infoLayers.payment.happyHourHeader"><![CDATA[Zoodollars plusz %percent%%!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBody"><![CDATA[Most már teljesülni fog a kívánságod!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_1"><![CDATA[Szerezz extra zoodollarokat még ma!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_2"><![CDATA[Vegyél például 100 zoodollart, és összesen %extradollar% zoodollart kapsz!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_3"><![CDATA[Minden fizetési módra vonatkozik, kivéve az átutalást.]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourFin"><![CDATA[Ne habozz, az ajánlat még mindig tart:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.conversionPack">
+      <item name="zoo.window.infoLayers.conversionPack_header"><![CDATA[Kizárólagosan - csak %priceCurrency% áron!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_save"><![CDATA[Spóroljon %megtakarítást%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_footer"><![CDATA[És még sok minden más...]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_infoHeader"><![CDATA[Ne habozz, és spórolj %savings%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info1"><![CDATA[<ul><li>1 pár nőstény kutya</li><li>1x szavannakert</li><li>1 hattyútó</li><li>15x szuperétel</li><li>15x legjobb táplálék</li><li>10x szupergyógyszer</li><li>75 zoodollár</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info2"><![CDATA[<ul><li>1 pár hiúz</li><li>mind a 6 asszisztens 24 órán keresztül</li><li>1 sziklakerítés</li><li>1 dodó madár szobor</li><li>25x szuperétel</li><li>25x legjobb táplálék</li><li>25x szupergyógyszer</li><li>150 zooull></li>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info3"><![CDATA[<ul><li>1 pár fehér tigris</li><li>mind a 6 asszisztens 24 órán át</li><li>1 tundra kikerítés</li><li>1 medve szobor</li><li>40x szuperétel</li><li>35x legjobb táplálék</li><li>30x szupergyógyszer</li><li></li>200 zoo/]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.paymentBug">
+      <item name="zoo.window.infoLayers.paymentBug.title"><![CDATA[Kedves játékosok]]></item>
+      <item name="zoo.window.infoLayers.paymentBug.info"><![CDATA[Egy hiba miatt túl sok tárgyat írtunk jóvá a csomagodban. Sajnos el kell távolítanunk ezeket a tárgyakat, mivel ez nem lenne tisztességes azokkal a játékosokkal szemben, akik ugyanazt a csomagot vásárolták. 500 mancsot írtunk jóvá kárpótlásul a félreértésért.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventPack">
+      <item name="zoo.window.infoLayers.eventPack_header"><![CDATA[Szerezz be egy egyedi karácsonyi koszorút!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title1"><![CDATA[Szeretnéd, hogy a karácsonyi rendezvényed gyorsabban menjen? Szerezz be egy kis karácsonyi kosarat, amit csak egyszer lehet megvásárolni!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info1"><![CDATA[<ul><li>10x kandírozott alma</li><li>3x Tolia esszencia</li><li>3x növekedési bájital</li><li>5x szuperélelmiszer</li><li>5x legjobb étel</li><li>25 állatdollár</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title2"><![CDATA[Szeretnéd, hogy a karácsonyi rendezvényed gyorsabban menjen? Szerezz be egy nagy karácsonyi kosarat, amit csak egyszer lehet megvásárolni!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info2"><![CDATA[<ul><li>60x kandírozott alma</li><li>mind a 7 segéd 24 órán keresztül</li><li>20x tolija esszencia</li><li>20x növekedési bájital</li><li>20x szuperétel</li><li>20x legjobb étel</li><li>50 zoodollár</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.cinema">
+      <item name="zoo.window.infoLayers.cinema.limit"><![CDATA[Sajnos már nincsenek mozijegyeid.]]></item>
+      <item name="zoo.window.infoLayers.cinema.success1"><![CDATA[Hurrá! Íme a jutalmad a film megtekintéséért:]]></item>
+      <item name="zoo.window.infoLayers.cinema.success2"><![CDATA[A jóváírás a következő órán belül megtörténik.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012">
+      <item name="zoo.window.infoLayers.easter2012.limit"><![CDATA[Nincs elég húsvéti tojásod.]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success1"><![CDATA[Hurrá! A következő jutalmat szerezted meg:]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success2"><![CDATA[Sok sikert a tojások megtalálásához!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.avatar">
+      <item name="zoo.window.infoLayers.avatar.Check"><![CDATA[Az avatárodat sikeresen mentettük.]]></item>
+      <item name="zoo.window.infoLayers.avatar.X"><![CDATA[Biztosan bezárod ezt az ablakot? Az avatárod még nincs mentve!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.saveAssets">
+      <item name="zoo.window.infoLayers.saveAssets.text1"><![CDATA[Szeretnéd, hogy a játékod gyorsabban töltsön be? A ZooMumba nagyon grafikailag intenzív. Ha szeretnéd, a képeket közvetlenül a merevlemezedre menthetjük. Így a játék sokkal gyorsabban töltődik be!]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text2"><![CDATA[A változtatások engedélyezéséhez egyszerűen kattintson az „Engedélyezés” gombra, amikor legközelebb megjelenik az ablak. Ellenkező esetben a játékadatok továbbra is a böngésző gyorsítótárában tárolódnak.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text3"><![CDATA[Ha másképp döntesz, egyszerűen nyisd meg a ZooMumba beállításait, és kapcsold be vagy ki a gyorsítótárat.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.yes"><![CDATA[Igen, mentés merevlemezre (ajánlott)]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.no"><![CDATA[Nem, továbbra is használom a böngésző gyorsítótárát]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.doublexp">
+      <item name="zoo.window.infoLayers.doublexp.allitems"><![CDATA[Lépj gyorsabban szintet! Szerezz dupla mennyiségű BZ-t a karámokban végzett tevékenységekért!]]></item>
+      <item name="zoo.window.infoLayers.doublexp.specialitems"><![CDATA[Szerezz extra tapasztalati pontokat! Ezek az állatok dupla adag BZ-t adnak:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.specialShopItem">
+      <item name="zoo.window.infoLayers.specialShopItem.title"><![CDATA[Szuper ajánlat: Csak rövid ideig!]]></item>
+      <item name="zoo.window.infoLayers.specialShopItem.infotext"><![CDATA[Ma különleges nap van különleges állatoknak: Születésnapjukat ünnepeljük! Csak rövid ideig kapható az üzletben:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012">
+      <item name="zoo.window.infoLayers.frog2012.limit"><![CDATA[Sajnos hiányoznak a bónusz tárgyak. Ne add fel!]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success1"><![CDATA[Találat! Nagyszerű jutalmat nyertél:]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success2"><![CDATA[Találj még több tárgyat! Sok szerencsét!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Notification">
+      <item name="zoo.window.infoLayers.frog2012Notification.title"><![CDATA[Gyűjthető tárgyak vásárlása]]></item>
+      <item name="zoo.window.infoLayers.frog2012Notification.text"><![CDATA[A megvásárolt tétel most az állatkerti raktáradban van. Szeretne raktárat nyitni?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Comic">
+      <item name="zoo.window.infoLayers.frog2012Comic.layer1.bubble"><![CDATA[Május 17. és 23. között az állatkerted egy mese lesz. Rengeteg móka és nagyszerű nyeremények várnak rád a Királyi Béka Eseményen!</br></br>A következő lépésekben megmutatjuk, hogyan:]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer2.content"><![CDATA[Vigyázz jól az állataidra, és gyűjts különleges bónusz tárgyakat: koronás békát, uszonyokat vagy koronát. Ezután cseréld be őket a béka játéktáblán nagyszerű nyereményekre.]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer3.content"><![CDATA[Annyi kört játszhatsz, amennyit csak akarsz. Egyre több tárgyra lesz szükséged, de a nyeremények egyre mesésebbek lesznek! Hamarosan a Békakirály is károgni fog az állatkertedben!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australien2012Comic">
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Napsütés, szörfözés és erszényesek – június 25-től július 3-ig ausztrál módra szórakozhatsz az állatkertedben! Ne maradj le, és nyerj nagyszerű ausztrál díjakat! </br></br>A következő lépésekben megmutatjuk, hogyan:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Vigyázz jól az állataidra, és gyűjts különleges bónusz tárgyakat: szörfdeszkát, vörös követ vagy naptejet. Ezután cseréld be őket nagyszerű meglepetésekre az ausztrál játéktéren.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Annyi kört játszhatsz, amennyit csak akarsz. Minél több tárgyat gyűjtesz össze, annál varázslatosabb lesz a nyereményed! Változtasd az állatkerted egy kis Ausztráliává!]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Napsütés, szörfözés és erszényesek – június 25-től július 3-ig ausztrál módra szórakozhatsz az állatkertedben! Ne maradj le, és nyerj nagyszerű ausztrál díjakat! </br></br>A következő lépésekben megmutatjuk, hogyan:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Vigyázz jól az állataidra, és gyűjts különleges bónusz tárgyakat: szörfdeszkát, vörös követ vagy naptejet. Ezután cseréld be őket nagyszerű meglepetésekre az ausztrál játéktéren.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Annyi kört játszhatsz, amennyit csak akarsz. Minél több tárgyat gyűjtesz össze, annál varázslatosabb lesz a nyereményed! Változtasd az állatkerted egy kis Ausztráliává!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.indien2012Comic">
+      <item name="zoo.window.infoLayers.indien2012Comic.layer1.bubble"><![CDATA[Sziasztok! Szeretnétek egy kicsit szórakozni július 19. és 26. között? Hadd meséljek erről az eseményről:]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer2.content"><![CDATA[Miközben gondoskodsz az állataidról, figyelj a felbukkanó különleges tárgyakra: henna tetoválásokra, krikettütőkre és a Taj Mahalra. Gyűjtsd össze őket, és cseréld be klassz jutalmakra az állatkertben!]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak akarsz. Minél több tárgyat gyűjtesz össze, annál nagyobb jutalmat kapsz. India itt van!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.anniversary2012Comic">
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.bubble"><![CDATA[Boldog születésnapot! Ünnepeld velünk a ZooMumba második évfordulóját!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.content"><![CDATA[Gyűjts össze annyi kürtöt, partikalapot és pezsgőspoharat, amennyit csak tudsz a partijátékainkhoz. Nyerhetsz egy partikalitkát rengeteg partiajándékkal!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer2.content"><![CDATA[Milyen lenne egy buli lufik nélkül? Gondoskodj az állataidról, gyűjts lufikat, és cseréld el őket a játéktéren őrült meglepetésekre.]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer3.content"><![CDATA[Az egyes játékköröket annyiszor ismételheted, ahányszor csak akarod. Egyre több és több tárgyra lesz szükséged, amelyek a betakarítás során felbukkannak, de a jutalom egyre jobb és jobb lesz. Hip, hip, hurrá! Dicsőség minden állatkert-igazgatónak!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.oktoberfest2012Comic">
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer1.bubble"><![CDATA[Kezdődjön a buli! Itt az Oktoberfest – gyere és ünnepelj bajor stílusban!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer2.content"><![CDATA[Október 1. és 7. között beer pongot, puha perecet és hagyományos kalapokat gyűjthetsz, valamint fantasztikus jutalmakat, például egy új otthont: az Oktoberfestet - egy vidámparkot!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer3.content"><![CDATA[Annyiszor játszhatsz, ahányszor csak szeretnél. Szükséged lesz néhány felbukkanó tárgyra, de cserébe hagyományos bajor jutalmakat kapsz. Szóval ne habozz, nagyon jól fogsz szórakozni!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.circusHelpcomic">
+      <item name="zoo.window.infoLayers.circusHelpcomic.layer1.content"><![CDATA[A cirkuszban rengeteg láda van egzotikus állatokkal. Az első 5 óra után egy állat kiugrik a ládából rád! Milyen állat lesz az?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Layer">
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble1"><![CDATA[Szállítsd a csibéket! Minden egyes felkapcsolt lámpa újabb nagyszerű nyereményeket jelent!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble2"><![CDATA[Oszd ki a kandírozott almákat! Minden egyes felkapcsolt lámpa újabb nagyszerű nyereményeket jelent!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer2.bubble"><![CDATA[Add el az állataidat zoogrosh-nak és világítsd meg a karácsonyfát!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.singleplayer.success"><![CDATA[Szép munka! Minden kivilágítva, és összegyűjtötted az összes jutalmat!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.multiplayer.success"><![CDATA[Gratulálunk! Együtt kivilágítottuk az egész karácsonyfát, és nagyszerű nyereményeket gyűjtöttünk!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Comic">
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.bubble"><![CDATA[Boldog karácsonyt! Kérlek, segíts felkapcsolni a karácsonyi fényeket. Minden felkapcsolt villanykörtéért különféle ünnepi ajándékokat nyerhetsz, például egy sarki rókát!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.content"><![CDATA[A lámpák bekapcsolásához cukoralmákat vagy bébi állatokat kell hozzáadnod a készletedből.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer2.content"><![CDATA[Néhány lámpát csak cukoralmákkal lehet bekapcsolni. Az almák kipattannak az állatházakból. Vásárolhatsz több almát a gyorsabb haladáshoz.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer3.content"><![CDATA[Válassz ki egy babát a készletedből és szállítsd le. Tipp: Minél magasabb az állat tenyésztési szintje, annál gyorsabban felkapcsolhatod a villanyt!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.multiplayer.bubble"><![CDATA[Itt kell együttműködnie az összes állatkert-igazgatónak: Adjátok el az állatokat a készletetekből zoogrosoknak. Együtt, lépésről lépésre kivilágíthatjátok a fát, és nagyszerű karácsonyi nyereményeket nyerhettek.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentines2013Comic">
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer1.bubble"><![CDATA[Üdvözlünk a Valentin-napi eseményen! Február 14. és 25. között készülj fel egy komoly románcra! Játssz Valentin-napi játékunkkal és nyerj nagyszerű nyereményeket!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer2.content"><![CDATA[Gondoskodj az állataidról, gyűjts cupcake-eket, szív alakú lufikat és üdvözlőlapokat. Járj végig a játéktéren lépésről lépésre, és szerezz jutalmakat útközben. A fődíj gólyák lesznek az állatkertedbe!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak akarsz. Több felugró tárgyra lesz szükséged, de ez növeli az esélyeidet, hogy több jutalmat szerezz!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.multiplayer.bubble"><![CDATA[Ne feledd: minden állatkerti igazgató együtt játszik. Adj el állatokat a készletedből zoogrossért. Küzdj fel a plüssmacskák hegyének tetejére, ahol margay macskák várnak jutalmul!]]></item>
+      <item name="zoo.window.infoLayers.valentines.multiplayer.success"><![CDATA[Gratulálunk! Elérted a plüsskupac csúcsát, és közben jutalmakat is nyertél.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterEvent2013Comic">
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer1.bubble"><![CDATA[Üdvözlünk a húsvéti állatkerti eseményen! Március 27. és április 8. között az állatkerted színes szivárványsá változik! Gyűjts színes csibéket húsvéti játékunkban, és cseréld be őket nagyszerű nyereményekre!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjts színes csibéket munka közben! Haladj lépésről lépésre a játéktéren, és gyűjtsd be az összes jutalmat útközben. A fődíj egy emu lesz!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Nyerj nagyszerű nyereményeket minden körben.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.multiplayer.bubble"><![CDATA[Ne feledd: minden állatkerti igazgató együtt játszik. Adj el állatokat a készletedből zoogrossért. Érd el a plüsskupac tetejét, és ha sikerül, nyersz egy édes hangyászpárt!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.intro"><![CDATA[Add el az állatokat a készletedből, és másszátok meg együtt a plüss hegyet.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.success"><![CDATA[Gratulálunk! Elérted a plüsskupac csúcsát, és közben jutalmakat is nyertél.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frenchEvent2013Comic">
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer1.bubble"><![CDATA[Üdvözlünk a Francia Állatkerti Eseményen! Július 11. és 16. között Franciaországba utazunk! Gyűjts tárgyakat francia játékunkhoz, és cseréld be őket fantasztikus jutalmakra!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjtsd össze a pattogó tárgyakat. Járj végig a játékmezőn lépésről lépésre, és szerezz jutalmakat útközben. A fődíj muflon!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Minden körben érdekes nyereményekre bukkanhatsz.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthdayEvent2013Comic">
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer1.content"><![CDATA[Hurrá! A 3. születésnapunk megünneplésére egy lövészfesztivállal készültünk: lőj lufikkal augusztus 15. és 28. között, és nézd, ahogy záporoznak rád a jutalmak! Minden nap ingyenes dartsot kapsz.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer2.content"><![CDATA[Helyezz lufikat a társasjátékba. Minden egyes bedobott lufi közelebb visz a nyereményhez. Nyerj szenzációs születésnapi dekorációkat és új állatokat.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Tipp: Jelentkezz be minden nap, és szerezz még több dartsot a napi bejelentkezési bónusszal!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van lufikra (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.default"><![CDATA[Erre a lövészfesztiválra! Pukkasszátok ki a lufikat és nyerjetek nagyszerű díjakat!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.hungaryEvent2013Comic">
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer1.bubble"><![CDATA[Üdvözlünk a magyar állatkerti eseményen! Tarts velünk egy Magyarországi kirándulásra szeptember 12. és 24. között! Gyűjts paprikákat magyar játékunkhoz, és cseréld be őket fantasztikus nyereményekre!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjts paprikákat. Haladj végig lépésről lépésre a játékmezőn, és szerezz jutalmakat. A fődíj új állatok!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak akarsz. Egy kis figyelmeztetés: A paprikák szeptember 23-án 12 óráig lesznek kint. Azonban szeptember 24-ig elcserélheted őket.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2013Comic">
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer1.bubble"><![CDATA[Ja, igen! Azok a csintalan pingvinek varázsrúnákkal játszottak, és sikerült megszökniük! Ott van Flubber, Larry és Swabby! Használd a plazmafoltot, és kapd el őket gyorsan, mielőtt valami csínytevésbe keverednek!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer2.content"><![CDATA[Segíts a jó Boo-nak elkapni a szellemeket. Juttassa el őket a játéktérre, és nyerjen félelmetes díjakat!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer3.content"><![CDATA[Minden nap, amikor bejelentkezel a játékba, Boo plazmafoltokat ad neked, hogy szellemeket vadássz. Tipp: Vigyázz az állataidra, és a plazmafoltok elő fognak pattanni az otthonaikból. Sok szerencsét!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van szellemekre (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.default"><![CDATA[Küldd be a szellemeidet ide, és nyerj nagyszerű díjakat!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.thanksGiving2013Comic">
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer1.bubble"><![CDATA[Üdvözlünk az állatkert hálaadásnapi ünnepségén! Ezúttal az USA-ban ünnepelünk! Gyűjts színes leveleket, és cseréld be őket nagyszerű jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjts színes leveleket. Haladj lépésről lépésre végig a játékmezőn, és szerezz jutalmakat útközben. A fődíj új állatok az állatkertedbe!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a levelek az esemény végéig hullanak, de utána még 24 órán át cserélheted őket.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van levelekre (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.default"><![CDATA[Küldd be leveleidet ide és nyerj értékes nyereményeket!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2013Comic">
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer1.bubble"><![CDATA[Hohóhó! Közeledik a karácsony az állatkertbe! December 19. és január 7. között karácsonyfadíszeket gyűjthetsz az állatkertedben, és becserélheted őket színes tányérokra téli állatoknak és karácsonyi dekorációkra.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer2.content"><![CDATA[Gondoskodj az állataidról, és színes díszek fognak kipattanni otthonaikból. Lépésről lépésre mozogj a játéktéren, és cseréld be a díszeket ünnepi jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a dekorációk január 6-án déli 12 óráig jelennek meg, de január 7-én déli 12 óráig cserélheted be őket.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.over"><![CDATA[Ehhez a lépéshez még szükséged van dekorációkra (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.default"><![CDATA[Küldd be ide a dekorációidat és nyerj értékes ajándékokat!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.egypt2014Comic">
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer1.bubble"><![CDATA[Utazz velünk a Keletre: Fedezd fel az ókori Egyiptomot, gyűjts értékes szkarabeuszokat és cseréld el őket egyiptomi társasjátékban.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjts színes szkarabeuszokat, amelyek előbukkannak a kifutóidból. Haladj végig a játéktáblán, és cserélj dísztárgyakat keleti jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a szkarabeuszok az esemény végéig felbukkannak. Azonban utána még 24 órán át becserélheted őket.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van szkarabeuszokra (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.default"><![CDATA[Szállítsd ide a szkarabeuszaidat, és nyerj nagyszerű jutalmakat!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014Comic">
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer1.bubble"><![CDATA[Szerezd meg az összes szívet: Gyűjts kártyákat február 21. és március 10. között Valentin-napi társasjátékunkban!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer2.content"><![CDATA[Gondoskodj az állataidról, és gyűjts színes kártyákat, amelyek előbukkannak a kifutóidból. Haladj végig lépésről lépésre a játéktáblán, és cseréld be őket romantikus ajándékokra.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a kártyák március 10-én déli 12 óráig jelennek meg, de március 11-én déli 12 óráig becserélheted őket.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van üdvözlőkártyákra (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.default"><![CDATA[Add meg kívánságaidat itt és nyerj értékes nyereményeket!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityComic">
+      <item name="zoo.window.infoLayers.valentine2014CommunityComic.multiplayer.bubble"><![CDATA[Ne feledd: minden állatkerti igazgató együtt játszik. Adj el állatokat a készletedből zoogros-nak. Érd el a plüss hegy tetejét - minden szinten nagyszerű nyeremények várnak rád!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.success"><![CDATA[Gratulálok, sikerült! Elérted a szívkupac tetejét, és közben jutalmakat is nyertél.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.intro"><![CDATA[Cseréld el az állataidat itt, és szerezz édes jutalmakat!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2014Comic">
+      <item name="zoo.window.infoLayers.easter2014Comic.layer1.bubble"><![CDATA[2014. április 10. és 28. között állatkerted teljes virágzásban lesz: Gyere el és érezd jól magad fantasztikus húsvéti eseményünkön! Rengeteg húsvéti meglepetés és vadonatúj állatok várnak rád a húsvéti társasjátékban!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjts színes húsvéti tojásokat, amelyek kipattannak a kifutóidból. Haladj lépésről lépésre végig a játékmezőn, és cseréld be a tojásokat szuper tavaszi jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a húsvéti tojások április 28-án déli 12 óráig jelennek meg, de április 29-én déli 12 óráig becserélheted őket.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van húsvéti tojásokra (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.default"><![CDATA[Szállítsd ide a húsvéti tojásaidat, és nyerj értékes nyereményeket!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.summer2014Comic">
+      <item name="zoo.window.infoLayers.summer2014Comic.layer1.bubble"><![CDATA[Futballláz az állatkertedben június 19-től július 1-ig! Utazz velünk Brazíliába: Szamba, foci, brazil ritmusok és vadonatúj állatok várnak rád társasjátékunkban!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjts színes koktélgyümölcsöket, amik kipattannak a kifutóidból. Haladj végig lépésről lépésre a játéktáblán, és cseréld be a koktélokat szuper nyári jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a koktélgyümölcsök június 30-án déli 12 óráig lesznek elérhetők, de július 1-jén déli 12 óráig beválthatod őket.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van koktélgyümölcsre (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.default"><![CDATA[Cserélj koktélgyümölcsöket szuper jutalmakra itt!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthday2014Comic">
+      <item name="zoo.window.infoLayers.bday2014Comic.layer1.bubble"><![CDATA[Hatalmas születésnapi buli augusztus 19-től szeptember 2-ig! Rengeteg fantasztikus meglepetés vár rád társasjátékunkban!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer2.content"><![CDATA[Helyezz lufikat a társasjátékba. Minden egyes bedobott lufi közelebb visz a nyereményhez. Nyerj szenzációs születésnapi dekorációkat és új állatokat.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd: A lufikat a kifutóidból csak augusztus 27-én, 12:00-ig gyűjtheted. Utána 24 órád van felhasználni őket.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van lufikra (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.default"><![CDATA[Helyezzen be lufikat és nyerjen értékes nyereményeket!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2014Comic">
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer1.bubble"><![CDATA[Ünnepeld velünk a Halloweent október 30. és november 10. között! Rengeteg fantasztikus meglepetés vár rád társasjátékunkban!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjtsd össze a nyálkákat, amik előbukkannak a lakásaidból. Lépésről lépésre haladj át a játéktéren, és cseréld be a nyálkákat hátborzongató és lenyűgöző jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a nyálkás legyek csak november 10-én déli 12 óráig jelennek meg. Utána 24 órád van felhasználni őket.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van nyálkaszúnyogokra (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.default"><![CDATA[Küldd be a nyálkaformáidat ide, és nyerj nagyszerű nyereményeket!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recyclingComic">
+      <item name="zoo.window.infoLayers.recyclingComic.layer1.bubble"><![CDATA[Hihetetlen, hogy mi mindent dobnak ki az emberek! Annyi értékes nyersanyag van a hulladékban: Szelektíven gyűjtsd a hulladékot az újrahasznosításhoz. Segíts a környezetnek és magadnak is!]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer2.content"><![CDATA[Minden összegyűjtött hulladék közvetlenül az újrahasznosító üzembe kerül. Válassza ki a hulladékból előállítani kívánt alapanyagot.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer3.content"><![CDATA[Válaszd ki, hány darabot szeretnél elkészíteni a kiválasztott anyagokból. Győződj meg róla, hogy elegendő hulladékod és zoogrosod van az elkészítéshez.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer4.content"><![CDATA[A normál nyersanyagok mellett ritka nyersanyagokra is szükséged lesz. Egy szuperszűrő használata növeli az esélyét annak, hogy ritka nyersanyagokat szerezz újrahasznosításból.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.craftingComic">
+      <item name="zoo.window.infoLayers.craftingComic.layer1.bubble"><![CDATA[Sziasztok, Inga Neer vagyok. Segítek új tárgyakat készíteni nyersanyagok felhasználásával. De először szükségetek lesz egy tervrajzra. Az építési tervrajzok elérhetőek és megtalálhatók az állatkertben: szintlépéskor, kirakós darabokból és díjakból, gyűjteményekből, szafarin vagy a szerencsekeréken.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer2.content"><![CDATA[Minden építési terv a műhelyben tárolódik. Egyszerűen nyisd meg a kategóriát, hogy lásd, milyen terveid vannak már.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer3.content"><![CDATA[Egy zöld pipa mutatja, hogy megvan-e az összes hozzávaló. Ha igen, akkor elkezdheted!]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer4.content"><![CDATA[Ha azt szeretnéd, hogy a munkásaid siessenek, próbáld ki a "Kézműves Booster"-t. Dobd be, és most kétszer olyan gyorsan fognak dolgozni! Állatkerti dollárokkal pillanatok alatt befejezheted a termelést.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recylingcraftingunlock">
+      <item name="zoo.window.infoLayers.recylingcraftingunlock.info"><![CDATA[Hasznosítsd újra az állatkerted hulladékát, és építs valami újat! Az újrahasznosító létesítmény és a műhely mostantól elérhető. Kattints a kék elefántra: Az épületeket az irányítóközpontban találod.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolchange">
+      <item name="zoo.window.infoLayers.toolchange.info"><![CDATA[Az újrahasznosító létesítmény és a műhely megépítéséhez sok szerszámra volt szükség, amelyeket szintén összegyűjtöttél. Hogy biztosan ne maradj le a feladatról, tapasztalati pontokat adunk a begyűjtött szerszámokért.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2014Comic">
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer1.bubble"><![CDATA[Boldog karácsonyt! December 11. és 29. között pingvinek díszítik majd a karácsonyi kandallót. Minél több tárgyat gyűjtesz az állatkertben, annál szebb lesz. Játssz a társasjátékkal, és nyerj egy ünnepi meglepetést!]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer2.content"><![CDATA[Gondoskodj az állataidról, és gyűjts karácsonyi finomságokat, amelyek előbukkannak a kifutóikból. Járj lépésről lépésre a játéktéren, és cseréld be őket ünnepi jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a karácsonyi finomságok csak december 29-én déli 12 óráig lesznek elérhetők. Utána 24 órád van felhasználni őket.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.boardgame">
+      <item name="zoo.window.infoLayers.boardgame.info.over"><![CDATA[A lépés befejezéséhez még mindig be kell illesztened a következőt: %count%x %collectitem%. Siess, és szerezd meg a jutalmad!]]></item>
+      <item name="zoo.window.infoLayers.boardgame.info.default"><![CDATA[Itt promóciós termékeket válthatsz be nagyszerű jutalmakra!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Comic">
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer1.bubble"><![CDATA[Még mindig álmaid férfiját vagy nőjét keresed? Akkor játssz a Valentin-napi társasjátékkal 2015. február 12. és 23. között!]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjts tavirózsákat, amik kipattannak a kifutójukból. Járj lépésről lépésre a játéktéren, és cseréld be őket ünnepi jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a tavirózsák csak február 23-án déli 12 óráig jelennek meg. Utána 24 órád van felhasználni őket.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Board">
+      <item name="zoo.window.infoLayers.valentine2015Board.title"><![CDATA[Valentin-nap]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityBoard">
+      <item name="zoo.window.infoLayers.valentine2014CommunityBoard.title"><![CDATA[Plüss hegy]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2015Comic">
+      <item name="zoo.window.infoLayers.easter2015Comic.layer1.bubble"><![CDATA[Valami furcsa történik a tyúkólban. A húsvéti nyuszi késik és segítségre van szüksége! Lopakodj be a tyúkólba és gyűjtsd össze a tojásokat! A húsvéti nyuszi hálás lesz!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjts színes húsvéti nyuszikat, amelyek előbukkannak a kifutóidból. Haladj végig lépésről lépésre a játéktáblán, és cseréld be őket vidám jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a húsvéti nyuszik az esemény végéig előbukkannak a kifutóidból. Azonban utána még 24 órán át felhasználhatod őket jutalmak szerzésére.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van húsvéti nyuszikra (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.default"><![CDATA[Szállítsd ide húsvéti nyuszidat és nyerj szuper nyereményeket!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Board">
+      <item name="zoo.window.infoLayers.asia2015Board.title"><![CDATA[Utazás Ázsiába]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Comic">
+      <item name="zoo.window.infoLayers.asia2015Comic.layer1.bubble"><![CDATA[Utazz velünk Ázsiába a Sárkánytáncra! Gyűjts színes lámpásokat, hogy feldobd az ünneplésed. Áldjon meg a vízisárkány!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjts színes lámpásokat, amik előbukkannak a kifutóidból. Haladj végig a játéktáblán, és cseréld be a lámpásokat egzotikus jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a lámpások az esemény végéig felbukkannak. Azonban utána még 24 órán belül becserélheted őket.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van lámpásokra (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.default"><![CDATA[Küldd be a lámpásaidat ide és nyerj értékes nyereményeket!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Board">
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Utazás Ausztráliába]]></item>
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Utazás Ausztráliába]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Comic">
+      <item name="zoo.window.infoLayers.australian2015Comic.layer1.bubble"><![CDATA[Zoomumba 5 éves! Hip, hip, hurrá! Csatlakozz hozzánk az ausztrál vadonban, és nyerj fantasztikus díjakat: Lőj lufikat, és lopakodj át az ausztrál vadonban, mint Krokodil Dundee. Hurrá!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer2.content"><![CDATA[Vigyázz az állataidra és gyűjts nyilakat, amik kipattannak a kifutóidból. Használd őket lufik lelövésére. Haladj lépésről lépésre végig a játékmezőn, és cserélj lufikat jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a dartsok az esemény végéig kipattannak a tollaidból. Azonban a lufikat még 24 órán át lőheted utána.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van lufikra (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.default"><![CDATA[Helyezzen be lufikat és nyerjen értékes nyereményeket!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Board">
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Halloween]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Halloween]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Comic">
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer1.bubble"><![CDATA[Abrakadabra! Jaj, ne! Melyik gonosz varázsló változtatta óriási tökövé a kis Perryt? Próbáld megtalálni az ellenszert, és segíts Perrynek. Október 29-től november 9-ig kipróbálhatod az összes varázsitalt!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjts bájitalokat, amik előbukkannak a kifutóidból. Haladj végig lépésről lépésre a játéktáblán, és cseréld be a bájitalokat jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a főzetek az esemény végéig felbukkannak. Azonban utána még 24 órán át becserélheted őket.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van varázsitalokra (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.default"><![CDATA[Szállítsd ide a varázsitalaidat, és nyerj nagyszerű jutalmakat!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.winter2015Comic">
+      <item name="zoo.window.infoLayers.winter2015Comic.layer1.bubble"><![CDATA[Boldog karácsonyt! A pingvinek fel akarják díszíteni a kandallójukat szenteste. Minél több karácsonyi gyertyát gyűjtesz, annál otthonosabban fogják érezni magukat. Nyerhetsz egy téli meglepetést a társasjátékban!]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjts színes karácsonyi gyertyákat, amelyek kipattannak a kifutóból. Haladj lépésről lépésre végig a játéktéren, és cseréld be őket fantasztikus jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer3.content"><![CDATA[Teljesíts annyi kört, amennyit csak szeretnél. Ne feledd, hogy a karácsonyi gyertyák az esemény végéig kipattannak a bekerített helyekről, de utána még 24 órán át cserélheted őket.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2016Comic">
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer1.bubble"><![CDATA[Üdvözlet minden szerelmesnek! A szerelem egyre terjed, ezért egy különleges eseménnyel készültünk nektek, rengeteg gyönyörű jutalommal. Van egy új háziállatunk is - egy csíkos mongúz, új romantikus témájú dekorációink és két új üzletünk is!]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjts színes plüssmackókat, amelyek kiugranak a kifutóból. Add vissza őket, kövesd fokozatosan a szeretet útját a társasjátékban, és gyűjts jutalmakat.]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer3.content"><![CDATA[Amikor eléred az út végét, a tábla újraindul, és játszhatsz egy újabb kört. A medvék az esemény végéig felbukkannak. Utána 24 órád van használni őket!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2016Comic">
+      <item name="zoo.window.infoLayers.easter2016Comic.layer1.bubble"><![CDATA[Valami furcsa történik a tyúkólban. A húsvéti nyuszi késik és segítségre van szüksége! Lopakodj be a tyúkólba és gyűjtsd össze a tojásokat! A húsvéti nyuszi hálás lesz!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer2.content"><![CDATA[Gondoskodj az állataidról és gyűjts színes húsvéti nyuszikat, amelyek előbukkannak a kifutóidból. Haladj végig lépésről lépésre a játéktáblán, és cseréld be őket vidám jutalmakra.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer3.content"><![CDATA[Játssz annyi kört, amennyit csak szeretnél. Ne feledd, hogy a húsvéti nyuszik az esemény végéig előbukkannak a kifutóidból. Azonban utána még 24 órán át felhasználhatod őket jutalmak szerzésére.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van húsvéti nyuszikra (szám: %count%). Siess, és szerezd meg a jutalmadat!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.default"><![CDATA[Szállítsd ide húsvéti nyuszidat és nyerj szuper nyereményeket!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.OceanComic">
+      <item name="zoo.window.infoLayers.OceanComic.layer1.bubble"><![CDATA[Sziasztok, Janička vagyok és tengeri emlősöket képezek. Együtt felépítjük a valaha volt legjobb vízi állatkertet!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer1.content"><![CDATA[Sonya és a pingvinek egy régi víziparkot találtak egy rejtett állatkert mögött. Nem sok maradt belőle, de a víz csodálatosan néz ki. Újítsuk fel!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer2.content"><![CDATA[Mindent meg kell építenünk! A pingvinek találtak néhány tervet és anyagot egy régi viskóban a tengerparton. Kezdjük az első vízi élőhely és a móló megépítésével.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer3.content"><![CDATA[A vízi élőhelyek három méretben kaphatók, hogy minden vízi állat otthon érezze magát. Az állatokat a tengerészboltban szerezheted be, vagy megvásárolhatod a tengerparti kunyhóban!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer4.content"><![CDATA[Kérj segítséget a teljes víz alatti csapattól! Jindra hozza az ételt, Matěj pedig a vizet. Franta kitisztítja a szűrőket, én pedig az állatokkal fogok játszani.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer5.content"><![CDATA[Tartsd tisztán a vizet az akváriumokban, és gyűjts több gyöngyöt! A gyöngyök még jobban megszépíthetik az élőhelyeket.]]></item>
+      <category name="zoo.window.infoLayers.oceanWorld2016Board">
+        <item name="zoo.window.infoLayers.oceanWorld2016Board.title"><![CDATA[Születésnap]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.oceanWorld2016Comic">
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer1.bubble"><![CDATA[Sziasztok! A víz alatti világ javában forog, ezért egy különleges búváreseményt készítettünk nektek! Csikóhalak, vadonatúj Tiki Bay kifutó, új üzletek és dekorációk várnak rátok!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer2.content"><![CDATA[Gondoskodj az állataidról a szokásos módon, és gyűjtsd össze a kifutóidból előbukkanó színes tengericsillagokat. Fedezd fel a játéktábla víz alatti zónáit, és szerezz jutalmakat!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer3.content"><![CDATA[Miután felfedezted az összes zónát, a tábla visszaáll alaphelyzetbe, és újra merülhetsz! A tengeri csillagok az esemény végéig felbukkannak. Utána 24 órád lesz használni őket.]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.over"><![CDATA[Ehhez a lépéshez továbbra is csillagokra van szükséged (szám: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.default"><![CDATA[Cseréld be a csillagaidat fantasztikus jutalmakra itt!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.monkey2016Comic">
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer1.bubble"><![CDATA[A majmok valami sántikálásra készülnek... Segíts nekik a csínytevéseikben új társasjátékunkban! Szerezz jutalmakat, többek között új üzleteket és díszeket az állatkertedbe!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer2.content"><![CDATA[A szokásos módon gondoskodj az állataidról, és gyűjtsd össze a színes zöldségeket, amelyek előbukkannak a kifutóidból. Jutalmazd meg mindegyik szurikátádat, és szerezz jutalmat.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer3.content"><![CDATA[Miután minden szurikáta megkínzott, a tábla újraindul, és újrakezdheted! A zöldségek az esemény végéig felbukkannak. Utána 24 órád lesz felhasználni őket.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged lesz zöldségekre (szám: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.default"><![CDATA[Cseréld be zöldségeidet nagyszerű jutalmakra itt!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Board">
+        <item name="zoo.window.infoLayers.halloween2016Board.title"><![CDATA[Hókuszpókusz]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Comic">
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer1.bubble"><![CDATA[Mit keresnek itt ezek a titokzatos főzetek? Tudd meg, mire valók, és szerezz jutalmakat, többek között exkluzív halloweeni tárgyakat az állatkertedbe!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer2.content"><![CDATA[A szokásos módon gondoskodj az állataidról, és gyűjtsd össze a színes üvegeket, amelyek kipattannak a kifutóidból. Nyisd ki őket a játéktáblán, és szerezz jutalmat.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer3.content"><![CDATA[Miután kinyitottad az összes üveget, a tábla újraindul, és újrakezdheted! Az üvegek az esemény végéig fel fognak bukkanni. Utána 24 órád lesz felhasználni őket.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van üvegekre (szám: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.default"><![CDATA[Cserélj üvegeket nagyszerű jutalmakra itt!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.winter2016Comic">
+        <item name="zoo.window.infoLayers.winter2016Comic.layer1.bubble"><![CDATA[Itt a karácsony! Hull a hó az állatkertben, és az állatok levelet írnak a Mikulásnak. Boldog karácsonyt! A pingvinek a kandallót díszítik, és segítségre van szükségük! Szerezz ünnepi ajándékokat a társasjátékkal!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer2.content"><![CDATA[A szokásos módon gondoskodj az állataidról, és gyűjtsd össze a mézeskalács figurákat, amelyek előbukkannak a kifutóidból. Utazz a játéktáblán, és gyűjtsd be a díjakat.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer3.content"><![CDATA[Amint befejezted a játékot, a tábla visszaáll az eredeti állapotba, és újrakezdheted! A mézeskalács figurákat az esemény végéig gyűjtheted. Utána 24 órád lesz felhasználni őket.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.over"><![CDATA[Ehhez a lépéshez továbbra is szükséged lesz mézeskalács figurákra (szám: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.default"><![CDATA[Cseréld be a mézeskalács figuráidat klassz jutalmakra itt!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Comic">
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer1.bubble"><![CDATA[Szia! Szerelmet keresel? Játssz Valentin-napi társasjátékunkkal, és szerezz rengeteg tárgyat az Undersea Worldhöz. Talán megtalálod az igazi szerelmedet a szerelem útján.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer2.content"><![CDATA[A szokásos módon gondoskodj az állataidról, és gyűjtsd össze a színes kagylókat, amelyek kipattannak a kifutóidból. Utazz a játéktáblán, és gyűjtsd be a díjakat.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer3.content"><![CDATA[Amint befejezted a játékot, a tábla visszaáll az eredeti állapotba, és újrakezdheted! A kagylók az esemény végéig felbukkannak. Utána 24 órád lesz használni őket.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.over"><![CDATA[Ehhez a lépéshez még mindig szükséged van héjakra (szám: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.default"><![CDATA[Cserélj kagylókat klassz jutalmakra itt!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Board">
+        <item name="zoo.window.infoLayers.valentine2017Board.title"><![CDATA[Valentin-nap]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Comic">
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer1.bubble"><![CDATA[Utazz velünk Kambodzsába, és merészkedj le a trópusi erdők mélyére. Gyűjts khon maszkokat, és fedezd fel az ősi khmer templomok titkait. Gazdagság és kaland vár rád!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer2.content"><![CDATA[A szokásos módon gondoskodj az állataidról, és gyűjts khon maszkokat, amelyek előbukkannak a kifutóidból. Utazz a játéktáblán, és gyűjtsd be a díjakat.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer3.content"><![CDATA[Amint befejezted a játékot, a tábla visszaáll az eredeti állapotába, és újrakezdheted! A Khon maszkok az esemény végéig fel fognak bukkanni. Utána 24 órád lesz használni őket.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.over"><![CDATA[Ehhez a lépéshez továbbra is szükséged van khon maszkokra (szám: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.default"><![CDATA[Küldd be khon maszkjaidat ide és nyerj szuper díjakat!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Board">
+        <item name="zoo.window.infoLayers.cambodia2017Board.title"><![CDATA[Kambodzsai utazás]]></item>
+      </category>
+    </category>
+  </category>
+</language>

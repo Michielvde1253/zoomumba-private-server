@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[bote de basura]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[¡La gente deja basura! Cuantos más botes de basura tengas en tu zoológico, menos tendrás que limpiar después de los visitantes.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Cubo de basura de momia]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Ughh... ¡Quiero basura!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Fantasma del bote de basura]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuhhuuuuu... Basura]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Vampiro de la papelera]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Necesito algo para morder. ¡Dame tu basura!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Monstruo del bote de basura]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmmm... ¡Basura buena!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[bote de basura de cumpleaños]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmmmm, ¡papel de regalo!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Cubo de basura de ballena]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA["¡Me tragaré toda tu basura!"]]></item>
+  </category>
+</language>

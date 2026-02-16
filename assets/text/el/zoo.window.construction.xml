@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.construction">
+    <item name="zoo.window.construction.title"><![CDATA[Κατασκευή]]></item>
+    <item name="zoo.window.construction.info"><![CDATA[Για]]></item>
+    <item name="zoo.window.construction.buildinginfo"><![CDATA[Σχεδόν τελείωσα! Μόλις:]]></item>
+    <item name="zoo.window.construction.buildinginfo2"><![CDATA[Ή πάρτε το αντικείμενο αμέσως (χωρίς να το κατασκευάσετε):]]></item>
+    <item name="zoo.window.construction.button.buydirectly"><![CDATA[Αγοράστε τώρα]]></item>
+  </category>
+</language>

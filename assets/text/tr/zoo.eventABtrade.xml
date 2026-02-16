@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventABtrade">
+    <category name="zoo.eventABtrade.button">
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Değişme]]></item>
+    </category>
+    <category name="zoo.eventABtrade.layer">
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Merhaba, ben komşu kasabadaki hayvanat bahçesinin müdürü Lukáš. Hayvan bakıcınız Soňa Starostlivá'nın çok ilgimi çeken yeni hayvan türleri yetiştirdiğini duydum. %priceSpecies% türünden her erkek için size %rewardSpecies% türünden bir erkek veya bir dişi için bir dişi vereceğim. Benim varlığım süresince, %priceGenus%s türünün kuluçka süresi 20 saatten 2 saate düşecek! Peki, kabul ediyor musunuz?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Şimdi hayvanat bahçeme geri dönüyorum. Çok teşekkür ederim, umarım yakında tekrar görüşürüz!]]></item>
+    </category>
+  </category>
+</language>

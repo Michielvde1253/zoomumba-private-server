@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.powerUpItems">
+    <item name="zoo.powerUpItems.setName.7"><![CDATA[Booster per zampe]]></item>
+    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[Il potenziatore di zampe ti darà il 50% di zampe in più per 5 ore. Si attiverà immediatamente dopo la selezione.]]></item>
+  </category>
+</language>

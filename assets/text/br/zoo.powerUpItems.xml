@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.powerUpItems">
+    <item name="zoo.powerUpItems.setName.7"><![CDATA[Reforço para patas]]></item>
+    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[O reforço de patas lhe dará 50% mais patas por 5 horas. Ele será ativado imediatamente após a seleção.]]></item>
+  </category>
+</language>

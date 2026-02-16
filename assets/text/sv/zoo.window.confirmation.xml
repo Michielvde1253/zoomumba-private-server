@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.confirmation">
+    <item name="zoo.window.confirmation.closegame.title"><![CDATA[Slutspel]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[Detta zoo är inte tillgängligt än. Du kan låsa upp det genom att nå %level% expansioner i följande zoo: %zooName%. Eller låsa upp det omedelbart för %zooDollar% zoodollars.]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[För att låsa upp detta zoo måste du vara på nivå %level%. Eller lås upp det omedelbart för %zooDollar% zoodollars.]]></item>
+    <item name="zoo.window.confirmation.map.level"><![CDATA[Du måste vara på nivå %level% för att låsa upp det här zooet.]]></item>
+    <item name="zoo.window.confirmation.map.buy"><![CDATA[Vill du köpa en utbyggnad av djurparken?]]></item>
+    <item name="zoo.window.confirmation.title.buy"><![CDATA[Köpa]]></item>
+    <item name="zoo.window.confirmation.closegame.info"><![CDATA[Vill du verkligen avsluta ZooMumba?]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.title"><![CDATA[Köp varor]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.info"><![CDATA[Vill du verkligen köpa den här varan?]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.title"><![CDATA[Köp flytt]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.info"><![CDATA[Vill du göra det här draget för zoodollars skull?]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.title"><![CDATA[Sälja]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Vill du verkligen sälja den här varan?]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[Varning]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[Om du placerar höljet i ditt inventarieförråd förlorar det sin handlingsuppgradering.<br><br>Vill du fortsätta?]]></item>
+    <category name="zoo.window.confirmation.gift">
+      <item name="zoo.window.confirmation.gift.title"><![CDATA[Uppmärksamhet!]]></item>
+      <item name="zoo.window.confirmation.gift.info"><![CDATA[Du har inte valt dina 5 vänner än! Om du fortsätter kommer dina gåvor att gå förlorade. Det vore synd... Vill du fortfarande fortsätta?]]></item>
+    </category>
+  </category>
+</language>

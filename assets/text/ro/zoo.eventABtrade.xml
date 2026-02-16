@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventABtrade">
+    <category name="zoo.eventABtrade.button">
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Schimb]]></item>
+    </category>
+    <category name="zoo.eventABtrade.layer">
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Bună ziua, sunt Lukáš, directorul grădinii zoologice din orașul vecin. Am auzit că asistenta voastră veterinară, Soňa Starostlivá, crește noi specii de animale de care sunt foarte interesată. Pentru fiecare mascul din specia %priceSpecies%, vă voi da un mascul din specia %rewardSpecies% sau o femelă pentru fiecare femelă. În prezența mea, timpul de incubație al speciei voastre %priceGenus%s va fi redus de la 20 la 2 ore! Deci, sunteți de acord?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Mă întorc acum la grădina zoologică. Mulțumesc mult și sper să ne revedem curând!]]></item>
+    </category>
+  </category>
+</language>

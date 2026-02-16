@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.safari">
+    <item name="zoo.safari.title"><![CDATA[Σαφάρι]]></item>
+    <item name="zoo.safari.fuel_singular"><![CDATA[Δοχείο βενζίνης]]></item>
+    <category name="zoo.safari.errors">
+      <item name="zoo.safari.errors.notAvailable"><![CDATA[Κρίμα! Δυστυχώς, το επίπεδό σου είναι πολύ χαμηλό! Από το επίπεδο 7 μπορείς να ξεκινήσεις την εκδρομή σαφάρι!]]></item>
+    </category>
+    <category name="zoo.safari.welcomeWindow">
+      <item name="zoo.safari.welcomeWindow.infoText"><![CDATA[Καλώς ορίσατε σε ένα σαφάρι γεμάτο περιπέτεια: Κερδίστε μεγάλες ανταμοιβές, ακόμη και νέα ζώα! <br /><br />Στο επόμενο βήμα, απλώς επιλέξτε την περιοχή από την οποία θέλετε να ξεκινήσετε το σαφάρι σας. <br /><br />Ζήτω, στην άγρια ​​φύση!]]></item>
+    </category>
+    <category name="zoo.safari.regionWindow">
+      <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Επιλέξτε μια περιοχή]]></item>
+      <item name="zoo.safari.startWindow.infoText"><![CDATA[Από ποια περιοχή θέλετε να ξεκινήσετε το σαφάρι σας; Επιλέξτε την εδώ: Σε κάθε περιοχή υπάρχουν 3 περιοχές που μπορείτε να ενεργοποιήσετε ανάλογα με το επίπεδό σας.]]></item>
+    </category>
+    <category name="zoo.safari.shopWindow">
+      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Γεια σου τυχοδιώκτη! Πήγαινε σε ένα πραγματικό σαφάρι. Χρησιμοποίησε τους Τζόκερ για να κάνεις την πορεία σου στην άγρια ​​φύση ευκολότερη.<br><br>Σημαντικό: Διάλεξε μόνο έναν από κάθε τύπο Τζόκερ για το ταξίδι σου!]]></item>
+      <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[Θέλετε να επενδύσετε %skipTimerCost% ζωολογικά δολάρια και να ξεκινήσετε το σαφάρι σας αμέσως;]]></item>
+      <item name="zoo.safari.shopWindow.infoText"><![CDATA[Είστε έτοιμοι για ένα σαφάρι; Δείτε πώς λειτουργεί: Στο επόμενο βήμα, θα δείτε ένα παιχνίδι: αποτελείται από 9 έως 25 κάρτες με την όψη προς τα κάτω. Οι κάρτες κρύβουν ανταμοιβές ή ίχνη ζώων που θα ακολουθήσετε για να κερδίσετε το κύριο βραβείο. Αλλά να είστε προσεκτικοί: κάθε κάρτα μπορεί επίσης να κρύψει μια παγίδα!<br /><br />Βλέπετε αυτό το δοχείο βενζίνης κάτω δεξιά; Σας δείχνει πόση βενζίνη έχει απομείνει στο ρεζερβουάρ του τζιπ σας. Μόλις αποκαλύψετε μια κάρτα, θα χρησιμοποιήσετε λίγη βενζίνη.<br /><br />Και τώρα για τους κανόνες του παιχνιδιού: Στην αρχή, μπορείτε να επιλέξετε κάρτες μόνο από την κάτω σειρά. Κάντε κλικ σε μια κάρτα και θα γυρίσει. Με αυτόν τον τρόπο μπορείτε να δείτε αν έχετε βρει κάτι και αν ναι, τι είναι. Στη συνέχεια, μπορείτε να επιλέξετε κάρτες που βρίσκονται πάνω ή κάτω από την τελευταία κάρτα, καθώς και δεξιά ή αριστερά της. Το παιχνίδι τελειώνει αν βρείτε ένα ζώο, αλλά τελειώνει και όταν σας τελειώσουν τα βενζινάδικα.<br /> <br />Αυξήστε τις πιθανότητές σας για ένα σπουδαίο εύρημα με τον τζόκερ(?) από το κατάστημα. Υπάρχουν 2 τύποι τζόκερ: Κάρτα και Πλοήγηση. Αφήστε τον Τζόκερ Κάρτας να σας βοηθήσει να αποκαλύψετε τις κάρτες σας - θα αποκαλύψει επιπλέον κάρτες για εσάς. Ο Τζόκερ Πλοήγησης θα σας καθοδηγήσει προς τη σωστή κατεύθυνση χάρη στην πυξίδα του.<br /><br />Μπορείτε να πάρετε μαζί σας έναν τζόκερ από κάθε τύπο στο σαφάρι. Είτε χρησιμοποιήσατε τον τζόκερ είτε όχι, τον χάνετε στο τέλος του σαφάρι.]]></item>
+    </category>
+    <category name="zoo.safari.miniGame">
+      <item name="zoo.safari.miniGame.tileInfo.trap"><![CDATA[Ωχ, πέτυχες εμπόδιο. Αυτό είναι ενοχλητικό, τελείωσε 1 δοχείο βενζίνης.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.treasure"><![CDATA[Τέλεια! Βρήκες το %treasureCount% %treasureName. Γρήγορα, συνέχισε να ψάχνεις, μπορείς να βρεις πολλούς ακόμη θησαυρούς.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.animal"><![CDATA[Συγχαρητήρια, δείτε τι βρήκατε! Είναι το %animal%! Βιαστείτε στον ζωολογικό κήπο, σας περιμένει στο απόθεμά σας. Ολοκληρώσατε με επιτυχία το σαφάρι σας.]]></item>
+      <item name="zoo.safari.miniGame.closeWarning"><![CDATA[Θέλεις πραγματικά να τερματίσεις το σαφάρι; Αν ναι, δεν μπορείς να ξεκινήσεις άλλα σαφάρι σήμερα και η βενζίνη και τα εφόδιά σου θα έχουν τελειώσει!]]></item>
+      <item name="zoo.safari.miniGame.noJoker"><![CDATA[Κανένας τζόκερ]]></item>
+      <item name="zoo.safari.miniGame.buyGasThenEmpty"><![CDATA[Είστε σχεδόν στον προορισμό σας! Δυστυχώς, το ρεζερβουάρ σας είναι άδειο. Θέλετε να γεμίσετε για μερικά ζωοτόκα δολάρια και να συνεχίσετε το σαφάρι σας; Επιλέξτε πόση βενζίνη θέλετε να αγοράσετε.]]></item>
+      <item name="zoo.safari.miniGame.buyMissingGas"><![CDATA[Η ποσότητα των δοχείων βενζίνης για αυτό το έδαφος είναι %neededGas%. Ωστόσο, έχετε μόνο %missingGas%. Θέλετε να αγοράσετε την απαραίτητη βενζίνη με zoodollars;]]></item>
+      <item name="zoo.safari.miniGame.buyGas"><![CDATA[Επιλέξτε πόση βενζίνη θέλετε να αγοράσετε. Αλλά να είστε προσεκτικοί: Εάν δεν καταναλώσετε όλη τη βενζίνη σας στο σαφάρι, η υπόλοιπη βενζίνη θα πάει χαμένη.]]></item>
+    </category>
+    <category name="zoo.safari.minigameInfo">
+      <item name="zoo.safari.minigameInfo.title"><![CDATA[Οδηγίες]]></item>
+      <item name="zoo.safari.minigameInfo.1"><![CDATA[Καλώς ορίσατε στο σαφάρι σας!<br /> Ανακαλύψτε ασυνήθιστα ζώα και σπουδαίους θησαυρούς. Αλλά προσέξτε πού οδηγούν τα βήματά σας. Παγίδες παραμονεύουν παντού. Ανάλογα με το είδος του εδάφους, θα χρησιμοποιήσετε διαφορετικές ποσότητες βενζίνης.<br /><br />Το σαφάρι τελειώνει μόλις αδειάσει το ρεζερβουάρ σας ή αν βρείτε κάποιο ζώο.]]></item>
+      <item name="zoo.safari.minigameInfo.2"><![CDATA[Μπορείτε να μπείτε στην άγρια ​​φύση κάνοντας κλικ σε ένα από τα κάτω πλαίσια.]]></item>
+      <item name="zoo.safari.minigameInfo.3"><![CDATA[Κινηθείτε σε ευθείες γραμμές βόρεια, νότια, δυτικά και ανατολικά.]]></item>
+      <item name="zoo.safari.minigameInfo.4"><![CDATA[Μπορείτε να ενεργοποιήσετε τους τζόκερ σας ανά πάσα στιγμή. Έχουν πολύτιμες συμβουλές για εσάς που θα σας οδηγήσουν στον στόχο σας πιο γρήγορα.]]></item>
+      <item name="zoo.safari.minigameInfo.terains"><![CDATA[Διατίθενται οι ακόλουθοι τύποι εδάφους:<br />]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.name"><![CDATA[Απλό έδαφος]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.info"><![CDATA[Θα χρησιμοποιήσετε 1 μονάδα βενζίνης.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.name"><![CDATA[Πιο δύσκολο έδαφος]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.info"><![CDATA[Θα χρησιμοποιήσετε 3 μονάδες βενζίνης.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.name"><![CDATA[Αδιάβατο έδαφος]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.info"><![CDATA[Απαγορεύεται η είσοδος]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.name"><![CDATA[Εξερευνημένο έδαφος]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.info"><![CDATA[Θα χρησιμοποιήσετε 1 μονάδα βενζίνης.]]></item>
+      <item name="zoo.safari.minigameInfo.events"><![CDATA[Μπορείτε να βρείτε τα ακόλουθα στοιχεία: <br />]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.name"><![CDATA[ΙΔΕΕΣ ΖΩΩΝ]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.info"><![CDATA[Δείχνουν την κατεύθυνση στην οποία μπορεί να βρίσκεται το ζώο.]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.name"><![CDATA[ΘΗΣΑΥΡΟΣ]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.info"><![CDATA[Ναι, ένας θησαυρός με μια μεγάλη έκπληξη!]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.name"><![CDATA[ΕΜΠΟΔΙΟ]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.info"><![CDATA[Θα σας κοστίσει 1 μονάδα βενζίνης.]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.name"><![CDATA[ΣΥΝΑΝΤΗΣΗ ΜΕ ΕΝΑ ΖΩΟ]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.info"><![CDATA[Αν συναντήσετε ένα ζώο, σας ανήκει και η αποστολή τελειώνει.]]></item>
+    </category>
+    <category name="zoo.safari.jokers">
+      <item name="zoo.safari.jokers.titel_1"><![CDATA[Μαϊμού, ο σύμβουλος]]></item>
+      <item name="zoo.safari.jokers.titel_2"><![CDATA[Σόνια, η σύμβουλος]]></item>
+      <item name="zoo.safari.jokers.titel_3"><![CDATA[Πυξίδα]]></item>
+      <item name="zoo.safari.jokers.titel_4"><![CDATA[Γρήγορα ταξίδια]]></item>
+      <item name="zoo.safari.jokers.text_1"><![CDATA[Όλοι χρειάζονται λίγη βοήθεια κατά καιρούς. Αν αφήσετε τη μαϊμού να βοηθήσει, μπορείτε να αποκαλύψετε μια τυχαία επιλεγμένη κάρτα.<br /><br />Σας περιμένει η περιέργεια; Ας ξεκινήσουμε!]]></item>
+      <item name="zoo.safari.jokers.text_2"><![CDATA[Θέλεις να αποκαλύψεις μια συγκεκριμένη κάρτα και να προχωρήσεις στο σαφάρι;<br /><br /><br /> Χρησιμοποίησε τη βοήθεια της συμβούλου Σόνια. Με τη βοήθειά της, θα αποκαλύψεις την κάρτα της επιλογής σου. Αυτό θα σε βοηθήσει να φτάσεις στον στόχο σου πιο γρήγορα. Καλή τύχη!]]></item>
+      <item name="zoo.safari.jokers.text_3"><![CDATA[Χρειάζεστε βοήθεια; Χρησιμοποιήστε την πυξίδα ως τζόκερ για να σημειώσετε μια κάρτα για εσάς. Θα βρείτε το ζώο που ψάχνετε ή μια παγίδα πάνω της. Θέλετε να μάθετε τι κρύβεται πάνω της; Οπότε βιαστείτε να το μάθετε!]]></item>
+      <item name="zoo.safari.jokers.text_4"><![CDATA[Αλλά τώρα ας περάσουμε στο θέμα: Μήπως απλώς σέρνεσαι προς τον στόχο σου βήμα προς βήμα; Δεν είσαι αρκετά γρήγορος;<br /><br />Τότε χρησιμοποίησε τον τζόκερ: Θα σου σημαδέψει 3 κάρτες, ανάμεσα στις οποίες μπορεί να είναι κρυμμένο το ζώο που ψάχνεις, αλλά και μια παγίδα.<br /><br />Ζώο ή παγίδα... Γρήγορα, κοίτα!]]></item>
+    </category>
+    <category name="zoo.safari.tooltip">
+      <item name="zoo.safari.tooltip.cantStartSafari"><![CDATA[Μπορείτε να ξεκινήσετε το σαφάρι σας αφού φτάσετε στο επίπεδο 7]]></item>
+      <item name="zoo.safari.tooltip.startSafari"><![CDATA[Μπείτε στο τζιπ: Κάντε κλικ εδώ για να ξεκινήσετε το σαφάρι!]]></item>
+      <item name="zoo.safari.tooltip.backToZoo"><![CDATA[Πίσω στον ζωολογικό κήπο]]></item>
+      <item name="zoo.safari.tooltip.regionSmall"><![CDATA[Μικρό]]></item>
+      <item name="zoo.safari.tooltip.regionMedium"><![CDATA[Μέσον]]></item>
+      <item name="zoo.safari.tooltip.regionLarge"><![CDATA[Μεγάλος]]></item>
+      <item name="zoo.safari.tooltip.skipTimerInShop"><![CDATA[Λαμβάνετε μια συγκεκριμένη ποσότητα δοχείων βενζίνης για κάθε μέρα.<br/> Θέλετε περισσότερα τώρα; Τότε μειώστε τον χρόνο αναμονής σας με zoodollars!]]></item>
+      <item name="zoo.safari.tooltip.buyGasInMinigame"><![CDATA[Κάντε κλικ για να αγοράσετε περισσότερη βενζίνη.]]></item>
+      <item name="zoo.safari.tooltip.regeonLevelRequared"><![CDATA[Αυτή η περιοχή θα είναι προσβάσιμη αφού φτάσετε στο επίπεδο %regionLevel%.]]></item>
+    </category>
+    <category name="zoo.safari.button">
+      <item name="zoo.safari.button.startSafari"><![CDATA[Ξεκινήστε το σαφάρι]]></item>
+      <item name="zoo.safari.button.endSafari"><![CDATA[Ολοκλήρωση σαφάρι]]></item>
+      <item name="zoo.safari.button.activate"><![CDATA[Δραστηριοποιώ]]></item>
+      <item name="zoo.safari.button.use"><![CDATA[Αναπτύσσω]]></item>
+    </category>
+  </category>
+</language>

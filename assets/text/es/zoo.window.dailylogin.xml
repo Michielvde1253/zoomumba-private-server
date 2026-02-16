@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.dailylogin">
+    <item name="zoo.window.dailylogin.title"><![CDATA[Bono de inicio de sesión diario]]></item>
+    <item name="zoo.window.dailylogin.info"><![CDATA[¡Inicia sesión a diario, vale la pena! ¡Consigue premios increíbles todos los días!]]></item>
+    <item name="zoo.window.dailylogin.reward"><![CDATA[Tu recompensa diaria:]]></item>
+    <item name="zoo.window.dailylogin.day"><![CDATA[Día: %day%]]></item>
+    <item name="zoo.window.dailylogin.eventshop"><![CDATA[Oferta especial]]></item>
+  </category>
+</language>

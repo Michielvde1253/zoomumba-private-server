@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Gondnok Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley ragyogóan tisztán tartja az összes kifutót. A trükkje az állatok bevonása, így a takarításból szórakoztató játék lesz.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Kapus Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Sonja, a gondozó tökéletesen tudja, hogyan gondoskodjon az állatokról. Csak ő tud egyszerre az összes állattal ölelkezni.]]></item>
+  </category>
+</language>

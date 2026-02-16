@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Здравей! Аз съм Лука и обичам прилепи! Но особено техните сладки бебета. Донеси ми колкото се може повече бебета, тогава ще имам някои наистина хубави Хелоуин артикули за теб. Просто разменете сладките, за да получите артикулите отляво, или кисели, за да получите артикулите отдясно.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Инвентар]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Изберете колко бебета от %species% искате да преместите в инвентара си.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Извиняваме се!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[За съжаление, нямате достатъчно бебета прилепи в инвентара си. Развъждайте бебета прилепи и ги преместете в инвентара си, за да закупите този предмет.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Малки прилепи в инвентара]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Разменете малките прилепи за сладкиши]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Заменете малките прилепи с кисели]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Номер: Сладък]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Инвестирайте %x% сладкиши, за да отключите този артикул]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Инвестирайте %x% скъпо, за да отключите този предмет]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Номер: Кисел]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Помощ]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Преместете бебетата прилепи в инвентара]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Добре дошли на събитието за Хелоуин!<br>От <b>25 октомври до 1 ноември</b> във вашата зоологическа градина започва зловещо парти! Очакват ви много подаръци и изненади. В следващата стъпка ще видите как ще се получи всичко.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Съберете колкото можете повече **sladko** и **sladko** и **sladko**! Нуждаете се от **sladko** и **sladko**, за да активирате ремаркетата с призраци! Ще разберете как работи всичко на следващата страница.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Ако имате достатъчно сладки и кисели храни, можете да ги използвате, за да активирате **предмети**. Но бъдете внимателни: Сладките храни ще ви накарат да гледате с око наляво, киселите - с око надясно. Окото ще ви покаже от коя страна са активирани предметите.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Можете да получите активирани предмети, като ги размените за **бебета прилепи**. Отгледайте много сладки прилепи. Нов бутон в менюто на заграждението ще ви помогне да запазите бебетата в инвентара си бързо и лесно.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Забавлявайте се в зловещия магазин!<br> За всички нетърпеливи: Сладко-киселото може да се замени с бебета прилепчета в магазина. В магазина ви очакват още изненади.<br> <br>Забавлявайте се на Хелоуин тази година!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[Време е за малко зловещо забавление!<br>От <b>31 октомври до 6 ноември</b> във вашата зоологическа градина ще има парти за Хелоуин!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Съберете колкото се може повече **тикви**! Те ще изскачат от загражденията, докато се грижите за животните си.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Добавете ги в голямата кошница с тикви за нашата **Тиквена битка**. Колкото повече тикви доставите, толкова по-страшни награди можете да спечелите.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Докато се грижите за животните си, лакомства ще изскачат от загражденията. Можете да ги съберете всички заедно. Лентата за действие ще се запълни и плаващо око ще ви покаже кои зловещи награди са налични за всички. Кликнете върху наградата, след като бъде активирана.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Събирайте тикви за голямата тиквена битка. Колкото повече съберете, толкова повече награди можете да спечелите.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Всички играят заедно! Лакомства от всички зоологически градини ще запълнят измервателния уред и автоматично ще отключат награди за всички!]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.confirmation">
+    <item name="zoo.window.confirmation.closegame.title"><![CDATA[Финал игры]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[Этот зоопарк пока недоступен. Вы можете разблокировать его, достигнув %уровня% расширений в следующем зоопарке: %zooName%. Или разблокировать его немедленно за %zooDollar% zoodollars.]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[Чтобы разблокировать этот зоопарк, вам нужно достичь уровня %level%. Или разблокировать его немедленно за %zooDollar% zoodollars.]]></item>
+    <item name="zoo.window.confirmation.map.level"><![CDATA[Для разблокировки этого зоопарка вам необходимо достичь уровня %level%.]]></item>
+    <item name="zoo.window.confirmation.map.buy"><![CDATA[Вы хотите приобрести дополнение к зоопарку?]]></item>
+    <item name="zoo.window.confirmation.title.buy"><![CDATA[Купить]]></item>
+    <item name="zoo.window.confirmation.closegame.info"><![CDATA[Вы действительно хотите покинуть ZooMumba?]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.title"><![CDATA[Купить товары]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.info"><![CDATA[Вы действительно хотите купить этот товар?]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.title"><![CDATA[Купить переезд]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.info"><![CDATA[Вы хотите совершить этот шаг ради зоодолларов?]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.title"><![CDATA[Продавать]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Вы действительно хотите продать этот товар?]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[Предупреждение]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[Если вы поместите корпус в свой инвентарь, он потеряет своё улучшение действия.<br><br>Вы хотите продолжить?]]></item>
+    <category name="zoo.window.confirmation.gift">
+      <item name="zoo.window.confirmation.gift.title"><![CDATA[Внимание!]]></item>
+      <item name="zoo.window.confirmation.gift.info"><![CDATA[Вы ещё не выбрали 5 друзей! Если вы продолжите, ваши подарки будут потеряны. Это было бы очень жаль... Вы всё ещё хотите продолжить?]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.welcomeBack">
+    <item name="zoo.window.welcomeBack.title"><![CDATA[¡Bienvenido de nuevo, %username%!]]></item>
+    <item name="zoo.window.welcomeBack.info"><![CDATA[¡Qué bueno que hayas vuelto! ¡A trabajar! Tus animales te esperan con ansias. ¡Va a ser salvaje otra vez! Más novedades adorables, aves más inusuales y un montón de visitantes emocionados. <br><br>Y también disfrutarás de lo que el zoológico te tiene reservado:]]></item>
+    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[¡Sí! ¡Rápido, no te pierdas la locura!]]></item>
+  </category>
+</language>

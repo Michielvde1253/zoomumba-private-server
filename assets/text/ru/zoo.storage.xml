@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.storage">
+    <category name="zoo.storage.moreSpace">
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Расширьте свой зоопарк!]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Этот предмет можно приобрести только при наличии расширений зоопарка %neededExpansion%. В данный момент у вас есть только расширения зоопарка %userExpansion%. Хотите ли вы расширить свой зоопарк прямо сейчас, чтобы приобрести этот предмет?]]></item>
+    </category>
+    <category name="zoo.storage.firstExpansion">
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[Водонапорная башня и склад]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Отлично! Наконец-то у вас достаточно места, чтобы построить свою первую водонапорную башню и хранилище. Оба предмета находятся в вашем инвентаре бесплатно. Теперь игра начинается!]]></item>
+    </category>
+    <category name="zoo.storage.buy">
+      <item name="zoo.storage.buy.belowWater"><![CDATA[Максимальная вместимость водонапорной башни составляет %вместимости%. Это значение нельзя увеличить, даже купив это здание. Вы все еще хотите его купить?]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[Максимальная вместимость вашего хранилища составляет %вместимости%. Это значение нельзя увеличить, даже купив это здание. Вы все еще хотите его купить?]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[У вас доступно % от вашего запаса воды. Вы не можете хранить больше. Это здание не увеличит ваш запас воды. Вы все еще хотите его купить?]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[У вас доступно % вместимости% от вашей складской емкости. Вы не можете хранить больше. Это здание не увеличит вашу вместимость. Вы все еще хотите его купить?]]></item>
+    </category>
+    <category name="zoo.storage.capacity">
+      <item name="zoo.storage.capacity.title"><![CDATA[Емкость хранилища]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[Вашим животным требуется много корма и воды. Здесь вы можете увидеть, сколько каждого из этих ресурсов у вас есть в наличии и насколько вы можете их расширить.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Вода - вместимость]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Подача - вместимость]]></item>
+    </category>
+  </category>
+</language>

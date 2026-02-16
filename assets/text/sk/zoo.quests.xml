@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.quests">
+    <category name="zoo.quests.tabs">
+      <item name="zoo.quests.tabs.daily"><![CDATA[Denné úlohy]]></item>
+      <item name="zoo.quests.tabs.achievements"><![CDATA[Vyznamenania]]></item>
+      <item name="zoo.quests.tabs.collectables"><![CDATA[Kolekcie]]></item>
+    </category>
+    <category name="zoo.quests.daily">
+      <item name="zoo.quests.daily.info"><![CDATA[V každej zoo je každý deň veľa práce: každá pomocná ruka je vítaná! Pustite sa do týchto každodenných úloh a splňte ich.]]></item>
+      <item name="zoo.quests.daily.nextquest.timestamp"><![CDATA[Nové úlohy v:]]></item>
+      <item name="zoo.quests.daily.refreshTitle"><![CDATA[Denné úlohy]]></item>
+      <item name="zoo.quests.daily.refreshQuestion"><![CDATA[Za malý poplatok môžete získať nové denné úlohy. Chceli by ste?]]></item>
+      <item name="zoo.quests.daily.taskTitle"><![CDATA[Úloha]]></item>
+      <item name="zoo.quests.daily.rewardTitle"><![CDATA[Odmena]]></item>
+      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Spustiť\úlohu]]></item>
+      <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Získajte odmenu]]></item>
+      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Zrušiť úlohu]]></item>
+      <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Úloha]]></item>
+      <item name="zoo.quests.daily.window.activequest.info"><![CDATA[Už robíte inú úlohu. Pred začatím ďalšej úlohy dokončite aktívnu úlohu.]]></item>
+      <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Zrušiť]]></item>
+      <item name="zoo.quests.daily.window.abortquest.info"><![CDATA[Ak túto úlohu zrušíte, bude odstránená z vášho zoznamu úloh. Naozaj ju chcete zrušiť?]]></item>
+      <item name="zoo.quests.daily.window.achievereward.title"><![CDATA[Gratulujem!]]></item>
+      <item name="zoo.quests.daily.window.achievereward.info"><![CDATA[Úspešne ste splnili svoju úlohu a získali ste nasledujúcu odmenu:]]></item>
+    </category>
+    <category name="zoo.quests.help">
+      <item name="zoo.quests.help.daily.title"><![CDATA[Príklady čítania]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Príklad 1: Dajte 50 balíkov jedla ľubovoľným zvieratám.<br>Príklad 2: Vychujte 2 levíčatá.]]></item>
+    </category>
+    <category name="zoo.quests.achievements.individual">
+      <item name="zoo.quests.achievements.individual.info.congrats"><![CDATA[Výborne! Úspešne ste dokončili nasledujúcu úlohu:]]></item>
+      <item name="zoo.quests.achievements.individual.1.title"><![CDATA[Majster maznania]]></item>
+      <item name="zoo.quests.achievements.individual.2.title"><![CDATA[Priateľ zvieraťa]]></item>
+      <item name="zoo.quests.achievements.individual.3.title"><![CDATA[Šľachtiteľ]]></item>
+      <item name="zoo.quests.achievements.individual.4.title"><![CDATA[Obchodník/obchodníčka]]></item>
+      <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Steak Master]]></item>
+      <item name="zoo.quests.achievements.individual.6.title"><![CDATA[Musí tam byť poriadok.]]></item>
+      <item name="zoo.quests.achievements.individual.7.title"><![CDATA[Celozrnný ventilátor]]></item>
+      <item name="zoo.quests.achievements.individual.8.title"><![CDATA[Výborne]]></item>
+      <item name="zoo.quests.achievements.individual.9.title"><![CDATA[Tráva je zábava]]></item>
+      <item name="zoo.quests.achievements.individual.10.title"><![CDATA[Závislý na vitamínoch]]></item>
+      <item name="zoo.quests.achievements.individual.11.title"><![CDATA[Čerstvé ryby]]></item>
+      <item name="zoo.quests.achievements.individual.12.title"><![CDATA[Uhasič smädu]]></item>
+      <item name="zoo.quests.achievements.individual.1.requirement"><![CDATA[Túlili sa so svojimi %val%-nými zvieratkami.]]></item>
+      <item name="zoo.quests.achievements.individual.2.requirement"><![CDATA[Vlastniť %val% zvierat.]]></item>
+      <item name="zoo.quests.achievements.individual.3.requirement"><![CDATA[Vychovať %val% detí.]]></item>
+      <item name="zoo.quests.achievements.individual.4.requirement"><![CDATA[Zbierajte %val%-násobok príjmu v zoogrosse za svoje budovy.]]></item>
+      <item name="zoo.quests.achievements.individual.5.requirement"><![CDATA[Nakŕmte %val%-násobok kusov mäsa.]]></item>
+      <item name="zoo.quests.achievements.individual.6.requirement"><![CDATA[Zobraziť kôš %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.7.requirement"><![CDATA[Kŕmte obilím %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.8.requirement"><![CDATA[Získajte %val% XP vyprázdnením koša.]]></item>
+      <item name="zoo.quests.achievements.individual.9.requirement"><![CDATA[Kŕmte trávou %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.10.requirement"><![CDATA[Nakŕmte ovocím %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.11.requirement"><![CDATA[Nakŕmte %val% rýb.]]></item>
+      <item name="zoo.quests.achievements.individual.12.requirement"><![CDATA[Dajte svojim zvieratám 100 ml vody.]]></item>
+      <item name="zoo.quests.achievements.individual.bronze.congrats"><![CDATA[Tvoje zvieratká sa radujú, pretože si odomkol nový dielik skladačky v bronzovej sade.]]></item>
+      <item name="zoo.quests.achievements.individual.silver.congrats"><![CDATA[Vaše zvieratká sa radujú, pretože ste vydali nový dielik puzzle v striebornej sade.]]></item>
+      <item name="zoo.quests.achievements.individual.gold.congrats"><![CDATA[Vaše zvieratká sa radujú, pretože ste odomkli nový dielik skladačky v zlatej sade.]]></item>
+      <item name="zoo.quests.achievements.individual.platinum.congrats"><![CDATA[Tvoje zvieratká sa radujú, pretože si odomkol nový dielik skladačky v Platinovej sade.]]></item>
+      <item name="zoo.quests.achievements.individual.open.achievements.info"><![CDATA[Teraz prejdite do okna úlohy a zobrazte si obrázok!]]></item>
+    </category>
+    <category name="zoo.quests.achievements.unlocked">
+      <item name="zoo.quests.achievements.unlocked.bronze.title"><![CDATA[Bronzová sada]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.title"><![CDATA[Strieborná sada]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.title"><![CDATA[Zlatá sada]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.title"><![CDATA[Platinová sada]]></item>
+      <item name="zoo.quests.achievements.unlocked.bronze.description"><![CDATA[Gratulujeme! Úspešne ste splnili všetky úlohy v bronzovej sade a získate nasledujúce odmeny:]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.description"><![CDATA[Gratulujeme! Úspešne ste splnili všetky úlohy v Striebornej sade a získate nasledujúce odmeny:]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.description"><![CDATA[Gratulujeme! Úspešne ste splnili všetky úlohy v Zlatej sade a získate nasledujúce odmeny:]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.description"><![CDATA[Gratulujeme! Úspešne ste splnili všetky úlohy v Platinovej sade a získate nasledujúce odmeny:]]></item>
+      <item name="zoo.quests.achievements.unlocked.open.achievements.info"><![CDATA[Teraz prejdite do okna úlohy a zobrazte si úplne odomknutý obrázok!]]></item>
+      <item name="zoo.quests.help.daily.title"><![CDATA[Príklady čítania]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Príklad 1: Nakŕmte ľubovoľné zvieratá 50-krát viac jedla.<br>Príklad 2: Vychujte 2 levíčatá.]]></item>
+    </category>
+  </category>
+</language>

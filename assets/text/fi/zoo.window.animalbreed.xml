@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.animalbreed">
+    <item name="zoo.window.animalbreed.title"><![CDATA[Karjanhoito]]></item>
+    <item name="zoo.window.animalbreed.info"><![CDATA[Kasvata suloisia vauvoja!\nOnnella eläintarhasi toivottaa uudet tulokkaat tervetulleiksi.]]></item>
+    <item name="zoo.window.animalbreed.breedtitle"><![CDATA[Vakiojäljennös]]></item>
+    <item name="zoo.window.animalbreed.breedinfo"><![CDATA[Mahdollisia jälkeläisiä:]]></item>
+    <item name="zoo.window.animalbreed.button.startbreeding"><![CDATA[Aloita]]></item>
+    <item name="zoo.window.animalbreed.babytitle"><![CDATA[Hyväksyminen]]></item>
+    <item name="zoo.window.animalbreed.babyinfo"><![CDATA[Hanki vauva heti:]]></item>
+    <item name="zoo.window.animalbreed.button.buydirectly"><![CDATA[Osta nyt]]></item>
+    <item name="zoo.window.animalbreed.button.breedstart"><![CDATA[Aloita]]></item>
+    <item name="zoo.window.animalbreed.success.title"><![CDATA[Nuori]]></item>
+    <item name="zoo.window.animalbreed.success.info"><![CDATA[Hurraa!<br>Onnittelut! Eläintarhassasi on suloinen uusi tulokas!]]></item>
+    <item name="zoo.window.animalbreed.failed.title"><![CDATA[Ei lisäystä]]></item>
+    <item name="zoo.window.animalbreed.failed.info"><![CDATA[Harmi, tällä kertaa joudut odottamaan uutta tulokasta.<br><br>Haluatko yrittää uudelleen?<br><br>Onnea matkaan!]]></item>
+  </category>
+</language>

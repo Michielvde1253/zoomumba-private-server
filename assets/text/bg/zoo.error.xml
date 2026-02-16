@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.error">
+    <category name="zoo.error.user">
+      <item name="zoo.error.user.unknown"><![CDATA[Този играч не съществува.]]></item>
+      <item name="zoo.error.user.notEnoughCr"><![CDATA[Нямаш достатъчно зоодолари за това.]]></item>
+      <item name="zoo.error.user.notEnoughCv"><![CDATA[Нямаш достатъчно зоогри за това.]]></item>
+      <item name="zoo.error.user.notRequiredLevel"><![CDATA[Не си достигнал необходимото ниво.]]></item>
+    </category>
+    <category name="zoo.error.login">
+      <item name="zoo.error.login.head"><![CDATA[Грешка при влизане]]></item>
+      <item name="zoo.error.login.text"><![CDATA[Възникна грешка при влизане. Моля, проверете данните си и опитайте отново.]]></item>
+      <item name="zoo.error.login.blocked"><![CDATA[Блокиран/а си от администратор.]]></item>
+      <item name="zoo.error.login.100.title"><![CDATA[Грешка]]></item>
+      <item name="zoo.error.login.100.info"><![CDATA[Вече сте използвали бонус кода за този акаунт, не е възможно да го използвате отново.]]></item>
+    </category>
+    <category name="zoo.error.conf">
+      <item name="zoo.error.conf.unknownObj"><![CDATA[Неизвестен обект]]></item>
+      <item name="zoo.error.conf.notBuyable"><![CDATA[Артикулът в момента не е наличен за закупуване]]></item>
+      <item name="zoo.error.conf.notEvent"><![CDATA[Артикулът не е приложим в момента]]></item>
+    </category>
+    <category name="zoo.error.badData">
+      <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Съжаляваме!]]></item>
+      <item name="zoo.error.badData.dailyQuests.text"><![CDATA[О! Възникна грешка. Проблемът е докладван на екипа!]]></item>
+    </category>
+    <category name="zoo.error.field">
+      <item name="zoo.error.field.unknownObj"><![CDATA[Обектът не е наличен в играта.]]></item>
+      <item name="zoo.error.field.blocked"><![CDATA[Заето поле]]></item>
+      <item name="zoo.error.field.breedFailed"><![CDATA[Размножаването се провали. За съжаление, вашите животни не дадоха потомство.]]></item>
+      <item name="zoo.error.field.wrongSpecies"><![CDATA[Неподходящо животно за това заграждение.]]></item>
+      <item name="zoo.error.field.maxChildReached"><![CDATA[Достигнали сте максималния брой кученца.]]></item>
+      <item name="zoo.error.field.maleAdultNeeded"><![CDATA[За това ти трябва мъж.]]></item>
+      <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[За това ти трябва жена.]]></item>
+      <item name="zoo.error.field.maxAdultReached"><![CDATA[Достигнахте максималния брой възрастни.]]></item>
+      <item name="zoo.error.field.buildingNotFinished"><![CDATA[Тази сграда все още е в процес на изграждане.]]></item>
+    </category>
+    <category name="zoo.error.db">
+      <item name="zoo.error.db.failUpdate"><![CDATA[Актуализирането на базата данни не бе успешно.]]></item>
+    </category>
+    <category name="zoo.error.invite">
+      <item name="zoo.error.invite.requesterror"><![CDATA[Възникна грешка.]]></item>
+      <item name="zoo.error.invite.recruitexists"><![CDATA[Вече сте поканили този потребител.]]></item>
+      <item name="zoo.error.invite.global"><![CDATA[Достигнат е лимитът за покани. Моля, изчакайте 24 часа, преди да можете да изпратите друга покана (за всички игри).]]></item>
+      <item name="zoo.error.invite.instance"><![CDATA[Достигнат е лимитът за покани. Моля, изчакайте 24 часа, преди да можете да изпратите друга покана (за всички игри).]]></item>
+      <item name="zoo.error.invite.error"><![CDATA[Възникна грешка... моля, опитайте отново по-късно.]]></item>
+    </category>
+  </category>
+</language>

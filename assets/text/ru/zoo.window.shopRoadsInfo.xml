@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Гравийная дорога]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Эта гравийная дорожка соединяет вольеры вашего зоопарка. Качественная сеть дорожек помогает посетителям ориентироваться и ведет их ко всем вольерам.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Сине-белый тротуар]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Эта сине-белая мощеная дорожка не только отлично выглядит, но и идеально подходит для прогулок с колясками, самокатами и роликовыми коньками. Плавное движение и качественное развлечение – это здорово!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Песчаная дорога]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[В степи редко встречаются асфальтированные дороги. Вам хочется, чтобы ваш зоопарк напоминал дикую природу!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Розово-белый тротуар]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Как чудесно: эта каменная дорожка, выложенная драгоценными розовыми мозаичными камнями, — нечто поистине особенное. Идеальный подиум для посетителей на высоких каблуках.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Черно-белый тротуар]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Вдоль этой дорожки изящно выложены черные и белые драгоценные камни в виде мозаики. Они обработаны с большой тщательностью и станут жемчужиной вашего зоопарка.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[Каменистая дорога]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Как и в дикой природе, из щелей между камнями прорастают небольшие пучки травы. Не для педантов, но любители природы наверняка оценят это место.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Дорожка из гальки]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Эта гравийная дорожка выглядит красиво, и я уверена, что никто на ней не поскользнётся. Безопасно и красиво, чего ещё можно желать?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Грунтовая дорога]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[Грунтовые дорожки популярны в Африке. Они придают вашему зоопарку аутентичность и помогут многим животным почувствовать себя как дома.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Водный путь]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Плеск, плеск, плеск! Наденьте резиновые сапоги, надуйте резиновую лодку и возьмите резиновую уточку — в этой поездке будет много воды!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Ледяная дорога]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Ура! Ледяная дорога — это будет весело! Ваши гости с удовольствием будут кататься по замерзшей дороге. Будьте осторожны, она не посыпана солью!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Саванна-роуд]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[По саванне петляет хорошо протоптанная тропа, что делает ее идеальным местом для поиска следов, как во время сафари.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Пустынная дорога]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Под палящим солнцем песок разносится по пустыне, стирая все следы.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Каменная дорожка]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Эта тропа довольно неровная. На ней встречаются большие камни и валуны, поэтому необходима удобная обувь. Будьте осторожны, чтобы не упасть!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Тундровая тропа]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[На этом маршруте вашим гостям понадобится компас, но также разумно придерживаться проторенной тропы.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Снежная дорога]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[Липкий снег лежит на снежной тропинке, по которой ваши гости будут брести в своих теплых ботинках. Здесь все так красиво!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Пустынная тропа]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[В дикой местности лучше всего держаться дороги. Повсюду токсичные вещества и отходы. Резиновые сапоги с хорошей подошвой просто необходимы!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Альпийский маршрут]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Этот пешеходный маршрут проведет вас вверх и вниз по Альпам. Удобная обувь с надежной поддержкой лодыжки защитит вас от скольжения!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Пещерная тропа]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Внимательно смотрите по сторонам, чтобы не поскользнуться. Возможно, вы заметите среди камней сверкающую крупинку золота.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Лесная тропа]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[В дождливые дни эта тропа может быть немного грязной, но летом лес просто идиллический.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Прибрежная дорога]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Ходьба босиком по сверкающему песку, ракушкам, водорослям и иногда морским звездам очень полезна для здоровья!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Волшебная тропа]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[Ярко-синяя тропа, словно из другого мира, может показаться пугающей, но она также полна приключений. Куда она ведет?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Тропа Шугар-Лэнд]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Крошка! Ой! Наступил на конфету? Осторожно, по дороге жвачки! Какая же здесь красивая и красочная погода!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Тропа в бамбуковом лесу]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[Туман стелется по бескрайнему, почти непроходимому бамбуковому лесу. Вдали слышно стрекотание дятла. Просто идиллия!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Лесная тропа]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Если вы не хотите перепрыгивать с лианы на лиану в этих джунглях, вы можете пройтись по этой хорошо протоптанной тропе. Будьте осторожны: время от времени по тропе могут переползать змеи или пауки.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[Путь через болото]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[Вашим посетителям следует помнить о необходимости держаться правильной тропы в болоте. Один неверный шаг — и они упадут в грязь!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Деревянная платформа]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Нет ничего лучше, чем прогуляться по деревянному пирсу и услышать скрип палубы корабля. Ваши гости получат настоящее представление о прибрежной атмосфере.]]></item>
+  </category>
+</language>

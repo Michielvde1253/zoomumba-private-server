@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA[Balíček superpotravín „Dobrý štart“]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Toto balenie obsahuje 40 jednotiek Superfood a 5 Paws. Vďaka tomu získate 40-násobné BZ pri kŕmení a uvidíte pokrok v skrášľovaní svojich terárium!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA[Balíček superpotravín „Master“]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Toto balenie obsahuje 125 jednotiek Superfood a 20 Paws. To vám dá 125x dvojnásobok BZ a pokrok v skrášľovaní vašich terárium!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA[Balíček superpotravín „Expert“]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Tento balíček obsahuje 350 jednotiek superpotraviny a 30 labiek, ale aj 5 darčekov s 5 jednotkami superpotraviny pre 5 vašich priateľov. Takže aj oni môžu z tohto balíčka profitovať!]]></item>
+    </category>
+  </category>
+</language>

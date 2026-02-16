@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Dodatkowa próba]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Hura, masz dodatkową szansę!<br> Za każdy dzień logowania otrzymasz dodatkowy obrót kołem fortuny.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Kliknij i spróbuj szczęścia!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Albo kliknij na budynek z kołem fortuny w mieście. Każdy obrót gwarantuje wspaniałe nagrody!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Dalsze próby]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Czy chcesz kupić kolejną próbę?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Gratulacje!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Hurra! Wygrałeś:]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Zakręć jeszcze raz, możesz wygrać tylko w kole szczęścia!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Feeder John na 1 godzinę]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Dostawca wody Paul na 1 godzinę]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Sprzątacz Stanley na 1 godzinę]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Hodowca Sonja przez 1 godzinę]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Zbieracz śmieci George na 1 godzinę]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Kasjer Cashy na 1 godzinę]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Feeder John przez 3 godziny]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Dostawca wody Paul na 3 godziny]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Sprzątacz Stanley na 3 godziny]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Hodowca Sonja przez 3 godziny]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[George, śmieciarz, przez 3 godziny]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Kasjer Cashy na 3 godziny]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[30% premii EP za pełne 8 godzin!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100% bonusu EP przez pełne 8 godzin!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50% premii za łapki przez pełne 5 godzin!]]></item>
+    </category>
+  </category>
+</language>

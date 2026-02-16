@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.settings">
+    <item name="zoo.window.settings.info"><![CDATA[Hallo, dierentuindirecteur!<br>Hier kun je ZooMumba helemaal naar jouw smaak aanpassen! Speel het spel zoals jij het het leukst vindt!]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[op]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[uit]]></item>
+    <item name="zoo.window.settings.quality.low"><![CDATA[laag]]></item>
+    <item name="zoo.window.settings.quality.middle"><![CDATA[medium]]></item>
+    <item name="zoo.window.settings.quality.high"><![CDATA[hoog]]></item>
+    <item name="zoo.window.settings.quality.title"><![CDATA[Grafische kunst]]></item>
+    <item name="zoo.window.settings.quality.info"><![CDATA[Kwaliteit]]></item>
+    <item name="zoo.window.settings.account.title"><![CDATA[Account bewerken]]></item>
+    <item name="zoo.window.settings.account.info"><![CDATA[Hier kun je je spelaccountgegevens bewerken, zoals je e-mailadres.]]></item>
+    <item name="zoo.window.settings.title.tooltipps"><![CDATA[Tooltips]]></item>
+    <item name="zoo.window.settings.title.visitors"><![CDATA[Bezoekers]]></item>
+    <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Wensen van de bezoekers]]></item>
+    <item name="zoo.window.settings.title.sound"><![CDATA[Geluid]]></item>
+    <item name="zoo.window.settings.title.sound.background"><![CDATA[Muziek]]></item>
+    <item name="zoo.window.settings.title.sound.effects"><![CDATA[Geluidseffecten]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[aanpassen]]></item>
+    <item name="zoo.window.settings.tab.account"><![CDATA[rekening]]></item>
+    <item name="zoo.window.settings.tab.config"><![CDATA[Configuratie]]></item>
+    <item name="zoo.window.settings.tab.buildings"><![CDATA[Hoofdgebouw]]></item>
+    <item name="zoo.window.settings.buildings.info"><![CDATA[Kies het entreegebouw van de dierentuin naar uw smaak. Afhankelijk van uw niveau kunt u de belangrijkste gebouwen tot uw beschikking hebben.<br>Op deze manier wordt uw dierentuin steeds meer op uw wensen afgestemd!]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Animatie]]></item>
+    <item name="zoo.window.settings.anim.info"><![CDATA[Aantal dierenanimaties]]></item>
+    <item name="zoo.window.settings.saveAssets"><![CDATA[Buffergeheugen]]></item>
+  </category>
+</language>

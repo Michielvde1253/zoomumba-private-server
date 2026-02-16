@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[god jul!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[Från 21 december till 2 januari kretsar allt i din djurpark kring julen! Dekorera din julgran och hjälp mig att rädda julen!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Föd först upp 8 flygande renar och sedan en jultomte Rudolf till hans släde. För varje ren du tar med dig till honom får du en gåva.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Ibland ger jultomten dig också en julgransprydnad. Till slut får du behålla din dekorerade gran.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Hurra, vi har en speciell julkollektion här också! Ta hand om dina djur och samla julsaker. Du kan också använda dem för att föda upp renar!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Stora överraskningar i julhandeln]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Förvandla ditt zoo till en färgglad vintervärld: med massor av nya och populära juldekorationer.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[God jul och ha det så kul på julfesten!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[Det här är hemskt! Tomtens renar har rymt och nu kan han inte dela ut presenter! Ta med 8 flygande renar och tomtens Rudolf till honom och placera dem framför hans släde. Som tack får du fina presenter!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Jultomten är på väg till:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Du vann:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Titta på din julgran på parkeringen!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Skaffa en ny outfit till din avatar!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Snabbt, ta en titt på ditt lager!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Tack så mycket!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Din ren längtar efter att ge sig ut på vägarna. Tack vare dig är julen räddad!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Tack så mycket!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Det saknas fortfarande några av mina renar, men det är dags för mig att ge mig ut på vägarna! Oroa er inte, jag ska lösa det – jag är ju trots allt jultomten!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[Den dekorerade julgranen från din parkeringsplats finns nu i ditt inventarium.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Först, låt oss ta med 8 magiska renar till jultomten.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Jultomten har redan 8 flygande renar och allt han behöver är sin Rudolf!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Juldekoration]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Julpassform]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Ett par snöugglor]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Antal manliga magiska renar i ditt inventarium.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Antalet flygande renhonor i ditt inventarium.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Innan du ger jultomten hans Rudolf behöver han först 8 flygande renar.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Antalet manliga jultomte-Rudolfer i ditt inventarium.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Antalet kvinnliga jultomte-Rudolfer i ditt inventarium.]]></item>
+    </category>
+  </category>
+</language>

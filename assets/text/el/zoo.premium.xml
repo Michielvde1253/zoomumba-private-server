@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.premium">
+    <category name="zoo.premium.title">
+      <item name="zoo.premium.title.0"><![CDATA[Εκπρόσωπος Ντέιβιντ]]></item>
+      <item name="zoo.premium.title.1"><![CDATA[Κρμιτς Χόνζα]]></item>
+      <item name="zoo.premium.title.2"><![CDATA[Τροφοδοτικό Πάβελ]]></item>
+      <item name="zoo.premium.title.3"><![CDATA[Καθαριστής Σλάβεκ]]></item>
+      <item name="zoo.premium.title.4"><![CDATA[Εκτροφέας Soňa]]></item>
+      <item name="zoo.premium.title.5"><![CDATA[Συλλέκτης σκουπιδιών Jirka]]></item>
+      <item name="zoo.premium.title.6"><![CDATA[Ταμίας Κέσικ]]></item>
+      <item name="zoo.premium.title.7"><![CDATA[Δρ. Λιν]]></item>
+      <item name="zoo.premium.title.11"><![CDATA[Μεγαλύτερος ζωολογικός κήπος]]></item>
+      <item name="zoo.premium.title.12"><![CDATA[Επέκταση Maxi Zoo]]></item>
+      <item name="zoo.premium.title.13"><![CDATA[Επέκταση ζωολογικού κήπου]]></item>
+      <item name="zoo.premium.title.14"><![CDATA[Επέκταση ζωολογικού κήπου]]></item>
+      <item name="zoo.premium.title.15"><![CDATA[Πασχαλινό λαγουδάκι]]></item>
+      <item name="zoo.premium.title.16"><![CDATA[Βοηθός του Πάσχα]]></item>
+      <item name="zoo.premium.title.23"><![CDATA[Τούρτα γενεθλίων]]></item>
+      <item name="zoo.premium.title.126"><![CDATA[Μέγιστη επέκταση ζωολογικού κήπου]]></item>
+      <item name="zoo.premium.title.29"><![CDATA[Μέγιστη επέκταση ζωολογικού κήπου]]></item>
+      <item name="zoo.premium.title.30"><![CDATA[Μέγιστη επέκταση ζωολογικού κήπου]]></item>
+      <item name="zoo.premium.title.125"><![CDATA[Επέκταση ζωολογικού κήπου]]></item>
+      <item name="zoo.premium.title.35"><![CDATA[Επέκταση ζωολογικού κήπου]]></item>
+      <item name="zoo.premium.title.36"><![CDATA[Επέκταση ζωολογικού κήπου]]></item>
+      <item name="zoo.premium.title.37"><![CDATA[Μέγιστη επέκταση ζωολογικού κήπου]]></item>
+      <item name="zoo.premium.title.38"><![CDATA[Μέγιστη επέκταση ζωολογικού κήπου]]></item>
+      <item name="zoo.premium.title.123"><![CDATA[Θυμώνω]]></item>
+      <item name="zoo.premium.title.124"><![CDATA[Γλυκός]]></item>
+      <item name="zoo.premium.title.128"><![CDATA[Τούρτα γενεθλίων]]></item>
+      <item name="zoo.premium.title.130"><![CDATA[Επέκταση ζωολογικού κήπου]]></item>
+      <item name="zoo.premium.title.132"><![CDATA[Επέκταση ζωολογικού κήπου]]></item>
+      <item name="zoo.premium.title.2001"><![CDATA[Βαρέλι νερό]]></item>
+      <item name="zoo.premium.title.2002"><![CDATA[Πύργος νερού]]></item>
+      <item name="zoo.premium.title.2003"><![CDATA[Πηγή νερού]]></item>
+      <item name="zoo.premium.title.2004"><![CDATA[Κουτί αποθήκευσης]]></item>
+      <item name="zoo.premium.title.2005"><![CDATA[Αποθήκη]]></item>
+      <item name="zoo.premium.title.2006"><![CDATA[Υπόγεια αποθήκη]]></item>
+    </category>
+    <category name="zoo.premium.infoText">
+      <item name="zoo.premium.infoText.0"><![CDATA[Αν απασχολείτε 6 βοηθούς (εκτός της Δρ. Λιν), έχετε έναν συνδιευθυντή και προσωπικό για να σας βοηθήσουν. Απλώς κάντε κλικ και οι 6 βοηθοί θα πιάσουν δουλειά.]]></item>
+      <item name="zoo.premium.infoText.1"><![CDATA[Ο Γιάννης, ο βοηθός σίτισης, φροντίζει τα ζώα σας να είναι πάντα καλοταϊσμένα και χαρούμενα. Αν έχετε αρκετά ζωογρόσια για να ταΐσετε, κάντε κλικ πάνω του και ο Γιάννης θα εργαστεί επιμελώς και αξιόπιστα.]]></item>
+      <item name="zoo.premium.infoText.2"><![CDATA[Ο Πάβελ φροντίζει για το πότισμα των ζώων. Αν κάνετε κλικ πάνω του, θα παρέχει τακτικά νερό για τα ζώα σας. Αλλά μόνο αν έχετε αρκετά ζωογκρς.]]></item>
+      <item name="zoo.premium.infoText.3"><![CDATA[Ο Slávek, ο καθαριστής, φροντίζει για την υγιεινή και την καθαριότητα των ζώων σας. Αν κάνετε κλικ πάνω του, θα καθαρίσει τα καταλύματα και θα προσφέρει ένα άνετο σπίτι για τα ζώα σας.]]></item>
+      <item name="zoo.premium.infoText.4"><![CDATA[Όλοι ανυπομονούν για τη Σόνια! Κάντε κλικ πάνω της και προσλάβετέ την: Θα αγκαλιάζει τα ζώα σας, ώστε να μην βαριούνται και να λάμπουν από ικανοποίηση.]]></item>
+      <item name="zoo.premium.infoText.5"><![CDATA[Ο Τζίρκα σκουπίζει επιμελώς κάθε μονοπάτι και δεν του ξεφεύγει ούτε ένας κάδος απορριμμάτων. Τα πράγματα πρέπει να είναι τακτοποιημένα, οι επισκέπτες δεν θα επιστρέψουν σε έναν παραμελημένο ζωολογικό κήπο. Προσλάβετέ τον με ένα κλικ και θα φροντίσει για όλη τη δουλειά.]]></item>
+      <item name="zoo.premium.infoText.6"><![CDATA[Ο έξυπνος πίθηκος Κέσικ είναι καλός με τους αριθμούς: Κάνε κλικ πάνω του και προσλάβε τον. Θα σου φέρει έσοδα από όλα τα καταστήματα και τα κτίρια που θα χτίσεις.]]></item>
+      <item name="zoo.premium.infoText.7"><![CDATA[Η Δρ. Λιν είναι υπεύθυνη για την υγεία των ζώων σας. Όταν κάνετε κλικ πάνω της, θα χορηγήσει το κατάλληλο φάρμακο σε όλα τα άρρωστα ζώα!]]></item>
+      <item name="zoo.premium.infoText.11"><![CDATA[Από το επίπεδο %nextExpandLevel% ο ζωολογικός σας κήπος θα μεγαλώσει. Δεν έχετε όρεξη να περιμένετε; Γι' αυτό, επεκτείνετε τον ζωολογικό σας κήπο τώρα.]]></item>
+      <item name="zoo.premium.infoText.12"><![CDATA[Μην χάνετε χρόνο και επεκτείνετε τον ζωολογικό σας κήπο κατά 100% με ένα μόνο κλικ! Με την επέκταση maxi zoo, γλιτώνετε τα ενδιάμεσα βήματα και θα έχετε άμεσα διαθέσιμη τη μέγιστη έκταση. Μην διστάσετε!]]></item>
+      <item name="zoo.premium.infoText.13"><![CDATA[Αγόρασε επεκτάσεις για τον κρυμμένο ζωολογικό κήπο σου με τα zoodollars.]]></item>
+      <item name="zoo.premium.infoText.14"><![CDATA[Ανταλλάξτε τα εργαλεία που έχετε συλλέξει για να επεκτείνετε τον κρυμμένο ζωολογικό κήπο σας.]]></item>
+      <item name="zoo.premium.infoText.15"><![CDATA[Από τις 21 Απριλίου έως τις 27 Απριλίου, το Πασχαλινό Λαγουδάκι θα ρίχνει αυγά στον ζωολογικό κήπο σας. Συλλέξτε τα και ανταλλάξτε τα με πασχαλινά διακοσμητικά περιβλήματος, πασχαλινά λαγουδάκια και πασχαλινά περιβλήματα.]]></item>
+      <item name="zoo.premium.infoText.16"><![CDATA[Πόσο πρακτικό! Από τις 21 έως τις 27 Απριλίου, η βοηθός του Πάσχα, Σόνια, θα σας βοηθήσει να μαζέψετε αυγά. Ακόμα κι αν αποσυνδεθείτε! Στη συνέχεια, μπορείτε να ανταλλάξετε τα αυγά με πασχαλινά στολίδια για περιβλήματα, πασχαλινά λαγουδάκια και πασχαλινά περιβλήματα.]]></item>
+      <item name="zoo.premium.infoText.23"><![CDATA[Αγοράστε αυτήν την τούρτα για να λάβετε πιο γρήγορα την αναβάθμιση γενεθλίων για τα περιβλήματά σας. Αυτό θα σας δώσει περισσότερα μπαλόνια και μπορείτε επίσης να κερδίσετε περισσότερα δώρα γενεθλίων.]]></item>
+      <item name="zoo.premium.infoText.29"><![CDATA[Μην χάνετε χρόνο και επεκτείνετε τον ζωολογικό σας κήπο στο 100% με ένα μόνο κλικ! Με τη μέγιστη επέκταση ζωολογικού κήπου, θα γλιτώσετε τα κουραστικά ενδιάμεσα βήματα και θα έχετε αμέσως τη μέγιστη διαθέσιμη περιοχή. Μην διστάσετε!]]></item>
+      <item name="zoo.premium.infoText.30"><![CDATA[Μην χάνετε χρόνο και επεκτείνετε τον ζωολογικό σας κήπο κατά 100% με ένα μόνο κλικ! Με την επέκταση maxi zoo, γλιτώνετε τα ενδιάμεσα βήματα και θα έχετε άμεσα διαθέσιμη τη μέγιστη έκταση. Μην διστάσετε!]]></item>
+      <item name="zoo.premium.infoText.35"><![CDATA[Επεκτείνετε τον ζωολογικό σας κήπο με zoodollars.]]></item>
+      <item name="zoo.premium.infoText.125"><![CDATA[Αγόρασε μια επέκταση για αυτόν τον ζωολογικό κήπο με τα zoodollars.]]></item>
+      <item name="zoo.premium.infoText.36"><![CDATA[Αναπτύξτε τον ζωολογικό κήπο σας με τα εργαλεία που έχετε συλλέξει.]]></item>
+      <item name="zoo.premium.infoText.126"><![CDATA[Μην χάνετε χρόνο και επεκτείνετε τον ζωολογικό σας κήπο κατά 100% με ένα μόνο κλικ! Με την επέκταση maxi zoo, γλιτώνετε τα ενδιάμεσα βήματα και θα έχετε άμεσα διαθέσιμη τη μέγιστη έκταση. Μην διστάσετε!]]></item>
+      <item name="zoo.premium.infoText.37"><![CDATA[Μην χάνετε χρόνο και επεκτείνετε τον ζωολογικό σας κήπο κατά 100% με ένα μόνο κλικ! Με την επέκταση maxi zoo θα γλιτώσετε τα ενδιάμεσα βήματα και θα έχετε άμεσα διαθέσιμη τη μέγιστη έκταση. Μην διστάσετε!]]></item>
+      <item name="zoo.premium.infoText.38"><![CDATA[Μην χάνετε χρόνο και επεκτείνετε τον ζωολογικό σας κήπο κατά 100% με ένα μόνο κλικ! Με την επέκταση maxi zoo θα γλιτώσετε τα ενδιάμεσα βήματα και θα έχετε άμεσα διαθέσιμη τη μέγιστη έκταση. Μην διστάσετε!]]></item>
+      <item name="zoo.premium.infoText.123"><![CDATA[Ανταλλάξτε μικρές νυχτερίδες με ξινές για να ξεκλειδώσετε νέες ανταμοιβές για το Χάλοουιν.]]></item>
+      <item name="zoo.premium.infoText.124"><![CDATA[Ανταλλάξτε μικρές νυχτερίδες με γλυκά για να ξεκλειδώσετε νέες ανταμοιβές για το Χάλογουιν.]]></item>
+      <item name="zoo.premium.infoText.128"><![CDATA[Αγοράστε αυτήν την τούρτα για να λάβετε πιο γρήγορα την αναβάθμιση γενεθλίων για τα περιβλήματά σας. Αυτό θα σας δώσει περισσότερα μπαλόνια και μπορείτε επίσης να κερδίσετε περισσότερα δώρα γενεθλίων.]]></item>
+      <item name="zoo.premium.infoText.130"><![CDATA[Αγοράστε την επέκταση Coastal Zoo με το Zoo Dollars.]]></item>
+      <item name="zoo.premium.infoText.132"><![CDATA[Αποκτήστε την επέκταση Undersea World με το Zoodollars.]]></item>
+      <item name="zoo.premium.infoText.2001"><![CDATA[Αυτό το βαρέλι με νερό είναι μια ωραία προσθήκη στον ζωολογικό κήπο και θα προσθέσει μια ρουστίκ αίσθηση.]]></item>
+      <item name="zoo.premium.infoText.2002"><![CDATA[Τι γίγαντας! Αυτός ο υδραγωγείος θα είναι ορατός από μακριά.]]></item>
+      <item name="zoo.premium.infoText.2003"><![CDATA[Ρέει τώρα. Το σιντριβάνι θα παρέχει δροσιστικό νερό για τον ζωολογικό σας κήπο. Νερό, απλώς ρέει!]]></item>
+      <item name="zoo.premium.infoText.2004"><![CDATA[Πρακτικά! Τα κουτιά αποθήκευσης είναι ιδανικά για αναρρίχηση, κάθισμα και παιχνίδι. Τα παιδιά λατρεύουν τα ξύλινα κουτιά.]]></item>
+      <item name="zoo.premium.infoText.2005"><![CDATA[Τι υπέροχο! Ο αχυρώνας είναι ένα εξαιρετικό μέρος για να παίξεις κρυφτό. Και το χειμώνα υπάρχει άφθονος χώρος για μπάλες σανού.]]></item>
+      <item name="zoo.premium.infoText.2006"><![CDATA[Υπέροχη αποθήκη! Υπάρχουν πολλά ενδιαφέροντα πράγματα στην υπόγεια αποθήκη. Αλλά πάνω απ' όλα, αυτή η αποθήκη είναι πολύ μυστηριώδης... τι κρύβεται εκεί;]]></item>
+    </category>
+    <category name="zoo.premium.window.renew">
+      <item name="zoo.premium.window.renew.text"><![CDATA[Ω! Η σύμβαση εργασίας με αυτόν τον βοηθό έχει λήξει. Θέλετε να παρατείνετε τη σύμβαση;]]></item>
+    </category>
+    <category name="zoo.premium.elixir">
+      <item name="zoo.premium.elixir.title"><![CDATA[Η Ουσία της Τόλια]]></item>
+      <item name="zoo.premium.elixir.text"><![CDATA[Η μυστική συνταγή που χρησιμοποιείται στην αναπαραγωγή μειώνει τη διαδικασία αναπαραγωγής κατά 50%]]></item>
+    </category>
+    <category name="zoo.premium.breedingLab">
+      <item name="zoo.premium.breedingLab.title"><![CDATA[Σταθμός αναπαραγωγής]]></item>
+      <item name="zoo.premium.breedingLab.text"><![CDATA[Τοποθετήστε έναν σταθμό αναπαραγωγής στον κύριο ή μυστικό ζωολογικό κήπο σας για να αναπαράγετε σπάνια ζώα.]]></item>
+    </category>
+    <category name="zoo.premium.nursery">
+      <item name="zoo.premium.nursery.title"><![CDATA[Φυτώριο ζώων]]></item>
+      <item name="zoo.premium.nursery.text"><![CDATA[Τοποθετήστε έναν σταθμό αναπαραγωγής στον κύριο ή μυστικό ζωολογικό κήπο σας, ώστε τα μωρά σας να έχουν ένα μέρος να μεγαλώσουν.]]></item>
+    </category>
+    <category name="zoo.premium.assist.title">
+      <item name="zoo.premium.assist.title.0"><![CDATA[Εκπρόσωπος Ντέιβιντ]]></item>
+      <item name="zoo.premium.assist.title.1"><![CDATA[Κρμιτς Χόνζα]]></item>
+      <item name="zoo.premium.assist.title.2"><![CDATA[Τροφοδοτικό Πάβελ]]></item>
+      <item name="zoo.premium.assist.title.3"><![CDATA[Καθαριστής Σλάβεκ]]></item>
+      <item name="zoo.premium.assist.title.4"><![CDATA[Εκτροφέας Soňa]]></item>
+      <item name="zoo.premium.assist.title.5"><![CDATA[Συλλέκτης σκουπιδιών Jirka]]></item>
+      <item name="zoo.premium.assist.title.6"><![CDATA[Ταμίας, οικονομικός βοηθός]]></item>
+      <item name="zoo.premium.assist.title.7"><![CDATA[Δρ. Λιν]]></item>
+      <item name="zoo.premium.assist.title.8"><![CDATA[Τζίντρα]]></item>
+      <item name="zoo.premium.assist.title.9"><![CDATA[Ματθαίος]]></item>
+      <item name="zoo.premium.assist.title.10"><![CDATA[Φραντ]]></item>
+      <item name="zoo.premium.assist.title.11"><![CDATA[Θήλυ ζώων τινών]]></item>
+    </category>
+    <category name="zoo.premium.assist.infoText">
+      <item name="zoo.premium.assist.infoText.0"><![CDATA[Αν προσλάβετε 6 βοηθούς (εκτός της Δρ. Λιν), ο συνδιευθυντής θα σας βοηθήσει με το προσωπικό. Απλώς κάντε κλικ πάνω τους και όλοι θα πιάσουν αμέσως δουλειά.]]></item>
+      <item name="zoo.premium.assist.infoText.1"><![CDATA[Η Feeder Honza διασφαλίζει ότι τα ζώα σας ταΐζονται πάντα - αρκεί να έχετε αρκετά ζωογρόσια για να καλύψετε αυτά τα έξοδα.]]></item>
+      <item name="zoo.premium.assist.infoText.2"><![CDATA[Κάντε κλικ στον Παύλο και αυτός θα φροντίσει για τη σύνδεση των ζώων - αρκεί να έχετε αρκετά ζωολογικά πάρκα για να καλύψετε αυτά τα έξοδα.]]></item>
+      <item name="zoo.premium.assist.infoText.3"><![CDATA[Ο Slávek, ο καθαριστής, φροντίζει για την υγιεινή και την καθαριότητα των ζώων σας. Όταν κάνετε κλικ πάνω του, θα καθαρίσει τα καταφύγιά σας και θα προσφέρει ένα άνετο σπίτι για τα ζώα σας.]]></item>
+      <item name="zoo.premium.assist.infoText.4"><![CDATA[Η εκτροφέας Soňa φροντίζει τα ζώα σας, τα αγκαλιάζει και τους προσφέρει την αγάπη που τους αξίζει. Κάντε κλικ πάνω της και παρακολουθήστε την εν δράσει!]]></item>
+      <item name="zoo.premium.assist.infoText.5"><![CDATA[Ο Τζίρκα σκουπίζει επιμελώς κάθε μονοπάτι και δεν χάνει ούτε έναν κάδο απορριμμάτων. Η τάξη πρέπει να διατηρείται. Προσλάβετέ τον με ένα κλικ και θα πιάσει αμέσως δουλειά!]]></item>
+      <item name="zoo.premium.assist.infoText.6"><![CDATA[Ο έξυπνος πίθηκος Κέσικ είναι καλός με τους αριθμούς. Κάνε κλικ πάνω του και θα εισπράξει τα έσοδα από όλα τα κτίρια του ζωολογικού κήπου για εσένα!]]></item>
+      <item name="zoo.premium.assist.infoText.7"><![CDATA[Η Δρ. Λιν είναι υπεύθυνη για την υγεία των ζώων σας. Όταν κάνετε κλικ πάνω της, θα χορηγήσει το κατάλληλο φάρμακο σε όλα τα άρρωστα ζώα!]]></item>
+      <item name="zoo.premium.assist.infoText.8"><![CDATA[Κάντε κλικ στον Jindra και θα ταΐσει όλα τα θαλάσσια πλάσματά σας! Φύκια, πλαγκτόν ή τροφή για ψάρια - ο Jindra ξέρει τι να κάνει!]]></item>
+      <item name="zoo.premium.assist.infoText.9"><![CDATA[Ο Ματέι έχει πάντα ένα λάστιχο στο χέρι του! Κάνε κλικ πάνω του και θα γεμίσει τις δεξαμενές νερού σου, αλλά φρόντισε να έχεις αρκετούς πόρους για να καλύψεις το κόστος!]]></item>
+      <item name="zoo.premium.assist.infoText.10"><![CDATA[Η Φράντα είναι τεχνικός πισίνας. Κάντε κλικ πάνω του και θα καθαρίσει τις περιοχές με νερό, θα αλλάξει τα φίλτρα και θα βεβαιωθεί ότι το νερό είναι καθαρό και ασφαλές για όλα τα ζώα.]]></item>
+      <item name="zoo.premium.assist.infoText.11"><![CDATA[Η Γιάνιτσκα είναι εκπαιδεύτρια θαλάσσιων θηλαστικών. Παίζει με τα ζώα και τους μαθαίνει διάφορα κόλπα! Κάνε κλικ πάνω της και προσλάβετέ την.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Hoi! Ik ben Lucka en ik ben dol op vleermuizen! Maar vooral op hun schattige baby'tjes. Breng me zoveel mogelijk baby'tjes, dan heb ik superleuke Halloween-spullen voor je. Ruil de zoete baby'tjes in voor de spullen aan de linkerkant en de zure voor de spullen aan de rechterkant.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Inventaris]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Kies hoeveel %species% baby's je naar je inventaris wilt verplaatsen.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Onze excuses!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Helaas heb je niet genoeg vleermuisbaby's in je inventaris. Fok vleermuisbaby's en voeg ze toe aan je inventaris om dit item te kunnen kopen.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Kleine vleermuizen op voorraad]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Ruil kleine vleermuizen in voor snoepjes.]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Ruil de kleine vleermuizen in voor zure exemplaren.]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Nummer: Zoet]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Investeer %x% snoepjes om dit item te ontgrendelen.]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Investeer %x% zuur om dit item te ontgrendelen.]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Nummer: Zuur]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Hulp]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Verplaats de jonge vleermuizen naar de inventaris.]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Welkom bij het Halloween-evenement!<br>Van <b>25 oktober tot en met 1 november</b> begint er een griezelig feest in jouw dierentuin! Er wachten je tal van cadeaus en verrassingen. In de volgende stap leggen we uit hoe alles in zijn werk gaat.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Verzamel zoveel mogelijk zoet en zuur! Je hebt het zoet en zuur nodig om de spooktrailers te activeren! Op de volgende pagina lees je hoe het werkt.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Als je genoeg zoet en zuur hebt, kun je ze gebruiken om <b>items</b> te activeren. Maar let op: bij zoetigheid kijk je naar links, bij zuur naar rechts. Je oog laat zien aan welke kant de items geactiveerd worden.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Je kunt geactiveerde items verkrijgen door ze in te wisselen voor <b>babyvleermuizen</b>. Kweek veel schattige vleermuizen. Een nieuwe knop in het menu van het verblijf helpt je om de baby's snel en gemakkelijk in je inventaris op te slaan.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Veel plezier in de griezelwinkel!<br> Voor alle ongeduldigen: Zoet en zuur kunnen in de winkel worden ingewisseld voor babyvleermuizen. Er wachten je nog meer verrassingen in de winkel.<br> <br>Veel plezier met Halloween dit jaar!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[Het is tijd voor wat griezelig plezier!<br>Van <b>31 oktober tot en met 6 november</b> is er een Halloweenfeest in jouw dierentuin!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Verzamel zoveel pompoenen als je kunt! Ze komen vanzelf uit de verblijven tevoorschijn terwijl je voor je dieren zorgt.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Voeg ze toe aan de grote pompoenmand voor onze <b>Pompoenstrijd</b>. Hoe meer pompoenen je inlevert, hoe angstaanjagender de beloningen die je kunt winnen.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Terwijl je voor je dieren zorgt, verschijnen er snoepjes uit de verblijven. Jullie kunnen ze allemaal samen verzamelen. De actiebalk vult zich en een zwevend oogje laat zien welke griezelige prijzen er voor iedereen beschikbaar zijn. Klik op de beloning zodra deze geactiveerd is.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Verzamel pompoenen voor het grote pompoengevecht. Hoe meer je verzamelt, hoe meer prijzen je kunt winnen.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Iedereen speelt samen! De prijzen uit alle dierentuinen vullen de meter en ontgrendelen automatisch prijzen voor iedereen!]]></item>
+    </category>
+  </category>
+</language>

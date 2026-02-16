@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.avatar">
+    <item name="zoo.avatar.heads"><![CDATA[Burada kendi avatarınızı oluşturun ve arkadaşlarınıza gösterin! Cinsiyetinizi seçtiniz mi? O zaman yüz özelliklerinizi belirleyin!]]></item>
+    <item name="zoo.avatar.eyes"><![CDATA[Göz, ruhun penceresidir! Hangileri size en çok yakışıyor?]]></item>
+    <item name="zoo.avatar.mouths"><![CDATA[Gülümsemek, kahkaha atmak, sırıtmak... Ağzınız, başkalarına nasıl hissettiğinizi gösterir!]]></item>
+    <item name="zoo.avatar.hair"><![CDATA[Saç rengi ve saç modeli görünümünüzü tamamen değiştirebilir!]]></item>
+    <item name="zoo.avatar.hats"><![CDATA[Başlık (?) sizi önemli gösterebilir!]]></item>
+    <item name="zoo.avatar.clothes"><![CDATA[Hayvanat bahçesi için uygun kıyafeti seçin.]]></item>
+  </category>
+</language>

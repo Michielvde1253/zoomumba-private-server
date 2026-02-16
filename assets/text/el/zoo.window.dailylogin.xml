@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.dailylogin">
+    <item name="zoo.window.dailylogin.title"><![CDATA[Μπόνους καθημερινής σύνδεσης]]></item>
+    <item name="zoo.window.dailylogin.info"><![CDATA[Συνδεθείτε καθημερινά - αξίζει τον κόπο! Κερδίστε υπέροχα δώρα κάθε μέρα!]]></item>
+    <item name="zoo.window.dailylogin.reward"><![CDATA[Η ημερήσια ανταμοιβή σας:]]></item>
+    <item name="zoo.window.dailylogin.day"><![CDATA[Ημέρα: %ημέρα%]]></item>
+    <item name="zoo.window.dailylogin.eventshop"><![CDATA[Ειδική προσφορά]]></item>
+  </category>
+</language>

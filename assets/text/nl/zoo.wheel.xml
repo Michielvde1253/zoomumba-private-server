@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Extra poging]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Hoera, je krijgt een extra kans!<br> Voor elke dag dat je inlogt, krijg je een extra draai aan het gelukswiel.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Klik en beproef je geluk!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Of klik op het gebouw met het geluksrad in de stad. Elke draai garandeert fantastische prijzen!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Verdere pogingen]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Wilt u een nieuwe poging kopen?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Gefeliciteerd!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Hoera! Je hebt gewonnen:]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Draai nog eens, je kunt alleen winnen met het gelukswiel!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Voeder John gedurende 1 uur]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Waterleverancier Paul gedurende 1 uur]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Conciërge Stanley gedurende 1 uur]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Fokker Sonja gedurende 1 uur]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Vuilnisophaler George gedurende 1 uur]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Kassier (1 uur)]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Voeder John gedurende 3 uur]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Waterleverancier Paul gedurende 3 uur]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Conciërge Stanley gedurende 3 uur]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Fokker Sonja gedurende 3 uur]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Vuilnisophaler George gedurende 3 uur]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Kassier gedurende 3 uur]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[30% EP-bonus gedurende maar liefst 8 uur!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100% EP-bonus gedurende maar liefst 8 uur!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50% extra pootbonus gedurende 5 volle uren!]]></item>
+    </category>
+  </category>
+</language>

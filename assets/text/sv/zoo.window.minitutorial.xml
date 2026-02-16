@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.minitutorial">
+    <item name="zoo.window.minitutorial.title"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.minitutorial.infopage.1"><![CDATA[Välkommen till ZooMumba, ditt galna zoo-äventyr! Jag heter Sonja, och jag ska guida dig steg för steg i hur spelet fungerar.<br><br>I butiken kan du köpa olika djurhägn och placera dem på din zoo-mark.]]></item>
+    <item name="zoo.window.minitutorial.infopage.2"><![CDATA[Klicka på inhägnaden och köp ett djur. Se till att kontrollera om du köper en hane eller en hona.<br><br> Om du har båda i inhägnaden kan du snart förvänta dig djurungar!]]></item>
+    <item name="zoo.window.minitutorial.infopage.3"><![CDATA[Ta hand om dina djur regelbundet, krama dem och lek med dem. På så sätt blir de glada och nöjda. Testa!]]></item>
+    <item name="zoo.window.minitutorial.infopage.4"><![CDATA[Du behöver ansluta dina inhägnader, byggnader och attraktioner med stigar som leder till entrén så att besökarna kan beundra allt.]]></item>
+    <item name="zoo.window.minitutorial.infopage.5"><![CDATA[Köp foder och allt dina djur önskar sig i butiken: kött, frukt, gräs – ta bara en titt!]]></item>
+    <item name="zoo.window.minitutorial.infopage.6"><![CDATA[Från nivå 2 kan du även få byggnader och stånd i butiken, vilket gör ditt zoo ännu mer attraktivt för besökare. <br><br>Du kan regelbundet hämta dina intäkter från entréavgifter från huvudbyggnaden.]]></item>
+    <item name="zoo.window.minitutorial.infopage.6b"><![CDATA[Du börjar med några ZooDollars. Använd dem för att skaffa fantastiska djur och speciella attraktioner, eller anlita assistenter. De hjälper dig med underhållet och skötseln av ditt zoo. <br><br>Och om du får slut på ZooDollars, oroa dig inte! Du kan fylla på dem när som helst på ZooBank.]]></item>
+    <item name="zoo.window.minitutorial.infopage.7"><![CDATA[Ju fler besökare du välkomnar till ditt zoo, desto mer skräp behöver du städa upp. <br><br>Håll ditt zoo rent och samla upp skräpet. Dina besökare kommer att uppskatta det!]]></item>
+    <item name="zoo.window.minitutorial.infopage.8"><![CDATA[Ju fler nöjda besökare ditt zoo har, desto högre kommer din zoometer att stiga. <br><br>Sätt igång och bygg världens bästa zoo - i ZooMumba! Ha kul!]]></item>
+  </category>
+</language>

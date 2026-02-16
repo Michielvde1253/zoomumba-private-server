@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.premium">
+    <category name="zoo.premium.title">
+      <item name="zoo.premium.title.0"><![CDATA[Представител Дейвид]]></item>
+      <item name="zoo.premium.title.1"><![CDATA[Крмич Хонза]]></item>
+      <item name="zoo.premium.title.2"><![CDATA[Захранване Павел]]></item>
+      <item name="zoo.premium.title.3"><![CDATA[Чистач Славек]]></item>
+      <item name="zoo.premium.title.4"><![CDATA[Развъдчик Соня]]></item>
+      <item name="zoo.premium.title.5"><![CDATA[Боклукчията Йирка]]></item>
+      <item name="zoo.premium.title.6"><![CDATA[Касиер Кешик]]></item>
+      <item name="zoo.premium.title.7"><![CDATA[Д-р Лин]]></item>
+      <item name="zoo.premium.title.11"><![CDATA[По-голяма зоологическа градина]]></item>
+      <item name="zoo.premium.title.12"><![CDATA[Разширение на зоопарка Maxi]]></item>
+      <item name="zoo.premium.title.13"><![CDATA[Разширяване на зоологическата градина]]></item>
+      <item name="zoo.premium.title.14"><![CDATA[Разширяване на зоологическата градина]]></item>
+      <item name="zoo.premium.title.15"><![CDATA[Великденско зайче]]></item>
+      <item name="zoo.premium.title.16"><![CDATA[Великденски помощник]]></item>
+      <item name="zoo.premium.title.23"><![CDATA[Торта за рожден ден]]></item>
+      <item name="zoo.premium.title.126"><![CDATA[Максимално разширяване на зоологическата градина]]></item>
+      <item name="zoo.premium.title.29"><![CDATA[Максимално разширяване на зоологическата градина]]></item>
+      <item name="zoo.premium.title.30"><![CDATA[Максимално разширяване на зоологическата градина]]></item>
+      <item name="zoo.premium.title.125"><![CDATA[Разширяване на зоологическата градина]]></item>
+      <item name="zoo.premium.title.35"><![CDATA[Разширяване на зоологическата градина]]></item>
+      <item name="zoo.premium.title.36"><![CDATA[Разширяване на зоологическата градина]]></item>
+      <item name="zoo.premium.title.37"><![CDATA[Максимално разширяване на зоологическата градина]]></item>
+      <item name="zoo.premium.title.38"><![CDATA[Максимално разширяване на зоологическата градина]]></item>
+      <item name="zoo.premium.title.123"><![CDATA[Кисело]]></item>
+      <item name="zoo.premium.title.124"><![CDATA[Сладко]]></item>
+      <item name="zoo.premium.title.128"><![CDATA[Торта за рожден ден]]></item>
+      <item name="zoo.premium.title.130"><![CDATA[Разширяване на зоологическата градина]]></item>
+      <item name="zoo.premium.title.132"><![CDATA[Разширяване на зоологическата градина]]></item>
+      <item name="zoo.premium.title.2001"><![CDATA[Барел с вода]]></item>
+      <item name="zoo.premium.title.2002"><![CDATA[Водна кула]]></item>
+      <item name="zoo.premium.title.2003"><![CDATA[Изворна вода]]></item>
+      <item name="zoo.premium.title.2004"><![CDATA[Кутия за съхранение]]></item>
+      <item name="zoo.premium.title.2005"><![CDATA[Склад]]></item>
+      <item name="zoo.premium.title.2006"><![CDATA[Подземен склад]]></item>
+    </category>
+    <category name="zoo.premium.infoText">
+      <item name="zoo.premium.infoText.0"><![CDATA[Ако наемете 6 асистенти (без д-р Лин), имате съдиректор и екип, който да ви помага. Просто кликнете и 6-те асистенти ще се захванат за работа.]]></item>
+      <item name="zoo.premium.infoText.1"><![CDATA[Джон, асистентът по храненето, се грижи животните ви винаги да са добре хранени и щастливи. Ако имате достатъчно зоогрос за хранене, кликнете върху него и Джон ще работи усърдно и надеждно.]]></item>
+      <item name="zoo.premium.infoText.2"><![CDATA[Павел се грижи за поенето на животните. Ако кликнете върху него, той редовно ще осигурява вода за вашите животни. Но само ако имате достатъчно зоогрос.]]></item>
+      <item name="zoo.premium.infoText.3"><![CDATA[Чистачът Славек се грижи за хигиената и чистотата на вашите животни. Ако кликнете върху него, той ще почисти загражденията и ще осигури уютен дом за вашите животни.]]></item>
+      <item name="zoo.premium.infoText.4"><![CDATA[Всички очакват с нетърпение Соня! Кликнете върху нея и я наемете: Тя ще се гушка с вашите животни, така че няма да им е скучно и ще греят от доволство.]]></item>
+      <item name="zoo.premium.infoText.5"><![CDATA[Йирка старателно мете всяка пътека и не пропуска нито една кофа за боклук. Нещата трябва да са подредени, посетителите няма да се върнат в занемарена зоологическа градина. Наемете го с едно кликване и той ще се погрижи за цялата работа.]]></item>
+      <item name="zoo.premium.infoText.6"><![CDATA[Умната маймунка Кешик е добра с числата: Кликнете върху нея и я наемете. Тя ще ви носи приходи от всички магазини и сгради, които построите.]]></item>
+      <item name="zoo.premium.infoText.7"><![CDATA[Д-р Лин е отговорна за здравето на вашите животни. Когато кликнете върху нея, тя ще достави подходящото лекарство на всички болни животни!]]></item>
+      <item name="zoo.premium.infoText.11"><![CDATA[От ниво %nextExpandLevel% вашата зоологическа градина ще расте. Не ви се чака? Затова разширете зоологическата си градина сега.]]></item>
+      <item name="zoo.premium.infoText.12"><![CDATA[Не губете време и разширете зоологическата си градина със 100% само с едно кликване! С разширението maxi zoo си спестявате междинните стъпки и ще имате максималната налична площ веднага. Не се колебайте!]]></item>
+      <item name="zoo.premium.infoText.13"><![CDATA[Купете разширения за вашата скрита зоологическа градина със zoodollars.]]></item>
+      <item name="zoo.premium.infoText.14"><![CDATA[Разменете събраните си инструменти, за да разширите скрития си зоопарк.]]></item>
+      <item name="zoo.premium.infoText.15"><![CDATA[От 21 до 27 април Великденският заек ще пуска яйца във вашата зоологическа градина. Събирайте ги и ги разменяйте за великденски украси за заграждения, великденски зайчета и великденски заграждения.]]></item>
+      <item name="zoo.premium.infoText.16"><![CDATA[Колко практично! От 21 до 27 април, великденската помощница Соня ще ви помага да събирате яйца. Дори и да излезете от профила си! След това можете да замените яйцата за великденски украси за заграждения, великденски зайчета и великденски заграждения.]]></item>
+      <item name="zoo.premium.infoText.23"><![CDATA[Купете тази торта, за да получите по-бързо подобрението за рождения ден на вашите кутии. Това ще ви даде повече балони, а също така можете да получите повече награди за рожден ден.]]></item>
+      <item name="zoo.premium.infoText.29"><![CDATA[Не губете време и разширете зоологическата си градина до 100% само с едно кликване! С максималното разширение на зоологическата градина ще си спестите досадните междинни стъпки и веднага ще имате максималната налична площ. Не се колебайте!]]></item>
+      <item name="zoo.premium.infoText.30"><![CDATA[Не губете време и разширете зоологическата си градина със 100% само с едно кликване! С разширението maxi zoo си спестявате междинните стъпки и ще имате максималната налична площ веднага. Не се колебайте!]]></item>
+      <item name="zoo.premium.infoText.35"><![CDATA[Разширете зоологическата си градина със зоодолари.]]></item>
+      <item name="zoo.premium.infoText.125"><![CDATA[Купете разширение за тази зоологическа градина със зоодолари.]]></item>
+      <item name="zoo.premium.infoText.36"><![CDATA[Разширете зоологическата си градина с инструментите, които сте събрали.]]></item>
+      <item name="zoo.premium.infoText.126"><![CDATA[Не губете време и разширете зоологическата си градина със 100% само с едно кликване! С разширението maxi zoo си спестявате междинните стъпки и ще имате максималната налична площ веднага. Не се колебайте!]]></item>
+      <item name="zoo.premium.infoText.37"><![CDATA[Не губете време и разширете зоологическата си градина със 100% само с едно кликване! С разширението maxi zoo ще си спестите междинните стъпки и ще имате максималната налична площ веднага. Не се колебайте!]]></item>
+      <item name="zoo.premium.infoText.38"><![CDATA[Не губете време и разширете зоологическата си градина със 100% само с едно кликване! С разширението maxi zoo ще си спестите междинните стъпки и ще имате максималната налична площ веднага. Не се колебайте!]]></item>
+      <item name="zoo.premium.infoText.123"><![CDATA[Разменете малки прилепи с кисели, за да отключите нови награди за Хелоуин.]]></item>
+      <item name="zoo.premium.infoText.124"><![CDATA[Разменете малки прилепи за сладкиши, за да отключите нови награди за Хелоуин.]]></item>
+      <item name="zoo.premium.infoText.128"><![CDATA[Купете тази торта, за да получите по-бързо подобрението за рождения ден на вашите кутии. Това ще ви даде повече балони, а също така можете да получите повече награди за рожден ден.]]></item>
+      <item name="zoo.premium.infoText.130"><![CDATA[Купете разширението Coastal Zoo със Zoo Dollars.]]></item>
+      <item name="zoo.premium.infoText.132"><![CDATA[Вземете разширението „Подводен свят“ със Zoodollars.]]></item>
+      <item name="zoo.premium.infoText.2001"><![CDATA[Тази бъчва за вода е хубаво допълнение към зоологическата градина и ще придаде рустикално усещане.]]></item>
+      <item name="zoo.premium.infoText.2002"><![CDATA[Какъв гигант! Тази водна кула ще се вижда отдалеч и нашир.]]></item>
+      <item name="zoo.premium.infoText.2003"><![CDATA[Сега тече. Фонтанът ще осигури освежаваща вода за вашата зоологическа градина. Вода, просто течи!]]></item>
+      <item name="zoo.premium.infoText.2004"><![CDATA[Практични! Кутиите за съхранение са идеални за катерене, сядане и игра. Децата обичат дървените кутии.]]></item>
+      <item name="zoo.premium.infoText.2005"><![CDATA[Колко брилянтно! Хамбарът е чудесно място за игра на криеница. А през зимата има достатъчно място за бали сено.]]></item>
+      <item name="zoo.premium.infoText.2006"><![CDATA[Страхотно складово помещение! В подземното складово помещение има много интересни неща. Но най-вече това складово помещение е много мистериозно... какво е скрито там?]]></item>
+    </category>
+    <category name="zoo.premium.window.renew">
+      <item name="zoo.premium.window.renew.text"><![CDATA[О! Трудовият договор с този асистент е изтекъл. Искате ли да го удължите?]]></item>
+    </category>
+    <category name="zoo.premium.elixir">
+      <item name="zoo.premium.elixir.title"><![CDATA[Същността на Толия]]></item>
+      <item name="zoo.premium.elixir.text"><![CDATA[Тайната рецепта, използвана при развъждането, съкращава процеса на размножаване с 50%]]></item>
+    </category>
+    <category name="zoo.premium.breedingLab">
+      <item name="zoo.premium.breedingLab.title"><![CDATA[Развъдна станция]]></item>
+      <item name="zoo.premium.breedingLab.text"><![CDATA[Поставете развъдник в основната или тайната си зоологическа градина, за да развъждате редки животни.]]></item>
+    </category>
+    <category name="zoo.premium.nursery">
+      <item name="zoo.premium.nursery.title"><![CDATA[Разсадник за животни]]></item>
+      <item name="zoo.premium.nursery.text"><![CDATA[Поставете развъдник в основната или тайната си зоологическа градина, за да имат малките ви къде да растат.]]></item>
+    </category>
+    <category name="zoo.premium.assist.title">
+      <item name="zoo.premium.assist.title.0"><![CDATA[Представител Дейвид]]></item>
+      <item name="zoo.premium.assist.title.1"><![CDATA[Крмич Хонза]]></item>
+      <item name="zoo.premium.assist.title.2"><![CDATA[Захранване Павел]]></item>
+      <item name="zoo.premium.assist.title.3"><![CDATA[Чистач Славек]]></item>
+      <item name="zoo.premium.assist.title.4"><![CDATA[Развъдчик Соня]]></item>
+      <item name="zoo.premium.assist.title.5"><![CDATA[Боклукчията Йирка]]></item>
+      <item name="zoo.premium.assist.title.6"><![CDATA[Касиер, финансов асистент]]></item>
+      <item name="zoo.premium.assist.title.7"><![CDATA[Д-р Лин]]></item>
+      <item name="zoo.premium.assist.title.8"><![CDATA[Джиндра]]></item>
+      <item name="zoo.premium.assist.title.9"><![CDATA[Матей]]></item>
+      <item name="zoo.premium.assist.title.10"><![CDATA[Франт]]></item>
+      <item name="zoo.premium.assist.title.11"><![CDATA[Джени]]></item>
+    </category>
+    <category name="zoo.premium.assist.infoText">
+      <item name="zoo.premium.assist.infoText.0"><![CDATA[Ако наемете 6 асистенти (без д-р Лин), заместник-директорът ще ви помогне с персонала. Просто кликнете върху тях и всички те ще се захванат за работа веднага.]]></item>
+      <item name="zoo.premium.assist.infoText.1"><![CDATA[Хранителят Хонза се грижи животните ви винаги да са нахранени - стига да имате достатъчно зоогрос, за да покриете тези разходи.]]></item>
+      <item name="zoo.premium.assist.infoText.2"><![CDATA[Кликнете върху Павел и той ще се погрижи за свързването на животните - стига да имате достатъчно зоогрос, за да покриете тези разходи.]]></item>
+      <item name="zoo.premium.assist.infoText.3"><![CDATA[Чистачът Славек се грижи за хигиената и чистотата на вашите животни. Когато кликнете върху него, той ще почисти загражденията ви и ще осигури уютен дом за вашите животни.]]></item>
+      <item name="zoo.premium.assist.infoText.4"><![CDATA[Развъдчикът Соня се грижи за вашите животни, прегръща ги и им предлага любовта, която заслужават. Кликнете върху нея и я гледайте в работата!]]></item>
+      <item name="zoo.premium.assist.infoText.5"><![CDATA[Йирка старателно мете всяка пътека и не пропуска нито една кофа за боклук. Редът трябва да се поддържа. Наемете го с едно кликване и той ще се захване за работа веднага!]]></item>
+      <item name="zoo.premium.assist.infoText.6"><![CDATA[Умната маймунка Кешик е добра с числата. Кликнете върху нея и тя ще събере приходите от всички сгради в зоологическата градина вместо вас!]]></item>
+      <item name="zoo.premium.assist.infoText.7"><![CDATA[Д-р Лин е отговорна за здравето на вашите животни. Когато кликнете върху нея, тя ще достави подходящото лекарство на всички болни животни!]]></item>
+      <item name="zoo.premium.assist.infoText.8"><![CDATA[Кликнете върху Джиндра и той ще нахрани всичките ви морски създания! Водорасли, планктон или храна за риби - Джиндра знае какво да прави!]]></item>
+      <item name="zoo.premium.assist.infoText.9"><![CDATA[Матей винаги държи маркуч в ръка! Кликнете върху него и той ще напълни резервоарите ви с вода, но се уверете, че имате достатъчно ресурси, за да покриете разходите!]]></item>
+      <item name="zoo.premium.assist.infoText.10"><![CDATA[Франта е техник по басейни. Кликнете върху него и той ще почисти водните ви площи, ще смени филтрите и ще се увери, че водата е чиста и безопасна за всички животни.]]></item>
+      <item name="zoo.premium.assist.infoText.11"><![CDATA[Яничка е дресьорка на морски бозайници. Тя си играе с животните и ги учи на различни трикове! Кликнете върху нея и я наемете.]]></item>
+    </category>
+  </category>
+</language>

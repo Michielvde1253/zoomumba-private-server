@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Töklámpás]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Kísérteties, faragott tökök, úgynevezett töklámpások világítanak a halloweeni éjszaka sötétjében. Borzalmas grimaszát még ijesztőbbé teszi a pislákoló gyertyafény. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[karácsonyfa]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[Egy karcsú fenyőfa nőtt...! Egy ünnepileg feldíszített fa, karácsonyi ajándékokkal kiegészítve.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Szív]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Sok szerencsét! Sok országban úgy tartják, hogy ha Valentin-napon megcsókolnak egy kéményseprőt, az nagy szerencsét hoz neki!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[születésnapi torta]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Nyami! Mi lenne egy születésnap kalóriadús finomság nélkül?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[születésnapi torta]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Nyami! Mi lenne egy születésnap e kalóriadús finomság nélkül?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Húsvéti tojások halom]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[Szép húsvéti tojásgyűjtemény. Régebben festett tyúktojásokat használtak. Manapság a csokoládétojások az elterjedtebbek.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Szivárványos tojás]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Húsvéti tojások, amelyeket kifejezetten látássérült gyermekek számára alakítottak át a húsvéti vadászatban való részvételhez. A tojások sípolnak vagy dallamot játszanak.]]></item>
+  </category>
+</language>

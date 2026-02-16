@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.avatar">
+    <item name="zoo.avatar.heads"><![CDATA[Creează-ți propriul avatar aici și arată-l prietenilor tăi! Ți-ai ales deja sexul? Apoi decide-ți trăsăturile faciale!]]></item>
+    <item name="zoo.avatar.eyes"><![CDATA[Ochiul este o fereastră către suflet! Care ți se potrivesc cel mai bine?]]></item>
+    <item name="zoo.avatar.mouths"><![CDATA[Zâmbind, râzând, rânjind... Gura ta le arată celorlalți cum te simți!]]></item>
+    <item name="zoo.avatar.hair"><![CDATA[Culoarea părului și coafura îți pot schimba complet aspectul!]]></item>
+    <item name="zoo.avatar.hats"><![CDATA[Accesoriile pentru cap (?) te pot face să pari important/ă!]]></item>
+    <item name="zoo.avatar.clothes"><![CDATA[Alege ținuta potrivită pentru grădina zoologică.]]></item>
+  </category>
+</language>

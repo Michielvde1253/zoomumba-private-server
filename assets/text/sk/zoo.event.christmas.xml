@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[Veselé Vianoce!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[Od 21. decembra do 2. januára sa všetko vo vašej zoo točí okolo Vianoc! Ozdobte si vianočný stromček a pomôžte mi zachrániť Vianoce!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Najprv vychovaj 8 lietajúcich sobov a potom jedného Santa Rudolfa pre jeho sane. Za každého soba, ktorého mu prinesieš, dostaneš darček.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Z času na čas vám Ježiško dá aj ozdobu na vianočný stromček. Nakoniec si budete môcť svoj ozdobený stromček nechať.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Hurá, aj tu máme špeciálnu vianočnú kolekciu! Starajte sa o svoje zvieratká a zbierajte vianočné predmety. Môžete ich použiť aj na chov sobov!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Skvelé prekvapenia vo vianočnom obchode]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Premeňte svoju zoo na farebný zimný svet: s množstvom nových a obľúbených vianočných ozdôb.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[Veselé Vianoce a príjemnú zábavu na vianočnom podujatí!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[Toto je hrozné! Santove soby utiekli a teraz nemôže doručiť darčeky! Prineste mu 8 lietajúcich sobov a Santovho Rudolfa a položte ich pred jeho sane. Ako poďakovanie dostanete skvelé darčeky!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Santa Claus je na ceste do:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Vyhrali ste:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Pozri sa na svoj vianočný stromček na parkovisku!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Získaj nový outfit pre svojho avatara!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Rýchlo, pozrite sa na svoj inventár!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Ďakujem!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Vaše soby sa už nevedia dočkať, kedy sa vydajú na cestu. Vďaka vám sú Vianoce zachránené!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Ďakujem!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Stále mi chýbajú niektoré soby, ale je čas vyraziť na cestu! Nebojte sa, ja to vyriešim – veď som Santa Claus!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[Ozdobený vianočný stromček z vášho parkoviska je teraz vo vašom inventári.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Najprv prinesieme Santovi 8 magických sobov.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Santa už má 8 lietajúcich sobov a už mu chýba len jeho Rudolf!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Vianočná výzdoba]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Vianočný strih]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Pár snežných sov]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Počet samcov magických sobov vo vašom inventári.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Počet lietajúcich sobov vo vašom inventári.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Predtým, ako prinesiete Santovi jeho Rudolfa, potrebuje najprv 8 lietajúcich sobov.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Počet mužských Santa Rudolfov vo vašom inventári.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Počet ženských Santa Rudolfov vo vašom inventári.]]></item>
+    </category>
+  </category>
+</language>

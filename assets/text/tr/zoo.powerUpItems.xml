@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.powerUpItems">
+    <item name="zoo.powerUpItems.setName.7"><![CDATA[Pati güçlendirici]]></item>
+    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[Pati güçlendirici, 5 saat boyunca %50 daha fazla Pati kazandırır. Seçildikten hemen sonra aktifleşir.]]></item>
+  </category>
+</language>

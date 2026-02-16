@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA["İyi Başlangıç" süper gıda paketi]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Bu paket 40 adet Süper Gıda ve 5 Paws içerir. Bu sayede besleme sırasında 40 kat daha fazla BZ elde edersiniz ve kafeslerinizin güzelleşmesinde ilerleme kaydedersiniz!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA["Master" süper gıda paketi]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Bu paket 125 adet Süper Gıda ve 20 adet Pati içerir. Bu size 125 kat çift BZ sağlayacak ve kafeslerinizi güzelleştirme yolunda ilerlemenizi sağlayacaktır!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA["Uzman" süper gıda paketi]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Bu paket 350 adet süper gıda ve 30 adet pati içeriyor, ayrıca 5 arkadaşınız için 5 adet 5 adet süper gıda içeren hediye de bulunuyor. Böylece onlar da bu paketten faydalanabilirler!]]></item>
+    </category>
+  </category>
+</language>

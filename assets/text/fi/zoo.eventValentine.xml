@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Tervetuloa ystävänpäivätapahtumaamme! Luvassa on romanttinen tunnelma 8.–15. helmikuuta! Pidä hauskaa ystävänpäiväpelissämme ja odota upeita palkintoja!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Katso, miten se tehdään:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Pidä huolta eläimistäsi ja kerää ystävänpäivälahjoja: sydämiä, rakkausviestejä ja Amorin jousi ja nuolet. Käytä niitä voittaaksesi ihastuttavia yllätyksiä romanttisessa ystävänpäiväpelissä!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Keräämiesi esineiden avulla voit liikkua pelikentällä ja kerätä palkintoja: majesteettiset peurat sekä Tolija-esanssin ja kasvujuomien tarvikkeet odottavat sinua!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Tutustu myös kauppaan – löydät sieltä hyödyllisiä boostereita, jotka takaavat entistä suuremman menestyksen ja hauskuuden pelissä!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Tuplaa ystävänpäivätuotteiden määrän yhdeksi tunniksi.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Käynnistä lautapeli uudelleen]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Ystävänpäivätapahtumamme on melkein ohi! Et saa enää rusetteja, kirjeitä tai sydämiä. Mutta älä luovuta! Sinulla on vielä näin paljon aikaa voittaa ystävänpäiväpalkintoja:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Nyt kun olet voittanut hirven ja naaraspuolisen palkinnon, voit aloittaa lautapelin alusta! Klikkaa vain vihreää valintamerkkiä tai uutta painiketta pelilaudalla!]]></item>
+    </category>
+  </category>
+</language>

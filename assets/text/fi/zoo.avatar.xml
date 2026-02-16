@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.avatar">
+    <item name="zoo.avatar.heads"><![CDATA[Luo oma avatarisi täällä ja esittele sitä ystävillesi! Oletko jo valinnut sukupuolesi? Päätä sitten kasvonpiirteesi!]]></item>
+    <item name="zoo.avatar.eyes"><![CDATA[Silmä on sielun peili! Mitkä sopivat sinulle parhaiten?]]></item>
+    <item name="zoo.avatar.mouths"><![CDATA[Hymyile, nauraa, virnistää... Suusi näyttää muille, miltä sinusta tuntuu!]]></item>
+    <item name="zoo.avatar.hair"><![CDATA[Hiusten väri ja kampaus voivat muuttaa ulkonäköäsi täysin!]]></item>
+    <item name="zoo.avatar.hats"><![CDATA[Päähine (?) voi saada sinut näyttämään tärkeältä!]]></item>
+    <item name="zoo.avatar.clothes"><![CDATA[Valitse eläintarhaan sopiva asu.]]></item>
+  </category>
+</language>

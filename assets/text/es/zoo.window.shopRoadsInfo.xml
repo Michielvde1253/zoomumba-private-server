@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Camino de grava]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Este sendero de grava conecta los recintos de su zoológico. Una red de senderos de calidad ayuda a sus visitantes a orientarse y los conduce a todos los recintos.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Acera azul y blanca]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Este camino empedrado azul y blanco no solo luce genial, sino que también es una superficie ideal para cochecitos, patinetes y patines. ¡Movimiento fluido y diversión de calidad, eso es genial!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Camino de arena]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[En la estepa rara vez hay carreteras pavimentadas. ¡Quieres que tu zoológico se parezca a la naturaleza!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Acera rosa y blanca]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Qué bonito: Este camino de piedra, hecho de preciosos mosaicos rosas, es realmente especial. La pasarela perfecta para quienes llevan tacones.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Acera en blanco y negro]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Piedras preciosas blancas y negras en forma de mosaico adornan este camino con gran belleza. Trabajadas con sumo cuidado, se convierten en una joya de su zoológico.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[El camino rocoso]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Al igual que en la naturaleza, pequeños mechones de hierba crecen entre las piedras. No apto para pedantes, pero los amantes de la naturaleza sin duda lo disfrutarán.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Camino de guijarros]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Este camino de grava se ve bonito y seguro que nadie se resbalará. Seguro y bonito, ¿qué más se puede pedir?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Camino de tierra]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[Los senderos de tierra son populares en África. Aportan autenticidad a tu zoológico y harán que muchos animales se sientan como en casa.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Camino acuático]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[¡Chapoteo, chapoteo, chapoteo! Ponte las botas de goma, infla tu bote inflable y coge un patito de goma. ¡Habrá mucha agua en este viaje!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Carretera de hielo]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[¡Genial! ¡Un camino de hielo! ¡Qué divertido! Tus visitantes se divertirán deslizándose por el camino helado. ¡Cuidado, no tiene sal!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Savannah Road]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[Un sendero muy transitado serpentea a través de la sabana, lo que lo hace ideal para buscar huellas como en un safari.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Camino del desierto]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Bajo el calor abrasador del sol, la arena sopla a través del desierto, borrando cualquier rastro.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Camino de piedra]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Este camino es bastante accidentado. Hay piedras grandes y rocas, así que es imprescindible llevar buen calzado. ¡Ten cuidado de no caerte!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Sendero de la tundra]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[Sus visitantes necesitarán una brújula en este sendero, pero también es aconsejable seguir el camino habitual.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Camino nevado]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[Nieve pegajosa cubre el sendero, por el que tus visitantes caminarán con sus botas abrigadas. ¡Todo es tan hermoso aquí!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Sendero del desierto]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[En la naturaleza, es mejor no salirse del camino. Hay toxinas y desechos por todas partes. ¡Es imprescindible llevar botas de goma con buena suela!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Ruta alpina]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Esta ruta de senderismo te llevará por los Alpes. ¡Usar un buen calzado con buen soporte en el tobillo te protegerá de resbalones!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Camino de la cueva]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Mantén los ojos bien abiertos para no resbalar. Quizás veas un grano brillante de oro entre las piedras.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Camino forestal]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[En los días de lluvia este camino puede estar un poco embarrado, pero en verano el bosque es absolutamente idílico.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Carretera costera]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Caminar descalzo sobre arena brillante, conchas, algas y ocasionalmente algunas estrellas de mar ¡es muy beneficioso para la salud!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Sendero mágico]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[El sendero azul brillante, de otro mundo, puede parecer aterrador, pero también es aventurero. ¿Adónde conduce?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Sendero Sugar Land]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[¡Miga! ¡Uy! ¿Pisaste un caramelo? ¡Cuidado, hay chicles en camino! ¡Qué bonito y colorido es todo!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Sendero del bosque de bambú]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[La niebla se extiende por un vasto y casi impenetrable bosque de bambú. Se oye el canto de un pájaro carpintero a lo lejos. ¡Simplemente idílico!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Sendero forestal]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Si no quieres columpiarte de liana en liana en esta jungla, puedes caminar por este sendero bien transitado. Ten cuidado: de vez en cuando, una serpiente o una araña pueden cruzar el camino.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[El camino a través del pantano]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[Tus visitantes deben recordar mantenerse en el camino correcto en el pantano. ¡Un paso en falso y caerán en el lodo!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Plataforma de madera]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[No hay nada mejor que caminar por un muelle de madera y escuchar el crujido de la cubierta de un barco. Sus visitantes vivirán una auténtica experiencia costera.]]></item>
+  </category>
+</language>

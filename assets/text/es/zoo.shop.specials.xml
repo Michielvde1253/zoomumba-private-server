@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Refuerzo 30% EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[¡Con el potenciador del 30% obtendrás un 30% más de BZ durante 1 hora! Si compras dos potenciadores iguales, el tiempo se extenderá. Consejo: Un potenciador del 30% de BZ y otro del 100% de BZ son válidos simultáneamente y te recompensarán con un 130% más de BZ durante toda la hora.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[100% de refuerzo EP]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[Con el potenciador 100% BZ, ¡obtienes un 100% más de BZ durante toda la hora! Si compras dos potenciadores iguales, el tiempo se extenderá. Consejo: un potenciador 100% BZ y otro 30% BZ son válidos al mismo tiempo, ¡así que obtienes un 130% más de BZ durante toda la hora!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[Refuerzo para patas del 30%]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[Con el Potenciador de Patas del 30%, ¡obtienes un 30% más de Patas durante toda la hora! Si compras dos potenciadores iguales, el tiempo se extenderá. Consejo: un Potenciador de Patas del 30% y uno del 100% son válidos simultáneamente, ¡así que obtienes un 130% más de Patas durante toda la hora!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[Refuerzo para patas al 100%]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[Con el Potenciador de Patas 100%, ¡obtienes un 100% más de Patas durante toda la hora! Si compras dos potenciadores iguales, la duración se extenderá. Consejo: un Potenciador de Patas 100% y uno del 30% son válidos simultáneamente, ¡así que obtienes un 130% más de Patas durante toda la hora!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Refuerzo de juego de mesa]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[Con el sobre de juego de mesa, ¡obtendrás el doble de coleccionables que saldrán de los compartimentos durante 1 hora! Si quieres prolongar este tiempo, compra más sobres.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[30% de refuerzo de zoocoin]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[Con un potenciador del 30%, ¡obtendrás un 30% de zoogros extra en tus tiendas durante 1 hora! Si compras dos potenciadores iguales, el tiempo se extenderá. Consejo: Un potenciador del 30% y otro del 100% son válidos simultáneamente y te recompensarán con un 130% de zoogros extra durante toda la hora.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[Potenciador de zoocoin del 100%]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[Con un potenciador del 100%, ¡obtendrás un 100% de zoogros extra en tus tiendas durante 1 hora! Si compras dos potenciadores iguales, el tiempo se extenderá. Consejo: Un potenciador del 100% y otro del 30% son válidos simultáneamente y te recompensarán con un 130% de zoogros extra durante toda la hora.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Refuerzo de la estación de cría]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[¡Híbridos raros fáciles de conseguir! El potenciador de la estación de cría garantizará que tus crías alcancen al menos un nivel superior al nivel más bajo de uno de sus progenitores en 24 horas. Pero cuidado: el potenciador solo funciona si recoges a la cría en la estación de cría.]]></item>
+    </category>
+  </category>
+</language>

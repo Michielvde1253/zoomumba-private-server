@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Olá! Eu sou a Lucka e adoro morcegos! Mas principalmente seus filhotes fofinhos. Traga-me o máximo de filhotes que puder e eu terei alguns itens de Halloween bem legais para você. É só trocar os doces pelos itens da esquerda ou os azedos pelos itens da direita.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Inventário]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Escolha quantos filhotes da espécie %species% você deseja adicionar ao seu inventário.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Pedimos desculpas!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Infelizmente, você não tem morcegos bebês suficientes no seu inventário. Crie morcegos bebês e transfira-os para o seu inventário para comprar este item.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Morcegos pequenos em estoque]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Troque morcegos pequenos por doces.]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Troque os morcegos pequenos pelos azedos.]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Número: Doce]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Invista %x% em doces para desbloquear este item.]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Invista %x% de azedo para desbloquear este item.]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Número: Azedo]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Ajuda]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Mova os filhotes de morcego para o inventário.]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Bem-vindo ao evento de Halloween!<br>De <b>25 de outubro a <b>1º de novembro</b>, uma festa assustadoramente divertida começa no seu zoológico! Muitos presentes e surpresas esperam por você. No próximo passo, você verá como tudo vai funcionar.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Colete o máximo de doces e azedos que puder! Você precisa deles para ativar os trailers fantasmas! Você descobrirá como tudo funciona na próxima página.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Se você tiver doce e azedo suficiente, poderá usá-los para ativar <b>itens</b>. Mas tenha cuidado: os doces farão você olhar com o olho para a esquerda, os azedos para a direita. O olho mostrará em qual lado os itens estão ativados.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Você pode obter itens ativados trocando-os por <b>morceguinhos</b>. Crie muitos morceguinhos fofos. Um novo botão no menu do recinto ajudará você a salvar os filhotes no seu inventário de forma rápida e fácil.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Divirta-se na loja assustadora!<br> Para os mais impacientes: doces e azedos podem ser trocados por morceguinhos na loja. Mais surpresas esperam por você na loja.<br> <br>Divirta-se no Halloween deste ano!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[Chegou a hora da diversão assustadora!<br>De <b>31 de outubro a <b>6 de novembro</b>, haverá uma festa de Halloween no seu zoológico!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Colete o máximo de abóboras que puder! Elas vão brotar dos recintos conforme você cuida dos seus animais.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Adicione-as à cesta de abóboras gigantes para a nossa <b>Batalha das Abóboras</b>. Quanto mais abóboras você entregar, mais assustadoras serão as recompensas que você poderá ganhar.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Ao cuidar dos seus animais, guloseimas aparecerão nos recintos. Vocês podem coletá-las juntos. A barra de ação se encherá e um olho flutuante mostrará quais prêmios assustadores estão disponíveis para todos. Clique na recompensa assim que ela for ativada.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Colete abóboras para a grande batalha das abóboras. Quanto mais você coletar, mais prêmios poderá ganhar.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Todos jogam juntos! Os itens de todos os zoológicos vão encher a barra e desbloquear prêmios automaticamente para todos!]]></item>
+    </category>
+  </category>
+</language>

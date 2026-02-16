@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bank">
+    <item name="zoo.window.bank.title"><![CDATA[Ζωολογική τράπεζα]]></item>
+    <item name="zoo.window.bank.info"><![CDATA[Όσοι τα καταφέρνουν καλά θα ευημερήσουν! Αγοράστε πολύτιμα ζωο-δολλάρια στην τράπεζα του ζωολογικού κήπου ή επωφεληθείτε από τις ελκυστικές Premium προσφορές μας!]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.title"><![CDATA[Αγοράστε<br>ζωοδολάρια]]></item>
+    <item name="zoo.window.bank.button.buyzoodollar.info"><![CDATA[Σας τελειώνει το νόμισμα του παιχνιδιού; Αυτό μπορεί να συμβεί! Όσοι θέλουν να πετύχουν πρέπει να επενδύσουν!]]></item>
+    <item name="zoo.window.bank.button.premium.title"><![CDATA[Premium πακέτο]]></item>
+    <item name="zoo.window.bank.button.premium.info"><![CDATA[Χρησιμοποιήστε τα προνόμια Premium για να προσελκύσετε περισσότερους επισκέπτες στον ζωολογικό σας κήπο. Δοκιμάστε το!]]></item>
+    <item name="zoo.window.bank.button.startpaket.title"><![CDATA[Βοηθοί]]></item>
+    <item name="zoo.window.bank.button.startpaket.info"><![CDATA[Δεν θέλετε να κάνετε τα πάντα μόνοι σας; Κανένα πρόβλημα! Οι βοηθοί του ζωολογικού κήπου θα σας βοηθήσουν!]]></item>
+    <item name="zoo.window.bank.button.cashaction.title"><![CDATA[Μετρητά για<br>Δράση]]></item>
+    <item name="zoo.window.bank.button.cashaction.info"><![CDATA[Χρειάζεστε οικονομική ενίσχυση; Εδώ θα βρείτε εξαιρετικές προσφορές! Επιλέξτε έναν πάροχο και κερδίστε zoodollars!]]></item>
+    <item name="zoo.window.bank.currency.title"><![CDATA[Γραφείο συναλλάγματος]]></item>
+    <item name="zoo.window.bank.currency.info"><![CDATA[Ανταλλάξτε τα ζωο-δολάριά σας με ζωο-γρόσια και δημιουργήστε αρκετά αποθεματικά στον λογαριασμό σας.]]></item>
+    <item name="zoo.window.bank.exchange.btnLabel"><![CDATA[Ανταλλαγή]]></item>
+  </category>
+</language>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Üdvözlünk Valentin-napi eseményünkön! Február 8. és 15. között romantikus hangulat uralkodik! Jó szórakozást Valentin-napi játékunkkal, és rengeteg nagyszerű nyereményre számíthatsz!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Nézd meg, hogyan kell csinálni:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Gondoskodj az állataidról és gyűjts Valentin-napi tárgyakat: szíveket, szerelmes üzeneteket és Ámor íját és nyilait. Használd őket, hogy imádnivaló meglepetéseket nyerj a romantikus Valentin-napi játék során!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[A begyűjtött tárgyakkal mozoghatsz a játéktéren és díjakat gyűjthetsz: Fenséges szarvasok, Tolija esszencia és növekedési főzetek várnak rád!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Nézd meg a boltot is - hasznos boostereket találsz ott, amelyek még nagyobb sikert és szórakozást biztosítanak a játékban!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Megduplázza a Valentin-napi ajándékok számát 1 órán keresztül.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Indítsd újra a társasjátékot]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[A Valentin-napi eseményünk hamarosan véget ér! Nem fogsz több masnit, levelet vagy szívet kapni. De ne add fel! Még ennyi időd van Valentin-napi jutalmak megnyerésére:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Most, hogy megnyerted a szarvast és a sutát, újrakezdheted a társasjátékot! Egyszerűen kattints a zöld pipára vagy az új gombra a játéktáblán!]]></item>
+    </category>
+  </category>
+</language>

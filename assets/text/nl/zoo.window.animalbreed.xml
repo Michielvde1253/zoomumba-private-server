@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.animalbreed">
+    <item name="zoo.window.animalbreed.title"><![CDATA[Veeteelt]]></item>
+    <item name="zoo.window.animalbreed.info"><![CDATA[Fok schattige baby's! Met een beetje geluk verwelkomt je dierentuin nieuwe bewoners.]]></item>
+    <item name="zoo.window.animalbreed.breedtitle"><![CDATA[Standaard reproductie]]></item>
+    <item name="zoo.window.animalbreed.breedinfo"><![CDATA[Mogelijke nakomelingen voor:]]></item>
+    <item name="zoo.window.animalbreed.button.startbreeding"><![CDATA[Begin]]></item>
+    <item name="zoo.window.animalbreed.babytitle"><![CDATA[Adoptie]]></item>
+    <item name="zoo.window.animalbreed.babyinfo"><![CDATA[Schaf direct een baby aan:]]></item>
+    <item name="zoo.window.animalbreed.button.buydirectly"><![CDATA[Nu kopen]]></item>
+    <item name="zoo.window.animalbreed.button.breedstart"><![CDATA[Begin]]></item>
+    <item name="zoo.window.animalbreed.success.title"><![CDATA[Jong]]></item>
+    <item name="zoo.window.animalbreed.success.info"><![CDATA[Hoera!<br>Gefeliciteerd! Je dierentuin heeft een schattige nieuwe aanwinst!]]></item>
+    <item name="zoo.window.animalbreed.failed.title"><![CDATA[Geen verhoging]]></item>
+    <item name="zoo.window.animalbreed.failed.info"><![CDATA[Jammer, deze keer moet je wachten op de nieuwe toevoeging.<br><br>Wil je het nog eens proberen?<br><br>Veel succes!]]></item>
+  </category>
+</language>

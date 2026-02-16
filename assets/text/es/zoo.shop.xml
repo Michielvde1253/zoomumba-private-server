@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop">
+    <category name="zoo.shop.category">
+      <item name="zoo.shop.category.animals"><![CDATA[Animales]]></item>
+      <item name="zoo.shop.category.cages"><![CDATA[Hábitats]]></item>
+      <item name="zoo.shop.category.stores"><![CDATA[Edificios]]></item>
+      <item name="zoo.shop.category.deco"><![CDATA[Decoraciones]]></item>
+      <item name="zoo.shop.category.resources"><![CDATA[Alimentar]]></item>
+      <item name="zoo.shop.category.assistants"><![CDATA[Asistentes]]></item>
+      <item name="zoo.shop.category.specials"><![CDATA[Accesorios]]></item>
+      <item name="zoo.shop.category.roads"><![CDATA[Carreteras]]></item>
+      <item name="zoo.shop.category.material"><![CDATA[Material]]></item>
+    </category>
+    <category name="zoo.shop.tabbar">
+      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Así es como se llega al taller.]]></item>
+    </category>
+  </category>
+</language>
