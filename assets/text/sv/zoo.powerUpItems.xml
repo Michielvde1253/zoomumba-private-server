@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.powerUpItems">
+    <item name="zoo.powerUpItems.setName.7"><![CDATA[Tassbooster]]></item>
+    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[Tassboosten ger dig 50 % fler tassar i 5 timmar. Den aktiveras omedelbart efter val.]]></item>
+  </category>
+</language>

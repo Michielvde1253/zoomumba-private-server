@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.infoLayers">
+    <category name="zoo.window.infoLayers.forgottenZoo">
+      <item name="zoo.window.infoLayers.forgottenZoo.title"><![CDATA[Dold djurpark]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.info"><![CDATA[Grattis! Med den tredje expansionen ligger kungariket Hidden Zoo nu vid dina fötter! Pilen på parkeringen leder dig till Hidden Zoo.]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.expansion"><![CDATA[Under en begränsad tid kan du utöka ditt hemliga zoo till dess maximala storlek med ett enda köp! Gå till ditt hemliga zoo, öppna butiken och klicka på "Tillägg". Du hittar erbjudandet här!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemreward">
+      <item name="zoo.window.infoLayers.itemreward.recycling.title"><![CDATA[Återvinningen lyckades!]]></item>
+      <item name="zoo.window.infoLayers.itemreward.recycling.info"><![CDATA[Toppen, det var värt det! Du återvann dessa material från soporna. Du hittar dem i ditt inventarium.]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.title"><![CDATA[Överraskningslåda]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.info"><![CDATA[Hurra! Din överraskningslåda har fyllts med ovanstående material, som du kan använda för vidare bearbetning. Du hittar dem i ditt inventarium.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedingLabNursery">
+      <item name="zoo.window.infoLayers.breedingLabNursery.info"><![CDATA[Föd upp nya djurarter! Avelsstationen och djurhemmet är nu tillgängliga! Klicka på den blå elefanten: Du hittar byggnaderna i kontrollcentret.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterNotification">
+      <item name="zoo.window.infoLayers.easterNotification.title"><![CDATA[Påskshopping]]></item>
+      <item name="zoo.window.infoLayers.easterNotification.text"><![CDATA[Den köpta varan har sparats i ditt lager.<br><br>Vill du öppna ditt lager nu?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterComic">
+      <item name="zoo.window.infoLayers.easterComic.layer1.bubble"><![CDATA[Välkommen till påskäventet! Från <b>21 till 27 april</b> kommer påskharen att dela ut ägg. Samla dem, fina belöningar väntar dig. Klicka på pilen för att läsa mer.]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer2.content"><![CDATA[Fina påskdekorationer ger dig 50 % mer BZ för alla evenemang i inhägnaderna i 7 dagar. Ta bilder av ditt påskdjurpark och dela dem med dina vänner på Facebook eller i forumet!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.header"><![CDATA[Nu ska vi leta efter påskägg!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.content"><![CDATA[De söta påskhopparna kommer att locka många kunder. Och det bästa av allt? De kommer att stanna kvar i din djurpark även efter påsk – som det anstår en riktig attraktion!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer4.content"><![CDATA[Påskhägnet är alltid en sevärdhet, oavsett vilka djur som bor i det. Påskhägn ger dig 20 % mer BZ redan från början!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.bubble"><![CDATA[Påskharen delar ut ägg regelbundet. Men när det finns fler än 5 ägg i ditt zoo är äggläggningen över. Tips: Om du vill se till att du samlar alla ägg varje gång, fråga din påskhjälpare, Sonia, om råd!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.content"><![CDATA[Räcker det inte med en kanin? Då finns det fler påskharar som väntar på dig i butikens accessoaravdelning. Ta bara en titt!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Notification">
+      <item name="zoo.window.infoLayers.easter2012Notification.title"><![CDATA[Påskshopping]]></item>
+      <item name="zoo.window.infoLayers.easter2012Notification.text"><![CDATA[Den köpta varan har sparats i ditt lager.<br><br>Vill du öppna ditt lager nu?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Comic">
+      <item name="zoo.window.infoLayers.easter2012Comic.layer1.bubble"><![CDATA[Fira påsk på din djurpark! Påskäggjakten äger rum från 5 till 11 april! Delta i denna påskfest och vinn fina priser och överraskningar! Så här gör du:]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer2.content"><![CDATA[Ta hand om dina djur och hitta alla färgglada ägg i dina inhägnader. Samla och lägg tillbaka äggen på påskspelplanen.<br><br>Obs: antalet ägg i dina fält fördubblas varje runda!]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer3.content"><![CDATA[Släpp påskäggen på motsvarande spelplan. Vi har röda, gröna och blå fält. Fantastiska påskbelöningar och söta djur väntar på dig!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.fullScreen">
+      <item name="zoo.window.infoLayers.fullScreen.keyboard"><![CDATA[Vill du avsluta förhandsgranskningen i helskärm så att du kan skriva igen?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventUpgrade">
+      <item name="zoo.window.infoLayers.eventUpgrade"><![CDATA[Ge dina inhägnader ett ännu mer distinkt födelsedagsutseende så får du 125 % BZ och större chans att få ballonger under födelsedagsevenemanget!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolbar">
+      <item name="zoo.window.infoLayers.toolbar.title"><![CDATA[Bonus]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info1"><![CDATA[Toppen! Du fick en bonus i verktygsfältet för att du loggade in:]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info2"><![CDATA[Logga in igen imorgon med hjälp av verktygsfältet och få ytterligare en bonus!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemInInventory">
+      <item name="zoo.window.infoLayers.itemInInventory.title"><![CDATA[Grattis!]]></item>
+      <item name="zoo.window.infoLayers.itemInInventory.text"><![CDATA[Du har köpt följande vara till ditt lager:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.animalInInventory">
+      <item name="zoo.window.infoLayers.animalInInventory.text"><![CDATA[Följande djur har lagts till i ditt inventarium:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemRedeemed">
+      <item name="zoo.window.infoLayers.itemRedeemed.title"><![CDATA[Grattis!]]></item>
+      <item name="zoo.window.infoLayers.itemRedeemed.success"><![CDATA[Din belöning har krediterats.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.action.sorry">
+      <item name="zoo.window.infoLayers.action.sorry.title"><![CDATA[Vi ber om ursäkt!]]></item>
+      <item name="zoo.window.infoLayers.action.sorry.text"><![CDATA[Vi beklagar, men det här evenemanget är för närvarande inte tillgängligt.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.purchaseConfirmed">
+      <item name="zoo.window.infoLayers.purchaseConfirmed.title"><![CDATA[Grattis!]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.simple"><![CDATA[Köpet krediterades.]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.gift"><![CDATA[Ditt köp har krediterats och dina presenter har skickats.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.welcomeBack">
+      <item name="zoo.window.infoLayers.welcomeBack.title"><![CDATA[Välkommen tillbaka!]]></item>
+      <item name="zoo.window.infoLayers.welcomeBack.text"><![CDATA[Djuren är överlyckliga över att se dig igen.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedInInventory">
+      <item name="zoo.window.infoLayers.breedInInventory.title"><![CDATA[Uppmärksamhet!]]></item>
+      <item name="zoo.window.infoLayers.breedInInventory.text"><![CDATA[Avel pågår för närvarande här.<br> <br>Om du flyttar hägnet till inventariet kommer avelsprocessen att avbrytas.<br> <br>Vill du verkligen fortsätta?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.collectables">
+      <item name="zoo.window.infoLayers.collectables.firstFinish.title"><![CDATA[Grattis!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.text"><![CDATA[Jippie! Du hittade alla delar av %collection% för första gången!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.button.socialShare"><![CDATA[Visa vänner]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.title"><![CDATA[Grattis!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.text"><![CDATA[Du har slutfört %collection% för andra gången!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.button.getGift"><![CDATA[Använda]]></item>
+      <item name="zoo.window.infoLayers.collectables.button.viewCollection"><![CDATA[Visa samling]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.adamPenguin">
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.title"><![CDATA[Topppaket "Black Panther"]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.text"><![CDATA[Nu och här och endast tillgängligt en gång. "Black Panther" finns här exklusivt för dig. Och något extra som alla medhjälpare gratis i 24 timmar!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.title"><![CDATA[Paketet "Vit tiger"]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.text"><![CDATA[Engångserbjudande - "kombinationspaket" för en bra start! Din utrustning för starten för ett fantastiskt erbjudande!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.title"><![CDATA["Terrarium"-paket]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.text"><![CDATA[Engångserbjudande - "kombinationspaket" för en bra start! Din utrustning för starten för ett fantastiskt erbjudande!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.title"><![CDATA["Prärie"-paketet]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.text"><![CDATA[Engångserbjudande - "kombinationspaket" för en bra start! Din utrustning för starten för ett fantastiskt erbjudande!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.title"><![CDATA[Lojalitetsbonus]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.text"><![CDATA[Endast tillgängligt här: ett Zoodollars-paket med din personliga lojalitetsbonus! Klicka på "köp" och få fler bonusar.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.payment">
+      <item name="zoo.window.infoLayers.payment.happyHourHeader"><![CDATA[Zoodollars plus %procent%%!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBody"><![CDATA[Nu kommer din önskan att gå i uppfyllelse!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_1"><![CDATA[Få extra zoodollars idag!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_2"><![CDATA[Köp till exempel 100 zoodollars och få totalt %extradollar% zoodollars!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_3"><![CDATA[Gäller alla betalningsmetoder förutom överföring.]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourFin"><![CDATA[Tveka inte! Erbjudandet gäller fortfarande:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.conversionPack">
+      <item name="zoo.window.infoLayers.conversionPack_header"><![CDATA[Exklusivt - endast %priceCurrency%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_save"><![CDATA[Spara %besparingar%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_footer"><![CDATA[Och mycket mer...]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_infoHeader"><![CDATA[Tveka inte och spara %savings%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info1"><![CDATA[<ul><li>1 par honhundar</li><li>1x savannhägn</li><li>1 svandamm</li><li>15x superfood</li><li>15x bästa maten</li><li>10x supermedicin</li><li>75 zoodollars</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info2"><![CDATA[<ul><li>1 par lodjur</li><li>alla 6 assistenter i 24 timmar</li><li>1 stenhölje</li><li>1 dodo-fågelstaty</li><li>25x superfood</li><li>25x bästa maten</li><li>25x supermedicin</li><li>150 zoodollars</li></li>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info3"><![CDATA[<ul><li>1 par vita tigrar</li><li>alla 6 assistenter i 24 timmar</li><li>1 tundrahölje</li><li>1 björn frihetsgudinnan</li><li>40x supermat</li><li>35x bästa maten</li><li>30x supermedicin</li><li>200 zooullar>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.paymentBug">
+      <item name="zoo.window.infoLayers.paymentBug.title"><![CDATA[Kära spelare]]></item>
+      <item name="zoo.window.infoLayers.paymentBug.info"><![CDATA[På grund av ett fel har du fått för många föremål i ditt paket. Tyvärr måste vi ta bort dessa föremål eftersom det inte vore rättvist mot spelare som köpte samma paket. Vi har gett dig 500 tassar som kompensation för detta missförstånd.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventPack">
+      <item name="zoo.window.infoLayers.eventPack_header"><![CDATA[Skaffa en unik julkorg!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title1"><![CDATA[Vill du att ditt julevenemang ska gå snabbare? Skaffa en liten julkorg som bara kan köpas en gång!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info1"><![CDATA[<ul><li>10x kanderade äpplen</li><li>3x Tolia Essence</li><li>3x Growth Potion</li><li>5x Superfood</li><li>5x bästa maten</li><li>25 Zoodollars</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title2"><![CDATA[Vill du att ditt julevenemang ska gå snabbare? Skaffa en stor julkorg som bara kan köpas en gång!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info2"><![CDATA[<ul><li>60x kanderade äpplen</li><li>alla 7 hjälparna i 24 timmar</li><li>20x tolija essence</li><li>20x tillväxtdryck</li><li>20x superfood</li><li>20x bästa maten</li><li>50 zoodollars</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.cinema">
+      <item name="zoo.window.infoLayers.cinema.limit"><![CDATA[Tyvärr har du inga biobiljetter längre.]]></item>
+      <item name="zoo.window.infoLayers.cinema.success1"><![CDATA[Jippie! Här är din belöning för att du tittade på filmen:]]></item>
+      <item name="zoo.window.infoLayers.cinema.success2"><![CDATA[Krediten kommer att tillämpas inom den närmaste timmen.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012">
+      <item name="zoo.window.infoLayers.easter2012.limit"><![CDATA[Du har inte tillräckligt med påskägg.]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success1"><![CDATA[Jippie! Du har fått följande belöning:]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success2"><![CDATA[Lycka till med att hitta äggen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.avatar">
+      <item name="zoo.window.infoLayers.avatar.Check"><![CDATA[Din avatar har sparats.]]></item>
+      <item name="zoo.window.infoLayers.avatar.X"><![CDATA[Är du säker på att du vill stänga det här fönstret? Din avatar har inte sparats än!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.saveAssets">
+      <item name="zoo.window.infoLayers.saveAssets.text1"><![CDATA[Vill du att ditt spel ska laddas snabbare? ZooMumba är väldigt grafikintensivt. Om du vill kan vi spara bilderna direkt på din hårddisk. På så sätt laddas spelet mycket snabbare!]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text2"><![CDATA[För att aktivera dessa ändringar klickar du bara på "Tillåt" nästa gång fönstret dyker upp. Annars kommer speldata att fortsätta lagras i webbläsarens cache.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text3"><![CDATA[Om du bestämmer dig för något annat, öppna helt enkelt ZooMumbas inställningar och aktivera eller inaktivera cachning.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.yes"><![CDATA[Ja, spara på hårddisk (rekommenderas)]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.no"><![CDATA[Nej, fortsätt använda webbläsarens cache]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.doublexp">
+      <item name="zoo.window.infoLayers.doublexp.allitems"><![CDATA[Gå snabbare i nivå! Få dubbelt så mycket BZ för aktiviteter i hagarna!]]></item>
+      <item name="zoo.window.infoLayers.doublexp.specialitems"><![CDATA[Samla extra erfarenhetspoäng! Dessa djur ger dig en dubbel dos BZ:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.specialShopItem">
+      <item name="zoo.window.infoLayers.specialShopItem.title"><![CDATA[Supererbjudande: Endast under en kort tid!]]></item>
+      <item name="zoo.window.infoLayers.specialShopItem.infotext"><![CDATA[Idag är en speciell dag för speciella djur: Vi firar deras födelsedagar! Endast tillgängligt i butiken under en kort tid:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012">
+      <item name="zoo.window.infoLayers.frog2012.limit"><![CDATA[Tyvärr saknar du bonusföremål. Ge inte upp!]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success1"><![CDATA[Knack! Du har vunnit en fantastisk belöning:]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success2"><![CDATA[Hitta ännu fler föremål! Lycka till!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Notification">
+      <item name="zoo.window.infoLayers.frog2012Notification.title"><![CDATA[Köpa samlarobjekt]]></item>
+      <item name="zoo.window.infoLayers.frog2012Notification.text"><![CDATA[Den köpta varan finns nu i ditt zoo-lager. Vill du öppna ett lager?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Comic">
+      <item name="zoo.window.infoLayers.frog2012Comic.layer1.bubble"><![CDATA[Från 17 till 23 maj kommer ditt zoo att vara en saga. Massor av skoj och fina priser väntar dig under Royal Frog Event!</br></br>I följande steg visar vi dig hur:]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer2.content"><![CDATA[Ta väl hand om dina djur och samla speciella bonusföremål: en krönt groda, fenor eller en krona. Byt sedan in dem i grodspelplanen mot fina priser.]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer3.content"><![CDATA[Du kan spela så många rundor du vill. Du kommer att behöva fler och fler föremål, men priserna kommer att bli mer och mer fantastiska! Snart kommer Grodkungen att kväka i din zoo också!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australien2012Comic">
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Sol, surf och pungdjur – från 25 juni till 3 juli kan du ha kul i din zoo i australisk stil! Missa inte chansen och vinn fantastiska australiska priser! </br></br>I följande steg visar vi dig hur:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Ta väl hand om dina djur och samla speciella bonusföremål: en surfbräda, röd sten eller solskyddsmedel. Byt sedan in dem mot fantastiska överraskningar på den australiska spelplanen.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Du kan spela så många rundor du vill. Ju fler föremål du samlar, desto mer magiska blir dina vinster! Förvandla ditt zoo till ett litet Australien!]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Sol, surf och pungdjur – från 25 juni till 3 juli kan du ha kul i din zoo i australisk stil! Missa inte chansen och vinn fantastiska australiska priser! </br></br>I följande steg visar vi dig hur:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Ta väl hand om dina djur och samla speciella bonusföremål: en surfbräda, röd sten eller solskyddsmedel. Byt sedan in dem mot fantastiska överraskningar på den australiska spelplanen.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Du kan spela så många rundor du vill. Ju fler föremål du samlar, desto mer magiska blir dina vinster! Förvandla ditt zoo till ett litet Australien!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.indien2012Comic">
+      <item name="zoo.window.infoLayers.indien2012Comic.layer1.bubble"><![CDATA[Hallå, hallå! Vill du ha lite kul mellan 19 och 26 juli? Låt mig berätta något om det här evenemanget:]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer2.content"><![CDATA[När du tar hand om dina djur, se upp för speciella föremål som dyker upp: hennatatueringar, cricketträn och Taj Mahal. Samla dem och byt in dem mot coola belöningar på djurparken!]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Ju fler föremål du samlar, desto bättre belöningar. Indien är här!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.anniversary2012Comic">
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.bubble"><![CDATA[Grattis på födelsedagen! Fira ZooMumbas andra årsdag med oss!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.content"><![CDATA[Samla så många horn, partyhattar och champagneflöjter som möjligt till våra partylekar. Du kan vinna en partybur med massor av partyprylar!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer2.content"><![CDATA[Vad vore en fest utan ballonger? Ta hand om dina djur, samla ballonger och byt ut dem på spelplanen mot galna festöverraskningar.]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer3.content"><![CDATA[Du kan upprepa de enskilda spelrundorna så många gånger du vill. Du kommer att behöva fler och fler föremål som dyker upp vid skörd, men belöningarna blir bättre och bättre. Hipp, hipp, hurra! Ära till alla zoodirektörer!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.oktoberfest2012Comic">
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer1.bubble"><![CDATA[Låt festen börja! Oktoberfest är här - kom och fira i bayersk stil!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer2.content"><![CDATA[Från 1 till 7 oktober kan du samla beer pong, mjuka pretzels och traditionella hattar, samt fantastiska belöningar som ett nytt hem: Oktoberfest – en nöjespark!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer3.content"><![CDATA[Du kan spela så ofta du vill. Du behöver ett förråd av popup-föremål, men du får traditionella bayerska belöningar i utbyte. Så tveka inte, du kommer att ha jättekul!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.circusHelpcomic">
+      <item name="zoo.window.infoLayers.circusHelpcomic.layer1.content"><![CDATA[Det finns massor av lådor med exotiska djur på cirkusen. Efter de första 5 timmarna kommer ett djur att hoppa ut ur lådan mot dig! Vilken sorts djur kommer det att vara?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Layer">
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble1"><![CDATA[Leverera kycklingarna. Varje tänd lampa betyder fler fina priser!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble2"><![CDATA[Leverera de kanderade äpplena. Varje lampa som tänds betyder fler fina priser!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer2.bubble"><![CDATA[Sälj dina djur för zoogrosh och tänd julgranen!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.singleplayer.success"><![CDATA[Bra jobbat! Allt är upplyst och du har samlat alla belöningar!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.multiplayer.success"><![CDATA[Grattis! Tillsammans tände vi upp hela julgranen och samlade ihop fina priser!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Comic">
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.bubble"><![CDATA[God jul! Snälla hjälp mig att tända julbelysningen. För varje glödlampa du tänder kan du vinna olika julpriser, till exempel en fjällräv!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.content"><![CDATA[För att tända lamporna måste du lägga till godisäpplen eller djurungar från ditt inventarium.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer2.content"><![CDATA[Vissa lampor kan bara tändas med godisäpplen. Äpplena kommer att poppa ut ur djurhusen. Du kan köpa fler äpplen för att komma snabbare framåt.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer3.content"><![CDATA[Välj en unge från ditt inventarium och leverera den. Tips: Ju högre djurets fortplantningsnivå, desto snabbare kan du tända lamporna!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.multiplayer.bubble"><![CDATA[Det är här alla zoodirektörer måste samarbeta: Sälj djuren från ert lager för zoogros. Tillsammans lyser ni upp granen steg för steg och vinner fina julpriser.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentines2013Comic">
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer1.bubble"><![CDATA[Välkommen till Alla hjärtans dag-evenemanget! Gör dig redo för en riktig romans från 14 till 25 februari! Spela vårt Alla hjärtans dag-spel och vinn fina priser!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer2.content"><![CDATA[Ta hand om dina djur, samla cupcakes, hjärtballonger och gratulationskort. Gå igenom spelplanen steg för steg och få belöningar längs vägen. Huvudpriset blir storkar till ditt zoo!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Du behöver fler popup-föremål, men det ökar dina chanser att få fler belöningar!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.multiplayer.bubble"><![CDATA[Glöm inte: alla zoodirektörer spelar tillsammans. Sälj djur från ditt inventarium för zoogross. Arbeta dig upp till toppen av plyschberget, där margaykatter väntar som din belöning!]]></item>
+      <item name="zoo.window.infoLayers.valentines.multiplayer.success"><![CDATA[Grattis! Du har nått plyschhögens höjder och vunnit belöningar längs vägen.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterEvent2013Comic">
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer1.bubble"><![CDATA[Välkommen till påskevenemanget i zoo! Från 27 mars till 8 april förvandlas ditt zoo till en färgglad regnbåge! Samla färgglada kycklingar i vårt påskspel och byt in dem mot fina priser!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla färgglada kycklingar medan du arbetar! Gå steg för steg över spelplanen och samla alla belöningar längs vägen. Huvudpriset blir en emu!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Få fina priser i varje runda.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.multiplayer.bubble"><![CDATA[Glöm inte: alla zoodirektörer spelar tillsammans. Sälj djur från ditt inventarium för zoogross. Nå toppen av plyschhögen, och om du gör det vinner du ett par söta myrslokar!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.intro"><![CDATA[Sälj djuren i ditt inventarium och klättra uppför plyschberget tillsammans.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.success"><![CDATA[Grattis! Du har nått plyschhögens höjder och vunnit belöningar längs vägen.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frenchEvent2013Comic">
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer1.bubble"><![CDATA[Välkommen till Franska Zoo-evenemanget! Vi åker på en resa till Frankrike från 11 till 16 juli! Samla föremål till vårt franska spel och byt in dem mot fantastiska belöningar!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla de poppande föremålen. Gå igenom spelplanen steg för steg och få belöningar längs vägen. Huvudpriset är muffloner!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Du hittar roliga priser i varje runda.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthdayEvent2013Comic">
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer1.content"><![CDATA[Hurra! För att fira vår 3-årsdag har vi förberett en skyttefestival: skjut ballonger från 15 till 28 augusti och se belöningarna regna ner över dig! Du får gratis dart varje dag.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer2.content"><![CDATA[Sätt in ballonger i brädspelet. Varje ballong du sätter in för dig närmare priset. Vinn sensationella födelsedagsdekorationer och nya djur.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tips: Logga in varje dag och få ännu fler pilar med den dagliga inloggningsbonusen!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.over"><![CDATA[Du behöver fortfarande ballonger för det här steget (antal: %count%). Skynda dig och hämta din belöning!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.default"><![CDATA[Denna väg till skyttefestivalen! Smäll ballongerna och vinn fina priser!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.hungaryEvent2013Comic">
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer1.bubble"><![CDATA[Välkommen till det ungerska evenemanget på djurparken! Följ med oss ​​på en resa till Ungern från 12 till 24 september! Samla paprikor till vårt ungerska spel och byt in dem mot fantastiska priser!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla paprikor. Gå steg för steg genom spelplanen och få belöningar. Huvudpriset är nya djur!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer3.content"><![CDATA[Spela så många rundor du vill. En liten varning: Peppar kommer att dyka upp fram till klockan 12 den 23 september. Du kan dock byta dem fram till den 24 september.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2013Comic">
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer1.bubble"><![CDATA[Jaha! De där busiga pingvinerna lekte med magiska runor och lyckades fly! Där är Flubber, Larry och Swabby! Använd plasmaklotten och fånga dem snabbt innan de ställer till med något bus!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer2.content"><![CDATA[Hjälp den gode Bu att fånga spökena. Leverera dem till spelplanen och vinn skrämmande priser!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer3.content"><![CDATA[Varje dag du loggar in i spelet ger Boo dig plasmaklottar för att jaga spöken. Tips: Ta hand om dina djur så kommer plasmaklottar att dyka upp ur sina hem. Lycka till!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.over"><![CDATA[Du behöver fortfarande spöken för det här steget (antal: %count%). Skynda dig och få din belöning!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.default"><![CDATA[Skicka in dina spöken här och vinn fina priser!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.thanksGiving2013Comic">
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer1.bubble"><![CDATA[Välkommen till djurparkens Thanksgiving-firande! Den här gången ska vi fira i USA! Samla färgglada löv och byt in dem mot fina belöningar.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla färgglada löv. Gå steg för steg genom spelplanen och få belöningar längs vägen. Huvudpriset är nya djur till ditt zoo!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att löven faller fram till slutet av evenemanget, men du kan fortfarande byta ut dem i 24 timmar efteråt.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.over"><![CDATA[Du behöver fortfarande löv (antal: %count%) för det här steget. Skynda dig och hämta din belöning!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.default"><![CDATA[Skicka in dina brev här och vinn fina priser!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2013Comic">
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer1.bubble"><![CDATA[Hohoho! Julen närmar sig djurparken! Från 19 december till 7 januari kan du samla julgransprydnader i ditt djurpark och byta dem mot färgglada tallrikar för vinterdjur och juldekorationer.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer2.content"><![CDATA[Ta hand om dina djur så kommer färgglada dekorationer att dyka upp ur deras hem. Steg för steg, rör dig runt på spelplanen och byt ut dekorationerna mot julbelöningar.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att dekorationerna dyker upp fram till kl. 12.00 den 6 januari, men du kan byta ut dem fram till kl. 12.00 den 7 januari.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.over"><![CDATA[Du behöver fortfarande dekorationer för det här steget (antal: %count%). Skynda dig och hämta din belöning!]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.default"><![CDATA[Skicka in dina dekorationer här och vinn fina priser!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.egypt2014Comic">
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer1.bubble"><![CDATA[Res med oss ​​till Orienten: Upptäck det forntida Egypten, samla värdefulla skarabéer och byt dem mot ett egyptiskt brädspel.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla färgglada skarabéer som kommer att dyka upp ur dina inhägnader. Gå vidare på spelplanen och byt ut ornament mot orientaliska belöningar.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att skarabéer dyker upp fram till slutet av evenemanget. Du kan dock fortfarande byta ut dem i 24 timmar efteråt.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.over"><![CDATA[Du behöver fortfarande skarabéer för det här steget (antal: %count%). Skynda dig och få din belöning!]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.default"><![CDATA[Leverera dina skarabéer hit och vinn fantastiska belöningar!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014Comic">
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer1.bubble"><![CDATA[Få alla hjärtans dag-kort: Samla kort från 21 februari till 10 mars i vårt brädspel för Alla hjärtans dag!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla färgglada kort som kommer att dyka upp ur dina inhägnader. Gå steg för steg igenom spelplanen och byt ut dem mot romantiska priser.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att korten dyker upp fram till kl. 12.00 den 10 mars, men du kan byta ut dem fram till kl. 12.00 den 11 mars.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.over"><![CDATA[Du behöver fortfarande gratulationskort för det här steget (antal: %count%). Skynda dig och hämta din belöning!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.default"><![CDATA[Skicka in dina önskemål här och vinn fina priser!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityComic">
+      <item name="zoo.window.infoLayers.valentine2014CommunityComic.multiplayer.bubble"><![CDATA[Glöm inte: alla zoodirektörer spelar tillsammans. Sälj djur från ditt inventarium för zoogros. Nå toppen av plyschberget - fantastiska priser väntar på varje nivå!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.success"><![CDATA[Grattis, du klarade det! Du har nått toppen av hjärthögen och vunnit belöningar längs vägen.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.intro"><![CDATA[Byt dina djur här och få fina belöningar!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2014Comic">
+      <item name="zoo.window.infoLayers.easter2014Comic.layer1.bubble"><![CDATA[Från 10 till 28 april 2014 kommer ditt zoo att blomma ut för fullt: Kom och ha kul på vårt fantastiska påskänsla! Massor av påsköverraskningar och helt nya djur väntar dig i påskbrädspelet!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla färgglada påskägg som kommer att dyka upp ur dina inhägnader. Gå steg för steg genom spelplanen och byt äggen mot supervårbelöningar.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att påskägg dyker upp fram till kl. 12.00 den 28 april, men du kan byta ut dem fram till kl. 12.00 den 29 april.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.over"><![CDATA[Du behöver fortfarande påskägg för det här steget (antal: %count%). Skynda dig och hämta din belöning!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.default"><![CDATA[Leverera dina påskägg hit och vinn fina priser!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.summer2014Comic">
+      <item name="zoo.window.infoLayers.summer2014Comic.layer1.bubble"><![CDATA[Fotbollsfeber i din zoo från 19 juni till 1 juli! Res med oss ​​till Brasilien: Samba, fotboll, brasiliansk rytm och helt nya djur väntar dig i vårt brädspel!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla färgglada cocktailfrukter som kommer att dyka upp ur dina inhägnader. Gå steg för steg genom spelplanen och byt cocktails mot supersommarbelöningar.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att cocktailfrukterna dyker upp fram till kl. 12.00 den 30 juni, men du kan byta ut dem fram till kl. 12.00 den 1 juli.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.over"><![CDATA[För det här steget behöver du fortfarande cocktailfrukt (antal: %count%). Skynda dig och få din belöning!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.default"><![CDATA[Växla cocktailfrukter mot superbelöningar här!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthday2014Comic">
+      <item name="zoo.window.infoLayers.bday2014Comic.layer1.bubble"><![CDATA[Stor födelsedagsfest från 19 augusti till 2 september! Massor av fantastiska överraskningar väntar på dig i vårt brädspel!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer2.content"><![CDATA[Sätt in ballonger i brädspelet. Varje ballong du sätter in för dig närmare priset. Vinn sensationella födelsedagsdekorationer och nya djur.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Kom ihåg: Du kan bara samla ballonger från dina inhägnader fram till den 27 augusti kl. 12:00. Därefter har du 24 timmar på dig att använda dem.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.over"><![CDATA[Du behöver fortfarande ballonger för det här steget (antal: %count%). Skynda dig och hämta din belöning!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.default"><![CDATA[Sätt i ballonger och vinn fina priser!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2014Comic">
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer1.bubble"><![CDATA[Fira Halloween med oss ​​från 30 oktober till 10 november! Massor av fantastiska överraskningar väntar dig i vårt brädspel!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla slimes som kommer att dyka upp ur dina boningar. Steg för steg över spelplanen och byt slimes mot kusliga och häftiga belöningar.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att slemflugorna bara dyker upp fram till klockan 12.00 den 10 november. Efter det har du 24 timmar på dig att använda upp dem.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.over"><![CDATA[Du behöver fortfarande Slime Gnats för det här steget (antal: %count%). Skynda dig och få din belöning!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.default"><![CDATA[Skicka in dina slemformar här och vinn fina priser!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recyclingComic">
+      <item name="zoo.window.infoLayers.recyclingComic.layer1.bubble"><![CDATA[Det är otroligt vad folk slänger! Det finns så många värdefulla råvaror i avfallet: Sortera avfall för återanvändning. Hjälp miljön och dig själv!]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer2.content"><![CDATA[Allt insamlat avfall hamnar direkt på återvinningsanläggningen. Välj den råvara du vill tillverka av avfallet.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer3.content"><![CDATA[Välj hur många föremål du vill tillverka av de valda materialen. Se till att du har tillräckligt med skrot och zoogros för att tillverka dem.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer4.content"><![CDATA[Förutom vanliga resurser behöver du även sällsynta resurser. Att använda ett superfilter ökar dina chanser att få tag på en sällsynt resurs från återvinning.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.craftingComic">
+      <item name="zoo.window.infoLayers.craftingComic.layer1.bubble"><![CDATA[Hej, jag heter Inga Neer. Jag hjälper dig att tillverka nya föremål med hjälp av råmaterial. Men först behöver du en ritning. Byggritningar finns tillgängliga och kan hittas överallt i djurparken: när du går upp i nivå, från pusselbitar och utmärkelser, från samlingar, på safari eller på lyckohjulet.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer2.content"><![CDATA[Alla byggplaner finns lagrade i verkstaden. Öppna bara kategorin för att se vilka planer du redan har.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer3.content"><![CDATA[En grön bockmarkering visar om du har alla ingredienser. I så fall kan du börja!]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer4.content"><![CDATA[Om du vill att dina arbetare ska skynda sig, prova "Hantverksförstärkaren". Lägg till den, så jobbar de dubbelt så snabbt! Med Zoo Dollars kan du avsluta produktionen på nolltid.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recylingcraftingunlock">
+      <item name="zoo.window.infoLayers.recylingcraftingunlock.info"><![CDATA[Återvinn avfallet i din djurpark och bygg något nytt! Återvinningsanläggningen och verkstaden är nu tillgängliga. Klicka på den blå elefanten: Du hittar byggnaderna i kontrollcentret.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolchange">
+      <item name="zoo.window.infoLayers.toolchange.info"><![CDATA[Att bygga återvinningsanläggningen och verkstaden krävde många verktyg, som du också samlade på dig. För att se till att du inte kommer till korta delar ger vi dig erfarenhetspoäng för de verktyg du samlar på dig.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2014Comic">
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer1.bubble"><![CDATA[God jul! Från 11 till 29 december kommer pingviner att dekorera julspisen. Ju fler föremål du samlar på djurparken, desto vackrare blir det. Spela brädspelet och vinn en julöverraskning!]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla julgodis som kommer att dyka upp ur sina inhägnader. Gå steg för steg runt spelplanen och byt in dem mot julbelöningar.]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att julgodisarna bara dyker upp fram till klockan 12.00 den 29 december. Därefter har du 24 timmar på dig att använda upp dem.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.boardgame">
+      <item name="zoo.window.infoLayers.boardgame.info.over"><![CDATA[För att slutföra det här steget behöver du fortfarande lägga in %count%x %collectitem%. Skynda dig och få din belöning!]]></item>
+      <item name="zoo.window.infoLayers.boardgame.info.default"><![CDATA[Här kan du byta kampanjartiklar mot fina belöningar!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Comic">
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer1.bubble"><![CDATA[Letar du fortfarande efter drömmannen eller drömkvinnan? Spela då Alla hjärtans dag-brädspelet från 12 till 23 februari 2015!]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla näckrosor som kommer att dyka upp ur sina inhägnader. Gå steg för steg runt spelplanen och byt in dem mot julbelöningar.]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att näckrosorna bara dyker upp fram till klockan 12.00 den 23 februari. Efter det har du 24 timmar på dig att använda upp dem.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Board">
+      <item name="zoo.window.infoLayers.valentine2015Board.title"><![CDATA[Alla hjärtans dag]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityBoard">
+      <item name="zoo.window.infoLayers.valentine2014CommunityBoard.title"><![CDATA[Plyschberg]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2015Comic">
+      <item name="zoo.window.infoLayers.easter2015Comic.layer1.bubble"><![CDATA[Något konstigt händer i hönshuset. Påskharen är sen och behöver hjälp! Smyg in i hönshuset och samla äggen! Påskharen kommer att vara tacksam!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla färgglada påskharar som kommer att dyka upp ur dina inhägnader. Gå steg för steg genom spelplanen och byt ut dem mot glada belöningar.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att påskhararna kommer att dyka upp ur dina inhägnader fram till slutet av evenemanget. Du kan dock fortfarande använda dem i 24 timmar efteråt för att vinna belöningar.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.over"><![CDATA[Du behöver fortfarande påskharar för det här steget (antal: %count%). Skynda dig och hämta din belöning!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.default"><![CDATA[Leverera dina påskharar hit och vinn fina priser!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Board">
+      <item name="zoo.window.infoLayers.asia2015Board.title"><![CDATA[Resa till Asien]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Comic">
+      <item name="zoo.window.infoLayers.asia2015Comic.layer1.bubble"><![CDATA[Res med oss ​​till Asien för Drakdansen! Samla färgglada lyktor för att lysa upp ert firande. Må vattendraken välsigna er!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla färgglada lyktor som dyker upp ur dina inhägnader. Gå vidare på spelplanen och byt lyktorna mot exotiska belöningar.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att lyktorna kommer att dyka upp fram till slutet av evenemanget. Du kan dock fortfarande byta ut dem i 24 timmar efteråt.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.over"><![CDATA[Du behöver fortfarande lyktor för det här steget (antal: %count%). Skynda dig och få din belöning!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.default"><![CDATA[Skicka in dina lyktor här och vinn fina priser!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Board">
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Resa till Australien]]></item>
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Resa till Australien]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Comic">
+      <item name="zoo.window.infoLayers.australian2015Comic.layer1.bubble"><![CDATA[Zoomumba är 5 år gammal! Hipp, hipp, hurra! Följ med oss ​​i den australiska vildmarken och vinn fantastiska priser: Skjut ballonger och smyg genom den australiska vildmarken som Crocodile Dundee. Hurra!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla pilar som kommer att poppa ut ur dina inhägnader. Använd dem för att skjuta ner ballonger. Gå steg för steg genom spelplanen och byt ballonger mot belöningar.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att pilar kommer att poppa ut ur dina pennor fram till slutet av evenemanget. Du kan dock fortfarande skjuta ballonger i 24 timmar efteråt.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.over"><![CDATA[Du behöver fortfarande ballonger för det här steget (antal: %count%). Skynda dig och hämta din belöning!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.default"><![CDATA[Sätt i ballonger och vinn fina priser!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Board">
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Halloween]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Halloween]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Comic">
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer1.bubble"><![CDATA[Abrakadabra! Åh nej! Vilken ond trollkarl förvandlade lilla Perry till en jättepumpa? Försök hitta motgiftet och hjälp Perry. Från 29 oktober till 9 november kommer du att kunna prova alla magiska trolldrycker!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla trolldrycker som kommer att dyka upp ur dina inhägnader. Gå steg för steg genom spelplanen och byt ut trolldryckerna mot belöningar.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att trolldrycker dyker upp fram till slutet av evenemanget. Du kan dock fortfarande byta ut dem i 24 timmar efteråt.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.over"><![CDATA[Du behöver fortfarande magiska trolldrycker för det här steget (antal: %count%). Skynda dig och få din belöning!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.default"><![CDATA[Leverera dina trolldrycker här och vinn fantastiska belöningar!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.winter2015Comic">
+      <item name="zoo.window.infoLayers.winter2015Comic.layer1.bubble"><![CDATA[God jul! Pingvinerna vill dekorera sin eldstad till julafton. Ju fler julljus du samlar, desto mysigare kommer de att känna sig. Du kan vinna en vinteröverraskning i brädspelet!]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla färgglada julljus som kommer att poppa upp ur inhägnaderna. Gå steg för steg genom spelplanen och byt in dem mot fantastiska belöningar.]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer3.content"><![CDATA[Klara så många varv du vill. Tänk på att julljusen kommer att sticka ut ur höljena fram till slutet av evenemanget, men du kan fortfarande byta ut dem i 24 timmar efteråt.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2016Comic">
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer1.bubble"><![CDATA[Hej alla älskare! Kärleken sprider sig, så vi har förberett ett speciellt evenemang för er med massor av fina belöningar. Vi har också ett nytt husdjur - en randig mungo, nya romantiskt temadekorationer och två nya butiker!]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla färgglada nallebjörnar som hoppar ut ur inhägnaderna. Lämna tillbaka dem, följ gradvis kärlekens väg i brädspelet och samla belöningar.]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer3.content"><![CDATA[När du når slutet av stigen återställs spelplanen och du kan spela en ny runda. Björnarna dyker upp fram till slutet av evenemanget. Efter det har du 24 timmar på dig att använda dem!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2016Comic">
+      <item name="zoo.window.infoLayers.easter2016Comic.layer1.bubble"><![CDATA[Något konstigt händer i hönshuset. Påskharen är sen och behöver hjälp! Smyg in i hönshuset och samla äggen! Påskharen kommer att vara tacksam!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer2.content"><![CDATA[Ta hand om dina djur och samla färgglada påskharar som kommer att dyka upp ur dina inhägnader. Gå steg för steg genom spelplanen och byt ut dem mot glada belöningar.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer3.content"><![CDATA[Spela så många rundor du vill. Tänk på att påskhararna kommer att dyka upp ur dina inhägnader fram till slutet av evenemanget. Du kan dock fortfarande använda dem i 24 timmar efteråt för att vinna belöningar.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.over"><![CDATA[Du behöver fortfarande påskharar för det här steget (antal: %count%). Skynda dig och hämta din belöning!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.default"><![CDATA[Leverera dina påskharar hit och vinn fina priser!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.OceanComic">
+      <item name="zoo.window.infoLayers.OceanComic.layer1.bubble"><![CDATA[Hej, jag heter Janička och jag tränar marina däggdjur. Tillsammans ska vi bygga det bästa vattendjursparken någonsin!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer1.content"><![CDATA[Sonya och pingvinerna hittade en gammal vattenpark bakom ett gömt zoo. Det finns inte mycket kvar av den, men vattnet ser fantastiskt ut. Nu renoverar vi den!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer2.content"><![CDATA[Vi måste bygga allting! Pingvinerna hittade lite ritningar och material i en gammal hydda på stranden. Låt oss börja med att bygga den första vattenmiljön och piren.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer3.content"><![CDATA[Vattenlevande livsmiljöer finns i tre storlekar för att alla vattenlevande djur ska känna sig som hemma. Du kan köpa djuren på sjöfarten eller i strandstugan!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer4.content"><![CDATA[Få hjälp av hela undervattensteamet! Jindra levererar maten och Matěj kommer med vattnet. Franta rengör filtren och jag leker med djuren.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer5.content"><![CDATA[Håll vattnet i tankarna rent och samla fler pärlor! Pärlor kan försköna livsmiljöerna ännu mer.]]></item>
+      <category name="zoo.window.infoLayers.oceanWorld2016Board">
+        <item name="zoo.window.infoLayers.oceanWorld2016Board.title"><![CDATA[Födelsedag]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.oceanWorld2016Comic">
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer1.bubble"><![CDATA[Hej! Undervattensvärlden är i full gång, så vi har förberett ett speciellt dykevent för er! Sjöhästar, ett helt nytt Tiki Bay-inhägnad, nya butiker och dekorationer väntar er!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer2.content"><![CDATA[Ta hand om dina djur som vanligt och samla färgglada sjöstjärnor som dyker upp ur dina inhägnader. Utforska undervattenszonerna på spelplanen och tjäna belöningar!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer3.content"><![CDATA[När du har utforskat alla zoner återställs brädet och du kan dyka igen! Sjöstjärnor dyker upp fram till slutet av evenemanget. Efter det har du 24 timmar på dig att använda dem.]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.over"><![CDATA[Du behöver fortfarande stjärnor (antal: %count%) för det här steget!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.default"><![CDATA[Växla dina stjärnor mot fantastiska belöningar här!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.monkey2016Comic">
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer1.bubble"><![CDATA[Aporna har något på gång... Hjälp dem med deras bus i vårt nya brädspel! Få belöningar, inklusive nya butiker och dekorationer till ditt zoo!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer2.content"><![CDATA[Ta hand om dina djur som vanligt och samla de färgglada grönsakerna som dyker upp ur dina inhägnader. Ge varje surikat en godbit och få belöningar.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer3.content"><![CDATA[När du har orsakat olycka för varje surikat återställs spelplanen och du kan börja om! Grönsakerna dyker upp fram till slutet av evenemanget. Efter det har du 24 timmar på dig att använda dem.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.over"><![CDATA[Du behöver fortfarande grönsaker för det här steget (antal: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.default"><![CDATA[Byt dina grönsaker mot fina belöningar här!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Board">
+        <item name="zoo.window.infoLayers.halloween2016Board.title"><![CDATA[Hokus pokus]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Comic">
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer1.bubble"><![CDATA[Vad gör dessa mystiska trolldrycker här? Ta reda på vad de är till för och tjäna belöningar, inklusive exklusiva Halloween-föremål till ditt zoo!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer2.content"><![CDATA[Ta hand om dina djur som vanligt och samla de färgglada flaskorna som dyker upp ur dina inhägnader. Öppna dem på spelplanen och få belöningar.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer3.content"><![CDATA[När du har öppnat alla flaskor återställs spelplanen och du kan börja om! Flaskorna dyker upp fram till slutet av evenemanget. Efter det har du 24 timmar på dig att använda dem.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.over"><![CDATA[Du behöver fortfarande flaskor (antal: %count%) för det här steget!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.default"><![CDATA[Byt flaskor mot fina belöningar här!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.winter2016Comic">
+        <item name="zoo.window.infoLayers.winter2016Comic.layer1.bubble"><![CDATA[Julen är här! Snön faller på djurparken och djuren skriver ett brev till jultomten. God jul! Pingvinerna dekorerar eldstaden och behöver hjälp! Tjäna julsaker genom att spela brädspelet!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer2.content"><![CDATA[Ta hand om era djur som vanligt och samla pepparkaksgubbar som kommer att dyka upp ur era inhägnader. Res runt spelplanen och samla priser.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer3.content"><![CDATA[När du är klar med spelet återställs spelplanen och du kan börja om! Du kan samla pepparkaksgubbar fram till slutet av spelet. Efter det har du 24 timmar på dig att använda dem.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.over"><![CDATA[För det här steget behöver du fortfarande pepparkaksgubbar (antal: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.default"><![CDATA[Byt ut dina pepparkaksgubbar mot fantastiska belöningar här!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Comic">
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer1.bubble"><![CDATA[Hej! Letar du efter kärlek? Spela vårt Alla hjärtans dag-brädspel och få massor av föremål till Undervattensvärlden. Kanske hittar du din sanna kärlek längs kärlekens väg.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer2.content"><![CDATA[Ta hand om dina djur som vanligt och samla de färgglada snäckorna som kommer att dyka upp ur dina inhägnader. Res runt spelplanen och samla priser.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer3.content"><![CDATA[När du är klar med spelet återställs spelplanen och du kan börja om! Skalen dyker upp fram till slutet av spelet. Därefter har du 24 timmar på dig att använda dem.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.over"><![CDATA[Du behöver fortfarande skal för det här steget (antal: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.default"><![CDATA[Växla snäckor mot fantastiska belöningar här!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Board">
+        <item name="zoo.window.infoLayers.valentine2017Board.title"><![CDATA[Alla hjärtans dag]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Comic">
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer1.bubble"><![CDATA[Res med oss ​​till Kambodja och ge dig in i de tropiska skogarnas djup. Samla khonmasker och upptäck hemligheterna i de forntida khmertempelen. Rikedomar och äventyr väntar dig!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer2.content"><![CDATA[Ta hand om dina djur som vanligt och samla khon-masker som kommer att dyka upp ur dina inhägnader. Res runt spelplanen och samla priser.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer3.content"><![CDATA[När du är klar med spelet återställs spelplanen och du kan börja om! Khon-masker dyker upp fram till slutet av evenemanget. Efter det har du 24 timmar på dig att använda dem.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.over"><![CDATA[För det här steget behöver du fortfarande khon-masker (antal: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.default"><![CDATA[Skicka in dina khon-masker här och vinn fina priser!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Board">
+        <item name="zoo.window.infoLayers.cambodia2017Board.title"><![CDATA[Resa till Kambodja]]></item>
+      </category>
+    </category>
+  </category>
+</language>

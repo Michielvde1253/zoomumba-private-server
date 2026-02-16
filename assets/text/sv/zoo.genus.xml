@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Arakanga-ara]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[Dessa glada papegojor är väldigt pratsamma! Ha dem alltid som ett par eller i grupp. Besökare älskar dessa smarta killar med sina färgglada fjädrar!]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[Rosa flamingo]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[Dessa vackra rosa djur lockar besökarnas uppmärksamhet. Deras huvudsakliga föda är plankton, men de tycker också om färsk fisk. En njutning för sötsugna fåglar!]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[Bergsebra]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[Ränder, ränder, ränder överallt! Det är otroligt! I en värld full av zebraränder är det bra kamouflage, men i vår del av världen ser zebror ganska komiska ut. Zebror hör definitivt hemma i varje djurpark, så låt dig inte luras av det!]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Noshörning]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[Dessa stora tjockhudingar är ensamvargar. Det är inte konstigt att de bär sådana horn! Trots sitt kraftfulla utseende deltar de sällan i slagsmål. Det är dock bäst att bara hålla en hane och en hona tillsammans.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[Amfibisk flodhäst]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[På land ser de ut som klumpiga kolosser, men skenet bedrar. Var försiktig så att du inte gör dem reta, för när de väl börjar springa är det inte tillrådligt att vara i deras väg. Lyckligtvis är de avslappnade djur om deras integritet respekteras.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Marmorerad giraff]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[Alltid högt uppe bland molnen! Giraffer når de sötaste frukterna ända upp i trädens toppar. Det är inte konstigt att träden är välbetade. Med sina långa halsar når de väldigt högt upp och de äter helst de unga gröna bladen!]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[Arktiska renar]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[Renar lever i hjordar långt norrut. Även i de hårda arktiska förhållandena hittar de orädda renarna en plats att överleva.]]></item>
+    </category>
+  </category>
+</language>

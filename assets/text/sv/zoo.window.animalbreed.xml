@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.animalbreed">
+    <item name="zoo.window.animalbreed.title"><![CDATA[Djurhållning]]></item>
+    <item name="zoo.window.animalbreed.info"><![CDATA[Uppfostra söta bebisar!\nMed lite tur kommer ditt zoo att välkomna nya tillskott.]]></item>
+    <item name="zoo.window.animalbreed.breedtitle"><![CDATA[Standardreproduktion]]></item>
+    <item name="zoo.window.animalbreed.breedinfo"><![CDATA[Möjliga avkommor till:]]></item>
+    <item name="zoo.window.animalbreed.button.startbreeding"><![CDATA[Start]]></item>
+    <item name="zoo.window.animalbreed.babytitle"><![CDATA[Adoption]]></item>
+    <item name="zoo.window.animalbreed.babyinfo"><![CDATA[Skaffa ett barn omedelbart:]]></item>
+    <item name="zoo.window.animalbreed.button.buydirectly"><![CDATA[Köp nu]]></item>
+    <item name="zoo.window.animalbreed.button.breedstart"><![CDATA[Start]]></item>
+    <item name="zoo.window.animalbreed.success.title"><![CDATA[Ung]]></item>
+    <item name="zoo.window.animalbreed.success.info"><![CDATA[Hurra!<br>Grattis! Ert zoo har fått ett gulligt nytt tillskott!]]></item>
+    <item name="zoo.window.animalbreed.failed.title"><![CDATA[Ingen ökning]]></item>
+    <item name="zoo.window.animalbreed.failed.info"><![CDATA[Synd, den här gången får du vänta på det nya tillskottet.<br><br>Vill du försöka igen?<br><br>Lycka till!]]></item>
+  </category>
+</language>

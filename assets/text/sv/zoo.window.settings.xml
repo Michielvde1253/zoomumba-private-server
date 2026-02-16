@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.settings">
+    <item name="zoo.window.settings.info"><![CDATA[Hej, zoodirektör!<br>Här kan du anpassa ZooMumba efter dina önskemål! Spela det spel du gillar mest!]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[på]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[av]]></item>
+    <item name="zoo.window.settings.quality.low"><![CDATA[låg]]></item>
+    <item name="zoo.window.settings.quality.middle"><![CDATA[medium]]></item>
+    <item name="zoo.window.settings.quality.high"><![CDATA[hög]]></item>
+    <item name="zoo.window.settings.quality.title"><![CDATA[Grafik]]></item>
+    <item name="zoo.window.settings.quality.info"><![CDATA[Kvalitet]]></item>
+    <item name="zoo.window.settings.account.title"><![CDATA[Redigera konto]]></item>
+    <item name="zoo.window.settings.account.info"><![CDATA[Här kan du redigera dina spelkontouppgifter, till exempel din e-postadress.]]></item>
+    <item name="zoo.window.settings.title.tooltipps"><![CDATA[Verktygstips]]></item>
+    <item name="zoo.window.settings.title.visitors"><![CDATA[Besökare]]></item>
+    <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Besökarnas önskemål]]></item>
+    <item name="zoo.window.settings.title.sound"><![CDATA[Ljud]]></item>
+    <item name="zoo.window.settings.title.sound.background"><![CDATA[Musik]]></item>
+    <item name="zoo.window.settings.title.sound.effects"><![CDATA[Ljudeffekter]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[att justera]]></item>
+    <item name="zoo.window.settings.tab.account"><![CDATA[konto]]></item>
+    <item name="zoo.window.settings.tab.config"><![CDATA[Konfiguration]]></item>
+    <item name="zoo.window.settings.tab.buildings"><![CDATA[Huvudbyggnaden]]></item>
+    <item name="zoo.window.settings.buildings.info"><![CDATA[Välj djurparkens entrébyggnad efter din smak. Du har huvudbyggnaderna tillgängliga beroende på din nivå.<br>På så sätt kommer ditt djurpark att bli mer och mer anpassat till dig!]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Animation]]></item>
+    <item name="zoo.window.settings.anim.info"><![CDATA[Antal djuranimationer]]></item>
+    <item name="zoo.window.settings.saveAssets"><![CDATA[Buffertminne]]></item>
+  </category>
+</language>

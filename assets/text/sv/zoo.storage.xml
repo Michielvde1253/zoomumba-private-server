@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.storage">
+    <category name="zoo.storage.moreSpace">
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Utöka ditt zoo!]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Du kan bara köpa den här artikeln när du har %neededExpansion% zoo-expansioner. För närvarande har du bara %userExpansion% zoo-expansioner. Vill du utöka din zoo just nu så att du kan köpa den här artikeln?]]></item>
+    </category>
+    <category name="zoo.storage.firstExpansion">
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[Vattentorn och lager]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Toppen! Du har äntligen tillräckligt med utrymme för att bygga ditt första vattentorn och din första förvaringsanläggning. Båda föremålen är gratis i ditt inventarium. Nu kan spelet börja!]]></item>
+    </category>
+    <category name="zoo.storage.buy">
+      <item name="zoo.storage.buy.belowWater"><![CDATA[Vattentornets maximala kapacitet är %capacity%. Detta värde kan inte ökas, inte ens genom att köpa den här byggnaden. Vill du fortfarande köpa den?]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[Den maximala kapaciteten för ditt förråd är %capacity%. Detta värde kan inte ökas, inte ens genom att köpa den här byggnaden. Vill du fortfarande köpa den?]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[Du har %capacity% av din vattenkapacitet tillgänglig. Du kan inte lagra mer. Den här byggnaden kommer inte att öka din kapacitet. Vill du fortfarande köpa den?]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[Du har %capacity% av din lagringskapacitet tillgänglig. Du kan inte lagra mer. Den här byggnaden kommer inte att öka din kapacitet. Vill du fortfarande köpa den?]]></item>
+    </category>
+    <category name="zoo.storage.capacity">
+      <item name="zoo.storage.capacity.title"><![CDATA[Lagringskapacitet]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[Dina djur behöver mycket foder och vatten. Här kan du se hur mycket av varje du har tillgängligt och hur mycket du kan utöka.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Vattenkapacitet]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Matningskapacitet]]></item>
+    </category>
+  </category>
+</language>

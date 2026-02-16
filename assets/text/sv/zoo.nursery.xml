@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Hej, jag heter Tina och jag tar hand om era ungar. De växer upp till vuxna djur i min djurskola. Välj den unge du vill föda upp från ditt inventarium.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Redo att växa]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Det är här ungen växer upp.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Din unge har vuxit upp!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Höja]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Använd essens]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Höj omedelbart]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Djuravel]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Återstående tid:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Höj omedelbart]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Innan du vet ordet av är din lilla vuxen!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Tillväxtdryck minskar fortplantningstiden med 50 %.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Jippie! Den här bebisen har vuxit upp och flyttats till ditt inventarium:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[OBS! En bebis växer här! Om du flyttar barnrummet till inventariet kommer processen att avbrytas. Är du säker på att du vill flytta det nu?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[OBS! En bebis växer här! Om du säljer barnrummet nu kommer processen att avbrytas. Är du säker på att du vill sälja det nu?]]></item>
+    </category>
+  </category>
+</language>

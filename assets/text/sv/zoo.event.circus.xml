@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Välkommen till den resande cirkusen! Vi presenterar Mysterielådan! Köp en låda och få ett av 10 djur. Du kan ha upp till 20 lådor åt gången, och varje låda kan öppnas på upp till 5 timmar. Ha så kul!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Djur:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Hjärtligt grattis!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[Följande djur har lagts till i ditt inventarium: %animal%. Skaffa ännu fler mystiska lådor för att få ännu fler unika djur!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[Åh, vi är ledsna!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Du har redan 20 mystiska kistor. Vänta tills en av dem öppnas och hämta sedan en till.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Mysterieboxen öppnas för: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Klicka för att se dina djur]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Välkommen tillbaka!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Medan du var borta blev dina djur törstiga av den mystiska buren. Uppfödaren Sonia tog hand om dem och förde dem till sitt inventarieförråd. Ta en snabb titt!]]></item>
+  </category>
+</language>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.inventory">
+    <item name="zoo.inventory.sell.title"><![CDATA[Sälja]]></item>
+    <item name="zoo.inventory.sell.info"><![CDATA[Hur många vill du sälja?]]></item>
+    <item name="zoo.inventory.store.error.title"><![CDATA[VIKTIG]]></item>
+    <item name="zoo.inventory.store.error.info"><![CDATA[Om du vill flytta dina djur med inhägnader till ditt inventarie måste de först vara friska och nöjda.]]></item>
+    <category name="zoo.inventory.tabs">
+      <item name="zoo.inventory.tabs.gifts"><![CDATA[Gåvor]]></item>
+      <item name="zoo.inventory.tabs.inventory"><![CDATA[Lager]]></item>
+      <item name="zoo.inventory.tabs.pawprints"><![CDATA[Tassar]]></item>
+      <item name="zoo.inventory.tabs.pearls"><![CDATA[Pärlor]]></item>
+      <item name="zoo.inventory.tabs.specials"><![CDATA[Tillbehör]]></item>
+      <item name="zoo.inventory.tabs.trash"><![CDATA[Skräp]]></item>
+    </category>
+    <category name="zoo.inventory.trash">
+      <item name="zoo.inventory.trash.info"><![CDATA[Miljöskydd med återanvändning: Återvinn avfall på en återvinningsanläggning och använd råvarorna för att tillverka något som behövs.]]></item>
+      <item name="zoo.inventory.trash.amount"><![CDATA[Mängd skräp:]]></item>
+    </category>
+    <category name="zoo.inventory.pawprints">
+      <item name="zoo.inventory.tabs.pawprints.info"><![CDATA[Ju mer du tar hand om dina djur, desto fler tassar samlar du. Du kan sedan använda dem för att förbättra dina inhägnader.<br> <br>Nuvarande mängd tassar insamlade:]]></item>
+    </category>
+    <category name="zoo.inventory.pearls">
+      <item name="zoo.inventory.tabs.pearls.info"><![CDATA[Ju mer du tar hand om dina djur, desto fler pärlor tjänar du för att försköna dina livsmiljöer.<br><br>Nuvarande pärlstatus:]]></item>
+    </category>
+    <category name="zoo.inventory.inventory">
+      <item name="zoo.inventory.inventory.empty"><![CDATA[ÄR ÖVERALLT TOM?<br>Ditt lager är för närvarande tomt.<br>Varför tittar du inte in i butiken eller åker på safari?]]></item>
+      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Använda]]></item>
+    </category>
+    <category name="zoo.inventory.gifts">
+      <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Spelarens namn]]></item>
+      <item name="zoo.inventory.gifts.headerUserID"><![CDATA[Spelar-ID]]></item>
+      <item name="zoo.inventory.gifts.received"><![CDATA[Så vackert! Din vän skickade dig en present. Packa upp den snabbt!]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Expandera]]></item>
+      <item name="zoo.inventory.gifts.none"><![CDATA[Vad synd! Du har inga nya presenter just nu... Men var inte ledsen, det kommer något snart.]]></item>
+    </category>
+    <category name="zoo.inventory.move">
+      <item name="zoo.inventory.move.title"><![CDATA[Betala]]></item>
+      <item name="zoo.inventory.move.info"><![CDATA[Hur många djur vill du betala för?]]></item>
+    </category>
+    <category name="zoo.inventory.allin">
+      <item name="zoo.inventory.allin.title"><![CDATA[Skicka allt till inventarieförrådet]]></item>
+      <item name="zoo.inventory.allin.confirmation"><![CDATA[Är du säker på att du vill skicka allt till inventariet? Varning: Dina djur måste vara rena, matade och glada innan du kan göra detta.]]></item>
+    </category>
+  </category>
+</language>

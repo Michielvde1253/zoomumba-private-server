@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Pumpalykta]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Kusliga, snidade pumpor, kallade Jack-o'-lanterns, lyser i Halloweennattens mörker. Hans hemska grimas blir ännu mer skrämmande av det fladdrande ljuset. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[Julgran]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[En smal gran har vuxit upp...! En festligt dekorerad gran, komplett med julklappar.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Hjärta]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Lycka till! I många länder tror man att det är tur att kyssa en sotare på alla hjärtans dag!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Födelsedagstårta]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Mums! Vad vore en födelsedag utan en kaloririk godbit?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Födelsedagstårta]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Mums! Vad vore en födelsedag utan denna kaloririka godbit?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Hög med påskägg]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[En fin samling påskägg. Förr användes målade hönsägg. Numera är chokladägg vanligare.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Regnbågsägg]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Påskägg speciellt anpassade för synskadade barn att delta i påskjakten. Äggen piper eller spelar en melodi.]]></item>
+  </category>
+</language>

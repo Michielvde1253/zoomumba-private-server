@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Välkommen till vårt Alla hjärtans dag-evenemang! Från 8 februari till 15 februari kommer det att vara en romantisk stämning! Ha kul när du spelar vårt Alla hjärtans dag-spel och se fram emot massor av fina priser!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Kolla in hur du gör det:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Ta hand om dina djur och samla alla hjärtans dag-föremål: hjärtan, kärleksbrev och amorbåge och pilar. Använd dem för att vinna bedårande överraskningar under det romantiska alla hjärtans dag-spelet!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Med dina samlade föremål kan du röra dig runt på spelplanen och samla priser: Majestätiska hjortar och förnödenheter av Tolija-essens och tillväxtdrycker väntar på dig!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Kolla även in butiken – där hittar du användbara boosters som garanterar ännu större framgång och nöje i spelet!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Fördubblar antalet Alla hjärtans dag-artiklar under 1 timme.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Starta om brädspelet]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Vårt Alla hjärtans dag-evenemang är nästan över! Du kommer inte att få fler rosetter, brev eller hjärtan. Men ge inte upp! Du har fortfarande så här lång tid på dig att vinna Alla hjärtans dag-belöningar:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Nu när du har vunnit hjorten och hinden kan du starta brädspelet igen! Klicka bara på den gröna bocken eller den nya knappen på spelplanen!]]></item>
+    </category>
+  </category>
+</language>

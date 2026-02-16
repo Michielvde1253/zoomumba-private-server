@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.mail">
+    <category name="zoo.mail.tabs">
+      <item name="zoo.mail.tabs.inbox"><![CDATA[Inkorg]]></item>
+      <item name="zoo.mail.tabs.outbox"><![CDATA[Utkorg]]></item>
+      <item name="zoo.mail.tabs.newMail"><![CDATA[Nytt meddelande]]></item>
+      <item name="zoo.mail.tabs.contactList"><![CDATA[Adressbok]]></item>
+    </category>
+    <category name="zoo.mail.general">
+      <item name="zoo.mail.general.pagination"><![CDATA[Sida %x% av %y%]]></item>
+      <item name="zoo.mail.general.message"><![CDATA[Meddelande]]></item>
+      <item name="zoo.mail.general.send"><![CDATA[Skicka]]></item>
+      <item name="zoo.mail.general.close"><![CDATA[Nära]]></item>
+      <item name="zoo.mail.general.userWrote"><![CDATA[%användare% skrev:]]></item>
+      <item name="zoo.mail.general.userSent"><![CDATA[Du skrev till spelaren %user%:]]></item>
+    </category>
+    <category name="zoo.mail.column">
+      <item name="zoo.mail.column.action"><![CDATA[Handling]]></item>
+      <item name="zoo.mail.column.messageSender"><![CDATA[Avsändare]]></item>
+      <item name="zoo.mail.column.messageReceiver"><![CDATA[Mottagare]]></item>
+      <item name="zoo.mail.column.messageTitle"><![CDATA[Ämne]]></item>
+      <item name="zoo.mail.column.messageDate"><![CDATA[Datum]]></item>
+      <item name="zoo.mail.column.playerName"><![CDATA[Spelarens namn]]></item>
+      <item name="zoo.mail.column.level"><![CDATA[Nivå]]></item>
+    </category>
+    <category name="zoo.mail.info">
+      <item name="zoo.mail.info.addUserTitle"><![CDATA[Tillägga]]></item>
+      <item name="zoo.mail.info.addUserQuestion"><![CDATA[Vill du verkligen lägga till spelaren %user% i din adressbok?]]></item>
+      <item name="zoo.mail.info.deleteMessageTitle"><![CDATA[Radera]]></item>
+      <item name="zoo.mail.info.deleteMessageQuestion"><![CDATA[Vill du verkligen radera det här meddelandet?]]></item>
+      <item name="zoo.mail.info.deleteContactTitle"><![CDATA[Radera]]></item>
+      <item name="zoo.mail.info.deleteContactQuestion"><![CDATA[Vill du verkligen ta bort spelaren %user% från din adressbok?]]></item>
+      <item name="zoo.mail.info.noRecipientTitle"><![CDATA[Fel]]></item>
+      <item name="zoo.mail.info.noRecipientMessage"><![CDATA[Den här spelaren finns inte.]]></item>
+      <item name="zoo.mail.info.sentOkTitle"><![CDATA[Skickat]]></item>
+      <item name="zoo.mail.info.noAddSelf"><![CDATA[Du kan inte lägga till dig själv i din adressbok.]]></item>
+      <item name="zoo.mail.info.sentOkMessage"><![CDATA[Ditt meddelande har skickats.]]></item>
+      <item name="zoo.mail.info.addUserMessage"><![CDATA[Ange spelarens namn eller ID om du vill lägga till dem i din adressbok.]]></item>
+      <item name="zoo.mail.info.multipleUserFound"><![CDATA[Detta namn förekommer ofta. Ange spelarens ID, som är unikt och distinkt.]]></item>
+      <item name="zoo.mail.info.writeMailError.noUserName"><![CDATA[Ange en mottagare så att ditt meddelande kan skickas.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSubject"><![CDATA[Vänligen ange ett ämne så att ditt meddelande kan skickas.]]></item>
+      <item name="zoo.mail.info.writeMailError.noMessage"><![CDATA[Vänligen ange meddelandetexten så att ditt meddelande kan skickas.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSelfSend"><![CDATA[Du kan inte skicka ett meddelande till dig själv.]]></item>
+      <item name="zoo.mail.info.writeMailError.notFriend"><![CDATA[Tyvärr kan du bara skicka meddelanden till spelare som finns på din vänlista.]]></item>
+      <item name="zoo.mail.info.writeMailError.userAlreadyExists"><![CDATA[Den här spelaren har redan lagts till i din adressbok.]]></item>
+    </category>
+  </category>
+</language>

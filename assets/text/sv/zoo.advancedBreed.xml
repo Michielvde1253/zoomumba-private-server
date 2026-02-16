@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Hej! Jag heter Soňa Starostlivá och är sjuksköterska här på djurparken. Ser du fram emot att avla de nya söta ungarna? Jag ska förklara hur det fungerar! Först måste du bestämma vilken djurart du vill avla.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Välj två vuxna djur från din inventering som ska bli föräldrar. Ju sällsyntare de är, desto större är sannolikheten att de får en ännu sällsyntare unge. Föräldrarna måste dock stanna hos mig under denna avel.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Genom att använda ytterligare samlade föremål, starkt foder, superfoder eller supermedicin ökar du dina chanser att uppfostra ett särskilt sällsynt barn. Ju fler hjärtan föremålet har, desto bättre chans!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Du är nästan klar med förberedelserna! Dubbelkolla dina val innan allt drar igång. Vill du ändra något? Inga problem, använd bara knappen "Tillbaka"!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[Avelsexperimentet använde följande djur och föremål:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Avelsstationen är klar]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Det är här den föds upp]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Ett barn är fött!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Bebisarna är här!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Börja avel]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Använd essens]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Vill du verkligen börja avel utan tillskott? Tänk noga – med tillskott har du större chans att få en sällsynt avkomma.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Du är mitt uppe i förberedelserna. Vill du verkligen lämna avelsstationen?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Avelsstation]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Dessa djur får ungar just nu:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Återstående tid:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Tolijas essens]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Tolija-essens förkortar fortplantningstiden med 50 %.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hurra – du har fått en bebis! Du hittar den här söta lilla i ditt inventarie:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hurra – du har fått ett barn! Du hittar den här söta dvärgen i ditt inventarie:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Flytta den lilla till djurparken för att växa upp.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Ta med de små till djurparken så att de kan växa upp.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Varning: Avel pågår för närvarande! Om du flyttar stationen till ditt inventarium nu kommer processen att avbrytas och du kommer att förlora alla djur och tillskott. Är du säker på att du vill flytta den nu?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Varning: Avel pågår för närvarande! Om du säljer stationen nu kommer processen att avbrytas och alla djur och tillskott kommer att gå förlorade. Är du säker på att du vill sälja stationen nu?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Om avelsprocessen är klar efter att evenemanget är slut får du bara 1 unge.]]></item>
+    </category>
+  </category>
+</language>

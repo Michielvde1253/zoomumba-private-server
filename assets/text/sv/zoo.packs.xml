@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA[Supermatpaket "Bra start"]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Detta paket innehåller 40 enheter supermat och 5 tassar. Detta ger dig 40x dubbel BZ vid utfodring och du kan se framsteg i hur du förskönar dina hägn!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA["Master" superfood-paket]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Detta paket innehåller 125 enheter superfood och 20 tassar. Detta ger dig 125x dubbel BZ och gör framsteg mot att försköna dina hägn!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA["Expert" superfood-paket]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Detta paket innehåller 350 enheter superfood och 30 tassar, men också 5 presenter med 5 enheter superfood till 5 av dina vänner. Så de kan också dra nytta av detta paket!]]></item>
+    </category>
+  </category>
+</language>

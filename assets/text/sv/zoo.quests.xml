@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.quests">
+    <category name="zoo.quests.tabs">
+      <item name="zoo.quests.tabs.daily"><![CDATA[Dagliga uppgifter]]></item>
+      <item name="zoo.quests.tabs.achievements"><![CDATA[Högsta betyg]]></item>
+      <item name="zoo.quests.tabs.collectables"><![CDATA[Samlingar]]></item>
+    </category>
+    <category name="zoo.quests.daily">
+      <item name="zoo.quests.daily.info"><![CDATA[Det finns mycket arbete att göra varje dag på varje djurpark: alla hjälpande händer är välkomna! Ta dig an dessa dagliga uppgifter och få dem gjorda.]]></item>
+      <item name="zoo.quests.daily.nextquest.timestamp"><![CDATA[Nya uppgifter i:]]></item>
+      <item name="zoo.quests.daily.refreshTitle"><![CDATA[Dagliga uppgifter]]></item>
+      <item name="zoo.quests.daily.refreshQuestion"><![CDATA[För en liten avgift kan du få nya dagliga uppgifter. Skulle du vilja det?]]></item>
+      <item name="zoo.quests.daily.taskTitle"><![CDATA[Uppgift]]></item>
+      <item name="zoo.quests.daily.rewardTitle"><![CDATA[Ersättning]]></item>
+      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Starta\uppgift]]></item>
+      <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Få belöning]]></item>
+      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Avbryt\uppgift]]></item>
+      <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Uppgift]]></item>
+      <item name="zoo.quests.daily.window.activequest.info"><![CDATA[Du gör redan en annan uppgift. Slutför den aktiva uppgiften innan du påbörjar nästa.]]></item>
+      <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Avboka]]></item>
+      <item name="zoo.quests.daily.window.abortquest.info"><![CDATA[Om du avbryter den här uppgiften kommer den att tas bort från din uppgiftslista. Är du säker på att du vill avbryta den?]]></item>
+      <item name="zoo.quests.daily.window.achievereward.title"><![CDATA[Grattis!]]></item>
+      <item name="zoo.quests.daily.window.achievereward.info"><![CDATA[Du har slutfört din uppgift och får följande belöning:]]></item>
+    </category>
+    <category name="zoo.quests.help">
+      <item name="zoo.quests.help.daily.title"><![CDATA[Läsexempel]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Exempel 1: Ge 50 balar mat till valfria djur.<br>Exempel 2: Föd upp 2 lejonungar.]]></item>
+    </category>
+    <category name="zoo.quests.achievements.individual">
+      <item name="zoo.quests.achievements.individual.info.congrats"><![CDATA[Toppen! Du har slutfört följande uppgift:]]></item>
+      <item name="zoo.quests.achievements.individual.1.title"><![CDATA[Mästare på att gosa]]></item>
+      <item name="zoo.quests.achievements.individual.2.title"><![CDATA[Djurvän]]></item>
+      <item name="zoo.quests.achievements.individual.3.title"><![CDATA[Avelsexpert]]></item>
+      <item name="zoo.quests.achievements.individual.4.title"><![CDATA[Köpman/handlare]]></item>
+      <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Biffmästare]]></item>
+      <item name="zoo.quests.achievements.individual.6.title"><![CDATA[Det måste råda ordning.]]></item>
+      <item name="zoo.quests.achievements.individual.7.title"><![CDATA[Fullkornsfläkt]]></item>
+      <item name="zoo.quests.achievements.individual.8.title"><![CDATA[Bra gjort]]></item>
+      <item name="zoo.quests.achievements.individual.9.title"><![CDATA[Gräs är kul]]></item>
+      <item name="zoo.quests.achievements.individual.10.title"><![CDATA[Vitaminberoende]]></item>
+      <item name="zoo.quests.achievements.individual.11.title"><![CDATA[Färsk fisk]]></item>
+      <item name="zoo.quests.achievements.individual.12.title"><![CDATA[Törstsläckare]]></item>
+      <item name="zoo.quests.achievements.individual.1.requirement"><![CDATA[De gosade med sina %val%-mal djur.]]></item>
+      <item name="zoo.quests.achievements.individual.2.requirement"><![CDATA[Äger %val% av djuren.]]></item>
+      <item name="zoo.quests.achievements.individual.3.requirement"><![CDATA[Uppfostra %val% av bebisarna.]]></item>
+      <item name="zoo.quests.achievements.individual.4.requirement"><![CDATA[Samla %val% gånger inkomsten i zoogross för dina byggnader.]]></item>
+      <item name="zoo.quests.achievements.individual.5.requirement"><![CDATA[Mata %val%- gånger köttbitar.]]></item>
+      <item name="zoo.quests.achievements.individual.6.requirement"><![CDATA[Visa %val% papperskorg.]]></item>
+      <item name="zoo.quests.achievements.individual.7.requirement"><![CDATA[Mata %val% spannmål.]]></item>
+      <item name="zoo.quests.achievements.individual.8.requirement"><![CDATA[Tjäna %val% XP genom att tömma papperskorgen.]]></item>
+      <item name="zoo.quests.achievements.individual.9.requirement"><![CDATA[Mata %val% gräs.]]></item>
+      <item name="zoo.quests.achievements.individual.10.requirement"><![CDATA[Ge %val% frukt.]]></item>
+      <item name="zoo.quests.achievements.individual.11.requirement"><![CDATA[Mata %val% av fisken.]]></item>
+      <item name="zoo.quests.achievements.individual.12.requirement"><![CDATA[Ge dina djur %val% vatten.]]></item>
+      <item name="zoo.quests.achievements.individual.bronze.congrats"><![CDATA[Dina djur jublar eftersom du har låst upp en ny pusselbit i bronssetet.]]></item>
+      <item name="zoo.quests.achievements.individual.silver.congrats"><![CDATA[Dina djur jublar eftersom du har släppt en ny pusselbit i silversetet.]]></item>
+      <item name="zoo.quests.achievements.individual.gold.congrats"><![CDATA[Dina djur jublar eftersom du har låst upp en ny pusselbit i det gyllene setet.]]></item>
+      <item name="zoo.quests.achievements.individual.platinum.congrats"><![CDATA[Dina djur jublar eftersom du har låst upp en ny pusselbit i Platinum-setet.]]></item>
+      <item name="zoo.quests.achievements.individual.open.achievements.info"><![CDATA[Gå nu till ditt aktivitetsfönster för att visa bilden!]]></item>
+    </category>
+    <category name="zoo.quests.achievements.unlocked">
+      <item name="zoo.quests.achievements.unlocked.bronze.title"><![CDATA[Bronsset]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.title"><![CDATA[Silverset]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.title"><![CDATA[Guldset]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.title"><![CDATA[Platinaset]]></item>
+      <item name="zoo.quests.achievements.unlocked.bronze.description"><![CDATA[Grattis! Du har slutfört alla uppgifter i bronssetet och kommer att få följande belöningar:]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.description"><![CDATA[Grattis! Du har slutfört alla uppgifter i Silversetet och kommer att få följande belöningar:]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.description"><![CDATA[Grattis! Du har slutfört alla uppgifter i Guldsetet och kommer att få följande belöningar:]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.description"><![CDATA[Grattis! Du har slutfört alla uppgifter i Platinum-setet och kommer att få följande belöningar:]]></item>
+      <item name="zoo.quests.achievements.unlocked.open.achievements.info"><![CDATA[Gå nu till ditt aktivitetsfönster för att se den helt upplåsta bilden!]]></item>
+      <item name="zoo.quests.help.daily.title"><![CDATA[Läsexempel]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Exempel 1: Ge valfritt djur 50 gånger så mycket mat.<br>Exempel 2: Föd upp 2 lejonungar.]]></item>
+    </category>
+  </category>
+</language>

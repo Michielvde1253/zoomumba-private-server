@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Hej! Jag heter Lucka och jag älskar fladdermöss! Men särskilt deras söta bebisar. Ta med så många bebisar som möjligt till mig, så har jag några riktigt fina Halloween-prylar till er. Byt bara ut söta för att få föremålen till vänster eller sura för att få föremålen till höger.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Lager]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Välj hur många %species% ungar du vill flytta till ditt inventarium.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Vi ber om ursäkt!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Tyvärr har du inte tillräckligt med fladdermössungar i ditt inventarium. Föd upp fladdermössungar och flytta dem till ditt inventarium för att köpa den här artikeln.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Små fladdermöss i inventariet]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Byt små fladdermöss mot godis]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Byt ut små fladdermöss mot sura]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Nummer: Söt]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Investera %x% godis för att låsa upp det här föremålet]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Investera %x% sour för att låsa upp det här föremålet]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Nummer: Sur]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Hjälp]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Flytta fladdermusungar till inventariet]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Välkommen till Halloween-evenemanget!<br> Från <b>25 oktober till 1 november</b> börjar en kuslig fest i ditt zoo! Massor av presenter och överraskningar väntar på dig. I nästa steg får du se hur allt kommer att fungera.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Samla så många <b>söta</b> och <b>sura</b> som möjligt! Du behöver det söta och sura för att aktivera spökvagnarna! Du får reda på hur allt fungerar på nästa sida.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Om du har tillräckligt med sött och surt kan du använda det för att aktivera <b>föremål</b>. Men var försiktig: Sötsaker får dig att titta med ögat åt vänster, sura med ögat åt höger. Ögat visar dig vilken sida föremålen aktiveras på.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Du kan få aktiverade föremål genom att byta dem mot <b>fladdermössungar</b>. Föd upp massor av söta fladdermöss. En ny knapp i inhägnadens meny hjälper dig att spara ungarna i ditt inventarium snabbt och enkelt.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Ha kul i den kusliga butiken!<br> För alla otåliga: Sötsurt kan bytas mot fladdermössungar i butiken. Fler överraskningar väntar dig i butiken.<br> <br>Ha kul på Halloween i år!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[Det är dags för lite läskigt skoj!<br>Från <b>31 oktober till 6 november</b> blir det Halloweenfest på din djurpark!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Samla så många <b>pumpor</b> som möjligt! De kommer att dyka upp ur inhägnaderna medan du tar hand om dina djur.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Lägg dem i den stora pumpakorgen för vår <b>Pumpastrid</b>. Ju fler pumpor du levererar, desto fler skrämmande belöningar kan du vinna.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Medan du tar hand om dina djur kommer det att dyka upp godsaker ur inhägnaderna. Ni kan samla dem tillsammans. Aktivitetsfältet fylls och ett svävande öga visar vilka kusliga priser som finns tillgängliga för alla. Klicka på belöningen när den har aktiverats.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Samla pumpor till den stora pumpastriden. Ju fler du samlar, desto fler priser kan du vinna.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Alla leker tillsammans! Godisar från alla djurparker fyller mätaren och låser automatiskt upp priser för alla!]]></item>
+    </category>
+  </category>
+</language>

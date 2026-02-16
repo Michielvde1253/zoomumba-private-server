@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.waterstorehouse">
+    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Vattentorn]]></item>
+    <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Lagerbyggnad]]></item>
+    <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Djur behöver mycket vatten. Uppgradera ditt vattentorn nivå för nivå och se till att du har tillräckligt med vatten till alla allt eftersom ditt zoo växer.]]></item>
+    <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Dina djur behöver mycket mat. Utöka ditt förråd nivå för nivå och se till att du har tillräckligt med mat till alla allt eftersom ditt zoo växer.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Bra! Du har utökat lagret till max.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[Bra! Du har byggt ut vattentornet till sin maxnivå.]]></item>
+    <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Aktuální stupeň rozšíření: %have% / %max%]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.water"><![CDATA[Vattentornets nuvarande kapacitet]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.store"><![CDATA[Lagringens nuvarande kapacitet]]></item>
+    <item name="zoo.window.waterstorehouse.buy.titel"><![CDATA[Expandera]]></item>
+    <item name="zoo.window.waterstorehouse.buy.text"><![CDATA[Skulle du vilja<br>utöka ditt zoo?]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgraderc"><![CDATA[Expandera för zoodollars]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Expandera för zoogrosh]]></item>
+    <item name="zoo.window.waterstorehouse.buy.nextcap"><![CDATA[Ny storlek:]]></item>
+  </category>
+</language>

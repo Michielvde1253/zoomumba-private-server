@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Vaktmästare Stanley]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Stanley kommer att hålla alla inhägnader skinande rena. Hans knep är att involvera djuren, vilket gör städningen till en rolig lek.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Målvakt Sonja]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Djurskötaren Sonja vet hur man tar hand om djuren perfekt. Bara hon kan gosa med alla djuren samtidigt.]]></item>
+  </category>
+</language>
