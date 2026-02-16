@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Привет, меня зовут Тина, и я забочусь о ваших детенышах. Они вырастают во взрослых животных в моем питомнике. Выберите детеныша, которого хотите вырастить, из своего инвентаря.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Готов к росту]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Здесь растёт медвежонок.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Твой детёныш вырос!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Поднимать]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Используйте эссенцию]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Немедленно повысьте]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Животноводство]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Тенто прчек буде ихнед одчован:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Осталось времени:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Немедленно повысьте]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Не успеешь оглянуться, как твой малыш уже станет взрослым!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Зелье роста сокращает время размножения на 50%.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Ура! Этот малыш вырос и переместился в ваш инвентарь:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Внимание: Здесь растёт малыш! Если вы переместите детскую комнату в инвентарь, процесс будет прерван. Вы уверены, что хотите переместить её сейчас?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Внимание: Здесь растёт малыш! Если вы продадите питомник сейчас, процесс продажи будет прерван. Вы уверены, что хотите продать его сейчас?]]></item>
+    </category>
+  </category>
+</language>

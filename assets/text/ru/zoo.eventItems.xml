@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Тыква-фонарь]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Жуткие резные тыквы, называемые фонарями Джека, светятся в темноте хэллоуинской ночи. Его ужасающая гримаса становится еще страшнее от мерцающего света свечи. Ууу]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[Рождественская елка]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[Выросла стройная ель...! Рождественское украшение, дополненное рождественскими подарками.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Сердце]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Пусть удача сопутствует вам! Во многих странах люди верят, что поцелуй трубочиста в День святого Валентина принесет им большую удачу!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Торт на день рождения]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Ммм! Какой же день рождения без калорийного угощения?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Торт на день рождения]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Ммм! Какой же день рождения без этого калорийного лакомства?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Гора пасхальных яиц]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[Прекрасная коллекция пасхальных яиц. Раньше использовали расписные куриные яйца. Сейчас чаще встречаются шоколадные яйца.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Радужное яйцо]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Специально адаптированные пасхальные яйца, предназначенные для детей с нарушениями зрения, позволяют им принять участие в пасхальной охоте. Яйца издают звуковой сигнал или проигрывают мелодию.]]></item>
+  </category>
+</language>

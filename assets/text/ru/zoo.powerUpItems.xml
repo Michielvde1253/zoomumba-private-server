@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.powerUpItems">
+    <item name="zoo.powerUpItems.setName.7"><![CDATA[Усилитель для лап]]></item>
+    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[Усилитель «Лапы» даст вам на 50% больше лап в течение 5 часов. Он активируется сразу после выбора.]]></item>
+  </category>
+</language>

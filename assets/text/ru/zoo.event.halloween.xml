@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Привет! Меня зовут Лука, и я обожаю летучих мышей! Особенно их милых детенышей. Принесите мне как можно больше детенышей, и тогда у меня будут для вас отличные предметы на Хэллоуин. Просто обменяйте сладких детенышей на предметы слева или кислых — на предметы справа.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Инвентаризация]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Выберите, сколько детенышей вида %species% вы хотите переместить в свой инвентарь.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Приносим свои извинения!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[К сожалению, у вас недостаточно детенышей летучих мышей в инвентаре. Разведите детенышей летучих мышей и переместите их в свой инвентарь, чтобы приобрести этот предмет.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[В наличии мелкие летучие мыши.]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Обменяйте маленьких летучих мышей на сладости.]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Замените мелких летучих мышей на кислых.]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Номер: Сладкий]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Вложите %x% сладостей, чтобы разблокировать этот предмет.]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Вложите %x% кислого, чтобы разблокировать этот предмет.]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Номер: Кислый]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Помощь]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Переместите детенышей летучих мышей в инвентарь.]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Добро пожаловать на Хэллоуинское событие!<br> С <b>25 октября по 1 ноября</b> в вашем зоопарке начинается жуткая вечеринка! Вас ждет множество подарков и сюрпризов. На следующем шаге вы увидите, как все будет происходить.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Соберите как можно больше <b>сладкого</b> и <b>кислого</b>! Сладкий и кислый нужны для активации трейлеров-призраков! Как это работает, вы узнаете на следующей странице.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Если у вас достаточно кисло-сладких конфет, вы можете использовать их для активации предметов. Но будьте осторожны: кисло-сладкие конфеты заставят вас смотреть влево, а кисло-сладкие — вправо. Глаз покажет вам, с какой стороны активируются предметы.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Вы можете получить активируемые предметы, обменяв их на <b>детенышей летучих мышей</b>. Выращивайте много милых летучих мышей. Новая кнопка в меню вольера поможет вам быстро и легко сохранять детенышей в свой инвентарь.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Веселитесь в жутком магазине!<br> Для всех нетерпеливых: в магазине кисло-сладкие конфеты можно обменять на детенышей летучих мышей. В магазине вас ждут и другие сюрпризы.<br> <br>Веселого Хэллоуина в этом году!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[Пришло время для жуткого веселья!<br>С <b>31 октября по 6 ноября</b> в вашем зоопарке будет проходить вечеринка в честь Хэллоуина!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Соберите как можно больше тыкв! Они будут вылезать из загонов, пока вы ухаживаете за своими животными.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Добавьте их в большую корзину с тыквами для нашей <b>Тыквенной битвы</b>. Чем больше тыкв вы принесете, тем более ужасающие награды сможете выиграть.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Пока вы ухаживаете за своими животными, из вольеров будут выпадать лакомства. Вы можете собирать их все вместе. Шкала действий будет заполняться, и плавающий глаз покажет вам, какие жуткие призы доступны для всех. Нажмите на награду, как только она активируется.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Собирайте тыквы для большой тыквенной битвы. Чем больше вы соберете, тем больше призов сможете выиграть.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Играйте все вместе! Подарки из всех зоопарков заполнят шкалу и автоматически разблокируют призы для всех!]]></item>
+    </category>
+  </category>
+</language>

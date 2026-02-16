@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.upgrade">
+    <item name="zoo.window.upgrade.info"><![CDATA[Улучшите свои вольеры, украсьте их и сделайте свой зоопарк еще привлекательнее.]]></item>
+    <item name="zoo.window.upgrade.button"><![CDATA[Обновление]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[С 21 по 27 апреля пасхальный кролик будет прыгать по вашему зоопарку и оставлять яйца. Собирайте их и обменивайте на пасхальные украшения для вольеров, пасхальных кроликов и вольеры.]]></item>
+  </category>
+</language>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.assistantItems">
+    <item name="zoo.assistantItems.setName.3"><![CDATA[Уборщик Стэнли]]></item>
+    <item name="zoo.assistantItems.setInfo.3"><![CDATA[Стэнли будет содержать все вольеры в идеальной чистоте. Его секрет в том, чтобы вовлечь животных, превратив уборку в веселую игру.]]></item>
+    <item name="zoo.assistantItems.setName.4"><![CDATA[Хранительница Соня]]></item>
+    <item name="zoo.assistantItems.setInfo.4"><![CDATA[Смотрительница Соня знает, как идеально заботиться о животных. Только она может обнять всех животных одновременно.]]></item>
+  </category>
+</language>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Мусорное ведро]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Люди оставляют после себя мусор! Чем больше мусорных баков в вашем зоопарке, тем меньше вам придётся убирать за посетителями.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Мусорное ведро мумии]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Уф... Я хочу мусор!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Призрак мусорного бака]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Хуууууу... Мусор]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Мусорный бак Вампир]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Мне нужно что-нибудь, за что можно укуситься. Отдайте мне свой мусор!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Мусорный Монстр]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Мммм... Вполне вкусно, как мусор!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Мусорное ведро на день рождения]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Мммм, оберточная бумага!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Мусорное ведро для китов]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA[«Я проглочу весь твой мусор!»]]></item>
+  </category>
+</language>

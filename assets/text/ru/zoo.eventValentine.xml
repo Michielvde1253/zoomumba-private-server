@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Добро пожаловать на наше мероприятие, посвященное Дню святого Валентина! С 8 по 15 февраля вас ждет романтическая атмосфера! Наслаждайтесь игрой в нашу игру ко Дню святого Валентина и ждите множество замечательных призов!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Посмотрите, как это сделать:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Позаботьтесь о своих животных и соберите предметы ко Дню святого Валентина: сердечки, любовные записки и лук и стрелы Купидона. Используйте их, чтобы выиграть очаровательные сюрпризы в этой романтической игре ко Дню святого Валентина!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Собранные предметы позволяют перемещаться по игровому полю и получать призы: вас ждут величественные олени, а также запасы эссенции Толиджа и зелий роста!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Также загляните в магазин — там вы найдете полезные бустеры, которые обеспечат еще больший успех и удовольствие от игры!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Удваивает количество товаров ко Дню святого Валентина на 1 час.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Перезапустите настольную игру]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Наша акция ко Дню святого Валентина почти закончилась! Вы больше не будете получать бантики, письма или сердечки. Но не сдавайтесь! У вас еще есть столько-то времени, чтобы выиграть награды ко Дню святого Валентина:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Теперь, когда вы выиграли оленя и лань, вы можете начать настольную игру заново! Просто нажмите на зеленую галочку или новую кнопку на игровом поле!]]></item>
+    </category>
+  </category>
+</language>

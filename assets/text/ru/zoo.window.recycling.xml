@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.recycling">
+    <item name="zoo.window.recycling.title"><![CDATA[Переработка отходов]]></item>
+    <item name="zoo.window.recycling.info"><![CDATA[В отходах вы найдете много сырья, которое можно переработать и получить ценные материалы.]]></item>
+    <item name="zoo.window.recycling.storage.info"><![CDATA[Вместимость вашего склада: %количество% от общей вместимости %максимальноеколичество%]]></item>
+    <item name="zoo.window.recycling.produce.text"><![CDATA[Создавайте ресурсы из собранных отходов. Время, необходимое для создания этих материалов, указано слева. Ниже вы можете увидеть количество необходимых отходов и количество зоогро. Выберите, сколько ресурсов вы хотите создать. Каждый раз, когда вы что-то создаёте, у вас есть шанс получить редкий ресурс. Вы можете увеличить этот шанс, используя суперфильтр.]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertitle"><![CDATA[Суперфильтр]]></item>
+    <item name="zoo.window.recycling.produce.superfiltertext"><![CDATA[Увеличьте свои шансы на получение редкого ресурса на %процентов%%]]></item>
+    <item name="zoo.window.recycling.produce.rarechancetext"><![CDATA[Вероятность получения редкого ресурса: %%%]]></item>
+    <item name="zoo.window.recycling.produce.startrecycle"><![CDATA[Начните переработку отходов]]></item>
+    <item name="zoo.window.recycling.produce.insertfilter"><![CDATA[Применить фильтр]]></item>
+    <item name="zoo.window.recycling.produce.deletefilter"><![CDATA[Удалить фильтр]]></item>
+    <item name="zoo.window.recycling.card.create"><![CDATA[Делать]]></item>
+    <category name="zoo.window.recycling.slot">
+      <item name="zoo.window.recycling.slot.title.buy"><![CDATA[Арендуйте сейчас]]></item>
+      <item name="zoo.window.recycling.slot.title.chooseItem"><![CDATA[Доступный]]></item>
+      <item name="zoo.window.recycling.slot.button.processfinished"><![CDATA[Подобрать]]></item>
+      <item name="zoo.window.recycling.slot.button.start"><![CDATA[Начинать]]></item>
+      <item name="zoo.window.recycling.slot.button.chooseItem"><![CDATA[Выбирать]]></item>
+    </category>
+    <category name="zoo.window.recycling.info">
+      <item name="zoo.window.recycling.info.switchInfo"><![CDATA[Используйте этот материал для изготовления следующих предметов:]]></item>
+    </category>
+  </category>
+</language>

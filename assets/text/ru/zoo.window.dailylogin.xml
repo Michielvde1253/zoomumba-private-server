@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.dailylogin">
+    <item name="zoo.window.dailylogin.title"><![CDATA[Ежедневный бонус за вход в систему]]></item>
+    <item name="zoo.window.dailylogin.info"><![CDATA[Заходите ежедневно — это того стоит! Получайте отличные призы каждый день!]]></item>
+    <item name="zoo.window.dailylogin.reward"><![CDATA[Ваша ежедневная награда:]]></item>
+    <item name="zoo.window.dailylogin.day"><![CDATA[День: %дня%]]></item>
+    <item name="zoo.window.dailylogin.eventshop"><![CDATA[Специальное предложение]]></item>
+  </category>
+</language>

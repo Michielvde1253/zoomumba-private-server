@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.construction">
+    <item name="zoo.window.construction.title"><![CDATA[Строительство]]></item>
+    <item name="zoo.window.construction.info"><![CDATA[О]]></item>
+    <item name="zoo.window.construction.buildinginfo"><![CDATA[Почти готово! Осталось только:]]></item>
+    <item name="zoo.window.construction.buildinginfo2"><![CDATA[Или получите предмет немедленно (без строительства):]]></item>
+    <item name="zoo.window.construction.button.buydirectly"><![CDATA[Купить сейчас]]></item>
+  </category>
+</language>
