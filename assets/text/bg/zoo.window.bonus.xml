@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bonus">
+    <item name="zoo.window.bonus.main.title"><![CDATA[Бонус код]]></item>
+    <item name="zoo.window.bonus.main.info"><![CDATA[Имате ли бонус код за ZooMumba? Просто го въведете тук и получете бонуса си веднага!]]></item>
+    <item name="zoo.window.bonus.success.title"><![CDATA[Поздравления,]]></item>
+    <item name="zoo.window.bonus.success.info"><![CDATA[Чудесно, въведохте правилно бонус кода и получихте наградата си. Пожелаваме ви много забавление!]]></item>
+    <category name="zoo.window.bonus.error">
+      <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Грешка]]></item>
+      <item name="zoo.window.bonus.error.invalid.info"><![CDATA[За съжаление, бонус кодът е неправилен. Моля, проверете кода и опитайте отново.]]></item>
+      <item name="zoo.window.bonus.error.participated.title"><![CDATA[Грешка]]></item>
+      <item name="zoo.window.bonus.error.participated.info"><![CDATA[Вече сте заявили този бонус код.]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Грешка]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[Въвели сте бонус кода неправилно твърде много пъти. Моля, изчакайте няколко минути, преди да опитате отново.]]></item>
+    </category>
+  </category>
+</language>

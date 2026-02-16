@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop">
+    <category name="zoo.shop.category">
+      <item name="zoo.shop.category.animals"><![CDATA[Животни]]></item>
+      <item name="zoo.shop.category.cages"><![CDATA[Местообитания]]></item>
+      <item name="zoo.shop.category.stores"><![CDATA[Сгради]]></item>
+      <item name="zoo.shop.category.deco"><![CDATA[Декорации]]></item>
+      <item name="zoo.shop.category.resources"><![CDATA[Храна]]></item>
+      <item name="zoo.shop.category.assistants"><![CDATA[Асистенти]]></item>
+      <item name="zoo.shop.category.specials"><![CDATA[Аксесоари]]></item>
+      <item name="zoo.shop.category.roads"><![CDATA[Пътища]]></item>
+      <item name="zoo.shop.category.material"><![CDATA[Материал]]></item>
+    </category>
+    <category name="zoo.shop.tabbar">
+      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Ето как стигате до работилницата.]]></item>
+    </category>
+  </category>
+</language>

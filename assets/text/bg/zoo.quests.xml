@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.quests">
+    <category name="zoo.quests.tabs">
+      <item name="zoo.quests.tabs.daily"><![CDATA[Ежедневни задачи]]></item>
+      <item name="zoo.quests.tabs.achievements"><![CDATA[Почести]]></item>
+      <item name="zoo.quests.tabs.collectables"><![CDATA[Колекции]]></item>
+    </category>
+    <category name="zoo.quests.daily">
+      <item name="zoo.quests.daily.info"><![CDATA[Всеки ден във всяка зоологическа градина има много работа: всяка помощ е добре дошла! Поемете тези ежедневни задачи и ги свършете.]]></item>
+      <item name="zoo.quests.daily.nextquest.timestamp"><![CDATA[Нови задачи в:]]></item>
+      <item name="zoo.quests.daily.refreshTitle"><![CDATA[Ежедневни задачи]]></item>
+      <item name="zoo.quests.daily.refreshQuestion"><![CDATA[Срещу малка такса можете да получите нови ежедневни задачи. Искате ли?]]></item>
+      <item name="zoo.quests.daily.taskTitle"><![CDATA[Задача]]></item>
+      <item name="zoo.quests.daily.rewardTitle"><![CDATA[Възнаграждение]]></item>
+      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Старт\задача]]></item>
+      <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Вземете награда]]></item>
+      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Прекратяване на задачата]]></item>
+      <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Задача]]></item>
+      <item name="zoo.quests.daily.window.activequest.info"><![CDATA[Вече изпълнявате друга задача. Моля, завършете активната задача, преди да започнете следващата.]]></item>
+      <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Отказ]]></item>
+      <item name="zoo.quests.daily.window.abortquest.info"><![CDATA[Ако отмените тази задача, тя ще бъде премахната от списъка ви със задачи. Наистина ли искате да я отмените?]]></item>
+      <item name="zoo.quests.daily.window.achievereward.title"><![CDATA[Поздравления!]]></item>
+      <item name="zoo.quests.daily.window.achievereward.info"><![CDATA[Вие успешно изпълнихте задачата си и получавате следната награда:]]></item>
+    </category>
+    <category name="zoo.quests.help">
+      <item name="zoo.quests.help.daily.title"><![CDATA[Примери за четене]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Пример 1: Дайте 50 бали храна на всякакви животни.<br>Пример 2: Отгледайте 2 лъвчета.]]></item>
+    </category>
+    <category name="zoo.quests.achievements.individual">
+      <item name="zoo.quests.achievements.individual.info.congrats"><![CDATA[Чудесно! Успешно завършихте следната задача:]]></item>
+      <item name="zoo.quests.achievements.individual.1.title"><![CDATA[Майстор на гушкането]]></item>
+      <item name="zoo.quests.achievements.individual.2.title"><![CDATA[Приятел на животните]]></item>
+      <item name="zoo.quests.achievements.individual.3.title"><![CDATA[Експерт по развъждане]]></item>
+      <item name="zoo.quests.achievements.individual.4.title"><![CDATA[Търговец/занаятчия]]></item>
+      <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Стек Майстор]]></item>
+      <item name="zoo.quests.achievements.individual.6.title"><![CDATA[Трябва да има ред.]]></item>
+      <item name="zoo.quests.achievements.individual.7.title"><![CDATA[Вентилатор за пълнозърнести храни]]></item>
+      <item name="zoo.quests.achievements.individual.8.title"><![CDATA[Браво]]></item>
+      <item name="zoo.quests.achievements.individual.9.title"><![CDATA[Тревата е забавна]]></item>
+      <item name="zoo.quests.achievements.individual.10.title"><![CDATA[Витаминен пристрастен]]></item>
+      <item name="zoo.quests.achievements.individual.11.title"><![CDATA[Прясна риба]]></item>
+      <item name="zoo.quests.achievements.individual.12.title"><![CDATA[Утоли жаждата]]></item>
+      <item name="zoo.quests.achievements.individual.1.requirement"><![CDATA[Те се гушкаха със своите %val%-малки животни.]]></item>
+      <item name="zoo.quests.achievements.individual.2.requirement"><![CDATA[Притежавам %val% от животни.]]></item>
+      <item name="zoo.quests.achievements.individual.3.requirement"><![CDATA[Отгледайте %val% от бебетата.]]></item>
+      <item name="zoo.quests.achievements.individual.4.requirement"><![CDATA[Събирайте %val% умножено по дохода в зоогроси за вашите сгради.]]></item>
+      <item name="zoo.quests.achievements.individual.5.requirement"><![CDATA[Хранете с %val%-кратно количество парчета месо.]]></item>
+      <item name="zoo.quests.achievements.individual.6.requirement"><![CDATA[Показване на кошчето за боклук %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.7.requirement"><![CDATA[Хранете със зърно %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.8.requirement"><![CDATA[Спечелете %val% XP, като изпразните кошчето.]]></item>
+      <item name="zoo.quests.achievements.individual.9.requirement"><![CDATA[Хранете с трева %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.10.requirement"><![CDATA[Хранете с плодове %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.11.requirement"><![CDATA[Хранете %val% от рибата.]]></item>
+      <item name="zoo.quests.achievements.individual.12.requirement"><![CDATA[Давайте на животните си %val% вода.]]></item>
+      <item name="zoo.quests.achievements.individual.bronze.congrats"><![CDATA[Животните ви се радват, защото сте отключили ново парче пъзел в комплекта Бронз.]]></item>
+      <item name="zoo.quests.achievements.individual.silver.congrats"><![CDATA[Вашите животни се радват, защото сте пуснали ново парче пъзел в сребърния комплект.]]></item>
+      <item name="zoo.quests.achievements.individual.gold.congrats"><![CDATA[Животните ви се радват, защото сте отключили ново парче пъзел в златния комплект.]]></item>
+      <item name="zoo.quests.achievements.individual.platinum.congrats"><![CDATA[Животните ви се радват, защото сте отключили ново парче пъзел в Платинения комплект.]]></item>
+      <item name="zoo.quests.achievements.individual.open.achievements.info"><![CDATA[Сега отидете в прозореца на задачата, за да видите изображението!]]></item>
+    </category>
+    <category name="zoo.quests.achievements.unlocked">
+      <item name="zoo.quests.achievements.unlocked.bronze.title"><![CDATA[Бронзов комплект]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.title"><![CDATA[Сребърен комплект]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.title"><![CDATA[Златен комплект]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.title"><![CDATA[Платинен комплект]]></item>
+      <item name="zoo.quests.achievements.unlocked.bronze.description"><![CDATA[Поздравления! Успешно изпълнихте всички задачи от Бронзовия комплект и ще получите следните награди:]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.description"><![CDATA[Поздравления! Успешно изпълнихте всички задачи от Сребърния комплект и ще получите следните награди:]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.description"><![CDATA[Поздравления! Успешно изпълнихте всички задачи от Златния комплект и ще получите следните награди:]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.description"><![CDATA[Поздравления! Успешно изпълнихте всички задачи от Платинен комплект и ще получите следните награди:]]></item>
+      <item name="zoo.quests.achievements.unlocked.open.achievements.info"><![CDATA[Сега отидете в прозореца на задачата, за да видите напълно отключеното изображение!]]></item>
+      <item name="zoo.quests.help.daily.title"><![CDATA[Примери за четене]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Пример 1: Дайте 50 пъти повече храна на всякакви животни.<br>Пример 2: Отгледайте 2 лъвчета.]]></item>
+    </category>
+  </category>
+</language>

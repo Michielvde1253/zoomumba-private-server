@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Добре дошли на нашето събитие за Свети Валентин! От 8 до 15 февруари ще има романтична атмосфера! Забавлявайте се, играейки нашата игра за Свети Валентин и очаквайте много страхотни награди!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Вижте как да го направите:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Грижете се за животните си и събирайте предмети за Свети Валентин: сърца, любовни бележки и лък и стрели на Купидон. Използвайте ги, за да спечелите очарователни изненади по време на романтичната игра за Свети Валентин!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Със събраните от вас предмети можете да се движите по игралното поле и да събирате награди: Очакват ви величествени елени и запаси от есенция на Толия и отвари за растеж!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Разгледайте и магазина - там ще намерите полезни бустери, които ще ви осигурят още по-голям успех и забавление в играта!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Удвоява броя на артикулите за Свети Валентин за 1 час.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Рестартирайте настолната игра]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Нашето събитие за Свети Валентин почти приключи! Няма да получавате повече панделки, писма или сърца. Но не се отказвайте! Все още имате толкова време, за да спечелите награди за Свети Валентин:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[След като спечелихте битката с елена и кошутата, можете да започнете настолната игра отново! Просто кликнете върху зелената отметка или върху новия бутон на игралното поле!]]></item>
+    </category>
+  </category>
+</language>

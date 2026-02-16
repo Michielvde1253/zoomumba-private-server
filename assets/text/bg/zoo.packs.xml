@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA[Пакет със суперхрани „Добър старт“]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Този пакет съдържа 40 единици Superfood и 5 Paws. Това ще ви даде 40 пъти двойно BZ при хранене и ще видите напредък в разкрасяването на вашите заграждения!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA[Пакет със суперхрани "Master"]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Този пакет съдържа 125 единици суперхрана и 20 Paws. Това ще ви даде 125 пъти двойно BZ и ще ви помогне да разкрасите загражденията си!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA[Пакет със суперхрани "Експерт"]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Този пакет съдържа 350 единици суперхрана и 30 лапи, но също така и 5 подаръка с 5 единици суперхрана за 5 от вашите приятели. Така че те също могат да се възползват от този пакет!]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.general">
+    <item name="zoo.window.general.error"><![CDATA[Грешка]]></item>
+    <item name="zoo.window.general.petPenny_singular"><![CDATA[Зоогрос]]></item>
+    <item name="zoo.window.general.petPenny_plural"><![CDATA[Зоогрос]]></item>
+    <item name="zoo.window.general.petPaw_singular"><![CDATA[Лапа]]></item>
+    <item name="zoo.window.general.petPaw_plural"><![CDATA[Лапа]]></item>
+    <item name="zoo.window.general.zooDollar_singular"><![CDATA[Зудолар]]></item>
+    <item name="zoo.window.general.zooDollar_plural"><![CDATA[Зудолари]]></item>
+    <item name="zoo.window.general.xp_singular"><![CDATA[Точка опит]]></item>
+    <item name="zoo.window.general.xp_plural"><![CDATA[Точки опит]]></item>
+    <item name="zoo.window.general.attractivity_singular"><![CDATA[Привлекателност]]></item>
+    <item name="zoo.window.general.start"><![CDATA[Старт]]></item>
+    <item name="zoo.window.general.skip"><![CDATA[Пропускане]]></item>
+    <item name="zoo.window.general.next"><![CDATA[Друго]]></item>
+    <item name="zoo.window.general.prev"><![CDATA[Обратно]]></item>
+    <item name="zoo.window.general.first"><![CDATA[Първо]]></item>
+    <item name="zoo.window.general.last"><![CDATA[Последен]]></item>
+    <item name="zoo.window.general.congrats"><![CDATA[Сърдечни поздравления!]]></item>
+    <item name="zoo.window.general.specialOffer"><![CDATA[Действие!]]></item>
+    <item name="zoo.window.general.attention"><![CDATA[Внимание!]]></item>
+    <item name="zoo.window.general.sorry"><![CDATA[Извиняваме се.]]></item>
+    <item name="zoo.window.general.goodbye"><![CDATA[Довиждане!]]></item>
+    <item name="zoo.window.general.thankyou"><![CDATA[Благодаря!]]></item>
+    <item name="zoo.window.general.second"><![CDATA[сек]]></item>
+    <item name="zoo.window.general.seconds"><![CDATA[секунди]]></item>
+    <item name="zoo.window.general.minute"><![CDATA[минута]]></item>
+    <item name="zoo.window.general.minutes"><![CDATA[мин.]]></item>
+    <item name="zoo.window.general.hour"><![CDATA[час]]></item>
+    <item name="zoo.window.general.hours"><![CDATA[часове]]></item>
+    <item name="zoo.window.general.day"><![CDATA[ден]]></item>
+    <item name="zoo.window.general.days"><![CDATA[дни]]></item>
+    <item name="zoo.window.general.week"><![CDATA[Седмица]]></item>
+    <item name="zoo.window.general.weeks"><![CDATA[седмици]]></item>
+    <item name="zoo.window.general.month"><![CDATA[месец]]></item>
+    <item name="zoo.window.general.months"><![CDATA[месеци]]></item>
+    <item name="zoo.window.general.year"><![CDATA[година]]></item>
+    <item name="zoo.window.general.years"><![CDATA[полет]]></item>
+  </category>
+</language>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Здравейте, аз съм Тина и се грижа за вашите бебета. Те растат във възрастни в моя развъдник за животни. Изберете бебето, което искате да отгледате, от вашия инвентар.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Готови за растеж]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Тук расте малкото.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Малкото ти е пораснало!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Повишаване]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Използвайте есенция]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Повишаване веднага]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Развъждане на животни]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Оставащо време:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Повишаване веднага]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Преди да се усетите, вашето мъниче ще стане възрастен!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Отварата за растеж намалява времето за размножаване с 50%.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Ура! Това бебе порасна и беше преместено в инвентара ви:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Внимание: Тук расте бебе! Ако преместите детската стая в инвентара, процесът ще бъде прекъснат. Сигурни ли сте, че искате да я преместите сега?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Внимание: Тук расте бебе! Ако продадете детската стая сега, процесът ще бъде прекъснат. Сигурни ли сте, че искате да я продадете сега?]]></item>
+    </category>
+  </category>
+</language>

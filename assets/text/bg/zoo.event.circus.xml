@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.circus">
+    <item name="zoo.event.circus.bubble"><![CDATA[Добре дошли в пътуващия цирк! Представяме ви Мистериозната кутия! Купете една кутия и вземете едно от 10 животни. Можете да имате до 20 кутии едновременно, а всяка кутия може да бъде отворена до 5 часа. Забавлявайте се!]]></item>
+    <item name="zoo.event.circus.prizes"><![CDATA[Животни:]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Сърдечни поздравления!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[Следните животни са добавени към инвентара ви: %animal%. Вземете още повече мистериозни сандъци, за да получите още повече уникални животни!]]></item>
+    <item name="zoo.event.circus.warningTitle"><![CDATA[О, съжаляваме!]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[Вече имаш 20 мистериозни сандъка. Изчакай, докато един от тях се отвори и след това вземи друг сандък.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[Мистериозната кутия ще се отвори за: %amount%]]></item>
+    <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Кликнете, за да видите вашите животни]]></item>
+    <item name="zoo.event.circus.autoBookTitle"><![CDATA[Добре дошъл отново!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[Докато ви нямаше, животните ви ожадняха от мистериозната клетка. Развъдчица Соня се погрижи за тях и ги занесе в инвентара си. Хвърлете един бърз поглед!]]></item>
+  </category>
+</language>

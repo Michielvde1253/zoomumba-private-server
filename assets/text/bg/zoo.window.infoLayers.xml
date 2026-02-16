@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.infoLayers">
+    <category name="zoo.window.infoLayers.forgottenZoo">
+      <item name="zoo.window.infoLayers.forgottenZoo.title"><![CDATA[Скрит зоопарк]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.info"><![CDATA[Поздравления! С третото разширение, кралството на Скрития зоопарк вече е в краката ви! Стрелката на паркинга ще ви насочи към Скрития зоопарк.]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.expansion"><![CDATA[За ограничен период от време можете да разширите своя Таен зоопарк до максималния му размер с една покупка! Отидете в своя Таен зоопарк, отворете магазина и кликнете върху „Добавки“. Ще намерите офертата тук!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemreward">
+      <item name="zoo.window.infoLayers.itemreward.recycling.title"><![CDATA[Рециклирането беше успешно!]]></item>
+      <item name="zoo.window.infoLayers.itemreward.recycling.info"><![CDATA[Страхотно, заслужаваше си! Рециклирахте тези материали от боклука. Ще ги намерите в инвентара си.]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.title"><![CDATA[Кутия изненада]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.info"><![CDATA[Ура! Кутията ви-изненада е пълна с горепосочените материали, които можете да използвате за по-нататъшна обработка. Можете да ги намерите в инвентара си.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedingLabNursery">
+      <item name="zoo.window.infoLayers.breedingLabNursery.info"><![CDATA[Отглеждайте нови животински видове! Развъдникът и развъдникът за животни вече са достъпни! Кликнете върху синия слон: Можете да намерите сградите в контролния център.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterNotification">
+      <item name="zoo.window.infoLayers.easterNotification.title"><![CDATA[Великденско пазаруване]]></item>
+      <item name="zoo.window.infoLayers.easterNotification.text"><![CDATA[Закупеният артикул е запазен във вашия инвентар.<br><br>Искате ли да отворите инвентара си сега?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterComic">
+      <item name="zoo.window.infoLayers.easterComic.layer1.bubble"><![CDATA[Добре дошли на Великденското събитие! От **21-ви до 27-ми април** Великденският заек ще раздава яйца. Събирайте ги, очакват ви страхотни награди. Кликнете върху стрелката, за да научите повече.]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer2.content"><![CDATA[Страхотните великденски украси ще ви донесат 50% повече BZ за всички събития в загражденията в продължение на 7 дни. Направете снимки на вашата великденска зоологическа градина и ги споделете с приятелите си във Facebook или във форума!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.header"><![CDATA[Хайде да търсим великденски яйца!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.content"><![CDATA[Сладките великденски надуваеми играчки ще привлекат много клиенти. А най-хубавото? Те ще останат във вашата зоологическа градина дори след Великден - както подобава на една истинска атракция!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer4.content"><![CDATA[Великденското заграждение винаги е атракция, независимо какви животни живеят в него. Великденските заграждения ще ви донесат 20% повече BZ още от самото начало!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.bubble"><![CDATA[Великденският заек редовно раздава яйца. Но щом във вашата зоологическа градина има повече от 5 яйца, снасянето на яйца ще приключи. Съвет: Ако искате да сте сигурни, че ще съберете всички яйца всеки път, попитайте вашата великденска помощничка Соня за съвет!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.content"><![CDATA[Едно зайче не ти е достатъчно? Тогава в секцията с аксесоари в магазина те очакват още великденски зайчета. Просто погледни!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Notification">
+      <item name="zoo.window.infoLayers.easter2012Notification.title"><![CDATA[Великденско пазаруване]]></item>
+      <item name="zoo.window.infoLayers.easter2012Notification.text"><![CDATA[Закупеният артикул е запазен във вашия инвентар.<br><br>Искате ли да отворите инвентара си сега?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Comic">
+      <item name="zoo.window.infoLayers.easter2012Comic.layer1.bubble"><![CDATA[Празнувайте Великден в зоологическата си градина! Ловът на великденски яйца ще се проведе от 5 до 11 април! Присъединете се към това великденско забавление и спечелете страхотни награди и изненади! Ето как:]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer2.content"><![CDATA[Погрижете се за животните си и открийте всички цветни яйца в загражденията си. Съберете и върнете яйцата на великденското игрово поле.<br><br>Забележка: броят на яйцата във вашите полета се удвоява всеки рунд!]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer3.content"><![CDATA[Пуснете великденските яйца на съответното игрово поле. Имаме червени, зелени и сини полета. Очакват ви фантастични великденски награди и сладки животни!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.fullScreen">
+      <item name="zoo.window.infoLayers.fullScreen.keyboard"><![CDATA[Искате ли да излезете от режим на цял екран, за да можете да пишете отново?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventUpgrade">
+      <item name="zoo.window.infoLayers.eventUpgrade"><![CDATA[Придайте на вашите заграждения още по-отличителна визия за рожден ден и ще получите 125% BZ и по-голям шанс за балони по време на рождения ден!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolbar">
+      <item name="zoo.window.infoLayers.toolbar.title"><![CDATA[Бонус]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info1"><![CDATA[Страхотно! Получи бонус от лентата с инструменти за влизане:]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info2"><![CDATA[Влезте отново утре, използвайки лентата с инструменти, и вземете още един бонус!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemInInventory">
+      <item name="zoo.window.infoLayers.itemInInventory.title"><![CDATA[Поздравления!]]></item>
+      <item name="zoo.window.infoLayers.itemInInventory.text"><![CDATA[Закупили сте следния артикул за инвентара си:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.animalInInventory">
+      <item name="zoo.window.infoLayers.animalInInventory.text"><![CDATA[Следното животно е добавено към инвентара ви:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemRedeemed">
+      <item name="zoo.window.infoLayers.itemRedeemed.title"><![CDATA[Поздравления!]]></item>
+      <item name="zoo.window.infoLayers.itemRedeemed.success"><![CDATA[Вашата награда е кредитирана.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.action.sorry">
+      <item name="zoo.window.infoLayers.action.sorry.title"><![CDATA[Извиняваме се!]]></item>
+      <item name="zoo.window.infoLayers.action.sorry.text"><![CDATA[Съжаляваме, но това събитие в момента не е налично.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.purchaseConfirmed">
+      <item name="zoo.window.infoLayers.purchaseConfirmed.title"><![CDATA[Поздравления!]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.simple"><![CDATA[Покупката беше кредитирана.]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.gift"><![CDATA[Вашата покупка е кредитирана и подаръците ви са изпратени.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.welcomeBack">
+      <item name="zoo.window.infoLayers.welcomeBack.title"><![CDATA[Добре дошъл отново!]]></item>
+      <item name="zoo.window.infoLayers.welcomeBack.text"><![CDATA[Животните са много щастливи да те видят отново.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedInInventory">
+      <item name="zoo.window.infoLayers.breedInInventory.title"><![CDATA[Внимание!]]></item>
+      <item name="zoo.window.infoLayers.breedInInventory.text"><![CDATA[В момента тук се провежда размножаване.<br> <br>Ако преместите заграждението в инвентара, процесът на размножаване ще бъде отменен.<br> <br>Наистина ли искате да продължите?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.collectables">
+      <item name="zoo.window.infoLayers.collectables.firstFinish.title"><![CDATA[Поздравления!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.text"><![CDATA[Ура! За първи път открихте всички части от %колекция%!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.button.socialShare"><![CDATA[Покажи приятели]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.title"><![CDATA[Поздравления!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.text"><![CDATA[Завършихте %колекция% за втори път!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.button.getGift"><![CDATA[Използвайте]]></item>
+      <item name="zoo.window.infoLayers.collectables.button.viewCollection"><![CDATA[Преглед на колекцията]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.adamPenguin">
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.title"><![CDATA[Топ пакет "Черна пантера"]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.text"><![CDATA[Сега, тук и само веднъж налично. „Черната пантера“ е тук ексклузивно за вас. И нещо допълнително, като например всички помощници за 24 часа безплатно!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.title"><![CDATA[Пакет „Бял тигър“]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.text"><![CDATA[Еднократна оферта - "комбо пакет" за страхотен старт! Вашата екипировка за начало на страхотна оферта!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.title"><![CDATA[Пакет "Терариум"]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.text"><![CDATA[Еднократна оферта - "комбо пакет" за страхотен старт! Вашата екипировка за начало на страхотна оферта!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.title"><![CDATA[Пакет „Прерия“]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.text"><![CDATA[Еднократна оферта - "комбо пакет" за страхотен старт! Вашата екипировка за начало на страхотна оферта!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.title"><![CDATA[Бонус за лоялност]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.text"><![CDATA[Само тук се предлага: пакет Zoodollars с вашия личен бонус за лоялност! Кликнете върху „купи“ и вземете още бонуси.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.payment">
+      <item name="zoo.window.infoLayers.payment.happyHourHeader"><![CDATA[Зудолари плюс %percent%%!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBody"><![CDATA[Сега желанието ти ще се сбъдне!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_1"><![CDATA[Вземете допълнителни зоодолари днес!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_2"><![CDATA[Купете например 100 зоодолара и вземете общо %extradollar% зоодолари!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_3"><![CDATA[Важи за всички методи на плащане с изключение на превод.]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourFin"><![CDATA[Не се колебайте! Офертата все още е валидна:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.conversionPack">
+      <item name="zoo.window.infoLayers.conversionPack_header"><![CDATA[Ексклузивно - само %priceCurrency%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_save"><![CDATA[Спестете %спестявания%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_footer"><![CDATA[И много повече...]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_infoHeader"><![CDATA[Не се колебайте и спестете %savings%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info1"><![CDATA[<ul><li>1 чифт женски кучета</li><li>1x заграждение тип савана</li><li>1 лебедово езерце</li><li>15x суперхрана</li><li>15x най-добра храна</li><li>10x суперлекарство</li><li>75 зоодолара</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info2"><![CDATA[<ul><li>1 двойка рисове</li><li>всички 6 асистента за 24 часа</li><li>1 скално заграждение</li><li>1 статуя на птица додо</li><li>25x суперхрана</li><li>25x най-добра храна</li><li>25x суперлекарство</li><li>150 зоодолара</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info3"><![CDATA[<ul><li>1 двойка бели тигри</li><li>всички 6 асистента за 24 часа</li><li>1 заграждение в тундра</li><li>1 статуя на свободата на мечка</li><li>40x суперхрана</li><li>35x най-добра храна</li><li>30x суперлекарство</li><li>200 зоодолара</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.paymentBug">
+      <item name="zoo.window.infoLayers.paymentBug.title"><![CDATA[Скъпи играчи]]></item>
+      <item name="zoo.window.infoLayers.paymentBug.info"><![CDATA[Поради грешка, ви бяха добавени твърде много предмети в пакета ви. За съжаление, трябва да премахнем тези предмети, тъй като това не би било честно спрямо играчите, закупили същия пакет. Добихме ви 500 лапи като компенсация за това недоразумение.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventPack">
+      <item name="zoo.window.infoLayers.eventPack_header"><![CDATA[Вземете си уникална коледна кошница!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title1"><![CDATA[Искате ли коледното ви събитие да протече по-бързо? Вземете си малка коледна кошница, която може да бъде закупена само веднъж!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info1"><![CDATA[<ul><li>10x захаросани ябълки</li><li>3x есенция Tolia</li><li>3x еликсир за растеж</li><li>5x суперхрана</li><li>5x най-добра храна</li><li>25 зоодолара</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title2"><![CDATA[Искате ли коледното ви събитие да протече по-бързо? Вземете си голяма коледна кошница, която може да бъде закупена само веднъж!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info2"><![CDATA[<ul><li>60x захаросани ябълки</li><li>всичките 7 помощника за 24 часа</li><li>20x есенция от толия</li><li>20x отвара за растеж</li><li>20x суперхрана</li><li>20x най-добра храна</li><li>50 зоодолара</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.cinema">
+      <item name="zoo.window.infoLayers.cinema.limit"><![CDATA[За съжаление, вече нямате билети за кино.]]></item>
+      <item name="zoo.window.infoLayers.cinema.success1"><![CDATA[Ура! Ето я наградата ви за гледането на филма:]]></item>
+      <item name="zoo.window.infoLayers.cinema.success2"><![CDATA[Кредитът ще бъде приложен в рамките на следващия час.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012">
+      <item name="zoo.window.infoLayers.easter2012.limit"><![CDATA[Нямаш достатъчно великденски яйца.]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success1"><![CDATA[Ура! Спечелихте следната награда:]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success2"><![CDATA[Успех с намирането на яйца!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.avatar">
+      <item name="zoo.window.infoLayers.avatar.Check"><![CDATA[Вашият аватар е успешно запазен.]]></item>
+      <item name="zoo.window.infoLayers.avatar.X"><![CDATA[Сигурни ли сте, че искате да затворите този прозорец? Вашият аватар все още не е запазен!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.saveAssets">
+      <item name="zoo.window.infoLayers.saveAssets.text1"><![CDATA[Искате ли играта ви да се зарежда по-бързо? ZooMumba е графично интензивна. Ако желаете, можем да запишем изображенията директно на вашия твърд диск. По този начин играта ще се зареди много по-бързо!]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text2"><![CDATA[За да активирате тези промени, просто кликнете върху „Разрешаване“ следващия път, когато прозорецът се появи. В противен случай данните от играта ще продължат да се съхраняват в кеша на браузъра ви.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text3"><![CDATA[Ако решите друго, просто отворете настройките на ZooMumba и включете или изключете кеширането.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.yes"><![CDATA[Да, запазване на твърд диск (препоръчително)]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.no"><![CDATA[Не, продължете да използвате кеша на браузъра]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.doublexp">
+      <item name="zoo.window.infoLayers.doublexp.allitems"><![CDATA[Повишавайте нивото си по-бързо! Вземете двойно количество BZ за дейности в падоците!]]></item>
+      <item name="zoo.window.infoLayers.doublexp.specialitems"><![CDATA[Вземете допълнителни точки опит! Тези животни ще ви дадат двойна доза BZ:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.specialShopItem">
+      <item name="zoo.window.infoLayers.specialShopItem.title"><![CDATA[Супер оферта: Само за кратко време!]]></item>
+      <item name="zoo.window.infoLayers.specialShopItem.infotext"><![CDATA[Днес е специален ден за специални животни: Празнуваме техните рождени дни! Налично в магазина само за кратко време:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012">
+      <item name="zoo.window.infoLayers.frog2012.limit"><![CDATA[За съжаление, липсват ви бонус елементи. Не се отказвайте!]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success1"><![CDATA[Удар! Спечелихте страхотна награда:]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success2"><![CDATA[Намерете още повече артикули! Успех!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Notification">
+      <item name="zoo.window.infoLayers.frog2012Notification.title"><![CDATA[Купуване на колекционерски предмети]]></item>
+      <item name="zoo.window.infoLayers.frog2012Notification.text"><![CDATA[Закупеният артикул вече е във вашия зоопарк склад. Искате ли да отворите склад?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Comic">
+      <item name="zoo.window.infoLayers.frog2012Comic.layer1.bubble"><![CDATA[От 17 до 23 май вашата зоологическа градина ще бъде приказка. Очакват ви много забавления и страхотни награди по време на събитието „Кралската жаба“! </br></br>В следващите стъпки ще ви покажем как:]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer2.content"><![CDATA[Грижете се добре за животните си и събирайте специални бонус предмети: коронована жаба, перки или корона. След това ги разменете на игралното поле с жаби за страхотни награди.]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer3.content"><![CDATA[Можете да играете толкова рундове, колкото искате. Ще ви трябват все повече и повече предмети, но наградите ще бъдат все по-страхотни! Скоро Кралят на жабите ще грачи и във вашата зоологическа градина!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australien2012Comic">
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Слънце, сърф и торбести животни - от 25 юни до 3 юли можете да се забавлявате във вашия зоопарк по австралийски! Не пропускайте и спечелете страхотни австралийски награди! </br></br>В следващите стъпки ще ви покажем как:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Грижете се добре за животните си и събирайте специални бонус предмети: дъска за сърф, червен камък или слънцезащитен крем. След това ги разменете за страхотни изненади на австралийското игрище.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Можете да играете толкова рундове, колкото искате. Колкото повече предмети съберете, толкова по-вълшебни ще бъдат печалбите ви! Превърнете зоологическата си градина в малка Австралия!]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Слънце, сърф и торбести животни - от 25 юни до 3 юли можете да се забавлявате във вашия зоопарк по австралийски! Не пропускайте и спечелете страхотни австралийски награди! </br></br>В следващите стъпки ще ви покажем как:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Грижете се добре за животните си и събирайте специални бонус предмети: дъска за сърф, червен камък или слънцезащитен крем. След това ги разменете за страхотни изненади на австралийското игрище.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Можете да играете толкова рундове, колкото искате. Колкото повече предмети съберете, толкова по-вълшебни ще бъдат печалбите ви! Превърнете зоологическата си градина в малка Австралия!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.indien2012Comic">
+      <item name="zoo.window.infoLayers.indien2012Comic.layer1.bubble"><![CDATA[Здравейте, здравейте! Искате ли да се забавлявате от 19 до 26 юли? Нека ви разкажа нещо за това събитие:]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer2.content"><![CDATA[Докато се грижите за животните си, внимавайте за специални предмети, които се появяват: татуировки с къна, бухалки за крикет и Тадж Махал. Събирайте ги и ги разменяйте за страхотни награди в зоологическата градина!]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Колкото повече предмети съберете, толкова по-добри са наградите. Индия е тук!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.anniversary2012Comic">
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.bubble"><![CDATA[Честит рожден ден! Празнувайте втората годишнина на ZooMumba с нас!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.content"><![CDATA[Съберете колкото се може повече рогове, парти шапки и чаши за шампанско за нашите парти игри. Може да спечелите парти клетка с много парти лакомства!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer2.content"><![CDATA[Какво би било едно парти без балони? Грижете се за животните си, събирайте балони и ги разменяйте на игралното поле за луди парти изненади.]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer3.content"><![CDATA[Можете да повтаряте отделните рундове на играта толкова пъти, колкото искате. Ще ви трябват все повече и повече предмети, които ще се появяват при събиране на реколтата, но наградите ще бъдат все по-добри. Хип, хип, ура! Слава на всички директори на зоологически градини!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.oktoberfest2012Comic">
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer1.bubble"><![CDATA[Нека купонът започне! Октоберфест е тук - елате и празнувайте в баварски стил!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer2.content"><![CDATA[От 1-ви до 7-ми октомври можете да събирате бирен понг, меки гевреци и традиционни шапки, както и фантастични награди като нов дом: Октоберфест - увеселителен парк!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer3.content"><![CDATA[Можете да играете толкова често, колкото пожелаете. Ще ви е необходим запас от изскачащи предмети, но в замяна ще получите традиционни баварски награди. Така че не се колебайте, ще се забавлявате много!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.circusHelpcomic">
+      <item name="zoo.window.infoLayers.circusHelpcomic.layer1.content"><![CDATA[В цирка има много сандъци с екзотични животни. След първите 5 часа, едно животно ще изскочи от сандъка към вас! Какво животно ще бъде то?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Layer">
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble1"><![CDATA[Доставете пилетата. Всяка включена лампичка означава още страхотни награди!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble2"><![CDATA[Доставете захаросаните ябълки. Всяка включена лампичка означава още страхотни награди!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer2.bubble"><![CDATA[Продайте животните си за зоогрош и осветете коледната елха!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.singleplayer.success"><![CDATA[Браво! Всичко свети и събрахте всички награди!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.multiplayer.success"><![CDATA[Честито! Заедно осветихме цялата коледна елха и събрахме страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Comic">
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.bubble"><![CDATA[Весела Коледа! Моля, помогнете ми да включа коледните светлини. За всяка крушка, която включите, можете да спечелите различни празнични награди, като например полярна лисица!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.content"><![CDATA[За да включите светлините, трябва да добавите бонбонени ябълки или бебета животни от инвентара си.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer2.content"><![CDATA[Някои светлини могат да се включат само с карамелизирани ябълки. Ябълките ще изскочат от къщичките за животни. Можете да си купите още ябълки, за да напреднете по-бързо.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer3.content"><![CDATA[Изберете бебе от инвентара си и го доставете. Съвет: Колкото по-високо е нивото на размножаване на животното, толкова по-бързо можете да включите светлините!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.multiplayer.bubble"><![CDATA[Тук всички директори на зоологически градини трябва да работят заедно: Продайте животните от инвентара си за зоогрос. Заедно ще осветите елхата стъпка по стъпка и ще спечелите страхотни коледни награди.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentines2013Comic">
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer1.bubble"><![CDATA[Добре дошли на събитието за Свети Валентин! От 14 до 25 февруари се пригответе за сериозна романтика! Играйте нашата игра за Свети Валентин и спечелете страхотни награди!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer2.content"><![CDATA[Грижете се за животните си, събирайте мъфини, балони във формата на сърце и поздравителни картички. Преминавайте през игралното поле стъпка по стъпка и печелете награди по пътя. Главната награда ще бъдат щъркели за вашата зоологическа градина!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Ще ви трябват повече изскачащи предмети, но това ще увеличи шансовете ви да получите повече награди!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.multiplayer.bubble"><![CDATA[Не забравяйте: всички директори на зоологически градини играят заедно. Продавайте животни от инвентара си за зоогрос. Проправете си път до върха на плюшената планина, където ви очакват котки маргай като награда!]]></item>
+      <item name="zoo.window.infoLayers.valentines.multiplayer.success"><![CDATA[Поздравления! Достигнахте върховете на купчината плюшени предмети и спечелихте награди по пътя.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterEvent2013Comic">
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer1.bubble"><![CDATA[Добре дошли на Великденското събитие в зоопарка! От 27 март до 8 април вашата зоологическа градина ще се преобрази в цветна дъга! Събирайте цветни пиленца в нашата Великденска игра и ги разменяйте за страхотни награди!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте пъстри пиленца, докато работите! Преминавайте стъпка по стъпка през игралното поле и събирайте всички награди по пътя. Главната награда ще бъде ему!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Спечелете страхотни награди във всеки рунд.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.multiplayer.bubble"><![CDATA[Не забравяйте: всички директори на зоологически градини играят заедно. Продавайте животни от инвентара си за зоогрос. Стигнете до върха на купчината плюшени животни и ако го направите, ще спечелите сладък чифт мравояди!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.intro"><![CDATA[Продайте животните от инвентара си и се изкачете заедно по плюшената планина.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.success"><![CDATA[Поздравления! Достигнахте върховете на купчината плюшени предмети и спечелихте награди по пътя.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frenchEvent2013Comic">
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer1.bubble"><![CDATA[Добре дошли на събитието „Френски зоопарк“! Ще пътуваме до Франция от 11 до 16 юли! Събирайте предмети за нашата френска игра и ги разменяйте за фантастични награди!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте пукащите предмети. Преминавайте през игровото поле стъпка по стъпка и печелете награди по пътя. Главната награда са муфлоните!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Във всеки рунд ще намерите забавни награди.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthdayEvent2013Comic">
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer1.content"><![CDATA[Ура! За да отпразнуваме нашия 3-ти рожден ден, сме подготвили фестивал на стрелбата: стреляйте с балони от 15 до 28 август и гледайте как наградите се изсипват върху вас! Ще получавате безплатни дартс всеки ден.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer2.content"><![CDATA[Пуснете балони в настолната игра. Всеки поставен балон ви доближава до наградата. Спечелете сензационни украси за рожден ден и нови животни.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Съвет: Влизайте всеки ден и получавайте още повече дартс с ежедневния бонус за вход!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.over"><![CDATA[Все още ви трябват балони за тази стъпка (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.default"><![CDATA[Насам към фестивала по стрелба! Пукайте балоните и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.hungaryEvent2013Comic">
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer1.bubble"><![CDATA[Добре дошли на унгарското събитие в зоологическата градина! Елате с нас на пътешествие до Унгария от 12 до 24 септември! Събирайте чушки за нашата унгарска игра и ги разменяйте за фантастични награди!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте чушки. Преминавайте стъпка по стъпка през игровото поле и печелете награди. Главната награда са нови животни!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Малко предупреждение: Чушките ще се появяват до 12:00 ч. на 23 септември. Можете обаче да ги търгувате до 24 септември.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2013Comic">
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer1.bubble"><![CDATA[О, да! Тези палави пингвини си играеха с магически руни и успяха да избягат! Ето ги Флъбър, Лари и Суаби! Използвай плазменото петно ​​и бързо ги хвани, преди да са направили някоя пакост!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer2.content"><![CDATA[Помогнете на добрия Бу да хване духовете. Доставете ги на игралното поле и спечелете ужасяващи награди!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer3.content"><![CDATA[Всеки ден, когато влезете в играта, Бу ще ви дава плазмени капки, за да ловувате духове. Съвет: Грижете се за животните си и плазмени капки ще изскачат от домовете им. Успех!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.over"><![CDATA[Все още ви трябват духове за тази стъпка (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.default"><![CDATA[Изпратете своите призраци тук и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.thanksGiving2013Comic">
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer1.bubble"><![CDATA[Добре дошли на празненството по случай Деня на благодарността в зоологическата градина! Този път ще празнуваме в САЩ! Събирайте цветни листа и ги разменяйте за страхотни награди.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте цветни листа. Преминавайте стъпка по стъпка през игровото поле и печелете награди по пътя. Главната награда са нови животни за вашата зоологическа градина!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че листата ще падат до края на събитието, но все още можете да ги разменяте 24 часа след това.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.over"><![CDATA[Все още ви трябват листа (брой: %count%) за тази стъпка. Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.default"><![CDATA[Изпратете писмата си тук и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2013Comic">
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer1.bubble"><![CDATA[Хохохо! Коледа идва в зоологическата градина! От 19 декември до 7 януари можете да събирате коледни украси във вашата зоологическа градина и да ги разменяте за цветни чинийки за зимни животни и коледни украси.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer2.content"><![CDATA[Грижете се за животните си и цветните декорации ще изскочат от домовете им. Стъпка по стъпка, движете се по игралното поле и разменяйте декорациите за празнични награди.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че декорациите ще се появяват до 12:00 ч. на 6 януари, но можете да ги разменяте до 12:00 ч. на 7 януари.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.over"><![CDATA[Все още ви трябват декорации за тази стъпка (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.default"><![CDATA[Изпратете вашите декорации тук и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.egypt2014Comic">
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer1.bubble"><![CDATA[Пътувайте с нас до Ориента: Открийте древен Египет, събирайте ценни скарабеи и ги разменяйте в египетска настолна игра.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте цветни скарабеи, които ще изскачат от загражденията ви. Напредвайте през игровото поле и разменяйте украшения за ориенталски награди.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че скарабеите ще се появяват до края на събитието. Можете обаче да ги разменяте 24 часа след това.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.over"><![CDATA[Все още ви трябват скарабеи за тази стъпка (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.default"><![CDATA[Доставете своите скарабеи тук и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014Comic">
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer1.bubble"><![CDATA[Съберете всички сърца: Събирайте картички от 21 февруари до 10 март в нашата настолна игра за Свети Валентин!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте цветни карти, които ще изскачат от загражденията ви. Преминавайте стъпка по стъпка през игровото поле и ги разменяйте за романтични награди.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че картите ще се появяват до 12:00 ч. на 10 март, но можете да ги разменяте до 12:00 ч. на 11 март.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.over"><![CDATA[Все още ви трябват поздравителни картички за тази стъпка (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.default"><![CDATA[Изпратете вашите желания тук и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityComic">
+      <item name="zoo.window.infoLayers.valentine2014CommunityComic.multiplayer.bubble"><![CDATA[Не забравяйте: всички директори на зоологически градини играят заедно. Продавайте животни от инвентара си за зоогрос. Стигнете върха на плюшената планина - страхотни награди ви очакват на всяко ниво!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.success"><![CDATA[Поздравления, успяхте! Стигнахте до върха на купчината сърца и спечелихте награди по пътя.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.intro"><![CDATA[Търгувайте животните си тук и получавайте сладки награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2014Comic">
+      <item name="zoo.window.infoLayers.easter2014Comic.layer1.bubble"><![CDATA[От 10 до 28 април 2014 г. вашата зоологическа градина ще бъде в пълен разцвет: Елате и се забавлявайте на нашето фантастично великденско събитие! Много великденски изненади и чисто нови животни ви очакват на великденската настолна игра!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте цветни великденски яйца, които ще изскачат от загражденията ви. Преминавайте стъпка по стъпка през игровото поле и разменяйте яйцата за супер пролетни награди.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че великденските яйца ще се появяват до 12:00 ч. на 28 април, но можете да ги разменяте до 12:00 ч. на 29 април.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.over"><![CDATA[Все още ви трябват великденски яйца за тази стъпка (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.default"><![CDATA[Доставете вашите великденски яйца тук и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.summer2014Comic">
+      <item name="zoo.window.infoLayers.summer2014Comic.layer1.bubble"><![CDATA[Футболна треска във вашия зоопарк от 19 юни до 1 юли! Пътувайте с нас до Бразилия: Самба, футбол, бразилски ритъм и чисто нови животни ви очакват в нашата настолна игра!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте цветни коктейлни плодове, които ще изскачат от загражденията ви. Преминавайте стъпка по стъпка през игровото поле и разменяйте коктейлите за супер летни награди.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че коктейлните плодове ще се появяват до 12:00 ч. на 30 юни, но можете да ги разменяте до 12:00 ч. на 1 юли.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.over"><![CDATA[За тази стъпка все още ви трябват коктейлни плодове (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.default"><![CDATA[Разменете коктейлни плодове за супер награди тук!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthday2014Comic">
+      <item name="zoo.window.infoLayers.bday2014Comic.layer1.bubble"><![CDATA[Голямо парти за рожден ден от 19 август до 2 септември! Много фантастични изненади ви очакват в нашата настолна игра!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer2.content"><![CDATA[Пуснете балони в настолната игра. Всеки поставен балон ви доближава до наградата. Спечелете сензационни украси за рожден ден и нови животни.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Запомнете: Можете да събирате балони от вашите заграждения само до 27 август, 12:00 ч. След това имате 24 часа, за да ги използвате.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.over"><![CDATA[Все още ви трябват балони за тази стъпка (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.default"><![CDATA[Пуснете балони и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2014Comic">
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer1.bubble"><![CDATA[Празнувайте Хелоуин с нас от 30 октомври до 10 ноември! Очакват ви много фантастични изненади в нашата настолна игра!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте слузта, която ще изскочи от жилищата ви. Стъпка по стъпка преминавайте през игралното поле и разменяйте слузта за зловещи и страхотни награди.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че мухите от слуз ще се появяват само до 12:00 часа на 10 ноември. След това имате 24 часа, за да ги използвате.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.over"><![CDATA[Все още ви трябват слузести комари за тази стъпка (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.default"><![CDATA[Изпратете вашите форми за слуз тук и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recyclingComic">
+      <item name="zoo.window.infoLayers.recyclingComic.layer1.bubble"><![CDATA[Невероятно е какво изхвърлят хората! В отпадъците има толкова много ценни суровини: Разделяйте отпадъците за повторна употреба. Помогнете на околната среда и на себе си!]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer2.content"><![CDATA[Всички събрани отпадъци попадат директно в съоръжението за рециклиране. Изберете суровината, която искате да направите от отпадъците.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer3.content"><![CDATA[Изберете колко артикула искате да направите от избраните материали. Уверете се, че имате достатъчно скрап и зоогрос, за да ги направите.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer4.content"><![CDATA[В допълнение към обикновените ресурси, ще ви трябват и редки ресурси. Използването на супер филтър ще увеличи шансовете ви да получите рядък ресурс чрез рециклиране.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.craftingComic">
+      <item name="zoo.window.infoLayers.craftingComic.layer1.bubble"><![CDATA[Здравей, аз съм Инга Ниър. Ще ти помогна да изработиш нови предмети, използвайки суровини. Но първо ти е необходим план. Чертежи за сгради са налични и могат да бъдат намерени в целия зоопарк: при повишаване на ниво, от парчета пъзел и награди, от колекции, на сафари или на колелото на късмета.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer2.content"><![CDATA[Всички строителни планове се съхраняват в работилницата. Просто отворете категорията, за да видите какви планове вече имате.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer3.content"><![CDATA[Зелена отметка ще ви покаже дали имате всички съставки. Ако е така, тогава можете да започнете!]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer4.content"><![CDATA[Ако искате работниците ви да побързат, опитайте „Craftsman Booster“. Добавете го и сега те ще работят два пъти по-бързо! С помощта на Zoo Dollars можете да завършите производството за нула време.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recylingcraftingunlock">
+      <item name="zoo.window.infoLayers.recylingcraftingunlock.info"><![CDATA[Рециклирайте отпадъците във вашата зоологическа градина и постройте нещо ново! Съоръжението за рециклиране и работилницата вече са достъпни. Кликнете върху синия слон: Можете да намерите сградите в контролния център.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolchange">
+      <item name="zoo.window.infoLayers.toolchange.info"><![CDATA[Изграждането на съоръжението за рециклиране и работилницата изискваше много инструменти, които също събрахте. За да сме сигурни, че няма да се провалите, ще ви дадем точки опит за инструментите, които съберете.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2014Comic">
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer1.bubble"><![CDATA[Весела Коледа! От 11 до 29 декември пингвини ще украсят коледната камина. Колкото повече предмети съберете в зоологическата градина, толкова по-красива ще бъде тя. Играйте настолната игра и спечелете празнична изненада!]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте коледни лакомства, които ще изскачат от загражденията им. Обикаляйте стъпка по стъпка игралното поле и ги разменяйте за празнични награди.]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че коледните лакомства ще се появяват само до 12:00 часа на 29 декември. След това имате 24 часа, за да ги използвате.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.boardgame">
+      <item name="zoo.window.infoLayers.boardgame.info.over"><![CDATA[За да завършите тази стъпка, все още трябва да въведете %count%x %collectitem%. Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.boardgame.info.default"><![CDATA[Тук можете да обмените промоционални артикули за страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Comic">
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer1.bubble"><![CDATA[Все още ли търсите мъжа или жената на мечтите си? Тогава играйте настолната игра за Свети Валентин от 12 до 23 февруари 2015 г.!]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте водни лилии, които ще изскочат от загражденията си. Обикаляйте стъпка по стъпка игралното поле и ги разменяйте за празнични награди.]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че водните лилии ще се появяват само до 12:00 часа на обяд на 23 февруари. След това имате 24 часа, за да ги използвате.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Board">
+      <item name="zoo.window.infoLayers.valentine2015Board.title"><![CDATA[Свети Валентин]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityBoard">
+      <item name="zoo.window.infoLayers.valentine2014CommunityBoard.title"><![CDATA[Плюшена планина]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2015Comic">
+      <item name="zoo.window.infoLayers.easter2015Comic.layer1.bubble"><![CDATA[Нещо странно се случва в кокошарника. Великденският заек закъснява и се нуждае от помощ! Промъкни се в кокошарника и събери яйцата! Великденският заек ще ти бъде благодарен!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте цветни великденски зайчета, които ще изскачат от загражденията ви. Преминавайте стъпка по стъпка през игровото поле и ги разменяйте за весели награди.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че великденските зайчета ще изскачат от вашите заграждения до края на събитието. Въпреки това, все още можете да ги използвате в продължение на 24 часа след това, за да спечелите награди.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.over"><![CDATA[Все още ви трябват великденски зайчета за тази стъпка (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.default"><![CDATA[Доставете вашите великденски зайчета тук и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Board">
+      <item name="zoo.window.infoLayers.asia2015Board.title"><![CDATA[Пътуване до Азия]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Comic">
+      <item name="zoo.window.infoLayers.asia2015Comic.layer1.bubble"><![CDATA[Пътувайте с нас до Азия за Танца на дракона! Съберете цветни фенери, за да озарите празника си. Нека водният дракон ви благослови!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте цветни фенери, които изскачат от загражденията ви. Напредвайте през игровото поле и разменяйте фенерите за екзотични награди.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че фенерите ще се появяват до края на събитието. Можете обаче да ги замените в продължение на 24 часа след това.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.over"><![CDATA[Все още ви трябват фенери за тази стъпка (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.default"><![CDATA[Изпратете фенерите си тук и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Board">
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Пътуване до Австралия]]></item>
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Пътуване до Австралия]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Comic">
+      <item name="zoo.window.infoLayers.australian2015Comic.layer1.bubble"><![CDATA[Зумумба е на 5 години! Хип, хип, ура! Присъединете се към нас в австралийската пустош и спечелете невероятни награди: Стреляйте с балони и се промъкнете през австралийската пустош като Крокодила Дънди. Ура!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте стрели, които ще изскачат от загражденията ви. Използвайте ги, за да сваляте балони. Преминавайте стъпка по стъпка през игровото поле и разменяйте балони за награди.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че стреличките ще изскачат от вашите писалки до края на събитието. Въпреки това, все още можете да стреляте с балони в продължение на 24 часа след това.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.over"><![CDATA[Все още ви трябват балони за тази стъпка (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.default"><![CDATA[Пуснете балони и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Board">
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Хелоуин]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Хелоуин]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Comic">
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer1.bubble"><![CDATA[Абракадабра! О, не! Кой зъл магьосник превърна малкия Пери в гигантска тиква? Опитайте се да намерите противоотровата и да помогнете на Пери. От 29 октомври до 9 ноември ще можете да опитате всички магически отвари!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте отвари, които ще изскачат от загражденията ви. Преминавайте стъпка по стъпка през игровото поле и разменяйте отварите за награди.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че отварите ще се появяват до края на събитието. Можете обаче да ги разменяте 24 часа след това.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.over"><![CDATA[Все още ви трябват магически отвари за тази стъпка (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.default"><![CDATA[Доставете отварите си тук и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.winter2015Comic">
+      <item name="zoo.window.infoLayers.winter2015Comic.layer1.bubble"><![CDATA[Весела Коледа! Пингвините искат да украсят камината си за Бъдни вечер. Колкото повече коледни свещи съберете, толкова по-уютно ще се чувстват. Можете да спечелите зимна изненада в настолната игра!]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте цветни коледни свещи, които ще изскачат от загражденията. Преминавайте стъпка по стъпка през игралното поле и ги разменяйте за фантастични награди.]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer3.content"><![CDATA[Направете толкова обиколки, колкото искате. Имайте предвид, че коледните свещи ще изскачат от загражденията до края на събитието, но все още можете да ги замените в продължение на 24 часа след това.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2016Comic">
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer1.bubble"><![CDATA[Здравейте на всички влюбени! Любовта се разпространява наоколо, затова сме ви подготвили специално събитие с много красиви награди. Имаме и нов домашен любимец - раирана мангуста, нови декорации с романтична тематика и два нови магазина!]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте цветни плюшени мечета, които ще изскачат от загражденията. Върнете ги, постепенно следвайте пътя на любовта в настолната игра и събирайте награди.]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer3.content"><![CDATA[Когато стигнете до края на пътеката, дъската се нулира и можете да играете още един рунд. Мечките ще се появяват до края на събитието. След това имате 24 часа, за да ги използвате!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2016Comic">
+      <item name="zoo.window.infoLayers.easter2016Comic.layer1.bubble"><![CDATA[Нещо странно се случва в кокошарника. Великденският заек закъснява и се нуждае от помощ! Промъкни се в кокошарника и събери яйцата! Великденският заек ще ти бъде благодарен!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer2.content"><![CDATA[Грижете се за животните си и събирайте цветни великденски зайчета, които ще изскачат от загражденията ви. Преминавайте стъпка по стъпка през игровото поле и ги разменяйте за весели награди.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer3.content"><![CDATA[Играйте толкова рундове, колкото искате. Имайте предвид, че великденските зайчета ще изскачат от вашите заграждения до края на събитието. Въпреки това, все още можете да ги използвате в продължение на 24 часа след това, за да спечелите награди.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.over"><![CDATA[Все още ви трябват великденски зайчета за тази стъпка (брой: %count%). Побързайте и вземете наградата си!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.default"><![CDATA[Доставете вашите великденски зайчета тук и спечелете страхотни награди!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.OceanComic">
+      <item name="zoo.window.infoLayers.OceanComic.layer1.bubble"><![CDATA[Здравейте, аз съм Яничка и обучавам морски бозайници. Заедно ще построим най-добрата водна зоологическа градина!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer1.content"><![CDATA[Соня и пингвините откриха стар аквапарк зад скрита зоологическа градина. Не е останало много от него, но водата изглежда невероятно. Нека го ремонтираме!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer2.content"><![CDATA[Ще трябва да построим всичко! Пингвините намериха някои планове и материали в стара барака на плажа. Нека започнем с изграждането на първото водно местообитание и кея.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer3.content"><![CDATA[Водните местообитания се предлагат в три размера, за да се чувстват всички водни животни като у дома си. Можете да вземете животните от морския фар или да ги купите от плажната хижа!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer4.content"><![CDATA[Потърси помощ от целия подводен екип! Йиндра ще донесе храната, а Матей ще донесе водата. Франта ще почисти филтрите, а аз ще си играя с животните.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer5.content"><![CDATA[Поддържайте водата в резервоарите чиста и събирайте повече перли! Перлите могат да разкрасят местообитанията още повече.]]></item>
+      <category name="zoo.window.infoLayers.oceanWorld2016Board">
+        <item name="zoo.window.infoLayers.oceanWorld2016Board.title"><![CDATA[Рожден ден]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.oceanWorld2016Comic">
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer1.bubble"><![CDATA[Здравейте! Подводният свят е в разгара си, затова сме ви подготвили специално събитие за гмуркане! Очакват ви морски кончета, чисто ново заграждение в залива Тики, нови магазини и декорации!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer2.content"><![CDATA[Грижете се за животните си както обикновено и събирайте цветни морски звезди, които изскачат от загражденията ви. Разгледайте подводните зони на игралното поле и печелете награди!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer3.content"><![CDATA[След като проучите всички зони, дъската ще се нулира и можете да се гмуркате отново! Морски звезди ще се появяват до края на събитието. След това ще имате 24 часа, за да ги използвате.]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.over"><![CDATA[Все още ви трябват звезди (брой: %count%) за тази стъпка!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.default"><![CDATA[Разменете звездите си за страхотни награди тук!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.monkey2016Comic">
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer1.bubble"><![CDATA[Маймуните са замислили нещо... Помогнете им с пакостите им в нашата нова настолна игра! Спечелете награди, включително нови магазини и декорации за вашата зоологическа градина!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer2.content"><![CDATA[Грижете се за животните си както обикновено и събирайте цветните зеленчуци, които изскачат от загражденията ви. Дайте лакомство на всеки сурикат и спечелете награди.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer3.content"><![CDATA[След като причините пакости на всеки сурикат, дъската ще се нулира и можете да започнете отначало! Зеленчуците ще се появяват до края на събитието. След това ще имате 24 часа, за да ги използвате.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.over"><![CDATA[Все още ви трябват зеленчуци за тази стъпка (брой: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.default"><![CDATA[Разменете зеленчуците си за страхотни награди тук!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Board">
+        <item name="zoo.window.infoLayers.halloween2016Board.title"><![CDATA[Фокус-покус]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Comic">
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer1.bubble"><![CDATA[Какво правят тези мистериозни отвари тук? Разберете за какво са и спечелете награди, включително ексклузивни предмети за Хелоуин за вашата зоологическа градина!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer2.content"><![CDATA[Грижете се за животните си както обикновено и събирайте цветните бутилки, които изскачат от загражденията ви. Отваряйте ги на игралното поле и получавайте награди.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer3.content"><![CDATA[След като отворите всички бутилки, дъската ще се нулира и можете да започнете отначало! Бутилките ще се появяват до края на събитието. След това ще имате 24 часа, за да ги използвате.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.over"><![CDATA[Все още ви трябват бутилки (брой: %count%) за тази стъпка!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.default"><![CDATA[Разменете бутилки за страхотни награди тук!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.winter2016Comic">
+        <item name="zoo.window.infoLayers.winter2016Comic.layer1.bubble"><![CDATA[Коледа е тук! В зоологическата градина вали сняг, а животните пишат писмо до Дядо Коледа. Весела Коледа! Пингвините украсяват камината и се нуждаят от помощ! Спечелете празнични артикули, като играете настолната игра!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer2.content"><![CDATA[Грижете се за животните си както обикновено и събирайте меденките, които ще изскочат от загражденията ви. Пътувайте по игралното поле и събирайте награди.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer3.content"><![CDATA[След като приключите играта, дъската ще се нулира и можете да започнете отначало! Можете да събирате меденки до края на събитието. След това ще имате 24 часа, за да ги използвате.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.over"><![CDATA[За тази стъпка все още ви трябват меденки (брой: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.default"><![CDATA[Разменете вашите меденки за страхотни награди тук!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Comic">
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer1.bubble"><![CDATA[Здравей! Търсиш ли любов? Играй нашата настолна игра за Свети Валентин и събери много предмети за Подводния свят. Може би ще намериш истинската си любов по пътя на любовта.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer2.content"><![CDATA[Грижете се за животните си както обикновено и събирайте цветните черупки, които ще изскочат от загражденията ви. Пътувайте по игралното поле и събирайте награди.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer3.content"><![CDATA[След като приключите играта, дъската ще се нулира и можете да започнете отначало! Черупките ще се появяват до края на събитието. След това ще имате 24 часа, за да ги използвате.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.over"><![CDATA[Все още ви трябват черупки за тази стъпка (брой: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.default"><![CDATA[Разменете черупки за страхотни награди тук!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Board">
+        <item name="zoo.window.infoLayers.valentine2017Board.title"><![CDATA[Свети Валентин]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Comic">
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer1.bubble"><![CDATA[Пътувайте с нас до Камбоджа и се впуснете в дълбините на тропическите гори. Събирайте маски кхон и открийте тайните на древните кхмерски храмове. Очакват ви богатства и приключения!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer2.content"><![CDATA[Грижете се за животните си както обикновено и събирайте кхон маски, които ще изскачат от загражденията ви. Пътувайте по игралното поле и събирайте награди.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer3.content"><![CDATA[След като приключите играта, дъската ще се нулира и можете да започнете отначало! Маските на Кхон ще се появяват до края на събитието. След това ще имате 24 часа, за да ги използвате.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.over"><![CDATA[За тази стъпка все още ви трябват маски на кхон (брой: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.default"><![CDATA[Изпратете вашите кхон маски тук и спечелете страхотни награди!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Board">
+        <item name="zoo.window.infoLayers.cambodia2017Board.title"><![CDATA[Пътуване до Камбоджа]]></item>
+      </category>
+    </category>
+  </category>
+</language>

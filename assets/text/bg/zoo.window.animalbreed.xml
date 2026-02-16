@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.animalbreed">
+    <item name="zoo.window.animalbreed.title"><![CDATA[Животновъдство]]></item>
+    <item name="zoo.window.animalbreed.info"><![CDATA[Отгледайте сладки бебета!\nС малко късмет, вашата зоологическа градина ще приветства нови попълнения.]]></item>
+    <item name="zoo.window.animalbreed.breedtitle"><![CDATA[Стандартно възпроизвеждане]]></item>
+    <item name="zoo.window.animalbreed.breedinfo"><![CDATA[Възможно потомство за:]]></item>
+    <item name="zoo.window.animalbreed.button.startbreeding"><![CDATA[Старт]]></item>
+    <item name="zoo.window.animalbreed.babytitle"><![CDATA[Осиновяване]]></item>
+    <item name="zoo.window.animalbreed.babyinfo"><![CDATA[Вземете си бебе веднага:]]></item>
+    <item name="zoo.window.animalbreed.button.buydirectly"><![CDATA[Купи сега]]></item>
+    <item name="zoo.window.animalbreed.button.breedstart"><![CDATA[Старт]]></item>
+    <item name="zoo.window.animalbreed.success.title"><![CDATA[Млад]]></item>
+    <item name="zoo.window.animalbreed.success.info"><![CDATA[Ура!<br>Честито! Вашият зоопарк има ново сладко попълнение!]]></item>
+    <item name="zoo.window.animalbreed.failed.title"><![CDATA[Без увеличение]]></item>
+    <item name="zoo.window.animalbreed.failed.info"><![CDATA[Жалко, този път ще трябва да изчакате новото попълнение.<br><br>Искате ли да опитате отново?<br><br>Успех!]]></item>
+  </category>
+</language>

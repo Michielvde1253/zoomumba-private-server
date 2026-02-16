@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Чакълен път]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Тази чакълеста пътека свързва загражденията на вашата зоологическа градина. Качествена мрежа от пътеки помага на посетителите ви да се ориентират и ги води до всички заграждения.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Син и бял тротоар]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Тази синьо-бяла калдъръмена пътека не само изглежда страхотно, но е и чудесна повърхност за колички, тротинетки и ролери. Плавно движение и качествено забавление, това е страхотно!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Пясъчен път]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[В степта рядко има павирани пътища. Искате вашата зоологическа градина да прилича на дивата природа!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Розов и бял тротоар]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Колко е хубаво: Тази каменна пътека, изработена от скъпоценни розови мозаечни камъни, е нещо наистина специално. Перфектният подиум за посетители на високи токчета.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Черно-бял тротоар]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Черно-бели скъпоценни камъни под формата на мозайка красиво оформят тази пътека. Те са обработени с голямо внимание и се превръщат в бижу на вашата зоологическа градина.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[Каменистият път]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Точно както в дивата природа, малки кичури трева растат от пролуките между камъните. Не е за педантични, но любителите на природата със сигурност ще му се насладят.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Камениста пътека]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Тази чакълеста пътека изглежда хубава и съм сигурен, че никой няма да се подхлъзне по нея. Безопасна и красива, какво повече може да се иска?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Черен път]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[Пътеките от пръст са популярни в Африка. Те добавят автентичност към вашата зоологическа градина и ще накарат много животни да се чувстват като у дома си.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Воден път]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Плясък, плясък, плясък! Обуйте гумените си ботуши, надуйте гумената си лодка и грабнете гумено пате - ще има много вода по време на това пътуване!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Леден път]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Ура! Леден път - това ще бъде забавно! Посетителите ви ще се забавляват, пързаляйки се по замръзналия път. Внимавайте, не е осолен!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Савана Роуд]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[Добре утъпкана пътека се вие ​​през саваната, което я прави идеална за търсене на следи като на сафари.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Пустинен път]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Под парещата жега на слънцето, пясък се носи през пустинята, заличавайки всякакви следи.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Каменна пътека]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Тази пътека е доста неравна. По нея има големи камъни и скални блокове, така че са задължителни добри обувки. Внимавайте да не паднете!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Пътека Тундра]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[Вашите посетители ще се нуждаят от компас по тази пътека, но е разумно да се придържате и към утъпканите пътеки.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Снежен път]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[Лепкав сняг лежи върху снежната пътека, по която вашите посетители ще вървят с топлите си ботуши. Всичко тук е толкова красиво!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Пустинна пътека]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[В дивата природа е най-добре да се придържате към пътя. Навсякъде има токсини и отпадъци. Гумените ботуши с добри подметки са задължителни!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Алпийски маршрут]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Тази туристическа пътека ще ви преведе нагоре и надолу през Алпите. Добрите обувки със солидна опора за глезените ще ви предпазят от подхлъзване!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Пещерна пътека]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Дръжте очите си отворени, за да не се подхлъзнете. Може би ще забележите блестящо златно зрънце сред камъните.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Горска пътека]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[В дъждовни дни тази пътека може да е малко кална, но през лятото гората е абсолютно идилична.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Крайбрежен път]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Ходенето бос по искрящ пясък, миди, водорасли и понякога по морски звезди е много полезно за вашето здраве!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Вълшебна пътека]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[Яркосинята пътека, която е неземна, може да изглежда страшна, но е и приключенска. Къде води?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Пътека Шугар Ленд]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Трохичка! Опа! Настъпи ли бонбон? Внимавай, има дъвки по пътя! Колко красиво е цветно тук!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Пътека в бамбукова гора]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[Мъглата се носи през обширна, почти непроницаема бамбукова гора. В далечината се чува потропването на кълвач. Просто идилично!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Горска пътека]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Ако не искате да се люлеете от лоза на лоза в тази джунгла, можете да се разходите по тази добре утъпкана пътека. Внимавайте: От време на време змия или паяк може да пресече пътеката.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[Пътеката през блатото]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[Вашите посетители трябва да помнят да стоят на правилния път в блатото. Една грешна стъпка и ще паднат в калта!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Дървена платформа]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Няма нищо по-хубаво от това да се разхождате по дървен кей и да чуете скърцането на корабна палуба. Вашите посетители ще имат истинско крайбрежно преживяване.]]></item>
+  </category>
+</language>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Фенер от тиква]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Зловещи издълбани тикви, наречени фенери от тикви, светят в тъмнината на Хелоуин. Отвратителната му гримаса е направена още по-ужасяваща от трепкащата светлина на свещите. Ууу]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[Коледна елха]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[Стройна ела е пораснала...! Празнично украсена елха, отрупана с коледни подаръци.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Сърце]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Донесете късмет! Хората в много страни вярват, че целувката с коминочистач на Свети Валентин ще им донесе голям късмет!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Торта за рожден ден]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Ммм! Какво би било един рожден ден без калорично лакомство?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Торта за рожден ден]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Ммм! Какъв би бил един рожден ден без това калорично лакомство?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Купчина великденски яйца]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[Хубава колекция от великденски яйца. В миналото са се използвали боядисани кокоши яйца. В днешно време шоколадовите яйца са по-разпространени.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Дъгово яйце]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Великденски яйца, специално пригодени за деца с увредено зрение, за да участват във Великденския лов. Яйцата издават звуков сигнал или свирят мелодия.]]></item>
+  </category>
+</language>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.settings">
+    <item name="zoo.window.settings.info"><![CDATA[Здравей, директоре на зоопарка!<br>Тук можеш да персонализираш ZooMumba по свой вкус! Избери играта, която ти харесва най-много!]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[на]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[изключено]]></item>
+    <item name="zoo.window.settings.quality.low"><![CDATA[ниско]]></item>
+    <item name="zoo.window.settings.quality.middle"><![CDATA[среден]]></item>
+    <item name="zoo.window.settings.quality.high"><![CDATA[високо]]></item>
+    <item name="zoo.window.settings.quality.title"><![CDATA[Графични изкуства]]></item>
+    <item name="zoo.window.settings.quality.info"><![CDATA[Качество]]></item>
+    <item name="zoo.window.settings.account.title"><![CDATA[Редактиране на акаунт]]></item>
+    <item name="zoo.window.settings.account.info"><![CDATA[Тук можете да редактирате данните на вашия игрови акаунт, като например имейл адреса си.]]></item>
+    <item name="zoo.window.settings.title.tooltipps"><![CDATA[Подсказки]]></item>
+    <item name="zoo.window.settings.title.visitors"><![CDATA[Посетители]]></item>
+    <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Желания на посетителите]]></item>
+    <item name="zoo.window.settings.title.sound"><![CDATA[Звук]]></item>
+    <item name="zoo.window.settings.title.sound.background"><![CDATA[Музика]]></item>
+    <item name="zoo.window.settings.title.sound.effects"><![CDATA[Звукови ефекти]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[да се коригира]]></item>
+    <item name="zoo.window.settings.tab.account"><![CDATA[сметка]]></item>
+    <item name="zoo.window.settings.tab.config"><![CDATA[Конфигурация]]></item>
+    <item name="zoo.window.settings.tab.buildings"><![CDATA[Главна сграда]]></item>
+    <item name="zoo.window.settings.buildings.info"><![CDATA[Изберете входната сграда на зоологическата градина според вашия вкус. Разполагате с основните сгради в зависимост от вашето ниво.<br>По този начин вашата зоологическа градина ще бъде все по-съобразена с вас!]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Анимация]]></item>
+    <item name="zoo.window.settings.anim.info"><![CDATA[Брой анимации с животни]]></item>
+    <item name="zoo.window.settings.saveAssets"><![CDATA[Буферна памет]]></item>
+  </category>
+</language>

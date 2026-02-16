@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.crafting">
+    <item name="zoo.window.crafting.intro.blueprintRewards"><![CDATA[Събрали сте %mycards% от %allcards% строителни планове!]]></item>
+    <item name="zoo.window.crafting.intro.title"><![CDATA[Работилница]]></item>
+    <item name="zoo.window.crafting.intro.text"><![CDATA[Майстори и любители, внимавайте! Използвайте материалите си, за да изградите нови заграждения, сгради, декорации или пътеки. Просто изберете категория по-долу и преминете към следващия етап от производството.]]></item>
+    <item name="zoo.window.crafting.intro.chooseCategorie"><![CDATA[Изберете категория:]]></item>
+    <item name="zoo.window.crafting.produce.text"><![CDATA[Много е просто: Долу вляво виждате какво се произвежда в момента. Строителният план ви показва какви материали са ви необходими. Над това виждате времето за производство и броя на лапите, които трябва да платите. Разбирате ли? Добре, тогава щракнете върху „Старт“.]]></item>
+    <item name="zoo.window.crafting.produce.button"><![CDATA[Старт]]></item>
+    <item name="zoo.window.crafting.progress.title"><![CDATA[Работилница]]></item>
+    <item name="zoo.window.crafting.progress.text"><![CDATA[Производството е в ход!]]></item>
+    <item name="zoo.window.crafting.progress.time"><![CDATA[Продължителност:]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.title"><![CDATA[Произведете веднага]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.text"><![CDATA[Спестете време и завършете производството веднага!]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.button"><![CDATA[Завършено]]></item>
+    <item name="zoo.window.crafting.progress.layer.elixir.text"><![CDATA[Ускорете и завършете производството за половината от времето.]]></item>
+    <item name="zoo.window.crafting.progress.button.elixir"><![CDATA[Ускоряване]]></item>
+    <item name="zoo.window.crafting.success.text"><![CDATA[Ура! Готово: предметът, който току-що създадохте, може да бъде намерен в инвентара ви!]]></item>
+    <item name="zoo.window.crafting.blueprint.text"><![CDATA[Ура! Току-що получихте план за строеж! Отправете се към работилницата и постройте нов предмет за вашата зоологическа градина!]]></item>
+  </category>
+</language>

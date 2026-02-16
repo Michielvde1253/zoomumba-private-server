@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.gift">
+    <category name="zoo.window.gift.superFeedPack">
+      <item name="zoo.window.gift.superFeedPack.info"><![CDATA[Днес в оферта - пакети със суперхрани! Изберете между 3 опции: „Добър старт“, „Майстор“ и „Експерт“. Като експерт, можете да изпратите допълнителни подаръци на вашите 5 приятели. Не се колебайте!]]></item>
+    </category>
+    <category name="zoo.window.gift.recipients">
+      <item name="zoo.window.gift.recipients.headerGift"><![CDATA[Подарък]]></item>
+      <item name="zoo.window.gift.recipients.headerUsername"><![CDATA[Име на играча]]></item>
+      <item name="zoo.window.gift.recipients.headerUserID"><![CDATA[Идентификационен номер на играча]]></item>
+      <item name="zoo.window.gift.recipients.info"><![CDATA[Изберете 5 приятели и изпратете подарък на всеки от тях:]]></item>
+      <item name="zoo.window.gift.recipients.button.send"><![CDATA[Подарък]]></item>
+    </category>
+    <category name="zoo.window.gift.unwrapped">
+      <item name="zoo.window.gift.unwrapped.title"><![CDATA[Това ще бъде изненада!]]></item>
+      <item name="zoo.window.gift.unwrapped.text.1"><![CDATA[Получихте следния подарък:]]></item>
+      <item name="zoo.window.gift.unwrapped.text.2"><![CDATA[Вашият подарък ще бъде дебитиран от сметката ви веднага след разопаковането му.]]></item>
+    </category>
+  </category>
+</language>
