@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bonus">
+    <item name="zoo.window.bonus.main.title"><![CDATA[Bonuskoodi]]></item>
+    <item name="zoo.window.bonus.main.info"><![CDATA[Onko sinulla ZooMumba-bonuskoodia? Syötä se vain tähän ja saat bonuksesi heti!]]></item>
+    <item name="zoo.window.bonus.success.title"><![CDATA[Onnittelut,]]></item>
+    <item name="zoo.window.bonus.success.info"><![CDATA[Hienoa, syötit bonuskoodin oikein ja sait palkintosi. Toivotamme sinulle paljon hauskaa!]]></item>
+    <category name="zoo.window.bonus.error">
+      <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Virhe]]></item>
+      <item name="zoo.window.bonus.error.invalid.info"><![CDATA[Valitettavasti bonuskoodi on virheellinen. Tarkista koodi ja yritä uudelleen.]]></item>
+      <item name="zoo.window.bonus.error.participated.title"><![CDATA[Virhe]]></item>
+      <item name="zoo.window.bonus.error.participated.info"><![CDATA[Olet jo lunastanut tämän bonuskoodin.]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Virhe]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[Olet syöttänyt bonuskoodin väärin liian monta kertaa. Odota muutama minuutti ennen kuin yrität uudelleen.]]></item>
+    </category>
+  </category>
+</language>

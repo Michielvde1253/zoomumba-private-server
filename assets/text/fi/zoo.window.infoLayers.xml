@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.infoLayers">
+    <category name="zoo.window.infoLayers.forgottenZoo">
+      <item name="zoo.window.infoLayers.forgottenZoo.title"><![CDATA[Piilotettu eläintarha]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.info"><![CDATA[Onnittelut! Kolmannen laajennuksen myötä Piilotetun eläintarhan valtakunta on nyt jalkojesi juuressa! Parkkipaikalla oleva nuoli ohjaa sinut Piilotettuun eläintarhaan.]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.expansion"><![CDATA[Voit nyt rajoitetun ajan laajentaa salaisen eläintarhasi maksimikokoon yhdellä ostoksella! Siirry salaiseen eläintarhaasi, avaa kauppa ja napsauta "Lisäosat". Löydät tarjouksen täältä!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemreward">
+      <item name="zoo.window.infoLayers.itemreward.recycling.title"><![CDATA[Kierrätys onnistui!]]></item>
+      <item name="zoo.window.infoLayers.itemreward.recycling.info"><![CDATA[Hienoa, se kannatti! Kierrätit nämä materiaalit roskista. Löydät ne varastostasi.]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.title"><![CDATA[Yllätyslaatikko]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.info"><![CDATA[Hurraa! Yllätyslaatikkosi on täytetty yllä mainituilla materiaaleilla, joita voit käyttää jatkojalostukseen. Löydät ne tavaraluettelostasi.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedingLabNursery">
+      <item name="zoo.window.infoLayers.breedingLabNursery.info"><![CDATA[Kasvata uusia eläinlajeja! Kasvatusasema ja eläinten päiväkoti ovat nyt käytettävissä! Klikkaa sinistä norsua: Löydät rakennukset ohjauskeskuksesta.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterNotification">
+      <item name="zoo.window.infoLayers.easterNotification.title"><![CDATA[Pääsiäisostokset]]></item>
+      <item name="zoo.window.infoLayers.easterNotification.text"><![CDATA[Ostettu tuote on tallennettu varastoosi.<br><br>Haluatko avata varastosi nyt?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterComic">
+      <item name="zoo.window.infoLayers.easterComic.layer1.bubble"><![CDATA[Tervetuloa pääsiäistapahtumaan! Pääsiäispupu jakaa munia <b>21.–27. huhtikuuta</b>. Kerää ne, niin sinua odottavat upeat palkinnot. Klikkaa nuolta saadaksesi lisätietoja.]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer2.content"><![CDATA[Hienot pääsiäiskoristeet tuovat sinulle 50 % enemmän palkintoja kaikista tarhoissa järjestettävistä tapahtumista 7 päivän ajan. Ota kuvia pääsiäiseläintarhastasi ja jaa ne ystäviesi kanssa Facebookissa tai foorumilla!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.header"><![CDATA[Mennään etsimään pääsiäismunia!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.content"><![CDATA[Söpöt pääsiäispomppilat houkuttelevat paljon asiakkaita. Ja mikä parasta? Ne pysyvät eläintarhassasi pääsiäisen jälkeenkin – kuten sopivalle huvipuistolle kuuluukin!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer4.content"><![CDATA[Pääsiäisaitaus on aina nähtävyys, riippumatta siitä, mitä eläimiä siellä asuu. Pääsiäisaitaus tuo sinulle 20 % enemmän intohimoa heti alusta alkaen!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.bubble"><![CDATA[Pääsiäispupu jakaa munia säännöllisesti. Mutta kun eläintarhassasi on yli viisi munaa, muninta on ohi. Vinkki: Jos haluat varmistaa, että keräät kaikki munat joka kerta, kysy neuvoa pääsiäisapulaiseltasi Sonialta!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.content"><![CDATA[Eikö yksi pupu riitä sinulle? Sitten kaupan asusteosastolla odottaa sinua lisää pääsiäispupuja. Katso ihmeessä!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Notification">
+      <item name="zoo.window.infoLayers.easter2012Notification.title"><![CDATA[Pääsiäisostokset]]></item>
+      <item name="zoo.window.infoLayers.easter2012Notification.text"><![CDATA[Ostettu tuote on tallennettu varastoosi.<br><br>Haluatko avata varastosi nyt?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Comic">
+      <item name="zoo.window.infoLayers.easter2012Comic.layer1.bubble"><![CDATA[Vietä pääsiäistä eläintarhassasi! Pääsiäismunajahti järjestetään 5.–11. huhtikuuta! Liity mukaan tähän pääsiäistapahtumaan ja voita upeita palkintoja ja yllätyksiä! Näin se tapahtuu:]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja löydä kaikki värikkäät munat aitauksistasi. Kerää munat ja palauta ne pääsiäispelilaudalle.<br><br>Huomaa: munien määrä pelloillasi kaksinkertaistuu jokaisella kierroksella!]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer3.content"><![CDATA[Pudota pääsiäismunat niitä vastaaville pelikentille. Meillä on punaisia, vihreitä ja sinisiä kenttiä. Upeat pääsiäispalkinnot ja söpöt eläimet odottavat sinua!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.fullScreen">
+      <item name="zoo.window.infoLayers.fullScreen.keyboard"><![CDATA[Haluatko poistua koko näytön esikatselusta, jotta voit kirjoittaa uudelleen?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventUpgrade">
+      <item name="zoo.window.infoLayers.eventUpgrade"><![CDATA[Anna koriste-esineillesi entistäkin omaleimaisempi syntymäpäiväilme, niin saat 125 % voittoa ja suuremman mahdollisuuden ilmapalloihin syntymäpäivätapahtumassa!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolbar">
+      <item name="zoo.window.infoLayers.toolbar.title"><![CDATA[Bonus]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info1"><![CDATA[Hienoa! Sait työkalupalkkibonuksen sisäänkirjautumisesta:]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info2"><![CDATA[Kirjaudu sisään huomenna uudelleen työkalupalkin kautta ja saat uuden bonuksen!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemInInventory">
+      <item name="zoo.window.infoLayers.itemInInventory.title"><![CDATA[Onnittelut!]]></item>
+      <item name="zoo.window.infoLayers.itemInInventory.text"><![CDATA[Olet ostanut seuraavan tuotteen varastoosi:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.animalInInventory">
+      <item name="zoo.window.infoLayers.animalInInventory.text"><![CDATA[Seuraava eläin on lisätty tavaraluetteloosi:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemRedeemed">
+      <item name="zoo.window.infoLayers.itemRedeemed.title"><![CDATA[Onnittelut!]]></item>
+      <item name="zoo.window.infoLayers.itemRedeemed.success"><![CDATA[Palkintosi on hyvitetty.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.action.sorry">
+      <item name="zoo.window.infoLayers.action.sorry.title"><![CDATA[Pahoittelemme!]]></item>
+      <item name="zoo.window.infoLayers.action.sorry.text"><![CDATA[Olemme pahoillamme, mutta tämä tapahtuma ei ole tällä hetkellä saatavilla.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.purchaseConfirmed">
+      <item name="zoo.window.infoLayers.purchaseConfirmed.title"><![CDATA[Onnittelut!]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.simple"><![CDATA[Ostos hyvitettiin tilille.]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.gift"><![CDATA[Ostoksesi on hyvitetty ja lahjasi on lähetetty.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.welcomeBack">
+      <item name="zoo.window.infoLayers.welcomeBack.title"><![CDATA[Tervetuloa takaisin!]]></item>
+      <item name="zoo.window.infoLayers.welcomeBack.text"><![CDATA[Eläimet ovat riemuissaan nähdessään sinut taas.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedInInventory">
+      <item name="zoo.window.infoLayers.breedInInventory.title"><![CDATA[Huomio!]]></item>
+      <item name="zoo.window.infoLayers.breedInInventory.text"><![CDATA[Lisääntyminen on parhaillaan käynnissä täällä.<br> <br>Jos siirrät aitauksen varastoon, lisääntymisprosessi peruuntuu.<br> <br>Haluatko todella jatkaa?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.collectables">
+      <item name="zoo.window.infoLayers.collectables.firstFinish.title"><![CDATA[Onnittelut!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.text"><![CDATA[Jee! Löysit kaikki %collection% osat ensimmäistä kertaa!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.button.socialShare"><![CDATA[Näytä ystävät]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.title"><![CDATA[Onnittelut!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.text"><![CDATA[Olet suorittanut %collection% -kokoelman toisen kerran!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.button.getGift"><![CDATA[Käyttää]]></item>
+      <item name="zoo.window.infoLayers.collectables.button.viewCollection"><![CDATA[Näytä kokoelma]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.adamPenguin">
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.title"><![CDATA[Huippupaketti "Musta Pantteri"]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.text"><![CDATA[Saatavilla nyt ja tässä ja vain kerran. "Musta pantteri" on täällä yksinomaan sinua varten. Ja jotain ekstraa, kuten kaikki apurit 24 tuntia ilmaiseksi!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.title"><![CDATA["Valkoinen tiikeri" -paketti]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.text"><![CDATA[Kertaluonteinen tarjous - "yhdistelmäpaketti" loistavaan alkuun! Aloitusvarusteesi loistavalla tarjouksella!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.title"><![CDATA["Terraario"-paketti]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.text"><![CDATA[Kertaluonteinen tarjous - "yhdistelmäpaketti" loistavaan alkuun! Aloitusvarusteesi loistavalla tarjouksella!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.title"><![CDATA["Preeria"-paketti]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.text"><![CDATA[Kertaluonteinen tarjous - "yhdistelmäpaketti" loistavaan alkuun! Aloitusvarusteesi loistavalla tarjouksella!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.title"><![CDATA[Uskollisuusbonus]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.text"><![CDATA[Saatavilla vain täällä: Zoodollars-paketti henkilökohtaisella kanta-asiakasbonuksellasi! Klikkaa "osta" ja saat lisää bonuksia.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.payment">
+      <item name="zoo.window.infoLayers.payment.happyHourHeader"><![CDATA[Zoodollareita plus %prosenttia%%!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBody"><![CDATA[Nyt toiveesi toteutuu!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_1"><![CDATA[Hanki ylimääräisiä zoodollareita tänään!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_2"><![CDATA[Osta esimerkiksi 100 zoodollaria ja saat yhteensä %extradollar% zoodollaria!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_3"><![CDATA[Koskee kaikkia maksutapoja paitsi tilisiirtoa.]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourFin"><![CDATA[Älä epäröi! Tarjous on edelleen voimassa:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.conversionPack">
+      <item name="zoo.window.infoLayers.conversionPack_header"><![CDATA[Vain %priceCurrency%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_save"><![CDATA[Säästä %säästöjä%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_footer"><![CDATA[Ja paljon muuta...]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_infoHeader"><![CDATA[Älä epäröi ja säästä %savings%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info1"><![CDATA[<ul><li>1 pari naaraskoiria</li><li>1 x savannipesä</li><li>1 joutsenlampi</li><li>15 x superruokaa</li><li>15 x parasta ruokaa</li><li>10 x superlääkettä</li><li>75 eläindollaria</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info2"><![CDATA[<ul><li>1 pari ilveksiä</li><li>kaikki 6 avustajaa 24 tunnin ajan</li><li>1 kiviaita</li><li>1 dodo-lintupatsas</li><li>25x superruokaa</li><li>25x paras ruoka</li><li>25x superlääke</li><li>150 eläintarhaa</li>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info3"><![CDATA[<ul><li>1 pari valkotiikereitä</li><li>kaikki 6 avustajaa 24 tunniksi</li><li>1 tundra-aita</li><li>1 karhu vapaudenpatsas</li><li>40x superruoka</li><li>35x paras ruoka</li><li>30x superlääke</li><li></li>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.paymentBug">
+      <item name="zoo.window.infoLayers.paymentBug.title"><![CDATA[Hyvät pelaajat]]></item>
+      <item name="zoo.window.infoLayers.paymentBug.info"><![CDATA[Virheen vuoksi pakkauksesi lisättiin liian monella esineellä. Valitettavasti meidän on poistettava nämä esineet, koska se ei olisi reilua pelaajia kohtaan, jotka ostivat saman paketin. Olemme lisänneet sinulle 500 tassua korvauksena tästä väärinkäsityksestä.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventPack">
+      <item name="zoo.window.infoLayers.eventPack_header"><![CDATA[Hanki ainutlaatuinen joulukori!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title1"><![CDATA[Haluatko nopeuttaa joulutapahtumaasi? Hanki pieni joulukori, jonka voi ostaa vain kerran!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info1"><![CDATA[<ul><li>10x sokeroitua omenaa</li><li>3x Tolia Essence</li><li>3x Growth Potion</li><li>5x superfood</li><li>5x paras ruoka</li><li>25 eläindollaria</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title2"><![CDATA[Haluatko nopeuttaa joulutapahtumaasi? Hanki suuri joulukori, jonka voi ostaa vain kerran!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info2"><![CDATA[<ul><li>60x sokeroitua omenaa</li><li>kaikki 7 apulaista 24 tunnin ajan</li><li>20x tolija essence</li><li>20x kasvujuoma</li><li>20x superfood</li><li>20x paras ruoka</li><li>50 eläindollaria</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.cinema">
+      <item name="zoo.window.infoLayers.cinema.limit"><![CDATA[Valitettavasti sinulla ei ole enää elokuvalippuja.]]></item>
+      <item name="zoo.window.infoLayers.cinema.success1"><![CDATA[Jee! Tässä on palkintosi elokuvan katsomisesta:]]></item>
+      <item name="zoo.window.infoLayers.cinema.success2"><![CDATA[Hyvitys lisätään tilillesi seuraavan tunnin kuluessa.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012">
+      <item name="zoo.window.infoLayers.easter2012.limit"><![CDATA[Sinulla ei ole tarpeeksi pääsiäismunia.]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success1"><![CDATA[Jee! Olet ansainnut seuraavan palkinnon:]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success2"><![CDATA[Onnea munien etsintään!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.avatar">
+      <item name="zoo.window.infoLayers.avatar.Check"><![CDATA[Avatarisi on tallennettu onnistuneesti.]]></item>
+      <item name="zoo.window.infoLayers.avatar.X"><![CDATA[Haluatko varmasti sulkea tämän ikkunan? Avatariasi ei ole vielä tallennettu!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.saveAssets">
+      <item name="zoo.window.infoLayers.saveAssets.text1"><![CDATA[Haluatko pelisi latautuvan nopeammin? ZooMumba on erittäin grafiikkaintensiivinen. Jos haluat, voimme tallentaa kuvat suoraan kiintolevyllesi. Tällä tavoin peli latautuu paljon nopeammin!]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text2"><![CDATA[Ota nämä muutokset käyttöön napsauttamalla "Salli" seuraavan kerran, kun ikkuna avautuu. Muussa tapauksessa pelitiedot tallennetaan edelleen selaimesi välimuistiin.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text3"><![CDATA[Jos päätät toisin, avaa ZooMumba-asetukset ja ota välimuisti käyttöön tai poista se käytöstä.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.yes"><![CDATA[Kyllä, tallenna kiintolevylle (suositus)]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.no"><![CDATA[Ei, käytä selaimen välimuistia edelleen]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.doublexp">
+      <item name="zoo.window.infoLayers.doublexp.allitems"><![CDATA[Nouse tasoa nopeammin! Saat tuplamäärän BZ:tä laitumilla tehtäviin aktiviteetteihin!]]></item>
+      <item name="zoo.window.infoLayers.doublexp.specialitems"><![CDATA[Kerää ylimääräisiä kokemuspisteitä! Nämä eläimet antavat sinulle tupla-annoksen BZ:tä:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.specialShopItem">
+      <item name="zoo.window.infoLayers.specialShopItem.title"><![CDATA[Supertarjous: Vain lyhyen aikaa!]]></item>
+      <item name="zoo.window.infoLayers.specialShopItem.infotext"><![CDATA[Tänään on erityinen päivä erityisille eläimille: Juhlimme niiden syntymäpäiviä! Saatavilla myymälässä vain lyhyen aikaa:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012">
+      <item name="zoo.window.infoLayers.frog2012.limit"><![CDATA[Valitettavasti sinulta puuttuu bonustavaroita. Älä luovuta!]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success1"><![CDATA[Osuma! Olet voittanut hienon palkinnon:]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success2"><![CDATA[Löydä vielä lisää esineitä! Onnea matkaan!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Notification">
+      <item name="zoo.window.infoLayers.frog2012Notification.title"><![CDATA[Keräilyesineiden ostaminen]]></item>
+      <item name="zoo.window.infoLayers.frog2012Notification.text"><![CDATA[Ostettu tuote on nyt eläintarhan varastossa. Haluatko avata varaston?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Comic">
+      <item name="zoo.window.infoLayers.frog2012Comic.layer1.bubble"><![CDATA[Eläintarhasi on kuin satu 17.–23. toukokuuta. Paljon hauskaa ja upeita palkintoja odottaa sinua Royal Frog -tapahtumassa! </br></br>Seuraavissa vaiheissa näytämme sinulle miten:]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer2.content"><![CDATA[Pidä hyvää huolta eläimistäsi ja kerää erityisiä bonusesineitä: kruunattu sammakko, evät tai kruunu. Vaihda ne sitten sammakkopelilaudalla upeisiin palkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer3.content"><![CDATA[Voit pelata niin monta kierrosta kuin haluat. Tarvitset yhä enemmän esineitä, mutta palkinnot ovat yhä upeampia! Pian Sammakkokuningas kurkuttaa myös eläintarhassasi!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australien2012Comic">
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Aurinkoa, surffausta ja pussieläimiä – 25. kesäkuuta–3. heinäkuuta voit pitää hauskaa eläintarhassasi australialaiseen tyyliin! Älä missaa tätä tilaisuutta ja voita upeita australialaisia ​​palkintoja!</br></br>Seuraavissa vaiheissa näytämme sinulle miten:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Pidä hyvää huolta eläimistäsi ja kerää erityisiä bonusesineitä: surffilauta, punainen kivi tai aurinkovoide. Vaihda ne sitten upeisiin yllätyksiin Australian pelikentällä.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Voit pelata niin monta kierrosta kuin haluat. Mitä enemmän esineitä keräät, sitä taianomaisempia voittosi ovat! Muuta eläintarhasi pieneksi Australiaksi!]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Aurinkoa, surffausta ja pussieläimiä – 25. kesäkuuta–3. heinäkuuta voit pitää hauskaa eläintarhassasi australialaiseen tyyliin! Älä missaa tätä tilaisuutta ja voita upeita australialaisia ​​palkintoja!</br></br>Seuraavissa vaiheissa näytämme sinulle miten:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Pidä hyvää huolta eläimistäsi ja kerää erityisiä bonusesineitä: surffilauta, punainen kivi tai aurinkovoide. Vaihda ne sitten upeisiin yllätyksiin Australian pelikentällä.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Voit pelata niin monta kierrosta kuin haluat. Mitä enemmän esineitä keräät, sitä taianomaisempia voittosi ovat! Muuta eläintarhasi pieneksi Australiaksi!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.indien2012Comic">
+      <item name="zoo.window.infoLayers.indien2012Comic.layer1.bubble"><![CDATA[Hei, hei! Haluatko pitää hauskaa 19.–26. heinäkuuta? Kerronpa teille jotain tästä tapahtumasta:]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer2.content"><![CDATA[Kun hoidat eläimiäsi, varo esiin ponnahtavia erikoisesineitä: hennatatuointeja, krikettimailoja ja Taj Mahalia. Kerää ne ja vaihda ne hienoihin palkintoihin eläintarhassa!]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Mitä enemmän esineitä keräät, sitä paremmat palkinnot. Intia on täällä!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.anniversary2012Comic">
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.bubble"><![CDATA[Hyvää syntymäpäivää! Juhlista ZooMumban toista vuosipäivää kanssamme!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.content"><![CDATA[Kerää niin monta torvea, juhlahattua ja samppanjapulloa kuin mahdollista juhlapeleihimme. Voit voittaa juhlahäkin, jossa on paljon juhlaherkkuja!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer2.content"><![CDATA[Mitäpä olisivat juhlat ilman ilmapalloja? Pidä huolta eläimistäsi, kerää ilmapalloja ja vaihda niitä pelikentällä hurjiin juhlayllätyksiin.]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer3.content"><![CDATA[Voit toistaa yksittäisiä pelikierroksia niin monta kertaa kuin haluat. Tarvitset yhä enemmän esineitä, joita ponnahtaa esiin satoa korjatessasi, mutta palkinnot ovat entistä parempia. Hip, hip, hurraa! Kunnia kaikille eläintarhan johtajille!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.oktoberfest2012Comic">
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer1.bubble"><![CDATA[Juhlat alkakoot! Oktoberfest on täällä – tule juhlimaan baijerilaiseen tyyliin!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer2.content"><![CDATA[Lokakuun 1.–7. päivä voit kerätä beer pongia, pehmeitä pretzelejä ja perinteisiä hattuja sekä upeita palkintoja, kuten uuden kodin: Oktoberfestin – huvipuiston!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer3.content"><![CDATA[Voit pelata niin usein kuin haluat. Tarvitset ponnahdusikkunoita, mutta saat vastineeksi perinteisiä baijerilaisia ​​palkintoja. Joten älä epäröi, sinulla on hauskaa!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.circusHelpcomic">
+      <item name="zoo.window.infoLayers.circusHelpcomic.layer1.content"><![CDATA[Sirkuksessa on paljon häkkejä täynnä eksoottisia eläimiä. Ensimmäisten viiden tunnin jälkeen eläin hyppää häkistä sinua kohti! Minkälainen eläin se on?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Layer">
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble1"><![CDATA[Toimita tiput. Jokainen valo syttyy ja lisää upeita palkintoja!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble2"><![CDATA[Toimita sokeroidut omenat. Jokainen valo syttyy ja lisää upeita palkintoja!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer2.bubble"><![CDATA[Myy eläimesi zoogroshiin ja sytytä joulukuusi!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.singleplayer.success"><![CDATA[Hyvä työ! Kaikki on valaistu ja olet kerännyt kaikki palkinnot!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.multiplayer.success"><![CDATA[Onnittelut! Yhdessä valaisimme koko joulukuusen ja keräsimme upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Comic">
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.bubble"><![CDATA[Hyvää joulua! Auta minua sytyttämään jouluvalot. Jokaisesta sytyttämistäsi lampusta voit voittaa erilaisia ​​joululahjoja, kuten naalin!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.content"><![CDATA[Sytyttääksesi valot sinun on lisättävä karkkiomenoita tai eläintenpoikasia varastostasi.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer2.content"><![CDATA[Jotkin valot voi sytyttää vain karkkiomenoilla. Omenat ponnahtavat ulos eläintaloista. Voit ostaa lisää omenoita edetäksesi nopeammin.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer3.content"><![CDATA[Valitse vauva varastostasi ja toimita se. Vinkki: Mitä korkeampi eläimen lisääntymistaso on, sitä nopeammin voit sytyttää valot!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.multiplayer.bubble"><![CDATA[Tässä kohtaa kaikkien eläintarhan johtajien on tehtävä yhteistyötä: Myykää eläimet varastostanne zoogroille. Yhdessä valaisette kuusen askel askeleelta ja voitatte upeita joulupalkintoja.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentines2013Comic">
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer1.bubble"><![CDATA[Tervetuloa ystävänpäivätapahtumaan! Valmistaudu vakavaan romanssiin 14.–25. helmikuuta! Pelaa ystävänpäiväpeliämme ja voita upeita palkintoja!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi, kerää kuppikakkuja, sydänilmapalloja ja onnittelukortteja. Käy pelikentän läpi askel askeleelta ja kerää palkintoja matkan varrella. Pääpalkintona on haikaroita eläintarhaasi!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Tarvitset enemmän ponnahdusikkunoita, mutta se lisää mahdollisuuksiasi saada enemmän palkintoja!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.multiplayer.bubble"><![CDATA[Älä unohda: kaikki eläintarhan johtajat leikkivät yhdessä. Myy eläimiä varastostasi saadaksesi zoogrossia. Työskentele tiesi pehmovuoren huipulle, jossa margai-kissat odottavat palkkiona!]]></item>
+      <item name="zoo.window.infoLayers.valentines.multiplayer.success"><![CDATA[Onnittelut! Olet saavuttanut pehmopinon huiput ja voittanut matkan varrella palkintoja.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterEvent2013Comic">
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer1.bubble"><![CDATA[Tervetuloa pääsiäiseläintarhatapahtumaan! Eläintarhasi muuttuu värikkääksi sateenkaareksi 27. maaliskuuta - 8. huhtikuuta! Kerää värikkäitä poikasia pääsiäispelissämme ja vaihda ne upeisiin palkintoihin!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää värikkäitä tipuja työskennellessäsi! Etene askel askeleelta pelikentän poikki ja kerää kaikki palkinnot matkan varrella. Pääpalkintona on emu!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Voita upeita palkintoja jokaisella kierroksella.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.multiplayer.bubble"><![CDATA[Älä unohda: kaikki eläintarhan johtajat leikkivät yhdessä. Myy eläimiä varastostasi saadaksesi zoogrossia. Saavuta pehmokasan huipu, niin voitat suloisen muurahaiskarhuparin!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.intro"><![CDATA[Myykää eläimet varastostanne ja kiipeäkää yhdessä pehmoiselle vuorelle.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.success"><![CDATA[Onnittelut! Olet saavuttanut pehmopinon huiput ja voittanut matkan varrella palkintoja.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frenchEvent2013Comic">
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer1.bubble"><![CDATA[Tervetuloa Ranskan eläintarhatapahtumaan! Lähdemme matkalle Ranskaan 11.–16. heinäkuuta! Kerää esineitä ranskalaiseen peliimme ja vaihda ne fantastisiin palkintoihin!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää poksahtelevia esineitä. Käy pelikentän läpi askel askeleelta ja kerää palkintoja matkan varrella. Pääpalkintona on mufloneja!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Löydät hauskoja palkintoja jokaiselta kierrokselta.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthdayEvent2013Comic">
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer1.content"><![CDATA[Hurraa! Kolmannen syntymäpäivämme kunniaksi olemme järjestäneet ammuntafestivaalin: ammu ilmapalloja 15.–28. elokuuta ja katso palkintojen satavan päällesi! Saat ilmaista tikanheittoa joka päivä.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer2.content"><![CDATA[Lisää ilmapalloja lautapeliin. Jokainen sisään asetettu ilmapallo vie sinua lähemmäksi palkintoa. Voita sensaatiomaisia ​​syntymäpäiväkoristeita ja uusia eläimiä.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Vinkki: Kirjaudu sisään joka päivä ja saat entistä enemmän tikanheittoja päivittäisen kirjautumisbonuksen avulla!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.over"><![CDATA[Tarvitset vielä ilmapalloja tähän vaiheeseen (määrä: %count). Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.default"><![CDATA[Tänne ammuntafestivaaleille! Räjäytä ilmapallot ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.hungaryEvent2013Comic">
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer1.bubble"><![CDATA[Tervetuloa unkarilaiseen tapahtumaan eläintarhassa! Tule kanssamme matkalle Unkariin 12.–24. syyskuuta! Kerää paprikoita unkarilaiseen peliimme ja vaihda ne upeisiin palkintoihin!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää paprikoita. Etene pelikentän läpi askel askeleelta ja saat palkintoja. Pääpalkintona on uusia eläimiä!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Pieni varoitus: Peppersejä ilmestyy 23. syyskuuta klo 12 asti. Voit kuitenkin vaihtaa niitä 24. syyskuuta asti.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2013Comic">
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer1.bubble"><![CDATA[Voi kyllä! Nuo tuhmat pingviinit leikkivät taikariimuilla ja onnistuivat pakenemaan! Siellä ovat Flubber, Larry ja Swabby! Käytä plasmamöykkyä ja nappaa heidät nopeasti ennen kuin he tekevät jotain kepposia!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer2.content"><![CDATA[Auta hyvää Boota nappaamaan haamut. Toimita ne pelikentälle ja voita kauhistuttavia palkintoja!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer3.content"><![CDATA[Joka päivä, kun kirjaudut peliin, Boo antaa sinulle plasmaläiskiä haamujen metsästykseen. Vinkki: Pidä huolta eläimistäsi, niin plasmaläiskät ponnahtavat esiin kodeistaan. Onnea matkaan!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.over"><![CDATA[Tarvitset vielä haamuja tähän vaiheeseen (määrä: %count). Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.default"><![CDATA[Lähetä kummituksesi tänne ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.thanksGiving2013Comic">
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer1.bubble"><![CDATA[Tervetuloa eläintarhan kiitospäivän juhlaan! Tällä kertaa juhlimme Yhdysvalloissa! Kerää värikkäitä lehtiä ja vaihda ne upeisiin palkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää värikkäitä lehtiä. Etene askel askeleelta pelikentän läpi ja kerää palkintoja matkan varrella. Pääpalkintona on uusia eläimiä eläintarhaasi!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että lehdet putoavat tapahtuman loppuun asti, mutta voit vaihtaa niitä 24 tuntia tapahtuman jälkeen.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.over"><![CDATA[Tarvitset vielä lehtiä (määrä: %count%) tähän vaiheeseen. Ole nopea ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.default"><![CDATA[Lähetä kirjeesi tänne ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2013Comic">
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer1.bubble"><![CDATA[Hohoho! Joulu saapuu eläintarhaan! Joulukuun 19. päivästä tammikuun 7. päivään voit kerätä joulukoristeita eläintarhassasi ja vaihtaa ne värikkäisiin talvieläinten lautasiin ja joulukoristeisiin.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja värikkäät koristeet ponnahtavat esiin niiden kodeista. Liiku pelikentällä askel askeleelta ja vaihda koristeet lomapalkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että koristeita ilmestyy 6. tammikuuta klo 12:een asti, mutta voit vaihtaa niitä 7. tammikuuta klo 12:een asti.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.over"><![CDATA[Tarvitset vielä koristeita tähän vaiheeseen (määrä: %count). Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.default"><![CDATA[Lähetä koristelusuunnitelmasi tänne ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.egypt2014Comic">
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer1.bubble"><![CDATA[Matkusta kanssamme itään: Tutustu muinaiseen Egyptiin, kerää arvokkaita skarabeeja ja vaihda niitä egyptiläisessä lautapelissä.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää värikkäitä skarabeeja, jotka ponnahtavat esiin aitauksistasi. Etene pelilaudalla ja vaihda koristeita itämaisiin palkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että skarabeet ilmestyvät tapahtuman loppuun asti. Voit kuitenkin vaihtaa niitä 24 tunnin ajan tapahtuman jälkeen.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.over"><![CDATA[Tarvitset vielä skarabeuksia tähän vaiheeseen (määrä: %count). Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.default"><![CDATA[Toimita skarabeesi tänne ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014Comic">
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer1.bubble"><![CDATA[Kerää kaikki sydämet: Kerää kortteja 21. helmikuuta - 10. maaliskuuta ystävänpäivälautapelissämme!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää värikkäitä kortteja, jotka ponnahtavat esiin aitauksistasi. Käy pelilaudan läpi askel askeleelta ja vaihda ne romanttisiin palkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että kortit ilmestyvät 10. maaliskuuta klo 12:een asti, mutta voit vaihtaa niitä 11. maaliskuuta klo 12:een asti.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.over"><![CDATA[Tarvitset vielä onnittelukortteja tähän vaiheeseen (määrä: %count). Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.default"><![CDATA[Lähetä toiveesi tästä ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityComic">
+      <item name="zoo.window.infoLayers.valentine2014CommunityComic.multiplayer.bubble"><![CDATA[Älä unohda: kaikki eläintarhan johtajat pelaavat yhdessä. Myy eläimiä varastostasi zoogroille. Saavuta pehmovuoren huippu - upeita palkintoja odottaa joka tasolla!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.success"><![CDATA[Onnittelut, onnistuit! Olet saavuttanut sydänpinon huipun ja voittanut palkintoja matkan varrella.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.intro"><![CDATA[Vaihda eläimiäsi täällä ja saat makeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2014Comic">
+      <item name="zoo.window.infoLayers.easter2014Comic.layer1.bubble"><![CDATA[Eläintarhasi on täydessä kukassa 10.–28. huhtikuuta 2014: Tule pitämään hauskaa upeassa pääsiäistapahtumassamme! Pääsiäislautapelissä sinua odottaa paljon pääsiäisyllätyksiä ja upouusia eläimiä!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää värikkäitä pääsiäismunia, jotka ponnahtavat esiin aitauksistasi. Käy askel askeleelta läpi pelikentän ja vaihda munat superkevätpalkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että pääsiäismunia ilmestyy 28. huhtikuuta klo 12.00 asti, mutta voit vaihtaa niitä 29. huhtikuuta klo 12.00 asti.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.over"><![CDATA[Tarvitset vielä pääsiäismunia tähän vaiheeseen (määrä: %count). Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.default"><![CDATA[Toimita pääsiäismunasi tänne ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.summer2014Comic">
+      <item name="zoo.window.infoLayers.summer2014Comic.layer1.bubble"><![CDATA[Jalkapallokuumetta eläintarhassasi 19. kesäkuuta - 1. heinäkuuta! Matkusta kanssamme Brasiliaan: Samba, jalkapallo, brasilialainen rytmi ja upouudet eläimet odottavat sinua lautapelissämme!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää värikkäitä cocktail-hedelmiä, jotka ponnahtavat esiin aitauksistasi. Käy pelilaudan läpi askel askeleelta ja vaihda cocktailit superkesäpalkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että cocktail-hedelmiä ilmestyy 30. kesäkuuta klo 12.00 asti, mutta voit vaihtaa niitä 1. heinäkuuta klo 12.00 asti.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.over"><![CDATA[Tässä vaiheessa tarvitset vielä cocktailhedelmää (määrä: %count). Ole nopea ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.default"><![CDATA[Vaihda cocktail-hedelmiä superpalkintoihin täällä!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthday2014Comic">
+      <item name="zoo.window.infoLayers.bday2014Comic.layer1.bubble"><![CDATA[Suuret syntymäpäiväjuhlat 19. elokuuta - 2. syyskuuta! Paljon upeita yllätyksiä odottaa sinua lautapelissämme!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer2.content"><![CDATA[Lisää ilmapalloja lautapeliin. Jokainen sisään asetettu ilmapallo vie sinua lähemmäksi palkintoa. Voita sensaatiomaisia ​​syntymäpäiväkoristeita ja uusia eläimiä.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista: Voit kerätä ilmapalloja aitauksistasi vain 27. elokuuta klo 12.00 asti. Sen jälkeen sinulla on 24 tuntia aikaa käyttää niitä.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.over"><![CDATA[Tarvitset vielä ilmapalloja tähän vaiheeseen (määrä: %count). Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.default"><![CDATA[Syötä ilmapalloja ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2014Comic">
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer1.bubble"><![CDATA[Juhlista Halloweenia kanssamme 30. lokakuuta - 10. marraskuuta! Lautapelissämme sinua odottaa paljon upeita yllätyksiä!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää asunnoistasi pulppuavia limoja. Etene askel askeleelta pelikentän poikki ja vaihda limoja aavemaisiin ja mahtaviin palkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että limasirkkelit pomppaavat esiin vain klo 12 asti 10. marraskuuta. Sen jälkeen sinulla on 24 tuntia aikaa käyttää ne.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.over"><![CDATA[Tarvitset vielä limasääskiä tähän vaiheeseen (määrä: %count). Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.default"><![CDATA[Lähetä limasi tänne ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recyclingComic">
+      <item name="zoo.window.infoLayers.recyclingComic.layer1.bubble"><![CDATA[On uskomatonta, mitä kaikkea ihmiset heittävät pois! Jätteissä on niin paljon arvokkaita raaka-aineita: Lajittele jätteet uudelleenkäyttöä varten. Auta ympäristöä ja itseäsi!]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer2.content"><![CDATA[Kaikki kerätty jäte päätyy suoraan kierrätyslaitokseen. Valitse raaka-aine, jonka haluat tehdä jätteestä.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer3.content"><![CDATA[Valitse, kuinka monta esinettä haluat tehdä valituista materiaaleista. Varmista, että sinulla on tarpeeksi romua ja zoogrosia niiden tekemiseen.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer4.content"><![CDATA[Normaalien resurssien lisäksi tarvitset myös harvinaisia ​​resursseja. Supersuodattimen käyttö lisää mahdollisuuksiasi saada harvinaisia ​​resursseja kierrätyksestä.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.craftingComic">
+      <item name="zoo.window.infoLayers.craftingComic.layer1.bubble"><![CDATA[Hei, olen Inga Neer. Autan sinua valmistamaan uusia esineitä raaka-aineista. Mutta ensin tarvitset piirustukset. Rakennuspiirustuksia on saatavilla ja niitä löytyy kaikkialta eläintarhasta: tasojen noustessa, palapelipaloista ja palkinnoista, kokoelmista, safarilta tai onnenpyörästä.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer2.content"><![CDATA[Kaikki rakennuspiirustukset tallennetaan työpajaan. Avaa vain kategoria nähdäksesi, mitä piirustuksia sinulla jo on.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer3.content"><![CDATA[Vihreä rastimerkki näyttää, jos sinulla on kaikki ainekset. Jos on, voit aloittaa!]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer4.content"><![CDATA[Jos haluat työntekijöidesi kiirehtivän, kokeile "Käsityöläisen tehostinta". Heitä se sisään, niin he työskentelevät nyt kaksi kertaa nopeammin! Eläintarha-dollareilla voit saada tuotannon valmiiksi hetkessä.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recylingcraftingunlock">
+      <item name="zoo.window.infoLayers.recylingcraftingunlock.info"><![CDATA[Kierrätä eläintarhasi jäte ja rakenna jotain uutta! Kierrätyslaitos ja työpaja ovat nyt käytettävissä. Klikkaa sinistä elefanttia: Löydät rakennukset ohjauskeskuksesta.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolchange">
+      <item name="zoo.window.infoLayers.toolchange.info"><![CDATA[Kierrätyslaitoksen ja työpajan rakentaminen vaati paljon työkaluja, joita myös keräsit. Jotta et jää pulaan, annamme sinulle kokemuspisteitä keräämistäsi työkaluista.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2014Comic">
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer1.bubble"><![CDATA[Hyvää joulua! Joulukuun 11.–29. päivä pingviinit koristavat joulutakkaa. Mitä enemmän esineitä keräät eläintarhassa, sitä kauniimpi se on. Pelaa lautapeliä ja voita yllätyslahja!]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää jouluherkkuja, jotka ponnahtavat esiin niiden aitauksista. Kävele askel askeleelta pelikentän ympäri ja vaihda ne joululahjoihin.]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että jouluherkut ovat saatavilla vain 29. joulukuuta klo 12 asti. Sen jälkeen sinulla on 24 tuntia aikaa käyttää ne.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.boardgame">
+      <item name="zoo.window.infoLayers.boardgame.info.over"><![CDATA[Tämän vaiheen suorittamiseksi sinun on vielä syötettävä %count%x %collectitem%. Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.boardgame.info.default"><![CDATA[Täällä voit vaihtaa kampanjatuotteita upeisiin palkintoihin!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Comic">
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer1.bubble"><![CDATA[Etsitkö vielä unelmiesi miestä tai naista? Pelaa ystävänpäivälautapeliä 12.–23. helmikuuta 2015!]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää lumpeita, jotka ponnahtavat esiin aitauksistaan. Kävele askel askeleelta pelikentän ympäri ja vaihda ne lomapalkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että lumpeet ilmestyvät vain klo 12:een asti 23. helmikuuta. Sen jälkeen sinulla on 24 tuntia aikaa käyttää ne.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Board">
+      <item name="zoo.window.infoLayers.valentine2015Board.title"><![CDATA[ystävänpäivä]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityBoard">
+      <item name="zoo.window.infoLayers.valentine2014CommunityBoard.title"><![CDATA[Pehmoinen vuori]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2015Comic">
+      <item name="zoo.window.infoLayers.easter2015Comic.layer1.bubble"><![CDATA[Kanalassa tapahtuu jotain outoa. Pääsiäispupu on myöhässä ja tarvitsee apua! Hiipi kanalaan ja kerää munat! Pääsiäispupu on kiitollinen!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää värikkäitä pääsiäispupuja, jotka ponnahtavat esiin aitauksistasi. Käy pelilaudan läpi askel askeleelta ja vaihda ne iloisiin palkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että pääsiäispuput pomppaavat ulos aitauksistasi tapahtuman loppuun asti. Voit kuitenkin käyttää niitä 24 tuntia tapahtuman jälkeen voittaaksesi palkintoja.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.over"><![CDATA[Tarvitset vielä pääsiäispupuja tähän vaiheeseen (määrä: %count). Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.default"><![CDATA[Toimita pääsiäispupusi tänne ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Board">
+      <item name="zoo.window.infoLayers.asia2015Board.title"><![CDATA[Matka Aasiaan]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Comic">
+      <item name="zoo.window.infoLayers.asia2015Comic.layer1.bubble"><![CDATA[Matkusta kanssamme Aasiaan Lohikäärmetanssiin! Kerää värikkäitä lyhtyjä piristämään juhlaasi. Vesilohikäärme siunatkoon sinua!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää värikkäitä lyhtyjä, jotka ponnahtavat esiin aitauksistasi. Etene pelilaudalla ja vaihda lyhdyt eksoottisiin palkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että lyhdyt ponnahtavat esiin tapahtuman loppuun asti. Voit kuitenkin vaihtaa niitä 24 tunnin ajan tapahtuman jälkeen.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.over"><![CDATA[Tarvitset vielä lyhtyjä tähän vaiheeseen (määrä: %count). Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.default"><![CDATA[Lähetä lyhtysi tänne ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Board">
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Matka Australiaan]]></item>
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Matka Australiaan]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Comic">
+      <item name="zoo.window.infoLayers.australian2015Comic.layer1.bubble"><![CDATA[Zoomumba täyttää 5 vuotta! Hip, hip, hurraa! Liity seuraamme Australian erämaahan ja voita upeita palkintoja: Ammu ilmapalloja ja hiipi Australian erämaassa kuin krokotiili Dundee. Hurraa!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää nuolia, jotka ponnahtavat ulos aitauksistasi. Käytä niitä ilmapallojen ampumiseen. Kulje askel askeleelta pelikentän läpi ja vaihda ilmapalloja palkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että tikanheittoja pomppaa ulos kynistäsi tapahtuman loppuun asti. Voit kuitenkin ampua ilmapalloja 24 tuntia tapahtuman jälkeen.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.over"><![CDATA[Tarvitset vielä ilmapalloja tähän vaiheeseen (määrä: %count). Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.default"><![CDATA[Syötä ilmapalloja ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Board">
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Halloween]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Halloween]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Comic">
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer1.bubble"><![CDATA[Abrakadabra! Voi ei! Mikä paha velho muutti pikku Perryn jättiläiskurpitsaksi? Yritä löytää vastalääke ja auta Perryä. Lokakuun 29. päivästä marraskuun 9. päivään pääset kokeilemaan kaikkia taikajuomia!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää taikajuomia, jotka ponnahtavat esiin aitauksistasi. Käy pelilaudan läpi askel askeleelta ja vaihda taikajuomat palkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että taikajuomia ilmestyy tapahtuman loppuun asti. Voit kuitenkin vaihtaa niitä 24 tunnin ajan tapahtuman jälkeen.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.over"><![CDATA[Tarvitset vielä taikajuomia tähän vaiheeseen (määrä: %count). Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.default"><![CDATA[Toimita taikajuomasi tänne ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.winter2015Comic">
+      <item name="zoo.window.infoLayers.winter2015Comic.layer1.bubble"><![CDATA[Hyvää joulua! Pingviinit haluavat koristella takkansa jouluaatoksi. Mitä enemmän joulukynttilöitä keräät, sitä viihtyisämmältä ne tuntevat olonsa. Voit voittaa talvisen yllätyksen lautapelissä!]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää värikkäitä joulukynttilöitä, jotka ponnahtavat esiin aitauksista. Etene askel askeleelta pelikentän läpi ja vaihda ne fantastisiin palkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer3.content"><![CDATA[Suorita niin monta kierrosta kuin haluat. Muista, että joulukynttilät ponnahtavat ulos aitauksista tapahtuman loppuun asti, mutta voit vaihtaa niitä 24 tunnin ajan tapahtuman jälkeen.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2016Comic">
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer1.bubble"><![CDATA[Hei kaikki rakastavaiset! Rakkaus leviää ympäriinsä, joten olemme valmistelleet teille erityisen tapahtuman, jossa on paljon kauniita palkintoja. Meillä on myös uusi lemmikki - raidallinen mangusti, uusia romanttisia koristeita ja kaksi uutta kauppaa!]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää värikkäitä nallekarhuja, jotka hyppivät aitauksista. Palauta ne, seuraa vähitellen rakkauden polkua lautapelissä ja kerää palkintoja.]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer3.content"><![CDATA[Kun saavutat polun pään, pelilauta nollautuu ja voit pelata uuden kierroksen. Karhut ponnahtavat esiin tapahtuman loppuun asti. Sen jälkeen sinulla on 24 tuntia aikaa käyttää niitä!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2016Comic">
+      <item name="zoo.window.infoLayers.easter2016Comic.layer1.bubble"><![CDATA[Kanalassa tapahtuu jotain outoa. Pääsiäispupu on myöhässä ja tarvitsee apua! Hiipi kanalaan ja kerää munat! Pääsiäispupu on kiitollinen!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi ja kerää värikkäitä pääsiäispupuja, jotka ponnahtavat esiin aitauksistasi. Käy pelilaudan läpi askel askeleelta ja vaihda ne iloisiin palkintoihin.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer3.content"><![CDATA[Pelaa niin monta kierrosta kuin haluat. Muista, että pääsiäispuput pomppaavat ulos aitauksistasi tapahtuman loppuun asti. Voit kuitenkin käyttää niitä 24 tuntia tapahtuman jälkeen voittaaksesi palkintoja.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.over"><![CDATA[Tarvitset vielä pääsiäispupuja tähän vaiheeseen (määrä: %count). Toimi nopeasti ja lunasta palkintosi!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.default"><![CDATA[Toimita pääsiäispupusi tänne ja voita upeita palkintoja!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.OceanComic">
+      <item name="zoo.window.infoLayers.OceanComic.layer1.bubble"><![CDATA[Hei, olen Janička ja koulutan merinisäkkäitä. Yhdessä rakennamme kaikkien aikojen parhaan vesieläintarhan!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer1.content"><![CDATA[Sonya ja pingviinit löysivät vanhan vesipuiston piilotetun eläintarhan takaa. Siitä ei ole paljon jäljellä, mutta vesi näyttää upealta. Kunnostakaamme se!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer2.content"><![CDATA[Meidän täytyy rakentaa kaikki! Pingviinit löysivät piirustuksia ja materiaaleja vanhasta mökistä rannalla. Aloitetaan rakentamalla ensimmäinen vesiympäristö ja laituri.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer3.content"><![CDATA[Vesieläimiä on saatavilla kolmessa koossa, jotta kaikki vesieläimet tuntevat olonsa kotoisaksi. Voit noutaa eläimet merenrantapaikalta tai ostaa niitä rantamökiltä!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer4.content"><![CDATA[Hae apua koko vedenalaistiimiltä! Jindra toimittaa ruoan ja Matěj veden. Franta puhdistaa suodattimet ja minä leikin eläinten kanssa.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer5.content"><![CDATA[Pidä akvaarioiden vesi puhtaana ja kerää lisää helmiä! Helmet voivat kaunistaa elinympäristöjä entisestään.]]></item>
+      <category name="zoo.window.infoLayers.oceanWorld2016Board">
+        <item name="zoo.window.infoLayers.oceanWorld2016Board.title"><![CDATA[Syntymäpäivä]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.oceanWorld2016Comic">
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer1.bubble"><![CDATA[Hei! Vedenalainen maailma on täydessä vauhdissa, joten olemme valmistelleet teille erityisen sukellustapahtuman! Merihevoset, upouusi Tiki Bayn aitaus, uudet kaupat ja koristeet odottavat teitä!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi tavalliseen tapaan ja kerää värikkäitä meritähtiä, jotka ponnahtavat esiin aitauksistasi. Tutki pelilaudan vedenalaisia ​​alueita ja ansaitse palkintoja!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer3.content"><![CDATA[Kun olet tutkinut kaikki alueet, pelilauta nollautuu ja voit sukeltaa uudelleen! Meritähtiä ilmestyy tapahtuman loppuun asti. Sen jälkeen sinulla on 24 tuntia aikaa käyttää niitä.]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.over"><![CDATA[Tarvitset vielä tähtiä (lukumäärä: %count% ) tähän vaiheeseen!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.default"><![CDATA[Vaihda tähtesi mahtaviin palkintoihin täällä!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.monkey2016Comic">
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer1.bubble"><![CDATA[Apinat puuhailevat... Auta niitä kepposissaan uudessa lautapelissämme! Ansaitse palkintoja, kuten uusia kauppoja ja koristeita eläintarhaasi!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi normaalisti ja kerää värikkäät vihannekset, jotka ponnahtavat esiin aitauksistasi. Anna jokaiselle mangustille herkku ja ansaitse palkintoja.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer3.content"><![CDATA[Kun olet aiheuttanut haittaa jokaiselle mangustille, pelilauta nollautuu ja voit aloittaa alusta! Vihannekset ponnahtavat esiin tapahtuman loppuun asti. Sen jälkeen sinulla on 24 tuntia aikaa käyttää niitä.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.over"><![CDATA[Tarvitset vielä vihanneksia tähän vaiheeseen (määrä: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.default"><![CDATA[Vaihda vihanneksesi upeisiin palkintoihin täällä!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Board">
+        <item name="zoo.window.infoLayers.halloween2016Board.title"><![CDATA[Hokkuspookus]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Comic">
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer1.bubble"><![CDATA[Mitä nämä salaperäiset taikajuomat tekevät täällä? Ota selvää, mihin niitä käytetään, ja ansaitse palkintoja, kuten eksklusiivisia Halloween-esineitä eläintarhaasi!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi normaalisti ja kerää aitauksistasi ponnahtavat värikkäät pullot. Avaa ne pelilaudalla ja saat palkintoja.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer3.content"><![CDATA[Kun olet avannut kaikki pullot, pelilauta nollautuu ja voit aloittaa alusta! Pullot ponnahtavat esiin tapahtuman loppuun asti. Sen jälkeen sinulla on 24 tuntia aikaa käyttää niitä.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.over"><![CDATA[Tarvitset vielä pulloja (määrä: %count% ) tähän vaiheeseen!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.default"><![CDATA[Vaihda pulloja upeisiin palkintoihin täällä!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.winter2016Comic">
+        <item name="zoo.window.infoLayers.winter2016Comic.layer1.bubble"><![CDATA[Joulu on täällä! Eläintarhassa sataa lunta ja eläimet kirjoittavat kirjettä joulupukille. Hyvää joulua! Pingviinit koristelevat takkaa ja tarvitsevat apua! Ansaitse joulutavaroita pelaamalla lautapeliä!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi normaalisti ja kerää piparkakkumiehet, jotka ponnahtavat esiin aitauksistasi. Liiku pelilaudalla ja kerää palkintoja.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer3.content"><![CDATA[Kun olet pelannut loppuun, pelilauta nollautuu ja voit aloittaa alusta! Voit kerätä piparkakkumiehiä tapahtuman loppuun asti. Sen jälkeen sinulla on 24 tuntia aikaa käyttää niitä.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.over"><![CDATA[Tähän vaiheeseen tarvitset edelleen piparkakkumiehiä (määrä: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.default"><![CDATA[Vaihda piparkakkuukkosi mahtaviin palkintoihin täällä!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Comic">
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer1.bubble"><![CDATA[Hei! Etsitkö rakkautta? Pelaa ystävänpäivälautapeliämme ja hanki paljon esineitä Undersea Worldiin. Ehkä löydät todellisen rakkautesi rakkauden polulta.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi normaalisti ja kerää värikkäät simpukankuoret, jotka ponnahtavat esiin aitauksistasi. Liiku pelilaudalla ja kerää palkintoja.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer3.content"><![CDATA[Kun olet pelannut pelin loppuun, pelilauta nollautuu ja voit aloittaa alusta! Simpukankuoret ponnahtavat esiin tapahtuman loppuun asti. Sen jälkeen sinulla on 24 tuntia aikaa käyttää niitä.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.over"><![CDATA[Tarvitset vielä kuoria tähän vaiheeseen (määrä: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.default"><![CDATA[Vaihda kuoria mahtaviin palkintoihin täällä!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Board">
+        <item name="zoo.window.infoLayers.valentine2017Board.title"><![CDATA[ystävänpäivä]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Comic">
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer1.bubble"><![CDATA[Matkusta kanssamme Kambodžaan ja seikkaile trooppisten metsien syvyyksissä. Kerää khon-naamioita ja löydä muinaisten khmeriläisten temppelien salaisuudet. Rikkaus ja seikkailu odottavat sinua!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer2.content"><![CDATA[Pidä huolta eläimistäsi normaalisti ja kerää khon-naamioita, jotka ponnahtavat esiin aitauksistasi. Liiku pelilaudalla ja kerää palkintoja.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer3.content"><![CDATA[Kun olet pelannut loppuun, pelilauta nollautuu ja voit aloittaa alusta! Khon-naamarit ponnahtavat esiin tapahtuman loppuun asti. Sen jälkeen sinulla on 24 tuntia aikaa käyttää niitä.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.over"><![CDATA[Tässä vaiheessa tarvitset edelleen khon-naamioita (määrä: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.default"><![CDATA[Lähetä khon-naamiosi tänne ja voita upeita palkintoja!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Board">
+        <item name="zoo.window.infoLayers.cambodia2017Board.title"><![CDATA[Matka Kambodžaan]]></item>
+      </category>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Hei! Olen Lucka ja rakastan lepakoita! Mutta erityisesti niiden suloisia pentuja. Tuo minulle niin monta pentua kuin mahdollista, niin minulla on sinulle todella ihania Halloween-esineitä. Vaihda vain makeita saadaksesi vasemmalla olevat esineet tai happamia saadaksesi oikealla olevat esineet.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Varasto]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Valitse kuinka monta %species% poikasta haluat siirtää tavaraluetteloosi.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Pahoittelemme!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Valitettavasti sinulla ei ole tarpeeksi lepakoiden poikasia tavaraluettelossasi. Kasvata lepakoiden poikasia ja siirrä ne tavaraluetteloosi ostaaksesi tämän esineen.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Pienet lepakot varastossa]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Vaihda pienet lepakot makeisiin]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Vaihda pienet lepakot happamiin]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Numero: Makea]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Sijoita %x% makeisia avataksesi tämän esineen]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Investoi %x% happea avataksesi tämän esineen]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Numero: Hapan]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Auttaa]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Siirrä lepakoiden poikaset varastoon]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Tervetuloa Halloween-tapahtumaan!<br> <b>25. lokakuuta - 1. marraskuuta</b> alkavat aavemaiset juhlat eläintarhassasi! Paljon lahjoja ja yllätyksiä odottaa sinua. Seuraavassa vaiheessa näet, miten kaikki toimii.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Kerää niin monta <b>makeaa</b> ja <b>hapanta</b> ainetta kuin pystyt! Tarvitset makean ja happaman aineen aktivoidaksesi haamutrailerit! Seuraavalla sivulla näet, miten kaikki toimii.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Jos sinulla on tarpeeksi makeita ja happamia aineksia, voit käyttää niitä <b>esineiden</b> aktivoimiseen. Mutta ole varovainen: Makeiset saavat sinut katsomaan silmälläsi vasemmalle, happamat ainekset oikealle. Silmä näyttää, kummalla puolella esineet on aktivoitu.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Voit aktivoida esineitä vaihtamalla ne <b>lepakoiden poikasiin</b>. Kasvata paljon söpöjä lepakoita. Uusi painike aitausvalikossa auttaa sinua tallentamaan poikaset varastoosi nopeasti ja helposti.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Pidä hauskaa aavekaupassa!<br> Kaikille kärsimättömille: Makean ja happaman herkut voi vaihtaa kaupassa lepakoiden poikasiin. Lisää yllätyksiä odottaa sinua kaupassa.<br> <br>Pidä hauskaa tänä vuonna Halloweenina!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[On aika aavemaiselle hauskanpidolle!<br>Eläintarhassasi järjestetään <b>31. lokakuuta - 6. marraskuuta</b> Halloween-juhlat!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Kerää niin monta <b>kurpitsaa</b> kuin pystyt! Ne pomppaavat ulos aitauksista, kun hoidat eläimiäsi.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Lisää ne suureen kurpitsakoriin <b>Kurpitsataisteluamme</b> varten. Mitä enemmän kurpitsoja toimitat, sitä pelottavampia palkintoja voit voittaa.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Kun hoidat eläimiäsi, herkkuja ponnahtaa esiin aitauksista. Voitte kaikki kerätä ne yhdessä. Toimintopalkki täyttyy ja kelluva silmä näyttää, mitkä aavemaiset palkinnot ovat kaikkien saatavilla. Klikkaa palkintoa, kun se on aktivoitu.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Kerää kurpitsoja suureen kurpitsataisteeseen. Mitä enemmän keräät, sitä enemmän palkintoja voit voittaa.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Kaikki leikkivät yhdessä! Herkut kaikista eläintarhoista täyttävät mittarin ja avaavat automaattisesti palkintoja kaikille!]]></item>
+    </category>
+  </category>
+</language>

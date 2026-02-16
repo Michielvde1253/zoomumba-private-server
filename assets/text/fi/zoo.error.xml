@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.error">
+    <category name="zoo.error.user">
+      <item name="zoo.error.user.unknown"><![CDATA[Tätä pelaajaa ei ole olemassa.]]></item>
+      <item name="zoo.error.user.notEnoughCr"><![CDATA[Sinulla ei ole tarpeeksi zoodolareita siihen.]]></item>
+      <item name="zoo.error.user.notEnoughCv"><![CDATA[Sinulla ei ole tarpeeksi zoogroseja siihen.]]></item>
+      <item name="zoo.error.user.notRequiredLevel"><![CDATA[Et ole saavuttanut vaadittua tasoa.]]></item>
+    </category>
+    <category name="zoo.error.login">
+      <item name="zoo.error.login.head"><![CDATA[Kirjautumisvirhe]]></item>
+      <item name="zoo.error.login.text"><![CDATA[Kirjautumisessa tapahtui virhe. Tarkista tietosi ja yritä uudelleen.]]></item>
+      <item name="zoo.error.login.blocked"><![CDATA[Ylläpitäjä on estänyt sinut.]]></item>
+      <item name="zoo.error.login.100.title"><![CDATA[Virhe]]></item>
+      <item name="zoo.error.login.100.info"><![CDATA[Olet jo käyttänyt bonuskoodin tällä tilillä, eikä sitä voi käyttää uudelleen.]]></item>
+    </category>
+    <category name="zoo.error.conf">
+      <item name="zoo.error.conf.unknownObj"><![CDATA[Tuntematon objekti]]></item>
+      <item name="zoo.error.conf.notBuyable"><![CDATA[Tuotetta ei ole tällä hetkellä saatavilla ostettavaksi.]]></item>
+      <item name="zoo.error.conf.notEvent"><![CDATA[Kohde ei ole tällä hetkellä käytettävissä]]></item>
+    </category>
+    <category name="zoo.error.badData">
+      <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Olemme pahoillamme!]]></item>
+      <item name="zoo.error.badData.dailyQuests.text"><![CDATA[Voi ei! Tapahtui virhe. Ongelmasta on ilmoitettu tiimille!]]></item>
+    </category>
+    <category name="zoo.error.field">
+      <item name="zoo.error.field.unknownObj"><![CDATA[Objekti ei ole käytettävissä pelissä.]]></item>
+      <item name="zoo.error.field.blocked"><![CDATA[Kenttä käytössä]]></item>
+      <item name="zoo.error.field.breedFailed"><![CDATA[Lisääntyminen epäonnistui. Valitettavasti eläimesi eivät tuottaneet jälkeläisiä.]]></item>
+      <item name="zoo.error.field.wrongSpecies"><![CDATA[Sopimaton eläin tähän aitaukseen.]]></item>
+      <item name="zoo.error.field.maxChildReached"><![CDATA[Olet saavuttanut pentujen enimmäismäärän.]]></item>
+      <item name="zoo.error.field.maleAdultNeeded"><![CDATA[Siihen tarvitset miehen.]]></item>
+      <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[Siihen tarvitset naisen.]]></item>
+      <item name="zoo.error.field.maxAdultReached"><![CDATA[Olet saavuttanut aikuisten enimmäismäärän.]]></item>
+      <item name="zoo.error.field.buildingNotFinished"><![CDATA[Tämä rakennus on vielä rakenteilla.]]></item>
+    </category>
+    <category name="zoo.error.db">
+      <item name="zoo.error.db.failUpdate"><![CDATA[Tietopankin päivitys epäonnistui.]]></item>
+    </category>
+    <category name="zoo.error.invite">
+      <item name="zoo.error.invite.requesterror"><![CDATA[Virhe on tapahtunut.]]></item>
+      <item name="zoo.error.invite.recruitexists"><![CDATA[Olet jo kutsunut tämän käyttäjän.]]></item>
+      <item name="zoo.error.invite.global"><![CDATA[Kutsujen enimmäismäärä on saavutettu. Odota 24 tuntia ennen kuin voit lähettää uuden kutsun (kaikkiin peleihin).]]></item>
+      <item name="zoo.error.invite.instance"><![CDATA[Kutsujen enimmäismäärä on saavutettu. Odota 24 tuntia ennen kuin voit lähettää uuden kutsun (kaikkiin peleihin).]]></item>
+      <item name="zoo.error.invite.error"><![CDATA[Tapahtui virhe... yritä myöhemmin uudelleen.]]></item>
+    </category>
+  </category>
+</language>

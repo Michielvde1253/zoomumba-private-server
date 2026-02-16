@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.crafting">
+    <item name="zoo.window.crafting.intro.blueprintRewards"><![CDATA[Olet kerännyt %mycards% / %allcards% rakennuspiirustuksista!]]></item>
+    <item name="zoo.window.crafting.intro.title"><![CDATA[Työpaja]]></item>
+    <item name="zoo.window.crafting.intro.text"><![CDATA[Käsityöläiset ja harrastajat, varoitus! Käytä materiaalejasi uusien aitausten, rakennusten, koristeiden tai polkujen rakentamiseen. Valitse vain alla oleva kategoria ja siirry seuraavaan tuotantovaiheeseen.]]></item>
+    <item name="zoo.window.crafting.intro.chooseCategorie"><![CDATA[Valitse kategoria:]]></item>
+    <item name="zoo.window.crafting.produce.text"><![CDATA[Se on hyvin yksinkertaista: Vasemmassa alakulmassa näet, mitä parhaillaan tuotetaan. Rakennussuunnitelma näyttää tarvitsemasi materiaalit. Ylhäällä näet tuotantoajan ja maksamiesi tassujen määrän. Ymmärrätkö? Okei, napsauta sitten "Aloita".]]></item>
+    <item name="zoo.window.crafting.produce.button"><![CDATA[Aloita]]></item>
+    <item name="zoo.window.crafting.progress.title"><![CDATA[Työpaja]]></item>
+    <item name="zoo.window.crafting.progress.text"><![CDATA[Tuotanto käynnissä!]]></item>
+    <item name="zoo.window.crafting.progress.time"><![CDATA[Kesto:]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.title"><![CDATA[Tuota välittömästi]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.text"><![CDATA[Säästä aikaa ja lopeta tuotanto heti!]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.button"><![CDATA[Täydellinen]]></item>
+    <item name="zoo.window.crafting.progress.layer.elixir.text"><![CDATA[Nopeuta ja suorita tuotanto puolessa ajassa.]]></item>
+    <item name="zoo.window.crafting.progress.button.elixir"><![CDATA[Kiihdytä]]></item>
+    <item name="zoo.window.crafting.success.text"><![CDATA[Hurraa! Valmis: juuri valmistamasi esine löytyy tavaraluettelostasi!]]></item>
+    <item name="zoo.window.crafting.blueprint.text"><![CDATA[Hurraa! Sait juuri rakennuspiirustuksen! Suuntaa työpajaan ja rakenna uusi esine eläintarhaasi!]]></item>
+  </category>
+</language>

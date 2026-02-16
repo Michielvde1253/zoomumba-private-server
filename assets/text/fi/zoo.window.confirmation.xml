@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.confirmation">
+    <item name="zoo.window.confirmation.closegame.title"><![CDATA[Loppupeli]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandextention"><![CDATA[Tämä eläintarha ei ole vielä saatavilla. Voit avata sen saavuttamalla %level% laajennuksia seuraavassa eläintarhassa: %zooName%. Tai avata sen heti %zooDollar% eläintarhadollarilla.]]></item>
+    <item name="zoo.window.confirmation.map.buyzooandlevel"><![CDATA[Avataksesi tämän eläintarhan sinun on oltava tasolla %level%. Tai voit avata sen heti %zooDollar% eläindollarilla.]]></item>
+    <item name="zoo.window.confirmation.map.level"><![CDATA[Sinun on oltava tasolla %level% avataksesi tämän eläintarhan.]]></item>
+    <item name="zoo.window.confirmation.map.buy"><![CDATA[Haluatko ostaa eläintarhan laajennuksen?]]></item>
+    <item name="zoo.window.confirmation.title.buy"><![CDATA[Ostaa]]></item>
+    <item name="zoo.window.confirmation.closegame.info"><![CDATA[Haluatko todella poistua ZooMumbasta?]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.title"><![CDATA[Osta tuotteita]]></item>
+    <item name="zoo.window.confirmation.shop.buyitemreal.info"><![CDATA[Haluatko todella ostaa tämän tuotteen?]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.title"><![CDATA[Osta muutto]]></item>
+    <item name="zoo.window.confirmation.shop.buyMove.info"><![CDATA[Haluatko tehdä tämän siirron zoodollareiden takia?]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.title"><![CDATA[Myydä]]></item>
+    <item name="zoo.window.confirmation.sellitemaction.info"><![CDATA[Haluatko todella myydä tämän tuotteen?]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.title"><![CDATA[Varoitus]]></item>
+    <item name="zoo.window.confirmation.sendeventitemtoinventory.info"><![CDATA[Jos sijoitat aitauksen tavaraluetteloosi, se menettää toimintopäivityksensä.<br><br>Haluatko jatkaa?]]></item>
+    <category name="zoo.window.confirmation.gift">
+      <item name="zoo.window.confirmation.gift.title"><![CDATA[Huomio!]]></item>
+      <item name="zoo.window.confirmation.gift.info"><![CDATA[Et ole vielä valinnut viittä ystävääsi! Jos jatkat, lahjasi menetetään. Se olisi sääli... Haluatko vielä jatkaa?]]></item>
+    </category>
+  </category>
+</language>

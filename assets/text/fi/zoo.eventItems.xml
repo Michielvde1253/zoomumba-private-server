@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Kurpitsalyhty]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Aavemaiset kaiverretut kurpitsat, joita kutsutaan Jack-o-lanterneiksi, hohtavat halloween-yön pimeydessä. Hänen hirvittävät irvistyksensä on entistäkin kauhistuttavampi lepattavan kynttilänvalossa. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[joulukuusi]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[Hoikka kuusi on kasvanut...! Juhlavasti koristeltu kuusi, täynnä joululahjoja.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Sydän]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Onnea matkaan! Monissa maissa uskotaan, että nuohoojan suuteleminen ystävänpäivänä tuo heille suurta onnea!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Syntymäpäiväkakku]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Nam! Mitäpä olisivat syntymäpäivät ilman kaloripitoista herkkua?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Syntymäpäiväkakku]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Nam! Mitäpä olisivat syntymäpäivät ilman tätä kaloripitoista herkkua?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Kasa pääsiäismunia]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[Hieno kokoelma pääsiäismunia. Ennen käytettiin maalattuja kananmunia. Nykyään suklaamunat ovat yleisempiä.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Sateenkaarimuna]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Pääsiäismunat on erityisesti mukautettu näkövammaisille lapsille pääsiäisjahtiin osallistumista varten. Munat piippaavat tai soittavat sävelmän.]]></item>
+  </category>
+</language>

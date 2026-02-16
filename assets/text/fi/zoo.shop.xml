@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop">
+    <category name="zoo.shop.category">
+      <item name="zoo.shop.category.animals"><![CDATA[Eläimet]]></item>
+      <item name="zoo.shop.category.cages"><![CDATA[Elinympäristöt]]></item>
+      <item name="zoo.shop.category.stores"><![CDATA[Rakennukset]]></item>
+      <item name="zoo.shop.category.deco"><![CDATA[Koristeet]]></item>
+      <item name="zoo.shop.category.resources"><![CDATA[Syöte]]></item>
+      <item name="zoo.shop.category.assistants"><![CDATA[Avustajat]]></item>
+      <item name="zoo.shop.category.specials"><![CDATA[Asusteet]]></item>
+      <item name="zoo.shop.category.roads"><![CDATA[Tiet]]></item>
+      <item name="zoo.shop.category.material"><![CDATA[Materiaali]]></item>
+    </category>
+    <category name="zoo.shop.tabbar">
+      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Näin pääset työpajaan.]]></item>
+    </category>
+  </category>
+</language>

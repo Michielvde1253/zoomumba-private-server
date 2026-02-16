@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopRoadsInfo">
+    <item name="zoo.window.shopRoadsInfo.titel_1"><![CDATA[Soratie]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_1"><![CDATA[Tämä soratie yhdistää eläintarhan aitaukset. Laadukas polkuverkosto auttaa vierailijoita löytämään tiensä ja johdattaa heidät kaikkiin aitauksiin.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_2"><![CDATA[Sinivalkoinen jalkakäytävä]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_2"><![CDATA[Tämä sinivalkoinen mukulakivipolku ei ainoastaan ​​näytä upealta, vaan se on myös loistava alusta lastenrattaille, potkulaudoille ja rullaluistimille. Sujuvaa liikkumista ja laadukasta hauskanpitoa, se on mahtavaa!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_3"><![CDATA[Hiekkatie]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_3"><![CDATA[Aroilla on harvoin päällystettyjä teitä. Haluat eläintarhasi muistuttavan villiä luontoa!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_4"><![CDATA[Vaaleanpunainen ja valkoinen jalkakäytävä]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_4"><![CDATA[Kuinka ihanaa: Tämä arvokkaista vaaleanpunaisista mosaiikkikivistä tehty kivipolku on todella erityinen. Täydellinen catwalk korkokengissä vierailijoille.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_5"><![CDATA[Mustavalkoinen jalkakäytävä]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_5"><![CDATA[Mustavalkoiset mosaiikkimaiset jalokivet reunustavat kauniisti tätä polkua. Ne on työstetty suurella huolella ja niistä tulee eläintarhasi helmi.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_6"><![CDATA[Kivinen tie]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_6"><![CDATA[Aivan kuten luonnossa, kivien väleistä kasvaa pieniä ruohotuppoja. Ei pikkutarkoitsijoille, mutta luonnon ystävät varmasti nauttivat siitä.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_7"><![CDATA[Pikkukivipolku]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_7"><![CDATA[Tämä soratie näyttää hyvältä, eikä kukaan varmaan liukastu sillä. Turvallinen ja kaunis, mitä muuta voisi toivoa?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_8"><![CDATA[Hiekkatie]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_8"><![CDATA[Maastopolut ovat suosittuja Afrikassa. Ne lisäävät eläintarhasi aitoutta ja saavat monet eläimet tuntemaan olonsa kotoisaksi.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_9"><![CDATA[Vesiväylä]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_9"><![CDATA[Loiskahdus, loiskahdus, loiskahdus! Pue kumisaappaat jalkaan, täytä kumivene ilmalla ja nappaa kumiankka - tällä retkellä on luvassa paljon vettä!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_10"><![CDATA[Jäätie]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_10"><![CDATA[Jee! Jäätie – siitä tulee hauskaa! Vierailijasi pitävät hauskaa liukuessaan jäätynyttä tietä pitkin. Ole varovainen, tietä ei ole suolattu!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_11"><![CDATA[Savannah Road]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_11"><![CDATA[Savannilla kiemurtelee hyvin tallattu polku, joka sopii erinomaisesti jälkien etsimiseen kuten safarilla.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_12"><![CDATA[Aavikkotie]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_12"><![CDATA[Auringon paahtavan kuumuuden alla hiekka puhaltaa aavikon yli ja pyyhkii pois kaikki jäljet.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_13"><![CDATA[Kivipolku]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_13"><![CDATA[Tämä polku on melko kuoppainen. Siellä on isoja kiviä ja lohkareita, joten hyvät jalkineet ovat välttämättömät. Varo kaatumista!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_14"><![CDATA[Tundran polku]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_14"><![CDATA[Vierailijasi tarvitsevat kompassin tällä reitillä, mutta on myös viisasta pysyä sisäänajetulla polulla.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_15"><![CDATA[Luminen tie]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_15"><![CDATA[Tahmea lumi peittää lumipolun, jota pitkin vierailijasi tallaavat lämpimissä saappaissaan. Kaikki täällä on niin kaunista!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_16"><![CDATA[Aavikkopolku]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_16"><![CDATA[Erämaassa on parasta pysyä tiellä. Myrkkyjä ja jätettä on kaikkialla. Hyväpohjaiset kumisaappaat ovat välttämättömät!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_17"><![CDATA[Alppireitti]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_17"><![CDATA[Tämä vaellusreitti kulkee Alppien halki ylös ja alas. Hyvät kengät, joissa on tukeva nilkkatuki, estävät liukastumisen!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_18"><![CDATA[Luolapolku]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_18"><![CDATA[Pidä silmäsi auki, ettet liukastu. Ehkä huomaat kimaltelevan kultahiukkasen kivien joukosta.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_19"><![CDATA[Metsäpolku]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_19"><![CDATA[Sateisina päivinä tämä polku voi olla hieman mutainen, mutta kesällä metsä on aivan idyllinen.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_20"><![CDATA[Rannikkotie]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_20"><![CDATA[Paljain jaloin kävely kimaltelevalla hiekalla, simpukoiden, merilevän ja toisinaan myös meritähden päällä on erittäin hyödyllistä terveydelle!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_21"><![CDATA[Maaginen polku]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_21"><![CDATA[Kirkkaansininen polku, joka on aivan uskomaton, saattaa vaikuttaa pelottavalta, mutta se on myös seikkailunhaluinen. Minne se johtaa?]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_22"><![CDATA[Sokerimaan polku]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_22"><![CDATA[Muruset! Hups! Astuitko karkin päälle? Varo, matkalla on purukumia! Kuinka kauniin värikästä täällä onkaan!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_23"><![CDATA[Bambumetsäpolku]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_23"><![CDATA[Sumu leijailee laajan, lähes läpäisemättömän bambumetsän läpi. Tikan koputusta kuuluu kaukaa. Yksinkertaisesti idyllistä!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_24"><![CDATA[Metsäpolku]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_24"><![CDATA[Jos et halua heilua köynnöksestä köynnökseen tässä viidakossa, voit kävellä tätä hyvin tallattua polkua pitkin. Ole varovainen: Aika ajoin käärme tai hämähäkki saattaa ylittää polun.]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_25"><![CDATA[Polku suon läpi]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_25"><![CDATA[Vierailijoidesi tulisi muistaa pysyä oikealla polulla suolla. Yksikin väärä askel ja he putoavat mutaan!]]></item>
+    <item name="zoo.window.shopRoadsInfo.titel_26"><![CDATA[Puinen tasanne]]></item>
+    <item name="zoo.window.shopRoadsInfo.text_26"><![CDATA[Ei ole mitään parempaa kuin kävellä puista laituria pitkin ja kuunnella laivan kannen narinaa. Vierailijasi saavat kokea aidon rannikkoelämyksen.]]></item>
+  </category>
+</language>

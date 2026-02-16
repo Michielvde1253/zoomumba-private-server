@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.inventory">
+    <item name="zoo.inventory.sell.title"><![CDATA[Myydä]]></item>
+    <item name="zoo.inventory.sell.info"><![CDATA[Kuinka monta haluat myydä?]]></item>
+    <item name="zoo.inventory.store.error.title"><![CDATA[TÄRKEÄÄ]]></item>
+    <item name="zoo.inventory.store.error.info"><![CDATA[Jos haluat siirtää aitaukselliset eläimet varastoosi, niiden on ensin oltava terveitä ja tyytyväisiä.]]></item>
+    <category name="zoo.inventory.tabs">
+      <item name="zoo.inventory.tabs.gifts"><![CDATA[Lahjat]]></item>
+      <item name="zoo.inventory.tabs.inventory"><![CDATA[Varasto]]></item>
+      <item name="zoo.inventory.tabs.pawprints"><![CDATA[Tassut]]></item>
+      <item name="zoo.inventory.tabs.pearls"><![CDATA[Helmet]]></item>
+      <item name="zoo.inventory.tabs.specials"><![CDATA[Asusteet]]></item>
+      <item name="zoo.inventory.tabs.trash"><![CDATA[Roska]]></item>
+    </category>
+    <category name="zoo.inventory.trash">
+      <item name="zoo.inventory.trash.info"><![CDATA[Ympäristönsuojelu uudelleenkäytöllä: Kierrätä jäte kierrätyslaitoksessa ja käytä raaka-aineet jonkin tarvittavan tuotteen valmistukseen.]]></item>
+      <item name="zoo.inventory.trash.amount"><![CDATA[Roskien määrä:]]></item>
+    </category>
+    <category name="zoo.inventory.pawprints">
+      <item name="zoo.inventory.tabs.pawprints.info"><![CDATA[Mitä enemmän huolehdit eläimistäsi, sitä enemmän tassuja keräät. Voit sitten käyttää niitä aitauksiesi parantamiseen.<br> <br>Kerättyjen tassujen nykyinen määrä:]]></item>
+    </category>
+    <category name="zoo.inventory.pearls">
+      <item name="zoo.inventory.tabs.pearls.info"><![CDATA[Mitä enemmän pidät huolta eläimistäsi, sitä enemmän helmiä ansaitset kaunistaaksesi elinympäristöjäsi.<br><br>Helmien nykyinen tila:]]></item>
+    </category>
+    <category name="zoo.inventory.inventory">
+      <item name="zoo.inventory.inventory.empty"><![CDATA[ONKO KAIKKIALLA TYHJÄÄ?<br>Varastosi on tällä hetkellä tyhjä.<br>Mikset kävisi kaupassa tai lähtisi safarille?]]></item>
+      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Käyttää]]></item>
+    </category>
+    <category name="zoo.inventory.gifts">
+      <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Pelaajan nimi]]></item>
+      <item name="zoo.inventory.gifts.headerUserID"><![CDATA[Pelaajan tunnus]]></item>
+      <item name="zoo.inventory.gifts.received"><![CDATA[Kuinka kaunista! Ystäväsi lähetti sinulle lahjan. Avaa se nopeasti!]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Laajentaa]]></item>
+      <item name="zoo.inventory.gifts.none"><![CDATA[Mikä sääli! Sinulla ei ole tällä hetkellä uusia lahjoja... Mutta älä ole surullinen, jotain on pian tulossa.]]></item>
+    </category>
+    <category name="zoo.inventory.move">
+      <item name="zoo.inventory.move.title"><![CDATA[Maksaa]]></item>
+      <item name="zoo.inventory.move.info"><![CDATA[Kuinka monesta eläimestä haluat maksaa?]]></item>
+    </category>
+    <category name="zoo.inventory.allin">
+      <item name="zoo.inventory.allin.title"><![CDATA[Lähetä kaikki inventaarioon]]></item>
+      <item name="zoo.inventory.allin.confirmation"><![CDATA[Oletko varma, että haluat lähettää kaiken varastoon? Varoitus: Eläinten on oltava puhtaita, ruokittuja ja tyytyväisiä ennen kuin voit tehdä tämän.]]></item>
+    </category>
+  </category>
+</language>

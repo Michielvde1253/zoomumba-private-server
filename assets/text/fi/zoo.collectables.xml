@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.collectables">
+    <category name="zoo.collectables.forgottenZoo">
+      <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Työkalut]]></item>
+      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Kerää työkaluja ja vaihda niitä piilotetun eläintarhasi laajennuksiin.<br> <br>Saat työkaluja safarilla ja onnenpyörässä. Mene sitten kauppaan ja vaihda ne.<br> <br>Sinulla on tähän mennessä näin paljon työkaluja:]]></item>
+      <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[Haluatko laajentaa piilotettua eläintarhaasi %tools% työkaluilla ja %zd% eläintarhadollareilla?]]></item>
+    </category>
+    <category name="zoo.collectables.easterEvent">
+      <item name="zoo.collectables.easterEvent.title"><![CDATA[Pääsiäismunat]]></item>
+      <item name="zoo.collectables.easterEvent.text"><![CDATA[Huhtikuun 21. ja 27. huhtikuuta välisenä aikana pääset kokemaan pääsiäismunien tulvan! Kerää niitä ja vaihda ne pääsiäisaitakoristeisiin, pääsiäispupuihin ja -aitauksiin. Nykyinen pääsiäismunasi tilanne:]]></item>
+    </category>
+    <category name="zoo.collectables.meadow">
+      <item name="zoo.collectables.meadow.main.title"><![CDATA[Niitty]]></item>
+      <item name="zoo.collectables.meadow.main.text"><![CDATA[Kauniilla, värikkäällä niityllä kasvaa paljon heiniä, kukkia ja mehikasviapilaa.]]></item>
+      <item name="zoo.collectables.meadow.flower.title"><![CDATA[Kukat]]></item>
+      <item name="zoo.collectables.meadow.flower.text"><![CDATA[Keväällä niityt muuttuvat kukkien mereksi. Ja eläimesi rakastavat niitä!]]></item>
+      <item name="zoo.collectables.meadow.log.title"><![CDATA[Kanto]]></item>
+      <item name="zoo.collectables.meadow.log.text"><![CDATA[Siirtymäniitty luodaan raivaamalla puita. Kun metsä on kadonnut, paikalle kasvaa ensin pieniä ruohonversoja.]]></item>
+      <item name="zoo.collectables.meadow.gnome.title"><![CDATA[Kujeileva]]></item>
+      <item name="zoo.collectables.meadow.gnome.text"><![CDATA[Niityillä asuu usein myös haltioita, jotka ilmestyvät piilopaikoistaan ​​yöllä. Nämä ujot mutta ystävälliset olennot jakavat usein kotinsa jänisten kanssa.]]></item>
+      <item name="zoo.collectables.meadow.mushroom.title"><![CDATA[Sienet]]></item>
+      <item name="zoo.collectables.meadow.mushroom.text"><![CDATA[Sienet ovat maukkaita sieniä ja niitä kasvaa esimerkiksi Pohjois-Amerikassa.]]></item>
+      <item name="zoo.collectables.meadow.sign.title"><![CDATA[Villi niitty]]></item>
+      <item name="zoo.collectables.meadow.sign.text"><![CDATA[Jos kukaan ei pitkään aikaan hoida "siirtymäniityä", sen tilalle kasvaa pian taas villi metsä.]]></item>
+    </category>
+    <category name="zoo.collectables.ice">
+      <item name="zoo.collectables.ice.main.title"><![CDATA[Jää]]></item>
+      <item name="zoo.collectables.ice.main.text"><![CDATA[Kylmästä ilmastosta pitävät paitsi pingviinit ja jääkarhut, myös naali nauttii jäästä ja lumesta!]]></item>
+      <item name="zoo.collectables.ice.popsicle.title"><![CDATA[Mehujää]]></item>
+      <item name="zoo.collectables.ice.popsicle.text"><![CDATA[Harva tietää tämän, mutta pingviinitkin pitävät jäätelöistä ja joskus varastavat niitä turisteilta.]]></item>
+      <item name="zoo.collectables.ice.cubes.title"><![CDATA[Jääkuutiot]]></item>
+      <item name="zoo.collectables.ice.cubes.text"><![CDATA[Jääkuutiot ovat täydellinen tapa viilentää kuumaa juomaa. Ne virkistävät kuumana kesäpäivänä.]]></item>
+      <item name="zoo.collectables.ice.skates.title"><![CDATA[Luistella]]></item>
+      <item name="zoo.collectables.ice.skates.text"><![CDATA[Luistelu on upea urheilulaji. Historioitsijat uskovat, että se keksittiin noin 4 000 vuotta sitten. Suomalaiset luultavasti vaikuttivat keksintöön.]]></item>
+      <item name="zoo.collectables.ice.igloo.title"><![CDATA[Iglu]]></item>
+      <item name="zoo.collectables.ice.igloo.text"><![CDATA[Iglu tarkoittaa taloa eskimoille, jotka ovat Pohjois-Amerikan alkuperäisasukkaita.]]></item>
+      <item name="zoo.collectables.ice.sign.title"><![CDATA[Jääpuikot]]></item>
+      <item name="zoo.collectables.ice.sign.text"><![CDATA[Kimaltelevat jääpuikot muodostuvat pakkasessa. Auringon lämpö tietenkin sulattaa ne uudelleen.]]></item>
+    </category>
+    <category name="zoo.collectables.bamboo">
+      <item name="zoo.collectables.bamboo.main.title"><![CDATA[Bambulehdon]]></item>
+      <item name="zoo.collectables.bamboo.main.text"><![CDATA[Bambu on pandojen ainoa ravinto, ja sitä kasvaa pääasiassa Aasiassa.]]></item>
+      <item name="zoo.collectables.bamboo.branches.title"><![CDATA[Bambun oksa]]></item>
+      <item name="zoo.collectables.bamboo.branches.text"><![CDATA[Bambu on yhteisnimitys useille puuvartisille ruohokasvien suvuille.]]></item>
+      <item name="zoo.collectables.bamboo.lantern.title"><![CDATA[Lampion]]></item>
+      <item name="zoo.collectables.bamboo.lantern.text"><![CDATA[Ripusta kaunis lyhty bambupuutarhaasi ja kirkasta yötä pehmeällä valolla.]]></item>
+      <item name="zoo.collectables.bamboo.gong.title"><![CDATA[Gong]]></item>
+      <item name="zoo.collectables.bamboo.gong.text"><![CDATA[Gong on mukava koriste bambupuutarhaasi. Ja tuo eksoottinen ääni... tuntuu kuin se olisi tehty aloittamaan meditaation.]]></item>
+      <item name="zoo.collectables.bamboo.statue.title"><![CDATA[Aasialainen patsas]]></item>
+      <item name="zoo.collectables.bamboo.statue.text"><![CDATA[Aasialaistyylinen patsas lisää rauhallisen ja rauhallisen tunnelman bambupuutarhaan.]]></item>
+      <item name="zoo.collectables.bamboo.sign.title"><![CDATA[Bambusiivet]]></item>
+      <item name="zoo.collectables.bamboo.sign.text"><![CDATA[Bambusta on tehty siipiä jo pitkään. Kevyt mutta vahva materiaali mahdollistaa niiden saavuttamisen uskomattomissa korkeuksissa.]]></item>
+    </category>
+    <category name="zoo.collectables.parrot">
+      <item name="zoo.collectables.parrot.main.title"><![CDATA[Papukaija]]></item>
+      <item name="zoo.collectables.parrot.main.text"><![CDATA[Jotkut papukaijat tunnetaan melko puheliaina. Jotkut niistä jopa puhuvat kokonaisia ​​lauseita.]]></item>
+      <item name="zoo.collectables.parrot.plush.title"><![CDATA[Pehmo papukaija]]></item>
+      <item name="zoo.collectables.parrot.plush.text"><![CDATA[Papukaijat ovat erittäin sosiaalisia ja suosittuja lemmikkejä, mutta ne tarvitsevat runsaasti tilaa juosta ympäriinsä.]]></item>
+      <item name="zoo.collectables.parrot.paw.title"><![CDATA[Papukaijan kynsi]]></item>
+      <item name="zoo.collectables.parrot.paw.text"><![CDATA[Papukaijoilla on itse asiassa neljä kynttä. Kaksi on edessä ja kaksi takana. Tällä tavoin ne eivät putoa oksalta, vaikka nukahtaisivat.]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.title"><![CDATA[Blackjack]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.text"><![CDATA[Papukaijat ovat itse asiassa merirosvoja, jotka pahat taikurit muuttivat värikkäiksi linnuiksi.]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.title"><![CDATA[Peru]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.text"><![CDATA[Perun Amazonin alueen viidakot ovat monien papukaijojen koti, ja sademetsä tarjoaa niille ihanteellisen elinympäristön.]]></item>
+      <item name="zoo.collectables.parrot.sign.title"><![CDATA[Hedelmien ystävät]]></item>
+      <item name="zoo.collectables.parrot.sign.text"><![CDATA[Papukaijat syövät mielellään siemeniä ja pähkinöitä, mutta ne nauttivat myös hedelmistä. Ei ole väliä ovatko ne tuoreita vai kuivattuja, tärkeintä on, että ne ovat makeita.]]></item>
+    </category>
+    <category name="zoo.collectables.rabbit">
+      <item name="zoo.collectables.rabbit.main.title"><![CDATA[Jänis]]></item>
+      <item name="zoo.collectables.rabbit.main.text"><![CDATA[Jänikset elävät monilla eri alueilla - aavikoista metsiin ja kylmiin napa-alueisiin.]]></item>
+      <item name="zoo.collectables.rabbit.plush.title"><![CDATA[Pehmojänis]]></item>
+      <item name="zoo.collectables.rabbit.plush.text"><![CDATA[Jäniksiä on ollut olemassa vuosisatoja. Fossiilit osoittavat, että jäniksiä muistuttavia olentoja eli Kiinassa 60 miljoonaa vuotta sitten.]]></item>
+      <item name="zoo.collectables.rabbit.paw.title"><![CDATA[Kanin jalka]]></item>
+      <item name="zoo.collectables.rabbit.paw.text"><![CDATA[Kanin jalat ovat monissa kulttuureissa onnen symboli.]]></item>
+      <item name="zoo.collectables.rabbit.paint.title"><![CDATA[Väripaletti]]></item>
+      <item name="zoo.collectables.rabbit.paint.text"><![CDATA[Kerran vuodessa pääsiäispupu saapuu ja piilottaa suklaata ja värillisiä munia.]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.title"><![CDATA[Portugali]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.text"><![CDATA[Eurooppalaiset villijänikset elivät alun perin Portugalissa, Espanjassa ja Luoteis-Afrikassa, mutta ne ovat levinneet myös Australiaan.]]></item>
+      <item name="zoo.collectables.rabbit.sign.title"><![CDATA[Kasvisasiantuntijat]]></item>
+      <item name="zoo.collectables.rabbit.sign.text"><![CDATA[Jänikset ovat kasvissyöjiä. Ne syövät mieluiten ruohoa, yrttejä, salaattia ja värikkäitä kukkia.]]></item>
+    </category>
+    <category name="zoo.collectables.penguin">
+      <item name="zoo.collectables.penguin.main.title"><![CDATA[Pingviini]]></item>
+      <item name="zoo.collectables.penguin.main.text"><![CDATA[Pingviinit ovat merilintuja, vaikka ne eivät osaa lentää.]]></item>
+      <item name="zoo.collectables.penguin.plush.title"><![CDATA[Pehmopingviini]]></item>
+      <item name="zoo.collectables.penguin.plush.text"><![CDATA[Pingviinit ovat erittäin sosiaalisia ja kilpailuhenkisiä eläimiä, jotka usein nauttivat vedenalaisesta tanssimisesta.]]></item>
+      <item name="zoo.collectables.penguin.paw.title"><![CDATA[Pingviini räpylä]]></item>
+      <item name="zoo.collectables.penguin.paw.text"><![CDATA[Pingviinin kävely maalla näyttää kömpelöltä, mutta vedessä pingviini on ketterä uimari ja sukeltaja.]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.title"><![CDATA[Smokki]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.text"><![CDATA[Jotkut kutsuvat smokkia myös pingviinifrakiksi, koska se muistuttaa ulkonäöltään silmiinpistävän pingviiniä.]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.title"><![CDATA[Etelämanner]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.text"><![CDATA[Subpolaarisilla saarilla elää yksi suurimmista ja painavimmista pingviineistä - keisaripingviini.]]></item>
+      <item name="zoo.collectables.penguin.sign.title"><![CDATA[Kalafanit]]></item>
+      <item name="zoo.collectables.penguin.sign.text"><![CDATA[Pingviinit ovat ehdottomia herkkusuita. Ne pitävät kalasta, mutta ne nauttivat myös merenelävistä.]]></item>
+    </category>
+    <category name="zoo.collectables.giantTurtle">
+      <item name="zoo.collectables.giantTurtle.main.title"><![CDATA[Jättiläiskilpikonna]]></item>
+      <item name="zoo.collectables.giantTurtle.main.text"><![CDATA[Kilpikonnat ovat matelijoita. Ne elävät useimmiten veden lähellä tai vedessä. Suurimmat kilpikonnat ovat vesikilpikonnia.]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.title"><![CDATA[Pehmolelukilpikonna]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.text"><![CDATA[Jättiläiskilpikonnan poikaset kommunikoivat sisarustensa kanssa vielä munassa. Ne yksinkertaisesti törmäävät toisiinsa munankuorillaan.]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.title"><![CDATA[Kilpikonnan jalka]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.text"><![CDATA[Vesikilpikonnan jaloissa on räpylät varpaiden välissä, kun taas maakilpikonnien jalat ovat enemmän tynkien kaltaiset.]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.title"><![CDATA[Swing]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.text"><![CDATA[Norsukilpikonnat voivat elää yli satavuotiaiksi, mutta niille ei koskaan kasva harmaata partaa.]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.title"><![CDATA[Ecuador]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.text"><![CDATA[Norsukilpikonnat ovat kotoisin Galápagossaarilta, jotka kuuluvat Ecuadorille Etelä-Amerikassa.]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.title"><![CDATA[Ravitsemusasiantuntijat]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.text"><![CDATA[Useimmat kilpikonnat ovat kaikkiruokaisia, mutta jotkut lajit, kuten meduusat, ovat erikoistuneet vain yhteen ravintoon.]]></item>
+    </category>
+    <category name="zoo.collectables.lion">
+      <item name="zoo.collectables.lion.main.title"><![CDATA[Leijona]]></item>
+      <item name="zoo.collectables.lion.main.text"><![CDATA[Leijonat ovat maailman toiseksi suurimpia kissaeläimiä tiikereiden jälkeen.]]></item>
+      <item name="zoo.collectables.lion.plush.title"><![CDATA[Pehmoleijona]]></item>
+      <item name="zoo.collectables.lion.plush.text"><![CDATA[Valkoiset leijonat ovat itse asiassa täysin tavallisia leijonia, vain niiden turkki on vaalentunut auringon vaikutuksesta.]]></item>
+      <item name="zoo.collectables.lion.paw.title"><![CDATA[Leijonan tassu]]></item>
+      <item name="zoo.collectables.lion.paw.text"><![CDATA[Ne herättävät kunnioitusta suurilla tassuillaan ja niiden kynnet puristavat tiukasti saalistaan.]]></item>
+      <item name="zoo.collectables.lion.crown.title"><![CDATA[Kruunu]]></item>
+      <item name="zoo.collectables.lion.crown.text"><![CDATA[Vaikka ne asuvat savanneilla ja aroilla, niitä kutsutaan usein "viidakon kuninkaiksi".]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.title"><![CDATA[Tansania]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.text"><![CDATA[Nykyään ne elävät pääasiassa kansallispuistoissa, kuten Tansaniassa tai Itä-Afrikan rannikolla.]]></item>
+      <item name="zoo.collectables.lion.sign.title"><![CDATA[Pihvien ystävät]]></item>
+      <item name="zoo.collectables.lion.sign.text"><![CDATA[Leijonat, kuten kaikki kissaeläimet, ovat lihansyöjiä. Ne syövät gnuita, seeproja ja puhveleita.]]></item>
+    </category>
+    <category name="zoo.collectables.peacock">
+      <item name="zoo.collectables.peacock.main.title"><![CDATA[Riikinkukko]]></item>
+      <item name="zoo.collectables.peacock.main.text"><![CDATA[Riikinkukot ovat vaikuttavia eksoottisia lintuja. Ne vaeltelevat vapaasti monissa eläintarhoissa ja puistoissa.]]></item>
+      <item name="zoo.collectables.peacock.plush.title"><![CDATA[Pehmoinen riikinkukko]]></item>
+      <item name="zoo.collectables.peacock.plush.text"><![CDATA[Riikinkukon pyrstöt ovat kauniita. Kreikkalaisessa mytologiassa riikinkukon silmät symboloivat suojelusmies Argosta, joka vartioi Zeuksen rakastajaa Ioa.]]></item>
+      <item name="zoo.collectables.peacock.paw.title"><![CDATA[Riikinkukon kynnet]]></item>
+      <item name="zoo.collectables.peacock.paw.text"><![CDATA[Urosriikinkukot ovat melko turhamaisia. Ne voivat viettää tuntikausia kampaamalla kauniita höyheniä kynsillään. Ja lopulta ne levittävät ne kaikkeen loistoonsa.]]></item>
+      <item name="zoo.collectables.peacock.mirror.title"><![CDATA[Peili]]></item>
+      <item name="zoo.collectables.peacock.mirror.text"><![CDATA[Riikinkukot osaavat tehdä melko siistejä temppuja herättääkseen naisten mielenkiinnon, ja naiset myös flirttailevat niiden kanssa.]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.title"><![CDATA[Intia]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.text"><![CDATA[Intiassa riikinkukko on ollut kansallislintu vuodesta 1963. Intialaiset arvostavat näitä lintuja, koska ne metsästävät myrkyllisiä kobraa.]]></item>
+      <item name="zoo.collectables.peacock.sign.title"><![CDATA[Viljan ystävä]]></item>
+      <item name="zoo.collectables.peacock.sign.text"><![CDATA[Riikinkukot syövät enimmäkseen viljaa ja jyviä, mutta aika ajoin ne syövät myös kukkia ja satunnaisia ​​kovakuoriaisia.]]></item>
+    </category>
+    <category name="zoo.collectables.panda">
+      <item name="zoo.collectables.panda.main.title"><![CDATA[Panda]]></item>
+      <item name="zoo.collectables.panda.main.text"><![CDATA[Jättiläispanda on mustavalkoinen karhu, joka on kotoisin Kiinasta.]]></item>
+      <item name="zoo.collectables.panda.plush.title"><![CDATA[Pehmopanda]]></item>
+      <item name="zoo.collectables.panda.plush.text"><![CDATA[Pandanpoikaset ovat todella pieniä. Ne painavat vain 100–200 grammaa ja ovat noin 15–17 cm pitkiä.]]></item>
+      <item name="zoo.collectables.panda.paw.title"><![CDATA[Pandan tassu]]></item>
+      <item name="zoo.collectables.panda.paw.text"><![CDATA[Jättiläispandoilla on vino peukalo. Ne käyttävät sitä ruoan pitämiseen.]]></item>
+      <item name="zoo.collectables.panda.bowl.title"><![CDATA[syömäpuikot]]></item>
+      <item name="zoo.collectables.panda.bowl.text"><![CDATA[Fiksut pandat käyttävät bambukeppejä ruokansa vartaisiin, aivan kuten ihmiset syövät syömäpuikoilla Aasiassa.]]></item>
+      <item name="zoo.collectables.panda.flagChina.title"><![CDATA[Kiina]]></item>
+      <item name="zoo.collectables.panda.flagChina.text"><![CDATA[Viimeiset villit pandat elävät Kiinassa, maailman suurimmassa maassa. Valitettavasti näitä jättiläispandoja on jäljellä enää muutama.]]></item>
+      <item name="zoo.collectables.panda.sign.title"><![CDATA[Bambuasiantuntija]]></item>
+      <item name="zoo.collectables.panda.sign.text"><![CDATA[Pandat pureskelevat mielellään bambua, erityisesti sen lehtiä ja nuoria oksia. Koska ne ovat suuria eläimiä, ne syövät sitä paljon.]]></item>
+    </category>
+    <category name="zoo.collectables.sonja">
+      <item name="zoo.collectables.sonja.main.title"><![CDATA[Kasvattaja Soňa]]></item>
+      <item name="zoo.collectables.sonja.main.text"><![CDATA[Kasvattaja Soňa osaa pitää täydellisesti huolta eläimistä. Vain hän pystyy halailemaan kaikkia eläimiä kerralla.]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.title"><![CDATA[Norsulelu]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.text"><![CDATA[Apinat ovat iloisia seuralaisia. Ne leikkivät mielellään esimerkiksi kirkkaanväristen puisten norsujen kanssa.]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.title"><![CDATA[Yläosa]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.text"><![CDATA[Iloisesti pyörivällä kärryllään Soňa voi piristää jopa ärtyisimmän sarvikuonon.]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.title"><![CDATA[Hiirilelu]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.text"><![CDATA[Söpöt kotikissat jahtaavat mielellään leluhiiriä, mutta leijonat pitävät suuremmasta saaliista.]]></item>
+      <item name="zoo.collectables.sonja.main.babyBear.title"><![CDATA[Karhunpentu]]></item>
+      <item name="zoo.collectables.sonja.babyBear.text"><![CDATA[Karhunpennut vain halaisivat koko ajan. Jotkut niistä eivät halua jättää hoitajaansa ollenkaan.]]></item>
+      <item name="zoo.collectables.sonja.sign.title"><![CDATA[Halaamisen mestari]]></item>
+      <item name="zoo.collectables.sonja.sign.text"><![CDATA[Sonia on halaamisen mestari. Palkkaa hänet ja saat 12 % enemmän vastinetta rahoillesi!]]></item>
+    </category>
+    <category name="zoo.collectables.book">
+      <item name="zoo.collectables.book.tab.animals"><![CDATA[Eläimet]]></item>
+      <item name="zoo.collectables.book.tab.cages"><![CDATA[Laidunta]]></item>
+      <item name="zoo.collectables.book.tab.assistants"><![CDATA[Avustajat]]></item>
+      <item name="zoo.collectables.book.more"><![CDATA[Lisää...]]></item>
+    </category>
+    <category name="zoo.collectables.rewards">
+      <item name="zoo.collectables.book.rewards.unlocked.title"><![CDATA[Voittaa!]]></item>
+      <item name="zoo.collectables.book.rewards.unlocked.text"><![CDATA[Valitse hintasi:]]></item>
+      <item name="zoo.collectables.book.rewards.locked.title"><![CDATA[Jatka keräämistä...]]></item>
+      <item name="zoo.collectables.book.rewards.locked.text"><![CDATA[... Nämä upeat palkinnot odottavat sinua:]]></item>
+      <item name="zoo.collectables.book.rewards.button"><![CDATA[Valita]]></item>
+    </category>
+  </category>
+</language>

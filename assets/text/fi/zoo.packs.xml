@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA["Hyvä alku" -superruokapaketti]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Tämä pakkaus sisältää 40 yksikköä Superfood-ruokaa ja 5 Paws-annostelijaa. Saat 40-kertaisen BZ-annoksen ruokinnassa ja näet edistystä aitauksiisi!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA["Master"-superruokapaketti]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Tämä pakkaus sisältää 125 yksikköä Superfood-ruokaa ja 20 Paws-ravunlihaa. Tämä antaa sinulle 125-kertaisen BZ:n ja auttaa sinua kaunistamaan aitauksiasi!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA["Asiantuntija"-superruokapaketti]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Tämä paketti sisältää 350 yksikköä superruokaa ja 30 tassua, mutta myös viisi lahjaa, joissa kussakin on viisi yksikköä superruokaa, viidelle ystävällesi. Joten hekin voivat hyötyä tästä paketista!]]></item>
+    </category>
+  </category>
+</language>

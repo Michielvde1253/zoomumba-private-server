@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.settings">
+    <item name="zoo.window.settings.info"><![CDATA[Hei, eläintarhan johtaja!<br>Täällä voit mukauttaa ZooMumbaa mieleiseksesi! Hanki peli, josta nautit eniten!]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[päällä]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[pois]]></item>
+    <item name="zoo.window.settings.quality.low"><![CDATA[matala]]></item>
+    <item name="zoo.window.settings.quality.middle"><![CDATA[keskikokoinen]]></item>
+    <item name="zoo.window.settings.quality.high"><![CDATA[korkea]]></item>
+    <item name="zoo.window.settings.quality.title"><![CDATA[Graafinen taide]]></item>
+    <item name="zoo.window.settings.quality.info"><![CDATA[Laatu]]></item>
+    <item name="zoo.window.settings.account.title"><![CDATA[Muokkaa tiliä]]></item>
+    <item name="zoo.window.settings.account.info"><![CDATA[Täällä voit muokata pelitilisi tietoja, kuten sähköpostiosoitettasi.]]></item>
+    <item name="zoo.window.settings.title.tooltipps"><![CDATA[Työkaluvihjeet]]></item>
+    <item name="zoo.window.settings.title.visitors"><![CDATA[Vierailijat]]></item>
+    <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Vierailijoiden toiveet]]></item>
+    <item name="zoo.window.settings.title.sound"><![CDATA[Ääni]]></item>
+    <item name="zoo.window.settings.title.sound.background"><![CDATA[Musiikki]]></item>
+    <item name="zoo.window.settings.title.sound.effects"><![CDATA[Äänitehosteet]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[säätää]]></item>
+    <item name="zoo.window.settings.tab.account"><![CDATA[tili]]></item>
+    <item name="zoo.window.settings.tab.config"><![CDATA[Kokoonpano]]></item>
+    <item name="zoo.window.settings.tab.buildings"><![CDATA[Päärakennus]]></item>
+    <item name="zoo.window.settings.buildings.info"><![CDATA[Valitse eläintarhan sisäänkäyntirakennus makusi mukaan. Päärakennukset ovat käytettävissäsi tasosi mukaan.<br>Tällä tavoin eläintarhasi räätälöidään entistä paremmin sinulle!]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Animaatio]]></item>
+    <item name="zoo.window.settings.anim.info"><![CDATA[Eläinanimaatioiden määrä]]></item>
+    <item name="zoo.window.settings.saveAssets"><![CDATA[Puskurimuisti]]></item>
+  </category>
+</language>

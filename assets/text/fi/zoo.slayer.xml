@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.slayer">
+    <category name="zoo.slayer.friends">
+      <item name="zoo.slayer.friends.title"><![CDATA[Ystävät]]></item>
+      <item name="zoo.slayer.friends.message"><![CDATA[Lähetä viesti tälle ystävälle]]></item>
+      <item name="zoo.slayer.friends.delete"><![CDATA[Oletko varma, että haluat poistaa tämän pelaajan ystävälistaltasi?]]></item>
+      <item name="zoo.slayer.friends.visit"><![CDATA[Käy ystäväsi eläintarhassa.]]></item>
+      <item name="zoo.slayer.friends.empty"><![CDATA[Yksin? Mikset kutsuisi nopeasti muutamaa ystävää leikkimään yhdessä? Enemmän ihmisiä tarkoittaa enemmän hauskuutta!]]></item>
+    </category>
+    <category name="zoo.slayer.receivedInvites">
+      <item name="zoo.slayer.receivedInvites.title"><![CDATA[Ystäväpyyntöjä vastaanotettu]]></item>
+      <item name="zoo.slayer.receivedInvites.accept"><![CDATA[Hyväksy ystäväpyyntö]]></item>
+      <item name="zoo.slayer.receivedInvites.deny"><![CDATA[Hylkää kaveripyyntö]]></item>
+      <item name="zoo.slayer.receivedInvites.empty"><![CDATA[Valitettavasti sinulla ei ole uusia kaveripyyntöjä.]]></item>
+    </category>
+    <category name="zoo.slayer.sentInvites">
+      <item name="zoo.slayer.sentInvites.title"><![CDATA[Lähetetyt ystäväpyynnöt]]></item>
+      <item name="zoo.slayer.sentInvites.empty"><![CDATA[Et ole lähettänyt yhtään kaveripyyntöä.]]></item>
+    </category>
+    <category name="zoo.slayer.add">
+      <item name="zoo.slayer.add.title"><![CDATA[Kutsu ystäviä]]></item>
+      <item name="zoo.slayer.add.requested"><![CDATA[Bravo! Olet lähettänyt ystäväpyyntösi käyttäjälle %useName%.]]></item>
+      <item name="zoo.slayer.add.text"><![CDATA[Etkö halua enää pelata ZooMumbaa yksin, vaan haluat mieluummin nauttia siitä muiden kanssa? Kutsu ystäväsi mukaan!]]></item>
+      <item name="zoo.slayer.add.byName"><![CDATA[Kutsu ystävät pelaamaan ZooMumbaa!]]></item>
+      <item name="zoo.slayer.add.byName.message"><![CDATA[Anna ystäviesi käyttäjätunnukset lähettääksesi ystävyyspyynnön.]]></item>
+      <item name="zoo.slayer.add.duplicated.message"><![CDATA[Löysimme useamman kuin yhden käyttäjätunnuksen haussa. Valitse ystäväsi listalta:]]></item>
+      <item name="zoo.slayer.add.self"><![CDATA[Et voi lisätä itseäsi omalle kaverilistallesi!]]></item>
+      <item name="zoo.slayer.add.byMail"><![CDATA[Kutsu ystäviä sähköpostitse.]]></item>
+      <item name="zoo.slayer.add.byFB"><![CDATA[Kutsu ystäviä Facebookin kautta.]]></item>
+      <item name="zoo.slayer.add.button"><![CDATA[Kutsu]]></item>
+    </category>
+  </category>
+</language>

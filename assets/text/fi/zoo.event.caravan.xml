@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Olen matkalla suojelualueelle, jossa halutaan lisätä - %species% -populaatiota. Voitko auttaa minua? Lainaan sinulle parin - %species% -lintuja 120 tunniksi. Saat yhden aikuisen ostamalla %amount% %species% -poikasista.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Lainaa pari]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Anakonda]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Hienoa! Sinulla on nyt ainakin viisi poikasta tavaraluettelossasi. Vaihda ne nopeasti kanssani yhteen aikuiseen orangutaniin!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Hienoa! Autoit minua todella paljon! Nyt vien pennut suojelualueelle ja päästän ne siellä luontoon. Kiitos paljon ja nähdään ensi kerralla!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[Eläinmobiili on palannut suojelualueelle tuoden mukanaan kaksi lainaamaasi eläintä. Löydät vastasyntyneet vauvasi tavaraluettelostasi.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Sinulla on %count% tuntia aikaa vaihtaa pentuja.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Vauvanorangutanit varastossasi]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Siirrä oranginpoikaset inventaarioon.]]></item>
+    </category>
+  </category>
+</language>

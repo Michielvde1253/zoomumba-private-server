@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.minitutorial">
+    <item name="zoo.window.minitutorial.title"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.minitutorial.infopage.1"><![CDATA[Tervetuloa ZooMumbaan, hulluun eläintarhaseikkailuusi! Nimeni on Sonja, ja opastan sinua askel askeleelta pelin toiminnassa.<br><br>Kaupasta voit ostaa erilaisia ​​eläinaitauksia ja sijoittaa niitä eläintarhasi alueelle.]]></item>
+    <item name="zoo.window.minitutorial.infopage.2"><![CDATA[Klikkaa aitausta ja osta eläin. Muista tarkistaa, ostatko uroksen vai naaraan.<br><br> Jos aitauksessa on molemmat, voit pian odottaa poikasia!]]></item>
+    <item name="zoo.window.minitutorial.infopage.3"><![CDATA[Pidä huolta eläimistäsi säännöllisesti, silitä niitä ja leiki niiden kanssa. Näin ne ovat onnellisia ja tyytyväisiä. Kokeile!]]></item>
+    <item name="zoo.window.minitutorial.infopage.4"><![CDATA[Sinun on yhdistettävä aitaukset, rakennukset ja nähtävyydet sisäänkäynnille johtaviin polkuihin, jotta vierailijat voivat ihailla kaikkea.]]></item>
+    <item name="zoo.window.minitutorial.infopage.5"><![CDATA[Hanki kaupasta rehua ja kaikkea, mitä eläimesi haluavat: lihaa, hedelmiä, ruohoa - katso vain ympärillesi!]]></item>
+    <item name="zoo.window.minitutorial.infopage.6"><![CDATA[Tasolta 2 alkaen voit hankkia kauppaan myös rakennuksia ja kojuja, mikä tekee eläintarhastasi entistä houkuttelevamman vierailijoille. <br><br>Voit kerätä säännöllisesti sisäänpääsymaksutuloja päärakennuksesta.]]></item>
+    <item name="zoo.window.minitutorial.infopage.6b"><![CDATA[Aloitat muutamalla ZooDollarilla. Käytä niitä upeiden eläinten ja erikoisnähtävyyksien hankkimiseen tai avustajien palkkaamiseen. He auttavat sinua eläintarhasi ylläpidossa ja hoidossa. <br><br>Ja jos ZooDollarisi loppuvat, älä huoli! Voit ladata niitä milloin tahansa ZooBankissa.]]></item>
+    <item name="zoo.window.minitutorial.infopage.7"><![CDATA[Mitä enemmän vierailijoita toivotat tervetulleeksi eläintarhaasi, sitä enemmän roskia sinun on siivottava. <br><br>Pidä eläintarhasi puhtaana ja kerää roskat. Vierailijasi arvostavat sitä!]]></item>
+    <item name="zoo.window.minitutorial.infopage.8"><![CDATA[Mitä tyytyväisempiä eläintarhassasi on kävijöitä, sitä korkeammalle zoomometrisi nousee. <br><br>Ryhdy töihin ja rakenna maailman paras eläintarha - ZooMumbassa! Pidä hauskaa!]]></item>
+  </category>
+</language>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Roskakori]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Ihmiset jättävät roskia jälkeensä! Mitä enemmän roskiksia eläintarhassasi on, sitä vähemmän sinun tarvitsee siivota vierailijoiden jälkiä.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Mummy Roskakori]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Yök... haluan roskia!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Roskakorin haamu]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuhhuuuuu... Roskaa]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Roskakorivampyyri]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Tarvitsen jotain purtavaa. Anna minulle roskasi!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Roskakorin hirviö]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmmm ... Roskaa hyvää!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Syntymäpäiväroskakori]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmm, käärepaperia!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Valaan roskakori]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA["Minä nielen kaikki roskasi!"]]></item>
+  </category>
+</language>

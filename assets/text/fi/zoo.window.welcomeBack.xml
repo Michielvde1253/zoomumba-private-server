@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.welcomeBack">
+    <item name="zoo.window.welcomeBack.title"><![CDATA[Tervetuloa takaisin, %username%!]]></item>
+    <item name="zoo.window.welcomeBack.info"><![CDATA[Hienoa, että olet palannut! Joten ryhdytään töihin! Eläimesi odottavat sinua innolla. Luvassa on taas villiä menoa! Lisää ihastuttavia lisäyksiä, lisää epätavallisia lintuja ja paljon innostuneita vierailijoita. <br><br>Ja nautit myös siitä, mitä eläintarhalla on sinulle varattuna:]]></item>
+    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Jee! Äkkiä, älä missaa hullua ryntäystä!]]></item>
+  </category>
+</language>

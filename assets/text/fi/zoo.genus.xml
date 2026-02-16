@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Arakankara-ara]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[Nämä iloiset papukaijat ovat erittäin puheliaita! Pidä niitä aina parina tai ryhmänä. Vierailijat rakastavat näitä älykkäitä kavereita kirkkaanvärisine höyhenineen!]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[Vaaleanpunainen flamingo]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[Nämä kauniit vaaleanpunaiset eläimet herättävät vierailijoiden huomion. Niiden pääravinto on planktonia, mutta ne syövät mielellään myös tuoretta kalaa. Herkkua makeannälkäisille linnuille!]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[Vuoriseepra]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[Raitoja, raitoja, raitoja kaikkialla! Se on ällistyttävää! Seepraraitojen täyttämässä maailmassa se on hyvä naamiointi, mutta meidän puolellamme seeprat näyttävät melko koomisilta. Seeprat kuuluvat ehdottomasti jokaiseen eläintarhaan, joten älä anna sen hämätä sinua!]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Sarvikuono]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[Nämä suuret pachydermit ovat yksinäisiä eläimiä. Ei ihme, että niillä on sellaiset sarvet! Voimakkaasta ulkonäöstään huolimatta ne harvoin osallistuvat tappeluihin. On kuitenkin parasta pitää yhdessä vain koiras ja naaras.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[Sammakkoeläinvirtahepo]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[Maalla ne näyttävät kömpelöiltä kolosseilta, mutta ulkonäkö pettää. Varo suututtamasta niitä, sillä kun ne lähtevät juoksemaan, ei ole suositeltavaa olla niiden tiellä. Onneksi ne ovat leppoisia eläimiä, jos niiden yksityisyyttä kunnioitetaan.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Marmoroitu kirahvi]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[Aina korkealla pilvissä! Kirahvit kurottavat makeimpiin hedelmiin aivan puiden latvoihin. Ei siis ihme, että puut ovat hyvin laidunmaisia. Pitkillä kaulillaan ne kurottavat erittäin korkealle ja syövät eniten nuoria vihreitä lehtiä!]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[Arktinen poro]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[Porot elävät laumoissa kaukana pohjoisessa. Jopa ankarissa arktisissa olosuhteissa pelottomat porot löytävät selviytymispaikan.]]></item>
+    </category>
+  </category>
+</language>

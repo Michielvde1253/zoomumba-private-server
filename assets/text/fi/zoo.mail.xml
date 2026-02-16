@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.mail">
+    <category name="zoo.mail.tabs">
+      <item name="zoo.mail.tabs.inbox"><![CDATA[Saapuneet]]></item>
+      <item name="zoo.mail.tabs.outbox"><![CDATA[Lähtevät]]></item>
+      <item name="zoo.mail.tabs.newMail"><![CDATA[Uusi viesti]]></item>
+      <item name="zoo.mail.tabs.contactList"><![CDATA[Osoitekirja]]></item>
+    </category>
+    <category name="zoo.mail.general">
+      <item name="zoo.mail.general.pagination"><![CDATA[Sivu %x% / %y%]]></item>
+      <item name="zoo.mail.general.message"><![CDATA[Viesti]]></item>
+      <item name="zoo.mail.general.send"><![CDATA[Lähetä]]></item>
+      <item name="zoo.mail.general.close"><![CDATA[Lähellä]]></item>
+      <item name="zoo.mail.general.userWrote"><![CDATA[%käyttäjä% kirjoitti:]]></item>
+      <item name="zoo.mail.general.userSent"><![CDATA[Kirjoitit pelaajalle %user%:]]></item>
+    </category>
+    <category name="zoo.mail.column">
+      <item name="zoo.mail.column.action"><![CDATA[Toiminta]]></item>
+      <item name="zoo.mail.column.messageSender"><![CDATA[Lähettäjä]]></item>
+      <item name="zoo.mail.column.messageReceiver"><![CDATA[Vastaanottaja]]></item>
+      <item name="zoo.mail.column.messageTitle"><![CDATA[Aihe]]></item>
+      <item name="zoo.mail.column.messageDate"><![CDATA[Päivämäärä]]></item>
+      <item name="zoo.mail.column.playerName"><![CDATA[Pelaajan nimi]]></item>
+      <item name="zoo.mail.column.level"><![CDATA[Taso]]></item>
+    </category>
+    <category name="zoo.mail.info">
+      <item name="zoo.mail.info.addUserTitle"><![CDATA[Lisätä]]></item>
+      <item name="zoo.mail.info.addUserQuestion"><![CDATA[Haluatko varmasti lisätä pelaajan %user% osoitekirjaasi?]]></item>
+      <item name="zoo.mail.info.deleteMessageTitle"><![CDATA[Poistaa]]></item>
+      <item name="zoo.mail.info.deleteMessageQuestion"><![CDATA[Haluatko todella poistaa tämän viestin?]]></item>
+      <item name="zoo.mail.info.deleteContactTitle"><![CDATA[Poistaa]]></item>
+      <item name="zoo.mail.info.deleteContactQuestion"><![CDATA[Haluatko todella poistaa pelaajan %user% osoitekirjastasi?]]></item>
+      <item name="zoo.mail.info.noRecipientTitle"><![CDATA[Virhe]]></item>
+      <item name="zoo.mail.info.noRecipientMessage"><![CDATA[Tätä pelaajaa ei ole olemassa.]]></item>
+      <item name="zoo.mail.info.sentOkTitle"><![CDATA[Lähetetty]]></item>
+      <item name="zoo.mail.info.noAddSelf"><![CDATA[Et voi lisätä itseäsi osoitekirjaasi.]]></item>
+      <item name="zoo.mail.info.sentOkMessage"><![CDATA[Viestisi on lähetetty onnistuneesti.]]></item>
+      <item name="zoo.mail.info.addUserMessage"><![CDATA[Anna pelaajan nimi tai tunnus, jos haluat lisätä hänet osoitekirjaasi.]]></item>
+      <item name="zoo.mail.info.multipleUserFound"><![CDATA[Tämä nimi esiintyy usein. Anna pelaajan tunnus, joka on yksilöllinen ja tunnistettava.]]></item>
+      <item name="zoo.mail.info.writeMailError.noUserName"><![CDATA[Anna vastaanottaja, jotta viestisi voidaan lähettää.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSubject"><![CDATA[Kirjoita aihe, jotta viestisi voidaan lähettää.]]></item>
+      <item name="zoo.mail.info.writeMailError.noMessage"><![CDATA[Kirjoita viestin teksti, jotta viestisi voidaan lähettää.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSelfSend"><![CDATA[Et voi lähettää viestiä itsellesi.]]></item>
+      <item name="zoo.mail.info.writeMailError.notFriend"><![CDATA[Valitettavasti voit lähettää viestejä vain pelaajille, jotka ovat kaverilistallasi.]]></item>
+      <item name="zoo.mail.info.writeMailError.userAlreadyExists"><![CDATA[Tämä pelaaja on jo lisätty osoitekirjaasi.]]></item>
+    </category>
+  </category>
+</language>

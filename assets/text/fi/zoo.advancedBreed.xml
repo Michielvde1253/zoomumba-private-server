@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Hei! Olen Soňa Starostlivá, eläintarhan sairaanhoitaja. Odotatko innolla uusien suloisten pentujen jalostusta? Selitän, miten se toimii! Ensin sinun on päätettävä, mitä eläinlajia haluat jalostaa.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Valitse varastostasi kaksi aikuista eläintä vanhemmiksi. Mitä harvinaisempia ne ovat, sitä todennäköisemmin niillä on vielä harvinaisempi poikanen. Vanhempien on kuitenkin pysyttävä luonani tätä lisääntymistä varten.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Käyttämällä ylimääräisiä kerättyjä esineitä, vahvaa rehua, superrehua tai superlääkkeitä lisäät mahdollisuuksiasi kasvattaa erityisen harvinainen vauva. Mitä enemmän sydämiä esineessä on, sitä paremmat mahdollisuudet!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Valmistelut ovat melkein valmiit! Tarkista valintasi vielä kerran ennen kuin kaikki alkaa. Haluatko muuttaa jotain? Ei hätää, käytä vain "Takaisin"-painiketta!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[Jalostuskokeessa käytettiin seuraavia eläimiä ja esineitä:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Kasvatusasema valmis]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Tässä sitä kasvatetaan]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Vauva on syntynyt!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Vauvat ovat täällä!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Aloita jalostus]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Käytä essenssiä]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Haluatko todella aloittaa jalostuksen ilman lisäravinteita? Mieti tarkkaan – lisäravinteiden avulla sinulla on paremmat mahdollisuudet saada harvinainen jälkeläinen.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Olet keskellä valmisteluja. Haluatko todella lähteä jalostusasemalta?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Kasvatusasema]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Nämä eläimet synnyttävät parhaillaan poikasia:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Jäljellä oleva aika:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Tolijan olemus]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Tolija-uute lyhentää lisääntymisaikaa 50 %.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hurraa – sinulla on vauva! Löydät tämän suloisen pikkuisen tavaraluettelostasi:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hurraa - sinulla on lapsi! Löydät tämän suloisen pikkupaholaisen tavaraluettelostasi:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Siirrä pienokainen eläinten päiväkotiin kasvamaan.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Vie pienokaiset eläinten päiväkotiin, jotta ne voivat kasvaa.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Varoitus: Kasvatus on parhaillaan käynnissä! Jos siirrät aseman nyt inventaarioosi, prosessi keskeytyy ja menetät kaikki eläimet ja lisäravinteet. Haluatko varmasti siirtää sen nyt?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Varoitus: Kasvatus on parhaillaan käynnissä! Jos myyt aseman nyt, prosessi keskeytyy ja kaikki eläimet ja lisäravinteet menetetään. Oletko varma, että haluat myydä aseman nyt?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Jos jalostusprosessi saadaan päätökseen tapahtuman päättymisen jälkeen, saat vain yhden poikasen.]]></item>
+    </category>
+  </category>
+</language>

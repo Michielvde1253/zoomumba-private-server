@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.quests">
+    <category name="zoo.quests.tabs">
+      <item name="zoo.quests.tabs.daily"><![CDATA[Päivittäiset tehtävät]]></item>
+      <item name="zoo.quests.tabs.achievements"><![CDATA[Kunniamaininnat]]></item>
+      <item name="zoo.quests.tabs.collectables"><![CDATA[Kokoelmat]]></item>
+    </category>
+    <category name="zoo.quests.daily">
+      <item name="zoo.quests.daily.info"><![CDATA[Jokaisessa eläintarhassa on paljon työtä joka päivä: kaikki auttavat kädet ovat tervetulleita! Ota nämä päivittäiset tehtävät hoitaaksesi ne.]]></item>
+      <item name="zoo.quests.daily.nextquest.timestamp"><![CDATA[Uusia tehtäviä kohteessa:]]></item>
+      <item name="zoo.quests.daily.refreshTitle"><![CDATA[Päivittäiset tehtävät]]></item>
+      <item name="zoo.quests.daily.refreshQuestion"><![CDATA[Pienellä maksulla voit saada uusia päivittäisiä tehtäviä. Haluatko?]]></item>
+      <item name="zoo.quests.daily.taskTitle"><![CDATA[Tehtävä]]></item>
+      <item name="zoo.quests.daily.rewardTitle"><![CDATA[Palkitseminen]]></item>
+      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Käynnistä\tehtävä]]></item>
+      <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Hanki palkinto]]></item>
+      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Keskeytä tehtävä]]></item>
+      <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Tehtävä]]></item>
+      <item name="zoo.quests.daily.window.activequest.info"><![CDATA[Olet jo tekemässä toista tehtävää. Suorita aktiivinen tehtävä loppuun ennen seuraavan aloittamista.]]></item>
+      <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Peruuttaa]]></item>
+      <item name="zoo.quests.daily.window.abortquest.info"><![CDATA[Jos peruutat tämän tehtävän, se poistetaan tehtäväluettelostasi. Haluatko varmasti peruuttaa sen?]]></item>
+      <item name="zoo.quests.daily.window.achievereward.title"><![CDATA[Onnittelut!]]></item>
+      <item name="zoo.quests.daily.window.achievereward.info"><![CDATA[Olet suorittanut tehtäväsi onnistuneesti ja saat seuraavan palkinnon:]]></item>
+    </category>
+    <category name="zoo.quests.help">
+      <item name="zoo.quests.help.daily.title"><![CDATA[Lukuesimerkkejä]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Esimerkki 1: Anna 50 paalia ruokaa mille tahansa eläimille.<br>Esimerkki 2: Kasvata 2 leijonanpentua.]]></item>
+    </category>
+    <category name="zoo.quests.achievements.individual">
+      <item name="zoo.quests.achievements.individual.info.congrats"><![CDATA[Hienoa! Olet suorittanut seuraavan tehtävän onnistuneesti:]]></item>
+      <item name="zoo.quests.achievements.individual.1.title"><![CDATA[Halaamisen mestari]]></item>
+      <item name="zoo.quests.achievements.individual.2.title"><![CDATA[Eläinystävä]]></item>
+      <item name="zoo.quests.achievements.individual.3.title"><![CDATA[Jalostusasiantuntija]]></item>
+      <item name="zoo.quests.achievements.individual.4.title"><![CDATA[Kauppias/kauppiasnainen]]></item>
+      <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Pihvimestari]]></item>
+      <item name="zoo.quests.achievements.individual.6.title"><![CDATA[Järjestyksen täytyy olla.]]></item>
+      <item name="zoo.quests.achievements.individual.7.title"><![CDATA[Täysjyväviljafani]]></item>
+      <item name="zoo.quests.achievements.individual.8.title"><![CDATA[Hyvin tehty]]></item>
+      <item name="zoo.quests.achievements.individual.9.title"><![CDATA[Ruoho on hauskaa]]></item>
+      <item name="zoo.quests.achievements.individual.10.title"><![CDATA[Vitamiiniriippuvainen]]></item>
+      <item name="zoo.quests.achievements.individual.11.title"><![CDATA[Tuore kala]]></item>
+      <item name="zoo.quests.achievements.individual.12.title"><![CDATA[Janon sammuttaja]]></item>
+      <item name="zoo.quests.achievements.individual.1.requirement"><![CDATA[He halailivat %val%-mal-eläimiään.]]></item>
+      <item name="zoo.quests.achievements.individual.2.requirement"><![CDATA[Omista %val% eläimistä.]]></item>
+      <item name="zoo.quests.achievements.individual.3.requirement"><![CDATA[Kasvata %val% vauvoista.]]></item>
+      <item name="zoo.quests.achievements.individual.4.requirement"><![CDATA[Kerää %val% kertaa rakennustesi zoogrossin tulot.]]></item>
+      <item name="zoo.quests.achievements.individual.5.requirement"><![CDATA[Syötä %val%-kertaisesti lihapaloja.]]></item>
+      <item name="zoo.quests.achievements.individual.6.requirement"><![CDATA[Näytä roskakori %val%.]]></item>
+      <item name="zoo.quests.achievements.individual.7.requirement"><![CDATA[Syötä %val% viljaa.]]></item>
+      <item name="zoo.quests.achievements.individual.8.requirement"><![CDATA[Ansaitse %val% XP:tä tyhjentämällä roskakori.]]></item>
+      <item name="zoo.quests.achievements.individual.9.requirement"><![CDATA[Syötä %val% ruohoa.]]></item>
+      <item name="zoo.quests.achievements.individual.10.requirement"><![CDATA[Syötä %val% hedelmää.]]></item>
+      <item name="zoo.quests.achievements.individual.11.requirement"><![CDATA[Ruoki %val% kaloja.]]></item>
+      <item name="zoo.quests.achievements.individual.12.requirement"><![CDATA[Anna eläimillesi %val% vettä.]]></item>
+      <item name="zoo.quests.achievements.individual.bronze.congrats"><![CDATA[Eläimesi riemuitsevat, koska olet avannut uuden palapelin palasen pronssisarjassa.]]></item>
+      <item name="zoo.quests.achievements.individual.silver.congrats"><![CDATA[Eläimesi iloitsevat, koska olet julkaissut uuden palapelin palan hopeisessa setissä.]]></item>
+      <item name="zoo.quests.achievements.individual.gold.congrats"><![CDATA[Eläimesi iloitsevat, koska olet avannut uuden palapelin palan kultaisessa setissä.]]></item>
+      <item name="zoo.quests.achievements.individual.platinum.congrats"><![CDATA[Eläimesi iloitsevat, koska olet avannut uuden palapelin palasen platinasetissä.]]></item>
+      <item name="zoo.quests.achievements.individual.open.achievements.info"><![CDATA[Siirry nyt tehtäväikkunaasi nähdäksesi kuvan!]]></item>
+    </category>
+    <category name="zoo.quests.achievements.unlocked">
+      <item name="zoo.quests.achievements.unlocked.bronze.title"><![CDATA[Pronssisetti]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.title"><![CDATA[Hopeasetti]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.title"><![CDATA[Kultainen setti]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.title"><![CDATA[Platinasarja]]></item>
+      <item name="zoo.quests.achievements.unlocked.bronze.description"><![CDATA[Onnittelut! Olet suorittanut kaikki pronssisetin tehtävät ja saat seuraavat palkinnot:]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.description"><![CDATA[Onnittelut! Olet suorittanut kaikki Hopeasetin tehtävät ja saat seuraavat palkinnot:]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.description"><![CDATA[Onnittelut! Olet suorittanut kaikki kultasetin tehtävät ja saat seuraavat palkinnot:]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.description"><![CDATA[Onnittelut! Olet suorittanut kaikki platinasetin tehtävät ja saat seuraavat palkinnot:]]></item>
+      <item name="zoo.quests.achievements.unlocked.open.achievements.info"><![CDATA[Siirry nyt tehtäväikkunaasi nähdäksesi täysin lukitsemattoman kuvan!]]></item>
+      <item name="zoo.quests.help.daily.title"><![CDATA[Lukuesimerkkejä]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Esimerkki 1: Anna mille tahansa eläimelle 50 kertaa enemmän ruokaa.<br>Esimerkki 2: Kasvata 2 leijonanpentua.]]></item>
+    </category>
+  </category>
+</language>
