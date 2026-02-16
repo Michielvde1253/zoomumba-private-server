@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Jack-o'-lanterna]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Strašidelné vyrezávané tekvice, nazývané Jack-o-lanterns, žiaria v tme halloweenskej noci. Jeho ohavnú grimasu robí ešte desivejšou blikajúce svetlo sviečok. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[Vianočný stromček]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[Vyrástla štíhla jedľa...! Slávnostne ozdobený stromček, doplnený vianočnými darčekmi.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Srdce]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Prineste si šťastie! Ľudia v mnohých krajinách veria, že pobozkanie kominára na Valentína im prinesie veľké šťastie!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Narodeninová torta]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Mňam! Čo by to boli za narodeniny bez kalorickej maškrty?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Narodeninová torta]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Mňam! Aké by to boli narodeniny bez tejto kalorickej maškrty?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Hromada veľkonočných vajíčok]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[Pekná zbierka veľkonočných vajíčok. V minulosti sa používali maľované slepačie vajíčka. V súčasnosti sú bežnejšie čokoládové vajíčka.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Dúhové vajíčko]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Veľkonočné vajíčka špeciálne upravené pre zrakovo postihnuté deti, aby sa mohli zapojiť do veľkonočného lovu. Vajíčka pípajú alebo hrajú melódiu.]]></item>
+  </category>
+</language>

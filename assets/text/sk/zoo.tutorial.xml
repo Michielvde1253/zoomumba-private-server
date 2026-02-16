@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.tutorial">
+    <category name="zoo.tutorial.tour">
+      <item name="zoo.tutorial.tour.1"><![CDATA[Vitajte v ZooMumba, vašej bláznivej zoo! Volám sa Sonja a krok za krokom vám ukážem, ako hra funguje.<br><br>V obchode si môžete kúpiť rôzne ohrady pre zvieratá, ktoré potom môžete umiestniť na hraciu plochu.]]></item>
+      <item name="zoo.tutorial.tour.2"><![CDATA[Kliknite na výbeh a kúpte si zviera. Venujte pozornosť tomu, či kupujete samca alebo samicu.<br><br>Ak máte v výbehu oboch, môžete čoskoro očakávať potomstvo!]]></item>
+      <item name="zoo.tutorial.tour.3"><![CDATA[Pravidelne sa starajte o svoje zvieratá, túľte ich a hrajte sa s nimi. Takto budú šťastné a spokojné. Vyskúšajte to!]]></item>
+      <item name="zoo.tutorial.tour.4"><![CDATA[Svoje ohrady, budovy a atrakcie musíte prepojiť s chodníkmi vedúcimi k vchodu, aby si návštevníci mohli všetko vychutnať.]]></item>
+      <item name="zoo.tutorial.tour.5"><![CDATA[V obchode si zaobstarajte krmivo a všetko, čo si vaše zvieratá želajú: mäso, ovocie, trávu – stačí sa len poobzerať!]]></item>
+      <item name="zoo.tutorial.tour.6"><![CDATA[Od 2. úrovne môžete v obchode získať aj budovy a stánky, aby bola vaša zoo ešte atraktívnejšia pre návštevníkov. <br><br>Získané vstupné si môžete pravidelne vyberať z hlavnej budovy.]]></item>
+      <item name="zoo.tutorial.tour.7"><![CDATA[Čím viac návštevníkov privítate vo svojej zoo, tým viac odpadu budete musieť upratať. <br><br>Udržujte svoju zoo čistú a zbierajte odpadky, aby boli vaši návštevníci spokojní!]]></item>
+      <item name="zoo.tutorial.tour.8"><![CDATA[Čím viac spokojných návštevníkov má vaša zoo, tým vyššie sa vám bude zobrazovať Zoometer.<br><br>Smelo do toho a postavte najúžasnejšiu zoo na svete – v ZooMumba! Zabavte sa!]]></item>
+    </category>
+    <category name="zoo.tutorial.general">
+      <item name="zoo.tutorial.general.forgive.title"><![CDATA[Preskočiť]]></item>
+      <item name="zoo.tutorial.general.forgive.text"><![CDATA[Naozaj chcete tento krok preskočiť?]]></item>
+      <item name="zoo.tutorial.general.award"><![CDATA[Úloha %currentTask% úspešne dokončená. Celkový počet úloh: %totalTasks%]]></item>
+    </category>
+    <category name="zoo.tutorial.title">
+      <item name="zoo.tutorial.title.0"><![CDATA[Vitajte v hre ZooMumba!]]></item>
+      <item name="zoo.tutorial.title.1"><![CDATA[Chyťte tučniaky!]]></item>
+      <item name="zoo.tutorial.title.2"><![CDATA[Nakŕmte tučniaky!]]></item>
+      <item name="zoo.tutorial.title.3"><![CDATA[Starostlivosť a maznanie]]></item>
+      <item name="zoo.tutorial.title.4"><![CDATA[Stavba krytov]]></item>
+      <item name="zoo.tutorial.title.5"><![CDATA[Hurá, poďme dostať zvieratá do ich výbehov!]]></item>
+      <item name="zoo.tutorial.title.6"><![CDATA[Vytvoriť novú cestu]]></item>
+      <item name="zoo.tutorial.title.7"><![CDATA[Zbavte sa odpadkov!]]></item>
+      <item name="zoo.tutorial.title.8"><![CDATA[Extra kŕmenie]]></item>
+      <item name="zoo.tutorial.title.9"><![CDATA[Rozmnožujte potomstvo]]></item>
+      <item name="zoo.tutorial.title.10"><![CDATA[Príležitosť zárobku]]></item>
+      <item name="zoo.tutorial.title.11"><![CDATA[Skoro si to pochopil/a!]]></item>
+      <item name="zoo.tutorial.title.12"><![CDATA[Paráda, dokázali ste to!]]></item>
+      <item name="zoo.tutorial.title.13"><![CDATA[Paráda! Teraz pozvite svojich priateľov!]]></item>
+      <item name="zoo.tutorial.title.14"><![CDATA[Safari sa začína!]]></item>
+    </category>
+    <category name="zoo.tutorial.main">
+      <item name="zoo.tutorial.main.0"><![CDATA[Môžem sa predstaviť? Volám sa Sonja a vysvetlím vám, ako funguje táto bláznivá zoo hra. Ste pripravení? Poďme na to, riaditeľ zoo!]]></item>
+      <item name="zoo.tutorial.main.1"><![CDATA[Stala sa malá nehoda! Tučniaky utiekli zo svojho výbehu! Pomôžte mi ich rýchlo chytiť a vrátiť späť do výbehu.]]></item>
+      <item name="zoo.tutorial.main.2"><![CDATA[Skvelé! Po tom všetkom behani sú hladní a smädní. Dajte im veľa vody a rýb. Kliknite na výbeh, potom na ryby a vedro.]]></item>
+      <item name="zoo.tutorial.main.3"><![CDATA[Kliknite na kefu a vyčistite terárium. Vidíte? Teraz je to žiarivo čisté! A ešte trochu maznania pre tieto bláznivé plutvonožce - kliknite na plyšového medvedíka.]]></item>
+      <item name="zoo.tutorial.main.4"><![CDATA[To je úžasné! Naozaj vieš, ako sa starať o zvieratá! Teraz môžeš stavať výbehy. Choď do obchodu, klikni na výbeh a umiestni ho do svojej zoo.]]></item>
+      <item name="zoo.tutorial.main.5"><![CDATA[Dajte do voliéry pár ukecaných papagájov. Kliknite na voliéru, vyberte si z obchodu samicu a samca a umiestnite ich dovnútra.]]></item>
+      <item name="zoo.tutorial.main.6"><![CDATA[Spojte výbehy chodníkmi. Čím lepšie sú prepojenia, tým atraktívnejšia bude vaša zoo. Vytvorte chodník k voliére pre papagáje.]]></item>
+      <item name="zoo.tutorial.main.7"><![CDATA[S prílevom turistov budeš mať aj veľa odpadkov. Zbav sa ich kliknutím na lopatu.]]></item>
+      <item name="zoo.tutorial.main.8"><![CDATA[V obchode kúp krmivo pre všetky svoje zvieratá. Dnes budeš potrebovať ovocie na kŕmenie papagájov.]]></item>
+      <item name="zoo.tutorial.main.9"><![CDATA[Ak máte spolu samca a samicu, kliknite na tlačidlo „Chov“ a potom na „Kúpiť teraz“.]]></item>
+      <item name="zoo.tutorial.main.10"><![CDATA[Budovy vo vašej zoo generujú zoogry, takže si ich pravidelne vyberajte. Stačí kliknúť na zoogry nad budovou.]]></item>
+      <item name="zoo.tutorial.main.11"><![CDATA[Hotovo. Máte nejaké otázky? Nájdite si čas na prečítanie tipov. Jednoducho posúvajte myš: stanete sa ešte múdrejšími!]]></item>
+      <item name="zoo.tutorial.main.12"><![CDATA[Môžeme si podať ruky, kolega. Stal si sa osvedčeným riaditeľom zoo. Tvoje nazbierané vedomosti skutočne preslávili tvoju zoo. A to je dôvod na oslavu!]]></item>
+      <item name="zoo.tutorial.main.13"><![CDATA[Pst... Vedel si? Teraz môžeš do hry pozvať svojich priateľov. Stačí poslať e-mail a môžete začať hrať spolu!]]></item>
+      <item name="zoo.tutorial.main.14"><![CDATA[Hurá! Dosiahli ste 7. úroveň: Svet safari je teraz pri vašich nohách. Dupnite na plyn a kliknite na džíp v ovládacom centre alebo si pozrite menu v hlavnej budove. Smelo do toho!]]></item>
+    </category>
+    <category name="zoo.tutorial.hint">
+      <item name="zoo.tutorial.hint.0"><![CDATA[ŽIADNE]]></item>
+      <item name="zoo.tutorial.hint.1"><![CDATA[ŽIADNE]]></item>
+      <item name="zoo.tutorial.hint.2"><![CDATA[Kŕmte svoje zvieratá superkrmivom a získajte extra skúsenostné body!]]></item>
+      <item name="zoo.tutorial.hint.3"><![CDATA[Šťastné zvieratá spoznáte podľa náladovej mačky. Čím viac sa o ne staráte, tým šťastnejšie budú.]]></item>
+      <item name="zoo.tutorial.hint.4"><![CDATA[Kliknite na budovu pre skrátenie času výstavby.]]></item>
+      <item name="zoo.tutorial.hint.5"><![CDATA[Ak chcete rozmnožovať mláďatá, uistite sa, že do terária umiestnite samca a samicu.]]></item>
+      <item name="zoo.tutorial.hint.6"><![CDATA[Uistite sa, že vaše výbehy sú prepojené chodníkmi. V opačnom prípade vaša zoo stratí svoju atraktivitu.]]></item>
+      <item name="zoo.tutorial.hint.7"><![CDATA[Starajte sa o odpadkové koše, aby vaša zoo zostala čistá.]]></item>
+      <item name="zoo.tutorial.hint.8"><![CDATA[Kŕmte svoje zvieratá tým najlepším krmivom častejšie. Získate za to veľa skúsenostných bodov!]]></item>
+      <item name="zoo.tutorial.hint.9"><![CDATA[Cumlík vám ukáže, kedy je párenie ukončené.]]></item>
+      <item name="zoo.tutorial.hint.10"><![CDATA[Dochádza vám herná mena? Získajte viac! Kliknite na zlatý vak.]]></item>
+      <item name="zoo.tutorial.hint.13"><![CDATA[Zadajte e-mailovú adresu priateľa, ktorého chcete pozvať do hry.]]></item>
+      <item name="zoo.tutorial.hint.14"><![CDATA[Na vstup do rôznych safari oblastí potrebujete rôzne množstvo paliva. Do uzavretých oblastí však vstúpiť nemôžete.]]></item>
+    </category>
+    <category name="zoo.tutorial.success">
+      <item name="zoo.tutorial.success.title"><![CDATA[Dobre!]]></item>
+      <item name="zoo.tutorial.success.step.1"><![CDATA[Skvelé! Tučniaky sú späť vo svojom výbehu. Kliknite na šípku a pokračujte na ďalší krok.]]></item>
+      <item name="zoo.tutorial.success.step.2"><![CDATA[Mňam! Vaše tučniaky sú teraz plné. Kliknite na šípku a pokračujte!]]></item>
+      <item name="zoo.tutorial.success.step.3"><![CDATA[Skvelá práca! Veselé plutvonožce sú teraz čisté a šťastné. Kliknite na šípku a pokračujte!]]></item>
+      <item name="zoo.tutorial.success.step.4"><![CDATA[Špičková práca! Váš kryt je pripravený. Kliknite na šípku a prejdite na ďalší krok.]]></item>
+      <item name="zoo.tutorial.success.step.5"><![CDATA[Paráda! Teraz máte vo svojej zoo papagáje! Kliknite na šípku a pokračujte!]]></item>
+      <item name="zoo.tutorial.success.step.6"><![CDATA[Len tak ďalej! Návštevníci obdivujú nové výbehy. Kliknite na šípku pre pokračovanie!]]></item>
+      <item name="zoo.tutorial.success.step.7"><![CDATA[Perfektné! Odteraz sú chodníky žiarivo čisté. Kliknite na šípku a pokračujte!]]></item>
+      <item name="zoo.tutorial.success.step.8"><![CDATA[To je úžasné! Papagáje sú už plné. Kliknite na šípku a pokračujte!]]></item>
+      <item name="zoo.tutorial.success.step.9"><![CDATA[Aké rozkošné! Úspešne ste si adoptovali potomstvo papagája. Kliknite na šípku a pokračujte!]]></item>
+      <item name="zoo.tutorial.success.step.10"><![CDATA[Skvelé! Peniaze sa hrnú! Už ste takmer hotoví! Rýchlo, kliknite ešte raz na šípku.]]></item>
+      <item name="zoo.tutorial.success.step.11"><![CDATA[Také jednoduché! V zbieraní bodov v menu ste takmer profesionál. Ešte jedno kliknutie a budete na konci našej krátkej cesty.]]></item>
+    </category>
+  </category>
+</language>

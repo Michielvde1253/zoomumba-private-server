@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopResourceInfo">
+    <item name="zoo.window.shopResourceInfo.titel_1"><![CDATA[Voda]]></item>
+    <item name="zoo.window.shopResourceInfo.text_1"><![CDATA[Vaše zvieratá potrebujú osvieženie! Potešte ich chladnou vodou!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_2"><![CDATA[Tráva]]></item>
+    <item name="zoo.window.shopResourceInfo.text_2"><![CDATA[Neexistuje lepší spôsob, ako uspokojiť hladný žalúdok, ako sa nakŕmiť lahodnou zelenou trávou. A s trochou šťastia sa v tráve objaví aj nejaký hmyz :-) Mňam!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_3"><![CDATA[Mäso]]></item>
+    <item name="zoo.window.shopResourceInfo.text_3"><![CDATA[Kto by si nepochutnal na dobrom kuse mäsa? Takýto šťavnatý steak je skutočná lahôdka!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_4"><![CDATA[Ryby]]></item>
+    <item name="zoo.window.shopResourceInfo.text_4"><![CDATA[Ryby sú zdravé! A obľúbené jedlo mnohých zvierat. Nemusíte sa starať o vypitvanie alebo krájanie, vaše zvieratá si pochutnajú na všetkom!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_5"><![CDATA[Ovocie]]></item>
+    <item name="zoo.window.shopResourceInfo.text_5"><![CDATA[Sladké šťavnaté ovocie - kto by odolal. Tu nájdete ovocie pre všetky zvieratká!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_6"><![CDATA[Obilie]]></item>
+    <item name="zoo.window.shopResourceInfo.text_6"><![CDATA[Obilie je dôležitým zdrojom potravy pre vaše zvieratá, ktorý im pomáha zostať aktívnymi a zdravými!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_7"><![CDATA[Liek]]></item>
+    <item name="zoo.window.shopResourceInfo.text_7"><![CDATA[Necíti sa niektoré z vašich zvierat dobre? Tento liek ho určite postaví na nohy.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_8"><![CDATA[Superpotravina]]></item>
+    <item name="zoo.window.shopResourceInfo.text_8"><![CDATA[So superpotravinou získate dvojnásobok BZ.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_9"><![CDATA[Supermedicína]]></item>
+    <item name="zoo.window.shopResourceInfo.text_9"><![CDATA[V prípade závažnej infekcie potrebujete použiť naozaj účinný liek. Rýchlo som tu so super liekom. Navyše, so super liekmi zvyšujete svoju šancu na získanie cenných odmien, ktoré „vyskočia“ z ohrady.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_10"><![CDATA[Najlepšie jedlo]]></item>
+    <item name="zoo.window.shopResourceInfo.text_10"><![CDATA[Najlepšie krmivo vám poskytne štyrikrát viac labiek na skrášlenie vašich výbehov.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_11"><![CDATA[Esencia Tolije]]></item>
+    <item name="zoo.window.shopResourceInfo.text_11"><![CDATA[Tolijina esencia skracuje čas rozmnožovania o 50%.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_12"><![CDATA[Rastový elixír]]></item>
+    <item name="zoo.window.shopResourceInfo.text_12"><![CDATA[S rastovým elixírom budú vaše ratolesti rásť dvakrát rýchlejšie!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_13"><![CDATA[Odpadky]]></item>
+    <item name="zoo.window.shopResourceInfo.text_13"><![CDATA[Je úžasné, čo všetko ľudia vyhadzujú! Recyklujte odpad a použite materiály na výrobu nových predmetov pre vašu zoo.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_14"><![CDATA[Super filter]]></item>
+    <item name="zoo.window.shopResourceInfo.text_14"><![CDATA[Ak recyklujete odpad pomocou superfiltra, zvýšite si šancu získať vzácne materiály.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_15"><![CDATA[Podpora pre remeselníkov]]></item>
+    <item name="zoo.window.shopResourceInfo.text_15"><![CDATA[Táto zmes chmeľu a energetického nápoja je presne to, čo vaši remeselníci potrebujú na nabitie energie a rýchlejšie zvládnutie práce.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_16"><![CDATA[Riasy]]></item>
+    <item name="zoo.window.shopResourceInfo.text_16"><![CDATA[Zelené vodné rastliny plné cenných živín! Mňam!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_17"><![CDATA[Planktón]]></item>
+    <item name="zoo.window.shopResourceInfo.text_17"><![CDATA[Planktón sú mikroorganizmy, ktoré slúžia ako potrava pre mnohé morské živočíchy.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_18"><![CDATA[Krevety]]></item>
+    <item name="zoo.window.shopResourceInfo.text_18"><![CDATA[Nielen ľudia, ale aj zvieratá milujú krevety!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_19"><![CDATA[Mušle]]></item>
+    <item name="zoo.window.shopResourceInfo.text_19"><![CDATA[Vychutnajte si mäkké mäso ukryté vo vnútri. Kto by odolal takejto lahôdke?]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_20"><![CDATA[Vodný filter]]></item>
+    <item name="zoo.window.shopResourceInfo.text_20"><![CDATA[Používajte dobrý filter, aby voda v nádržiach zostala krištáľovo čistá.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_21"><![CDATA[Super krmivo pre ryby]]></item>
+    <item name="zoo.window.shopResourceInfo.text_21"><![CDATA[Super Fish Food poskytuje vyváženú stravu pre morské živočíchy všetkých tvarov a veľkostí. Podávajte ho a dostanete dvojitú dávku BZ!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_22"><![CDATA[Exkluzívne krmivo pre ryby]]></item>
+    <item name="zoo.window.shopResourceInfo.text_22"><![CDATA[Exkluzívne krmivo pre exkluzívne ryby. Nakŕmte svoje zvieratá týmto krmivom a získajte dvakrát toľko perál!]]></item>
+  </category>
+</language>

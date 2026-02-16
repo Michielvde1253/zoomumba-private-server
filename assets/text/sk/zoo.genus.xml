@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Arakanga papagáj]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[Tieto veselé papagáje sú veľmi ukecané! Vždy ich chovajte v páre alebo v skupine. Návštevníci milujú týchto šikovných chlapíkov s ich pestrofarebným perím!]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[Ružový plameniak]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[Tieto krásne ružové zvieratá priťahujú pozornosť návštevníkov. Ich hlavnou potravou je planktón, ale pochutnávajú si aj na čerstvých rybách. Skvelá maškrta pre maškrtné vtáky!]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[Horská zebra]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[Pruhy, pruhy, pruhy všade! Je to ohromujúce! Vo svete plnom zebrích pruhov je to dobrá kamufláž, ale v našej časti sveta vyzerajú zebry dosť komicky. Zebry určite patria do každej zoo, takže sa tým nenechajte oklamať!]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Nosorožec]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[Tieto veľké tlustokožce sú samotári. Niet divu, že nosia také rohy! Napriek svojmu mohutnému vzhľadu sa len zriedka zapoja do bitiek. Najlepšie je však chovať spolu iba samca a samicu.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[Obojživelný hroch]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[Na súši vyzerajú ako nemotorné kolosy, ale zdanie klame. Dávajte si pozor, aby ste ich nehnevali, pretože akonáhle sa rozbehnú, nie je vhodné im prekážať. Našťastie sú to pokojné zvieratá, ak sa rešpektuje ich súkromie.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Mramorovaná žirafa]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[Vždy vysoko v oblakoch! Žirafy dosahujú najsladšie plody až na vrcholky stromov. Niet preto divu, že stromy sú dobre spásané. So svojimi dlhými krkmi dosahujú veľmi vysoko a najradšej jedia mladé zelené listy!]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[Arktický sob]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[Soby žijú v stádach ďaleko na severe. Aj v drsných arktických podmienkach si tieto nebojácne soby nájdu miesto na prežitie.]]></item>
+    </category>
+  </category>
+</language>

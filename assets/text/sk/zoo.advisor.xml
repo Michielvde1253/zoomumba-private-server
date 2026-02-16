@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advisor">
+    <category name="zoo.advisor.buttons">
+      <item name="zoo.advisor.buttons.1"><![CDATA[Druhy zvierat]]></item>
+      <item name="zoo.advisor.buttons.2"><![CDATA[Spokojnosť]]></item>
+      <item name="zoo.advisor.buttons.3"><![CDATA[Dekorácia]]></item>
+      <item name="zoo.advisor.buttons.4"><![CDATA[Chov zvierat]]></item>
+      <item name="zoo.advisor.buttons.5"><![CDATA[Odpadky]]></item>
+    </category>
+    <category name="zoo.advisor.descriptions">
+      <item name="zoo.advisor.descriptions.1.A"><![CDATA[Skvelé! Nikto sa nemôže sťažovať na nedostatok rozmanitosti vo vašej zoo. Len tak ďalej!]]></item>
+      <item name="zoo.advisor.descriptions.1.B"><![CDATA[Návštevníci majú radi, keď môžu v zoo obdivovať veľké množstvo zvierat. Máte %currentspecies% rôznych druhov, to je veľa! Pozrite sa do obchodu, nájdete tam aspoň %missingspecies% ďalších.]]></item>
+      <item name="zoo.advisor.descriptions.1.C"><![CDATA[Návštevníci zoo chcú vidieť čo najviac zvierat. Ale vaša zoo stojí za to. Momentálne vlastníte %currentspecies% zvierat. V obchode so zvieratami nájdete minimálne %missingspecies% ďalších druhov.]]></item>
+      <item name="zoo.advisor.descriptions.1.D"><![CDATA[Každý, kto ide do zoo, chce vidieť zvieratá! Vaša zoo by mohla mať ešte väčší výber: Momentálne máte %currentspecies% druhov zvierat. Obchod so zvieratami ponúka minimálne o %missingspecies% viac.]]></item>
+      <item name="zoo.advisor.descriptions.1.E"><![CDATA[Och! Vo vašej zoo nie je veľa druhov zvierat. Návštevníci môžu obdivovať %currentspecies% druhov, s ktorými sa dokážu pomerne rýchlo vyrovnať. V obchode v zoo si rýchlo kúpte aspoň %missingspecies% ďalších zvierat.]]></item>
+      <item name="zoo.advisor.descriptions.2.A"><![CDATA[Vaše zvieratá sú úplne spokojné. Ste príkladným riaditeľom zoo.]]></item>
+      <item name="zoo.advisor.descriptions.2.B"><![CDATA[Veľmi sa staráš o svoje zvieratá, ale niektoré z nich si zaslúžia ešte väčšiu pozornosť.]]></item>
+      <item name="zoo.advisor.descriptions.2.C"><![CDATA[Och! Vaše zvieratká sa trochu nudia. Nechceli by ste sa s nimi trochu pohrať, nakŕmiť ich alebo im dať vodu? To by pre ne bolo skvelé a boli by opäť naozaj šťastné!]]></item>
+      <item name="zoo.advisor.descriptions.2.D"><![CDATA[Ach jaj! Vaše zvieratká sú smutné, pretože ste sa o ne nestarali. Trochu sa s nimi pohrajte! Trochu jedla a vody ich tiež rozveselia. Potom vaša zoo opäť zažiari a bude tešiť návštevníkov!]]></item>
+      <item name="zoo.advisor.descriptions.2.E"><![CDATA[Och nie! Vaše zvieratká sú hladné a smädné! Poďte sa o ne postarať! Keď budú nakŕmené a výbehy vyčistené, bude zábava sa so zvieratkami opäť hrať!]]></item>
+      <item name="zoo.advisor.descriptions.3.A"><![CDATA[Paráda! Vaša zoo je nádherne vyzdobená! Návštevníci majú toľko čo vidieť. Len tak ďalej!]]></item>
+      <item name="zoo.advisor.descriptions.3.B"><![CDATA[Skvelé! Pekne si si vyzdobil/a zoo! Pozri sa do obchodu so zoo: nájdeš tam veľa ďalších pekných a zábavných dekorácií. Tvoji návštevníci milujú zmenu!]]></item>
+      <item name="zoo.advisor.descriptions.3.C"><![CDATA[Tvoja zoo je pekná, ale potrebovala by trochu viac zmien! V obchode so zoo nájdeš veľa pekných a zábavných dekorácií.]]></item>
+      <item name="zoo.advisor.descriptions.3.D"><![CDATA[Praktické a funkčné, ale trochu nudné. Viac dekorácií ocenia návštevníci. Nech všetci vidia, že toho dokážete ukázať viac!]]></item>
+      <item name="zoo.advisor.descriptions.3.E"><![CDATA[Vaša zoo by si zaslúžila trochu viac dekorácií. Potešte svojich návštevníkov novými výraznými dekoráciami.]]></item>
+      <item name="zoo.advisor.descriptions.4.A"><![CDATA[Toľko roztomilých bábätiek! Máš naozaj zlaté ručičky a tvoje zvieratká majú toľko potomkov. Skvelé!]]></item>
+      <item name="zoo.advisor.descriptions.4.B"><![CDATA[Návštevníkov lákajú titulky o mláďatách zvierat v zoo. Každý riaditeľ zoo však vždy hľadá spôsoby, ako sa zlepšiť. Pozrite sa: Momentálne môžete odchovať o %missingbabies% viac mláďat zvierat.]]></item>
+      <item name="zoo.advisor.descriptions.4.C"><![CDATA[Správy o nových prírastkoch do zoo sa šíria široko-ďaleko. Návštevníci milujú malé nemotorné mláďatá! Momentálne môžete odchovať o %missingbabies% viac mláďat.]]></item>
+      <item name="zoo.advisor.descriptions.4.D"><![CDATA[Vaša zoo by potrebovala viac potomkov. Pozrite sa: %missingbabies% párov momentálne hľadá mláďa. Skúste sa rozmnožovať!]]></item>
+      <item name="zoo.advisor.descriptions.4.E"><![CDATA[Vo vašej zoo sa veľa obávajú o vaše potomstvo: %missingbabies% párov momentálne očakáva mláďa. Snažte sa rozmnožovať a potešiť návštevníkov pohľadom na vaše nemotorné mláďatá.]]></item>
+      <item name="zoo.advisor.descriptions.5.A"><![CDATA[Skvelé, vaša zoo vyzerá skvele! A návštevníci ju milujú. Len tak ďalej!]]></item>
+      <item name="zoo.advisor.descriptions.5.B"><![CDATA[Darí sa ti dobre, ale tvoja zoo by bola ešte krajšia, keby si poupratal zvyšok odpadu.]]></item>
+      <item name="zoo.advisor.descriptions.5.C"><![CDATA[Odpadky vo vašej zoo sa pomaly hromadia. Konečne ich upracte.]]></item>
+      <item name="zoo.advisor.descriptions.5.D"><![CDATA[V tvojej zoo sa povaľuje veľa odpadkov. Určite by si mal všetko upratať a vyčistiť.]]></item>
+      <item name="zoo.advisor.descriptions.5.E"><![CDATA[Vaša zoo sa topí v odpadkoch! Odstráňte hory odpadkov z chodníkov a vyprázdnite koše.]]></item>
+    </category>
+    <category name="zoo.advisor.help">
+      <item name="zoo.advisor.help.1"><![CDATA[V kategórii „Druhy zvierat“ si môžete pozrieť, či sú vo vašej zoo zastúpené všetky možné druhy zvierat.]]></item>
+      <item name="zoo.advisor.help.2"><![CDATA[Kategória „Spokojnosť“ zobrazuje, ako sú vaše zvieratá momentálne spokojné.]]></item>
+      <item name="zoo.advisor.help.3"><![CDATA[V kategórii „Dekorácie“ si môžete pozrieť, či sú dekorácie vo vašej zoo atraktívne pre návštevníkov.]]></item>
+      <item name="zoo.advisor.help.4"><![CDATA[Návštevníci milujú roztomilé mláďatá! Položka „Chov zvierat“ vám ukáže úroveň úspešnosti vášho chovu.]]></item>
+      <item name="zoo.advisor.help.5"><![CDATA[Položka „Odpad“ vám ukáže, či je vaša zoo čistá, alebo či návštevníci potkýnajú hory odpadkov.]]></item>
+      <item name="zoo.advisor.help.6"><![CDATA[Použite klávesy 1 až 7, aby ste sa dostali do obchodu rýchlejšie.]]></item>
+      <item name="zoo.advisor.help.7"><![CDATA[Pomocou písmen Q, W, E a R môžete predmety presúvať (W), otáčať (E), predávať (R) alebo meniť herný režim (Q).]]></item>
+      <item name="zoo.advisor.help.8"><![CDATA[Nezabudnite použiť bezpečné heslo, ktoré s nikým nezdieľate!]]></item>
+      <item name="zoo.advisor.help.9"><![CDATA[Môžete zapnúť alebo vypnúť herné tipy a rôzne ďalšie funkcie, ako sú návštevníci, efekty na pozadí a zvukové efekty, aby hra bežala rýchlejšie na slabších počítačoch.]]></item>
+      <item name="zoo.advisor.help.10"><![CDATA[Kúpte si v banke doláre zo zoo. Niekedy ich môžete získať ako odmenu za splnenie denných úloh. Môžete ich získať aj po dostatočnom zvýšení úrovne.]]></item>
+      <item name="zoo.advisor.help.11"><![CDATA[Občas budú prebiehať aj propagačné akcie s bonusovými kódmi, takže sledujte oficiálne oznámenia na fóre.]]></item>
+      <item name="zoo.advisor.help.12"><![CDATA[Vaše zvieratá môžu ochorieť náhodou. Čím lepšie sa o ne staráte, tým dlhšie zostanú zdravé. Ak však vaše zviera nie je choré, nemôžete mu ani podať injekciu.]]></item>
+      <item name="zoo.advisor.help.13"><![CDATA[Vaše zvieratá sa cítia skvele vo všetkých výbehoch. A nezáleží na tom, do ktorého výbehu ich umiestnite.]]></item>
+      <item name="zoo.advisor.help.14"><![CDATA[Momentálne nemôžete presúvať žiadne zvieratá do iných výbehov.]]></item>
+      <item name="zoo.advisor.help.15"><![CDATA[Ak predáte výbeh, predáte aj zviera v ňom.]]></item>
+      <item name="zoo.advisor.help.16"><![CDATA[V hre sú dva typy surikát - normálne a sivá surikata Beda. Beda sa objavuje iba počas určitých udalostí a je možné ju kúpiť iba v špeciálne dni.]]></item>
+      <item name="zoo.advisor.help.17"><![CDATA[Ak kliknete na „adoptovať za zoodoláre“, máte 100% istotu nového prírastku a nemusíte naň čakať.]]></item>
+      <item name="zoo.advisor.help.18"><![CDATA[Priateľov zo ZooMumby si môžete uložiť do adresára. Momentálne bohužiaľ nemôžete pozvať žiadnych susedov.]]></item>
+      <item name="zoo.advisor.help.19"><![CDATA[Čím viac obchodov vlastníte, tým viac zoogrov zarobíte.]]></item>
+      <item name="zoo.advisor.help.20"><![CDATA[Nemáte čas? Potom si najmite asistentov. Pamätajte, že asistenti fungujú iba vtedy, keď na nich kliknete (nefungujú automaticky).]]></item>
+      <item name="zoo.advisor.help.21"><![CDATA[Ak si zamestnáte pokladníka Kešíka, zvýšite si príjem.]]></item>
+      <item name="zoo.advisor.help.22"><![CDATA[Používanie asistentov sa oplatí: získate viac skúsenostných bodov.]]></item>
+      <item name="zoo.advisor.help.23"><![CDATA[Ak máte všetkých asistentov, aktivujete Davidovho zástupcu – dokáže všetkých asistentov spustiť do práce jediným kliknutím.]]></item>
+      <item name="zoo.advisor.help.24"><![CDATA[Čím viac odpadu v zoo vytriedite, tým menej ho skončí na ulici.]]></item>
+      <item name="zoo.advisor.help.25"><![CDATA[Kúpte si samca a samicu rovnakého druhu a čoskoro budete mať v zoo roztomilé mláďatá.]]></item>
+      <item name="zoo.advisor.help.26"><![CDATA[V hlavnej budove si môžete uschovať iba určitú sumu vstupného, ​​preto si ju pravidelne vyberajte.]]></item>
+      <item name="zoo.advisor.help.27"><![CDATA[Aby ste z budov mali zisk, musia byť vždy prepojené chodníkom. Ako inak by sa k nim návštevníci mohli dostať?]]></item>
+      <item name="zoo.advisor.help.28"><![CDATA[Majte oči otvorené: Z času na čas sa v obchode objavia špeciálne zvieratá alebo predmety, ktoré si môžete kúpiť len na obmedzený čas.]]></item>
+      <item name="zoo.advisor.help.29"><![CDATA[Kŕmte svoje zvieratá superpotravinami, zostanú dlhšie sýte!]]></item>
+      <item name="zoo.advisor.help.30"><![CDATA[Och! Sú vaše zvieratá choré? Dajte im superlieky a budú opäť zdravé ako ryby!]]></item>
+    </category>
+  </category>
+</language>

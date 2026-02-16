@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.crafting">
+    <item name="zoo.window.crafting.intro.blueprintRewards"><![CDATA[Nazbierali ste %mycards% z %allcards% stavebných plánov!]]></item>
+    <item name="zoo.window.crafting.intro.title"><![CDATA[Dielňa]]></item>
+    <item name="zoo.window.crafting.intro.text"><![CDATA[Pozor, remeselníci a hobbyisti! Použite svoje materiály na stavbu nových ohrád, budov, dekorácií alebo chodníkov. Jednoducho si vyberte kategóriu nižšie a pokračujte do ďalšej fázy výroby.]]></item>
+    <item name="zoo.window.crafting.intro.chooseCategorie"><![CDATA[Vyberte kategóriu:]]></item>
+    <item name="zoo.window.crafting.produce.text"><![CDATA[Je to veľmi jednoduché: Vľavo dole vidíte, čo sa práve vyrába. Stavebný plán vám ukazuje, aké materiály potrebujete. Nad tým vidíte čas výroby a počet labiek, ktoré musíte zaplatiť. Rozumiete? Dobre, potom kliknite na „Štart“.]]></item>
+    <item name="zoo.window.crafting.produce.button"><![CDATA[Štart]]></item>
+    <item name="zoo.window.crafting.progress.title"><![CDATA[Dielňa]]></item>
+    <item name="zoo.window.crafting.progress.text"><![CDATA[Výroba prebieha!]]></item>
+    <item name="zoo.window.crafting.progress.time"><![CDATA[Trvanie:]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.title"><![CDATA[Okamžite vyrobte]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.text"><![CDATA[Ušetrite čas a dokončite výrobu okamžite!]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.button"><![CDATA[Dokončené]]></item>
+    <item name="zoo.window.crafting.progress.layer.elixir.text"><![CDATA[Zrýchlite a dokončite výrobu za polovičný čas.]]></item>
+    <item name="zoo.window.crafting.progress.button.elixir"><![CDATA[Zrýchliť]]></item>
+    <item name="zoo.window.crafting.success.text"><![CDATA[Hurá! Hotovo: predmet, ktorý ste práve vytvorili, nájdete vo svojom inventári!]]></item>
+    <item name="zoo.window.crafting.blueprint.text"><![CDATA[Hurá! Práve si dostal stavebný plán! Choď do dielne a postav nový predmet pre svoju zoo!]]></item>
+  </category>
+</language>

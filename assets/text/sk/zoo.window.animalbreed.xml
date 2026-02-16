@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.animalbreed">
+    <item name="zoo.window.animalbreed.title"><![CDATA[Chov zvierat]]></item>
+    <item name="zoo.window.animalbreed.info"><![CDATA[Vychujte roztomilé mláďatá!\nS trochou šťastia vaša zoo privíta nové prírastky.]]></item>
+    <item name="zoo.window.animalbreed.breedtitle"><![CDATA[Štandardná reprodukcia]]></item>
+    <item name="zoo.window.animalbreed.breedinfo"><![CDATA[Možné potomstvo pre:]]></item>
+    <item name="zoo.window.animalbreed.button.startbreeding"><![CDATA[Štart]]></item>
+    <item name="zoo.window.animalbreed.babytitle"><![CDATA[Adopcia]]></item>
+    <item name="zoo.window.animalbreed.babyinfo"><![CDATA[Okamžite si zaobstarajte dieťa:]]></item>
+    <item name="zoo.window.animalbreed.button.buydirectly"><![CDATA[Kúpiť teraz]]></item>
+    <item name="zoo.window.animalbreed.button.breedstart"><![CDATA[Štart]]></item>
+    <item name="zoo.window.animalbreed.success.title"><![CDATA[Mladý]]></item>
+    <item name="zoo.window.animalbreed.success.info"><![CDATA[Hurá!<br>Gratulujeme! Vaša zoo má nového roztomilého prírastku!]]></item>
+    <item name="zoo.window.animalbreed.failed.title"><![CDATA[Žiadny prírastok]]></item>
+    <item name="zoo.window.animalbreed.failed.info"><![CDATA[Škoda, tentoraz si budete musieť počkať na nový prírastok.<br><br>Chcete to skúsiť znova?<br><br>Veľa šťastia!]]></item>
+  </category>
+</language>

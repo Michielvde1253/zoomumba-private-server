@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.nursery">
+    <item name="zoo.nursery.info"><![CDATA[Ahoj, volám sa Tina a starám sa o tvoje mláďatá. V mojej zvieracej škôlke z nich vyrastú dospelé zvieratá. Vyberte si zo svojho inventára mláďa, ktoré chcete odchovať.]]></item>
+    <category name="zoo.nursery.tooltip">
+      <item name="zoo.nursery.tooltip.nurseryEmpty"><![CDATA[Pripravený na rast]]></item>
+      <item name="zoo.nursery.tooltip.nurseryRaising"><![CDATA[Tu vyrastá mláďa.]]></item>
+      <item name="zoo.nursery.tooltip.nurseryDone"><![CDATA[Tvoje mláďa vyrástlo!]]></item>
+    </category>
+    <category name="zoo.nursery.button">
+      <item name="zoo.nursery.button.raise"><![CDATA[Zvýšiť]]></item>
+      <item name="zoo.nursery.button.elixir"><![CDATA[Použite esenciu]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Okamžite zvýšiť]]></item>
+    </category>
+    <category name="zoo.nursery.layer">
+      <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Chov zvierat]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihneď odchovaný:]]></item>
+      <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Zostávajúci čas:]]></item>
+      <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Okamžite zvýšiť]]></item>
+      <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Ani sa nenazdáte a z vášho drobčeka bude dospelý!]]></item>
+      <item name="zoo.nursery.layer.elixir.text"><![CDATA[Rastový elixír skracuje čas rozmnožovania o 50%.]]></item>
+      <item name="zoo.nursery.layer.success"><![CDATA[Jupí! Toto bábätko vyrástlo a bolo presunuté do vášho inventára:]]></item>
+      <item name="zoo.nursery.layer.inventorize"><![CDATA[Pozor: Tu rastie dieťa! Ak presuniete detskú izbu do inventára, proces sa preruší. Naozaj ju chcete teraz presunúť?]]></item>
+      <item name="zoo.nursery.layer.sellNursery"><![CDATA[Pozor: Tu rastie bábätko! Ak teraz predáte detskú izbu, proces sa preruší. Ste si istý/á, že ju chcete predať teraz?]]></item>
+    </category>
+  </category>
+</language>

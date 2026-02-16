@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.infoLayers">
+    <category name="zoo.window.infoLayers.forgottenZoo">
+      <item name="zoo.window.infoLayers.forgottenZoo.title"><![CDATA[Skrytá zoologická záhrada]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.info"><![CDATA[Gratulujeme! S 3. rozšírením máte kráľovstvo Skrytej zoo teraz pri nohách! Šípka na parkovisku vás nasmeruje do Skrytej zoo.]]></item>
+      <item name="zoo.window.infoLayers.forgottenZoo.expansion"><![CDATA[Po obmedzenú dobu si môžete jedným nákupom rozšíriť svoju Tajnú zoo na maximálnu veľkosť! Prejdite do svojej Tajnej zoo, otvorte obchod a kliknite na „Doplnky“. Ponuku nájdete tu!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemreward">
+      <item name="zoo.window.infoLayers.itemreward.recycling.title"><![CDATA[Recyklácia bola úspešná!]]></item>
+      <item name="zoo.window.infoLayers.itemreward.recycling.info"><![CDATA[Skvelé, to stálo za to! Tieto materiály si zrecykloval z odpadu. Nájdeš ich vo svojom inventári.]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.title"><![CDATA[Prekvapivá krabička]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.info"><![CDATA[Hurá! Vaša prekvapivá krabica bola naplnená vyššie uvedenými materiálmi, ktoré môžete použiť na ďalšie spracovanie. Nájdete ich vo svojom inventári.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedingLabNursery">
+      <item name="zoo.window.infoLayers.breedingLabNursery.info"><![CDATA[Chov nových druhov zvierat! Chovná stanica a škôlka pre zvieratá sú teraz k dispozícii! Kliknite na modrého slona: Budovy nájdete v riadiacom centre.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterNotification">
+      <item name="zoo.window.infoLayers.easterNotification.title"><![CDATA[Veľkonočné nákupy]]></item>
+      <item name="zoo.window.infoLayers.easterNotification.text"><![CDATA[Zakúpená položka bola uložená do vášho inventára.<br><br>Chcete teraz otvoriť svoj inventár?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterComic">
+      <item name="zoo.window.infoLayers.easterComic.layer1.bubble"><![CDATA[Vitajte na Veľkonočnej udalosti! Od 21. do 27. apríla bude Veľkonočný zajačik rozdávať vajíčka. Zbierajte ich, čakajú na vás skvelé odmeny. Kliknite na šípku a dozviete sa viac.]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer2.content"><![CDATA[Skvelé veľkonočné dekorácie vám prinesú o 50 % viac BZ za všetky akcie vo výbehoch počas 7 dní. Odfoťte si svoju veľkonočnú zoo a zdieľajte ich so svojimi priateľmi na Facebooku alebo na fóre!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.header"><![CDATA[Poďme hľadať veľkonočné vajíčka!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer3.content"><![CDATA[Roztomilé veľkonočné vyhadzovače prilákajú množstvo zákazníkov. A to najlepšie? Vo vašej zoo zostanú aj po Veľkej noci - ako sa na poriadnu atrakciu patrí!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer4.content"><![CDATA[Veľkonočný výbeh je vždy lákadlom, bez ohľadu na to, aké zvieratá v ňom žijú. Veľkonočné výbehy vám hneď od začiatku prinesú o 20 % viac BZ!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.bubble"><![CDATA[Veľkonočný zajačik pravidelne rozdáva vajíčka. Ale akonáhle je vo vašej zoo viac ako 5 vajíčok, kladenie vajíčok sa skončí. Tip: Ak si chcete byť istí, že zakaždým pozbierate všetky vajíčka, požiadajte o radu svoju veľkonočnú pomocníčku Soniu!]]></item>
+      <item name="zoo.window.infoLayers.easterComic.layer5.content"><![CDATA[Jeden zajačik vám nestačí? Potom na vás v sekcii doplnkov v obchode čakajú ďalšie veľkonočné zajačiky. Stačí sa pozrieť!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Notification">
+      <item name="zoo.window.infoLayers.easter2012Notification.title"><![CDATA[Veľkonočné nákupy]]></item>
+      <item name="zoo.window.infoLayers.easter2012Notification.text"><![CDATA[Zakúpená položka bola uložená do vášho inventára.<br><br>Chcete teraz otvoriť svoj inventár?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012Comic">
+      <item name="zoo.window.infoLayers.easter2012Comic.layer1.bubble"><![CDATA[Oslavujte Veľkú noc vo svojej zoo! Hľadanie veľkonočných vajíčok sa bude konať od 5. do 11. apríla! Zapojte sa do tejto veľkonočnej súťaže a vyhrajte skvelé ceny a prekvapenia! Tu je postup:]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer2.content"><![CDATA[Postaraj sa o svoje zvieratká a nájdi všetky farebné vajíčka vo svojich teráriách. Zozbieraj vajíčka a vráť ich na veľkonočnú hernú dosku.<br><br>Poznámka: počet vajíčok na tvojich poliach sa každé kolo zdvojnásobí!]]></item>
+      <item name="zoo.window.infoLayers.easter2012Comic.layer3.content"><![CDATA[Hoďte veľkonočné vajíčka na príslušné herné pole. Máme červené, zelené a modré polia. Čakajú na vás fantastické veľkonočné odmeny a roztomilé zvieratká!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.fullScreen">
+      <item name="zoo.window.infoLayers.fullScreen.keyboard"><![CDATA[Chcete ukončiť ukážku na celú obrazovku, aby ste mohli znova písať?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventUpgrade">
+      <item name="zoo.window.infoLayers.eventUpgrade"><![CDATA[Dodajte svojim narodeninovým krabičkám ešte výraznejší vzhľad a získate 125 % BZ a vyššiu šancu na balóny počas narodeninovej udalosti!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolbar">
+      <item name="zoo.window.infoLayers.toolbar.title"><![CDATA[Bonus]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info1"><![CDATA[Skvelé! Za prihlásenie ste získali bonus v paneli s nástrojmi:]]></item>
+      <item name="zoo.window.infoLayers.toolbar.info2"><![CDATA[Prihláste sa zajtra znova pomocou panela s nástrojmi a získajte ďalší bonus!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemInInventory">
+      <item name="zoo.window.infoLayers.itemInInventory.title"><![CDATA[Gratulujem!]]></item>
+      <item name="zoo.window.infoLayers.itemInInventory.text"><![CDATA[Zakúpili ste si nasledujúcu položku do svojho inventára:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.animalInInventory">
+      <item name="zoo.window.infoLayers.animalInInventory.text"><![CDATA[Do vášho inventára bolo pridané nasledujúce zviera:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.itemRedeemed">
+      <item name="zoo.window.infoLayers.itemRedeemed.title"><![CDATA[Gratulujem!]]></item>
+      <item name="zoo.window.infoLayers.itemRedeemed.success"><![CDATA[Vaša odmena bola pripísaná.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.action.sorry">
+      <item name="zoo.window.infoLayers.action.sorry.title"><![CDATA[Ospravedlňujeme sa!]]></item>
+      <item name="zoo.window.infoLayers.action.sorry.text"><![CDATA[Je nám ľúto, ale táto udalosť momentálne nie je k dispozícii.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.purchaseConfirmed">
+      <item name="zoo.window.infoLayers.purchaseConfirmed.title"><![CDATA[Gratulujem!]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.simple"><![CDATA[Nákup bol pripísaný na účet.]]></item>
+      <item name="zoo.window.infoLayers.purchaseConfirmed.gift"><![CDATA[Váš nákup bol pripísaný a vaše darčeky boli odoslané.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.welcomeBack">
+      <item name="zoo.window.infoLayers.welcomeBack.title"><![CDATA[Vitaj späť!]]></item>
+      <item name="zoo.window.infoLayers.welcomeBack.text"><![CDATA[Zvieratá sa veľmi tešia, že ťa opäť vidia.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.breedInInventory">
+      <item name="zoo.window.infoLayers.breedInInventory.title"><![CDATA[Pozor!]]></item>
+      <item name="zoo.window.infoLayers.breedInInventory.text"><![CDATA[Momentálne tu prebieha rozmnožovanie.<br> <br>Ak presuniete výbeh do inventára, proces rozmnožovania bude zrušený.<br> <br>Naozaj chcete pokračovať?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.collectables">
+      <item name="zoo.window.infoLayers.collectables.firstFinish.title"><![CDATA[Gratulujem!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.text"><![CDATA[Paráda! Prvýkrát ste našli všetky časti %kolekcie%!]]></item>
+      <item name="zoo.window.infoLayers.collectables.firstFinish.button.socialShare"><![CDATA[Zobraziť priateľov]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.title"><![CDATA[Gratulujem!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.text"><![CDATA[Zbierku %collection% ste dokončili už druhýkrát!]]></item>
+      <item name="zoo.window.infoLayers.collectables.finish.button.getGift"><![CDATA[Použitie]]></item>
+      <item name="zoo.window.infoLayers.collectables.button.viewCollection"><![CDATA[Zobraziť kolekciu]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.adamPenguin">
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.title"><![CDATA[Špičkový balíček „Čierny panter“]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.blackPanther.text"><![CDATA[Teraz, tu a len raz dostupné. „Čierny panter“ je tu exkluzívne pre vás. A niečo navyše, napríklad všetci pomocníci na 24 hodín zadarmo!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.title"><![CDATA[Balíček „Biely tiger“]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack.text"><![CDATA[Jednorazová ponuka - "kombo balíček" pre skvelý štart! Vaše vybavenie na začiatok za skvelú ponuku!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.title"><![CDATA[Balíček „Terárium“]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_14.text"><![CDATA[Jednorazová ponuka - "kombo balíček" pre skvelý štart! Vaše vybavenie na začiatok za skvelú ponuku!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.title"><![CDATA[Balíček „Préria“]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.starterPack_15.text"><![CDATA[Jednorazová ponuka - "kombo balíček" pre skvelý štart! Vaše vybavenie na začiatok za skvelú ponuku!]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.title"><![CDATA[Bonus za vernosť]]></item>
+      <item name="zoo.window.infoLayers.adamPenguin.upselling.text"><![CDATA[Len tu dostupné: balíček Zoodollars s vaším osobným vernostným bonusom! Kliknite na „kúpiť“ a získajte ďalšie bonusy.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.payment">
+      <item name="zoo.window.infoLayers.payment.happyHourHeader"><![CDATA[Zoodoláre plus %percent%%!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBody"><![CDATA[Teraz sa ti splní želanie!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_1"><![CDATA[Získajte ešte dnes extra zoodoláre!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_2"><![CDATA[Kúpte si napríklad 100 zoodolárov a získajte celkovo %extradollar% zoodolárov!]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourBullet_3"><![CDATA[Platí pre všetky spôsoby platby okrem prevodu.]]></item>
+      <item name="zoo.window.infoLayers.payment.happyHourFin"><![CDATA[Neváhajte! Ponuka stále platí:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.conversionPack">
+      <item name="zoo.window.infoLayers.conversionPack_header"><![CDATA[Exkluzívne - iba %priceCurrency%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_save"><![CDATA[Ušetrite % zľavy!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_footer"><![CDATA[A oveľa viac...]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_infoHeader"><![CDATA[Neváhajte a ušetrite %savings%%!]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info1"><![CDATA[<ul><li>1 pár sučiek</li><li>1x výbeh pre savany</li><li>1 labutie jazierko</li><li>15x superpotravina</li><li>15x najlepšie jedlo</li><li>10x supermedicína</li><li>75 zoodolárov</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info2"><![CDATA[<ul><li>1 pár rysov</li><li>všetkých 6 pomocníkov na 24 hodín</li><li>1 skalný výbeh</li><li>1 socha vtáka dodo</li><li>25x superpotravina</li><li>25x najlepšie jedlo</li><li>25x supermedicína</li><li>150 zoodolárov</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.conversionPack_info3"><![CDATA[<ul><li>1 pár bielych tigrov</li><li>všetkých 6 asistentov na 24 hodín</li><li>1 tundrový výbeh</li><li>1 medvedia socha slobody</li><li>40x superpotravina</li><li>35x najlepšie jedlo</li><li>30x supermedicína</li><li>200 zoodolárov</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.paymentBug">
+      <item name="zoo.window.infoLayers.paymentBug.title"><![CDATA[Vážení hráči]]></item>
+      <item name="zoo.window.infoLayers.paymentBug.info"><![CDATA[Kvôli chybe vám bolo do balíčka pripísaných príliš veľa predmetov. Tieto predmety však musíme bohužiaľ odstrániť, pretože by to nebolo fér voči hráčom, ktorí si zakúpili rovnaký balíček. Ako kompenzáciu za toto nedorozumenie sme vám pripísali 500 labiek.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.eventPack">
+      <item name="zoo.window.infoLayers.eventPack_header"><![CDATA[Získajte jedinečný vianočný košík!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title1"><![CDATA[Chcete, aby vaša vianočná udalosť prebehla rýchlejšie? Zaobstarajte si malý vianočný košík, ktorý sa dá kúpiť iba raz!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info1"><![CDATA[<ul><li>10x kandizované jablká</li><li>3x esencia Tolia</li><li>3x lektvar rastu</li><li>5x superpotravina</li><li>5x najlepšie jedlo</li><li>25 zoodolárov</li></ul>]]></item>
+      <item name="zoo.window.infoLayers.eventPack_title2"><![CDATA[Chcete, aby vaša vianočná udalosť prebehla rýchlejšie? Zaobstarajte si veľký vianočný košík, ktorý sa dá kúpiť iba raz!]]></item>
+      <item name="zoo.window.infoLayers.eventPack_info2"><![CDATA[<ul><li>60x kandizované jablká</li><li>všetkých 7 pomocníkov na 24 hodín</li><li>20x tolija esencia</li><li>20x rastový elixír</li><li>20x superpotravina</li><li>20x najlepšie jedlo</li><li>50 zoodolárov</li></ul>]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.cinema">
+      <item name="zoo.window.infoLayers.cinema.limit"><![CDATA[Bohužiaľ, už nemáte žiadne lístky do kina.]]></item>
+      <item name="zoo.window.infoLayers.cinema.success1"><![CDATA[Paráda! Tu je vaša odmena za zhliadnutie filmu:]]></item>
+      <item name="zoo.window.infoLayers.cinema.success2"><![CDATA[Kredit bude pripísaný v priebehu nasledujúcej hodiny.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2012">
+      <item name="zoo.window.infoLayers.easter2012.limit"><![CDATA[Nemáš dosť veľkonočných vajíčok.]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success1"><![CDATA[Paráda! Získali ste nasledujúcu odmenu:]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success2"><![CDATA[Veľa šťastia pri hľadaní vajíčok!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.avatar">
+      <item name="zoo.window.infoLayers.avatar.Check"><![CDATA[Váš avatar bol úspešne uložený.]]></item>
+      <item name="zoo.window.infoLayers.avatar.X"><![CDATA[Naozaj chcete zatvoriť toto okno? Váš avatar ešte nebol uložený!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.saveAssets">
+      <item name="zoo.window.infoLayers.saveAssets.text1"><![CDATA[Chcete, aby sa vaša hra načítala rýchlejšie? ZooMumba je graficky veľmi náročná. Ak chcete, môžeme vám obrázky uložiť priamo na pevný disk. Takto sa hra načíta oveľa rýchlejšie!]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text2"><![CDATA[Ak chcete tieto zmeny povoliť, jednoducho kliknite na tlačidlo „Povoliť“ pri ďalšom zobrazení okna. V opačnom prípade sa herné údaje budú naďalej ukladať do vyrovnávacej pamäte prehliadača.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.text3"><![CDATA[Ak sa rozhodnete inak, jednoducho otvorte nastavenia ZooMumby a zapnite alebo vypnite ukladanie do vyrovnávacej pamäte.]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.yes"><![CDATA[Áno, uložiť na pevný disk (odporúčané)]]></item>
+      <item name="zoo.window.infoLayers.saveAssets.no"><![CDATA[Nie, naďalej používať vyrovnávaciu pamäť prehliadača]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.doublexp">
+      <item name="zoo.window.infoLayers.doublexp.allitems"><![CDATA[Posuňte sa na vyššiu úroveň rýchlejšie! Získajte dvojnásobné množstvo BZ za aktivity na pastvinách!]]></item>
+      <item name="zoo.window.infoLayers.doublexp.specialitems"><![CDATA[Získajte extra skúsenostné body! Tieto zvieratá vám dajú dvojnásobnú dávku BZ:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.specialShopItem">
+      <item name="zoo.window.infoLayers.specialShopItem.title"><![CDATA[Super ponuka: Len krátko!]]></item>
+      <item name="zoo.window.infoLayers.specialShopItem.infotext"><![CDATA[Dnes je špeciálny deň pre špeciálne zvieratká: Oslavujeme ich narodeniny! V obchode dostupné len krátko:]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012">
+      <item name="zoo.window.infoLayers.frog2012.limit"><![CDATA[Bohužiaľ, chýbajú ti bonusové predmety. Nevzdávaj sa!]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success1"><![CDATA[Traf! Vyhrali ste skvelú odmenu:]]></item>
+      <item name="zoo.window.infoLayers.frog2012.success2"><![CDATA[Nájdite ešte viac položiek! Veľa šťastia!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Notification">
+      <item name="zoo.window.infoLayers.frog2012Notification.title"><![CDATA[Nákup zberateľských predmetov]]></item>
+      <item name="zoo.window.infoLayers.frog2012Notification.text"><![CDATA[Zakúpená položka je teraz vo vašom sklade v zoo. Chcete si otvoriť sklad?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frog2012Comic">
+      <item name="zoo.window.infoLayers.frog2012Comic.layer1.bubble"><![CDATA[Od 17. do 23. mája bude vaša zoo rozprávkou. Počas podujatia Kráľovská žaba na vás čaká veľa zábavy a skvelých cien! </br></br>V nasledujúcich krokoch vám ukážeme, ako na to:]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a zbierajte špeciálne bonusové predmety: korunovanú žabu, plutvy alebo korunu. Potom ich vymeňte na hernej doske so žabami za skvelé ceny.]]></item>
+      <item name="zoo.window.infoLayers.frog2012Comic.layer3.content"><![CDATA[Môžete hrať toľko kôl, koľko chcete. Budete potrebovať stále viac a viac predmetov, ale ceny budú stále úžasnejšie! Čoskoro bude Žabí kráľ kvákať aj vo vašej zoo!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australien2012Comic">
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Slnko, surfovanie a vačkovce – od 25. júna do 3. júla sa môžete vo svojej zoo zabaviť v austrálskom štýle! Nenechajte si ujsť šancu vyhrať skvelé austrálske ceny! </br></br>V nasledujúcich krokoch vám ukážeme ako:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratá a zbierajte špeciálne bonusové predmety: surfovú dosku, červený kameň alebo opaľovací krém. Potom ich vymeňte za skvelé prekvapenia na austrálskom ihrisku.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Môžete hrať toľko kôl, koľko chcete. Čím viac predmetov nazbierate, tým magickejšie budú vaše výhry! Premeňte svoju zoo na malú Austráliu!]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer1.bubble"><![CDATA[Slnko, surfovanie a vačkovce – od 25. júna do 3. júla sa môžete vo svojej zoo zabaviť v austrálskom štýle! Nenechajte si ujsť šancu vyhrať skvelé austrálske ceny! </br></br>V nasledujúcich krokoch vám ukážeme ako:]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratá a zbierajte špeciálne bonusové predmety: surfovú dosku, červený kameň alebo opaľovací krém. Potom ich vymeňte za skvelé prekvapenia na austrálskom ihrisku.]]></item>
+      <item name="zoo.window.infoLayers.australien2012Comic.layer3.content"><![CDATA[Môžete hrať toľko kôl, koľko chcete. Čím viac predmetov nazbierate, tým magickejšie budú vaše výhry! Premeňte svoju zoo na malú Austráliu!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.indien2012Comic">
+      <item name="zoo.window.infoLayers.indien2012Comic.layer1.bubble"><![CDATA[Ahoj, ahoj! Chceš sa od 19. do 26. júla trochu zabaviť? Dovoľ mi, aby som ti o tejto akcii niečo povedal:]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer2.content"><![CDATA[Pri starostlivosti o svoje zvieratá si dávajte pozor na špeciálne predmety, ktoré sa objavia: tetovania hennou, kriketové pálky a Tádž Mahal. Zbierajte ich a vymeňte za skvelé odmeny v zoo!]]></item>
+      <item name="zoo.window.infoLayers.indien2012Comic.layer3.content"><![CDATA[Zahrajte si toľko kôl, koľko chcete. Čím viac predmetov nazbierate, tým lepšie odmeny získate. India je tu!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.anniversary2012Comic">
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.bubble"><![CDATA[Všetko najlepšie k narodeninám! Oslavujte s nami druhé výročie ZooMumby!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer1.content"><![CDATA[Nazbierajte čo najviac rohov, párty klobúkov a pohárov na šampanské pre naše párty hry. Môžete vyhrať párty klietku s množstvom párty dobrôt!]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer2.content"><![CDATA[Čo by to bola za párty bez balónov? Starajte sa o svoje zvieratká, zbierajte balóny a vymieňajte ich na ihrisku za bláznivé párty prekvapenia.]]></item>
+      <item name="zoo.window.infoLayers.anniversary2012Comic.layer3.content"><![CDATA[Jednotlivé herné kolá môžete opakovať toľkokrát, koľkokrát chcete. Budete potrebovať stále viac a viac predmetov, ktoré sa objavia pri zbere, ale odmeny budú lepšie a lepšie. Hip, hip, hurá! Sláva všetkým riaditeľom zoo!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.oktoberfest2012Comic">
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer1.bubble"><![CDATA[Nech sa párty začne! Oktoberfest je tu - príďte a oslávte ho v bavorskom štýle!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer2.content"><![CDATA[Od 1. do 7. októbra môžete zbierať beer pong, mäkké praclíky a tradičné klobúky, ako aj fantastické odmeny, ako napríklad nový domov: Oktoberfest - zábavný park!]]></item>
+      <item name="zoo.window.infoLayers.oktoberfest2012Comic.layer3.content"><![CDATA[Môžete hrať tak často, ako chcete. Budete potrebovať zásobu vyskakovacích predmetov, ale výmenou za ne získate tradičné bavorské odmeny. Takže neváhajte, budete sa skvele baviť!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.circusHelpcomic">
+      <item name="zoo.window.infoLayers.circusHelpcomic.layer1.content"><![CDATA[V cirkuse je veľa klietok s exotickými zvieratami. Po prvých 5 hodinách na vás z klietky vyskočí zviera! Aký druh zvieraťa to bude?]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Layer">
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble1"><![CDATA[Doručte kuriatka. Každé rozsvietené svetlo znamená ďalšie skvelé ceny!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer1.bubble2"><![CDATA[Doručte kandizované jablká. Každé rozsvietené svetielko znamená ďalšie skvelé ceny!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.layer2.bubble"><![CDATA[Predajte svoje zvieratá za zoogrosh a rozsvieťte vianočný stromček!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.singleplayer.success"><![CDATA[Výborná práca! Všetko svieti a vy ste získali všetky odmeny!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Layer.multiplayer.success"><![CDATA[Gratulujeme! Spoločne sme rozsvietili celý vianočný stromček a vyzbierali skvelé ceny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.christmas2012Comic">
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.bubble"><![CDATA[Veselé Vianoce! Prosím, pomôžte mi rozsvietiť vianočné svetielka. Za každú žiarovku, ktorú rozsvietite, môžete vyhrať rôzne sviatočné ceny, napríklad polárnu líšku!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer1.content"><![CDATA[Ak chcete zapnúť svetlá, musíte z inventára pridať cukrové jablká alebo mláďatá zvieratiek.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer2.content"><![CDATA[Niektoré svetlá sa dajú rozsvietiť iba cukrovými jablkami. Jablká budú vyskakovať zo zvieracích búdok. Pre rýchlejší postup si môžete kúpiť ďalšie jablká.]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.layer3.content"><![CDATA[Vyberte si mláďa z inventára a porodte ho. Tip: Čím vyššia je úroveň chovu zvieraťa, tým rýchlejšie môžete zapnúť svetlá!]]></item>
+      <item name="zoo.window.infoLayers.christmas2012Comic.multiplayer.bubble"><![CDATA[Tu musia všetci riaditelia zoo spolupracovať: Predávajte zvieratá zo svojho inventára za zoogros. Spoločne krok za krokom rozsvietite stromček a vyhráte skvelé vianočné ceny.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentines2013Comic">
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer1.bubble"><![CDATA[Vitajte na valentínskej akcii! Od 14. do 25. februára sa pripravte na poriadnu romantiku! Zahrajte si našu valentínsku hru a vyhrajte skvelé ceny!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká, zbierajte koláčiky, balóniky v tvare srdca a pohľadnice. Prejdite si hracie pole krok za krokom a po ceste získajte odmeny. Hlavnou cenou budú bociany pre vašu zoo!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.layer3.content"><![CDATA[Zahrajte si toľko kôl, koľko chcete. Budete potrebovať viac vyskakovacích predmetov, ale zvýši to vaše šance na získanie viacerých odmien!]]></item>
+      <item name="zoo.window.infoLayers.valentines2013Comic.multiplayer.bubble"><![CDATA[Nezabudnite: všetci riaditelia zoo hrajú spolu. Predávajte zvieratá zo svojho inventára za zoogross. Prepracujte sa na vrchol plyšovej hory, kde na vás ako odmenu čakajú mačky margay!]]></item>
+      <item name="zoo.window.infoLayers.valentines.multiplayer.success"><![CDATA[Gratulujeme! Dosiahli ste vrchol plyšovej kopy a po ceste ste získali odmeny.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easterEvent2013Comic">
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer1.bubble"><![CDATA[Vitajte na Veľkonočnej akcii v zoo! Od 27. marca do 8. apríla sa vaša zoo premení na farebnú dúhu! Zbierajte farebné kuriatka v našej veľkonočnej hre a vymeňte ich za skvelé ceny!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a pri práci zbierajte farebné kuriatka! Krok za krokom prejdite po hracej ploche a po ceste zbierajte všetky odmeny. Hlavnou cenou bude emu!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Získajte skvelé ceny v každom kole.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013Comic.multiplayer.bubble"><![CDATA[Nezabudnite: všetci riaditelia zoo hrajú spolu. Predávajte zvieratá zo svojho inventára za zoogross. Dosiahnite vrchol plyšovej kopy a ak sa vám to podarí, vyhráte sladký pár mravčiarov!]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.intro"><![CDATA[Predajte zvieratá vo svojom inventári a spolu vylezte na plyšovú horu.]]></item>
+      <item name="zoo.window.infoLayers.easterEvent2013.multiplayer.success"><![CDATA[Gratulujeme! Dosiahli ste vrchol plyšovej kopy a po ceste ste získali odmeny.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.frenchEvent2013Comic">
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer1.bubble"><![CDATA[Vitajte na podujatí Francúzska zoo! Od 11. do 16. júla sa vydáme na výlet do Francúzska! Zbierajte predmety pre našu francúzsku hru a vymeňte ich za fantastické odmeny!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratá a zbierajte praskajúce predmety. Prejdite si herné pole krok za krokom a po ceste získajte odmeny. Hlavnou cenou sú muflóny!]]></item>
+      <item name="zoo.window.infoLayers.frenchEvent2013Comic.layer3.content"><![CDATA[Zahrajte si toľko kôl, koľko chcete. V každom kole nájdete zábavné ceny.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthdayEvent2013Comic">
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer1.content"><![CDATA[Hurá! Na oslavu našich 3. narodenín sme pripravili strelecký festival: strieľajte balóny od 15. do 28. augusta a sledujte, ako na vás pršia odmeny! Každý deň dostanete šípky zadarmo.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer2.content"><![CDATA[Vložte balóny do spoločenskej hry. Každý vhodený balón vás priblíži k výhre. Vyhrajte senzačné narodeninové dekorácie a nové zvieratká.]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.layer3.content"><![CDATA[Zahrajte si toľko kôl, koľko chcete. Tip: Prihláste sa každý deň a získajte ešte viac šípok s denným bonusom za prihlásenie!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.over"><![CDATA[Na tento krok stále potrebujete balóny (počet: %count %). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.birthdayEvent2013Comic.info.default"><![CDATA[Tadiaľto na strelecký festival! Prasknite balóny a vyhrajte skvelé ceny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.hungaryEvent2013Comic">
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer1.bubble"><![CDATA[Vitajte na maďarskom podujatí v zoo! Poďte s nami na výlet do Maďarska od 12. do 24. septembra! Zbierajte papriky pre našu maďarskú hru a vymeňte ich za fantastické ceny!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a zbierajte papriky. Prejdite krok za krokom herným poľom a získajte odmeny. Hlavnou cenou sú nové zvieratá!]]></item>
+      <item name="zoo.window.infoLayers.hungaryEvent2013Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Malé upozornenie: Papriky sa budú objavovať do 23. septembra do 12:00. Obchodovať s nimi však môžete do 24. septembra.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2013Comic">
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer1.bubble"><![CDATA[Och áno! Tie nezbedné tučniaky sa hrali s magickými runami a podarilo sa im utiecť! Tam sú Flubber, Larry a Swabby! Použi plazmovú guľu a rýchlo ich chytaj skôr, ako sa pustia do nejakej neplechy!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer2.content"><![CDATA[Pomôž dobrému Booovi chytiť duchov. Doruč ich na hraciu plochu a vyhraj desivé ceny!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.layer3.content"><![CDATA[Každý deň, keď sa prihlásite do hry, vám Boo dá plazmové guľôčky na lov duchov. Tip: Starajte sa o svoje zvieratá a plazmové guľôčky budú vyskakovať z ich domovov. Veľa šťastia!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.over"><![CDATA[Na tento krok stále potrebujete duchov (počet: %count %). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.halloween2013Comic.info.default"><![CDATA[Pošlite sem svojich duchov a vyhrajte skvelé ceny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.thanksGiving2013Comic">
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer1.bubble"><![CDATA[Vitajte na oslave Dňa vďakyvzdania v zoo! Tentoraz budeme oslavovať v USA! Zbierajte farebné listy a vymeňte ich za skvelé odmeny.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a zbierajte farebné listy. Prejdite krok za krokom herným poľom a cestou získajte odmeny. Hlavnou cenou sú nové zvieratá pre vašu zoo!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Majte na pamäti, že listy budú padať až do konca udalosti, ale stále si ich môžete vymeniť 24 hodín po nej.]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.over"><![CDATA[Na tento krok stále potrebujete listy (počet: %count%). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.thanksGiving2013Comic.info.default"><![CDATA[Pošlite sem svoje listy a vyhrajte skvelé ceny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2013Comic">
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer1.bubble"><![CDATA[Hohoho! Vianoce sa blížia do zoo! Od 19. decembra do 7. januára môžete vo svojej zoo zbierať vianočné ozdoby a vymieňať ich za farebné taniere so zimnými zvieratkami a vianočné dekorácie.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a z ich domovov budú vyskakovať farebné dekorácie. Krok za krokom sa pohybujte po hracej ploche a vymieňajte dekorácie za sviatočné odmeny.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Majte na pamäti, že dekorácie sa budú objavovať do 12:00 6. januára, ale vymeniť si ich môžete do 12:00 7. januára.]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.over"><![CDATA[Na tento krok stále potrebujete dekorácie (počet: %count %). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.xmas2013Comic.info.default"><![CDATA[Pošlite sem svoje dekorácie a vyhrajte skvelé ceny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.egypt2014Comic">
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer1.bubble"><![CDATA[Cestujte s nami do Orientu: Objavte staroveký Egypt, zbierajte cenné skarabeje a vymieňajte si ich v egyptskej stolovej hre.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratá a zbierajte farebné skarabeje, ktoré budú vyskakovať z vašich výbehov. Postupujte hernou doskou a vymieňajte ozdoby za orientálne odmeny.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Majte na pamäti, že skarabeji sa budú objavovať až do konca udalosti. Môžete si ich však vymeniť aj 24 hodín po nej.]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.over"><![CDATA[Na tento krok stále potrebujete skarabeje (počet: %count %). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.egypt2014Comic.info.default"><![CDATA[Doručte sem svojich skarabeov a vyhrajte skvelé odmeny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014Comic">
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer1.bubble"><![CDATA[Získajte všetky srdiečka: Zbierajte karty od 21. februára do 10. marca v našej valentínskej stolovej hre!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a zbierajte farebné karty, ktoré budú vyskakovať z vašich výbehov. Prejdite krok za krokom hernú dosku a vymeňte ich za romantické ceny.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Majte na pamäti, že karty sa budú objavovať do 12:00 10. marca, ale vymeniť si ich môžete do 12:00 11. marca.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.over"><![CDATA[Na tento krok stále potrebujete pohľadnice (počet: %count %). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Comic.info.default"><![CDATA[Pošlite sem svoje želania a vyhrajte skvelé ceny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityComic">
+      <item name="zoo.window.infoLayers.valentine2014CommunityComic.multiplayer.bubble"><![CDATA[Nezabudnite: všetci riaditelia zoo hrajú spolu. Predávajte zvieratá zo svojho inventára za zoogros. Dosiahnite vrchol plyšovej hory - na každej úrovni na vás čakajú skvelé ceny!]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.success"><![CDATA[Gratulujem, dokázali ste to! Dostali ste sa na vrchol kôpky srdiečok a cestou ste vyhrali odmeny.]]></item>
+      <item name="zoo.window.infoLayers.valentine2014Community.multiplayer.intro"><![CDATA[Vymeňte tu svoje zvieratá a získajte sladké odmeny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2014Comic">
+      <item name="zoo.window.infoLayers.easter2014Comic.layer1.bubble"><![CDATA[Od 10. do 28. apríla 2014 bude vaša zoo v plnom kvete: Príďte sa zabaviť na našej fantastickej veľkonočnej akcii! Na veľkonočnej spoločenskej hre na vás čaká množstvo veľkonočných prekvapení a úplne nových zvieratiek!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a zbierajte farebné veľkonočné vajíčka, ktoré budú vyskakovať z vašich výbehov. Prejdite krok za krokom herným poľom a vymeňte vajíčka za super jarné odmeny.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Majte na pamäti, že veľkonočné vajíčka sa budú objavovať do 28. apríla do 12:00, ale vymeniť si ich môžete do 29. apríla do 12:00.]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.over"><![CDATA[Na tento krok stále potrebujete veľkonočné vajíčka (počet: %count%). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.easter2014Comic.info.default"><![CDATA[Doručte sem svoje veľkonočné vajíčka a vyhrajte skvelé ceny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.summer2014Comic">
+      <item name="zoo.window.infoLayers.summer2014Comic.layer1.bubble"><![CDATA[Futbalová horúčka vo vašej zoo od 19. júna do 1. júla! Cestujte s nami do Brazílie: V našej spoločenskej hre na vás čaká samba, futbal, brazílsky rytmus a úplne nové zvieratá!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a zbierajte farebné koktailové ovocie, ktoré bude vyskakovať z vašich terás. Prejdite krok za krokom hernú dosku a vymeňte koktaily za super letné odmeny.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Majte na pamäti, že koktailové ovocie sa bude objavovať do 30. júna do 12:00, ale vymeniť si ho môžete do 1. júla do 12:00.]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.over"><![CDATA[Na tento krok stále potrebujete kokteilové ovocie (počet: %count %). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.summer2014Comic.info.default"><![CDATA[Vymeňte si tu kokteilové ovocie za super odmeny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.birthday2014Comic">
+      <item name="zoo.window.infoLayers.bday2014Comic.layer1.bubble"><![CDATA[Veľká narodeninová oslava od 19. augusta do 2. septembra! V našej spoločenskej hre na vás čaká množstvo fantastických prekvapení!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer2.content"><![CDATA[Vložte balóny do spoločenskej hry. Každý vhodený balón vás priblíži k výhre. Vyhrajte senzačné narodeninové dekorácie a nové zvieratká.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Pamätajte: Balóny zo svojich teráriumov môžete zbierať iba do 27. augusta, 12:00. Potom máte 24 hodín na ich použitie.]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.over"><![CDATA[Na tento krok stále potrebujete balóny (počet: %count %). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.bday2014Comic.info.default"><![CDATA[Vložte balóny a vyhrajte skvelé ceny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2014Comic">
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer1.bubble"><![CDATA[Oslavujte s nami Halloween od 30. októbra do 10. novembra! V našej spoločenskej hre na vás čaká množstvo fantastických prekvapení!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a zbierajte sliz, ktorý bude vyskakovať z vašich obydlí. Krok za krokom prejdite po hracom poli a vymeňte sliz za strašidelné a úžasné odmeny.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Majte na pamäti, že slizové muchy sa budú objavovať iba do 12:00 10. novembra. Potom máte 24 hodín na ich spotrebovanie.]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.over"><![CDATA[Na tento krok stále potrebujete slizké komáre (počet: %count %). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.halloween2014Comic.info.default"><![CDATA[Pošlite sem svoje formičky na sliz a vyhrajte skvelé ceny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recyclingComic">
+      <item name="zoo.window.infoLayers.recyclingComic.layer1.bubble"><![CDATA[Je neuveriteľné, čo všetko ľudia vyhadzujú! V odpade je toľko cenných surovín: Triedte odpad na opätovné použitie. Pomôžte životnému prostrediu aj sebe!]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer2.content"><![CDATA[Všetok vyzbieraný odpad končí priamo v recyklačnom zariadení. Vyberte si surovinu, ktorú chcete z odpadu vyrobiť.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer3.content"><![CDATA[Vyberte si, koľko vecí chcete z vybraných materiálov vyrobiť. Uistite sa, že máte dostatok šrotu a zoogrov na ich výrobu.]]></item>
+      <item name="zoo.window.infoLayers.recyclingComic.layer4.content"><![CDATA[Okrem bežných zdrojov budete potrebovať aj vzácne zdroje. Použitie super filtra zvýši vašu šancu na získanie vzácneho zdroja z recyklácie.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.craftingComic">
+      <item name="zoo.window.infoLayers.craftingComic.layer1.bubble"><![CDATA[Ahoj, volám sa Inga Neer. Pomôžem ti s výrobou nových predmetov z rôznych surovín. Najprv však potrebuješ plán. Stavebné plány sú k dispozícii a nájdete ich v celej zoo: pri postupe na vyššiu úroveň, z dielikov puzzle a ocenení, zo zbierok, na safari alebo na kolese šťastia.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer2.content"><![CDATA[Všetky stavebné plány sú uložené v dielni. Jednoducho otvorte kategóriu a pozrite si, aké plány už máte.]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer3.content"><![CDATA[Zelená značka začiarknutia vám ukáže, či máte všetky ingrediencie. Ak áno, môžete začať!]]></item>
+      <item name="zoo.window.infoLayers.craftingComic.layer4.content"><![CDATA[Ak chcete, aby sa vaši pracovníci ponáhľali, vyskúšajte „Craftsman Booster“. Pridajte ho tam a teraz budú pracovať dvakrát rýchlejšie! S dolármi zo Zoo môžete dokončiť výrobu raz-dva.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.recylingcraftingunlock">
+      <item name="zoo.window.infoLayers.recylingcraftingunlock.info"><![CDATA[Recyklujte odpad vo svojej zoo a postavte niečo nové! Recyklačné zariadenie a dielňa sú teraz k dispozícii. Kliknite na modrého slona: Budovy nájdete v riadiacom centre.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.toolchange">
+      <item name="zoo.window.infoLayers.toolchange.info"><![CDATA[Výstavba recyklačného zariadenia a dielne si vyžadovala veľa nástrojov, ktoré ste tiež zozbierali. Aby ste sa uistili, že vám chýbajú, za nazbierané nástroje vám dáme skúsenostné body.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.xmas2014Comic">
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer1.bubble"><![CDATA[Veselé Vianoce! Od 11. do 29. decembra budú tučniaky zdobiť vianočný krb. Čím viac predmetov v zoo nazbierate, tým krajšia bude. Zahrajte si spoločenskú hru a vyhrajte vianočné prekvapenie!]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a zbierajte vianočné maškrty, ktoré budú vyskakovať z ich výbehov. Krok za krokom sa prechádzajte po hracom poli a vymieňajte ich za sviatočné odmeny.]]></item>
+      <item name="zoo.window.infoLayers.xmas2014Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Majte na pamäti, že vianočné darčeky sa budú objavovať iba do 29. decembra do 12:00. Potom máte 24 hodín na ich spotrebovanie.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.boardgame">
+      <item name="zoo.window.infoLayers.boardgame.info.over"><![CDATA[Na dokončenie tohto kroku je stále potrebné vložiť %count%x %collectitem%. Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.boardgame.info.default"><![CDATA[Tu si môžete vymeniť propagačné predmety za skvelé odmeny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Comic">
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer1.bubble"><![CDATA[Stále hľadáte muža alebo ženu svojich snov? Zahrajte si valentínsku spoločenskú hru od 12. do 23. februára 2015!]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a zbierajte lekná, ktoré vyliezajú z výbehov. Krok za krokom sa prechádzajte po hracom poli a vymieňajte ich za sviatočné odmeny.]]></item>
+      <item name="zoo.window.infoLayers.valentine2015Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Majte na pamäti, že lekná sa objavia iba do 23. februára do 12:00. Potom máte 24 hodín na ich spotrebovanie.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2015Board">
+      <item name="zoo.window.infoLayers.valentine2015Board.title"><![CDATA[Valentín]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2014CommunityBoard">
+      <item name="zoo.window.infoLayers.valentine2014CommunityBoard.title"><![CDATA[Plyšová hora]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2015Comic">
+      <item name="zoo.window.infoLayers.easter2015Comic.layer1.bubble"><![CDATA[V kurníku sa deje niečo zvláštne. Veľkonočný zajačik mešká a potrebuje pomoc! Vkradnite sa do kurníka a pozbierajte vajíčka! Veľkonočný zajačik vám bude vďačný!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a zbierajte farebné veľkonočné zajačiky, ktoré budú vyskakovať z vašich terás. Prejdite krok za krokom hernú dosku a vymeňte ich za veselé odmeny.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Majte na pamäti, že veľkonočné zajačiky budú vyskakovať z vašich terárium až do konca udalosti. Môžete ich však použiť ešte 24 hodín po nej na získanie odmien.]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.over"><![CDATA[Na tento krok stále potrebujete veľkonočné zajačiky (počet: %count %). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.easter2015Comic.info.default"><![CDATA[Doručte sem svoje veľkonočné zajačiky a vyhrajte skvelé ceny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Board">
+      <item name="zoo.window.infoLayers.asia2015Board.title"><![CDATA[Cesta do Ázie]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.asia2015Comic">
+      <item name="zoo.window.infoLayers.asia2015Comic.layer1.bubble"><![CDATA[Vydajte sa s nami do Ázie na Dračí tanec! Zbierajte farebné lampáše, ktoré rozžiaria vašu oslavu. Nech vás vodný drak požehná!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratá a zbierajte farebné lampióny, ktoré vyskakujú z vašich výbehov. Postupujte hernou doskou a vymieňajte lampióny za exotické odmeny.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.layer3.content"><![CDATA[Odohrajte toľko kôl, koľko chcete. Majte na pamäti, že lampáše sa budú objavovať až do konca udalosti. Môžete si ich však vymeniť ešte 24 hodín po nej.]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.over"><![CDATA[Na tento krok stále potrebujete lampáše (počet: %count %). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.asia2015Comic.info.default"><![CDATA[Pošlite sem svoje lampáše a vyhrajte skvelé ceny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Board">
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Výlet do Austrálie]]></item>
+      <item name="zoo.window.infoLayers.australian2015Board.title"><![CDATA[Výlet do Austrálie]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.australian2015Comic">
+      <item name="zoo.window.infoLayers.australian2015Comic.layer1.bubble"><![CDATA[Zoomumba má 5 rokov! Hip, hip, hurá! Pridajte sa k nám v austrálskej divočine a vyhrajte úžasné ceny: Strieľajte balóny a prepašujte sa austrálskou divočinou ako Krokodíl Dundee. Hurá!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratá a zbierajte šípy, ktoré budú vyskakovať z vašich výbehov. Použite ich na zostrelenie balónov. Prejdite krok za krokom herným poľom a vymieňajte balóny za odmeny.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.layer3.content"><![CDATA[Zahrajte si toľko kôl, koľko chcete. Majte na pamäti, že šípky vám budú padať z ohrad až do konca udalosti. Balóny však môžete strieľať ešte 24 hodín potom.]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.over"><![CDATA[Na tento krok stále potrebujete balóny (počet: %count %). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.australian2015Comic.info.default"><![CDATA[Vložte balóny a vyhrajte skvelé ceny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Board">
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Halloween]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Board.title"><![CDATA[Halloween]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.halloween2015Comic">
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer1.bubble"><![CDATA[Abrakadabra! Ale nie! Ktorý zlý čarodejník premenil malého Perryho na obrovskú tekvicu? Skúste nájsť protijed a pomôcť Perrymu. Od 29. októbra do 9. novembra budete môcť vyskúšať všetky magické elixíry!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratá a zbierajte elixíry, ktoré budú vyskakovať z vašich terás. Prejdite krok za krokom hernou doskou a vymeňte elixíry za odmeny.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Majte na pamäti, že elixíry sa budú objavovať až do konca udalosti. Môžete si ich však vymeniť aj 24 hodín po nej.]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.over"><![CDATA[Na tento krok stále potrebujete magické elixíry (počet: %count %). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.halloween2015Comic.info.default"><![CDATA[Doručte sem svoje elixíry a vyhrajte skvelé odmeny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.winter2015Comic">
+      <item name="zoo.window.infoLayers.winter2015Comic.layer1.bubble"><![CDATA[Veselé Vianoce! Tučniaky si chcú vyzdobiť krb na Štedrý večer. Čím viac vianočných sviečok nazbierate, tým útulnejšie sa budú cítiť. V spoločenskej hre môžete vyhrať zimné prekvapenie!]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a zbierajte farebné vianočné sviečky, ktoré budú vyskakovať z výbehov. Prejdite krok za krokom hracím poľom a vymeňte ich za fantastické odmeny.]]></item>
+      <item name="zoo.window.infoLayers.winter2015Comic.layer3.content"><![CDATA[Dokončite toľko kôl, koľko chcete. Majte na pamäti, že vianočné sviečky budú vyskakovať z krytov až do konca podujatia, ale môžete si ich vymeniť ešte 24 hodín po ňom.]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.valentine2016Comic">
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer1.bubble"><![CDATA[Ahoj všetkým zaľúbencom! Láska sa šíri okolo nás, preto sme pre vás pripravili špeciálnu akciu s množstvom krásnych odmien. Máme aj nového domáceho miláčika - pruhovaného munga, nové romantické dekorácie a dva nové obchody!]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a zbierajte farebné plyšové medvedíky, ktoré budú vyskakovať z výbehov. Vráťte ich, postupne sledujte cestu lásky v spoločenskej hre a zbierajte odmeny.]]></item>
+      <item name="zoo.window.infoLayers.valentine2016Comic.layer3.content"><![CDATA[Keď sa dostanete na koniec cesty, hracia doska sa vynuluje a môžete hrať ďalšie kolo. Medvede sa budú objavovať až do konca udalosti. Potom máte 24 hodín na ich použitie!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.easter2016Comic">
+      <item name="zoo.window.infoLayers.easter2016Comic.layer1.bubble"><![CDATA[V kurníku sa deje niečo zvláštne. Veľkonočný zajačik mešká a potrebuje pomoc! Vkradnite sa do kurníka a pozbierajte vajíčka! Veľkonočný zajačik vám bude vďačný!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká a zbierajte farebné veľkonočné zajačiky, ktoré budú vyskakovať z vašich terás. Prejdite krok za krokom hernú dosku a vymeňte ich za veselé odmeny.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.layer3.content"><![CDATA[Hrajte toľko kôl, koľko chcete. Majte na pamäti, že veľkonočné zajačiky budú vyskakovať z vašich terárium až do konca udalosti. Môžete ich však použiť ešte 24 hodín po nej na získanie odmien.]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.over"><![CDATA[Na tento krok stále potrebujete veľkonočné zajačiky (počet: %count %). Poponáhľajte sa a získajte svoju odmenu!]]></item>
+      <item name="zoo.window.infoLayers.easter2016Comic.info.default"><![CDATA[Doručte sem svoje veľkonočné zajačiky a vyhrajte skvelé ceny!]]></item>
+    </category>
+    <category name="zoo.window.infoLayers.OceanComic">
+      <item name="zoo.window.infoLayers.OceanComic.layer1.bubble"><![CDATA[Ahoj, volám sa Janička a trénujem morské cicavce. Spoločne postavíme tú najlepšiu vodnú zoo vôbec!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer1.content"><![CDATA[Sonya a tučniaky našli starý aquapark za skrytou zoologickou záhradou. Veľa z neho nezostalo, ale voda vyzerá úžasne. Poďme ho zrekonštruovať!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer2.content"><![CDATA[Budeme musieť všetko postaviť! Tučniaky našli nejaké plány a materiály v starej chatrči na pláži. Začnime stavbou prvého vodného biotopu a móla.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer3.content"><![CDATA[Vodné biotopy sú k dispozícii v troch veľkostiach, aby sa v nich všetky vodné živočíchy cítili ako doma. Zvieratá si môžete zaobstarať v obchode Seafari alebo si ich kúpiť v plážovej chatke!]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer4.content"><![CDATA[Zabezpečte si pomoc od celého podvodného tímu! Jindra donesie jedlo a Matěj vodu. Franta vyčistí filtre a ja sa budem hrať so zvieratkami.]]></item>
+      <item name="zoo.window.infoLayers.OceanComic.layer5.content"><![CDATA[Udržujte vodu v nádržiach čistú a zbierajte viac perál! Perly môžu ešte viac skrášliť biotopy.]]></item>
+      <category name="zoo.window.infoLayers.oceanWorld2016Board">
+        <item name="zoo.window.infoLayers.oceanWorld2016Board.title"><![CDATA[Narodeniny]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.oceanWorld2016Comic">
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer1.bubble"><![CDATA[Ahoj! Podmorský svet je v plnom prúde, a tak sme pre vás pripravili špeciálnu potápačskú akciu! Čakajú na vás morské koníky, úplne nový výbeh Tiki Bay, nové obchody a dekorácie!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratá ako zvyčajne a zbierajte farebné hviezdice, ktoré vyskakujú z vašich terárium. Preskúmajte podvodné zóny na hernej doske a získajte odmeny!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.layer3.content"><![CDATA[Keď preskúmate všetky zóny, hracia doska sa resetuje a môžete sa znova potápať! Hviezdice sa budú objavovať až do konca udalosti. Potom budete mať 24 hodín na ich použitie.]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.over"><![CDATA[Pre tento krok stále potrebujete hviezdičky (počet: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.oceanWorld2016Comic.info.default"><![CDATA[Vymeňte si tu svoje hviezdičky za úžasné odmeny!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.monkey2016Comic">
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer1.bubble"><![CDATA[Opice niečo chystajú... Pomôžte im s ich neplechami v našej novej stolovej hre! Získajte odmeny vrátane nových obchodov a dekorácií pre vašu zoo!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratá ako zvyčajne a zbierajte farebnú zeleninu, ktorá vyliezá z vašich terárium. Dajte každej surikate maškrtu a získajte odmeny.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.layer3.content"><![CDATA[Keď spôsobíte neplechu každej surikate, hracia doska sa vynuluje a môžete začať odznova! Zelenina sa bude objavovať až do konca udalosti. Potom budete mať 24 hodín na jej použitie.]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.over"><![CDATA[Na tento krok stále potrebujete zeleninu (počet: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.monkey2016Comic.info.default"><![CDATA[Vymeňte si tu svoju zeleninu za skvelé odmeny!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Board">
+        <item name="zoo.window.infoLayers.halloween2016Board.title"><![CDATA[Húkus pókus]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.halloween2016Comic">
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer1.bubble"><![CDATA[Čo tu robia tieto záhadné elixíry? Zistite, na čo slúžia, a získajte odmeny vrátane exkluzívnych halloweenskych predmetov pre vašu zoo!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratá ako zvyčajne a zbierajte farebné fľaše, ktoré vyskakujú z vašich terás. Otvárajte ich na hernej doske a získajte odmeny.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.layer3.content"><![CDATA[Keď otvoríte všetky fľaše, hracia doska sa resetuje a môžete začať odznova! Fľaše sa budú objavovať až do konca udalosti. Potom budete mať 24 hodín na ich použitie.]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.over"><![CDATA[Na tento krok stále potrebujete fľaše (počet: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.halloween2016Comic.info.default"><![CDATA[Vymeňte si tu fľaše za skvelé odmeny!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.winter2016Comic">
+        <item name="zoo.window.infoLayers.winter2016Comic.layer1.bubble"><![CDATA[Vianoce sú tu! V zoo padá sneh a zvieratá píšu list Santovi. Veselé Vianoce! Tučniaky zdobia krb a potrebujú pomoc! Získajte vianočné predmety hraním spoločenskej hry!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratá ako zvyčajne a zbierajte perníkových mužíkov, ktorí budú vyskakovať z vašich výbehov. Cestujte po hernej doske a zbierajte ceny.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.layer3.content"><![CDATA[Po dokončení hry sa hracia doska vynuluje a môžete začať odznova! Perníkových mužíkov môžete zbierať až do konca udalosti. Potom budete mať 24 hodín na ich použitie.]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.over"><![CDATA[Na tento krok stále potrebujete perníčkov (počet: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.winter2016Comic.info.default"><![CDATA[Vymeňte si tu svojich perníkových mužíkov za úžasné odmeny!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Comic">
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer1.bubble"><![CDATA[Ahoj! Hľadáš lásku? Zahraj si našu valentínsku spoločenskú hru a získaj kopec predmetov pre Podmorský svet. Možno práve na ceste lásky nájdeš svoju pravú lásku.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratká ako zvyčajne a zbierajte farebné mušle, ktoré budú vyskakovať z vašich terás. Cestujte po hernej doske a zbierajte ceny.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.layer3.content"><![CDATA[Po dokončení hry sa hracia doska vynuluje a môžete začať odznova! Mušle sa budú objavovať až do konca udalosti. Potom budete mať 24 hodín na ich použitie.]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.over"><![CDATA[Pre tento krok stále potrebujete shell (počet: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.valentine2017Comic.info.default"><![CDATA[Vymeňte si tu mušle za úžasné odmeny!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.valentine2017Board">
+        <item name="zoo.window.infoLayers.valentine2017Board.title"><![CDATA[Valentín]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Comic">
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer1.bubble"><![CDATA[Vydajte sa s nami do Kambodže a vydajte sa do hlbín tropických lesov. Zbierajte masky khmérov a objavte tajomstvá starovekých khmérskych chrámov. Čaká na vás bohatstvo a dobrodružstvo!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer2.content"><![CDATA[Starajte sa o svoje zvieratá ako zvyčajne a zbierajte masky khon, ktoré budú vyskakovať z vašich výbehov. Cestujte po hernej doske a zbierajte ceny.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.layer3.content"><![CDATA[Po dokončení hry sa hracia doska vynuluje a môžete začať odznova! Khonove masky sa budú objavovať až do konca udalosti. Potom budete mať 24 hodín na ich použitie.]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.over"><![CDATA[Pre tento krok stále potrebujete khon masky (počet: %count%)!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.default"><![CDATA[Pošlite sem svoje khon masky a vyhrajte skvelé ceny!]]></item>
+      </category>
+      <category name="zoo.window.infoLayers.cambodia2017Board">
+        <item name="zoo.window.infoLayers.cambodia2017Board.title"><![CDATA[Výlet do Kambodže]]></item>
+      </category>
+    </category>
+  </category>
+</language>

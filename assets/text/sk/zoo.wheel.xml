@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.wheel">
+    <category name="zoo.wheel.freeturn">
+      <item name="zoo.wheel.freeturn.title"><![CDATA[Extra pokus]]></item>
+      <item name="zoo.wheel.freeturn.text.1"><![CDATA[Paráda, máš jeden pokus navyše!<br> Za každý deň prihlásenia získaš jedno roztočenie na kolese šťastia navyše.]]></item>
+      <item name="zoo.wheel.freeturn.text.2"><![CDATA[Kliknite a skúste šťastie!]]></item>
+      <item name="zoo.wheel.freeturn.text.3"><![CDATA[Alebo kliknite na budovu so šťastným kolesom v meste. Každé roztočenie zaručuje skvelé odmeny!]]></item>
+    </category>
+    <category name="zoo.wheel.extraturn">
+      <item name="zoo.wheel.extraturn.title"><![CDATA[Ďalšie pokusy]]></item>
+      <item name="zoo.wheel.extraturn.text"><![CDATA[Chceli by ste si kúpiť ďalší pokus?]]></item>
+    </category>
+    <category name="zoo.wheel.price">
+      <item name="zoo.wheel.price.title"><![CDATA[Gratulujem!]]></item>
+      <item name="zoo.wheel.price.text.1"><![CDATA[Paráda! Vyhrali ste:]]></item>
+      <item name="zoo.wheel.price.text.2"><![CDATA[Roztočte znova, vyhrať môžete iba na kolese šťastia!]]></item>
+    </category>
+    <category name="zoo.wheel.assistant">
+      <item name="zoo.wheel.assistant.1.hour.1"><![CDATA[Kŕmidlo John na 1 hodinu]]></item>
+      <item name="zoo.wheel.assistant.2.hour.1"><![CDATA[Dodávateľ vody Paul na 1 hodinu]]></item>
+      <item name="zoo.wheel.assistant.3.hour.1"><![CDATA[Školník Stanley na 1 hodinu]]></item>
+      <item name="zoo.wheel.assistant.4.hour.1"><![CDATA[Chovateľka Sonja na 1 hodinu]]></item>
+      <item name="zoo.wheel.assistant.5.hour.1"><![CDATA[Zberač odpadu George na 1 hodinu]]></item>
+      <item name="zoo.wheel.assistant.6.hour.1"><![CDATA[Pokladník/Pokladníčka na 1 hodinu]]></item>
+      <item name="zoo.wheel.assistant.1.hour.3"><![CDATA[Kŕmič John na 3 hodiny]]></item>
+      <item name="zoo.wheel.assistant.2.hour.3"><![CDATA[Dodávateľ vody Paul na 3 hodiny]]></item>
+      <item name="zoo.wheel.assistant.3.hour.3"><![CDATA[Školník Stanley na 3 hodiny]]></item>
+      <item name="zoo.wheel.assistant.4.hour.3"><![CDATA[Chovateľka Sonja na 3 hodiny]]></item>
+      <item name="zoo.wheel.assistant.5.hour.3"><![CDATA[Zberač odpadu George na 3 hodiny]]></item>
+      <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Pokladník/Pokladníčka, 3 hodiny]]></item>
+    </category>
+    <category name="zoo.wheel.extra">
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[30% bonus k EP na celých 8 hodín!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100% bonus k EP na celých 8 hodín!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50% bonus k labkám počas celých 5 hodín!]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Ahoj! Volám sa Soňa Starostlivá a pracujem ako zdravotná sestra v zoo. Tešíte sa na chov nových roztomilých mláďat? Vysvetlím vám, ako to funguje! Najprv sa musíte rozhodnúť, aký druh zvieraťa chcete chovať.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Vyberte si z inventára dve dospelé zvieratá, ktoré sa stanú rodičmi. Čím sú vzácnejšie, tým je pravdepodobnejšie, že budú mať ešte vzácnejšie mláďa. Rodičia však musia počas tohto rozmnožovania zostať so mnou.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Používanie ďalších nazbieraných predmetov, silného krmiva, superkrmiva alebo superliekov zvýši vaše šance na vychovanie obzvlášť vzácneho mláďaťa. Čím viac srdiečok má predmet, tým väčšia je šanca!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[S prípravami ste takmer hotoví! Predtým, ako sa to všetko začne, si ešte raz skontrolujte svoje nastavenia. Chcete niečo zmeniť? Žiadny problém, stačí použiť tlačidlo „Späť“!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[V šľachtiteľskom experimente boli použité nasledujúce zvieratá a položky:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Chovná stanica pripravená]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Tu sa chová]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Narodilo sa dieťa!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Bábätká sú tu!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Začať s chovom]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Použite esenciu]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Naozaj chcete začať s chovom bez akýchkoľvek doplnkov? Dobre si to premyslite – s doplnkami máte väčšiu šancu získať vzácneho potomka.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Si uprostred príprav. Naozaj chceš opustiť chovnú stanicu?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Chovná stanica]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Tieto zvieratá práve teraz rodia mláďatá:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Zostávajúci čas:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Esencia Tolije]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Tolijina esencia skracuje čas rozmnožovania o 50%.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hurá - máš bábätko! Toto roztomilé drobčeko nájdeš vo svojom inventári:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hurá - máš dieťa! Tohto roztomilého škriatka nájdeš vo svojom inventári:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Presuňte malého do zvieracej škôlky, aby vyrástol.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Prineste tie najmenšie do zvieracej škôlky, aby mohli vyrásť.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Upozornenie: Chov práve prebieha! Ak teraz presuniete stanicu do inventára, proces sa preruší a stratíte všetky zvieratá a doplnky. Naozaj ju chcete teraz presunúť?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Upozornenie: Chov práve prebieha! Ak stanicu teraz predáte, proces sa preruší a všetky zvieratá a doplnky budú stratené. Ste si istý/á, že chcete stanicu teraz predať?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Ak je proces rozmnožovania dokončený po skončení udalosti, dostanete iba 1 mláďa.]]></item>
+    </category>
+  </category>
+</language>

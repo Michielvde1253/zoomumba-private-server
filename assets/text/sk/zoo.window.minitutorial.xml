@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.minitutorial">
+    <item name="zoo.window.minitutorial.title"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.minitutorial.infopage.1"><![CDATA[Vitajte v ZooMumba, vašom bláznivom zoo dobrodružstve! Volám sa Sonja a krok za krokom vás prevediem fungovaním hry.<br><br>V obchode si môžete kúpiť rôzne zvieracie teráriá a umiestniť ich na pozemku vašej zoo.]]></item>
+    <item name="zoo.window.minitutorial.infopage.2"><![CDATA[Kliknite na výbeh a kúpte si zviera. Nezabudnite si overiť, či kupujete samca alebo samicu.<br><br>Ak máte vo výbehu obe, čoskoro môžete očakávať mláďatá!]]></item>
+    <item name="zoo.window.minitutorial.infopage.3"><![CDATA[Pravidelne sa starajte o svoje zvieratá, túľte ich a hrajte sa s nimi. Takto budú šťastné a spokojné. Vyskúšajte to!]]></item>
+    <item name="zoo.window.minitutorial.infopage.4"><![CDATA[Svoje ohrady, budovy a atrakcie musíte prepojiť s chodníkmi vedúcimi k vchodu, aby si návštevníci mohli všetko vychutnať.]]></item>
+    <item name="zoo.window.minitutorial.infopage.5"><![CDATA[V obchode si zaobstarajte krmivo a všetko, čo si vaše zvieratá želajú: mäso, ovocie, trávu – stačí sa len poobzerať!]]></item>
+    <item name="zoo.window.minitutorial.infopage.6"><![CDATA[Od 2. úrovne môžete v obchode získať aj budovy a stánky, vďaka čomu bude vaša zoo ešte atraktívnejšia pre návštevníkov. <br><br>Získané vstupné si môžete pravidelne vyberať z hlavnej budovy.]]></item>
+    <item name="zoo.window.minitutorial.infopage.6b"><![CDATA[Začnete s niekoľkými ZooDollarmi. Použite ich na získanie skvelých zvierat a špeciálnych atrakcií alebo si najmete asistentov. Pomôžu vám s údržbou a starostlivosťou o vašu zoo. <br><br>A ak vám dôjdu ZooDollary, nebojte sa! Môžete si ich kedykoľvek dobiť v ZooBanke.]]></item>
+    <item name="zoo.window.minitutorial.infopage.7"><![CDATA[Čím viac návštevníkov privítate vo svojej zoo, tým viac odpadu budete musieť upratať. <br><br>Udržujte svoju zoo čistú a zbierajte odpadky. Vaši návštevníci to ocenia!]]></item>
+    <item name="zoo.window.minitutorial.infopage.8"><![CDATA[Čím viac spokojných návštevníkov má vaša zoo, tým vyššie sa vám bude zobrazovať zoometer. <br><br>Pusťte sa do práce a postavte najlepšiu zoo na svete - v ZooMumba! Zabavte sa!]]></item>
+  </category>
+</language>

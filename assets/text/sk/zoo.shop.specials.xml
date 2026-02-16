@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.shop.specials">
+    <category name="zoo.shop.specials.powerUps">
+      <item name="zoo.shop.specials.powerUps.9.title"><![CDATA[Posilňovač 30% EP]]></item>
+      <item name="zoo.shop.specials.powerUps.9.text"><![CDATA[S 30% boosterom získate o 30% viac BZ na 1 hodinu! Ak si kúpite 2 rovnaké boostery, čas sa predĺži. Tip: Jeden 30% BZ booster a jeden 100% BZ booster platia súčasne a odmenia vás o 130% viac BZ na celú 1 hodinu.]]></item>
+      <item name="zoo.shop.specials.powerUps.10.title"><![CDATA[100% posilňovač EP]]></item>
+      <item name="zoo.shop.specials.powerUps.10.text"><![CDATA[So 100% BZ boosterom získate o 100% viac BZ na celú 1 hodinu! Ak si kúpite 2 rovnaké boostery, čas sa predĺži. Tip: jeden 100% BZ booster a jeden 30% BZ booster platia súčasne, takže získate o 130% viac BZ na celú 1 hodinu!]]></item>
+      <item name="zoo.shop.specials.powerUps.11.title"><![CDATA[30% posilňovač labiek]]></item>
+      <item name="zoo.shop.specials.powerUps.11.text"><![CDATA[S 30% posilňovačom Paw získate o 30% viac Paws na celú 1 hodinu! Ak si kúpite 2 rovnaké boostery, čas sa predĺži. Tip: jeden 30% posilňovač Paw a jeden 100% posilňovač Paw platia súčasne, takže získate o 130% viac Paws na celú 1 hodinu!]]></item>
+      <item name="zoo.shop.specials.powerUps.12.title"><![CDATA[100% posilňovač labiek]]></item>
+      <item name="zoo.shop.specials.powerUps.12.text"><![CDATA[So 100% posilňovačom Paw získate o 100% viac Paws na celú 1 hodinu! Ak si kúpite 2 rovnaké boostery, čas sa predĺži. Tip: jeden 100% Paw Booster a jeden 30% Paw Booster platia súčasne, takže získate o 130% viac Paws na celú 1 hodinu!]]></item>
+      <item name="zoo.shop.specials.powerUps.13.title"><![CDATA[Posilňovač stolových hier]]></item>
+      <item name="zoo.shop.specials.powerUps.13.text"><![CDATA[S boosterom pre spoločenské hry získate dvojnásobné množstvo zberateľských predmetov, ktoré budú vyskakovať z boxov počas 1 hodiny! Ak chcete tento čas predĺžiť, kúpte si ďalšie boostery.]]></item>
+      <item name="zoo.shop.specials.powerUps.14.title"><![CDATA[30% zoocoin booster]]></item>
+      <item name="zoo.shop.specials.powerUps.14.text"><![CDATA[S 30% boosterom získate o 30% viac zoogrosov z obchodov na 1 hodinu! Ak si kúpite 2 rovnaké boostery, čas sa predĺži. Tip: Jeden 30% zoogros booster a jeden 100% zoogros booster platia súčasne a odmenia vás o 130% viac zoogrosov na celú 1 hodinu.]]></item>
+      <item name="zoo.shop.specials.powerUps.15.title"><![CDATA[100% zoocoin booster]]></item>
+      <item name="zoo.shop.specials.powerUps.15.text"><![CDATA[So 100% boosterom získate o 100% viac zoogrosov z vašich obchodov na 1 hodinu! Ak si kúpite 2 rovnaké boostery, čas sa predĺži. Tip: Jeden 100% zoogros booster a jeden 30% zoogros booster platia súčasne a odmenia vás o 130% viac zoogrosov na celú 1 hodinu.]]></item>
+      <item name="zoo.shop.specials.powerUps.16.title"><![CDATA[Podpora chovnej stanice]]></item>
+      <item name="zoo.shop.specials.powerUps.16.text"><![CDATA[Jednoducho získajte vzácne hybridy! Posilňovač z chovnej stanice zabezpečí, aby vaše mláďatá do 24 hodín dosiahli aspoň o jednu úroveň vyššiu ako najnižšiu úroveň jedného z ich rodičov. Ale buďte opatrní: Posilňovač funguje iba vtedy, ak si mláďa vyzdvihnete z chovnej stanice.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.avatar">
+    <item name="zoo.avatar.heads"><![CDATA[Vytvor si tu vlastný avatar a pochváľ sa ním pred priateľmi! Už si si vybral pohlavie? Potom sa rozhodni pre črty tváre!]]></item>
+    <item name="zoo.avatar.eyes"><![CDATA[Oko je oknom do duše! Ktoré vám najviac vyhovujú?]]></item>
+    <item name="zoo.avatar.mouths"><![CDATA[Úsmev, smiech, škerenie... Vaše ústa ukazujú ostatným, ako sa cítite!]]></item>
+    <item name="zoo.avatar.hair"><![CDATA[Farba vlasov a účes dokážu úplne zmeniť váš vzhľad!]]></item>
+    <item name="zoo.avatar.hats"><![CDATA[Pokrývka hlavy (?) vám môže dodať dôležitosť!]]></item>
+    <item name="zoo.avatar.clothes"><![CDATA[Vyberte si vhodný outfit do zoo.]]></item>
+  </category>
+</language>

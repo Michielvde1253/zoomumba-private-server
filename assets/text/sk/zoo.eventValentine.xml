@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Vitajte na našej valentínskej akcii! Od 8. do 15. februára vás čaká romantická atmosféra! Zabavte sa pri hraní našej valentínskej hry a tešte sa na množstvo skvelých cien!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Pozrite sa, ako to urobiť:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Starajte sa o svoje zvieratká a zbierajte valentínske predmety: srdiečka, ľúbostné odkazy a Amorov luk a šípy. Použite ich na výhru rozkošných prekvapení počas romantickej valentínskej hry!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[S nazbieranými predmetmi sa môžete pohybovať po hracom poli a zbierať ceny: Čakajú na vás majestátne jelene a zásoby esencie Tolija a rastových elixírov!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Pozrite sa aj do obchodu – nájdete tam užitočné boostery, ktoré vám zabezpečia ešte väčší úspech a zábavu v hre!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Zdvojnásobí počet položiek na Valentína na 1 hodinu.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Reštartujte stolovú hru]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Naša valentínska akcia sa blíži ku koncu! Už nedostanete žiadne mašle, listy ani srdiečka. Ale nevzdávajte sa! Stále máte toľko času na vyhratie valentínskych odmien:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Teraz, keď ste vyhrali hru na jeleňa a laň, môžete znova spustiť stolovú hru! Stačí kliknúť na zelenú fajku alebo nové tlačidlo na hernej doske!]]></item>
+    </category>
+  </category>
+</language>

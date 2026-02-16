@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.safari">
+    <item name="zoo.safari.title"><![CDATA[Safari]]></item>
+    <item name="zoo.safari.fuel_singular"><![CDATA[Kanister na benzín]]></item>
+    <category name="zoo.safari.errors">
+      <item name="zoo.safari.errors.notAvailable"><![CDATA[Škoda! Bohužiaľ, tvoja úroveň je príliš nízka! Od úrovne 7 môžeš začať safari!]]></item>
+    </category>
+    <category name="zoo.safari.welcomeWindow">
+      <item name="zoo.safari.welcomeWindow.infoText"><![CDATA[Vitajte na safari plnom dobrodružstva: Vyhrajte skvelé odmeny a dokonca aj nové zvieratá! <br /><br />V ďalšom kroku si už len vyberte oblasť, kde chcete začať svoje safari. <br /><br />Hurá, do divočiny!]]></item>
+    </category>
+    <category name="zoo.safari.regionWindow">
+      <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Vyberte región]]></item>
+      <item name="zoo.safari.startWindow.infoText"><![CDATA[V ktorom regióne chcete začať svoje safari? Vyberte si ho tu: V každom regióne sú 3 oblasti, ktoré môžete aktivovať v závislosti od vašej úrovne.]]></item>
+    </category>
+    <category name="zoo.safari.shopWindow">
+      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Hej, dobrodruh! Vydaj sa na skutočné safari. Použi žolíkov, aby si si uľahčil cestu do divočiny.<br><br>Dôležité: Na svoju cestu si vyber iba jedného z každého typu žolíka!]]></item>
+      <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[Chcete investovať %skipTimerCost% zoodollars a hneď začať so safari?]]></item>
+      <item name="zoo.safari.shopWindow.infoText"><![CDATA[Ste pripravení na safari? Funguje to takto: V ďalšom kroku uvidíte hru: pozostáva z 9 až 25 kariet lícom nadol. Karty ukrývajú odmeny alebo stopy zvierat, ktoré budete sledovať, aby ste získali hlavnú cenu. Ale buďte opatrní: každá karta môže skrývať aj pascu!<br /><br />Vidíte tú benzínovú nádobu vpravo dole? Ukazuje vám, koľko benzínu vám zostáva v nádrži džípu. Hneď ako kartu odhalíte, spotrebujete trochu benzínu.<br /><br />A teraz pravidlá hry: Na začiatku si môžete vybrať iba karty zo spodného radu. Kliknite na kartu a tá sa otočí. Takto uvidíte, či ste niečo našli a ak áno, čo to je. Potom si môžete vybrať karty, ktoré sú nad alebo pod poslednou kartou, ako aj napravo alebo naľavo od nej. Hra končí, ak nájdete zviera, ale končí aj vtedy, keď vám dôjde benzín.<br /> <br />Zvýšte si šance na skvelý nález so žolíkom(?) z obchodu. Existujú 2 typy žolíka: Kartový a Navigačný. Nechajte si odhaliť karty pomocou kartového žolíka - odhalí vám ďalšie karty. Navigačný žolík vás vďaka kompasu navedie správnym smerom.<br /><br />Na safari si môžete vziať jedného žolíka od každého typu. Či už ste žolíka použili alebo nie, na konci safari ho stratíte.]]></item>
+    </category>
+    <category name="zoo.safari.miniGame">
+      <item name="zoo.safari.miniGame.tileInfo.trap"><![CDATA[Ups, narazil si na prekážku. To je otravné, jeden kanister benzínu je preč.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.treasure"><![CDATA[Skvelé! Našli ste %treasureCount% %treasureName%. Poponáhľajte sa, hľadajte ďalej, môžete nájsť oveľa viac pokladov.]]></item>
+      <item name="zoo.safari.miniGame.tileInfo.animal"><![CDATA[Gratulujem, pozrite sa, čo ste našli! Je to %zviera%! Ponáhľajte sa do zoo, čaká na vás vo vašom inventári. Úspešne ste dokončili svoje safari.]]></item>
+      <item name="zoo.safari.miniGame.closeWarning"><![CDATA[Naozaj chceš ukončiť safari? Ak áno, dnes nemôžeš začať žiadne ďalšie safari a minieš si benzín aj zásoby!]]></item>
+      <item name="zoo.safari.miniGame.noJoker"><![CDATA[Žiadny žolík]]></item>
+      <item name="zoo.safari.miniGame.buyGasThenEmpty"><![CDATA[Už ste takmer v cieli! Bohužiaľ, vaša nádrž je prázdna. Chcete si natankovať za pár zoodolárov a pokračovať v safari? Vyberte si, koľko benzínu si chcete kúpiť.]]></item>
+      <item name="zoo.safari.miniGame.buyMissingGas"><![CDATA[Množstvo kanistrov s benzínom pre tento terén je %neededGas%. Vy však máte iba %missingGas%. Chcete si kúpiť potrebný benzín za zoodollars?]]></item>
+      <item name="zoo.safari.miniGame.buyGas"><![CDATA[Prosím, vyberte si, koľko benzínu chcete kúpiť. Ale buďte opatrní: Ak na safari neminiete všetok benzín, zvyšný benzín sa premrhá.]]></item>
+    </category>
+    <category name="zoo.safari.minigameInfo">
+      <item name="zoo.safari.minigameInfo.title"><![CDATA[Pokyny]]></item>
+      <item name="zoo.safari.minigameInfo.1"><![CDATA[Vitajte na vašom safari!<br /> Objavte nezvyčajné zvieratá a veľké poklady. Dávajte si však pozor, kam vedú vaše kroky. Pasce číhajú všade. V závislosti od typu terénu budete spotrebovávať rôzne množstvo benzínu.<br /><br />Safari končí, hneď ako sa vám vyprázdni nádrž alebo ak nájdete zviera.]]></item>
+      <item name="zoo.safari.minigameInfo.2"><![CDATA[Do divočiny sa dostanete kliknutím na jedno zo spodných políčok.]]></item>
+      <item name="zoo.safari.minigameInfo.3"><![CDATA[Pohybujte sa v priamych líniách na sever, juh, západ a východ.]]></item>
+      <item name="zoo.safari.minigameInfo.4"><![CDATA[Svojich žolíka môžete aktivovať kedykoľvek. Majú pre vás cenné tipy, ktoré vás rýchlejšie dovedú k vášmu cieľu.]]></item>
+      <item name="zoo.safari.minigameInfo.terains"><![CDATA[K dispozícii sú nasledujúce typy terénu:<br />]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.name"><![CDATA[Jednoduchý terén]]></item>
+      <item name="zoo.safari.minigameInfo.terains.1.info"><![CDATA[Použijete 1 jednotku benzínu.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.name"><![CDATA[Náročnejší terén]]></item>
+      <item name="zoo.safari.minigameInfo.terains.2.info"><![CDATA[Použijete 3 jednotky benzínu.]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.name"><![CDATA[Nepriechodný terén]]></item>
+      <item name="zoo.safari.minigameInfo.terains.3.info"><![CDATA[Vstup zakázaný]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.name"><![CDATA[Preskúmaný terén]]></item>
+      <item name="zoo.safari.minigameInfo.terains.4.info"><![CDATA[Použijete 1 jednotku benzínu.]]></item>
+      <item name="zoo.safari.minigameInfo.events"><![CDATA[Nájdete tu nasledujúce položky: <br />]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.name"><![CDATA[ZVIERATÉ STOPY]]></item>
+      <item name="zoo.safari.minigameInfo.events.1.info"><![CDATA[Ukazujú smer, kde sa zviera môže nachádzať.]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.name"><![CDATA[POKLAD]]></item>
+      <item name="zoo.safari.minigameInfo.events.2.info"><![CDATA[Paráda, poklad s veľkým prekvapením!]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.name"><![CDATA[BARIÉRA]]></item>
+      <item name="zoo.safari.minigameInfo.events.3.info"><![CDATA[Bude vás to stáť 1 jednotku benzínu.]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.name"><![CDATA[STRETNUTIE SO ZVIERATOM]]></item>
+      <item name="zoo.safari.minigameInfo.events.4.info"><![CDATA[Ak narazíte na zviera, patrí vám a misia sa končí.]]></item>
+    </category>
+    <category name="zoo.safari.jokers">
+      <item name="zoo.safari.jokers.titel_1"><![CDATA[Opica, poradca]]></item>
+      <item name="zoo.safari.jokers.titel_2"><![CDATA[Sonya, poradkyňa]]></item>
+      <item name="zoo.safari.jokers.titel_3"><![CDATA[Kompas]]></item>
+      <item name="zoo.safari.jokers.titel_4"><![CDATA[Rýchle cestovanie]]></item>
+      <item name="zoo.safari.jokers.text_1"><![CDATA[Každý z času na čas potrebuje trochu pomoci. Ak necháte opicu pomôcť, môžete odhaliť jednu náhodne vybranú kartu.<br /><br />Ste zvedaví? Poďme na to!]]></item>
+      <item name="zoo.safari.jokers.text_2"><![CDATA[Chceš odhaliť určitú kartu a postúpiť v safari?<br /><br /><br /> Využi pomoc poradkyne Sonie. S jej pomocou odhalíš kartu podľa vlastného výberu. To ti pomôže rýchlejšie dosiahnuť tvoj cieľ. Veľa šťastia!]]></item>
+      <item name="zoo.safari.jokers.text_3"><![CDATA[Potrebuješ pomoc? Použi kompas ako žolíka na označenie karty. Nájdeš na ňom zviera, ktoré hľadáš, alebo pascu. Chceš zistiť, čo sa na nej skrýva? Tak sa poponáhľaj a zisti to!]]></item>
+      <item name="zoo.safari.jokers.text_4"><![CDATA[Ale teraz k veci: Len sa krok za krokom plazíte k svojmu cieľu? Nie ste dosť rýchli?<br /><br />Potom použite žolíka: Označí vám 3 karty, medzi ktorými sa môže skrývať zviera, ktoré hľadáte, ale aj pasca.<br /><br />Zviera alebo pasca... Rýchlo, pozrite sa!]]></item>
+    </category>
+    <category name="zoo.safari.tooltip">
+      <item name="zoo.safari.tooltip.cantStartSafari"><![CDATA[Svoje safari môžete začať po dosiahnutí 7. úrovne.]]></item>
+      <item name="zoo.safari.tooltip.startSafari"><![CDATA[Naskočte do džípu: Kliknite sem pre začiatok safari!]]></item>
+      <item name="zoo.safari.tooltip.backToZoo"><![CDATA[Späť do zoo]]></item>
+      <item name="zoo.safari.tooltip.regionSmall"><![CDATA[Malý]]></item>
+      <item name="zoo.safari.tooltip.regionMedium"><![CDATA[Stredné]]></item>
+      <item name="zoo.safari.tooltip.regionLarge"><![CDATA[Veľký]]></item>
+      <item name="zoo.safari.tooltip.skipTimerInShop"><![CDATA[Každý deň dostanete určitý počet kanistrov s benzínom.<br/> Chcete viac hneď? Tak si skráťte čakaciu dobu so zoodollars!]]></item>
+      <item name="zoo.safari.tooltip.buyGasInMinigame"><![CDATA[Kliknite pre kúpu ďalšieho benzínu.]]></item>
+      <item name="zoo.safari.tooltip.regeonLevelRequared"><![CDATA[Táto oblasť bude prístupná po dosiahnutí úrovne %regionLevel%.]]></item>
+    </category>
+    <category name="zoo.safari.button">
+      <item name="zoo.safari.button.startSafari"><![CDATA[Začnite safari]]></item>
+      <item name="zoo.safari.button.endSafari"><![CDATA[Dokončiť safari]]></item>
+      <item name="zoo.safari.button.activate"><![CDATA[Aktivovať]]></item>
+      <item name="zoo.safari.button.use"><![CDATA[Nasadiť]]></item>
+    </category>
+  </category>
+</language>

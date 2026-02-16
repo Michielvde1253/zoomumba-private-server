@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.inventory">
+    <item name="zoo.inventory.sell.title"><![CDATA[Predať]]></item>
+    <item name="zoo.inventory.sell.info"><![CDATA[Koľko ich chcete predať?]]></item>
+    <item name="zoo.inventory.store.error.title"><![CDATA[DÔLEŽITÉ]]></item>
+    <item name="zoo.inventory.store.error.info"><![CDATA[Ak chcete presunúť zvieratá s výbehmi do svojho inventára, musia byť najprv zdravé a spokojné.]]></item>
+    <category name="zoo.inventory.tabs">
+      <item name="zoo.inventory.tabs.gifts"><![CDATA[Darčeky]]></item>
+      <item name="zoo.inventory.tabs.inventory"><![CDATA[Inventár]]></item>
+      <item name="zoo.inventory.tabs.pawprints"><![CDATA[Labky]]></item>
+      <item name="zoo.inventory.tabs.pearls"><![CDATA[Perly]]></item>
+      <item name="zoo.inventory.tabs.specials"><![CDATA[Príslušenstvo]]></item>
+      <item name="zoo.inventory.tabs.trash"><![CDATA[Odpadky]]></item>
+    </category>
+    <category name="zoo.inventory.trash">
+      <item name="zoo.inventory.trash.info"><![CDATA[Ochrana životného prostredia s opätovným použitím: Recyklujte odpad v recyklačnom zariadení a použite suroviny na výrobu niečoho, čo potrebujete.]]></item>
+      <item name="zoo.inventory.trash.amount"><![CDATA[Množstvo odpadu:]]></item>
+    </category>
+    <category name="zoo.inventory.pawprints">
+      <item name="zoo.inventory.tabs.pawprints.info"><![CDATA[Čím viac sa staráte o svoje zvieratá, tým viac labiek nazbierate. Tie potom môžete použiť na vylepšenie svojich výbehov.<br> <br>Aktuálny počet nazbieraných labiek:]]></item>
+    </category>
+    <category name="zoo.inventory.pearls">
+      <item name="zoo.inventory.tabs.pearls.info"><![CDATA[Čím viac sa staráte o svoje zvieratá, tým viac perál získate na skrášlenie svojich biotopov.<br><br>Aktuálny stav perál:]]></item>
+    </category>
+    <category name="zoo.inventory.inventory">
+      <item name="zoo.inventory.inventory.empty"><![CDATA[VŠADE JE PRÁZDNO?<br>Váš inventár je momentálne prázdny.<br>Prečo sa nepozriete do obchodu alebo nejdete na safari?]]></item>
+      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Použitie]]></item>
+    </category>
+    <category name="zoo.inventory.gifts">
+      <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Meno hráča]]></item>
+      <item name="zoo.inventory.gifts.headerUserID"><![CDATA[ID hráča]]></item>
+      <item name="zoo.inventory.gifts.received"><![CDATA[Aké krásne! Kamarát ti poslal darček. Rýchlo ho rozbaľ!]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Rozbaliť]]></item>
+      <item name="zoo.inventory.gifts.none"><![CDATA[Aká škoda! Momentálne nemáš žiadne nové darčeky... Ale nebuď smutný, čoskoro niečo príde.]]></item>
+    </category>
+    <category name="zoo.inventory.move">
+      <item name="zoo.inventory.move.title"><![CDATA[Platiť]]></item>
+      <item name="zoo.inventory.move.info"><![CDATA[Za koľko zvierat chcete zaplatiť?]]></item>
+    </category>
+    <category name="zoo.inventory.allin">
+      <item name="zoo.inventory.allin.title"><![CDATA[Odoslať všetko do inventára]]></item>
+      <item name="zoo.inventory.allin.confirmation"><![CDATA[Naozaj chcete všetko odoslať do inventára? Upozornenie: Vaše zvieratá musia byť čisté, kŕmené a šťastné, kým to budete môcť urobiť.]]></item>
+    </category>
+  </category>
+</language>
