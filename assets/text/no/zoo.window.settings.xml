@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.settings">
+    <item name="zoo.window.settings.info"><![CDATA[Hallo, dyrehagedirektør!<br>Her kan du tilpasse ZooMumba slik du liker det! Spill spillet du liker best!]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[på]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[av]]></item>
+    <item name="zoo.window.settings.quality.low"><![CDATA[lav]]></item>
+    <item name="zoo.window.settings.quality.middle"><![CDATA[medium]]></item>
+    <item name="zoo.window.settings.quality.high"><![CDATA[høy]]></item>
+    <item name="zoo.window.settings.quality.title"><![CDATA[Grafisk kunst]]></item>
+    <item name="zoo.window.settings.quality.info"><![CDATA[Kvalitet]]></item>
+    <item name="zoo.window.settings.account.title"><![CDATA[Rediger konto]]></item>
+    <item name="zoo.window.settings.account.info"><![CDATA[Her kan du redigere spillkontodetaljene dine, for eksempel e-postadressen din.]]></item>
+    <item name="zoo.window.settings.title.tooltipps"><![CDATA[Verktøytips]]></item>
+    <item name="zoo.window.settings.title.visitors"><![CDATA[Besøkende]]></item>
+    <item name="zoo.window.settings.title.visitorWishes"><![CDATA[Besøkendes ønsker]]></item>
+    <item name="zoo.window.settings.title.sound"><![CDATA[Lyd]]></item>
+    <item name="zoo.window.settings.title.sound.background"><![CDATA[Musikk]]></item>
+    <item name="zoo.window.settings.title.sound.effects"><![CDATA[Lydeffekter]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[å justere]]></item>
+    <item name="zoo.window.settings.tab.account"><![CDATA[konto]]></item>
+    <item name="zoo.window.settings.tab.config"><![CDATA[Konfigurasjon]]></item>
+    <item name="zoo.window.settings.tab.buildings"><![CDATA[Hovedbygningen]]></item>
+    <item name="zoo.window.settings.buildings.info"><![CDATA[Velg inngangsbygningen til dyrehagen etter din smak. Hovedbygningene er tilgjengelige avhengig av nivået ditt.<br>På denne måten vil dyrehagen din bli mer og mer skreddersydd for deg!]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Animasjon]]></item>
+    <item name="zoo.window.settings.anim.info"><![CDATA[Antall dyreanimasjoner]]></item>
+    <item name="zoo.window.settings.saveAssets"><![CDATA[Bufferminne]]></item>
+  </category>
+</language>

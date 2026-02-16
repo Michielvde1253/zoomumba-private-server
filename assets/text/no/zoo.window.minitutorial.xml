@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.minitutorial">
+    <item name="zoo.window.minitutorial.title"><![CDATA[#VALUE!]]></item>
+    <item name="zoo.window.minitutorial.infopage.1"><![CDATA[Velkommen til ZooMumba, ditt vanvittige dyreparkeventyr! Jeg heter Sonja, og jeg vil veilede deg trinn for trinn i hvordan spillet fungerer.<br><br>I butikken kan du kjøpe forskjellige dyreinnhegninger og plassere dem på dyrehageområdet ditt.]]></item>
+    <item name="zoo.window.minitutorial.infopage.2"><![CDATA[Klikk på innhegningen og kjøp et dyr. Sørg for å sjekke om du kjøper en hann eller en hunn.<br><br> Hvis du har begge i innhegningen, kan du snart forvente dyreunger!]]></item>
+    <item name="zoo.window.minitutorial.infopage.3"><![CDATA[Ta vare på dyrene dine regelmessig, kos med dem og lek med dem. På den måten blir de glade og tilfredse. Prøv det!]]></item>
+    <item name="zoo.window.minitutorial.infopage.4"><![CDATA[Du må forbinde innhegningene, bygningene og attraksjonene dine med stier som fører til inngangen, slik at besøkende kan beundre alt.]]></item>
+    <item name="zoo.window.minitutorial.infopage.5"><![CDATA[Få fôr og alt dyrene dine ønsker seg i butikken: kjøtt, frukt, gress – bare ta en titt!]]></item>
+    <item name="zoo.window.minitutorial.infopage.6"><![CDATA[Fra nivå 2 kan du også få bygninger og boder i butikken, noe som gjør dyrehagen din enda mer attraktiv for besøkende. <br><br>Du kan jevnlig hente inngangspenger fra hovedbygningen.]]></item>
+    <item name="zoo.window.minitutorial.infopage.6b"><![CDATA[Du starter med noen få ZooDollars. Bruk dem til å få flotte dyr og spesielle attraksjoner, eller ansett assistenter. De vil hjelpe deg med vedlikehold og stell av dyrehagen din. <br><br>Og hvis du går tom for ZooDollars, ikke bekymre deg! Du kan fylle dem opp når som helst i ZooBank.]]></item>
+    <item name="zoo.window.minitutorial.infopage.7"><![CDATA[Jo flere besøkende du ønsker velkommen til dyrehagen din, desto mer søppel må du rydde opp. <br><br>Hold dyrehagen ren og samle opp søppelet. De besøkende vil sette pris på det!]]></item>
+    <item name="zoo.window.minitutorial.infopage.8"><![CDATA[Jo flere fornøyde besøkende dyrehagen din har, desto høyere vil zoometret ditt stige. <br><br>Sett i gang og bygg verdens beste dyrehage – i ZooMumba! Kos deg!]]></item>
+  </category>
+</language>

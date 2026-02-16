@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.quests">
+    <category name="zoo.quests.tabs">
+      <item name="zoo.quests.tabs.daily"><![CDATA[Daglige oppgaver]]></item>
+      <item name="zoo.quests.tabs.achievements"><![CDATA[Utmerkelser]]></item>
+      <item name="zoo.quests.tabs.collectables"><![CDATA[Samlinger]]></item>
+    </category>
+    <category name="zoo.quests.daily">
+      <item name="zoo.quests.daily.info"><![CDATA[Det er mye arbeid som må gjøres hver dag i enhver dyrehage: enhver hjelpende hånd er velkommen! Ta på deg disse daglige oppgavene og få dem gjort.]]></item>
+      <item name="zoo.quests.daily.nextquest.timestamp"><![CDATA[Nye oppgaver i:]]></item>
+      <item name="zoo.quests.daily.refreshTitle"><![CDATA[Daglige oppgaver]]></item>
+      <item name="zoo.quests.daily.refreshQuestion"><![CDATA[For en liten avgift kan du få nye daglige oppgaver. Har du lyst til det?]]></item>
+      <item name="zoo.quests.daily.taskTitle"><![CDATA[Oppgave]]></item>
+      <item name="zoo.quests.daily.rewardTitle"><![CDATA[Godtgjørelse]]></item>
+      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Start\oppgave]]></item>
+      <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Få belønning]]></item>
+      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Avbryt oppgave]]></item>
+      <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Oppgave]]></item>
+      <item name="zoo.quests.daily.window.activequest.info"><![CDATA[Du holder allerede på med en annen oppgave. Vennligst fullfør den aktive oppgaven før du starter den neste.]]></item>
+      <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Kansellere]]></item>
+      <item name="zoo.quests.daily.window.abortquest.info"><![CDATA[Hvis du avbryter denne oppgaven, vil den bli fjernet fra oppgavelisten din. Er du sikker på at du vil avbryte den?]]></item>
+      <item name="zoo.quests.daily.window.achievereward.title"><![CDATA[Gratulerer!]]></item>
+      <item name="zoo.quests.daily.window.achievereward.info"><![CDATA[Du har fullført oppgaven din og mottar følgende belønning:]]></item>
+    </category>
+    <category name="zoo.quests.help">
+      <item name="zoo.quests.help.daily.title"><![CDATA[Leseeksempler]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Eksempel 1: Gi 50 baller med mat til et hvilket som helst dyr.<br>Eksempel 2: Oppdrett 2 løveunger.]]></item>
+    </category>
+    <category name="zoo.quests.achievements.individual">
+      <item name="zoo.quests.achievements.individual.info.congrats"><![CDATA[Flott! Du har fullført følgende oppgave:]]></item>
+      <item name="zoo.quests.achievements.individual.1.title"><![CDATA[Mester i kosing]]></item>
+      <item name="zoo.quests.achievements.individual.2.title"><![CDATA[Dyrevenn]]></item>
+      <item name="zoo.quests.achievements.individual.3.title"><![CDATA[Avlsekspert]]></item>
+      <item name="zoo.quests.achievements.individual.4.title"><![CDATA[Kjøpmann/håndverker]]></item>
+      <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Biffmester]]></item>
+      <item name="zoo.quests.achievements.individual.6.title"><![CDATA[Det må være orden.]]></item>
+      <item name="zoo.quests.achievements.individual.7.title"><![CDATA[Fullkornsvifte]]></item>
+      <item name="zoo.quests.achievements.individual.8.title"><![CDATA[Bra gjort]]></item>
+      <item name="zoo.quests.achievements.individual.9.title"><![CDATA[Gress er gøy]]></item>
+      <item name="zoo.quests.achievements.individual.10.title"><![CDATA[Vitaminavhengig]]></item>
+      <item name="zoo.quests.achievements.individual.11.title"><![CDATA[Fersk fisk]]></item>
+      <item name="zoo.quests.achievements.individual.12.title"><![CDATA[Tørsteslukkeren]]></item>
+      <item name="zoo.quests.achievements.individual.1.requirement"><![CDATA[De koste med sine %val%-mal dyr.]]></item>
+      <item name="zoo.quests.achievements.individual.2.requirement"><![CDATA[Eier %val% av dyrene.]]></item>
+      <item name="zoo.quests.achievements.individual.3.requirement"><![CDATA[Oppdra %val% av babyene.]]></item>
+      <item name="zoo.quests.achievements.individual.4.requirement"><![CDATA[Samle %val% ganger inntekten i zoogross for bygningene dine.]]></item>
+      <item name="zoo.quests.achievements.individual.5.requirement"><![CDATA[Gi %val%- ganger kjøttstykker.]]></item>
+      <item name="zoo.quests.achievements.individual.6.requirement"><![CDATA[Vis %val% søppelbøtte.]]></item>
+      <item name="zoo.quests.achievements.individual.7.requirement"><![CDATA[Fôr med %val% korn.]]></item>
+      <item name="zoo.quests.achievements.individual.8.requirement"><![CDATA[Tjen %val% XP ved å tømme søppelbøtta.]]></item>
+      <item name="zoo.quests.achievements.individual.9.requirement"><![CDATA[Fôr %val% med gress.]]></item>
+      <item name="zoo.quests.achievements.individual.10.requirement"><![CDATA[Gi %val% frukt.]]></item>
+      <item name="zoo.quests.achievements.individual.11.requirement"><![CDATA[Fôr %val% av fisken.]]></item>
+      <item name="zoo.quests.achievements.individual.12.requirement"><![CDATA[Gi dyrene dine %val% vann.]]></item>
+      <item name="zoo.quests.achievements.individual.bronze.congrats"><![CDATA[Dyrene dine jubler fordi du har låst opp en ny puslespillbrikke i bronsesettet.]]></item>
+      <item name="zoo.quests.achievements.individual.silver.congrats"><![CDATA[Dyrene dine jubler fordi du har gitt ut en ny puslespillbrikke i sølvsettet.]]></item>
+      <item name="zoo.quests.achievements.individual.gold.congrats"><![CDATA[Dyrene dine jubler fordi du har låst opp en ny puslespillbrikke i det gylne settet.]]></item>
+      <item name="zoo.quests.achievements.individual.platinum.congrats"><![CDATA[Dyrene dine jubler fordi du har låst opp en ny puslespillbrikke i Platinum-settet.]]></item>
+      <item name="zoo.quests.achievements.individual.open.achievements.info"><![CDATA[Gå nå til oppgavevinduet for å se bildet!]]></item>
+    </category>
+    <category name="zoo.quests.achievements.unlocked">
+      <item name="zoo.quests.achievements.unlocked.bronze.title"><![CDATA[Bronsesett]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.title"><![CDATA[Sølvsett]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.title"><![CDATA[Gullsett]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.title"><![CDATA[Platinasett]]></item>
+      <item name="zoo.quests.achievements.unlocked.bronze.description"><![CDATA[Gratulerer! Du har fullført alle oppgavene i bronsesettet og vil motta følgende belønninger:]]></item>
+      <item name="zoo.quests.achievements.unlocked.silver.description"><![CDATA[Gratulerer! Du har fullført alle oppgavene i sølvsettet og vil motta følgende belønninger:]]></item>
+      <item name="zoo.quests.achievements.unlocked.gold.description"><![CDATA[Gratulerer! Du har fullført alle oppgavene i gullsettet og vil motta følgende belønninger:]]></item>
+      <item name="zoo.quests.achievements.unlocked.platinum.description"><![CDATA[Gratulerer! Du har fullført alle oppgavene i Platinum-settet og vil motta følgende belønninger:]]></item>
+      <item name="zoo.quests.achievements.unlocked.open.achievements.info"><![CDATA[Gå nå til oppgavevinduet for å se det fullstendig opplåste bildet!]]></item>
+      <item name="zoo.quests.help.daily.title"><![CDATA[Leseeksempler]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Eksempel 1: Gi 50 ganger så mye mat til alle dyr.<br>Eksempel 2: Oppfostre 2 løveunger.]]></item>
+    </category>
+  </category>
+</language>

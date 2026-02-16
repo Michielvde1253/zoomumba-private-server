@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.buyassistance">
+    <item name="zoo.window.buyassistance.title"><![CDATA[Hjelp]]></item>
+    <item name="zoo.window.buyassistance.info"><![CDATA[Arbeidskontrakten din med renholderen er utløpt.<br>Ønsker du å ansette Slavko på nytt?]]></item>
+    <item name="zoo.window.buyassistance.empty"><![CDATA[#VALUE!]]></item>
+  </category>
+</language>

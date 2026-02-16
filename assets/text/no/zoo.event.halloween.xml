@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.halloween">
+    <category name="zoo.event.halloween.layer">
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Hei! Jeg heter Lucka, og jeg elsker flaggermus! Men spesielt de søte babyene deres. Ta med så mange babyer som mulig til meg, så har jeg noen skikkelig fine Halloween-ting til dere. Bare bytt ut søte for å få tingene til venstre eller sure for å få tingene til høyre.]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Inventar]]></item>
+      <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Velg hvor mange %species% babyer du vil flytte til inventaret ditt.]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Vi beklager!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Dessverre har du ikke nok flaggermusunger i beholdningen din. Avl flaggermusunger og flytt dem til beholdningen din for å kjøpe denne varen.]]></item>
+    </category>
+    <category name="zoo.event.halloween.tooltip">
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Små flaggermus på lager]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Bytt små flaggermus mot godteri]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Bytt ut små flaggermus med sure]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Nummer: Søt]]></item>
+      <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Invester %x% godteri for å låse opp denne varen]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Invester %x% sur for å låse opp denne gjenstanden]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Nummer: Sur]]></item>
+      <item name="zoo.event.halloween.tooltip.help"><![CDATA[Hjelp]]></item>
+      <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Flytt flaggermusbabyer til inventaret]]></item>
+    </category>
+    <category name="zoo.event.halloween.comic">
+      <item name="zoo.event.halloween.comic.1"><![CDATA[Velkommen til Halloween-arrangementet!<br> Fra <b>25. oktober til 1. november</b> starter en skummel fest i dyrehagen din! Massevis av gaver og overraskelser venter på deg. I neste trinn vil du se hvordan alt vil fungere.]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Samle så mange <b>søte</b> og <b>sure</b> som du kan! Du trenger det søte og sure for å aktivere spøkelsestrailerne! Du finner ut hvordan alt fungerer på neste side.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[Hvis du har nok søtt og surt, kan du bruke det til å aktivere <b>ting</b>. Men vær forsiktig: Søtsaker vil få deg til å se med øyet til venstre, sure med øyet til høyre. Øyet vil vise deg hvilken side tingene er aktivert på.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[Du kan få aktiverte gjenstander ved å bytte dem mot <b>flaggermusbabyer</b>. Oppdratt mange søte flaggermus. En ny knapp i innhegningsmenyen hjelper deg med å lagre babyene i inventaret ditt raskt og enkelt.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Kos deg i den skumle butikken!<br> For alle utålmodige: Søt og sur kan byttes mot flaggermusunger i butikken. Flere overraskelser venter deg i butikken.<br> <br>Kos deg på Halloween i år!]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicSinglePlayer">
+      <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[Det er tid for litt skummel moro!<br>Fra <b>31. oktober til 6. november</b> blir det Halloween-fest i dyrehagen din!]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Samle så mange gresskar som mulig! De vil sprette ut av innhegningene mens du tar vare på dyrene dine.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Legg dem i den store gresskarkurven for vår <b>Gresskarkamp</b>. Jo flere gresskar du leverer, desto flere skremmende belønninger kan du vinne.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.comicMultiPlayer">
+      <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[Mens du steller dyrene dine, vil det dukke opp godbiter fra innhegningene. Dere kan samle dem sammen. Handlingslinjen fylles opp, og et svevende øye viser deg hvilke skumle premier som er tilgjengelige for alle. Klikk på belønningen når den er aktivert.]]></item>
+    </category>
+    <category name="zoo.event.halloween2012.bubble">
+      <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Samle gresskar til den store gresskarkampen. Jo flere du samler, desto flere premier kan du vinne.]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Alle leker sammen! Godbiter fra alle dyreparkene fyller måleren og låser automatisk opp premier for alle!]]></item>
+    </category>
+  </category>
+</language>

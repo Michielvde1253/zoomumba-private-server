@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopTrashbinInfo">
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Søppelbøtte]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Folk legger igjen søppel! Jo flere søppelbøtter du har i dyrehagen din, desto mindre må du rydde opp etter besøkende.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Mamma søppelbøtte]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Æsj ... jeg vil ha søppel!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Søppelbøtte-spøkelse]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuhhuuuuu... Søppel]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Søppelbøtte-vampyr]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Jeg trenger noe å bite i. Gi meg søppelet ditt!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Søppelbøttemonster]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmmm ... Søppelgodt!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Bursdagssøppelbøtte]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmmmm, innpakningspapir!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Søppelbøtte for hval]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA["Jeg skal svelge alt søppelet ditt!"]]></item>
+  </category>
+</language>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Velkommen til vårt Valentinsdag-arrangement! Fra 8. til 15. februar blir det romantisk stemning! Kos deg med å spille Valentinsdag-spillet vårt, og se frem til mange flotte premier!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Sjekk ut hvordan du gjør det:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Ta vare på dyrene dine og samle Valentinsdag-ting: Hjerter, kjærlighetsbrev og Amors bue og piler. Bruk dem til å vinne søte overraskelser i det romantiske Valentinsdag-spillet!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Med de innsamlede gjenstandene dine kan du bevege deg rundt på spillebanen og samle premier: Majestetiske hjort og forsyninger av Tolija-essens og vekstdrikker venter på deg!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Sjekk også ut butikken – der finner du nyttige boostere som vil sikre enda større suksess og moro i spillet!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Dobler antallet Valentinsdagsartikler i 1 time.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Start brettspillet på nytt]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Valentinsdagsarrangementet vårt er nesten over! Du vil ikke motta flere sløyfer, brev eller hjerter. Men ikke gi opp! Du har fortsatt så mye tid på deg til å vinne Valentinsdag-belønninger:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Nå som du har vunnet hjorten og hinden, kan du starte brettspillet igjen! Bare klikk på det grønne hakemerket eller den nye knappen på spillbrettet!]]></item>
+    </category>
+  </category>
+</language>

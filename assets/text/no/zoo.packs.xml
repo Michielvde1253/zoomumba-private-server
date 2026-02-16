@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.packs">
+    <category name="zoo.packs.resources">
+      <item name="zoo.packs.resources.title.1"><![CDATA[Supermatpakke «God start»]]></item>
+      <item name="zoo.packs.resources.text.1"><![CDATA[Denne pakken inneholder 40 enheter med supermat og 5 poter. Dette vil gi deg 40 ganger dobbel BZ når du fôrer, og du vil se fremgangen i hvordan du forskjønner innhegningene dine!]]></item>
+      <item name="zoo.packs.resources.title.2"><![CDATA["Master" supermatpakke]]></item>
+      <item name="zoo.packs.resources.text.2"><![CDATA[Denne pakken inneholder 125 enheter med supermat og 20 poter. Dette vil gi deg 125 ganger dobbel BZ og gjøre fremskritt mot å forskjønne innhegningene dine!]]></item>
+      <item name="zoo.packs.resources.title.3"><![CDATA["Ekspert" supermatpakke]]></item>
+      <item name="zoo.packs.resources.text.3"><![CDATA[Denne pakken inneholder 350 enheter supermat og 30 poter, men også 5 gaver med 5 enheter supermat til 5 av vennene dine. Så de kan også dra nytte av denne pakken!]]></item>
+    </category>
+  </category>
+</language>

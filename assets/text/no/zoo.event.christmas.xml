@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.christmas">
+    <category name="zoo.event.christmas.comic">
+      <item name="zoo.event.christmas.comic.1.header"><![CDATA[God jul!]]></item>
+      <item name="zoo.event.christmas.comic.1.text"><![CDATA[Fra 21. desember til 2. januar dreier alt i dyrehagen din seg om julen! Pynt juletreet ditt og hjelp meg med å redde julen!]]></item>
+      <item name="zoo.event.christmas.comic.2"><![CDATA[Først skal du oppdra åtte flyvende reinsdyr og deretter én julenisse Rudolf til sleden hans. For hvert reinsdyr du bringer til ham, får du en gave.]]></item>
+      <item name="zoo.event.christmas.comic.3"><![CDATA[Fra tid til annen gir julenissen deg også en pynt til juletreet. Til slutt kan du beholde det pyntede treet.]]></item>
+      <item name="zoo.event.christmas.comic.4"><![CDATA[Hurra, vi har også en spesiell julekolleksjon her! Ta vare på dyrene dine og samle juleartikler. Du kan også bruke dem til å oppdra reinsdyr!]]></item>
+      <item name="zoo.event.christmas.comic.5.header"><![CDATA[Store overraskelser i julebutikken]]></item>
+      <item name="zoo.event.christmas.comic.5.text"><![CDATA[Forvandle dyrehagen din til en fargerik vinterverden: med massevis av ny og populær julepynt.]]></item>
+      <item name="zoo.event.christmas.comic.5.footer"><![CDATA[God jul og kos deg på julearrangementet!]]></item>
+    </category>
+    <category name="zoo.event.christmas.layer">
+      <item name="zoo.event.christmas.layer.reward.bubble"><![CDATA[Dette er forferdelig! Julenissens reinsdyr har stukket av, og nå kan han ikke levere gaver! Ta med ham åtte flygende reinsdyr og julenissens Rudolf, og plasser dem foran sleden hans. Som takk vil du motta flotte gaver!]]></item>
+      <item name="zoo.event.christmas.layer.reward.countdown"><![CDATA[Julenissen er på vei til:]]></item>
+      <item name="zoo.event.christmas.layer.congrats"><![CDATA[Du vant:]]></item>
+      <item name="zoo.event.christmas.layer.congrats.tree"><![CDATA[Se på juletreet ditt på parkeringsplassen!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.avatar"><![CDATA[Skaff deg et nytt antrekk til avataren din!]]></item>
+      <item name="zoo.event.christmas.layer.congrats.inventory"><![CDATA[Raskt, ta en titt på beholdningen din!]]></item>
+      <item name="zoo.event.christmas.layer.success.title"><![CDATA[Takk skal du ha!]]></item>
+      <item name="zoo.event.christmas.layer.success.text"><![CDATA[Reinsdyret ditt gleder seg til å komme seg ut på veien. Takket være deg er julen reddet!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.title"><![CDATA[Takk skal du ha!]]></item>
+      <item name="zoo.event.christmas.layer.incomplete.text"><![CDATA[Det mangler fortsatt noen av reinsdyrene mine, men det er på tide at jeg kommer meg ut på veien! Ikke bekymre deg, jeg skal finne ut av det – jeg er tross alt julenissen!]]></item>
+      <item name="zoo.event.christmas.layer.christmasTree"><![CDATA[Det pyntede juletreet fra parkeringsplassen din er nå i inventaret ditt.]]></item>
+      <item name="zoo.event.christmas.layer.firstReindeer"><![CDATA[Først, la oss ta med åtte magiske reinsdyr til julenissen.]]></item>
+      <item name="zoo.event.christmas.layer.lastReindeer"><![CDATA[Julenissen har allerede åtte flyvende reinsdyr, og alt han trenger er Rudolf!]]></item>
+    </category>
+    <category name="zoo.event.christmas.rewards">
+      <item name="zoo.event.christmas.rewards.tree"><![CDATA[Juledekorasjon]]></item>
+      <item name="zoo.event.christmas.rewards.avatar"><![CDATA[Julepassform]]></item>
+      <item name="zoo.event.christmas.rewards.snowOwls"><![CDATA[Et par snøugler]]></item>
+    </category>
+    <category name="zoo.event.christmas.tooltip">
+      <item name="zoo.event.christmas.tooltip.tier2Male"><![CDATA[Antall hannlige magiske reinsdyr i inventaret ditt.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier2Female"><![CDATA[Antall flyvende hunnreinsdyr i inventaret ditt.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Locked"><![CDATA[Før du tar med deg Rudolf til julenissen, trenger han først åtte flygende reinsdyr.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Male"><![CDATA[Antall mannlige julenisser i inventaret ditt.]]></item>
+      <item name="zoo.event.christmas.tooltip.tier3Female"><![CDATA[Antall kvinnelige julenisser i inventaret ditt.]]></item>
+    </category>
+  </category>
+</language>

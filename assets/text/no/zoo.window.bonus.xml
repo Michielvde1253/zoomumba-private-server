@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.bonus">
+    <item name="zoo.window.bonus.main.title"><![CDATA[Bonuskode]]></item>
+    <item name="zoo.window.bonus.main.info"><![CDATA[Har du en ZooMumba-bonuskode? Bare skriv den inn her, så får du bonusen din med en gang!]]></item>
+    <item name="zoo.window.bonus.success.title"><![CDATA[Gratulerer,]]></item>
+    <item name="zoo.window.bonus.success.info"><![CDATA[Flott, du skrev inn bonuskoden riktig og mottok belønningen din. Vi ønsker deg masse moro!]]></item>
+    <category name="zoo.window.bonus.error">
+      <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Feil]]></item>
+      <item name="zoo.window.bonus.error.invalid.info"><![CDATA[Bonuskoden er dessverre feil. Sjekk koden og prøv på nytt.]]></item>
+      <item name="zoo.window.bonus.error.participated.title"><![CDATA[Feil]]></item>
+      <item name="zoo.window.bonus.error.participated.info"><![CDATA[Du har allerede gjort krav på denne bonuskoden.]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Feil]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[Du har skrevet inn bonuskoden feil for mange ganger. Vent noen minutter før du prøver på nytt.]]></item>
+    </category>
+  </category>
+</language>

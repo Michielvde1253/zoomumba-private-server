@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advancedBreed">
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Hei! Jeg heter Soňa Starostlivá og er sykepleier her i dyrehagen. Gleder du deg til å avle de nye søte ungene? Jeg skal forklare hvordan det fungerer! Først må du bestemme deg for hvilken dyreart du vil avle.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Velg to voksne dyr fra inventaret ditt som skal bli foreldre. Jo sjeldnere de er, desto større er sannsynligheten for at de får en enda sjeldnere unge. Foreldrene må imidlertid bli værende hos meg under denne avlen.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Å bruke ekstra innsamlede gjenstander, sterkt fôr, superfôr eller supermedisin vil øke sjansene dine for å oppdra en spesielt sjelden baby. Jo flere hjerter gjenstanden har, desto bedre er sjansen!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Du er nesten ferdig med forberedelsene! Dobbeltsjekk valgene dine før det hele starter. Vil du endre noe? Ikke noe problem, bare bruk «Tilbake»-knappen!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[Avlsforsøket brukte følgende dyr og gjenstander:]]></item>
+    <category name="zoo.advancedBreed.tooltip">
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Avlsstasjonen er klar]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Det er her den avles]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[En baby er født!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Babyene er her!]]></item>
+    </category>
+    <category name="zoo.advancedBreed.button">
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Begynn avl]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Bruk essens]]></item>
+    </category>
+    <category name="zoo.advancedBreed.layer">
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Vil du virkelig begynne å avle uten tilskudd? Tenk deg nøye om – med tilskudd har du større sjanse til å få et sjeldent avkom.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Du er midt i forberedelsene. Vil du virkelig forlate avlsstasjonen?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Avlsstasjon]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Disse dyrene får unger akkurat nå:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Gjenværende tid:]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Essensen av Tolija]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Tolija-essens forkorter avlstiden med 50 %.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hurra – du har fått en baby! Du finner denne søte lille i inventaret ditt:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hurra – du har fått et barn! Du finner denne søte dvergen i inventaret ditt:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Flytt den lille til dyrehagen for å vokse opp.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Ta med de små til dyrehagen slik at de kan vokse opp.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Advarsel: Avl pågår for øyeblikket! Hvis du flytter stasjonen til inventaret ditt nå, vil prosessen bli avbrutt, og du vil miste alle dyr og kosttilskudd. Er du sikker på at du vil flytte den nå?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Advarsel: Avl pågår for øyeblikket! Hvis du selger stasjonen nå, vil prosessen bli avbrutt, og alle dyr og tilskudd vil gå tapt. Er du sikker på at du vil selge stasjonen nå?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Hvis avlsprosessen er fullført etter at arrangementet er avsluttet, vil du bare motta én unge.]]></item>
+    </category>
+  </category>
+</language>

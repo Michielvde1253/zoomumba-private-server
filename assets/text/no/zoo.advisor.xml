@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.advisor">
+    <category name="zoo.advisor.buttons">
+      <item name="zoo.advisor.buttons.1"><![CDATA[Dyrearter]]></item>
+      <item name="zoo.advisor.buttons.2"><![CDATA[Tilfredshet]]></item>
+      <item name="zoo.advisor.buttons.3"><![CDATA[Dekorasjon]]></item>
+      <item name="zoo.advisor.buttons.4"><![CDATA[Dyreavl]]></item>
+      <item name="zoo.advisor.buttons.5"><![CDATA[Søppel]]></item>
+    </category>
+    <category name="zoo.advisor.descriptions">
+      <item name="zoo.advisor.descriptions.1.A"><![CDATA[Flott! Ingen kan egentlig klage på mangelen på variasjon i dyrehagen din. Stå på!]]></item>
+      <item name="zoo.advisor.descriptions.1.B"><![CDATA[Besøkende liker det når de kan beundre et stort utvalg av dyr i en dyrehage. Du har %currentspecies% av forskjellige arter, det er mye! Sjekk ut butikken, du finner minst %missingspecies% mer der.]]></item>
+      <item name="zoo.advisor.descriptions.1.C"><![CDATA[Dyrehagebesøkende ønsker å se så mange dyr som mulig. Men dyrehagen din er verdt det. Du eier for øyeblikket %currentspecies% av dyrene. Du kan finne minst %missingspecies% flere arter i dyrebutikken.]]></item>
+      <item name="zoo.advisor.descriptions.1.D"><![CDATA[Alle som går i dyrehagen vil se dyr! Dyrehagen din kan ha et enda større utvalg: Du har for øyeblikket %currentspecies% dyrearter. Dyrebutikken tilbyr minst %missingspecies% mer.]]></item>
+      <item name="zoo.advisor.descriptions.1.E"><![CDATA[Åh! Det er ikke mange dyrearter i dyrehagen din. Besøkende kan beundre %currentspecies% arter, som de kan håndtere ganske raskt. Kjøp raskt minst %missingspecies% flere dyr i dyrehagebutikken.]]></item>
+      <item name="zoo.advisor.descriptions.2.A"><![CDATA[Dyrene dine er fullstendig fornøyde. Du er en eksemplarisk dyrehagedirektør.]]></item>
+      <item name="zoo.advisor.descriptions.2.B"><![CDATA[Du tar godt vare på dyrene dine, men noen av dem fortjener enda mer oppmerksomhet.]]></item>
+      <item name="zoo.advisor.descriptions.2.C"><![CDATA[Åh! Dyrene dine kjeder seg litt. Kunne du ikke tenke deg å leke litt med dem, mate dem eller gi dem vann? Det hadde vært flott for dem, og de ville blitt kjempeglade igjen!]]></item>
+      <item name="zoo.advisor.descriptions.2.D"><![CDATA[Å herregud! Dyrene dine er triste fordi du ikke har tatt vare på dem. Lek litt med dem! Litt mat og vann vil også muntre dem opp. Da vil dyrehagen din skinne igjen og glede besøkende!]]></item>
+      <item name="zoo.advisor.descriptions.2.E"><![CDATA[Å nei! Dyrene dine er sultne og tørste! Kom igjen, ta vare på dem! Når de er matet og innhegningene er rengjort, blir det gøy å leke med dyrene igjen!]]></item>
+      <item name="zoo.advisor.descriptions.3.A"><![CDATA[Wow! Dyrehagen din er vakkert dekorert! Det er så mye for besøkende å se. Stå på!]]></item>
+      <item name="zoo.advisor.descriptions.3.B"><![CDATA[Flott! Du har dekorert dyrehagen din fint! Sjekk ut dyrehagebutikken: du finner massevis av andre fine og morsomme dekorasjoner der. De besøkende elsker forandringer!]]></item>
+      <item name="zoo.advisor.descriptions.3.C"><![CDATA[Dyrehagen din er fin, men den kunne trengt litt mer forandring! Du kan finne massevis av fin og morsom dekorasjon i dyrehagebutikken.]]></item>
+      <item name="zoo.advisor.descriptions.3.D"><![CDATA[Praktisk og funksjonelt, men litt kjedelig. Mer dekorasjon vil bli satt pris på av besøkende. La alle se at du kan vise frem mer!]]></item>
+      <item name="zoo.advisor.descriptions.3.E"><![CDATA[Dyrehagen din kunne trengt litt mer dekorasjon. Gled de besøkende med nye, slående dekorasjoner.]]></item>
+      <item name="zoo.advisor.descriptions.4.A"><![CDATA[Så mange søte babyer! Du har virkelig gullhender, og dyrene dine har fått så mange avkom. Flott!]]></item>
+      <item name="zoo.advisor.descriptions.4.B"><![CDATA[Miniatyroverskrifter om dyreungene i dyrehagen trekker besøkende inn. Men alle dyrehagedirektører ser alltid etter måter å forbedre seg på. Sjekk det ut: Du kan for øyeblikket oppdra %missingbabies% flere dyreunger.]]></item>
+      <item name="zoo.advisor.descriptions.4.C"><![CDATA[Nyheten om dyrehagens nye tilskudd sprer seg vidt og bredt. Besøkende elsker de små, klumsete ungene! For øyeblikket kan du oppfostre %missingbabies% flere unger.]]></item>
+      <item name="zoo.advisor.descriptions.4.D"><![CDATA[Dyrehagen din trenger mer avkom. Sjekk ut: %missingbabies% av parene leter for tiden etter en unge. Prøv å avle!]]></item>
+      <item name="zoo.advisor.descriptions.4.E"><![CDATA[Det er mye bekymring for avkommet ditt i dyrehagen din: %missingbabies% av parene venter for tiden en baby. Prøv å avle og glede de besøkende med synet av de klumsete ungene dine.]]></item>
+      <item name="zoo.advisor.descriptions.5.A"><![CDATA[Flott, dyrehagen din ser flott ut! Og besøkende elsker den. Stå på!]]></item>
+      <item name="zoo.advisor.descriptions.5.B"><![CDATA[Du gjør det bra, men dyrehagen din hadde vært enda finere om du ryddet opp resten av søppelet.]]></item>
+      <item name="zoo.advisor.descriptions.5.C"><![CDATA[Søppelet i dyrehagen din hoper seg sakte opp. Endelig, rydd opp.]]></item>
+      <item name="zoo.advisor.descriptions.5.D"><![CDATA[Det ligger mye søppel rundt i dyrehagen din. Du bør absolutt rydde opp og gjøre rent.]]></item>
+      <item name="zoo.advisor.descriptions.5.E"><![CDATA[Dyrehagen din drukner i søppel! Rydd opp søppelhaugene fra stiene og tøm søppelbøttene.]]></item>
+    </category>
+    <category name="zoo.advisor.help">
+      <item name="zoo.advisor.help.1"><![CDATA[I kategorien «Dyrearter» kan du se om alle mulige dyrearter er representert i dyrehagen din.]]></item>
+      <item name="zoo.advisor.help.2"><![CDATA[Kategorien «Tilfredshet» viser hvor lykkelige dyrene dine er for øyeblikket.]]></item>
+      <item name="zoo.advisor.help.3"><![CDATA[I kategorien «Dekorasjon» kan du se om dekorasjonene i dyrehagen din er attraktive for besøkende.]]></item>
+      <item name="zoo.advisor.help.4"><![CDATA[Besøkende elsker søte babyer! Elementet «Dyreavl» viser deg hvor vellykket avlsarbeidet ditt er.]]></item>
+      <item name="zoo.advisor.help.5"><![CDATA[«Søppel»-elementet viser deg om dyrehagen din er ren, eller om besøkende snubler over søppelhauger.]]></item>
+      <item name="zoo.advisor.help.6"><![CDATA[Bruk tastene 1 til 7 for å komme raskere til butikken.]]></item>
+      <item name="zoo.advisor.help.7"><![CDATA[Bruk bokstavene Q, W, E og R for å flytte (W), snu (E), selge (R) eller endre spillmodus (Q) gjenstander.]]></item>
+      <item name="zoo.advisor.help.8"><![CDATA[Husk å bruke et sikkert passord som du ikke deler med noen!]]></item>
+      <item name="zoo.advisor.help.9"><![CDATA[Du kan slå spilltips og diverse andre funksjoner som besøkende, bakgrunnseffekter og lydeffekter av eller på for å få spillet til å kjøre raskere på svakere datamaskiner.]]></item>
+      <item name="zoo.advisor.help.10"><![CDATA[Kjøp Zoo-dollars i banken. Noen ganger kan du få dem som en belønning for å fullføre daglige oppgaver. Du kan også få dem hvis du går opp i nivå nok.]]></item>
+      <item name="zoo.advisor.help.11"><![CDATA[Det vil også være kampanjer med bonuskoder nå og da, så følg med på offisielle kunngjøringer i forumet.]]></item>
+      <item name="zoo.advisor.help.12"><![CDATA[Dyrene dine kan bli syke ved et uhell. Jo bedre du tar vare på dem, desto lenger vil de holde seg friske. Men hvis dyret ditt ikke er sykt, kan du ikke engang gi det en injeksjon.]]></item>
+      <item name="zoo.advisor.help.13"><![CDATA[Dyrene dine føler seg bra i alle innhegninger. Og det spiller ingen rolle hvilken innhegning du setter dem i.]]></item>
+      <item name="zoo.advisor.help.14"><![CDATA[Du kan for øyeblikket ikke flytte dyr til andre innhegninger.]]></item>
+      <item name="zoo.advisor.help.15"><![CDATA[Hvis du selger innhegningen, selger du også dyret i den.]]></item>
+      <item name="zoo.advisor.help.16"><![CDATA[Det finnes to typer surikater i spillet – vanlig surikat og den grå surikaten Beda. Beda dukker bare opp under visse arrangementer og kan bare kjøpes på spesielle dager.]]></item>
+      <item name="zoo.advisor.help.17"><![CDATA[Hvis du klikker på «adopter for zoodollars», er du 100 % sikker på et nytt tilskudd, og du trenger ikke å vente på det.]]></item>
+      <item name="zoo.advisor.help.18"><![CDATA[Du kan lagre ZooMumba-vennene dine i adresseboken din. Dessverre kan du ikke invitere noen naboer for øyeblikket.]]></item>
+      <item name="zoo.advisor.help.19"><![CDATA[Jo flere butikker du eier, desto flere zoogros tjener du.]]></item>
+      <item name="zoo.advisor.help.20"><![CDATA[Har du ikke tid? Da bør du ansette assistenter. Husk at assistenter bare fungerer når du klikker på dem (de fungerer ikke automatisk).]]></item>
+      <item name="zoo.advisor.help.21"><![CDATA[Hvis du ansetter en kasserer, Kešík, vil du øke inntekten din.]]></item>
+      <item name="zoo.advisor.help.22"><![CDATA[Det er verdt å bruke assistenter: du vil få flere erfaringspoeng.]]></item>
+      <item name="zoo.advisor.help.23"><![CDATA[Hvis du har alle assistentene, aktiverer du Davids representant – han kan få alle assistentene til å fungere med bare ett klikk.]]></item>
+      <item name="zoo.advisor.help.24"><![CDATA[Jo mer avfall du sorterer i dyrehagen, desto mindre vil det ende opp på gatene.]]></item>
+      <item name="zoo.advisor.help.25"><![CDATA[Kjøp en hann og en hunn av samme art, så får du snart søte unger i dyrehagen.]]></item>
+      <item name="zoo.advisor.help.26"><![CDATA[Du kan bare oppbevare et visst beløp med inngangspenger i hovedbygningen, så sørg for å hente dem regelmessig.]]></item>
+      <item name="zoo.advisor.help.27"><![CDATA[For å tjene penger på bygningene dine, må de alltid være forbundet med en sti. Hvordan ellers skulle besøkende kunne nå dem?]]></item>
+      <item name="zoo.advisor.help.28"><![CDATA[Hold øynene åpne: Fra tid til annen dukker det opp spesielle dyr eller gjenstander i butikken som du bare kan kjøpe i en begrenset periode.]]></item>
+      <item name="zoo.advisor.help.29"><![CDATA[Gi dyrene dine supermat, så holder de seg mette lenger.]]></item>
+      <item name="zoo.advisor.help.30"><![CDATA[Å! Er dyrene dine syke? Gi dem supermedisiner, så blir de like friske som fisk igjen!]]></item>
+    </category>
+  </category>
+</language>

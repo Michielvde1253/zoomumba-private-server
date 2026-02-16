@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.collectables">
+    <category name="zoo.collectables.forgottenZoo">
+      <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Verktøy]]></item>
+      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Samle verktøy og bytt dem mot utvidelser til din skjulte dyrehage.<br> <br>Du får verktøy i safari og på lykkehjulet. Gå deretter til butikken og bytt dem.<br> <br>Så langt eier du så mange verktøy:]]></item>
+      <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[Vil du utvide den skjulte dyrehagen din for %tools% tools og %zd% zoodollars?]]></item>
+    </category>
+    <category name="zoo.collectables.easterEvent">
+      <item name="zoo.collectables.easterEvent.title"><![CDATA[Påskeegg]]></item>
+      <item name="zoo.collectables.easterEvent.text"><![CDATA[Fra 21. april til 27. april vil du oppleve en flom av påskeegg! Samle dem og bytt dem mot påskeinnhegningspynt, påskeharer og innhegninger. Din nåværende status for påskeegg:]]></item>
+    </category>
+    <category name="zoo.collectables.meadow">
+      <item name="zoo.collectables.meadow.main.title"><![CDATA[Eng]]></item>
+      <item name="zoo.collectables.meadow.main.text"><![CDATA[Mange gress, blomster og saftig kløver vokser i en vakker, fargerik eng.]]></item>
+      <item name="zoo.collectables.meadow.flower.title"><![CDATA[Blomster]]></item>
+      <item name="zoo.collectables.meadow.flower.text"><![CDATA[Om våren forvandles engene til et hav av markblomster. Og dyrene dine elsker dem!]]></item>
+      <item name="zoo.collectables.meadow.log.title"><![CDATA[Stubbe]]></item>
+      <item name="zoo.collectables.meadow.log.text"><![CDATA[En overgangseng skapes ved å rydde trær. Når skogen er borte, vil det først vokse små gressskudd der.]]></item>
+      <item name="zoo.collectables.meadow.gnome.title"><![CDATA[Elfisk]]></item>
+      <item name="zoo.collectables.meadow.gnome.text"><![CDATA[Engene er også ofte hjem til alver, som kommer ut av gjemmestedene sine om natten. Disse sjenerte, men vennlige skapningene deler ofte hjemmene sine med harer.]]></item>
+      <item name="zoo.collectables.meadow.mushroom.title"><![CDATA[Sopp]]></item>
+      <item name="zoo.collectables.meadow.mushroom.text"><![CDATA[Sopp er smakfulle sopper og vokser for eksempel i Nord-Amerika.]]></item>
+      <item name="zoo.collectables.meadow.sign.title"><![CDATA[Vill eng]]></item>
+      <item name="zoo.collectables.meadow.sign.text"><![CDATA[Hvis ingen tar vare på en «overgangseng» over lengre tid, vil det snart vokse opp en vill skog på den igjen.]]></item>
+    </category>
+    <category name="zoo.collectables.ice">
+      <item name="zoo.collectables.ice.main.title"><![CDATA[Is]]></item>
+      <item name="zoo.collectables.ice.main.text"><![CDATA[Ikke bare liker pingviner og isbjørner kaldt klima, men fjellreven liker også is og snø!]]></item>
+      <item name="zoo.collectables.ice.popsicle.title"><![CDATA[Ispinne]]></item>
+      <item name="zoo.collectables.ice.popsicle.text"><![CDATA[Få vet dette, men pingviner liker også ispinner og stjeler dem noen ganger fra turister.]]></item>
+      <item name="zoo.collectables.ice.cubes.title"><![CDATA[Isbiter]]></item>
+      <item name="zoo.collectables.ice.cubes.text"><![CDATA[Isbiter er den perfekte måten å kjøle ned en varm drikk på. De gir forfriskning på en varm sommerdag.]]></item>
+      <item name="zoo.collectables.ice.skates.title"><![CDATA[Skøyte]]></item>
+      <item name="zoo.collectables.ice.skates.text"><![CDATA[Skøyting er en fantastisk sport. Historikere mener at den ble oppfunnet for omtrent 4000 år siden. Finnene bidro sannsynligvis til oppfinnelsen.]]></item>
+      <item name="zoo.collectables.ice.igloo.title"><![CDATA[Igloo]]></item>
+      <item name="zoo.collectables.ice.igloo.text"><![CDATA[Iglo betyr huset til eskimoene, som er de opprinnelige innbyggerne i Nord-Amerika.]]></item>
+      <item name="zoo.collectables.ice.sign.title"><![CDATA[Istapper]]></item>
+      <item name="zoo.collectables.ice.sign.text"><![CDATA[De glitrende istappene dannes i kuldegrader. Selvfølgelig smelter solvarmen dem igjen.]]></item>
+    </category>
+    <category name="zoo.collectables.bamboo">
+      <item name="zoo.collectables.bamboo.main.title"><![CDATA[Bambuslund]]></item>
+      <item name="zoo.collectables.bamboo.main.text"><![CDATA[Bambus er den eneste maten pandaer har, og den vokser hovedsakelig i Asia.]]></item>
+      <item name="zoo.collectables.bamboo.branches.title"><![CDATA[Bambusgren]]></item>
+      <item name="zoo.collectables.bamboo.branches.text"><![CDATA[Bambus er et samlenavn for flere slekter av treaktige gress.]]></item>
+      <item name="zoo.collectables.bamboo.lantern.title"><![CDATA[Lampion]]></item>
+      <item name="zoo.collectables.bamboo.lantern.text"><![CDATA[Heng en pen lykt i bambushagen din og lys opp natten med et mykt lys.]]></item>
+      <item name="zoo.collectables.bamboo.gong.title"><![CDATA[Gong]]></item>
+      <item name="zoo.collectables.bamboo.gong.text"><![CDATA[Gongongen er en fin dekorasjon til bambushagen din. Og den eksotiske lyden ... ser ut til å være laget for å starte meditasjon.]]></item>
+      <item name="zoo.collectables.bamboo.statue.title"><![CDATA[Asiatisk statue]]></item>
+      <item name="zoo.collectables.bamboo.statue.text"><![CDATA[En statue i asiatisk stil vil tilføre en atmosfære av ro og fred til bambushagen.]]></item>
+      <item name="zoo.collectables.bamboo.sign.title"><![CDATA[Bambusvinger]]></item>
+      <item name="zoo.collectables.bamboo.sign.text"><![CDATA[Folk har laget vinger av bambus i lang tid. Det lette, men sterke materialet lar dem nå utrolige høyder.]]></item>
+    </category>
+    <category name="zoo.collectables.parrot">
+      <item name="zoo.collectables.parrot.main.title"><![CDATA[Papegøye]]></item>
+      <item name="zoo.collectables.parrot.main.text"><![CDATA[Noen papegøyer er kjent for å være ganske pratsomme. Noen av dem snakker til og med i fullstendige setninger.]]></item>
+      <item name="zoo.collectables.parrot.plush.title"><![CDATA[Plysj papegøye]]></item>
+      <item name="zoo.collectables.parrot.plush.text"><![CDATA[Papegøyer er veldig sosiale og populære kjæledyr, men de trenger god plass til å løpe rundt.]]></item>
+      <item name="zoo.collectables.parrot.paw.title"><![CDATA[Papegøyeklo]]></item>
+      <item name="zoo.collectables.parrot.paw.text"><![CDATA[Papegøyer har faktisk fire klør. To foran og to bak. På den måten faller de ikke av grenen selv om de sovner.]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.title"><![CDATA[Blackjack]]></item>
+      <item name="zoo.collectables.parrot.pirateFlag.text"><![CDATA[Papegøyer er faktisk pirater som ble forvandlet til fargerike fugler av onde magikere.]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.title"><![CDATA[Peru]]></item>
+      <item name="zoo.collectables.parrot.flagPeru.text"><![CDATA[Jungelen i Amazonas-regionen i Peru er hjem til mange papegøyer, og regnskogen gir dem et ideelt habitat.]]></item>
+      <item name="zoo.collectables.parrot.sign.title"><![CDATA[Fruktfans]]></item>
+      <item name="zoo.collectables.parrot.sign.text"><![CDATA[Papegøyer liker å spise frø og nøtter, men de liker også frukt. Det spiller ingen rolle om det er ferskt eller tørket, det viktigste er at det er søtt.]]></item>
+    </category>
+    <category name="zoo.collectables.rabbit">
+      <item name="zoo.collectables.rabbit.main.title"><![CDATA[Hare]]></item>
+      <item name="zoo.collectables.rabbit.main.text"><![CDATA[Harer lever i en rekke områder – fra ørkener til skoger til kalde polarområder.]]></item>
+      <item name="zoo.collectables.rabbit.plush.title"><![CDATA[Plysjhare]]></item>
+      <item name="zoo.collectables.rabbit.plush.text"><![CDATA[Harer har eksistert i århundrer. Fossiler viser at harelignende skapninger levde i Kina for 60 millioner år siden.]]></item>
+      <item name="zoo.collectables.rabbit.paw.title"><![CDATA[Kaninfot]]></item>
+      <item name="zoo.collectables.rabbit.paw.text"><![CDATA[Kaninføtter er et symbol på lykke i mange kulturer.]]></item>
+      <item name="zoo.collectables.rabbit.paint.title"><![CDATA[Fargepalett]]></item>
+      <item name="zoo.collectables.rabbit.paint.text"><![CDATA[En gang i året kommer påskeharen og gjemmer sjokolade og fargede egg.]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.title"><![CDATA[Portugal]]></item>
+      <item name="zoo.collectables.rabbit.flagPortugal.text"><![CDATA[Europeiske villharer levde opprinnelig i Portugal, Spania og Nordvest-Afrika, men de har også nådd Australia.]]></item>
+      <item name="zoo.collectables.rabbit.sign.title"><![CDATA[Grønnsakseksperter]]></item>
+      <item name="zoo.collectables.rabbit.sign.text"><![CDATA[Harer er vegetarianere. De foretrekker å spise gress, urter, salat og fargerike blomster.]]></item>
+    </category>
+    <category name="zoo.collectables.penguin">
+      <item name="zoo.collectables.penguin.main.title"><![CDATA[Pingvin]]></item>
+      <item name="zoo.collectables.penguin.main.text"><![CDATA[Pingviner er sjøfugler, selv om de ikke kan fly.]]></item>
+      <item name="zoo.collectables.penguin.plush.title"><![CDATA[Plysjpingvin]]></item>
+      <item name="zoo.collectables.penguin.plush.text"><![CDATA[Pingviner er veldig sosiale og konkurransedyktige dyr som ofte liker å danse under vann.]]></item>
+      <item name="zoo.collectables.penguin.paw.title"><![CDATA[Pingvinflipper]]></item>
+      <item name="zoo.collectables.penguin.paw.text"><![CDATA[En pingvins gange på land ser klønete ut, men i vannet er pingvinen en smidig svømmer og dykker.]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.title"><![CDATA[Smoking]]></item>
+      <item name="zoo.collectables.penguin.tuxedo.text"><![CDATA[Noen kaller også en smoking for en pingvin-halsfrakk fordi den ligner påfallende på en pingvin.]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.title"><![CDATA[Antarktis]]></item>
+      <item name="zoo.collectables.penguin.flagAntarctica.text"><![CDATA[Subpoløyene er hjem til en av de største og tyngste pingvinene - keiserpingvinen.]]></item>
+      <item name="zoo.collectables.penguin.sign.title"><![CDATA[Fiskelskere]]></item>
+      <item name="zoo.collectables.penguin.sign.text"><![CDATA[Pingviner er absolutte gourmeter. De foretrekker fisk, men de liker også sjødyr.]]></item>
+    </category>
+    <category name="zoo.collectables.giantTurtle">
+      <item name="zoo.collectables.giantTurtle.main.title"><![CDATA[Kjempeskilpadde]]></item>
+      <item name="zoo.collectables.giantTurtle.main.text"><![CDATA[Skilpadder er reptiler. De lever oftest i nærheten av eller i vann. De største skilpaddene er vannskilpadder.]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.title"><![CDATA[Plysjskilpadde]]></item>
+      <item name="zoo.collectables.giantTurtle.plush.text"><![CDATA[Kjempeskilpaddeunger kommuniserer med søsknene sine mens de fortsatt er i egget. De støter rett og slett borti hverandre med eggeskallene sine.]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.title"><![CDATA[Skilpaddefot]]></item>
+      <item name="zoo.collectables.giantTurtle.paw.text"><![CDATA[Føttene til en vannskilpadde har svømmehud mellom tærne, mens landskilpadder har føtter som ligner mer på stubber.]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.title"><![CDATA[Svinge]]></item>
+      <item name="zoo.collectables.giantTurtle.chair.text"><![CDATA[Elefantskilpadder kan bli over 100 år gamle, men de får aldri grått skjegg.]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.title"><![CDATA[Ecuador]]></item>
+      <item name="zoo.collectables.giantTurtle.flagEcuador.text"><![CDATA[Elefantskilpadder kommer fra Galapagosøyene, som tilhører Ecuador i Sør-Amerika.]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.title"><![CDATA[Ernæringsspesialister]]></item>
+      <item name="zoo.collectables.giantTurtle.sign.text"><![CDATA[De fleste skilpadder er altetere, men noen arter spesialiserer seg på bare én type mat, for eksempel maneter.]]></item>
+    </category>
+    <category name="zoo.collectables.lion">
+      <item name="zoo.collectables.lion.main.title"><![CDATA[Løve]]></item>
+      <item name="zoo.collectables.lion.main.text"><![CDATA[Løver er de nest største kattedyrene i verden etter tigre.]]></item>
+      <item name="zoo.collectables.lion.plush.title"><![CDATA[Plysjløve]]></item>
+      <item name="zoo.collectables.lion.plush.text"><![CDATA[Hvite løver er egentlig helt vanlige løver, bare at pelsen deres har blitt bleket av solen.]]></item>
+      <item name="zoo.collectables.lion.paw.title"><![CDATA[Løvens pote]]></item>
+      <item name="zoo.collectables.lion.paw.text"><![CDATA[De vekker respekt med sine store poter, og klørne griper byttet sitt fast.]]></item>
+      <item name="zoo.collectables.lion.crown.title"><![CDATA[Krone]]></item>
+      <item name="zoo.collectables.lion.crown.text"><![CDATA[Selv om de bor på savanner og stepper, blir de ofte omtalt som «jungelens konger».]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.title"><![CDATA[Tanzania]]></item>
+      <item name="zoo.collectables.lion.flagTanzania.text"><![CDATA[I dag lever de hovedsakelig i nasjonalparker som i Tanzania eller på kysten av Øst-Afrika.]]></item>
+      <item name="zoo.collectables.lion.sign.title"><![CDATA[Biffelskere]]></item>
+      <item name="zoo.collectables.lion.sign.text"><![CDATA[Løver, som alle kattedyr, er kjøttetere. De lever av gnuer, sebraer og bøfler.]]></item>
+    </category>
+    <category name="zoo.collectables.peacock">
+      <item name="zoo.collectables.peacock.main.title"><![CDATA[Påfugl]]></item>
+      <item name="zoo.collectables.peacock.main.text"><![CDATA[Påfugler er imponerende eksotiske fugler. De streifer fritt rundt i mange dyreparker og parker.]]></item>
+      <item name="zoo.collectables.peacock.plush.title"><![CDATA[Plysj påfugl]]></item>
+      <item name="zoo.collectables.peacock.plush.text"><![CDATA[Påfuglhalefjær er vakre. I gresk mytologi er påfugløyne et symbol på vokteren Argus, som voktet Zevs' elsker Io.]]></item>
+      <item name="zoo.collectables.peacock.paw.title"><![CDATA[Påfuglklør]]></item>
+      <item name="zoo.collectables.peacock.paw.text"><![CDATA[Hannpåfugler er ganske forfengelige. De kan bruke timevis på å gre sine vakre fjær med klørne. Og til slutt sprer de dem ut i all sin prakt.]]></item>
+      <item name="zoo.collectables.peacock.mirror.title"><![CDATA[Speil]]></item>
+      <item name="zoo.collectables.peacock.mirror.text"><![CDATA[Påfugler kan gjøre noen ganske kule stunt for å vekke interessen til hunner, og hunner liker også å flørte med dem.]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.title"><![CDATA[India]]></item>
+      <item name="zoo.collectables.peacock.flagIndia.text"><![CDATA[I India har påfuglen vært nasjonalfuglen siden 1963. Indere verdsetter disse fuglene fordi de jakter på giftige kobraer.]]></item>
+      <item name="zoo.collectables.peacock.sign.title"><![CDATA[Kornelsker]]></item>
+      <item name="zoo.collectables.peacock.sign.text"><![CDATA[Påfugler spiser for det meste korn og frø, men fra tid til annen spiser de også blomster og en og annen bille.]]></item>
+    </category>
+    <category name="zoo.collectables.panda">
+      <item name="zoo.collectables.panda.main.title"><![CDATA[Panda]]></item>
+      <item name="zoo.collectables.panda.main.text"><![CDATA[Kjempepandaen er en svart-hvit bjørn som er hjemmehørende i Kina.]]></item>
+      <item name="zoo.collectables.panda.plush.title"><![CDATA[Plysjpanda]]></item>
+      <item name="zoo.collectables.panda.plush.text"><![CDATA[Pandaunger er faktisk veldig små. De veier bare 100 til 200 gram og er omtrent 15–17 cm lange.]]></item>
+      <item name="zoo.collectables.panda.paw.title"><![CDATA[Panda-pote]]></item>
+      <item name="zoo.collectables.panda.paw.text"><![CDATA[Kjempepandaer har en krum tommel. De bruker den til å holde mat.]]></item>
+      <item name="zoo.collectables.panda.bowl.title"><![CDATA[Spisepinner]]></item>
+      <item name="zoo.collectables.panda.bowl.text"><![CDATA[Smarte pandaer bruker bambuspinner til å stikke maten på spyd, akkurat som folk spiser med spisepinner i Asia.]]></item>
+      <item name="zoo.collectables.panda.flagChina.title"><![CDATA[Kina]]></item>
+      <item name="zoo.collectables.panda.flagChina.text"><![CDATA[De siste ville pandaene lever i Kina, verdens største land. Dessverre er det bare noen få igjen av disse kjempepandaene.]]></item>
+      <item name="zoo.collectables.panda.sign.title"><![CDATA[Bambusekspert]]></item>
+      <item name="zoo.collectables.panda.sign.text"><![CDATA[Pandaer foretrekker å tygge bambus, spesielt bladene og de unge kvistene. Fordi de er store dyr, spiser de mye av det.]]></item>
+    </category>
+    <category name="zoo.collectables.sonja">
+      <item name="zoo.collectables.sonja.main.title"><![CDATA[Oppdretter Soňa]]></item>
+      <item name="zoo.collectables.sonja.main.text"><![CDATA[Oppdretteren Soňa vet hvordan man tar perfekt vare på dyrene. Bare hun kan kose med alle dyrene samtidig.]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.title"><![CDATA[Elefantleke]]></item>
+      <item name="zoo.collectables.sonja.elephantToy.text"><![CDATA[Aper er muntre følgesvenner. De liker å leke med for eksempel fargerike treelefanter.]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.title"><![CDATA[Topp]]></item>
+      <item name="zoo.collectables.sonja.spinningTop.text"><![CDATA[Med sin muntert snurrebass kan Soňa muntre opp selv det gretneste neshornet.]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.title"><![CDATA[Museleke]]></item>
+      <item name="zoo.collectables.sonja.mouseToy.text"><![CDATA[Søte huskatter liker å jage lekemus, men løver foretrekker større byttedyr.]]></item>
+      <item name="zoo.collectables.sonja.main.babyBear.title"><![CDATA[Bjørneunge]]></item>
+      <item name="zoo.collectables.sonja.babyBear.text"><![CDATA[Bjørneungene ville bare kose hele tiden. Noen av dem vil ikke forlate omsorgspersonen sin i det hele tatt.]]></item>
+      <item name="zoo.collectables.sonja.sign.title"><![CDATA[Mester i kosing]]></item>
+      <item name="zoo.collectables.sonja.sign.text"><![CDATA[Sonia er en mester i kos. Ansett henne, og du får 12 % mer BZ for tjenestene hennes!]]></item>
+    </category>
+    <category name="zoo.collectables.book">
+      <item name="zoo.collectables.book.tab.animals"><![CDATA[Dyr]]></item>
+      <item name="zoo.collectables.book.tab.cages"><![CDATA[Paddocker]]></item>
+      <item name="zoo.collectables.book.tab.assistants"><![CDATA[Assistenter]]></item>
+      <item name="zoo.collectables.book.more"><![CDATA[Flere...]]></item>
+    </category>
+    <category name="zoo.collectables.rewards">
+      <item name="zoo.collectables.book.rewards.unlocked.title"><![CDATA[Vinne!]]></item>
+      <item name="zoo.collectables.book.rewards.unlocked.text"><![CDATA[Velg din pris:]]></item>
+      <item name="zoo.collectables.book.rewards.locked.title"><![CDATA[Fortsett å samle...]]></item>
+      <item name="zoo.collectables.book.rewards.locked.text"><![CDATA[... Disse flotte belønningene venter på deg:]]></item>
+      <item name="zoo.collectables.book.rewards.button"><![CDATA[Velge]]></item>
+    </category>
+  </category>
+</language>
