@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.inventory">
+    <item name="zoo.inventory.sell.title"><![CDATA[Sælge]]></item>
+    <item name="zoo.inventory.sell.info"><![CDATA[Hvor mange vil du sælge?]]></item>
+    <item name="zoo.inventory.store.error.title"><![CDATA[VIGTIG]]></item>
+    <item name="zoo.inventory.store.error.info"><![CDATA[Hvis du vil flytte dine dyr med indhegninger til dit lager, skal de først være sunde og tilfredse.]]></item>
+    <category name="zoo.inventory.tabs">
+      <item name="zoo.inventory.tabs.gifts"><![CDATA[Gaver]]></item>
+      <item name="zoo.inventory.tabs.inventory"><![CDATA[Inventar]]></item>
+      <item name="zoo.inventory.tabs.pawprints"><![CDATA[Poter]]></item>
+      <item name="zoo.inventory.tabs.pearls"><![CDATA[Perler]]></item>
+      <item name="zoo.inventory.tabs.specials"><![CDATA[Tilbehør]]></item>
+      <item name="zoo.inventory.tabs.trash"><![CDATA[Skrald]]></item>
+    </category>
+    <category name="zoo.inventory.trash">
+      <item name="zoo.inventory.trash.info"><![CDATA[Miljøbeskyttelse med genbrug: Genbrug affald på et genbrugsanlæg og brug råmaterialerne til at fremstille noget, der er nødvendigt.]]></item>
+      <item name="zoo.inventory.trash.amount"><![CDATA[Mængde affald:]]></item>
+    </category>
+    <category name="zoo.inventory.pawprints">
+      <item name="zoo.inventory.tabs.pawprints.info"><![CDATA[Jo mere du passer på dine dyr, jo flere poter samler du. Du kan derefter bruge dem til at forbedre dine indhegninger.<br> <br>Aktuelt antal indsamlede poter:]]></item>
+    </category>
+    <category name="zoo.inventory.pearls">
+      <item name="zoo.inventory.tabs.pearls.info"><![CDATA[Jo mere du passer på dine dyr, jo flere perler tjener du til at forskønne dine levesteder.<br><br>Nuværende perlestatus:]]></item>
+    </category>
+    <category name="zoo.inventory.inventory">
+      <item name="zoo.inventory.inventory.empty"><![CDATA[ER DER TOM OVERALT?<br>Dit lager er i øjeblikket tomt.<br>Hvorfor tjekker du ikke butikken ud eller tager på safari?]]></item>
+      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Bruge]]></item>
+    </category>
+    <category name="zoo.inventory.gifts">
+      <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Spillernavn]]></item>
+      <item name="zoo.inventory.gifts.headerUserID"><![CDATA[Spiller-ID]]></item>
+      <item name="zoo.inventory.gifts.received"><![CDATA[Hvor smukt! Din ven sendte dig en gave. Pak den hurtigt ud!]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Udvide]]></item>
+      <item name="zoo.inventory.gifts.none"><![CDATA[Hvor er det ærgerligt! Du har ingen nye gaver lige nu... Men vær ikke ked af det, der kommer noget snart.]]></item>
+    </category>
+    <category name="zoo.inventory.move">
+      <item name="zoo.inventory.move.title"><![CDATA[Betale]]></item>
+      <item name="zoo.inventory.move.info"><![CDATA[Hvor mange dyr vil du betale for?]]></item>
+    </category>
+    <category name="zoo.inventory.allin">
+      <item name="zoo.inventory.allin.title"><![CDATA[Send alt til lagerbeholdningen]]></item>
+      <item name="zoo.inventory.allin.confirmation"><![CDATA[Er du sikker på, at du vil sende alt til inventaret? Advarsel: Dine dyr skal være rene, fodrede og glade, før du kan gøre dette.]]></item>
+    </category>
+  </category>
+</language>

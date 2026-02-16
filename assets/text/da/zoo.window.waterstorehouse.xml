@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.waterstorehouse">
+    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Vandtårn]]></item>
+    <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Lagerbygning]]></item>
+    <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Dyr har brug for masser af vand. Opgrader dit vandtårn niveau for niveau, og sørg for at have nok vand til alle, efterhånden som din zoologiske have vokser.]]></item>
+    <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Dine dyr har brug for masser af mad. Udvid dit lager niveau for niveau, og sørg for at have nok mad til alle, efterhånden som din zoologiske have vokser.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Bravo! Du har udvidet lageret til det maksimale niveau.]]></item>
+    <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[Bravo! Du har udvidet vandtårnet til det maksimale niveau.]]></item>
+    <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Aktuelle opdateringer: %have% / %max%]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.water"><![CDATA[Vandtårnets nuværende kapacitet]]></item>
+    <item name="zoo.window.waterstorehouse.bartext.store"><![CDATA[Lagerkapaciteten i øjeblikket]]></item>
+    <item name="zoo.window.waterstorehouse.buy.titel"><![CDATA[Udvide]]></item>
+    <item name="zoo.window.waterstorehouse.buy.text"><![CDATA[Vil du gerne udvide din zoologiske have?]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgraderc"><![CDATA[Udvid for zoodollars]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Udvid for zoogrosh]]></item>
+    <item name="zoo.window.waterstorehouse.buy.nextcap"><![CDATA[Ny størrelse:]]></item>
+  </category>
+</language>

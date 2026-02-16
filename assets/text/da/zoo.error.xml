@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.error">
+    <category name="zoo.error.user">
+      <item name="zoo.error.user.unknown"><![CDATA[Denne spiller findes ikke.]]></item>
+      <item name="zoo.error.user.notEnoughCr"><![CDATA[Du har ikke nok zoodolarer til det.]]></item>
+      <item name="zoo.error.user.notEnoughCv"><![CDATA[Du har ikke nok zoogros til det.]]></item>
+      <item name="zoo.error.user.notRequiredLevel"><![CDATA[Du har ikke nået det nødvendige niveau.]]></item>
+    </category>
+    <category name="zoo.error.login">
+      <item name="zoo.error.login.head"><![CDATA[Loginfejl]]></item>
+      <item name="zoo.error.login.text"><![CDATA[Der opstod en fejl under login. Tjek dine oplysninger, og prøv igen.]]></item>
+      <item name="zoo.error.login.blocked"><![CDATA[Du er blevet blokeret af en administrator.]]></item>
+      <item name="zoo.error.login.100.title"><![CDATA[Fejl]]></item>
+      <item name="zoo.error.login.100.info"><![CDATA[Du har allerede brugt bonuskoden på denne konto, det er ikke muligt at bruge den igen.]]></item>
+    </category>
+    <category name="zoo.error.conf">
+      <item name="zoo.error.conf.unknownObj"><![CDATA[Ukendt objekt]]></item>
+      <item name="zoo.error.conf.notBuyable"><![CDATA[Varen kan i øjeblikket ikke købes]]></item>
+      <item name="zoo.error.conf.notEvent"><![CDATA[Varen er ikke aktuel]]></item>
+    </category>
+    <category name="zoo.error.badData">
+      <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Vi beklager!]]></item>
+      <item name="zoo.error.badData.dailyQuests.text"><![CDATA[Åh! Der opstod en fejl. Problemet er blevet rapporteret til teamet!]]></item>
+    </category>
+    <category name="zoo.error.field">
+      <item name="zoo.error.field.unknownObj"><![CDATA[Objektet er ikke tilgængeligt i spillet.]]></item>
+      <item name="zoo.error.field.blocked"><![CDATA[Felt besat]]></item>
+      <item name="zoo.error.field.breedFailed"><![CDATA[Avl mislykkedes. Desværre fik dine dyr ikke afkom.]]></item>
+      <item name="zoo.error.field.wrongSpecies"><![CDATA[Uegnet dyr til denne indhegning.]]></item>
+      <item name="zoo.error.field.maxChildReached"><![CDATA[Du har nået det maksimale antal hvalpe.]]></item>
+      <item name="zoo.error.field.maleAdultNeeded"><![CDATA[Du behøver en mand til det.]]></item>
+      <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[Du behøver en kvinde til det.]]></item>
+      <item name="zoo.error.field.maxAdultReached"><![CDATA[Du har nået det maksimale antal voksne.]]></item>
+      <item name="zoo.error.field.buildingNotFinished"><![CDATA[Denne bygning er stadig under opførelse.]]></item>
+    </category>
+    <category name="zoo.error.db">
+      <item name="zoo.error.db.failUpdate"><![CDATA[Databankopdatering mislykkedes.]]></item>
+    </category>
+    <category name="zoo.error.invite">
+      <item name="zoo.error.invite.requesterror"><![CDATA[Der er opstået en fejl.]]></item>
+      <item name="zoo.error.invite.recruitexists"><![CDATA[Du har allerede inviteret denne bruger.]]></item>
+      <item name="zoo.error.invite.global"><![CDATA[Grænsen for antallet af invitationer er nået. Vent venligst 24 timer, før du kan sende en ny invitation (til alle spil).]]></item>
+      <item name="zoo.error.invite.instance"><![CDATA[Grænsen for antallet af invitationer er nået. Vent venligst 24 timer, før du kan sende en ny invitation (til alle spil).]]></item>
+      <item name="zoo.error.invite.error"><![CDATA[Der opstod en fejl ... prøv igen senere.]]></item>
+    </category>
+  </category>
+</language>

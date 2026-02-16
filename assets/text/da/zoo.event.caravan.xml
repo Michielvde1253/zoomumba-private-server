@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.event.caravan">
+    <item name="zoo.event.caravan.bubble"><![CDATA[Jeg er på vej til et reservat, hvor de vil øge bestanden af ​​- %species%. Kan du hjælpe mig? Jeg låner dig et par - %species% i 120 timer. For %amount% %species% unger får du én voksen.]]></item>
+    <item name="zoo.event.caravan.borrow"><![CDATA[Lån et par]]></item>
+    <item name="zoo.event.caravan.species"><![CDATA[Anakonda]]></item>
+    <item name="zoo.event.caravan.getBaby"><![CDATA[Fantastisk! Du har nu mindst 5 unger i dit inventar. Byt dem hurtigt med mig for én voksen orangutang!]]></item>
+    <item name="zoo.event.caravan.success"><![CDATA[Fantastisk! Du hjalp mig virkelig meget! Nu tager jeg ungerne med til reservatet og sætter dem fri der. Mange tak og på gensyn!]]></item>
+    <item name="zoo.event.caravan.end"><![CDATA[Dyremobilen er tilbage på vej til reservatet og medbringer to dyr, du har lånt. Du kan finde dine nyfødte babyer i dit inventar.]]></item>
+    <category name="zoo.event.caravan.tooltip">
+      <item name="zoo.event.caravan.tooltip.timer"><![CDATA[Du har %count% timer tilbage til at bytte unger.]]></item>
+      <item name="zoo.event.caravan.tooltip.counter"><![CDATA[Orangutangunger i dit inventar]]></item>
+      <item name="zoo.event.caravan.tooltip.inventorizeBabies"><![CDATA[Flyt orangutang-ungerne til inventaret.]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.genus">
+    <category name="zoo.window.shopAnimalInfo">
+      <item name="zoo.genus.title.1"><![CDATA[Arakanga-ara]]></item>
+      <item name="zoo.genus.text.1"><![CDATA[Disse muntre papegøjer er meget snakkesalige! Hold dem altid som et par eller en gruppe. Besøgende elsker disse kloge fyre med deres farvestrålende fjer!]]></item>
+      <item name="zoo.genus.title.4"><![CDATA[Lyserød flamingo]]></item>
+      <item name="zoo.genus.text.4"><![CDATA[Disse smukke lyserøde dyr tiltrækker besøgendes opmærksomhed. Deres primære føde er plankton, men de nyder også frisk fisk. En godbid for søde fugle!]]></item>
+      <item name="zoo.genus.title.5"><![CDATA[Bjergzebra]]></item>
+      <item name="zoo.genus.text.5"><![CDATA[Striber, striber, striber overalt! Det er sindssygt! I en verden fuld af zebrastriber er det god camouflage, men i vores del af verden ser zebraer ret komiske ud. Zebraer hører helt sikkert hjemme i enhver zoologisk have, så lad dig ikke narre af det!]]></item>
+      <item name="zoo.genus.titel.9"><![CDATA[Næsehorn]]></item>
+      <item name="zoo.genus.text.9"><![CDATA[Disse store pachydermer er enspændere. Det er ikke underligt, at de bærer sådanne horn! Trods deres kraftfulde udseende deltager de sjældent i slagsmål. Det er dog bedst kun at holde en han og en hun sammen.]]></item>
+      <item name="zoo.genus.title.12"><![CDATA[Paddeflodhest]]></item>
+      <item name="zoo.genus.text.12"><![CDATA[På land ligner de klodsede kolosser, men udseendet bedrager. Pas på ikke at gøre dem vrede, for når de først begynder at løbe, er det ikke tilrådeligt at stå i vejen for dem. Heldigvis er de afslappede dyr, hvis deres privatliv respekteres.]]></item>
+      <item name="zoo.genus.title.13"><![CDATA[Marmoreret giraf]]></item>
+      <item name="zoo.genus.text.13"><![CDATA[Altid højt oppe i skyerne! Giraffer når de sødeste frugter helt op i træernes toppe. Det er derfor ikke så mærkeligt, at træerne er velgræssede. Med deres lange halse når de meget højt, og de kan bedst lide at spise de unge, grønne blade!]]></item>
+      <item name="zoo.genus.title.32"><![CDATA[Arktisk rensdyr]]></item>
+      <item name="zoo.genus.text.32"><![CDATA[Rensdyr lever i flokke langt nordpå. Selv under de barske arktiske forhold finder de frygtløse rensdyr et sted at overleve.]]></item>
+    </category>
+  </category>
+</language>

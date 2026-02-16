@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventValentine">
+    <category name="zoo.eventValentine.comic">
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Velkommen til vores Valentinsdag-begivenhed! Fra den 8. februar til den 15. februar vil der være en romantisk atmosfære! Hav det sjovt med at spille vores Valentinsdag-spil, og glæd dig til masser af fede præmier!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Se hvordan du gør det:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Pas på dine dyr og saml Valentinsdag-ting: Hjerter, kærlighedsbreve og Amors bue og pile. Brug dem til at vinde nuttede overraskelser i det romantiske Valentinsdag-spil!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Med dine indsamlede genstande kan du bevæge dig rundt på spillebanen og samle præmier: Majestætiske hjorte og forsyninger af Tolija-essens og vækstpotioner venter på dig!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Tjek også butikken ud - der finder du nyttige boostere, der vil sikre endnu større succes og sjov i spillet!]]></item>
+    </category>
+    <category name="zoo.eventValentine.tooltip">
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Fordobler antallet af Valentinsdagsvarer i 1 time.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Genstart brætspillet]]></item>
+    </category>
+    <category name="zoo.eventValentine.layer">
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Vores Valentinsdag-begivenhed er næsten slut! Du modtager ikke flere sløjfer, breve eller hjerter. Men giv ikke op! Du har stadig så meget tid til at vinde Valentinsdag-belønninger:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Nu hvor du har vundet hjorten og hinden, kan du starte brætspillet igen! Du skal blot klikke på det grønne flueben eller den nye knap på spillebrættet!]]></item>
+    </category>
+  </category>
+</language>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.mail">
+    <category name="zoo.mail.tabs">
+      <item name="zoo.mail.tabs.inbox"><![CDATA[Indbakke]]></item>
+      <item name="zoo.mail.tabs.outbox"><![CDATA[Udbakke]]></item>
+      <item name="zoo.mail.tabs.newMail"><![CDATA[Ny besked]]></item>
+      <item name="zoo.mail.tabs.contactList"><![CDATA[Adressebog]]></item>
+    </category>
+    <category name="zoo.mail.general">
+      <item name="zoo.mail.general.pagination"><![CDATA[Side %x% af %y%]]></item>
+      <item name="zoo.mail.general.message"><![CDATA[Besked]]></item>
+      <item name="zoo.mail.general.send"><![CDATA[Sende]]></item>
+      <item name="zoo.mail.general.close"><![CDATA[Tæt]]></item>
+      <item name="zoo.mail.general.userWrote"><![CDATA[%bruger% skrev:]]></item>
+      <item name="zoo.mail.general.userSent"><![CDATA[Du skrev til spiller %user%:]]></item>
+    </category>
+    <category name="zoo.mail.column">
+      <item name="zoo.mail.column.action"><![CDATA[Handling]]></item>
+      <item name="zoo.mail.column.messageSender"><![CDATA[Afsender]]></item>
+      <item name="zoo.mail.column.messageReceiver"><![CDATA[Modtager]]></item>
+      <item name="zoo.mail.column.messageTitle"><![CDATA[Emne]]></item>
+      <item name="zoo.mail.column.messageDate"><![CDATA[Dato]]></item>
+      <item name="zoo.mail.column.playerName"><![CDATA[Spillernavn]]></item>
+      <item name="zoo.mail.column.level"><![CDATA[Niveau]]></item>
+    </category>
+    <category name="zoo.mail.info">
+      <item name="zoo.mail.info.addUserTitle"><![CDATA[Tilføje]]></item>
+      <item name="zoo.mail.info.addUserQuestion"><![CDATA[Vil du virkelig tilføje spiller %user% til din adressebog?]]></item>
+      <item name="zoo.mail.info.deleteMessageTitle"><![CDATA[Slet]]></item>
+      <item name="zoo.mail.info.deleteMessageQuestion"><![CDATA[Vil du virkelig slette denne besked?]]></item>
+      <item name="zoo.mail.info.deleteContactTitle"><![CDATA[Slet]]></item>
+      <item name="zoo.mail.info.deleteContactQuestion"><![CDATA[Vil du virkelig fjerne spiller %user% fra din adressebog?]]></item>
+      <item name="zoo.mail.info.noRecipientTitle"><![CDATA[Fejl]]></item>
+      <item name="zoo.mail.info.noRecipientMessage"><![CDATA[Denne spiller findes ikke.]]></item>
+      <item name="zoo.mail.info.sentOkTitle"><![CDATA[Sendt]]></item>
+      <item name="zoo.mail.info.noAddSelf"><![CDATA[Du kan ikke tilføje dig selv til din adressebog.]]></item>
+      <item name="zoo.mail.info.sentOkMessage"><![CDATA[Din besked er blevet sendt.]]></item>
+      <item name="zoo.mail.info.addUserMessage"><![CDATA[Indtast venligst spillerens navn eller ID, hvis du vil føje dem til din adressebog.]]></item>
+      <item name="zoo.mail.info.multipleUserFound"><![CDATA[Dette navn forekommer ofte. Indtast venligst spillerens ID, som er unikt og karakteristisk.]]></item>
+      <item name="zoo.mail.info.writeMailError.noUserName"><![CDATA[Indtast venligst en modtager, så din besked kan sendes.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSubject"><![CDATA[Indtast venligst et emne, så din besked kan sendes.]]></item>
+      <item name="zoo.mail.info.writeMailError.noMessage"><![CDATA[Indtast venligst beskedteksten, så din besked kan sendes.]]></item>
+      <item name="zoo.mail.info.writeMailError.noSelfSend"><![CDATA[Du kan ikke sende en besked til dig selv.]]></item>
+      <item name="zoo.mail.info.writeMailError.notFriend"><![CDATA[Desværre kan du kun sende beskeder til spillere, der er på din venneliste.]]></item>
+      <item name="zoo.mail.info.writeMailError.userAlreadyExists"><![CDATA[Denne afspiller er allerede blevet tilføjet til din adressebog.]]></item>
+    </category>
+  </category>
+</language>

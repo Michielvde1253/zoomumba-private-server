@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.crafting">
+    <item name="zoo.window.crafting.intro.blueprintRewards"><![CDATA[Du har samlet %mycards% af %allcards% byggeplaner!]]></item>
+    <item name="zoo.window.crafting.intro.title"><![CDATA[Værksted]]></item>
+    <item name="zoo.window.crafting.intro.text"><![CDATA[Håndværkere og hobbyfolk, pas på! Brug dine materialer til at bygge nye indhegninger, bygninger, dekorationer eller stier. Vælg blot en kategori nedenfor, og fortsæt til næste produktionstrin.]]></item>
+    <item name="zoo.window.crafting.intro.chooseCategorie"><![CDATA[Vælg en kategori:]]></item>
+    <item name="zoo.window.crafting.produce.text"><![CDATA[Det er meget simpelt: Nederst til venstre ser du, hvad der produceres i øjeblikket. Byggeplanen viser dig, hvilke materialer du har brug for. Ovenfor ser du produktionstiden og antallet af poter, du skal betale. Forstår du? Okay, så klik på "Start".]]></item>
+    <item name="zoo.window.crafting.produce.button"><![CDATA[Starte]]></item>
+    <item name="zoo.window.crafting.progress.title"><![CDATA[Værksted]]></item>
+    <item name="zoo.window.crafting.progress.text"><![CDATA[Produktionen er i gang!]]></item>
+    <item name="zoo.window.crafting.progress.time"><![CDATA[Varighed:]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.title"><![CDATA[Producer straks]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.text"><![CDATA[Spar tid og afslut produktionen med det samme!]]></item>
+    <item name="zoo.window.crafting.progress.instantRaise.button"><![CDATA[Komplet]]></item>
+    <item name="zoo.window.crafting.progress.layer.elixir.text"><![CDATA[Sæt fart på og fuldfør produktionen på den halve tid.]]></item>
+    <item name="zoo.window.crafting.progress.button.elixir"><![CDATA[Fremskynde]]></item>
+    <item name="zoo.window.crafting.success.text"><![CDATA[Hurra! Færdig: Den genstand, du lige har lavet, kan findes i dit inventar!]]></item>
+    <item name="zoo.window.crafting.blueprint.text"><![CDATA[Hurra! Du har lige modtaget en byggeplan! Gå til værkstedet og byg en ny genstand til din zoologiske have!]]></item>
+  </category>
+</language>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.storage">
+    <category name="zoo.storage.moreSpace">
+      <item name="zoo.storage.moreSpace.title"><![CDATA[Udvid din zoologisk have!]]></item>
+      <item name="zoo.storage.moreSpace.text"><![CDATA[Du kan kun købe denne vare, når du har %neededExpansion% zoo-udvidelser. I øjeblikket har du kun %userExpansion% zoo-udvidelser. Vil du udvide din zoo lige nu, så du kan købe denne vare?]]></item>
+    </category>
+    <category name="zoo.storage.firstExpansion">
+      <item name="zoo.storage.firstExpansion.title"><![CDATA[Vandtårn og lager]]></item>
+      <item name="zoo.storage.firstExpansion.text"><![CDATA[Fantastisk! Du har endelig plads nok til at bygge dit første vandtårn og opbevaringsfacilitet. Begge genstande er gratis i dit inventar. Lad spillet nu begynde!]]></item>
+    </category>
+    <category name="zoo.storage.buy">
+      <item name="zoo.storage.buy.belowWater"><![CDATA[Vandtårnets maksimale kapacitet er %capacity%. Denne værdi kan ikke øges, selv ved køb af denne bygning. Vil du stadig købe den?]]></item>
+      <item name="zoo.storage.buy.belowFood"><![CDATA[Den maksimale kapacitet for dit forsyningslager er %capacity%. Denne værdi kan ikke øges, selv ved at købe denne bygning. Vil du stadig købe den?]]></item>
+      <item name="zoo.storage.buy.maxWater"><![CDATA[Du har %capacity% af din vandkapacitet tilgængelig. Du kan ikke opbevare mere. Denne bygning vil ikke øge din kapacitet. Vil du stadig købe den?]]></item>
+      <item name="zoo.storage.buy.maxFood"><![CDATA[Du har %capacity% af din lagerkapacitet tilgængelig. Du kan ikke opbevare mere. Denne bygning vil ikke øge din kapacitet. Vil du stadig købe den?]]></item>
+    </category>
+    <category name="zoo.storage.capacity">
+      <item name="zoo.storage.capacity.title"><![CDATA[Lagerkapacitet]]></item>
+      <item name="zoo.storage.capacity.text"><![CDATA[Dine dyr har brug for meget foder og vand. Her kan du se, hvor meget af hvert du har til rådighed, og hvor meget du kan udvide.]]></item>
+      <item name="zoo.storage.capacity.water"><![CDATA[Vandkapacitet]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Foderkapacitet]]></item>
+    </category>
+  </category>
+</language>

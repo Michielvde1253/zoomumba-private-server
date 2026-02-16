@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.window.shopResourceInfo">
+    <item name="zoo.window.shopResourceInfo.titel_1"><![CDATA[Vand]]></item>
+    <item name="zoo.window.shopResourceInfo.text_1"><![CDATA[Dine dyr trænger til en forfriskning! Gør dem glade med køligt vand!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_2"><![CDATA[Græs]]></item>
+    <item name="zoo.window.shopResourceInfo.text_2"><![CDATA[Der er ingen bedre måde at tilfredsstille en sulten mave på end at spise lækkert grønt græs. Og med lidt held er der også nogle insekter i græsset som en bonus :-) Lækkert!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_3"><![CDATA[Kød]]></item>
+    <item name="zoo.window.shopResourceInfo.text_3"><![CDATA[Hvem ville ikke nyde et godt stykke kød? Sådan en saftig bøf er en sand fornøjelse!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_4"><![CDATA[Fisk]]></item>
+    <item name="zoo.window.shopResourceInfo.text_4"><![CDATA[Fisk er sundt! Og en favoritfødevare for mange dyr. Du behøver ikke bekymre dig om at tage indvolde ud eller skære, dine dyr vil nyde alt!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_5"><![CDATA[Frugt]]></item>
+    <item name="zoo.window.shopResourceInfo.text_5"><![CDATA[Sød saftig frugt - hvem kunne modstå det? Her finder du frugt til alle dyr!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_6"><![CDATA[Korn]]></item>
+    <item name="zoo.window.shopResourceInfo.text_6"><![CDATA[Korn er en vigtig fødekilde for dine dyr, hvilket hjælper dem med at holde sig aktive og sunde!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_7"><![CDATA[Medicin]]></item>
+    <item name="zoo.window.shopResourceInfo.text_7"><![CDATA[Har et af dine dyr det dårligt? Denne medicin vil helt sikkert få dem på benene igen.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_8"><![CDATA[Supermad]]></item>
+    <item name="zoo.window.shopResourceInfo.text_8"><![CDATA[Med superfood får du dobbelt så meget BZ.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_9"><![CDATA[Supermedicin]]></item>
+    <item name="zoo.window.shopResourceInfo.text_9"><![CDATA[I tilfælde af en alvorlig infektion skal du bruge en virkelig effektiv medicin. Jeg er her hurtigt med en supermedicin. Derudover øger du med supermedicin din chance for at få værdifulde belønninger, der "hopper" ud af indhegningen.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_10"><![CDATA[Den bedste mad]]></item>
+    <item name="zoo.window.shopResourceInfo.text_10"><![CDATA[Det bedste foder giver dig fire gange så mange poter til at forskønne dine indhegninger.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_11"><![CDATA[Tolijas essens]]></item>
+    <item name="zoo.window.shopResourceInfo.text_11"><![CDATA[Tolija-essens forkorter yngletiden med 50%.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_12"><![CDATA[Vækstpotion]]></item>
+    <item name="zoo.window.shopResourceInfo.text_12"><![CDATA[Med vækstdrikken vil dine små vokse dobbelt så hurtigt!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_13"><![CDATA[Skrald]]></item>
+    <item name="zoo.window.shopResourceInfo.text_13"><![CDATA[Det er utroligt, hvad folk smider ud! Genbrug affaldet, og brug materialerne til at bygge nye ting til din zoologiske have.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_14"><![CDATA[Superfilter]]></item>
+    <item name="zoo.window.shopResourceInfo.text_14"><![CDATA[Hvis du genbruger affald ved hjælp af et superfilter, øger du din chance for at finde sjældne materialer.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_15"><![CDATA[Booster til håndværkere]]></item>
+    <item name="zoo.window.shopResourceInfo.text_15"><![CDATA[Denne blanding af humle og energidrik er præcis, hvad dine håndværkere har brug for, for at få energien op og få arbejdet gjort hurtigere.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_16"><![CDATA[Alger]]></item>
+    <item name="zoo.window.shopResourceInfo.text_16"><![CDATA[Grønne vandplanter fulde af værdifulde næringsstoffer! Lækkert!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_17"><![CDATA[Plankton]]></item>
+    <item name="zoo.window.shopResourceInfo.text_17"><![CDATA[Plankton er mikroorganismer, der er føde for mange havdyr.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_18"><![CDATA[Reje]]></item>
+    <item name="zoo.window.shopResourceInfo.text_18"><![CDATA[Ikke kun mennesker, men også dyr elsker rejer!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_19"><![CDATA[Muslinger]]></item>
+    <item name="zoo.window.shopResourceInfo.text_19"><![CDATA[Nyd det bløde kød, der er gemt indeni. Hvem kunne modstå sådan en delikatesse?]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_20"><![CDATA[Vandfilter]]></item>
+    <item name="zoo.window.shopResourceInfo.text_20"><![CDATA[Brug et godt filter for at holde vandet i dine akvarier krystalklart.]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_21"><![CDATA[Super fiskefoder]]></item>
+    <item name="zoo.window.shopResourceInfo.text_21"><![CDATA[Super Fish Food giver en afbalanceret kost til havdyr i alle former og størrelser. Server den og få en dobbelt dosis BZ!]]></item>
+    <item name="zoo.window.shopResourceInfo.titel_22"><![CDATA[Eksklusivt fiskefoder]]></item>
+    <item name="zoo.window.shopResourceInfo.text_22"><![CDATA[Eksklusivt foder til eksklusive fisk. Giv dine dyr dette foder, og få dobbelt så mange perler!]]></item>
+  </category>
+</language>

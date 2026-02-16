@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.eventItems">
+    <item name="zoo.eventItems.setName.3"><![CDATA[Græskarhoved]]></item>
+    <item name="zoo.eventItems.setInfo.3"><![CDATA[Uhyggelige udskårne græskar, kaldet Jack-o'-lanterner, gløder i Halloween-nattens mørke. Hans hæslige grimasse gøres endnu mere skræmmende af det flimrende stearinlys. Uuu]]></item>
+    <item name="zoo.eventItems.setName.8"><![CDATA[Juletræ]]></item>
+    <item name="zoo.eventItems.setInfo.8"><![CDATA[Et slankt grantræ er vokset frem...! Et festligt pyntet træ, komplet med julegaver.]]></item>
+    <item name="zoo.eventItems.setName.12"><![CDATA[Hjerte]]></item>
+    <item name="zoo.eventItems.setInfo.12"><![CDATA[Bring held og lykke! Folk i mange lande tror, ​​at det bringer dem held at kysse en skorstensfejer på Valentinsdag!]]></item>
+    <item name="zoo.eventItems.setName.21"><![CDATA[Fødselsdagskage]]></item>
+    <item name="zoo.eventItems.setInfo.21"><![CDATA[Mums! Hvad ville en fødselsdag være uden en kalorierig lækkerbisken?]]></item>
+    <item name="zoo.eventItems.setName.62"><![CDATA[Fødselsdagskage]]></item>
+    <item name="zoo.eventItems.setInfo.62"><![CDATA[Mums! Hvad ville en fødselsdag være uden denne kalorierige lækkerbisken?]]></item>
+    <item name="zoo.eventItems.setName.78"><![CDATA[Bunke af påskeæg]]></item>
+    <item name="zoo.eventItems.setInfo.78"><![CDATA[En flot samling påskeæg. Førhen brugte man malede hønseæg. Nu om dage er chokoladeæg mere almindelige.]]></item>
+    <item name="zoo.eventItems.setName.846"><![CDATA[Regnbueæg]]></item>
+    <item name="zoo.eventItems.setInfo.846"><![CDATA[Påskeæg specielt tilpasset til synshandicappede børn, så de kan deltage i påskejagten. Æggene bipper eller spiller en melodi.]]></item>
+  </category>
+</language>

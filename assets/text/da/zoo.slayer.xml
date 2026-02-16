@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <category name="zoo.slayer">
+    <category name="zoo.slayer.friends">
+      <item name="zoo.slayer.friends.title"><![CDATA[Venner]]></item>
+      <item name="zoo.slayer.friends.message"><![CDATA[Send en besked til denne ven]]></item>
+      <item name="zoo.slayer.friends.delete"><![CDATA[Er du sikker på, at du vil fjerne denne spiller fra din venneliste?]]></item>
+      <item name="zoo.slayer.friends.visit"><![CDATA[Besøg din vens zoologiske have.]]></item>
+      <item name="zoo.slayer.friends.empty"><![CDATA[Helt alene? Hvorfor ikke hurtigt invitere et par venner til at spille sammen? Flere mennesker betyder mere sjov!]]></item>
+    </category>
+    <category name="zoo.slayer.receivedInvites">
+      <item name="zoo.slayer.receivedInvites.title"><![CDATA[Modtagne venneanmodninger]]></item>
+      <item name="zoo.slayer.receivedInvites.accept"><![CDATA[Accepter venneanmodning]]></item>
+      <item name="zoo.slayer.receivedInvites.deny"><![CDATA[Afvis venneanmodning]]></item>
+      <item name="zoo.slayer.receivedInvites.empty"><![CDATA[Du har desværre ingen nye venneanmodninger.]]></item>
+    </category>
+    <category name="zoo.slayer.sentInvites">
+      <item name="zoo.slayer.sentInvites.title"><![CDATA[Sendte venneanmodninger]]></item>
+      <item name="zoo.slayer.sentInvites.empty"><![CDATA[Du har ikke sendt nogen venneanmodninger.]]></item>
+    </category>
+    <category name="zoo.slayer.add">
+      <item name="zoo.slayer.add.title"><![CDATA[Inviter venner]]></item>
+      <item name="zoo.slayer.add.requested"><![CDATA[Bravo! Du har sendt din venneanmodning til brugeren %useName%.]]></item>
+      <item name="zoo.slayer.add.text"><![CDATA[Har du ikke længere lyst til at spille ZooMumba alene og hellere vil nyde det sammen med andre? Inviter dine venner!]]></item>
+      <item name="zoo.slayer.add.byName"><![CDATA[Inviter venner til at spille ZooMumba!]]></item>
+      <item name="zoo.slayer.add.byName.message"><![CDATA[Indtast venligst dine venners brugernavne for at sende en venskabsanmodning.]]></item>
+      <item name="zoo.slayer.add.duplicated.message"><![CDATA[Vi fandt mere end ét brugernavn under søgningen. Vælg venligst din ven fra listen:]]></item>
+      <item name="zoo.slayer.add.self"><![CDATA[Du kan ikke tilføje dig selv til din egen venneliste!]]></item>
+      <item name="zoo.slayer.add.byMail"><![CDATA[Inviter venner via e-mail.]]></item>
+      <item name="zoo.slayer.add.byFB"><![CDATA[Inviter venner via Facebook.]]></item>
+      <item name="zoo.slayer.add.button"><![CDATA[Invitere]]></item>
+    </category>
+  </category>
+</language>
