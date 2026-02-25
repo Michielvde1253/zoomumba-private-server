@@ -13,7 +13,7 @@
       <item name="zoo.shop.category.material"><![CDATA[Anyag]]></item>
     </category>
     <category name="zoo.shop.tabbar">
-      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Így juthatsz el a műhelybe.]]></item>
+      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Így juthatsz el a műhelybe]]></item>
     </category>
   </category>
 </language>

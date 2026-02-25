@@ -2,8 +2,8 @@
 <language>
   <category name="zoo.window.settings">
     <item name="zoo.window.settings.info"><![CDATA[Üdvözlöm, állatkerti igazgató!<br>Itt testreszabhatja a ZooMumba játékot a saját ízlése szerint! Válassza ki azt a játékot, amelyiket a legjobban élvezi!]]></item>
-    <item name="zoo.window.settings.on"><![CDATA[-on]]></item>
-    <item name="zoo.window.settings.off"><![CDATA[le]]></item>
+    <item name="zoo.window.settings.on"><![CDATA[Be]]></item>
+    <item name="zoo.window.settings.off"><![CDATA[Ki]]></item>
     <item name="zoo.window.settings.quality.low"><![CDATA[alacsony]]></item>
     <item name="zoo.window.settings.quality.middle"><![CDATA[közepes]]></item>
     <item name="zoo.window.settings.quality.high"><![CDATA[magas]]></item>

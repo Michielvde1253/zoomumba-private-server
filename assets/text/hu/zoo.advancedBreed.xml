@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.advancedBreed">
-    <item name="zoo.advancedBreed.info.1"><![CDATA[Sziasztok! Soňa Starostlivá vagyok, az állatkert ápolónője. Alig várjátok, hogy tenyészthessétek az új aranyos bocsokat? Elmagyarázom, hogyan működik! Először is el kell döntenetek, hogy melyik állatfajt szeretnétek tenyészteni.]]></item>
-    <item name="zoo.advancedBreed.info.2"><![CDATA[Válassz ki két felnőtt állatot a készletedből, akik szülőkké válnak. Minél ritkábbak, annál valószínűbb, hogy egy még ritkább utódjuk születik. A szülőknek azonban nálam kell maradniuk ehhez a tenyésztéshez.]]></item>
-    <item name="zoo.advancedBreed.info.3"><![CDATA[További összegyűjtött tárgyak, erős táp, szuper táp vagy szupergyógyszer használata növeli az esélyeidet egy különösen ritka baba felnevelésére. Minél több szív van egy tárgyban, annál nagyobb az esély!]]></item>
-    <item name="zoo.advancedBreed.info.4"><![CDATA[Már majdnem kész vagy az előkészületekkel! Mielőtt elkezdődne, ellenőrizd a választásaidat. Szeretnél valamit megváltoztatni? Semmi gond, csak használd a "Vissza" gombot!]]></item>
-    <item name="zoo.advancedBreed.summary"><![CDATA[A tenyésztési kísérletben a következő állatokat és eszközöket használták:]]></item>
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Szia! Gondos Gabriella vagyok, az állatkert gondozója. Alig győzöd kivárni, hogy tenyészthesd az aranyos új kölyköket? Elmondom, hogyan teheted meg! Először is el kell döntened, hogy melyik állatfajt szeretnéd tenyészteni.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Válassz ki két felnőtt állatot a készletedből, hogy szülőkké váljanak! Minél ritkábbak, annál nagyobb az esélye, hogy még ritkább utódjuk születik. Azonban a szülőknek nálam kell maradniuk a tenyésztés idejére.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Kiegészítő gyűjthető tárgyak, erős táp, szupertáp vagy szupergyógyszer használatával növelheted az esélyedet egy különlegesen ritka utód nevelésére. Minél több szíve van egy tárgynak, annál jobb az esély!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Már majdnem kész az előkészület! Mielőtt belevágnál, ellenőrizd még egyszer a választásaidat. Szeretnél valamit megváltoztatni? Semmi gond, csak használd a „Vissza” gombot!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[A tenyésztési kísérlethez a következő állatok és eszközök lettek felhasználva:]]></item>
     <category name="zoo.advancedBreed.tooltip">
-      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Tenyésztőállomás készen áll]]></item>
-      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Itt tenyésztik]]></item>
-      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Egy baba született!]]></item>
-      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Itt vannak a babák!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[A tenyésztő állomás kész]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Itt történik a tenyésztés.]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[Egy új kölyök született!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[It vannak a kölykök!]]></item>
     </category>
     <category name="zoo.advancedBreed.button">
-      <item name="zoo.advancedBreed.button.start"><![CDATA[Tenyésztés megkezdése]]></item>
-      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Használja az esszenciát]]></item>
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Tenyésztés elkezdése]]></item>
+      <item name="zoo.advancedBreed.button.elixir"><![CDATA[Bájital felhasználása]]></item>
     </category>
     <category name="zoo.advancedBreed.layer">
-      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Tényleg táplálékkiegészítők nélkül szeretnéd elkezdeni a tenyésztést? Gondold át alaposan – táplálékkiegészítőkkel nagyobb esélyed van ritka utódokra.]]></item>
-      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Éppen az előkészületek közepén jársz. Tényleg el akarod hagyni a tenyésztőállomást?]]></item>
-      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Tenyésztőállomás]]></item>
-      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Ezek az állatok most szülnek:]]></item>
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Biztosan el akarod indítani a tenyésztést kiegészítők nélkül? Gondold át jól – a kiegészítőkkel nagyobb az esélyed egy ritka utódra!]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Még tart az előkészület. Biztosan el akarod hagyni a tenyészállomást?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Tenyésztő állomás]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Ezeknek az állatoknak kölykei lesznek:]]></item>
       <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Hátralévő idő:]]></item>
-      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Tolija lényege]]></item>
-      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[A Tolija esszencia 50%-kal lerövidíti a szaporodási időt.]]></item>
-      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hurrá - megszületett a babád! Ezt az aranyos kis babát megtalálod a készletedben:]]></item>
-      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hurrá - született egy gyereked! Ezt az aranyos koboldot megtalálod a leltárodban:]]></item>
-      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Vidd át a kicsit az állatóvodába, hogy felnőjön.]]></item>
-      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Vidd el a kicsiket az állatotthonba, hogy felnőhessenek.]]></item>
-      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Figyelmeztetés: A tenyésztés jelenleg folyamatban van! Ha most áthelyezed az állomást a készletedbe, a folyamat megszakad, és elveszíted az összes állatot és táplálékot. Biztosan áthelyezed most?]]></item>
-      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Figyelmeztetés: A tenyésztés jelenleg folyamatban van! Ha most eladja az állomást, a folyamat megszakad, és minden állat és táplálék elvész. Biztosan eladja az állomást?]]></item>
-      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Ha a tenyésztési folyamat az esemény vége után fejeződik be, akkor csak 1 kölyköt kapsz.]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Szerelmi bájital]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[A Tolija esszencia 50%-kal lerövidíti a tenyésztési időt.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hurrá – született egy kisállatod! Ezt az édes csöppséget a készletedben találod:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hurrá – született egy utódod! Ezt az édes kis gézengúzt a készletedben találod:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Helyezd át a kicsit az állatóvodába, hogy felnőjön!]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Vidd a kicsiket az állatóvodába, hogy felnőjenek!]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Figyelem: A tenyésztés jelenleg is zajlik! Ha most a készletedbe helyezed az állomást, a folyamat megszakad, és az összes állat, valamint kiegészítő elveszik. Biztosan át akarod helyezni most?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Figyelem: A tenyésztés jelenleg is zajlik! Ha most eladod az állomást, a folyamat megszakad, és az összes állat, valamint kiegészítő elveszik. Biztosan el akarod adni az állomást most?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Ha a tenyésztési folyamat az esemény vége után fejeződik be, csak 1 utódot kapsz.]]></item>
     </category>
   </category>
 </language>
