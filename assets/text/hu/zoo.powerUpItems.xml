@@ -2,6 +2,6 @@
 <language>
   <category name="zoo.powerUpItems">
     <item name="zoo.powerUpItems.setName.7"><![CDATA[Mancserősítő]]></item>
-    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[A Mancserősítő 5 órán át 50%-kal több Mancsot ad. A kiválasztás után azonnal aktiválódik.]]></item>
+    <item name="zoo.powerUpItems.setInfo.7"><![CDATA[A Mancserősítő 5 órán at 50%-kal több Mancsot ad. A kiválasztás után azonnal aktiválódik.]]></item>
   </category>
 </language>

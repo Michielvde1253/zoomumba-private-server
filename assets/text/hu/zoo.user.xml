@@ -4,6 +4,6 @@
     <item name="zoo.user.name"><![CDATA[Felhasználónév]]></item>
     <item name="zoo.user.id"><![CDATA[Felhasználói azonosító]]></item>
     <item name="zoo.user.notAuth.title"><![CDATA[Ellenőrzés]]></item>
-    <item name="zoo.user.notAuth.info"><![CDATA[Az ellenőrzés sikertelen. Kérjük, jelentkezzen be újra.]]></item>
+    <item name="zoo.user.notAuth.info"><![CDATA[Az ellenőrzés sikertelen volt. Kérjük jelentkezz be újra!]]></item>
   </category>
 </language>
