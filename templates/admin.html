@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Zoomumba Admin Panel</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background: #f4f6f8;
+        margin: 0;
+        padding: 20px;
+    }
+    h1, h2 {
+        margin-top: 0;
+    }
+    .card {
+        background: #ffffff;
+        padding: 16px;
+        margin-bottom: 20px;
+        border-radius: 4px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    input, textarea, button {
+        font-size: 14px;
+        padding: 6px;
+    }
+    input, textarea {
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 8px;
+    }
+    button {
+        cursor: pointer;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+    }
+    th, td {
+        text-align: left;
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+    }
+    .actions button {
+        margin-right: 6px;
+    }
+    .muted {
+        color: #777;
+        font-size: 13px;
+    }
+</style>
+</head>
+<body>
+
+<h1>Zoomumba Admin Panel</h1>
+
+<div class="card">
+    <h2>Player Search</h2>
+    <input
+        id="searchInput"
+        type="text"
+        placeholder="Search by username or user ID"
+    />
+    <div id="searchHint" class="muted">
+        Enter a search term to load players.
+    </div>
+
+    <table id="playerTable" style="display:none;">
+        <thead>
+            <tr>
+                <th>User ID</th>
+                <th>Username</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="playerTableBody"></tbody>
+    </table>
+</div>
+
+<div class="card">
+    <h2>Message All Players</h2>
+    <input id="globalSubject" type="text" placeholder="Subject" />
+    <textarea id="globalBody" rows="5" placeholder="Message body"></textarea>
+    <button id="sendGlobalMessage">Send Message to All</button>
+</div>
+
+<script>
+const searchInput = document.getElementById("searchInput");
+const playerTable = document.getElementById("playerTable");
+const playerTableBody = document.getElementById("playerTableBody");
+const searchHint = document.getElementById("searchHint");
+
+let searchTimeout = null;
+
+searchInput.addEventListener("input", () => {
+    const query = searchInput.value.trim();
+
+    clearTimeout(searchTimeout);
+
+    if (query.length === 0) {
+        playerTable.style.display = "none";
+        searchHint.textContent = "Enter a search term to load players.";
+        return;
+    }
+
+    searchHint.textContent = "Searching...";
+
+    searchTimeout = setTimeout(() => {
+        fetchPlayers(query);
+    }, 300);
+});
+
+async function fetchPlayers(query) {
+    try {
+        const response = await fetch("/admin-fetch-users", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                query: query,
+                limit: 20
+            })
+        });
+
+        if (!response.ok) {
+            throw new Error("Request failed");
+        }
+
+        const players = await response.json();
+        renderPlayers(players);
+    } catch (err) {
+        searchHint.textContent = "Error loading players.";
+        playerTable.style.display = "none";
+    }
+}
+
+function renderPlayers(players) {
+    playerTableBody.innerHTML = "";
+
+    if (players.length === 0) {
+        playerTable.style.display = "none";
+        searchHint.textContent = "No players found.";
+        return;
+    }
+
+    players.forEach(player => {
+        const row = document.createElement("tr");
+
+        row.innerHTML = `
+            <td>${player.id}</td>
+            <td>${player.username}</td>
+            <td class="actions">
+                <button onclick="emulateAccount('${player.id}')">Emulate</button>
+                <button onclick="banAccount('${player.id}')">Ban</button>
+                <button onclick="messageAccount('${player.id}')">Message</button>
+            </td>
+        `;
+
+        playerTableBody.appendChild(row);
+    });
+
+    playerTable.style.display = "table";
+    searchHint.textContent = "";
+}
+
+/* Placeholder action handlers */
+
+function emulateAccount(userId) {
+    window.open("./emulate/" + userId, "_blank");
+}
+
+function banAccount(userId) {
+    alert("Ban account: " + userId);
+}
+
+function messageAccount(userId) {
+    alert("Send message to account: " + userId);
+}
+
+/* Global message placeholder */
+
+document.getElementById("sendGlobalMessage").addEventListener("click", () => {
+    const subject = document.getElementById("globalSubject").value.trim();
+    const body = document.getElementById("globalBody").value.trim();
+
+    if (!subject || !body) {
+        alert("Subject and body are required.");
+        return;
+    }
+
+    alert("Global message sent.\n\nSubject: " + subject);
+});
+</script>
+
+</body>
+</html>

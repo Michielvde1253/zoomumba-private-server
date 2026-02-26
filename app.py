@@ -3,6 +3,7 @@
 #######################
 from bundle import TEMPLATES_DIR, STUB_DIR, STYLES_DIR, ASSETS_DIR
 from commands import *
+from utils import constantsUtils
 import utils.userUtils as userUtils
 import utils.attractionUtils as attractionUtils
 
@@ -10,7 +11,7 @@ import utils.attractionUtils as attractionUtils
 # Import 3rd party stuff #
 ##########################
 print(" [+] Importing libraries...")
-from flask import Flask, render_template, send_from_directory, request, redirect, session
+from flask import Flask, jsonify, render_template, send_from_directory, request, redirect, session
 from flask_httpauth import HTTPBasicAuth
 import re
 import secrets
@@ -43,7 +44,9 @@ available_commands = {
     "init.sP": handle_switchPlayfield,
     "push.get": handle_pushGet,
     "coupon.redeem": handle_couponRedeem,
-    "tombola.bTT": handle_tombolaBuyTicket
+    "tombola.bTT": handle_tombolaBuyTicket,
+    "mail.gib": handle_mailGetInbox,
+    "tombola.rTT": handle_tombolaRedeemTicket
 }
 
 #########################
@@ -61,12 +64,11 @@ if LOCAL_DEV_MODE:
 else:
     host = "0.0.0.0"
 
-port = 5050 # doesn't matter on Ploomber (neither does the host url actually xd)
+port = 5050
 
 app = Flask(__name__, template_folder=TEMPLATES_DIR)
 app.secret_key = 'my-zoomumba-key'
 
-load_dotenv()
 # Used for the account emulation panel
 auth = HTTPBasicAuth()
 @auth.verify_password
@@ -74,6 +76,15 @@ def verify_password(username, password):
     # username = account id you want to emulate
     if password == os.getenv('STAFF_PASSWORD'):
         return username
+    
+# Load language files for templates
+langstrings = {}
+for filename in os.listdir(os.path.join(p, "templates", "languages")):
+    with open(os.path.join(p, "templates", "languages", filename), "rb") as f:
+        langstrings[filename[0:-5]] = json.loads(f.read())
+
+# Load CVs
+constantsUtils.generate_cvs()
 
 ######################
 # Connect to MongoDB #
@@ -97,7 +108,10 @@ print(" [+] Configuring server routes...")
 def homepage():
     locale = request.args.get('locale')
     if not locale:
-        locale = "en"
+        if "locale" in session:
+            locale = session["locale"]
+        else:
+            locale = "en"
     session["locale"] = locale
 
     action = request.args.get('action')
@@ -108,9 +122,9 @@ def homepage():
     session["msg"] = ""
 
     if action == "externalSignUp":
-        return render_template("signup.html", ASSETSIP=request.host_url, SERVERIP=request.host_url, LOCALE=locale, msg=msg)
+        return render_template("signup.html", ASSETSIP=request.host_url, SERVERIP=request.host_url, LOCALE=locale, LOCALESTRINGS=langstrings[locale], msg=msg)
     else:
-        return render_template("home.html", ASSETSIP=request.host_url, SERVERIP=request.host_url, LOCALE=locale, msg=msg, registered=userUtils.get_total_user_count())
+        return render_template("home.html", ASSETSIP=request.host_url, SERVERIP=request.host_url, LOCALE=locale, LOCALESTRINGS=langstrings[locale], msg=msg, registered=userUtils.get_total_user_count())
 
 
 @app.route('/authenticate', methods=['POST'])
@@ -249,10 +263,10 @@ def gamepage():
 
     return render_template("play.html", tutS=tutS, tutT=tutT, userid=session["userid"], token=token, SERVERIP=host_url, isHTTPS=int(LOCAL_DEV_MODE == False), DEBUGSWF="-DEBUG" if LOCAL_DEV_MODE else "")
 
-@app.route("/emulate")
+@app.route("/emulate/<user_id>")
 @auth.login_required
-def emulate():
-    user_id = int(auth.current_user())
+def emulate(user_id):
+    user_id = int(user_id)
 
     json_data = userUtils.get_zoo_from_db_by_userid(data_db, user_id)
     tutS = json_data["zoo"]["uObj"]["tutS"]
@@ -270,6 +284,46 @@ def emulate():
         host_url = host_name
 
     return render_template("play.html", tutS=tutS, tutT=tutT, userid=user_id, token=token, SERVERIP=host_url, isHTTPS=int(LOCAL_DEV_MODE == False))
+
+@app.route("/admin")
+@auth.login_required
+def admin():
+    return render_template("admin.html")
+
+@app.route("/admin-fetch-users", methods=['POST'])
+@auth.login_required
+def admin_fetch_users():
+    data = request.get_json()
+    query = str(data["query"]).strip()
+    limit = 20
+    if "limit" in data:
+        limit = int(data["limit"])
+        if limit > 20:
+            limit = 20
+
+    if not query:
+        return jsonify([])
+
+    # Filters
+    if query.isdigit():
+        filter = {
+            "$or": [
+                {"id": int(query)},
+                {"username": {"$regex": re.escape(query), "$options": "i"}}
+            ]
+        }
+    else:
+        filter = {
+            "username": {"$regex": re.escape(query), "$options": "i"}
+        }
+
+    result = (
+        auth_db.find(filter, {"_id": 0, "id": 1, "username": 1}).limit(limit)
+    )
+
+    users = list(result)
+    return jsonify(users)
+
 
 @app.route("/crossdomain.xml")
 def crossdomain():

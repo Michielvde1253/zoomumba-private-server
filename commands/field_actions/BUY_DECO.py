@@ -7,7 +7,7 @@ def handle_buyDeco(request, user_id, obj, json_data, config_data, current_field_
     if str(current_field_id) not in json_data["fObj"]["decos"]:
         json_data["fObj"]["decos"][str(current_field_id)] = {}
 
-    # Initialize new road
+    # Initialize new deco
     new_deco = constantsUtils.get_empty_deco()
     new_deco["id"] = json_data["next_object_id"]
     new_deco["uId"] = user_id

@@ -503,7 +503,7 @@
 			<div id="register">
 				<a onclick="window.location='/';return false;" class="btn_close"><div style="width:40px;height:40px;"></div></a>
 				<div id="registerInner">
-					<div id="bgc_signup_short_container" class="bgc_signup_container bgc"><div class="bgc_signup_container_description"><b>This zoo's gone wild! <br><br>Create your own online zoo filled with exotic animals and fun attractions:</b><br><br><ul><li>Enjoy tons of wacky wildlife</li><li>Attract visitors to your zoo with food stands and other decorations</li><li>Turn your zoo into a beautiful park and watch your Zoo-O-Meter soar</li></ul><br>Take good care of your animals and make your zoo famous around the world!<br><br><b>Good times are guaranteed - play now!</b></div>
+					<div id="bgc_signup_short_container" class="bgc_signup_container bgc"><div class="bgc_signup_container_description"><b>{{LOCALESTRINGS["zoo.website.regText"] | safe }}</b></div>
     <div class="bgc_signup_container_form">
         <form method="post" name="bgc_signup_form" class="bgc_signup_form" autocomplete="off" action="./register">
         <div class="bgc_error_translations">
@@ -527,15 +527,15 @@ Privacy Policy. Afterwards, you may continue with your registration.</div>
         </div>
             <fieldset class="bgc_signup_form_signup">
 <div class="bgc_input_text bgc_signup_form_username">
-                    <label for="bgc_signup_form_username">Username</label>
+                    <label for="bgc_signup_form_username">{{LOCALESTRINGS["zoo.website.loginFieldUname"]}}</label>
                     <input maxlength="20" minlength="4" id="bgc_signup_form_username" name="username" type="text">
 </div>
                 <div class="bgc_input_password bgc_signup_form_password">
-                    <label for="bgc_signup_form_password">Password</label>
+                    <label for="bgc_signup_form_password">{{LOCALESTRINGS["zoo.website.loginFieldPword"]}}</label>
                     <input maxlength="45" minlength="4" id="bgc_signup_form_password" name="password" type="password">
 </div>
                 <div class="bgc_input_email bgc_signup_form_email">
-                    <label for="bgc_signup_form_email">E-mail</label>
+                    <label for="bgc_signup_form_email">{{LOCALESTRINGS["zoo.website.loginFieldEmail"]}}</label>
                     <input maxlength="260" id="bgc_signup_form_email" name="email" type="email">
 </div>
                 
@@ -544,19 +544,16 @@ Privacy Policy. Afterwards, you may continue with your registration.</div>
             <fieldset class="bgc_signup_form_legal">
 <div class="bgc_input_checkbox bgc_signup_form_termsAndConditions">
                     <input id="bgc_signup_form_termsAndConditions" name="termsAndConditions" value="1" type="checkbox"><label id="label_termsAndConditions" for="bgc_signup_form_termsAndConditions">
-                        <a class="link_tac" target="_blank" href="https://legal.bigpoint.com/terms-and-conditions/en">Terms &amp; Conditions</a>
-                        <span>and</span>
-                        <a class="link_dataPrivacy" target="_blank" href="https://legal.bigpoint.com/privacy-policy/en">Data Privacy Policy</a>
-                        <span>read and accepted</span>
+                        {{LOCALESTRINGS["zoo.website.terms"] | safe }}
                     </label>
                 </div>
                 <div class="bgc_input_checkbox bgc_signup_form_newsletter">
-                    <input id="bgc_signup_form_newsletter" name="newsletter" value="1" type="checkbox"><label id="label_newsletter" for="bgc_signup_form_newsletter">Receive game information</label>
+                    <input id="bgc_signup_form_newsletter" name="newsletter" value="1" type="checkbox"><label id="label_newsletter" for="bgc_signup_form_newsletter">{{LOCALESTRINGS["zoo.website.gameInfo"]}}</label>
                 </div>
                 
             </fieldset>
 <fieldset class="bgc_signup_form_buttons">
-<input class="bgc_button bgc_signup_form_back" type="button" onclick="window.location='/';return false;" value="Revert"><input class="bgc_button bgc_signup_form_register" type="submit" value="Register">
+<input class="bgc_button bgc_signup_form_back" type="button" onclick="window.location='/';return false;" value="{{LOCALESTRINGS['zoo.website.back']}}"><input class="bgc_button bgc_signup_form_register" type="submit" value="{{LOCALESTRINGS['zoo.website.regHeader']}}">
 </fieldset>
 </form>
     </div>

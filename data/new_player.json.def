@@ -2591,7 +2591,21 @@
   },
   "counter": {},
   "mObj": {
-    "um": false
+    "um": false,
+    "ib": {
+      "cnt": 1,
+      "0": {
+        "id": 0,
+        "head": "Welcome to ZooMumba Private Server!",
+        "body": "This is our work-in-progress attempt to reverse-engineer the ZooMumba server. Keep in mind that most features in this server are not yet working, and that others might still contain bugs.\nAs this is a testing phase, we will reset your progress before releasing (and possibly during development as well if needed).\nYou can use the bonus code HEADSTART to get some starting resources.\n\n\nEnjoy!",
+        "sId": 0,
+        "rId": "PLACEHOLDER_USERID",
+        "status": 0,
+        "sName": "Server Message",
+        "rName": "You",
+        "ins": "01/01/2026 00:00"
+      }
+    }
   },
   "uFs": [],
   "uFrI": [],

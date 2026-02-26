@@ -74,19 +74,19 @@
                                 }
 
         #loginForm_default_loginButton {
-          background:url("{{ASSETSIP}}/assets/img/global/btn/btn_reg_login.png?__cv=c2101b3325f085bd8dd743eee5118000") no-repeat;
+          background:url("{{ASSETSIP}}/assets/img/global/btn/btn_reg_login.png") no-repeat;
         }
 
         #loginForm_default_loginButton:hover {
-          background:url("{{ASSETSIP}}/assets/img/global/btn/btn_reg_login_hov.png?__cv=b3fb9d87cc683b9541ff3893468cb100") no-repeat;
+          background:url("{{ASSETSIP}}/assets/img/global/btn/btn_reg_login_hov.png") no-repeat;
         }
 
         #loginForm_default_signupButton {
-          background:url("{{ASSETSIP}}/assets/img/global/btn/btn_reg_login.png?__cv=c2101b3325f085bd8dd743eee5118000") no-repeat;
+          background:url("{{ASSETSIP}}/assets/img/global/btn/btn_reg_login.png") no-repeat;
         }
 
         #loginForm_default_signupButton:hover {
-          background:url("{{ASSETSIP}}/assets/img/global/btn/btn_reg_login_hov.png?__cv=b3fb9d87cc683b9541ff3893468cb100") no-repeat;
+          background:url("{{ASSETSIP}}/assets/img/global/btn/btn_reg_login_hov.png") no-repeat;
         }
 
         #zoo_extHomeLeftContent {
@@ -582,14 +582,14 @@ var lplocaleMEB   = 'CA';
                     </script>
                 
                 <div id="tour_text" style="position:absolute; left:250px; top:100px; width:350px; height:100px; overflow:auto;">
-                    <p id="text_0">Welcome to the totally crazy zoo game Zoomumba! My name is Zoey and I'll be your guide through this game.<br><br>You can buy animal habitats in the shop and then place them on your zoo to have them built.</p>
-                    <p id="text_1" style="display:none;">Click on the habitat and then buy an animal. Make sure to specify whether you want a male or female animal. <br><br>Once you have both male and female animals in your exhibit, they can have baby animals!</p>
-                    <p id="text_2" style="display:none;">Take care of your animals and give them what they need to make them happy. Go ahead, give it a try!</p>
-                    <p id="text_3" style="display:none;">Connect your animal habitats and attractions with pathways, so that your visitors can walk around and see the park.</p>
-                    <p id="text_4" style="display:none;">The shop is your one-stop store for everything: meat, fruit, grass - you name it, they've got it!</p>
-                    <p id="text_5" style="display:none;">From level 2 on, you can also buy buildings and booths in the shop. These items will increase the popularity of your zoo. <br><br>Profits made from the sale of admission tickets can be picked up at the zoo entrance.</p>
-                    <p id="text_6" style="display:none;">The more visitors who come to your zoo, the more garbage will be generated. <br><br>Keep your zoo clean and your visitors happy by picking up the litter!</p>
-                    <p id="text_7" style="display:none;">The happier your visitors are, the better your rating on the Zoo-O-Meter will be.<br><br>Build the best zoo of all time. Have fun!</p>
+                    <p id="text_0">{{LOCALESTRINGS["zoo.website.gametour.0"] | safe }}</p>
+                    <p id="text_1" style="display:none;">{{LOCALESTRINGS["zoo.website.gametour.1"] | safe }}</p>
+                    <p id="text_2" style="display:none;">{{LOCALESTRINGS["zoo.website.gametour.2"] | safe }}</p>
+                    <p id="text_3" style="display:none;">{{LOCALESTRINGS["zoo.website.gametour.3"] | safe }}</p>
+                    <p id="text_4" style="display:none;">{{LOCALESTRINGS["zoo.website.gametour.4"] | safe }}</p>
+                    <p id="text_5" style="display:none;">{{LOCALESTRINGS["zoo.website.gametour.5"] | safe }}</p>
+                    <p id="text_6" style="display:none;">{{LOCALESTRINGS["zoo.website.gametour.6"] | safe }}</p>
+                    <p id="text_7" style="display:none;">{{LOCALESTRINGS["zoo.website.gametour.7"] | safe }}</p>
                 </div>
 
                 <div id="stepImage" style="position:absolute; top:240px; left:72px; width: 557px; height:231px;background-image:url(/assets/img/{{LOCALE}}/tutorial/step_1.jpg);">
@@ -635,19 +635,19 @@ var lplocaleMEB   = 'CA';
             </div>
             <fieldset class="bgcdw_login_form_login">
 <div class="bgcdw_input_text bgcdw_login_form_username">
-                    <label for="bgcdw_login_form_username">Username</label>
+                    <label for="bgcdw_login_form_username">{{LOCALESTRINGS["zoo.website.loginFieldUname"]}}</label>
                     <input id="bgcdw_login_form_username" name="username" type="text" maxlength="20">
 </div>
                 <div class="bgcdw_input_password bgcdw_login_form_password">
-                    <label for="bgcdw_login_form_password">Password</label>
+                    <label for="bgcdw_login_form_password">{{LOCALESTRINGS["zoo.website.loginFieldPword"]}}</label>
                     <input id="bgcdw_login_form_password" name="password" type="password" maxlength="45">
 </div>
             </fieldset>
             <div class="bgcdw_login_container_remindpassword">
-                <a class="bgcdw_remindpassword" target="_self" href="https://web.archive.org/web/20201224223629/https://accountcenter.bpsecure.com/PasswordReminder?pid=441&amp;lang=en">Forgot your password?</a>
+                <a class="bgcdw_remindpassword" target="_self" href="https://web.archive.org/web/20201224223629/https://accountcenter.bpsecure.com/PasswordReminder?pid=441&amp;lang=en">{{LOCALESTRINGS["zoo.website.forgotPassword"]}}</a>
             </div>
             <fieldset class="bgcdw_login_form_buttons">
-<input class="bgcdw_button bgcdw_login_form_login" type="submit" value="Login"><input class="bgcdw_button bgcdw_login_form_register" type="button" onclick="window.location='/?action=externalSignUp';return false;" value="Register">
+<input class="bgcdw_button bgcdw_login_form_login" type="submit" value="{{LOCALESTRINGS['zoo.website.loginHeader']}}"><input class="bgcdw_button bgcdw_login_form_register" type="button" onclick="window.location='/?action=externalSignUp';return false;" value="{{LOCALESTRINGS['zoo.website.regHeader']}}">
 </fieldset>
 </form>
     </div>
@@ -718,47 +718,43 @@ var lplocaleMEB   = 'CA';
             
 
             <div id="zoo_extReg">
-                Registered: {{registered}}            </div>
+                {{LOCALESTRINGS["zoo.website.registered"]}} {{registered}}            </div>
 
             <ul id="zoo_showLocales">
-                <li onmouseover="document.getElementById('zoo_extLocales').style.display='block';" onmouseout="document.getElementById('zoo_extLocales').style.display='none';">Language
+                <li onmouseover="document.getElementById('zoo_extLocales').style.display='block';" onmouseout="document.getElementById('zoo_extLocales').style.display='none';">{{LOCALESTRINGS["zoo.website.language"]}}
                     <ul id="zoo_extLocales">
-                                                    <li><a href="?locale=de" style="background: url('{{ASSETSIP}}/assets/img/global/flag/de.gif?__cv=b0dbdccf1c4e4a267a5cd2bf7ea4cb00') no-repeat right .5em;">Deutsch</a></li>
-                                                    <li><a href="?locale=en" style="background: url('{{ASSETSIP}}/assets/img/global/flag/en.gif?__cv=b68a866f3b54a11cf2fc2b3ce2ea2600') no-repeat right .5em;">English</a></li>
-                                                    <li><a href="?locale=us" style="background: url('{{ASSETSIP}}/assets/img/global/flag/us.gif?__cv=4a0cdce756ed771a5d9a16114179d500') no-repeat right .5em;">English</a></li>
-                                                    <li><a href="?locale=en_AU" style="background: url('{{ASSETSIP}}/assets/img/global/flag/en_AU.gif?__cv=1fe85ab1104e05f5a26efa5bbcd1cf00') no-repeat right .5em;">English</a></li>
-                                                    <li><a href="?locale=es" style="background: url('{{ASSETSIP}}/assets/img/global/flag/es.gif?__cv=c0ddb5b02a4d2c4d274140a6cffc4b00') no-repeat right .5em;">Español</a></li>
-                                                    <li><a href="?locale=it" style="background: url('{{ASSETSIP}}/assets/img/global/flag/it.gif?__cv=7b2fba7a5df93ea5980e1d4640964200') no-repeat right .5em;">Italiano</a></li>
-                                                    <li><a href="?locale=fr" style="background: url('{{ASSETSIP}}/assets/img/global/flag/fr.gif?__cv=0a4673b07b377d1f58230f40f256d800') no-repeat right .5em;">Français</a></li>
-                                                    <li><a href="?locale=pl" style="background: url('{{ASSETSIP}}/assets/img/global/flag/pl.gif?__cv=279fd88ddc4abbd4d808a087b653ea00') no-repeat right .5em;">Polski</a></li>
-                                                    <li><a href="?locale=tr" style="background: url('{{ASSETSIP}}/assets/img/global/flag/tr.gif?__cv=3c7e51066bea641449722616fdce2d00') no-repeat right .5em;">Turkçe</a></li>
-                                                    <li><a href="?locale=hu" style="background: url('{{ASSETSIP}}/assets/img/global/flag/hu.gif?__cv=d543f5932e461ef6b04c070a63ccd100') no-repeat right .5em;">Magyar</a></li>
-                                                    <li><a href="?locale=pt" style="background: url('{{ASSETSIP}}/assets/img/global/flag/pt.gif?__cv=b68938af019e2c74377327abbe3d4b00') no-repeat right .5em;">Português</a></li>
-                                                    <li><a href="?locale=br" style="background: url('{{ASSETSIP}}/assets/img/global/flag/br.gif?__cv=92858b17e2d5b63d040104586ff52300') no-repeat right .5em;">Português BR</a></li>
-                                                    <li><a href="?locale=nl" style="background: url('{{ASSETSIP}}/assets/img/global/flag/nl.gif?__cv=82994b14a5992b5a3539b9c0a7892900') no-repeat right .5em;">Nederlands</a></li>
-                                                    <li><a href="?locale=fi" style="background: url('{{ASSETSIP}}/assets/img/global/flag/fi.gif?__cv=94e7d08c3043f3dc65b4eff40223d400') no-repeat right .5em;">Suomi</a></li>
-                                                    <li><a href="?locale=da" style="background: url('{{ASSETSIP}}/assets/img/global/flag/da.gif?__cv=d7c2fddc4b0a9c6ca3d5e2ed13374400') no-repeat right .5em;">Dansk</a></li>
-                                                    <li><a href="?locale=ro" style="background: url('{{ASSETSIP}}/assets/img/global/flag/ro.gif?__cv=8569e94e81a39bbb43ed8445d1a92d00') no-repeat right .5em;">Română</a></li>
-                                                    <li><a href="?locale=sv" style="background: url('{{ASSETSIP}}/assets/img/global/flag/sv.gif?__cv=cf357235e945172661d7ee5fde26f900') no-repeat right .5em;">Svenska</a></li>
-                                                    <li><a href="?locale=sk" style="background: url('{{ASSETSIP}}/assets/img/global/flag/sk.gif?__cv=ffac49f21971212d048422d36a555d00') no-repeat right .5em;">Slovensky</a></li>
-                                                    <li><a href="?locale=no" style="background: url('{{ASSETSIP}}/assets/img/global/flag/no.gif?__cv=bbc9011e876a122ea89923e6b730ec00') no-repeat right .5em;">Norsk</a></li>
-                                                    <li><a href="?locale=nl_BE" style="background: url('{{ASSETSIP}}/assets/img/global/flag/nl_BE.gif?__cv=595a78d8e7caadfee854dd2f15e22000') no-repeat right .5em;">Belgisch NL</a></li>
-                                                    <li><a href="?locale=fr_BE" style="background: url('{{ASSETSIP}}/assets/img/global/flag/fr_BE.gif?__cv=595a78d8e7caadfee854dd2f15e22000') no-repeat right .5em;">Belge FR</a></li>
-                                                    <li><a href="?locale=cs" style="background: url('{{ASSETSIP}}/assets/img/global/flag/cs.gif?__cv=6352cbfac37d53fd10f6948e8b9a4a00') no-repeat right .5em;">Česky</a></li>
-                                                    <li><a href="?locale=el" style="background: url('{{ASSETSIP}}/assets/img/global/flag/el.gif?__cv=d26600ec24ea1cd62a3042d1d68f2a00') no-repeat right .5em;">Ελληνικά</a></li>
-                                                    <li><a href="?locale=bg" style="background: url('{{ASSETSIP}}/assets/img/global/flag/bg.gif?__cv=5be202b067ced9053affd880754fcf00') no-repeat right .5em;">Български</a></li>
-                                                    <li><a href="?locale=ru" style="background: url('{{ASSETSIP}}/assets/img/global/flag/ru.gif?__cv=addac471b8ddc26a9f1f2fa235330d00') no-repeat right .5em;">Русский</a></li>
+                                                    <li><a href="?locale=de" style="background: url('{{ASSETSIP}}/assets/img/global/flag/de.gif') no-repeat right .5em;">Deutsch</a></li>
+                                                    <li><a href="?locale=en" style="background: url('{{ASSETSIP}}/assets/img/global/flag/en.gif') no-repeat right .5em;">English</a></li>
+                                                    <li><a href="?locale=es" style="background: url('{{ASSETSIP}}/assets/img/global/flag/es.gif') no-repeat right .5em;">Español</a></li>
+                                                    <li><a href="?locale=it" style="background: url('{{ASSETSIP}}/assets/img/global/flag/it.gif') no-repeat right .5em;">Italiano</a></li>
+                                                    <li><a href="?locale=fr" style="background: url('{{ASSETSIP}}/assets/img/global/flag/fr.gif') no-repeat right .5em;">Français</a></li>
+                                                    <li><a href="?locale=pl" style="background: url('{{ASSETSIP}}/assets/img/global/flag/pl.gif') no-repeat right .5em;">Polski</a></li>
+                                                    <li><a href="?locale=tr" style="background: url('{{ASSETSIP}}/assets/img/global/flag/tr.gif') no-repeat right .5em;">Turkçe</a></li>
+                                                    <li><a href="?locale=hu" style="background: url('{{ASSETSIP}}/assets/img/global/flag/hu.gif') no-repeat right .5em;">Magyar</a></li>
+                                                    <li><a href="?locale=pt" style="background: url('{{ASSETSIP}}/assets/img/global/flag/pt.gif') no-repeat right .5em;">Português</a></li>
+                                                    <li><a href="?locale=br" style="background: url('{{ASSETSIP}}/assets/img/global/flag/br.gif') no-repeat right .5em;">Português BR</a></li>
+                                                    <li><a href="?locale=nl" style="background: url('{{ASSETSIP}}/assets/img/global/flag/nl.gif') no-repeat right .5em;">Nederlands</a></li>
+                                                    <li><a href="?locale=fi" style="background: url('{{ASSETSIP}}/assets/img/global/flag/fi.gif') no-repeat right .5em;">Suomi</a></li>
+                                                    <li><a href="?locale=da" style="background: url('{{ASSETSIP}}/assets/img/global/flag/da.gif') no-repeat right .5em;">Dansk</a></li>
+                                                    <li><a href="?locale=ro" style="background: url('{{ASSETSIP}}/assets/img/global/flag/ro.gif') no-repeat right .5em;">Română</a></li>
+                                                    <li><a href="?locale=sv" style="background: url('{{ASSETSIP}}/assets/img/global/flag/sv.gif') no-repeat right .5em;">Svenska</a></li>
+                                                    <li><a href="?locale=sk" style="background: url('{{ASSETSIP}}/assets/img/global/flag/sk.gif') no-repeat right .5em;">Slovensky</a></li>
+                                                    <li><a href="?locale=no" style="background: url('{{ASSETSIP}}/assets/img/global/flag/no.gif') no-repeat right .5em;">Norsk</a></li>
+                                                    <li><a href="?locale=cs" style="background: url('{{ASSETSIP}}/assets/img/global/flag/cs.gif') no-repeat right .5em;">Česky</a></li>
+                                                    <li><a href="?locale=el" style="background: url('{{ASSETSIP}}/assets/img/global/flag/el.gif') no-repeat right .5em;">Ελληνικά</a></li>
+                                                    <li><a href="?locale=bg" style="background: url('{{ASSETSIP}}/assets/img/global/flag/bg.gif') no-repeat right .5em;">Български</a></li>
+                                                    <li><a href="?locale=ru" style="background: url('{{ASSETSIP}}/assets/img/global/flag/ru.gif') no-repeat right .5em;">Русский</a></li>
                                             </ul>
                 </li>
             </ul>
 
-            <p id="zoo_extHomeLocal" style="background: url('{{ASSETSIP}}/assets/img/global/flag/en.gif?__cv=b68a866f3b54a11cf2fc2b3ce2ea2600') no-repeat right top;" onclick="document.getElementById('zoo_extLocales').style.display='block';">English            </p>
+            <p id="zoo_extHomeLocal" style="background: url('{{ASSETSIP}}/assets/img/global/flag/{{LOCALE}}.gif') no-repeat right top;" onclick="document.getElementById('zoo_extLocales').style.display='block';">{{LOCALESTRINGS["zoo.website.langShort"]}}            </p>
 
             <a onclick="preloadImages(images); openLayer('tour')" id="zoo_extGameTour">
                 <img src="{{ASSETSIP}}/assets/img/{{LOCALE}}/external/typo_spieltour.png?__cv=a20a6ee6e719212c7b01fb77efbaae00"/>
             </a>
 
-            <a href="/web/20201224223629/https://zoomumba.com/GameAPI.php?action=portal.redirectToBoard" target="_blank" id="zoo_extBoardLink">
+            <a href="https://discord.gg/ukC5bEnqaC" target="_blank" id="zoo_extBoardLink">
                 <img src="{{ASSETSIP}}/assets/img/{{LOCALE}}/external/typo_zm_frm.png?__cv=50263bf843484963615c50dbe97f6600"/>
             </a>
 
@@ -768,13 +764,8 @@ var lplocaleMEB   = 'CA';
             <!--gl footer-->
 <div id="gl_footer">
 
-
-&copy; Bigpoint
-&nbsp;·&nbsp;
-All rights reserved
-&nbsp;·&nbsp;
-This game is fan-made and is in no way affiliated to Bigpoint GmbH.
-&nbsp;·&nbsp;
+<br>
+This project is an independent community-run project and is not affiliated with Bigpoint GmbH. All game content, imagery, and trademarks are the property of Bigpoint GmbH.</a>
 <a class="gl_footer_element_link" id="gl_footer_element_link_logo" href="https://www.bigpoint.net/" target="_blank"><img class="gl_footer_element_image" id="gl_footer_element_image_logo" src="/assets/img/global/bigpoint_logo_light.png" alt=""/></a>
 
             
