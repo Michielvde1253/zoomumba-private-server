@@ -12,6 +12,19 @@
       "current_uses": 0,
       "expires": 1794489903,
       "active": true
+    },
+    {
+      "code": "BIGGERHEADSTART",
+      "description": "Example voucher",
+      "rewards": {
+        "virtual_currency": 500000,
+        "real_currency": 10000,
+        "xp": 10000
+      },
+      "max_uses": -1,
+      "current_uses": 0,
+      "expires": 1794489903,
+      "active": true
     }
   ]
 }

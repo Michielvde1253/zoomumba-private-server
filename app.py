@@ -122,7 +122,7 @@ def homepage():
     session["msg"] = ""
 
     if action == "externalSignUp":
-        return render_template("signup.html", ASSETSIP=request.host_url, SERVERIP=request.host_url, LOCALE=locale, LOCALESTRINGS=langstrings[locale], msg=msg)
+        return render_template("signup.html", ASSETSIP=request.host_url, LOCALE=locale, LOCALESTRINGS=langstrings[locale], msg=msg)
     else:
         return render_template("home.html", ASSETSIP=request.host_url, SERVERIP=request.host_url, LOCALE=locale, LOCALESTRINGS=langstrings[locale], msg=msg, registered=userUtils.get_total_user_count())
 
@@ -189,9 +189,10 @@ def register():
     elif termsAndConditions == "0":
         msg = "bgc.error.termsAndConditions_notAccepted"
     elif auth_db.find_one({"username": username}):
-        msg = "A user with this name already exists"
+        msg = "bgc.error.username_alreadyExists"
+    # We're accepting multiple accounts with the same email because why not
     if msg != "":
-        return render_template("signup.html", ASSETSIP=request.host_url, SERVERIP=request.host_url, LOCALE=locale, msg=msg)
+        return render_template("signup.html", ASSETSIP=request.host_url, LOCALE=locale, LOCALESTRINGS=langstrings[locale], msg=msg)
     password = bcrypt.hashpw(password.encode('utf-8'), bcrypt.gensalt()).decode('utf8')
 
     highest_id = auth_db.find().sort('id', -1).limit(1) # Find highest id in database (hopefully this doesn't eat performance xd)
