@@ -1537,37 +1537,37 @@
       "uId": "PLACEHOLDER_USERID",
       "id": 1,
       "cnt": 25,
-      "mCnt": 1250
+      "mCnt": 500
     },
     "2": {
       "uId": "PLACEHOLDER_USERID",
       "id": 2,
       "cnt": 25,
-      "mCnt": 1000
+      "mCnt": 250
     },
     "3": {
       "uId": "PLACEHOLDER_USERID",
       "id": 3,
       "cnt": 25,
-      "mCnt": 1000
+      "mCnt": 250
     },
     "4": {
       "uId": "PLACEHOLDER_USERID",
       "id": 4,
       "cnt": 25,
-      "mCnt": 1000
+      "mCnt": 250
     },
     "5": {
       "uId": "PLACEHOLDER_USERID",
       "id": 5,
       "cnt": 25,
-      "mCnt": 1000
+      "mCnt": 250
     },
     "6": {
       "uId": "PLACEHOLDER_USERID",
       "id": 6,
       "cnt": 25,
-      "mCnt": 1000
+      "mCnt": 250
     },
     "7": {
       "uId": "PLACEHOLDER_USERID",
@@ -1608,62 +1608,62 @@
     "13": {
       "uId": "PLACEHOLDER_USERID",
       "id": 13,
-      "cnt": 2200,
-      "mCnt": 2200
+      "cnt": 0,
+      "mCnt": 255
     },
     "14": {
       "uId": "PLACEHOLDER_USERID",
       "id": 14,
-      "cnt": 5,
-      "mCnt": 250
+      "cnt": 0,
+      "mCnt": 255
     },
     "15": {
       "uId": "PLACEHOLDER_USERID",
       "id": 15,
-      "cnt": 5,
-      "mCnt": 250
+      "cnt": 0,
+      "mCnt": 255
     },
     "16": {
       "uId": "PLACEHOLDER_USERID",
       "id": 16,
-      "cnt": 1000,
-      "mCnt": 1000
+      "cnt": 0,
+      "mCnt": 255
     },
     "17": {
       "uId": "PLACEHOLDER_USERID",
       "id": 17,
-      "cnt": 916,
-      "mCnt": 1000
+      "cnt": 0,
+      "mCnt": 255
     },
     "18": {
       "uId": "PLACEHOLDER_USERID",
       "id": 18,
-      "cnt": 1000,
-      "mCnt": 1000
+      "cnt": 0,
+      "mCnt": 255
     },
     "19": {
       "uId": "PLACEHOLDER_USERID",
       "id": 19,
       "cnt": 0,
-      "mCnt": 1000
+      "mCnt": 255
     },
     "20": {
       "uId": "PLACEHOLDER_USERID",
       "id": 20,
-      "cnt": 248,
-      "mCnt": 250
+      "cnt": 0,
+      "mCnt": 255
     },
     "21": {
       "uId": "PLACEHOLDER_USERID",
       "id": 21,
       "cnt": 0,
-      "mCnt": 250
+      "mCnt": 255
     },
     "22": {
       "uId": "PLACEHOLDER_USERID",
       "id": 22,
       "cnt": 0,
-      "mCnt": 250
+      "mCnt": 255
     }
   },
   "mat": {

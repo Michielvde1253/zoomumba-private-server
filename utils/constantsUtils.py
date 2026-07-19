@@ -10,6 +10,7 @@ empty_store = {"id": -1,"uId": 0,"fId": 0,"stId": 1,"act": 0,"x": 32,"y": 86,"r"
 empty_powerup = {"id": -1,"uId": 0,"pId": 0, "inUse": 0, "lastActivated": 0, "endTime": 0}
 
 TOMBOLA_TICKET_PRICE = 2  # hardcoded because so does the client
+TOMBOLA_WEIGHTS = [1, 49, 49, 28, 1, 49, 49, 28]
 
 LANGUAGES = ["bg", "br", "cs", "da", "de", "el", "en", "es", "fi", "fr", "hu", "it", "nl", "no", "pl", "pt", "ro", "ru", "sk", "sv", "tr"]
 
