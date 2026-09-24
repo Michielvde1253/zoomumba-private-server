@@ -21,6 +21,14 @@ You will need a browser that supports Flash (and Flash Player itself) to run the
 ## Assets
 We're still looking for some of Zoomumba's assets. If you have them or know how to get them, feel free to contact us!
 
+## Unimplemented commands and errors
+Every command the client can send has a handler. Commands without a real implementation fall back to `commands/stubs.py`:
+- "get" style calls answer `t:1` and return whatever matching data the player document has
+- seasonal event calls answer `t:0` with `zoo.error.event.notRunning`, like the original server did for inactive events
+- anything that would change game state answers `t:0` with `zoo.error.notImplemented` and re-sends `uObj`, so the client drops its optimistic changes
+
+Handlers can `raise ZooError(code)` (`utils/zooErrors.py`) to fail a call. The server rolls back that handler's changes to the player data, answers the call with `t:0`, and re-sends `uObj`. Unexpected exceptions do the same with `zoo.error.internal`, so one broken handler no longer turns the whole request into an HTTP 500.
+
 ## List of game commands
 I'm not 100% sure if all of these are still being used in the latest version of Zoomumba, but I hope it gives an indication of the progress of this private server.
 

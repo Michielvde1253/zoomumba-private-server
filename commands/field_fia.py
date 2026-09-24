@@ -1,4 +1,5 @@
 from field_actions import *
+from utils.zooErrors import ZooError, NOT_IMPLEMENTED
 
 available_field_actions = {
     "bC": handle_buyCage,
@@ -32,3 +33,4 @@ def handle_fieldFia(request, user_id, obj, json_data, config_data):
         handler(request, user_id, obj, json_data, config_data, current_field_id)
     else:
         print(f"field.fia case {fia_type} not handled")
+        raise ZooError(NOT_IMPLEMENTED, f"field.fia {fia_type}")
