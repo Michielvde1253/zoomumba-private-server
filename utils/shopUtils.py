@@ -1,3 +1,4 @@
+from utils.zooErrors import ZooError, NOT_ENOUGH_MONEY
 import math
 import time
 
@@ -19,15 +20,13 @@ def buy_from_shop(config_data_for_item, user_level, json_data):
         if (json_data["uObj"]["uCv"] - config_data_for_item["buyVirtual"]) >= 0:
             json_data["uObj"]["uCv"] -= config_data_for_item["buyVirtual"]
         else:
-            # to-do: disconnect user
-            print("Negative resources")
+            raise ZooError(NOT_ENOUGH_MONEY)
     elif is_unlocked == 0:
         # Buy with real currency
         if (json_data["uObj"]["uCr"] - config_data_for_item["buyReal"]) >= 0:
             json_data["uObj"]["uCr"] -= config_data_for_item["buyReal"]
         else:
-            # to-do: disconnect user
-            print("Negative resources")
+            raise ZooError(NOT_ENOUGH_MONEY)
 
 def buy_multiple_from_shop(config_data_for_item, user_level, json_data, amount):
     is_unlocked = is_item_unlocked(config_data_for_item, user_level)
@@ -36,15 +35,13 @@ def buy_multiple_from_shop(config_data_for_item, user_level, json_data, amount):
         if (json_data["uObj"]["uCv"] - amount * config_data_for_item["buyVirtual"]) >= 0:
             json_data["uObj"]["uCv"] -= amount * config_data_for_item["buyVirtual"]
         else:
-            # to-do: disconnect user
-            print("Negative resources")
+            raise ZooError(NOT_ENOUGH_MONEY)
     elif is_unlocked == 0:
         # Buy with real currency
         if (json_data["uObj"]["uCr"] - amount * config_data_for_item["buyReal"]) >= 0:
             json_data["uObj"]["uCr"] -= amount * config_data_for_item["buyReal"]
         else:
-            # to-do: disconnect user
-            print("Negative resources")
+            raise ZooError(NOT_ENOUGH_MONEY)
 
 def get_percentage(timestamp, total_time):
     # Calculates which percentage of the cuddle/feed/etc. bar is filled
@@ -120,12 +117,10 @@ def reduce_real_currency(amount, json_data):
         if (json_data["uObj"]["uCr"] - amount) >= 0:
             json_data["uObj"]["uCr"] -= amount
         else:
-            # to-do: disconnect user
-            print("Negative resources")
+            raise ZooError(NOT_ENOUGH_MONEY)
 
 def reduce_virtual_currency(amount, json_data):
         if (json_data["uObj"]["uCv"] - amount) >= 0:
             json_data["uObj"]["uCv"] -= amount
         else:
-            # to-do: disconnect user
-            print("Negative resources")
+            raise ZooError(NOT_ENOUGH_MONEY)

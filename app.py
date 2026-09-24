@@ -3,7 +3,8 @@
 #######################
 from bundle import TEMPLATES_DIR, STUB_DIR, STYLES_DIR, ASSETS_DIR
 from commands import *
-from utils import constantsUtils
+from utils import constantsUtils, configUtils
+import utils.zooErrors as zooErrors
 import utils.userUtils as userUtils
 import utils.attractionUtils as attractionUtils
 
@@ -24,6 +25,7 @@ from pymongo import MongoClient
 from dotenv import load_dotenv
 import copy
 from urllib.parse import urlparse
+import traceback
 
 print(" [+] Loading server...")
 
@@ -85,6 +87,9 @@ for filename in os.listdir(os.path.join(p, "templates", "languages")):
 
 # Load CVs
 constantsUtils.generate_cvs()
+
+# Load the global game config once (it used to be re-read on every API call)
+configUtils.get_config()
 
 ######################
 # Connect to MongoDB #
@@ -350,15 +355,36 @@ def styles(path):
 
 @app.route("/ZooApi.php", methods=['POST'])
 def handle_request():
-    print(request.form["json"])
+    # Parse the batch: json={"callstack":[{"<service>.<method>": {...params...}}, ...]}
+    try:
+        callstack = json.loads(request.form["json"])["callstack"]
+    except (KeyError, TypeError, ValueError):
+        print("ZooApi.php: malformed request")
+        return error_response(zooErrors.INVALID_REQUEST)
+
+    # Load the player (the client sends its user id as ?uId=)
+    try:
+        user_id = request.args["uId"]
+        all_data = userUtils.get_zoo_from_db_by_userid(data_db, int(user_id))
+    except (KeyError, ValueError):
+        all_data = None
+    if all_data is None:
+        print("ZooApi.php: unknown user")
+        return error_response(zooErrors.NOT_AUTH)
+
+    # Check if token is correct. Answering with system.user.notAuth makes the
+    # client show its "not authorised" window instead of hanging on an HTTP 500.
+    if session.get("token") != all_data["token"] and not LOCAL_DEV_MODE:
+        print("Wrong token")
+        return error_response(zooErrors.NOT_AUTH)
+
+    json_data = all_data["zoo"]
+    initial_json_data = copy.deepcopy(json_data) # Make a copy so we can compare differences later (probably not very efficient but should do for now)
+    config_data = configUtils.get_config() # Loaded once, shared between requests
+
     total_response = {}
     total_response["callstack"] = {}
     obj = {}
-
-    # Load from database
-    all_data = userUtils.get_zoo_from_db_by_userid(data_db, int(request.args["uId"]))
-    json_data = all_data["zoo"]
-    initial_json_data = copy.deepcopy(json_data) # Make a copy so we can compare differences later (probably not very efficient but should do for now)
 
     # Send secret id
     if "sid" in request.form:
@@ -367,35 +393,52 @@ def handle_request():
         obj["zoo_sid"] = json_data["zoo_sid"]
 
     # Send server time
-    if "sData" not in obj:
-        obj["sData"] = {}
-    obj["sData"]["time"] = int(time.time())
-
-    # Load config (this probably should be saved in a variable but that's for later xD)
-    f = open(os.path.join(p, "data", "global_config_data.json.def"), "r")
-    config_data = json.loads(str(f.read()))
-    f.close()
-
-    # Check if token is correct
-    if session["token"] != all_data["token"] and not LOCAL_DEV_MODE:
-        print("Wrong token")
-        return
+    obj["sData"] = {"time": int(time.time())}
 
     # Handle commands
-    callstack = json.loads(request.form["json"])["callstack"]
-    for i in callstack:
-        command = list(i.keys())[0]
-        if command in available_commands:
-            print("Command " + command + " handled")
-            handler = available_commands[command]
-            handler(i[command], request.args["uId"], obj, json_data, config_data)
-            if "req:" in i[command]:
-                total_response["callstack"][i[command]["req:"]] = []
-                # t = 0 means error (1 = no error)
-                # v = type of error (see https://github.com/Michielvde1253/zoomumba-client/blob/54f7352098a0ced11ae3a7eaf0d8a5169f52a02c/src/com/bigpoint/zoomumba/controller/net2/ErrorHandlerCommand.as#L4)
-                total_response["callstack"][i[command]["req:"]].append({"t":1,"v":""})
+    for call in callstack:
+        if not isinstance(call, dict) or len(call) == 0:
+            continue
+        command = next(iter(call))
+        params = call[command]
+        req_id = params.get("req:") if isinstance(params, dict) else None
+
+        handler = available_commands.get(command)
+        if handler is None:
+            print("Command " + command + " not handled (stub)")
+            handler = get_stub_handler(command)
         else:
-            print("Command " + command + " not handled")
+            print("Command " + command + " handled")
+
+        # t = 0 means error (1 = no error), v = message code (see utils/zooErrors.py)
+        status = {"t": 1, "v": ""}
+        data_snapshot = copy.deepcopy(json_data)
+        obj_snapshot = copy.deepcopy(obj)
+        try:
+            handler(params, user_id, obj, json_data, config_data)
+        except Exception as e:
+            if isinstance(e, zooErrors.ZooError):
+                print(f"Command {command} failed: {e.code} ({e})")
+                code, resync = e.code, e.resync
+            else:
+                print(f"Command {command} crashed:")
+                traceback.print_exc()
+                code, resync = zooErrors.INTERNAL, ("uObj",)
+
+            # Roll back whatever the handler changed before it failed
+            json_data.clear()
+            json_data.update(data_snapshot)
+            obj.clear()
+            obj.update(obj_snapshot)
+
+            # Re-send authoritative state so the client drops optimistic changes
+            for key in resync:
+                if key in json_data:
+                    obj[key] = json_data[key]
+            status = {"t": 0, "v": code}
+
+        if req_id is not None:
+            total_response["callstack"].setdefault(str(req_id), []).append(status)
 
     # Remove level-up from last time if needed
     json_data["uObj"]["lvlUp"] = None
@@ -418,10 +461,14 @@ def handle_request():
 
     # Save to database
     added, removed, modified = userUtils.get_differences(initial_json_data, json_data)
-    userUtils.save_zoo(data_db, int(request.args["uId"]), added, removed, modified)
+    userUtils.save_zoo(data_db, int(user_id), added, removed, modified)
     return total_response
-    
-    
+
+
+def error_response(code):
+    """A response that fails the whole batch with one status code."""
+    return {"callstack": {"0": [{"t": 0, "v": code}]}, "obj": {}}
+
     ########
     # MAIN #
     ########
