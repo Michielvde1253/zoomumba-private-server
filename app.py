@@ -3,7 +3,7 @@
 #######################
 from bundle import TEMPLATES_DIR, STUB_DIR, STYLES_DIR, ASSETS_DIR
 from commands import *
-from utils import constantsUtils, configUtils
+from utils import constantsUtils, configUtils, expansionUtils
 import utils.zooErrors as zooErrors
 import utils.userUtils as userUtils
 import utils.attractionUtils as attractionUtils
@@ -456,6 +456,10 @@ def handle_request():
         json_data["uObj"]["uLvl"] = new_level
         json_data["uObj"]["lvlUp"] = 1 # Show level-up popup
         obj["uObj"] = json_data["uObj"]
+
+        # Free main-zoo expansions unlocked at this level (premium item 11)
+        if expansionUtils.apply_level_expansions(json_data, config_data, new_level):
+            obj["pfObj"] = json_data["pfObj"]
 
     total_response["obj"] = obj
 
