@@ -1,5 +1,5 @@
 import time
-from utils import shopUtils, dropUtils
+from utils import shopUtils, dropUtils, questUtils
 
 def handle_cleanCuddleAnimalCage(request, user_id, obj, json_data, config_data, current_field_id):
     current_time = int(time.time())
@@ -28,6 +28,7 @@ def handle_cleanCuddleAnimalCage(request, user_id, obj, json_data, config_data, 
         cage["cuddle"] = current_time + config_data_for_species["cuddleTime"]
 
     dropUtils.pay_cage_action(json_data, config_data, cage, request["fia"])
+    questUtils.count_cage_action(obj, json_data, cage, request["fia"])
 
     obj["uObj"] = json_data["uObj"]
     if "fObj" not in obj:
