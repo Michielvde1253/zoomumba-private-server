@@ -172,3 +172,57 @@ def refresh_activity(obj, json_data, config_data, field_id, x, y):
 
 def now():
     return int(time.time())
+
+
+# ---- keeping animal records in step with the cage counters ----
+
+KIND_INDEX = {"male": 0, "female": 1, "child": 2}  # order of animalsSpecies.animalIds
+
+
+def sync_cage_animals(json_data, config_data, field_id, cage, user_id=None):
+    """Make animals.<field>.<cage> hold exactly cage.male/female/child records.
+
+    The client lists a cage's animals from these records (e.g. to pick the
+    babies to move to the inventory), so every animal counted on the cage
+    needs one. Breeding used to only bump cage.child; this also repairs
+    saves made before that was fixed. Returns the records that were added.
+    """
+    records = get_cage_animals(json_data, field_id, cage["id"])
+    species = config_data["gameItems"]["animalsSpecies"].get(str(cage.get("sId", 0)))
+    by_kind = {kind: [] for kind in KIND_INDEX}
+    for animal_id, animal in list(records.items()):
+        config = config_data["gameItems"]["animals"].get(str(animal.get("aId")))
+        if config is None or (species and animal.get("sId") != cage["sId"]):
+            del records[animal_id]
+            continue
+        by_kind[cage_count_field(config)].append(animal_id)
+
+    added = []
+    for kind, index in KIND_INDEX.items():
+        wanted = cage.get(kind, 0)
+        for animal_id in by_kind[kind][wanted:]:
+            del records[animal_id]
+        missing = wanted - len(by_kind[kind])
+        if missing > 0 and species:
+            for _ in range(missing):
+                animal = {"id": json_data["next_object_id"], "uId": user_id if user_id is not None else cage.get("uId", 0),
+                          "aId": species["animalIds"][index], "sId": cage["sId"], "cId": cage["id"],
+                          "fId": cage.get("fId", field_id), "fTime": now(), "act": 0}
+                json_data["next_object_id"] += 1
+                records[str(animal["id"])] = animal
+                added.append(animal)
+    return added
+
+
+def sync_all_cage_animals(json_data, config_data):
+    for field_id, cages in _as_dict(json_data.get("fObj", {}).get("cages")).items():
+        if field_id == INVENTORY_FIELD:
+            continue
+        for cage in _as_dict(cages).values():
+            sync_cage_animals(json_data, config_data, field_id, cage)
+
+
+def send_cage_with_animals(obj, json_data, field_id, cage):
+    send_item(obj, "cages", field_id, cage)
+    for animal in get_cage_animals(json_data, field_id, cage["id"]).values():
+        send_animal(obj, field_id, cage["id"], animal)
