@@ -21,187 +21,212 @@ You will need a browser that supports Flash (and Flash Player itself) to run the
 ## Assets
 We're still looking for some of Zoomumba's assets. If you have them or know how to get them, feel free to contact us!
 
-## Unimplemented commands and errors
-Every command the client can send has a handler. Commands without a real implementation fall back to `commands/stubs.py`:
-- "get" style calls answer `t:1` and return whatever matching data the player document has
-- seasonal event calls answer `t:0` with `zoo.error.event.notRunning`, like the original server did for inactive events
-- anything that would change game state answers `t:0` with `zoo.error.notImplemented` and re-sends `uObj`, so the client drops its optimistic changes
+## Running the tests
 
-Handlers can `raise ZooError(code)` (`utils/zooErrors.py`) to fail a call. The server rolls back that handler's changes to the player data, answers the call with `t:0`, and re-sends `uObj`. Unexpected exceptions do the same with `zoo.error.internal`, so one broken handler no longer turns the whole request into an HTTP 500.
+`tests/test_api.py` plays through the API the way the client does (register, buy, feed, breed, quests, inventory, ...) against an in-memory MongoDB, and checks both the answers and the saved player data:
+
+```
+pip install -r requirements.txt -r requirements-dev.txt
+python tests/test_api.py
+```
+
+It exits non-zero if a check fails. It can't see what the Flash client does with the answers, so after bigger changes also run through [docs/PLAYTEST.md](docs/PLAYTEST.md) in the real client.
+
+## How the server works
+
+- **Transport:** the client POSTs to `/ZooApi.php?uId=&sid=&secTok=` with a form field `json` = `{"callstack": [{"<service>.<method>": {..., "req:": <request id>}}]}`. The answer is `{"callstack": {"<request id>": [{"t": 1|0, "v": <error code>}]}, "obj": {<state blocks>}}`. The client is state driven: whatever blocks come back in `obj` (`uObj`, `fObj`, `pfObj`, `res`, `animals`, `qObj`, ...) replace what it had.
+- **Commands:** `app.py` maps each `service.method` to a handler in `commands/`; `field.fia` actions are in `commands/field_actions/` (registered in `commands/field_fia.py`), inventory actions in `commands/inventory_iva.py`. Shared game rules live in `utils/` (e.g. `cageCareUtils`, `dropUtils`, `questUtils`, `rewardUtils`, `resourceUtils`, `expansionUtils`, `fieldItemUtils`).
+- **Field items:** `fObj.<type>.<fieldId>.<uniqueId>`, where field `"0"` is the inventory. Animals are `animals.<fieldId>.<cageId>.<uniqueId>`, inventory animals `animals."0"."0".<uniqueId>`. An item sent back with `del: 1` is removed on the client, with `del: 1, inv: 1` it moves to the inventory.
+- **Optimistic client:** for most actions the client already changed its own numbers (money, resources, xp) before the answer arrives, so handlers always send back the authoritative blocks they changed.
+- **Errors:** a handler can `raise ZooError(code)` (`utils/zooErrors.py`). The server rolls back that handler's changes to the player data, answers the call with `t:0`, and re-sends `uObj` (or the blocks named in `resync`) so the client drops its optimistic changes. Unexpected exceptions do the same with `zoo.error.internal`, so one broken handler never turns the whole request into an HTTP 500.
+- **Stubs:** commands without a real implementation fall back to `commands/stubs.py`: "get" style calls answer `t:1` with whatever matching data the player document has, seasonal event calls answer `t:0 zoo.error.event.notRunning` (like the original server for inactive events), and anything else answers `t:0 zoo.error.notImplemented`.
+- **Login repairs:** `init.getUser` fixes things older saves can have wrong: animal records that don't match the cage counters, zoo grid bounds that don't match the zoo size, and level-based expansions that were never granted.
 
 ## List of game commands
-I'm not 100% sure if all of these are still being used in the latest version of Zoomumba, but I hope it gives an indication of the progress of this private server.
 
-- [ ] achievement.ga - GET_ACHIEVEMENTS
-- [ ] advBreedEvt.getConfig - ADVANCED_BREEDING_EVENT_CONFIG
-- [ ] advBreedEvt.redeem - ADVANCED_BREEDING_EVENT_REDEEM
-- [ ] avatar.get - AVATAR_GET
-- [ ] avatar.getConfig - AVATAR_GET_CONFIG
-- [ ] avatar.set - AVATAR_SAVE
-- [ ] boardgame.buy - BOARDGAME_BUY
-- [ ] boardgame.explodeBallon - EXPLODE_BALLONS
-- [ ] boardgame.explodeBallon - EXPLODE_BALLONS_TYPE
-- [ ] boardgame.get - BOARDGAME_GET
-- [ ] boardgame.put - BOARDGAME_PUT
-- [ ] boardgame.put - BOARDGAME_PUT_INSTANT_BUY
-- [ ] caravan.redeem - BABY_EVENT_REDEEM
-- [ ] caravan.wTp - BABY_EVENT_TRADE_COLLECTABLE
-- [ ] circus.bMc - CIRCUS_BUY_BOX
-- [ ] circus.oMb - CIRCUS_OPEN_BOX
+Every command in the client's `NET.as`: 87 implemented, 15 stubbed, 36 seasonal event commands (answer "event not running"), 35 not implemented yet.
+
+### Implemented
+
 - [x] collection.rs - REDEEM_COLLECTION_SET_REWARD
-- [ ] communityPayin.getEvent - COMMUNITY_PAYIN_GET_EVENT
-- [ ] communityPayin.putDrop - COMMUNITY_PAYIN_PUTDROP
-- [ ] communityPayin.redeem - COMMUNITY_PAYIN_REDEEM
 - [x] config.getConfig - GET_CONFIG
 - [x] config.getCv - GET_CV_LIST
 - [x] coupon.redeem - REDEEM_BONUS_CODE
-- [ ] craftingCenter.cbc - CRAFTING_COLLECT
-- [ ] craftingCenter.dbct - CRAFTING_TIME_DECREASE
-- [ ] craftingCenter.gac - CRAFTING_GET_REWARD
-- [ ] craftingCenter.icbc - CRAFTING_COLLECT_INSTANT
-- [ ] craftingCenter.sbc - CRAFTING_START
-- [ ] easter.buyEgg - EASTER_BUY_EGG
-- [ ] easter.getEvent - EASTER_GET_EVENT
-- [ ] easter.putEgg - EASTER_PUT_EGG
-- [ ] error.set - LOG_FLASH_ERROR
-- [ ] field.eFbC - EXTEND_FORGOTTEN_ZOO_TOOLS_BUY
-- [x] field.fia - BREED_END
-- [x] field.fia - BREED_START
-- [x] field.fia - BUILD_CAGE_BUY
-- [x] field.fia - BUILD_DECO_BUY
-- [x] field.fia - BUILD_STORE_BUY
-- [x] field.fia - BUY_ANIMAL_CAGE
-- [x] field.fia - BUY_ANIMAL_TO_INVENTORY
-- [x] field.fia - BUY_ASSISTANT
-- [x] field.fia - BUY_BREEDING_LAB
-- [x] field.fia - BUY_CAGE
-- [x] field.fia - BUY_DECO
-- [x] field.fia - BUY_NURSERY
-- [x] field.fia - BUY_PREMIUM
-- [x] field.fia - BUY_PREMIUM_WITH_COUNT
-- [x] field.fia - BUY_RESOURCE
-- [x] field.fia - BUY_ROAD
-- [x] field.fia - BUY_STORE
-- [x] field.fia - BUY_TRASHBIN
-- [x] field.fia - CLEAN_ANIMAL_CAGE
-- [x] field.fia - CLEAR_ASSISTANT_TIMER
-- [x] field.fia - CLEAR_TRASH_BIN
-- [x] field.fia - CLEAR_TRASH_ROAD
-- [x] field.fia - COLLECT_ENTRANCE_FEE
-- [x] field.fia - COLLECT_STORE_MONEY
-- [x] field.fia - CUDDLE_ANIMAL_CAGE
-- [x] field.fia - DIRECT_BREED
-- [x] field.fia - END_ADVANCED_BREEDING_NET
-- [x] field.fia - END_NURSERY_BREEDING
-- [x] field.fia - FEED_ANIMAL_CAGE
-- [x] field.fia - HEAL_ANIMAL_CAGE
-- [x] field.fia - INSTANT_NURSERY_BREEDING
-- [x] field.fia - MOVE_ANIMAL_CAGE
-- [x] field.fia - MOVE_BREEDING_LAB
-- [x] field.fia - MOVE_CAGE
-- [x] field.fia - MOVE_DECO
-- [x] field.fia - MOVE_NURSERY
-- [x] field.fia - MOVE_ROAD
-- [x] field.fia - MOVE_STORE
-- [x] field.fia - MOVE_TRASH_BIN
-- [x] field.fia - POWER_FEED_ANIMAL_CAGE
-- [x] field.fia - POWER_FEED_ASSISTANT
-- [x] field.fia - SAVE_ACTIV_MAIN_BUILDING
-- [x] field.fia - SELL_ANIMAL_CAGE
-- [x] field.fia - SELL_CAGE
-- [x] field.fia - SELL_DECO
-- [x] field.fia - SELL_ROAD
-- [x] field.fia - SELL_SPECIAL_ITEM
-- [x] field.fia - SELL_STORE
-- [x] field.fia - SELL_TRASH_BIN
-- [x] field.fia - START_ADVANCED_BREEDING_NET
-- [x] field.fia - START_NURSERY_BREEDING
-- [x] field.fia - SUPER_FEED_ANIMAL_CAGE
-- [x] field.fia - SUPER_FEED_ASSISTANT
-- [x] field.fia - SUPER_HEAL_ANIMAL_CAGE
-- [x] field.fia - SUPER_HEAL_ASSISTANT
-- [x] field.fia - UPGRADE_CAGE
-- [x] field.fia - UPGRADE_EVENT_CAGE
-- [x] field.fia - USE_ASSISTANT
-- [x] field.fia - USE_ELIXIR
-- [x] field.fia - USE_RAISING_POTION
-- [x] field.fia - WATER_ANIMAL_CAGE
-- [ ] field.getSpecials - GET_SPECIALS_DATA
-- [ ] field.moveItemsToInventory - MOVE_ITEMS_TO_INVENTORY
-- [ ] field.ul - UNLOCK_FIELD
-- [ ] friends.aFbI - FRIENDS_ACCEPT_FRIEND
-- [ ] friends.cFbI - FRIENDS_CANCEL_FRIENDSHIP
-- [ ] friends.dFbI - FRIENDS_DECLINE_FRIEND
-- [ ] friends.gFrI - FRIENDS_INVITATIONS_RECEIVED
-- [ ] friends.gFs - FRIENDS_FRIENDSHIPS
-- [ ] friends.gFsI - FRIENDS_INVITATIONS_SENT
-- [ ] friends.iFbI - FRIENDS_INVITE_FRIEND
-- [ ] frog.buyDrop - FROG_BUY_DROPICON
-- [ ] frog.getEvent - FROG_GET_EVENT
-- [ ] frog.putDrop - FROG_PUT_DROPICON
-- [ ] frog.swapBalloons - FROG_BUY_ANNIVERSARY
+- [x] field.fia (`beAC`) - BREED_END
+- [x] field.fia (`bsAC`) - BREED_START
+- [x] field.fia (`bdC`) - BUILD_CAGE_BUY
+- [x] field.fia (`bdD`) - BUILD_DECO_BUY
+- [x] field.fia (`bdSt`) - BUILD_STORE_BUY
+- [x] field.fia (`bAC`) - BUY_ANIMAL_CAGE
+- [x] field.fia (`bAInv`) - BUY_ANIMAL_TO_INVENTORY
+- [x] field.fia (`bAs`) - BUY_ASSISTANT
+- [x] field.fia (`bSB`) - BUY_BREEDING_LAB
+- [x] field.fia (`bC`) - BUY_CAGE
+- [x] field.fia (`bD`) - BUY_DECO
+- [x] field.fia (`bSB`) - BUY_NURSERY
+- [x] field.fia (`bP`) - BUY_PREMIUM
+- [x] field.fia (`bP`) - BUY_PREMIUM_WITH_COUT
+- [x] field.fia (`bIr`) - BUY_RESOURCE
+- [x] field.fia (`bR`) - BUY_ROAD
+- [x] field.fia (`bSt`) - BUY_STORE
+- [x] field.fia (`bTb`) - BUY_TRASHBIN
+- [x] field.fia (`cAC`) - CLEAN_ANIMAL_CAGE
+- [x] field.fia (`cAt`) - CLEAR_ASSISTANT_TIMER
+- [x] field.fia (`cTb`) - CLEAR_TRASH_BIN
+- [x] field.fia (`cTr`) - CLEAR_TRASH_ROAD
+- [x] field.fia (`cEf`) - COLLECT_ENTRANCE_FEE
+- [x] field.fia (`cSt`) - COLLECT_STORE_MONEY
+- [x] field.fia (`cuAC`) - CUDDLE_ANIMAL_CAGE
+- [x] field.fia (`bdAC`) - DIRECT_BREED
+- [x] field.fia (`beASB`) - END_ADVANCED_BREEDING_NET
+- [x] field.fia (`reASB`) - END_NURSERY_BREEDING
+- [x] field.fia (`fAC`) - FEED_ANIMAL_CAGE
+- [x] field.fia (`hAC`) - HEAL_ANIMAL_CAGE
+- [x] field.fia (`rdASB`) - INSTANT_NURSERY_BREEDING
+- [x] field.fia (`mAC`) - MOVE_ANIMAL_CAGE
+- [x] field.fia (`mSB`) - MOVE_BREEDING_LAB
+- [x] field.fia (`mC`) - MOVE_CAGE
+- [x] field.fia (`mD`) - MOVE_DECO
+- [x] field.fia (`mSB`) - MOVE_NURSERY
+- [x] field.fia (`mR`) - MOVE_ROAD
+- [x] field.fia (`mSt`) - MOVE_STORE
+- [x] field.fia (`mTb`) - MOVE_TRASH_BIN
+- [x] field.fia (`pfAC`) - POWER_FEED_ANIMAL_CAGE
+- [x] field.fia (`uApfA`) - POWER_FEED_ASSISTANT
+- [x] field.fia (`sEb`) - SAVE_ACTIV_MAIN_BUILDING
+- [x] field.fia (`sAC`) - SELL_ANIMAL_CAGE
+- [x] field.fia (`sC`) - SELL_CAGE
+- [x] field.fia (`sD`) - SELL_DECO
+- [x] field.fia (`sR`) - SELL_ROAD
+- [x] field.fia (`sSB`) - SELL_SPECIAL_ITEM
+- [x] field.fia (`sSt`) - SELL_STORE
+- [x] field.fia (`sTb`) - SELL_TRASH_BIN
+- [x] field.fia (`bsASB`) - START_ADVANCED_BREEDING_NET
+- [x] field.fia (`rsASB`) - START_NURSERY_BREEDING
+- [x] field.fia (`sfAC`) - SUPER_FEED_ANIMAL_CAGE
+- [x] field.fia (`uAsfA`) - SUPER_FEED_ASSISTANT
+- [x] field.fia (`shAC`) - SUPER_HEAL_ANIMAL_CAGE
+- [x] field.fia (`uAshC`) - SUPER_HEAL_ASSISTANT
+- [x] field.fia (`uc`) - UPGRADE_CAGE
+- [x] field.fia (`uCa`) - UPGRADE_EVENT_CAGE
+- [x] field.fia (`uA`) - USE_ASSISTANT
+- [x] field.fia (`bdASB`) - USE_ELIXIR
+- [x] field.fia (`arASB`) - USE_RAISING_POTION
+- [x] field.fia (`wAC`) - WATER_ANIMAL_CAGE
 - [x] gameitems.get - SHOP_ITEMS_GET
-- [ ] gifts.redeem - REDEEM_GIFT
-- [ ] halloween2012.buyDrop - HALLOWEEN2012_BUY_DROPICON
-- [ ] halloween2012.getEvent - HALLOWEEN2012_GET_EVENT
-- [ ] halloween2012.putDrop - HALLOWEEN2012_PUT_DROPICON
-- [ ] init.getNeighbour - GET_NEIGHBOUR
 - [x] init.getUser - GET_USER
 - [x] init.sP - SWITCH_PLAYFIELD
-- [ ] inv.get - INVENTORY_GET
 - [x] inventory.iva - MOVE_ANIMAL_FROM_FIELD_TO_INVENTORY
 - [x] inventory.iva - MOVE_ANIMAL_FROM_INVENTORY_TO_CAGE
 - [x] inventory.iva - MOVE_ITEM_FROM_FIELD_TO_INVENTORY
 - [x] inventory.iva - MOVE_ITEM_FROM_INVENTORY_TO_FIELD
 - [x] inventory.iva - REQUEST_INVENTORY
 - [x] inventory.iva - SELL_ITEM_FROM_INVENTORY
-- [ ] item.buyPU - BUY_POWERUP_SHOP
-- [ ] item.buySB - RECYCLE_BUY_SURPRISEBOX
-- [ ] loan.dI - BABY_CARAVAN_FINISH
-- [ ] loan.gI - BABY_CARAVAN_DO_LOAN
-- [ ] mail.dm - MAIL_DELETE_ITEM
-- [ ] mail.gib - MAIL_GET_INBOX
-- [ ] mail.gob - MAIL_GET_OUTBOX
-- [ ] mail.rm - MAIL_IS_READ
-- [ ] mail.sm - MAIL_SEND_BY_ID
-- [x] managementCenter.get - MANAGEMENT_CENTER_GET
-- [ ] managementCenter.upgrade - MANAGEMENT_CENTER_UPGRADE
-- [ ] packs.buy - BUY_PROMO_PACK
+- [x] mail.gib - MAIL_GET_INBOX
+- [x] managementCenter.get - MANAGMENT_CENTER_GET
 - [x] push.get - PUSH
 - [x] quest.cQ - CANCEL_QUEST
 - [x] quest.gNQ - BUY_NEW_QUESTS
 - [x] quest.gQ - GET_QUESTS
 - [x] quest.gR - FINISH_QUEST
 - [x] quest.sQ - START_QUEST
-- [ ] rankings.get - GET_RANKING_LIST
-- [ ] recyclingCenter.brs - RECYCLE_BOOK_NEW_SLOT
-- [ ] recyclingCenter.crs - RECYCLE_COLLECT_RECYCLE_SLOT
-- [ ] recyclingCenter.grs - RECYCLE_GET_SLOTS
-- [ ] recyclingCenter.icrs - RECYCLE_INSTANT_COLLECT_RECYCLE_SLOT
-- [ ] recyclingCenter.srm - RECYCLE_START_RECYCLE_MATERIAL
-- [ ] safari.bG - BUY_SAFARI_FUEL
-- [ ] safari.bJ - SAFARI_BUY_JOKER
-- [ ] safari.eA - EXPLORE_SAFARI_TILE
-- [ ] safari.eG - SAFARI_END
-- [ ] safari.gC - GET_SAFARI_CONFIG
-- [ ] safari.gS - GET_SAFARI_STATE
-- [ ] safari.sS - START_SAFARI
-- [ ] safari.sT - SKIP_SAFARI_TIMER
-- [ ] safari.uJ - USE_SAFARI_JOKER
-- [x] swfCookie.set - SAVE_FLASH_COOKIE - STUBBED
-- [ ] swfOpt.set - SET_USER
-- [ ] test.testAdam - DEBUG_PHP_ACTION
+- [x] swfCookie.set - SAVE_FLASH_COOKIE
+- [x] swfOpt.set - SET_USER
 - [x] tombola.bTT - BUY_FORTUNE_WHEEL_TICKET
-- [ ] tombola.rTT - REDEEM_FORTUNE_WHEEL_TICKET
+- [x] tombola.rTT - REDEEM_FORTUNE_WHEEL_TICKET
 - [x] tutorial.rS - TUTORIAL_STORE_STATS
-- [ ] user.swap - SWAP_CURRENCY
-- [ ] user.uBN - SEARCH_USER_BY_NAME
-- [ ] valentine.getConfig - VALENTINES_GET_CONFIG
-- [ ] valentine.move - VALENTINES_MAKE_A_MOVE
-- [ ] valentine.redeem - VALENTINES_REDEEM
-- [ ] valentine.reset - VALENTINES_RESET
-- [ ] xmas.dR - XMAS_GIVE_REINDEER_TO_SANTA_CLAUS
-- [ ] xmas.redeem - XMAS_REDEEM_TREE
-- [ ] xmas2012.buyDrop - XMAS2012_BUY_DROPICON
-- [ ] xmas2012.getEvent - XMAS2012_GET_EVENT
-- [ ] xmas2012.putDrop - XMAS2012_PUT_DROP
+
+### Stubbed (the client gets an answer, nothing is changed)
+
+- [ ] achievement.ga - GET_ACHIEVEMENTS — stub: returns saved data
+- [ ] avatar.get - AVATAR_GET — stub: returns saved data
+- [ ] avatar.getConfig - AVATAR_GET_CONFIG — stub: returns saved data
+- [ ] error.set - LOG_FLASH_ERROR — stub: accepted, ignored
+- [ ] field.getSpecials - GET_SPECIALS_DATA — stub: returns saved data
+- [ ] friends.gFrI - FRIENDS_INVITATIONS_RECEIVED — stub: returns saved data
+- [ ] friends.gFs - FRIENDS_FRIENDSHIPS — stub: returns saved data
+- [ ] friends.gFsI - FRIENDS_INVITATIONS_SENT — stub: returns saved data
+- [ ] inv.get - INVENTORY_GET — stub: returns saved data
+- [ ] mail.gob - MAIL_GET_OUTBOX — stub: returns saved data
+- [ ] rankings.get - GET_RANKING_LIST — stub: returns saved data
+- [ ] recyclingCenter.grs - RECYCLE_GET_SLOTS — stub: returns saved data
+- [ ] safari.gC - GET_SAFARI_CONFIG — stub: returns saved data
+- [ ] safari.gS - GET_SAFARI_SATE — stub: returns saved data
+- [ ] test.testAdam - DEBUG_PHP_ACTION — stub: accepted, ignored
+
+### Not implemented yet
+
+- [ ] avatar.set - AVATAR_SAVE — not implemented
+- [ ] craftingCenter.cbc - CRAFTING_COLLECT — not implemented
+- [ ] craftingCenter.dbct - CRAFTING_TIME_DECREASE — not implemented
+- [ ] craftingCenter.gac - CRAFTING_GET_REWARD — not implemented
+- [ ] craftingCenter.icbc - CRAFTING_COLLECT_INSTANT — not implemented
+- [ ] craftingCenter.sbc - CRAFTING_START — not implemented
+- [ ] field.eFbC - EXTEND_FORGOTTEN_ZOO_TOOLS_BUY — not implemented
+- [ ] field.moveItemsToInventory - MOVE_ITEMS_TO_INVENTORY — not implemented
+- [ ] field.ul - UNLOCK_FIELD — not implemented
+- [ ] friends.aFbI - FRIENDS_ACCEPT_FRIEND — not implemented
+- [ ] friends.cFbI - FRIENDS_CANCEL_FRIENDSHIP — not implemented
+- [ ] friends.dFbI - FRIENDS_DECLINE_FRIEND — not implemented
+- [ ] friends.iFbI - FRIENDS_INVITE_FRIEND — not implemented
+- [ ] gifts.redeem - REDEEM_GIFT — not implemented
+- [ ] init.getNeighbour - GET_NEIGHBOUR — not implemented
+- [ ] item.buyPU - BUY_POWERUP_SHOP — not implemented
+- [ ] item.buySB - RECYCLE_BUY_SURPRISEBOX — not implemented
+- [ ] mail.dm - MAIL_DELETE_ITEM — not implemented
+- [ ] mail.rm - MAIL_IS_READ — not implemented
+- [ ] mail.sm - MAIL_SEND_BY_ID — not implemented
+- [ ] managementCenter.upgrade - MANAGMENTCENTER_UPGRADE — not implemented
+- [ ] packs.buy - BUY_PROMO_PACK — not implemented
+- [ ] recyclingCenter.brs - RECYCLE_BOOK_NEW_SLOT — not implemented
+- [ ] recyclingCenter.crs - RECYCLE_COLLLECT_RECYCLE_SLOT — not implemented
+- [ ] recyclingCenter.icrs - RECYCLE_INSTANT_COLLLECT_RECYCLE_SLOT — not implemented
+- [ ] recyclingCenter.srm - RECYCLE_START_RECYCLE_MATERIAL — not implemented
+- [ ] safari.bG - BUY_SAFARI_FUEL — not implemented
+- [ ] safari.bJ - SAFARI_BUY_JOKER — not implemented
+- [ ] safari.eA - EXPLORE_SAFARI_TILE — not implemented
+- [ ] safari.eG - SAFARI_END — not implemented
+- [ ] safari.sS - START_SAFARI — not implemented
+- [ ] safari.sT - SKIP_SAFARI_TIMER — not implemented
+- [ ] safari.uJ - USE_SAFARI_JOKER — not implemented
+- [ ] user.swap - SWAP_CURRENCY — not implemented
+- [ ] user.uBN - SEARCH_USER_BY_NAME — not implemented
+
+### Seasonal events (answer "event not running")
+
+- [ ] advBreedEvt.getConfig - ADVANCED_BREEDING_EVENT_CONFIG — event not running
+- [ ] advBreedEvt.redeem - ADVANCED_BREEDING_EVENT_REDEEM — event not running
+- [ ] boardgame.buy - BOARDGAME_BUY — event not running
+- [ ] boardgame.explodeBallon - EXPLODE_BALLONS — event not running
+- [ ] boardgame.explodeBallon - EXPLODE_BALLONS_TYPE — event not running
+- [ ] boardgame.get - BOARDGAME_GET — event not running
+- [ ] boardgame.put - BOARDGAME_PUT — event not running
+- [ ] boardgame.put - BOARDGAME_PUT_INSTANT_BUY — event not running
+- [ ] caravan.redeem - BABY_EVENT_REDEEM — event not running
+- [ ] caravan.wTp - BABY_EVENT_TRADE_COLLECTABLE — event not running
+- [ ] circus.bMc - CIRCUS_BUY_BOX — event not running
+- [ ] circus.oMb - CIRCUS_OPEN_BOX — event not running
+- [ ] communityPayin.getEvent - COMMUNITY_PAYIN_GET_EVENT — event not running
+- [ ] communityPayin.putDrop - COMMUNITY_PAYIN_PUTDROP — event not running
+- [ ] communityPayin.redeem - COMMUNITY_PAYIN_REDEEM — event not running
+- [ ] easter.buyEgg - EASTER_BUY_EGG — event not running
+- [ ] easter.getEvent - EASTER_GET_EVENT — event not running
+- [ ] easter.putEgg - EASTER_PUT_EGG — event not running
+- [ ] frog.buyDrop - FROG_BUY_DROPICON — event not running
+- [ ] frog.getEvent - FROG_GET_EVENT — event not running
+- [ ] frog.putDrop - FROG_PUT_DROPICON — event not running
+- [ ] frog.swapBalloons - FROG_BUY_ANNIVERSARY — event not running
+- [ ] halloween2012.buyDrop - HALLOWEEN2012_BUY_DROPICON — event not running
+- [ ] halloween2012.getEvent - HALLOWEEN2012_GET_EVENT — event not running
+- [ ] halloween2012.putDrop - HALLOWEEN2012_PUT_DROPICON — event not running
+- [ ] loan.dI - BABY_CARAVAN_FINISH — event not running
+- [ ] loan.gI - BABY_CARAVAN_DO_LOAN — event not running
+- [ ] valentine.getConfig - VALENTINES_GET_CONFIG — event not running
+- [ ] valentine.move - VALENTINES_MAKE_A_MOVE — event not running
+- [ ] valentine.redeem - VALENTINES_REDEEM — event not running
+- [ ] valentine.reset - VALENTINES_RESET — event not running
+- [ ] xmas.dR - XMAS_GIVE_REINDEED_TO_SANTA_CLAUS — event not running
+- [ ] xmas.redeem - XMAS_REDEEM_TREE — event not running
+- [ ] xmas2012.buyDrop - XMAS2012_BUY_DROPICON — event not running
+- [ ] xmas2012.getEvent - XMAS2012_GET_EVENT — event not running
+- [ ] xmas2012.putDrop - XMAS2012_PUT_DROP — event not running
