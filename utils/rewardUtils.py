@@ -13,6 +13,21 @@ from utils.zooErrors import ZooError, INVALID_REQUEST, NOT_ENOUGH_MONEY, NOT_ENO
 USER_FIELDS = {0: "uCv", 1: "uCr", 2: "uEp", 3: "pPaw", 4: "pearls", 5: "uCv"}
 
 
+def _empty_trashbin():
+    return {"id": -1, "uId": 0, "fId": 0, "tbId": 1, "act": 0, "x": 0, "y": 0, "r": 0, "clean": 0}
+
+
+# reward type -> (fObj key, catalogue id field, template); these go into the inventory
+ITEM_REWARDS = {}
+for _names, _entry in ((("decor", "decors", "deco", "decos"), ("decos", "dId", constantsUtils.get_empty_deco)),
+                       (("store", "stores", "shop", "shops"), ("stores", "stId", constantsUtils.get_empty_store)),
+                       (("cage", "cages"), ("cages", "cId", constantsUtils.get_empty_cage)),
+                       (("road", "roads"), ("roads", "rId", constantsUtils.get_empty_road)),
+                       (("trashbin", "trashbins"), ("trashbins", "tbId", _empty_trashbin))):
+    for _name in _names:
+        ITEM_REWARDS[_name] = _entry
+
+
 def amount_of(entry):
     return int(entry.get("amount", entry.get("cnt", 1)))
 
@@ -62,9 +77,8 @@ def give_reward(reward, user_id, obj, json_data, config_data):
         entry = json_data.setdefault("collItems", {}).setdefault(str(reward_id), {"uId": user_id, "id": int(reward_id), "cnt": 0})
         entry["cnt"] += amount
 
-    elif kind in ("decor", "store"):
-        key, id_field = ("decos", "dId") if kind == "decor" else ("stores", "stId")
-        template = constantsUtils.get_empty_deco if kind == "decor" else constantsUtils.get_empty_store
+    elif kind in ITEM_REWARDS:
+        key, id_field, template = ITEM_REWARDS[kind]
         inventory = items.get_items(json_data, key, items.INVENTORY_FIELD)
         for _ in range(amount):
             item = template()

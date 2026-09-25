@@ -3,7 +3,7 @@
 #######################
 from bundle import TEMPLATES_DIR, STUB_DIR, STYLES_DIR, ASSETS_DIR
 from commands import *
-from utils import constantsUtils, configUtils, expansionUtils, siteConfig
+from utils import constantsUtils, configUtils, expansionUtils, siteConfig, playfieldUtils
 import utils.zooErrors as zooErrors
 import utils.userUtils as userUtils
 import utils.attractionUtils as attractionUtils
@@ -51,6 +51,20 @@ available_commands = {
     "tombola.rTT": handle_tombolaRedeemTicket,
     "inventory.iva": handle_inventoryIva,
     "collection.rs": handle_collectionRs,
+    "field.ul": handle_fieldUnlock,
+    "field.eFbC": handle_extendForgottenWithTools,
+    "field.moveItemsToInventory": handle_moveItemsToInventory,
+    "craftingCenter.sbc": handle_craftingStart,
+    "craftingCenter.cbc": handle_craftingCollect,
+    "craftingCenter.gac": handle_craftingCollect,
+    "craftingCenter.icbc": handle_craftingCollectInstant,
+    "craftingCenter.dbct": handle_craftingTimeDecrease,
+    "recyclingCenter.grs": handle_recyclingGetSlots,
+    "recyclingCenter.brs": handle_recyclingBookSlot,
+    "recyclingCenter.srm": handle_recyclingStart,
+    "recyclingCenter.crs": handle_recyclingCollect,
+    "recyclingCenter.icrs": handle_recyclingCollectInstant,
+    "item.buySB": handle_buySurpriseBox,
     "quest.gQ": handle_questGetQuests,
     "quest.gNQ": handle_questBuyNewQuests,
     "quest.sQ": handle_questStart,
@@ -459,6 +473,11 @@ def handle_request():
         # Free main-zoo expansions unlocked at this level (premium item 11)
         if expansionUtils.apply_level_expansions(json_data, config_data, new_level):
             obj["pfObj"] = json_data["pfObj"]
+
+    # Zoos unlock for free at some levels / zoo sizes (utils/playfieldUtils)
+    if playfieldUtils.grant_free_fields(json_data, config_data, json_data["uObj"].get("uId", user_id)):
+        obj["fIds"] = json_data["fIds"]
+        obj["pfObj"] = json_data["pfObj"]
 
     total_response["obj"] = obj
 

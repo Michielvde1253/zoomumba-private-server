@@ -4,6 +4,7 @@ from utils import fieldItemUtils, expansionUtils
 
 def handle_getUser(request, user_id, obj, json_data, config_data):
     json_data["uObj"]["current_field"] = json_data["fIds"]["1"]
+    json_data["actFId"] = json_data["fIds"]["1"]
 
     # Older saves have babies counted on cages without animal records
     fieldItemUtils.sync_all_cage_animals(json_data, config_data)
