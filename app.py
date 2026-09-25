@@ -48,7 +48,8 @@ available_commands = {
     "coupon.redeem": handle_couponRedeem,
     "tombola.bTT": handle_tombolaBuyTicket,
     "mail.gib": handle_mailGetInbox,
-    "tombola.rTT": handle_tombolaRedeemTicket
+    "tombola.rTT": handle_tombolaRedeemTicket,
+    "inventory.iva": handle_inventoryIva
 }
 
 #########################

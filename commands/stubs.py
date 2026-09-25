@@ -102,7 +102,6 @@ TODO = [
     "user.swap", "user.uBN",
     "init.getNeighbour",
     "collection.rs",
-    "inventory.iva",
     "mail.dm", "mail.rm", "mail.sm",
     "packs.buy", "gifts.redeem",
     "quest.cQ", "quest.gR", "quest.gNQ", "quest.sQ",
