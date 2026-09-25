@@ -63,7 +63,6 @@ def _not_implemented(request, user_id, obj, json_data, config_data):
 
 READ = {
     "achievement.ga": _echo("alObj"),
-    "quest.gQ": _echo("qObj"),
     "friends.gFs": _echo("uFs"),
     "friends.gFrI": _echo("uFrI"),
     "friends.gFsI": _echo("uFsI"),
@@ -103,7 +102,6 @@ TODO = [
     "init.getNeighbour",
     "mail.dm", "mail.rm", "mail.sm",
     "packs.buy", "gifts.redeem",
-    "quest.cQ", "quest.gR", "quest.gNQ", "quest.sQ",
     "safari.bG", "safari.bJ", "safari.eG", "safari.eA", "safari.sT", "safari.sS", "safari.uJ",
     "item.buyPU", "item.buySB",
     "friends.iFbI", "friends.aFbI", "friends.dFbI", "friends.cFbI",
