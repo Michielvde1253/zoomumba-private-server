@@ -1,4 +1,4 @@
-from utils import fieldItemUtils as items
+from utils import fieldItemUtils as items, dropUtils
 
 
 def handle_breedEnd(request, user_id, obj, json_data, config_data, current_field_id):
@@ -6,7 +6,9 @@ def handle_breedEnd(request, user_id, obj, json_data, config_data, current_field
 
     cage["child"] += 1
     cage["breed"] = 0
+    dropUtils.pay_cage_action(json_data, config_data, cage, request["fia"])
 
     # The baby needs its own animal record, or the client can't move it to the inventory
     items.sync_cage_animals(json_data, config_data, current_field_id, cage, user_id)
     items.send_cage_with_animals(obj, json_data, current_field_id, cage)
+    obj["uObj"] = json_data["uObj"]

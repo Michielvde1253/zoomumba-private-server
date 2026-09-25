@@ -1,4 +1,5 @@
 import time
+from utils import dropUtils
 from utils.zooErrors import ZooError, INVALID_REQUEST, NOT_ENOUGH_RESOURCES
 
 MEDICINE_RESOURCE_ID = "7"
@@ -19,6 +20,7 @@ def handle_healAnimalCage(request, user_id, obj, json_data, config_data, current
     medicine["cnt"] -= count_total
 
     cage["sick"] = current_time
+    dropUtils.pay_cage_action(json_data, config_data, cage, request["fia"])
 
     if "fObj" not in obj:
         obj["fObj"] = {}
@@ -28,3 +30,4 @@ def handle_healAnimalCage(request, user_id, obj, json_data, config_data, current
         obj["fObj"]["cages"][current_field_id] = {}
     obj["fObj"]["cages"][current_field_id][str(request["id"])] = cage
     obj["res"] = json_data["res"]
+    obj["uObj"] = json_data["uObj"]
