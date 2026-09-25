@@ -1,6 +1,6 @@
 import random
 import time
-from utils import constantsUtils
+from utils import constantsUtils, fieldItemUtils
 from utils.shopUtils import reduce_real_currency
 from utils.constantsUtils import TOMBOLA_TICKET_PRICE
 
@@ -83,8 +83,9 @@ def handle_tombolaRedeemTicket(request, user_id, obj, json_data, config_data):
         new_animal["sId"] = config_data["gameItems"]["animals"][str(result["id"])]["speciesId"]
 
         json_data["next_object_id"] += 1
-        json_data["animals"]["0"][str(new_animal["id"])] = new_animal
-        obj["fObj"] = json_data["fObj"]
+        # Inventory animals live under animals."0"."0" (animals."0" is [{}] for new players)
+        fieldItemUtils.get_inventory_animals(json_data)[str(new_animal["id"])] = new_animal
+        obj["animals"] = json_data["animals"]
 
     elif result["type"] == "powerUps":
         current_time = time.time()

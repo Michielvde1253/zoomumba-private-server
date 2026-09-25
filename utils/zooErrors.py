@@ -30,6 +30,7 @@ NO_SUCH_USER = "zoo.error.contact.noSuchUser"
 # Private-server codes (not known to the client, so no popup is shown)
 NOT_IMPLEMENTED = "zoo.error.notImplemented"
 NOT_ENOUGH_MONEY = "zoo.error.notEnoughMoney"
+NOT_ENOUGH_RESOURCES = "zoo.error.notEnoughResources"
 INVALID_REQUEST = "zoo.error.invalidRequest"
 INTERNAL = "zoo.error.internal"
 
