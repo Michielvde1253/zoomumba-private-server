@@ -5,11 +5,11 @@
       <meta charset="utf-8" />
       <!-- Title and Icon -->
       <title id="pageTitle">Zoomumba</title>
-      <link rel="shortcut icon" href="{{ASSETSIP}}/assets/favicon.ico" />
-      <link rel="icon" type="image/png" href="{{ASSETSIP}}/assets/favicon.ico" />
-      <script type="text/javascript" src="{{ASSETSIP}}/assets/js/jquery-1.7.1.min.js"></script>
-      <script type="text/javascript" src="{{ASSETSIP}}/assets/js/swfobject.js"></script>
-      <link rel="stylesheet" type="text/css" href="{{ASSETSIP}}/assets/css/play.css" />
+      <link rel="shortcut icon" href="{{ SITE.assets_url }}/assets/favicon.ico" />
+      <link rel="icon" type="image/png" href="{{ SITE.assets_url }}/assets/favicon.ico" />
+      <script type="text/javascript" src="{{ SITE.assets_url }}/assets/js/jquery-1.7.1.min.js"></script>
+      <script type="text/javascript" src="{{ SITE.assets_url }}/assets/js/swfobject.js"></script>
+      <link rel="stylesheet" type="text/css" href="{{ SITE.assets_url }}/assets/css/play.css" />
       <script src="https://kit.fontawesome.com/9184ea9ca6.js" crossorigin="anonymous"></script>
    </head>
    <!-- EMBED GAME -->
@@ -40,7 +40,7 @@
                   <div id="client-placeholder"
                      style="margin: 0; position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%); left: 40%;">
                      <div style="text-align: center"><a href="https://www.adobe.com/go/getflashplayer" target="_blank"><img
-                        src="{{ASSETSIP}}/assets/img/global/get_flash.jpg"></a>
+                        src="{{ SITE.assets_url }}/assets/img/global/get_flash.jpg"></a>
                      </div>
                   </div>
                </div>
@@ -70,11 +70,11 @@
       var flashVars = {
           uId: '{{userid}}',
           token: '{{token}}',
-          apiHost: '{{SERVERIP}}',
-          cdnHost: '{{SERVERIP}}/assets',
+          apiHost: '{{ SITE.api_host }}',
+          cdnHost: '{{ SITE.cdn_host }}',
           locale: 'cs',
           preCv: 'largeplanes', // Don't remove this, it will make the preloader disappear. Please DON'T ASK ME WHY, just do it xDD
-          isHTTPS: '{{isHTTPS}}',
+          isHTTPS: '{{ SITE.is_https|int }}',
           eventStreamContext: "",
           openSocial: 0,
           ssoUser: 0,
@@ -100,7 +100,7 @@
           name: 'Skyrama_Flash_Name'
       };
       
-      swfobject.embedSWF('/assets/swf/Zoomumba{{DEBUGSWF}}.swf', 'client-placeholder', '100%', '100%', '10.2.0', '/assets/js/expressInstall.swf', flashVars, flashParams, flashAttributes);
+      swfobject.embedSWF('/assets/swf/Zoomumba{{ SITE.swf_suffix }}.swf', 'client-placeholder', '100%', '100%', '10.2.0', '/assets/js/expressInstall.swf', flashVars, flashParams, flashAttributes);
       
       function hideClient() {
           $('#client-content').css("visibility", "hidden");
