@@ -48,7 +48,7 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [ ] caravan.wTp - BABY_EVENT_TRADE_COLLECTABLE
 - [ ] circus.bMc - CIRCUS_BUY_BOX
 - [ ] circus.oMb - CIRCUS_OPEN_BOX
-- [ ] collection.rs - REDEEM_COLLECTION_SET_REWARD
+- [x] collection.rs - REDEEM_COLLECTION_SET_REWARD
 - [ ] communityPayin.getEvent - COMMUNITY_PAYIN_GET_EVENT
 - [ ] communityPayin.putDrop - COMMUNITY_PAYIN_PUTDROP
 - [ ] communityPayin.redeem - COMMUNITY_PAYIN_REDEEM
