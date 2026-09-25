@@ -1,6 +1,6 @@
 import random
 import time
-from utils import constantsUtils, fieldItemUtils
+from utils import constantsUtils, fieldItemUtils, resourceUtils
 from utils.shopUtils import reduce_real_currency
 from utils.constantsUtils import TOMBOLA_TICKET_PRICE
 
@@ -46,7 +46,7 @@ def handle_tombolaRedeemTicket(request, user_id, obj, json_data, config_data):
 
     # Give rewards
     if result["type"] == "resources":
-        json_data["res"][str(result["id"])]["cnt"] += result["cnt"]
+        resourceUtils.add_resource(json_data, result["id"], result["cnt"], user_id)
         obj["res"] = json_data["res"]
 
     elif result["type"] == "decos":

@@ -11,6 +11,7 @@ How trash works in the client:
 Placed trashbins live in fObj.trashbins.<fieldId>.<uniqueId>; inventory
 trashbins live in fObj.trashbins."0".<uniqueId> (fId 0), like the real server.
 """
+from utils import resourceUtils
 
 INVENTORY_FIELD = "0"
 TRASH_RESOURCE_ID = "13"
@@ -58,9 +59,8 @@ def spawn_trash(json_data, config_data, field_id, amount):
 def give_trash_rewards(json_data, amount):
     """1 XP and 1 trash resource per piece of trash cleaned (capped at the resource's mCnt)."""
     json_data["uObj"]["uEp"] += amount
-    trash = json_data.get("res", {}).get(TRASH_RESOURCE_ID)
-    if trash is not None:
-        trash["cnt"] = min(trash["cnt"] + amount, trash.get("mCnt", trash["cnt"] + amount))
+    if TRASH_RESOURCE_ID in json_data.get("res", {}):
+        resourceUtils.add_resource(json_data, TRASH_RESOURCE_ID, amount)
 
 
 def deleted_copy(item, to_inventory=False):
