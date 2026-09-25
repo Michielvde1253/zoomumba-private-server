@@ -82,10 +82,10 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [x] field.fia - BUY_RESOURCE
 - [x] field.fia - BUY_ROAD
 - [x] field.fia - BUY_STORE
-- [ ] field.fia - BUY_TRASHBIN
+- [x] field.fia - BUY_TRASHBIN
 - [x] field.fia - CLEAN_ANIMAL_CAGE
 - [ ] field.fia - CLEAR_ASSISTANT_TIMER
-- [ ] field.fia - CLEAR_TRASH_BIN
+- [x] field.fia - CLEAR_TRASH_BIN
 - [x] field.fia - CLEAR_TRASH_ROAD
 - [x] field.fia - COLLECT_ENTRANCE_FEE
 - [x] field.fia - COLLECT_STORE_MONEY
@@ -94,7 +94,7 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [ ] field.fia - END_ADVANCED_BREEDING_NET
 - [ ] field.fia - END_NURSERY_BREEDING
 - [x] field.fia - FEED_ANIMAL_CAGE
-- [ ] field.fia - HEAL_ANIMAL_CAGE
+- [x] field.fia - HEAL_ANIMAL_CAGE
 - [ ] field.fia - INSTANT_NURSERY_BREEDING
 - [ ] field.fia - MOVE_ANIMAL_CAGE
 - [ ] field.fia - MOVE_BREEDING_LAB
@@ -103,17 +103,17 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [ ] field.fia - MOVE_NURSERY
 - [x] field.fia - MOVE_ROAD
 - [x] field.fia - MOVE_STORE
-- [ ] field.fia - MOVE_TRASH_BIN
+- [x] field.fia - MOVE_TRASH_BIN
 - [ ] field.fia - POWER_FEED_ANIMAL_CAGE
 - [ ] field.fia - POWER_FEED_ASSISTANT
 - [ ] field.fia - SAVE_ACTIV_MAIN_BUILDING
 - [ ] field.fia - SELL_ANIMAL_CAGE
-- [ ] field.fia - SELL_CAGE
-- [ ] field.fia - SELL_DECO
-- [ ] field.fia - SELL_ROAD
-- [ ] field.fia - SELL_SPECIAL_ITEM
-- [ ] field.fia - SELL_STORE
-- [ ] field.fia - SELL_TRASH_BIN
+- [x] field.fia - SELL_CAGE
+- [x] field.fia - SELL_DECO
+- [x] field.fia - SELL_ROAD
+- [x] field.fia - SELL_SPECIAL_ITEM
+- [x] field.fia - SELL_STORE
+- [x] field.fia - SELL_TRASH_BIN
 - [ ] field.fia - START_ADVANCED_BREEDING_NET
 - [ ] field.fia - START_NURSERY_BREEDING
 - [ ] field.fia - SUPER_FEED_ANIMAL_CAGE
@@ -149,12 +149,12 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [x] init.getUser - GET_USER
 - [x] init.sP - SWITCH_PLAYFIELD
 - [ ] inv.get - INVENTORY_GET
-- [ ] inventory.iva - MOVE_ANIMAL_FROM_FIELD_TO_INVENTORY
-- [ ] inventory.iva - MOVE_ANIMAL_FROM_INVENTORY_TO_CAGE
-- [ ] inventory.iva - MOVE_ITEM_FROM_FIELD_TO_INVENTORY
-- [ ] inventory.iva - MOVE_ITEM_FROM_INVENTORY_TO_FIELD
+- [x] inventory.iva - MOVE_ANIMAL_FROM_FIELD_TO_INVENTORY
+- [x] inventory.iva - MOVE_ANIMAL_FROM_INVENTORY_TO_CAGE
+- [x] inventory.iva - MOVE_ITEM_FROM_FIELD_TO_INVENTORY
+- [x] inventory.iva - MOVE_ITEM_FROM_INVENTORY_TO_FIELD
 - [ ] inventory.iva - REQUEST_INVENTORY
-- [ ] inventory.iva - SELL_ITEM_FROM_INVENTORY
+- [x] inventory.iva - SELL_ITEM_FROM_INVENTORY
 - [ ] item.buyPU - BUY_POWERUP_SHOP
 - [ ] item.buySB - RECYCLE_BUY_SURPRISEBOX
 - [ ] loan.dI - BABY_CARAVAN_FINISH
