@@ -70,7 +70,6 @@ READ = {
     "avatar.get": _echo("ava"),
     "avatar.getConfig": _echo("avaConf"),
     "rankings.get": _echo("rankObj"),
-    "recyclingCenter.grs": _echo("recyclingSlots"),
     "safari.gC": _echo("uSCObj"),
     "safari.gS": _echo("uSObj"),
     "field.getSpecials": _echo_specials,
@@ -103,13 +102,10 @@ TODO = [
     "mail.dm", "mail.rm", "mail.sm",
     "packs.buy", "gifts.redeem",
     "safari.bG", "safari.bJ", "safari.eG", "safari.eA", "safari.sT", "safari.sS", "safari.uJ",
-    "item.buyPU", "item.buySB",
+    "item.buyPU",
     "friends.iFbI", "friends.aFbI", "friends.dFbI", "friends.cFbI",
     "avatar.set",
-    "field.ul", "field.eFbC", "field.moveItemsToInventory",
     "managementCenter.upgrade",
-    "recyclingCenter.icrs", "recyclingCenter.crs", "recyclingCenter.brs", "recyclingCenter.srm",
-    "craftingCenter.sbc", "craftingCenter.gac", "craftingCenter.cbc", "craftingCenter.icbc", "craftingCenter.dbct",
 ]
 
 STUB_COMMANDS = {}
