@@ -49,7 +49,8 @@ available_commands = {
     "tombola.bTT": handle_tombolaBuyTicket,
     "mail.gib": handle_mailGetInbox,
     "tombola.rTT": handle_tombolaRedeemTicket,
-    "inventory.iva": handle_inventoryIva
+    "inventory.iva": handle_inventoryIva,
+    "collection.rs": handle_collectionRs,
 }
 
 #########################
