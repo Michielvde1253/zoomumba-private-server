@@ -38,17 +38,32 @@ def get_next_buyable_step(premium_item, user_level, field_size):
     return best
 
 
+def bounds_for_size(field_size):
+    """Grid bounds of a zoo of field_size tiles. Every playfield in the HAR
+    capture fits this (fSize 6 -> 108/-48, 9 -> 102/-42, 10 -> 100/-40,
+    13 -> 94/-34), and so do the client's GameBackGround constants
+    (MIN_HORIZONTAL_SMALLEST_ZOO = 100 at size 10, _BIGGEST_ZOO = 84 at 18).
+    The client draws the zoo from these bounds, not from fSize."""
+    return {"minHorizontal": 120 - 2 * field_size, "maxHorizontal": 120,
+            "minVertical": -60, "maxVertical": -60 + 2 * field_size}
+
+
+def fix_bounds(field):
+    """Make a playfield's grid bounds match its fSize. Returns True if they changed."""
+    wanted = bounds_for_size(int(field["fSize"]))
+    changed = any(field.get(k) != v for k, v in wanted.items())
+    field.update(wanted)
+    return changed
+
+
 def set_field_size(json_data, field_id, new_size):
-    """Grow a playfield to new_size tiles, widening its grid bounds to match."""
+    """Grow a playfield to new_size tiles and set its grid bounds to match."""
     field = json_data["pfObj"][str(field_id)]
-    delta = min(new_size, MAX_FIELD_SIZE) - field["fSize"]
-    if delta <= 0:
+    new_size = min(new_size, MAX_FIELD_SIZE)
+    if new_size <= int(field["fSize"]):
         return False
-    # Real server data: the grid grows towards lower minHorizontal and higher
-    # maxVertical, 2 units per tile (e.g. fSize 6 -> 108/-48, fSize 13 -> 94/-34)
-    field["fSize"] += delta
-    field["minHorizontal"] -= 2 * delta
-    field["maxVertical"] += 2 * delta
+    field["fSize"] = new_size
+    fix_bounds(field)
     return True
 
 
@@ -62,3 +77,15 @@ def apply_level_expansions(json_data, config_data, user_level):
     if not reached:
         return False
     return set_field_size(json_data, field_id, max(reached))
+
+
+def repair_fields(json_data, config_data):
+    """On login: fix grid bounds that don't match fSize (new_player.json had
+    a size-11 grid on a size-10 zoo) and hand out level expansions an older
+    save missed. Returns True if anything changed."""
+    changed = False
+    for field in json_data.get("pfObj", {}).values():
+        if isinstance(field, dict) and "fSize" in field:
+            changed |= fix_bounds(field)
+    changed |= apply_level_expansions(json_data, config_data, json_data["uObj"]["uLvl"])
+    return changed
