@@ -67,64 +67,64 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [ ] field.eFbC - EXTEND_FORGOTTEN_ZOO_TOOLS_BUY
 - [x] field.fia - BREED_END
 - [x] field.fia - BREED_START
-- [ ] field.fia - BUILD_CAGE_BUY
-- [ ] field.fia - BUILD_DECO_BUY
-- [ ] field.fia - BUILD_STORE_BUY
+- [x] field.fia - BUILD_CAGE_BUY
+- [x] field.fia - BUILD_DECO_BUY
+- [x] field.fia - BUILD_STORE_BUY
 - [x] field.fia - BUY_ANIMAL_CAGE
-- [ ] field.fia - BUY_ANIMAL_TO_INVENTORY
-- [ ] field.fia - BUY_ASSISTANT
+- [x] field.fia - BUY_ANIMAL_TO_INVENTORY
+- [x] field.fia - BUY_ASSISTANT
 - [x] field.fia - BUY_BREEDING_LAB
 - [x] field.fia - BUY_CAGE
 - [x] field.fia - BUY_DECO
 - [x] field.fia - BUY_NURSERY
-- [ ] field.fia - BUY_PREMIUM
-- [ ] field.fia - BUY_PREMIUM_WITH_COUNT
+- [x] field.fia - BUY_PREMIUM
+- [x] field.fia - BUY_PREMIUM_WITH_COUNT
 - [x] field.fia - BUY_RESOURCE
 - [x] field.fia - BUY_ROAD
 - [x] field.fia - BUY_STORE
 - [x] field.fia - BUY_TRASHBIN
 - [x] field.fia - CLEAN_ANIMAL_CAGE
-- [ ] field.fia - CLEAR_ASSISTANT_TIMER
+- [x] field.fia - CLEAR_ASSISTANT_TIMER
 - [x] field.fia - CLEAR_TRASH_BIN
 - [x] field.fia - CLEAR_TRASH_ROAD
 - [x] field.fia - COLLECT_ENTRANCE_FEE
 - [x] field.fia - COLLECT_STORE_MONEY
 - [x] field.fia - CUDDLE_ANIMAL_CAGE
 - [x] field.fia - DIRECT_BREED
-- [ ] field.fia - END_ADVANCED_BREEDING_NET
-- [ ] field.fia - END_NURSERY_BREEDING
+- [x] field.fia - END_ADVANCED_BREEDING_NET
+- [x] field.fia - END_NURSERY_BREEDING
 - [x] field.fia - FEED_ANIMAL_CAGE
 - [x] field.fia - HEAL_ANIMAL_CAGE
-- [ ] field.fia - INSTANT_NURSERY_BREEDING
-- [ ] field.fia - MOVE_ANIMAL_CAGE
-- [ ] field.fia - MOVE_BREEDING_LAB
+- [x] field.fia - INSTANT_NURSERY_BREEDING
+- [x] field.fia - MOVE_ANIMAL_CAGE
+- [x] field.fia - MOVE_BREEDING_LAB
 - [x] field.fia - MOVE_CAGE
 - [x] field.fia - MOVE_DECO
-- [ ] field.fia - MOVE_NURSERY
+- [x] field.fia - MOVE_NURSERY
 - [x] field.fia - MOVE_ROAD
 - [x] field.fia - MOVE_STORE
 - [x] field.fia - MOVE_TRASH_BIN
-- [ ] field.fia - POWER_FEED_ANIMAL_CAGE
-- [ ] field.fia - POWER_FEED_ASSISTANT
-- [ ] field.fia - SAVE_ACTIV_MAIN_BUILDING
-- [ ] field.fia - SELL_ANIMAL_CAGE
+- [x] field.fia - POWER_FEED_ANIMAL_CAGE
+- [x] field.fia - POWER_FEED_ASSISTANT
+- [x] field.fia - SAVE_ACTIV_MAIN_BUILDING
+- [x] field.fia - SELL_ANIMAL_CAGE
 - [x] field.fia - SELL_CAGE
 - [x] field.fia - SELL_DECO
 - [x] field.fia - SELL_ROAD
 - [x] field.fia - SELL_SPECIAL_ITEM
 - [x] field.fia - SELL_STORE
 - [x] field.fia - SELL_TRASH_BIN
-- [ ] field.fia - START_ADVANCED_BREEDING_NET
-- [ ] field.fia - START_NURSERY_BREEDING
-- [ ] field.fia - SUPER_FEED_ANIMAL_CAGE
-- [ ] field.fia - SUPER_FEED_ASSISTANT
-- [ ] field.fia - SUPER_HEAL_ANIMAL_CAGE
-- [ ] field.fia - SUPER_HEAL_ASSISTANT
-- [ ] field.fia - UPGRADE_CAGE
-- [ ] field.fia - UPGRADE_EVENT_CAGE
-- [ ] field.fia - USE_ASSISTANT
-- [ ] field.fia - USE_ELIXIR
-- [ ] field.fia - USE_RAISING_POTION
+- [x] field.fia - START_ADVANCED_BREEDING_NET
+- [x] field.fia - START_NURSERY_BREEDING
+- [x] field.fia - SUPER_FEED_ANIMAL_CAGE
+- [x] field.fia - SUPER_FEED_ASSISTANT
+- [x] field.fia - SUPER_HEAL_ANIMAL_CAGE
+- [x] field.fia - SUPER_HEAL_ASSISTANT
+- [x] field.fia - UPGRADE_CAGE
+- [x] field.fia - UPGRADE_EVENT_CAGE
+- [x] field.fia - USE_ASSISTANT
+- [x] field.fia - USE_ELIXIR
+- [x] field.fia - USE_RAISING_POTION
 - [x] field.fia - WATER_ANIMAL_CAGE
 - [ ] field.getSpecials - GET_SPECIALS_DATA
 - [ ] field.moveItemsToInventory - MOVE_ITEMS_TO_INVENTORY
