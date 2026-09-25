@@ -1,24 +1,22 @@
 import time
+from utils.zooErrors import ZooError, INVALID_REQUEST, NOT_ENOUGH_RESOURCES
+
+MEDICINE_RESOURCE_ID = "7"
+
+# field.fia hAC: {"id": <cage uniqueId>} - one medicine per animal in the cage.
 
 def handle_healAnimalCage(request, user_id, obj, json_data, config_data, current_field_id):
     current_time = int(time.time())
 
-    cage = json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]
+    cage = json_data["fObj"]["cages"].get(str(current_field_id), {}).get(str(request["id"]))
+    if cage is None:
+        raise ZooError(INVALID_REQUEST, f"no cage {request['id']} on field {current_field_id}")
 
-    species_id = cage["sId"]
-    config_data_for_species = config_data["gameItems"]["animalsSpecies"][str(species_id)]
-
-    # To-do: is there a better way to count the animals?
-    count_males = cage["male"]
-    count_females = cage["female"]
-    count_childs = cage["child"]
-    count_total = count_males + count_females + count_childs
-
-    if json_data["res"]["7"]["cnt"] >= count_total:
-        json_data["res"]["7"]["cnt"] -= count_total
-    else:
-        pass
-        # To-do: disconnect user
+    count_total = cage["male"] + cage["female"] + cage["child"]
+    medicine = json_data["res"].get(MEDICINE_RESOURCE_ID)
+    if medicine is None or medicine["cnt"] < count_total:
+        raise ZooError(NOT_ENOUGH_RESOURCES, resync=("res",))
+    medicine["cnt"] -= count_total
 
     cage["sick"] = current_time
 

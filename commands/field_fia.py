@@ -26,7 +26,13 @@ available_field_actions = {
     "bTb": handle_buyTrashbin,
     "mTb": handle_moveTrashbin,
     "sTb": handle_sellTrashbin,
-    "cTb": handle_clearTrashbin
+    "cTb": handle_clearTrashbin,
+    "hAC": handle_healAnimalCage,
+    "sC": handle_sellCage,
+    "sSt": handle_sellStore,
+    "sD": handle_sellDeco,
+    "sR": handle_sellRoad,
+    "sSB": handle_sellSpecial,
 }
 
 def handle_fieldFia(request, user_id, obj, json_data, config_data):
