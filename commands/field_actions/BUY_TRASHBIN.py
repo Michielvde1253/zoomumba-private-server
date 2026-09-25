@@ -1,6 +1,6 @@
 import time
 from utils import shopUtils
-from utils.trashbinUtils import link_road
+from utils.trashbinUtils import link_road, get_trashbins, send_trashbin
 from utils.zooErrors import ZooError, INVALID_REQUEST
 
 # field.fia "bTb": {"tbId": <trashbin item id>, "x", "y", "r", "cR"}
@@ -29,12 +29,11 @@ def handle_buyTrashbin(request, user_id, obj, json_data, config_data, current_fi
         "clean": int(time.time()),
     }
     json_data["next_object_id"] += 1
-    trashbins = json_data["fObj"].setdefault("trashbins", {}).setdefault(field_id, {})
-    trashbins[str(new_trashbin["id"])] = new_trashbin
+    get_trashbins(json_data, field_id)[str(new_trashbin["id"])] = new_trashbin
 
     link_road(json_data, field_id, request["x"], request["y"], new_trashbin["id"])
 
     # Send the new trashbin to the game (fObj.trashbins.<fieldId>.<uniqueId>)
-    obj.setdefault("fObj", {}).setdefault("trashbins", {}).setdefault(current_field_id, {})[str(new_trashbin["id"])] = new_trashbin
+    send_trashbin(obj, current_field_id, new_trashbin)
     obj["uObj"] = json_data["uObj"]
 

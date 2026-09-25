@@ -1,4 +1,4 @@
-from utils import attractionUtils
+from utils import attractionUtils, trashbinUtils
 
 def handle_pushGet(request, user_id, obj, json_data, config_data):
     # Add entrance fee for current field
@@ -17,8 +17,10 @@ def handle_pushGet(request, user_id, obj, json_data, config_data):
         json_data["uObj"]["entranceFee"] = entrance_fee_limit
 
     # Spawn trash
-    json_data["pfObj"][current_field_id]["trashroads"] += round(time_since_last_push * 0.05)
-    print(f"Spawning {round(time_since_last_push * 0.05)}")
+    # New trash fills the trashbins first, the rest ends up on the roads
+    new_trash = round(time_since_last_push * 0.05)
+    trashbinUtils.spawn_trash(json_data, config_data, current_field_id, new_trash)
+    print(f"Spawning {new_trash}")
     cap = 100 * json_data["uObj"]["uLvl"] # Making the xp cap based on the current level, because otherwise lower levels would get WAY to much xp
     if json_data["pfObj"][current_field_id]["trashroads"] > cap:
         json_data["pfObj"][current_field_id]["trashroads"] = cap

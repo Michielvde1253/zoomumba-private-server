@@ -24,7 +24,9 @@ available_field_actions = {
     "mSt": handle_moveStore,
     "bP": handle_buyPremium,
     "bTb": handle_buyTrashbin,
-    "mTb": handle_moveTrashbin
+    "mTb": handle_moveTrashbin,
+    "sTb": handle_sellTrashbin,
+    "cTb": handle_clearTrashbin
 }
 
 def handle_fieldFia(request, user_id, obj, json_data, config_data):
