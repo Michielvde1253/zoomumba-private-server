@@ -33,6 +33,7 @@ available_field_actions = {
     "sD": handle_sellDeco,
     "sR": handle_sellRoad,
     "sSB": handle_sellSpecial,
+    "bSB": handle_buySpecial,
 }
 
 def handle_fieldFia(request, user_id, obj, json_data, config_data):
