@@ -543,6 +543,111 @@ q, rid = rq("init.getUser"); st, r, _ = call(q)
 check("login gives an old save its missed level expansions", r["obj"]["pfObj"][mz]["fSize"] == 12 and r["obj"]["pfObj"][mz]["minHorizontal"] == 96)
 fid = doc()["uObj"]["current_field"]
 
+# ---- extra zoos ----
+def xp_for(level):
+    return next(int(x) for x in cfg["main"]["u_level"] if A.userUtils.calculate_level_based_on_xp(int(x), cfg) == level)
+d = doc(); mz = str(d["fIds"]["1"])
+A.data_db.update_one({"id": uid}, {"$set": {"zoo.fIds": {"1": mz}, f"zoo.pfObj.{mz}.fSize": 12, "zoo.uObj.uLvl": 14, "zoo.uObj.uEp": xp_for(14), "zoo.uObj.uCr": 1000}})
+st, r, _ = call({"push.get": []})
+check("no extra zoo before its condition", set(doc()["fIds"]) == {"1"})
+q, rid = rq("field.ul", t=6); st, r, _ = call(q)
+check("ocean zoo can't be bought", r["callstack"][rid][0]["v"] == "zoo.error.invalidRequest")
+cr0 = doc()["uObj"]["uCr"]; q, rid = rq("field.ul", t=5); st, r, _ = call(q)
+cz = doc()["fIds"].get("5"); pz = doc()["pfObj"].get(str(cz), {})
+check("field.ul coast zoo for 75 real: fIds + pfObj sent", r["callstack"][rid] == [{"t":1,"v":""}] and doc()["uObj"]["uCr"] == cr0 - 75 and "5" in r["obj"]["fIds"] and str(cz) in r["obj"]["pfObj"])
+check("new zoo: start size, bounds, gate, road at (31,88)", pz.get("fSize") == 5 and pz.get("minHorizontal") == 110 and pz.get("fType") == 5 and any((rd["x"], rd["y"]) == (31, 88) for rd in doc()["fObj"]["roads"][str(cz)].values()))
+q, rid = rq("field.ul", t=5); st, r, _ = call(q)
+check("unlocking twice -> invalidRequest", r["callstack"][rid][0]["v"] == "zoo.error.invalidRequest")
+q, rid = rq("field.fia", fia="bP", pId=11); st, r, _ = call(q)
+check("main zoo expansion 3 -> forgotten zoo unlocks for free", doc()["pfObj"][mz]["fSize"] == 13 and "2" in doc()["fIds"] and "2" in r["obj"].get("fIds", {}))
+A.data_db.update_one({"id": uid}, {"$set": {"zoo.uObj.uEp": xp_for(17)}})
+st, r, _ = call({"push.get": []})
+check("level 17 -> ocean zoo for free", "6" in doc()["fIds"] and doc()["pfObj"][str(doc()["fIds"]["6"])]["eBuildingId"] == 8)
+# switch zoo, build there, come back
+fz = str(doc()["fIds"]["2"])
+q, rid = rq("init.sP", fId=int(fz), type=2); st, r, _ = call(q)
+check("init.sP: actFId + pfObj + fObj", r["callstack"][rid] == [{"t":1,"v":""}] and r["obj"]["actFId"] == fz and fz in r["obj"]["pfObj"] and doc()["uObj"]["current_field"] == fz)
+q, rid = rq("field.fia", fia="bR", rId=6, x=31, y=87, r=0, cR=0); call(q)
+q, rid = rq("field.fia", fia="bD", dId=int(next(k for k,v in cfg["gameItems"]["decos"].items() if v.get("buyable")==1 and 0 < v.get("buyVirtual",0) and v.get("userLevelRequired",99) <= 14)), x=33, y=86, r=0, cR=0); st, r, _ = call(q)
+check("building in the forgotten zoo", r["callstack"][rid] == [{"t":1,"v":""}] and len(doc()["fObj"]["decos"][fz]) == 1)
+st, r, _ = call({"push.get": []})
+check("push.get on the forgotten zoo works", st == 200 and "pfObj" in r["obj"])
+# forgotten expansion with tools
+A.data_db.update_one({"id": uid}, {"$set": {"zoo.collItems.1": {"uId": uid, "id": 1, "cnt": 3}}})
+size0 = doc()["pfObj"][fz]["fSize"]; cr0 = doc()["uObj"]["uCr"]
+q, rid = rq("field.eFbC", tools=3, zd=2); st, r, _ = call(q)
+check("eFbC: 3 tools + 2 real for the 5-real step", r["callstack"][rid] == [{"t":1,"v":""}] and doc()["pfObj"][fz]["fSize"] == size0 + 1 and doc()["collItems"]["1"]["cnt"] == 0 and doc()["uObj"]["uCr"] == cr0 - 2)
+q, rid = rq("field.eFbC", tools=1, zd=1); st, r, _ = call(q)
+check("eFbC with the wrong total -> invalidRequest", r["callstack"][rid][0]["v"] == "zoo.error.invalidRequest")
+# everything into the inventory
+q, rid = rq("field.moveItemsToInventory"); st, r, _ = call(q)
+check("moveItemsToInventory empties the zoo", r["callstack"][rid] == [{"t":1,"v":""}] and not doc()["fObj"]["decos"][fz] and not doc()["fObj"]["roads"][fz])
+q, rid = rq("init.sP", fId=int(mz), type=1); st, r, _ = call(q)
+check("back to the main zoo", doc()["uObj"]["current_field"] == mz)
+q, rid = rq("init.sP", fId=1, type=4); st, r, _ = call(q)
+check("switching to a locked zoo -> invalidRequest", r["callstack"][rid][0]["v"] == "zoo.error.invalidRequest")
+fid = doc()["uObj"]["current_field"]
+
+# ---- crafting centre ----
+bp1 = cfg["gameItems"]["blueprints"]["1"]
+mats = {f"zoo.mat.{m['id']}": {"uId": uid, "id": m["id"], "cnt": m["count"], "mCnt": 250} for m in bp1["materials"]}
+A.data_db.update_one({"id": uid}, {"$set": dict(mats, **{"zoo.uObj.pPaw": bp1["craftPaws"], "zoo.crafting": {"active": 0}, "zoo.bp.1": {"uId": uid, "id": 1, "active": 1}, "zoo.res.15.cnt": 1, "zoo.uObj.uCr": 1000})})
+q, rid = rq("craftingCenter.sbc", blueprintId=999999); st, r, _ = call(q)
+check("sbc unknown blueprint -> invalidRequest", r["callstack"][rid][0]["v"] == "zoo.error.invalidRequest")
+q, rid = rq("craftingCenter.sbc", blueprintId=1); st, r, _ = call(q)
+cr = doc()["crafting"]
+check("sbc: materials + paws used, crafting running", r["callstack"][rid] == [{"t":1,"v":""}] and cr["active"] == 1 and cr["blueprintId"] == 1 and abs(cr["endTime"] - (int(time.time()) + bp1["craftDuration"])) < 60 and all(doc()["mat"][str(m["id"])]["cnt"] == 0 for m in bp1["materials"]) and doc()["uObj"]["pPaw"] == 0)
+q, rid = rq("craftingCenter.sbc", blueprintId=1); st, r, _ = call(q)
+check("sbc while busy -> invalidRequest", r["callstack"][rid][0]["v"] == "zoo.error.invalidRequest")
+q, rid = rq("craftingCenter.cbc"); st, r, _ = call(q)
+check("cbc before it's done -> invalidRequest", r["callstack"][rid][0]["v"] == "zoo.error.invalidRequest")
+end0 = doc()["crafting"]["endTime"]; q, rid = rq("craftingCenter.dbct"); st, r, _ = call(q)
+check("dbct: booster used, time left halved", r["callstack"][rid] == [{"t":1,"v":""}] and doc()["res"]["15"]["cnt"] == 0 and doc()["crafting"]["endTime"] < end0)
+cr0 = doc()["uObj"]["uCr"]; q, rid = rq("craftingCenter.icbc"); st, r, _ = call(q)
+check("icbc: finished now for craftInstantReal", r["callstack"][rid] == [{"t":1,"v":""}] and doc()["uObj"]["uCr"] == cr0 - bp1["craftInstantReal"] and doc()["crafting"]["endTime"] <= int(time.time()))
+ep0 = doc()["uObj"]["uEp"]; ninv = len(doc()["fObj"]["decos"]["0"])
+q, rid = rq("craftingCenter.cbc"); st, r, _ = call(q)
+check("cbc: craftingReward, xp, item into the inventory, centre idle", r["callstack"][rid] == [{"t":1,"v":""}] and r["obj"]["craftingReward"]["item"] == bp1["reward"]["item"] and doc()["uObj"]["uEp"] >= ep0 + bp1["reward"]["xp"] and len(doc()["fObj"]["decos"]["0"]) == ninv + 1 and doc()["crafting"]["active"] == 0)
+A.data_db.update_one({"id": uid}, {"$set": {"zoo.bp.2.active": 0}})
+q, rid = rq("craftingCenter.sbc", blueprintId=2); st, r, _ = call(q)
+check("sbc without the blueprint -> invalidRequest", r["callstack"][rid][0]["v"] == "zoo.error.invalidRequest")
+
+# ---- recycling centre ----
+m1 = cfg["gameItems"]["materials"]["1"]; rc = cfg["recyclingCenter"]
+A.data_db.update_one({"id": uid}, {"$set": {"zoo.recyclingSlots": {"1": {"uId": uid, "slotId": 1, "materialId": 0, "amount": 0, "finishTime": 0, "endTime": 0}},
+                                             "zoo.res.13.cnt": 1000, "zoo.res.13.mCnt": 2000, "zoo.res.14.cnt": 1, "zoo.uObj.uCv": 100000, "zoo.uObj.uCr": 1000, "zoo.mat.1.cnt": 0, "zoo.mat.2.cnt": 0}})
+q, rid = rq("recyclingCenter.grs"); st, r, _ = call(q)
+check("grs: slot 1", r["callstack"][rid] == [{"t":1,"v":""}] and set(r["obj"]["recyclingSlots"]) == {"1"})
+cr0 = doc()["uObj"]["uCr"]; q, rid = rq("recyclingCenter.brs", slotId=2, days=7); st, r, _ = call(q)
+s2 = doc()["recyclingSlots"].get("2", {})
+check("brs: slot 2 rented for 7 days", r["callstack"][rid] == [{"t":1,"v":""}] and doc()["uObj"]["uCr"] == cr0 - rc["slotRentDays"]["7"]["rc"] and abs(s2.get("endTime", 0) - (int(time.time()) + 7 * 86400)) < 60)
+cv0 = cv(); q, rid = rq("recyclingCenter.srm", slotId=1, materialId=1, amount=5, useBooster=1); st, r, _ = call(q)
+s1 = doc()["recyclingSlots"]["1"]
+check("srm: trash + coins + booster used, slot producing", r["callstack"][rid] == [{"t":1,"v":""}] and doc()["res"]["13"]["cnt"] == 1000 - 5 * m1["craftTrash"] and cv() == cv0 - 5 * m1["craftVirtual"] and doc()["res"]["14"]["cnt"] == 0 and s1["materialId"] == 1 and abs(s1["finishTime"] - (int(time.time()) + 5 * m1["craftDuration"])) < 60)
+q, rid = rq("recyclingCenter.srm", slotId=1, materialId=1, amount=1, useBooster=0); st, r, _ = call(q)
+check("srm on a busy slot -> invalidRequest", r["callstack"][rid][0]["v"] == "zoo.error.invalidRequest")
+q, rid = rq("recyclingCenter.srm", slotId=2, materialId=2, amount=1, useBooster=0); st, r, _ = call(q)
+check("srm on a rare material -> invalidRequest", r["callstack"][rid][0]["v"] == "zoo.error.invalidRequest")
+q, rid = rq("recyclingCenter.crs", slotId=1); st, r, _ = call(q)
+check("crs before it's done -> invalidRequest", r["callstack"][rid][0]["v"] == "zoo.error.invalidRequest")
+cr0 = doc()["uObj"]["uCr"]; q, rid = rq("recyclingCenter.icrs", slotId=1); st, r, _ = call(q)
+layer = r["obj"].get("itemLayer", {})
+check("icrs: paid, 5 wood, slot empty, itemLayer", r["callstack"][rid] == [{"t":1,"v":""}] and doc()["uObj"]["uCr"] == cr0 - 5 * m1["craftInstantReal"] and doc()["mat"]["1"]["cnt"] == 5 and doc()["recyclingSlots"]["1"]["materialId"] == 0 and layer.get("type") == "recycling" and layer["items"]["0"]["0"] == {"id": 1, "count": 5})
+q, rid = rq("recyclingCenter.srm", slotId=2, materialId=1, amount=1, useBooster=0); call(q)
+A.data_db.update_one({"id": uid}, {"$set": {"zoo.recyclingSlots.2.finishTime": int(time.time()) - 1}})
+q, rid = rq("recyclingCenter.crs", slotId=2); st, r, _ = call(q)
+check("crs: finished slot collected", r["callstack"][rid] == [{"t":1,"v":""}] and doc()["mat"]["1"]["cnt"] >= 6)
+A.data_db.update_one({"id": uid}, {"$set": {"zoo.recyclingSlots.2.endTime": int(time.time()) - 1}})
+q, rid = rq("recyclingCenter.grs"); st, r, _ = call(q)
+check("expired rented slot goes away", "2" not in r["obj"]["recyclingSlots"])
+from commands import recyclingCenter as RC
+RC.random.seed(3)
+rolls = [RC.random.randint(1, 100) <= 10 for _ in range(1000)]
+check("rare chance roll sanity (10% for 5 units)", 60 < sum(rolls) < 140)
+cr0 = doc()["uObj"]["uCr"]; q, rid = rq("item.buySB", id=2); st, r, _ = call(q)
+got = list(r["obj"].get("itemLayer", {}).get("items", {}).get("0", {}).values())
+check("buySB: box paid, 4 material stacks given", r["callstack"][rid] == [{"t":1,"v":""}] and doc()["uObj"]["uCr"] == cr0 - 20 and len(got) == 4 and r["obj"]["itemLayer"]["type"] == "surpriseBox")
+
 # token check (non-dev mode)
 A.LOCAL_DEV_MODE = False
 other = A.app.test_client()

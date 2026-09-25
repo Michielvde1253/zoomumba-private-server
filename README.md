@@ -44,7 +44,7 @@ It exits non-zero if a check fails. It can't see what the Flash client does with
 
 ## List of game commands
 
-Every command in the client's `NET.as`: 87 implemented, 15 stubbed, 36 seasonal event commands (answer "event not running"), 35 not implemented yet.
+Every command in the client's `NET.as`: 101 implemented, 14 stubbed, 36 seasonal event commands (answer "event not running"), 22 not implemented yet. Regenerate with `python tools/command_status.py <NET.as>`.
 
 ### Implemented
 
@@ -52,6 +52,12 @@ Every command in the client's `NET.as`: 87 implemented, 15 stubbed, 36 seasonal 
 - [x] config.getConfig - GET_CONFIG
 - [x] config.getCv - GET_CV_LIST
 - [x] coupon.redeem - REDEEM_BONUS_CODE
+- [x] craftingCenter.cbc - CRAFTING_COLLECT
+- [x] craftingCenter.dbct - CRAFTING_TIME_DECREASE
+- [x] craftingCenter.gac - CRAFTING_GET_REWARD
+- [x] craftingCenter.icbc - CRAFTING_COLLECT_INSTANT
+- [x] craftingCenter.sbc - CRAFTING_START
+- [x] field.eFbC - EXTEND_FORGOTTEN_ZOO_TOOLS_BUY
 - [x] field.fia (`beAC`) - BREED_END
 - [x] field.fia (`bsAC`) - BREED_START
 - [x] field.fia (`bdC`) - BUILD_CAGE_BUY
@@ -113,6 +119,8 @@ Every command in the client's `NET.as`: 87 implemented, 15 stubbed, 36 seasonal 
 - [x] field.fia (`bdASB`) - USE_ELIXIR
 - [x] field.fia (`arASB`) - USE_RAISING_POTION
 - [x] field.fia (`wAC`) - WATER_ANIMAL_CAGE
+- [x] field.moveItemsToInventory - MOVE_ITEMS_TO_INVENTORY
+- [x] field.ul - UNLOCK_FIELD
 - [x] gameitems.get - SHOP_ITEMS_GET
 - [x] init.getUser - GET_USER
 - [x] init.sP - SWITCH_PLAYFIELD
@@ -122,6 +130,7 @@ Every command in the client's `NET.as`: 87 implemented, 15 stubbed, 36 seasonal 
 - [x] inventory.iva - MOVE_ITEM_FROM_INVENTORY_TO_FIELD
 - [x] inventory.iva - REQUEST_INVENTORY
 - [x] inventory.iva - SELL_ITEM_FROM_INVENTORY
+- [x] item.buySB - RECYCLE_BUY_SURPRISEBOX
 - [x] mail.gib - MAIL_GET_INBOX
 - [x] managementCenter.get - MANAGMENT_CENTER_GET
 - [x] push.get - PUSH
@@ -130,6 +139,11 @@ Every command in the client's `NET.as`: 87 implemented, 15 stubbed, 36 seasonal 
 - [x] quest.gQ - GET_QUESTS
 - [x] quest.gR - FINISH_QUEST
 - [x] quest.sQ - START_QUEST
+- [x] recyclingCenter.brs - RECYCLE_BOOK_NEW_SLOT
+- [x] recyclingCenter.crs - RECYCLE_COLLLECT_RECYCLE_SLOT
+- [x] recyclingCenter.grs - RECYCLE_GET_SLOTS
+- [x] recyclingCenter.icrs - RECYCLE_INSTANT_COLLLECT_RECYCLE_SLOT
+- [x] recyclingCenter.srm - RECYCLE_START_RECYCLE_MATERIAL
 - [x] swfCookie.set - SAVE_FLASH_COOKIE
 - [x] swfOpt.set - SET_USER
 - [x] tombola.bTT - BUY_FORTUNE_WHEEL_TICKET
@@ -149,7 +163,6 @@ Every command in the client's `NET.as`: 87 implemented, 15 stubbed, 36 seasonal 
 - [ ] inv.get - INVENTORY_GET — stub: returns saved data
 - [ ] mail.gob - MAIL_GET_OUTBOX — stub: returns saved data
 - [ ] rankings.get - GET_RANKING_LIST — stub: returns saved data
-- [ ] recyclingCenter.grs - RECYCLE_GET_SLOTS — stub: returns saved data
 - [ ] safari.gC - GET_SAFARI_CONFIG — stub: returns saved data
 - [ ] safari.gS - GET_SAFARI_SATE — stub: returns saved data
 - [ ] test.testAdam - DEBUG_PHP_ACTION — stub: accepted, ignored
@@ -157,14 +170,6 @@ Every command in the client's `NET.as`: 87 implemented, 15 stubbed, 36 seasonal 
 ### Not implemented yet
 
 - [ ] avatar.set - AVATAR_SAVE — not implemented
-- [ ] craftingCenter.cbc - CRAFTING_COLLECT — not implemented
-- [ ] craftingCenter.dbct - CRAFTING_TIME_DECREASE — not implemented
-- [ ] craftingCenter.gac - CRAFTING_GET_REWARD — not implemented
-- [ ] craftingCenter.icbc - CRAFTING_COLLECT_INSTANT — not implemented
-- [ ] craftingCenter.sbc - CRAFTING_START — not implemented
-- [ ] field.eFbC - EXTEND_FORGOTTEN_ZOO_TOOLS_BUY — not implemented
-- [ ] field.moveItemsToInventory - MOVE_ITEMS_TO_INVENTORY — not implemented
-- [ ] field.ul - UNLOCK_FIELD — not implemented
 - [ ] friends.aFbI - FRIENDS_ACCEPT_FRIEND — not implemented
 - [ ] friends.cFbI - FRIENDS_CANCEL_FRIENDSHIP — not implemented
 - [ ] friends.dFbI - FRIENDS_DECLINE_FRIEND — not implemented
@@ -172,16 +177,11 @@ Every command in the client's `NET.as`: 87 implemented, 15 stubbed, 36 seasonal 
 - [ ] gifts.redeem - REDEEM_GIFT — not implemented
 - [ ] init.getNeighbour - GET_NEIGHBOUR — not implemented
 - [ ] item.buyPU - BUY_POWERUP_SHOP — not implemented
-- [ ] item.buySB - RECYCLE_BUY_SURPRISEBOX — not implemented
 - [ ] mail.dm - MAIL_DELETE_ITEM — not implemented
 - [ ] mail.rm - MAIL_IS_READ — not implemented
 - [ ] mail.sm - MAIL_SEND_BY_ID — not implemented
 - [ ] managementCenter.upgrade - MANAGMENTCENTER_UPGRADE — not implemented
 - [ ] packs.buy - BUY_PROMO_PACK — not implemented
-- [ ] recyclingCenter.brs - RECYCLE_BOOK_NEW_SLOT — not implemented
-- [ ] recyclingCenter.crs - RECYCLE_COLLLECT_RECYCLE_SLOT — not implemented
-- [ ] recyclingCenter.icrs - RECYCLE_INSTANT_COLLLECT_RECYCLE_SLOT — not implemented
-- [ ] recyclingCenter.srm - RECYCLE_START_RECYCLE_MATERIAL — not implemented
 - [ ] safari.bG - BUY_SAFARI_FUEL — not implemented
 - [ ] safari.bJ - SAFARI_BUY_JOKER — not implemented
 - [ ] safari.eA - EXPLORE_SAFARI_TILE — not implemented

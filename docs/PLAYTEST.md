@@ -60,6 +60,21 @@ something else than the client showed.
 - [ ] Fortune wheel: buy a ticket and spin; a resource prize stops at the storage limit.
 - [ ] Buy resources in the shop; buying more than fits in storage is refused without charging.
 
+## Other zoos
+
+- [ ] Expand the main zoo to size 13: the forgotten zoo appears on the map for free.
+- [ ] Reach level 15 (or pay 75): the coast zoo; level 17: the ocean zoo.
+- [ ] Switch to another zoo from the map, build there, go back; each zoo keeps its own items.
+- [ ] Expand the forgotten zoo with tools (expansion coins) and with real currency.
+- [ ] "Put everything in the inventory" on a zoo: it is empty after the reload, the items are in the inventory.
+
+## Crafting and recycling
+
+- [ ] Recycle trash into a material (with and without a booster); wait or finish instantly; collect.
+- [ ] Rent a second recycling slot; after it runs out it becomes buyable again.
+- [ ] Buy a surprise box: the reward window lists the materials, and they are in the material list.
+- [ ] Craft a blueprint (materials + paws), speed it up with a booster, finish it instantly, collect: the item is in the inventory.
+
 ## Things that should fail cleanly
 
 These should show nothing broken: the client's change is undone and the
