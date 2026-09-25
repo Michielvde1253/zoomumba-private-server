@@ -29,7 +29,7 @@ ACTIONS = ("feed", "water", "clean", "cuddle")
 ACTION_EXP_FIELD = {"feed": "feedExpReward", "water": "waterExpReward",
                     "clean": "cleanExpReward", "cuddle": "cuddleExpReward"}
 # field.fia -> quest actionName
-FIA_ACTIONS = {"fAC": "feed", "wAC": "water", "cAC": "clean", "cuAC": "cuddle"}
+FIA_ACTIONS = {"fAC": "feed", "wAC": "water", "cAC": "clean", "cuAC": "cuddle", "sfAC": "feed", "pfAC": "feed"}
 
 
 def get_daily(json_data):

@@ -1,33 +1,26 @@
-import time
-from utils import dropUtils
+from utils import cageCareUtils, fieldItemUtils as items
 from utils.zooErrors import ZooError, INVALID_REQUEST, NOT_ENOUGH_RESOURCES
 
-MEDICINE_RESOURCE_ID = "7"
+# field.fia hAC / shAC / sfAC / pfAC: {"id": <cage uniqueId>}
+#   hAC   heal: one medicine per animal
+#   shAC  super heal: one supermedicine, keeps the animals healthy for longer
+#   sfAC  super feed: one superfood (super_fishfood in the ocean zoo), double feed xp
+#   pfAC  power feed: one powerfood (power_fishfood)
+# The client takes the resource and adds the xp itself; we send cage, res and uObj back.
 
-# field.fia hAC: {"id": <cage uniqueId>} - one medicine per animal in the cage.
+ACTIONS = {"hAC": "heal", "shAC": "superheal", "sfAC": "superfeed", "pfAC": "powerfeed"}
 
-def handle_healAnimalCage(request, user_id, obj, json_data, config_data, current_field_id):
-    current_time = int(time.time())
 
-    cage = json_data["fObj"]["cages"].get(str(current_field_id), {}).get(str(request["id"]))
-    if cage is None:
-        raise ZooError(INVALID_REQUEST, f"no cage {request['id']} on field {current_field_id}")
+def handle_cageCareAction(request, user_id, obj, json_data, config_data, current_field_id):
+    cage = items.get_item(json_data, "cages", current_field_id, request["id"])
+    if cageCareUtils.species_config(config_data, cage) is None or cageCareUtils.animal_count(cage) == 0:
+        raise ZooError(INVALID_REQUEST, f"cage {request['id']} has no animals")
+    if not cageCareUtils.perform(obj, json_data, config_data, cage, ACTIONS[request["fia"]], current_field_id):
+        raise ZooError(NOT_ENOUGH_RESOURCES, resync=("res", "uObj"))
 
-    count_total = cage["male"] + cage["female"] + cage["child"]
-    medicine = json_data["res"].get(MEDICINE_RESOURCE_ID)
-    if medicine is None or medicine["cnt"] < count_total:
-        raise ZooError(NOT_ENOUGH_RESOURCES, resync=("res",))
-    medicine["cnt"] -= count_total
-
-    cage["sick"] = current_time
-    dropUtils.pay_cage_action(json_data, config_data, cage, request["fia"])
-
-    if "fObj" not in obj:
-        obj["fObj"] = {}
-    if "cages" not in obj["fObj"]:
-        obj["fObj"]["cages"] = {}
-    if current_field_id not in obj["fObj"]["cages"]:
-        obj["fObj"]["cages"][current_field_id] = {}
-    obj["fObj"]["cages"][current_field_id][str(request["id"])] = cage
+    items.send_item(obj, "cages", current_field_id, cage)
     obj["res"] = json_data["res"]
     obj["uObj"] = json_data["uObj"]
+
+
+handle_healAnimalCage = handle_cageCareAction

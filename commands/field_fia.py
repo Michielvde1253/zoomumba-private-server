@@ -34,6 +34,38 @@ available_field_actions = {
     "sR": handle_sellRoad,
     "sSB": handle_sellSpecial,
     "bSB": handle_buySpecial,
+    # instant build
+    "bdC": handle_buildInstant,
+    "bdD": handle_buildInstant,
+    "bdSt": handle_buildInstant,
+    # cage care extras
+    "shAC": handle_cageCareAction,
+    "sfAC": handle_cageCareAction,
+    "pfAC": handle_cageCareAction,
+    "uc": handle_upgradeCage,
+    "uCa": handle_upgradeEventCage,
+    # animals (not sent by this client)
+    "sAC": handle_sellAnimalCage,
+    "mAC": handle_moveAnimalCage,
+    "bAInv": handle_buyAnimalToInventory,
+    # specials / entrance
+    "mSB": handle_moveSpecial,
+    "sEb": handle_selectEntranceBuilding,
+    # assistants
+    "bAs": handle_buyAssistant,
+    "uA": handle_useAssistant,
+    "cAt": handle_clearAssistantTimer,
+    "uAsfA": handle_superFeedAssistant,
+    "uApfA": handle_powerFeedAssistant,
+    "uAshC": handle_superHealAssistant,
+    # breeding lab / nursery
+    "bsASB": handle_startAdvancedBreeding,
+    "bdASB": handle_useElixir,
+    "beASB": handle_endAdvancedBreeding,
+    "rsASB": handle_startNurseryBreeding,
+    "arASB": handle_useRaisingPotion,
+    "reASB": handle_endNurseryBreeding,
+    "rdASB": handle_instantNurseryBreeding,
 }
 
 def handle_fieldFia(request, user_id, obj, json_data, config_data):
