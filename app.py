@@ -51,6 +51,11 @@ available_commands = {
     "tombola.rTT": handle_tombolaRedeemTicket,
     "inventory.iva": handle_inventoryIva,
     "collection.rs": handle_collectionRs,
+    "quest.gQ": handle_questGetQuests,
+    "quest.gNQ": handle_questBuyNewQuests,
+    "quest.sQ": handle_questStart,
+    "quest.cQ": handle_questCancel,
+    "quest.gR": handle_questGetReward,
 }
 
 #########################

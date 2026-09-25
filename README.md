@@ -168,11 +168,11 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [ ] managementCenter.upgrade - MANAGEMENT_CENTER_UPGRADE
 - [ ] packs.buy - BUY_PROMO_PACK
 - [x] push.get - PUSH
-- [ ] quest.cQ - CANCEL_QUEST
-- [ ] quest.gNQ - BUY_NEW_QUESTS
-- [ ] quest.gQ - GET_QUESTS
-- [ ] quest.gR - FINISH_QUEST
-- [ ] quest.sQ - START_QUEST
+- [x] quest.cQ - CANCEL_QUEST
+- [x] quest.gNQ - BUY_NEW_QUESTS
+- [x] quest.gQ - GET_QUESTS
+- [x] quest.gR - FINISH_QUEST
+- [x] quest.sQ - START_QUEST
 - [ ] rankings.get - GET_RANKING_LIST
 - [ ] recyclingCenter.brs - RECYCLE_BOOK_NEW_SLOT
 - [ ] recyclingCenter.crs - RECYCLE_COLLECT_RECYCLE_SLOT
