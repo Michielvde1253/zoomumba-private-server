@@ -22,7 +22,9 @@ available_field_actions = {
     "cTr": handle_clearTrashRoad,
     "mD": handle_moveDeco,
     "mSt": handle_moveStore,
-    "bP": handle_buyPremium
+    "bP": handle_buyPremium,
+    "bTb": handle_buyTrashbin,
+    "mTb": handle_moveTrashbin
 }
 
 def handle_fieldFia(request, user_id, obj, json_data, config_data):
