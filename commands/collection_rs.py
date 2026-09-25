@@ -1,6 +1,6 @@
 import time
 
-from utils import constantsUtils, fieldItemUtils as items
+from utils import constantsUtils, resourceUtils, fieldItemUtils as items
 from utils.zooErrors import ZooError, INVALID_REQUEST
 
 # collection.rs: {"type": "species" | "cages" | "assists" | "events", "id": <set id>, "rId": 1 | 2}
@@ -59,12 +59,15 @@ def give_reward(reward, user_id, obj, json_data, config_data):
         json_data["uObj"][field] = json_data["uObj"].get(field, 0) + amount
         obj["uObj"] = json_data["uObj"]
 
-    elif kind in ("resource", "material"):
-        key = "res" if kind == "resource" else "mat"
-        store = json_data.setdefault(key, {})
+    elif kind == "resource":
+        resourceUtils.add_resource(json_data, reward_id, amount, user_id)  # over the storage limit is lost
+        obj["res"] = json_data["res"]
+
+    elif kind == "material":
+        store = json_data.setdefault("mat", {})
         entry = store.setdefault(str(reward_id), {"uId": user_id, "id": int(reward_id), "cnt": 0, "mCnt": 250})
-        entry["cnt"] += amount
-        obj[key] = store
+        entry["cnt"] += amount  # the client doesn't cap materials either
+        obj["mat"] = store
 
     elif kind == "collectionItem":
         entry = json_data["collItems"].setdefault(str(reward_id), {"uId": user_id, "id": int(reward_id), "cnt": 0})
