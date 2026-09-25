@@ -1,5 +1,5 @@
 import time
-from utils import shopUtils, constantsUtils
+from utils import shopUtils, constantsUtils, dropUtils
 
 def handle_buyAnimalCage(request, user_id, obj, json_data, config_data, current_field_id):
     # Create field object if needed
@@ -23,7 +23,9 @@ def handle_buyAnimalCage(request, user_id, obj, json_data, config_data, current_
 
     # Get cage
     cage = json_data["fObj"]["cages"][str(current_field_id)][str(request["id"])]
-    cage["sId"] = new_animal["sId"]
+    if cage["sId"] != new_animal["sId"]:
+        cage["sId"] = new_animal["sId"]
+        dropUtils.roll_collectables(config_data, cage)  # the species' collection set joins the pool
 
     current_time = int(time.time())
 

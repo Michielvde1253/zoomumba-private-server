@@ -1,5 +1,5 @@
 import time
-from utils import constantsUtils, roadPathfindingUtils, shopUtils
+from utils import constantsUtils, roadPathfindingUtils, shopUtils, dropUtils
 
 def handle_buyCage(request, user_id, obj, json_data, config_data, current_field_id):
     # Create field object if needed
@@ -16,6 +16,7 @@ def handle_buyCage(request, user_id, obj, json_data, config_data, current_field_
     new_cage["y"] = request["y"]
     new_cage["r"] = request["r"]
     new_cage["build"] = int(time.time()) + 10
+    dropUtils.roll_collectables(config_data, new_cage)  # the template's drops name one fixed item
 
     json_data["next_object_id"] += 1
     json_data["fObj"]["cages"][str(current_field_id)][str(new_cage["id"])] = new_cage
