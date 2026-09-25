@@ -73,10 +73,10 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [x] field.fia - BUY_ANIMAL_CAGE
 - [ ] field.fia - BUY_ANIMAL_TO_INVENTORY
 - [ ] field.fia - BUY_ASSISTANT
-- [ ] field.fia - BUY_BREEDING_LAB
+- [x] field.fia - BUY_BREEDING_LAB
 - [x] field.fia - BUY_CAGE
 - [x] field.fia - BUY_DECO
-- [ ] field.fia - BUY_NURSERY
+- [x] field.fia - BUY_NURSERY
 - [ ] field.fia - BUY_PREMIUM
 - [ ] field.fia - BUY_PREMIUM_WITH_COUNT
 - [x] field.fia - BUY_RESOURCE
@@ -153,7 +153,7 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [x] inventory.iva - MOVE_ANIMAL_FROM_INVENTORY_TO_CAGE
 - [x] inventory.iva - MOVE_ITEM_FROM_FIELD_TO_INVENTORY
 - [x] inventory.iva - MOVE_ITEM_FROM_INVENTORY_TO_FIELD
-- [ ] inventory.iva - REQUEST_INVENTORY
+- [x] inventory.iva - REQUEST_INVENTORY
 - [x] inventory.iva - SELL_ITEM_FROM_INVENTORY
 - [ ] item.buyPU - BUY_POWERUP_SHOP
 - [ ] item.buySB - RECYCLE_BUY_SURPRISEBOX

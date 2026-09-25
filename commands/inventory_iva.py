@@ -8,14 +8,16 @@ from utils.zooErrors import ZooError, INVALID_REQUEST, NOT_IMPLEMENTED
 #   itf  inventory -> field   {"type", "id", "x", "y", "r"}
 #                             {"type": 11, "id", "cId"}          (animal into a cage)
 #   sfi  sell from inventory  {"type", "ids": [...]}
-# "gui" (request the inventory) is not implemented: the client gets the
-# inventory from field "0" of fObj/animals already.
+#   gui  the whole inventory  {}   (the client never sends this; it reads
+#                                   field "0" of fObj/animals from every response)
 
 CATEGORY_TRASHBIN = 4
 
 
 def handle_inventoryIva(request, user_id, obj, json_data, config_data):
     action = request.get("iva")
+    if action == "gui":
+        return send_inventory(obj, json_data)
     category = int(request.get("type", -1))
     handler = HANDLERS.get((action, category))
     if handler is None:
@@ -73,6 +75,12 @@ def sell_trashbins_from_inventory(request, user_id, obj, json_data, config_data,
         trashbinUtils.send_trashbin(obj, INVENTORY_FIELD, trashbinUtils.deleted_copy(trashbin))
 
     obj["uObj"] = json_data["uObj"]
+
+
+def send_inventory(obj, json_data):
+    for key in ("cages", "stores", "decos", "roads", "specials", "trashbins"):
+        obj.setdefault("fObj", {}).setdefault(key, {})[INVENTORY_FIELD] = items.get_items(json_data, key, INVENTORY_FIELD)
+    obj.setdefault("animals", {})[INVENTORY_FIELD] = {"0": items.get_inventory_animals(json_data)}
 
 
 # ---- cages, stores, decos, roads, specials ----
@@ -200,13 +208,18 @@ def animal_to_cage(request, user_id, obj, json_data, config_data, current_field_
         raise ZooError(INVALID_REQUEST, f"no animal {request['id']} in the inventory")
     cage = items.get_item(json_data, "cages", current_field_id, request["cId"])
     animal_config = config_data["gameItems"]["animals"][str(animal["aId"])]
-    cage_config = items.item_config(config_data, "cages", cage)
-
     empty = cage["male"] + cage["female"] + cage["child"] == 0
     if not empty and cage["sId"] != animal["sId"]:
         raise ZooError(INVALID_REQUEST, "a cage can only hold one species")
-    if cage_config.get("type") not in animal_config.get("cageTypesPlaceable", [cage_config.get("type")]):
+    # gameItems.cagesSpecies.<cageId>.<speciesId>: which species fit a cage, and how many
+    limits = config_data["gameItems"]["cagesSpecies"].get(str(cage["cId"]), {}).get(str(animal["sId"]))
+    if limits is None:
         raise ZooError(INVALID_REQUEST, "this animal can't live in this cage")
+    if animal_config["child"] == 1:
+        if cage["child"] >= limits["maxChild"]:
+            raise ZooError(INVALID_REQUEST, "no room for another baby in this cage")
+    elif cage["male"] + cage["female"] >= limits["maxAdult"]:
+        raise ZooError(INVALID_REQUEST, "no room for another adult in this cage")
 
     del inventory[str(animal["id"])]
     items.send_animal(obj, INVENTORY_FIELD, "0", items.deleted_copy(animal))
