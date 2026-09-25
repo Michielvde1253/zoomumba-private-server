@@ -3,7 +3,7 @@
 #######################
 from bundle import TEMPLATES_DIR, STUB_DIR, STYLES_DIR, ASSETS_DIR
 from commands import *
-from utils import constantsUtils, configUtils, expansionUtils
+from utils import constantsUtils, configUtils, expansionUtils, siteConfig
 import utils.zooErrors as zooErrors
 import utils.userUtils as userUtils
 import utils.attractionUtils as attractionUtils
@@ -24,7 +24,7 @@ import os
 from pymongo import MongoClient
 from dotenv import load_dotenv
 import copy
-from urllib.parse import urlparse
+from werkzeug.middleware.proxy_fix import ProxyFix
 import traceback
 
 print(" [+] Loading server...")
@@ -69,6 +69,16 @@ else:
 port = 5050
 
 app = Flask(__name__, template_folder=TEMPLATES_DIR)
+
+# Public URLs (PUBLIC_URL / ASSETS_URL / TRUST_PROXY) - see utils/siteConfig.py
+if siteConfig.trust_proxy():
+    app.wsgi_app = ProxyFix(app.wsgi_app, x_proto=1, x_host=1)
+
+@app.context_processor
+def inject_site_config():
+    # Makes {{ SITE.server_url }}, {{ SITE.assets_url }}, {{ SITE.api_host }}, ... available in every template
+    return {"SITE": siteConfig.get_site_config(request)}
+
 app.secret_key = 'my-zoomumba-key'
 
 # Used for the account emulation panel
@@ -127,9 +137,9 @@ def homepage():
     session["msg"] = ""
 
     if action == "externalSignUp":
-        return render_template("signup.html", ASSETSIP=request.host_url, LOCALE=locale, LOCALESTRINGS=langstrings[locale], msg=msg)
+        return render_template("signup.html", LOCALE=locale, LOCALESTRINGS=langstrings[locale], msg=msg)
     else:
-        return render_template("home.html", ASSETSIP=request.host_url, SERVERIP=request.host_url, LOCALE=locale, LOCALESTRINGS=langstrings[locale], msg=msg, registered=userUtils.get_total_user_count())
+        return render_template("home.html", LOCALE=locale, LOCALESTRINGS=langstrings[locale], msg=msg, registered=userUtils.get_total_user_count())
 
 
 @app.route('/authenticate', methods=['POST'])
@@ -197,7 +207,7 @@ def register():
         msg = "bgc.error.username_alreadyExists"
     # We're accepting multiple accounts with the same email because why not
     if msg != "":
-        return render_template("signup.html", ASSETSIP=request.host_url, LOCALE=locale, LOCALESTRINGS=langstrings[locale], msg=msg)
+        return render_template("signup.html", LOCALE=locale, LOCALESTRINGS=langstrings[locale], msg=msg)
     password = bcrypt.hashpw(password.encode('utf-8'), bcrypt.gensalt()).decode('utf8')
 
     highest_id = auth_db.find().sort('id', -1).limit(1) # Find highest id in database (hopefully this doesn't eat performance xd)
@@ -258,16 +268,7 @@ def gamepage():
     tutT = json_data["zoo"]["uObj"]["tutT"]
     token = json_data["token"]
 
-    # Quick ducktape fix to remove the http(s):// from the host url (because the flashvars need it like that)
-    # There's probably a more efficient way than to check this every time again
-    host_name = urlparse(request.host_url).hostname
-    host_port = urlparse(request.host_url).port
-    if host_port:
-        host_url = host_name + ":" + str(host_port)
-    else:
-        host_url = host_name
-
-    return render_template("play.html", tutS=tutS, tutT=tutT, userid=session["userid"], token=token, SERVERIP=host_url, isHTTPS=int(LOCAL_DEV_MODE == False), DEBUGSWF="-DEBUG" if LOCAL_DEV_MODE else "")
+    return render_template("play.html", tutS=tutS, tutT=tutT, userid=session["userid"], token=token)
 
 @app.route("/emulate/<user_id>")
 @auth.login_required
@@ -280,16 +281,7 @@ def emulate(user_id):
     token = json_data["token"]
     session["token"] = token
 
-    # Quick ducktape fix to remove the http(s):// from the host url (because the flashvars need it like that)
-    # There's probably a more efficient way than to check this every time again
-    host_name = urlparse(request.host_url).hostname
-    host_port = urlparse(request.host_url).port
-    if host_port:
-        host_url = host_name + ":" + str(host_port)
-    else:
-        host_url = host_name
-
-    return render_template("play.html", tutS=tutS, tutT=tutT, userid=user_id, token=token, SERVERIP=host_url, isHTTPS=int(LOCAL_DEV_MODE == False))
+    return render_template("play.html", tutS=tutS, tutT=tutT, userid=user_id, token=token)
 
 @app.route("/admin")
 @auth.login_required

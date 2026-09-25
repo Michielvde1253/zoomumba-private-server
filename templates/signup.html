@@ -6,16 +6,16 @@
                 <meta name="keywords" content="ZooMumba, Online games, Online game, OnlineGames, OnlineGame, Zoo, Zoomumba, Zoo Games, Animal game, Animal games, Zoo game, Zoo, Garden, Animal-keeping, Animal park, Zookeeper">
         <meta http-equiv="X-UA-Compatible" content="IE=9">
         <meta name="google-site-verification" content="">
-                <link href="{{ASSETSIP}}/templates/styles/bgc-1.2.0.min.css" rel="stylesheet" type="text/css" media="screen">
-<script type="text/javascript" src="{{ASSETSIP}}/assets/js/jquery-1.7.1.min.js" charset="UTF-8"></script>
-<script type="text/javascript" src="{{ASSETSIP}}/templates/styles/bgc-1.2.0.min.js" charset="UTF-8"></script>
-<script type="text/javascript" src="{{ASSETSIP}}/templates/styles/api.js" charset="UTF-8"></script>
-                <link rel="stylesheet" type="text/css" href="{{ASSETSIP}}/templates/styles/mlf.css">
-        <link rel="shortcut icon" href="{{ASSETSIP}}/assets/img/favicon.ico?__cv=8191ee4e2a54a1153eef58251c069a00">
-                <script type="text/javascript" src="{{ASSETSIP}}/assets/jsMin/mlf-main.js"></script>
+                <link href="{{ SITE.assets_url }}/templates/styles/bgc-1.2.0.min.css" rel="stylesheet" type="text/css" media="screen">
+<script type="text/javascript" src="{{ SITE.assets_url }}/assets/js/jquery-1.7.1.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="{{ SITE.assets_url }}/templates/styles/bgc-1.2.0.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="{{ SITE.assets_url }}/templates/styles/api.js" charset="UTF-8"></script>
+                <link rel="stylesheet" type="text/css" href="{{ SITE.assets_url }}/templates/styles/mlf.css">
+        <link rel="shortcut icon" href="{{ SITE.assets_url }}/assets/img/favicon.ico?__cv=8191ee4e2a54a1153eef58251c069a00">
+                <script type="text/javascript" src="{{ SITE.assets_url }}/assets/jsMin/mlf-main.js"></script>
         <script type="text/javascript">AC_FL_RunContent = 0;</script>
-        <script src="{{ASSETSIP}}/templates/styles/AC_RunActiveContent.js" type="text/javascript"></script>
-                        <link href="{{ASSETSIP}}/templates/styles/sas-0.10.5.css" media="screen" rel="stylesheet" type="text/css">
+        <script src="{{ SITE.assets_url }}/templates/styles/AC_RunActiveContent.js" type="text/javascript"></script>
+                        <link href="{{ SITE.assets_url }}/templates/styles/sas-0.10.5.css" media="screen" rel="stylesheet" type="text/css">
 
         <script type="text/javascript">
         
@@ -48,7 +48,7 @@
             function toggleInfo() {
                 var zoomumba = document.getElementById('zoomumbaInfo');
                 if (document.getElementById('more').style.display == 'inline') {
-                    zoomumba.style.backgroundImage = 'url({{ASSETSIP}}/assets/img/global/zoo_external_info_long.png?__cv=8dbaaede1674eedf03db66161a122800)';
+                    zoomumba.style.backgroundImage = 'url({{ SITE.assets_url }}/assets/img/global/zoo_external_info_long.png?__cv=8dbaaede1674eedf03db66161a122800)';
                     zoomumba.style.height = '358px';
                     document.getElementById('more').style.display = 'none';
                     document.getElementById('less').style.display = 'inline';
@@ -56,7 +56,7 @@
                     document.getElementById('text9').style.display = 'block';
                     document.getElementById('linklist').style.top = '970px';
                 } else {
-                    zoomumba.style.backgroundImage = 'url({{ASSETSIP}}/assets/img/global/zoo_external_info_short.png?__cv=1c826e39c53eb67f371f8f3dd5806100)';
+                    zoomumba.style.backgroundImage = 'url({{ SITE.assets_url }}/assets/img/global/zoo_external_info_short.png?__cv=1c826e39c53eb67f371f8f3dd5806100)';
                     zoomumba.style.height = '190px';
                     document.getElementById('more').style.display = 'inline';
                     document.getElementById('less').style.display = 'none';
@@ -74,161 +74,161 @@
                                 }
 
         #loginForm_default_loginButton {
-          background:url("{{ASSETSIP}}/assets/img/global/btn/btn_reg_login.png?__cv=c2101b3325f085bd8dd743eee5118000") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/global/btn/btn_reg_login.png?__cv=c2101b3325f085bd8dd743eee5118000") no-repeat;
         }
 
         #loginForm_default_loginButton:hover {
-          background:url("{{ASSETSIP}}/assets/img/global/btn/btn_reg_login_hov.png?__cv=b3fb9d87cc683b9541ff3893468cb100") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/global/btn/btn_reg_login_hov.png?__cv=b3fb9d87cc683b9541ff3893468cb100") no-repeat;
         }
 
         #loginForm_default_signupButton {
-          background:url("{{ASSETSIP}}/assets/img/global/btn/btn_reg_login.png?__cv=c2101b3325f085bd8dd743eee5118000") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/global/btn/btn_reg_login.png?__cv=c2101b3325f085bd8dd743eee5118000") no-repeat;
         }
 
         #loginForm_default_signupButton:hover {
-          background:url("{{ASSETSIP}}/assets/img/global/btn/btn_reg_login_hov.png?__cv=b3fb9d87cc683b9541ff3893468cb100") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/global/btn/btn_reg_login_hov.png?__cv=b3fb9d87cc683b9541ff3893468cb100") no-repeat;
         }
 
         #zoo_extHomeLeftContent {
-        	background: url("{{ASSETSIP}}/assets/img/global/bg_ext_left.jpg?__cv=d5b64979e0ada2df4af88226c7430500") no-repeat scroll right top transparent;
+        	background: url("{{ SITE.assets_url }}/assets/img/global/bg_ext_left.jpg?__cv=d5b64979e0ada2df4af88226c7430500") no-repeat scroll right top transparent;
                     }
 
         #zoo_extHomeCenterContent {
-        	background: url("{{ASSETSIP}}/assets/img/global/bg_ext_center.jpg?__cv=187ed811614b754aaded21bcc092e300") no-repeat scroll 0% 0%;
+        	background: url("{{ SITE.assets_url }}/assets/img/global/bg_ext_center.jpg?__cv=187ed811614b754aaded21bcc092e300") no-repeat scroll 0% 0%;
                     }
 
         #zoo_extHomeLayerCenterContent {
-            background: url("{{ASSETSIP}}/assets/img/global/bg_ext_layer_center.jpg?__cv=c020519c01846e28b0ed0f3271012700") no-repeat scroll 0 0 transparent;
+            background: url("{{ SITE.assets_url }}/assets/img/global/bg_ext_layer_center.jpg?__cv=c020519c01846e28b0ed0f3271012700") no-repeat scroll 0 0 transparent;
         }
 
         #zoo_extHomeRightContent {
-        	background: url("{{ASSETSIP}}/assets/img/global/bg_ext_right.jpg?__cv=9a94c60bc8448199721d3c0e72fdf800") no-repeat scroll left top transparent;
+        	background: url("{{ SITE.assets_url }}/assets/img/global/bg_ext_right.jpg?__cv=9a94c60bc8448199721d3c0e72fdf800") no-repeat scroll left top transparent;
                     }
 
         #zoo_regCenter:hover {
-        	background: url("{{ASSETSIP}}/assets/img/global/register_hover.png?__cv=4112bd9898aa4378fb1b4605f3afa100");
+        	background: url("{{ SITE.assets_url }}/assets/img/global/register_hover.png?__cv=4112bd9898aa4378fb1b4605f3afa100");
         }
 
         #zoo_extSubline {
-                        background: url("{{ASSETSIP}}/assets/img/en_US/subline.png?__cv=186c4960fdac5f8042a6c962a1212000") no-repeat scroll right top;
+                        background: url("{{ SITE.assets_url }}/assets/img/en_US/subline.png?__cv=186c4960fdac5f8042a6c962a1212000") no-repeat scroll right top;
                     }
 
         #zoo_extBoardLink:hover {
-        	background: url("{{ASSETSIP}}/assets/img/global/btn/btn_ext_right_hov.png?__cv=e94a191363f4d16a1ee1b80430aba900") no-repeat;
+        	background: url("{{ SITE.assets_url }}/assets/img/global/btn/btn_ext_right_hov.png?__cv=e94a191363f4d16a1ee1b80430aba900") no-repeat;
         }
 
         #zoo_extGameTour:hover {
-        	background: url("{{ASSETSIP}}/assets/img/global/btn/btn_ext_left_hov.png?__cv=a8843dd88104deac5fcae34f266e1200") no-repeat;
+        	background: url("{{ SITE.assets_url }}/assets/img/global/btn/btn_ext_left_hov.png?__cv=a8843dd88104deac5fcae34f266e1200") no-repeat;
         }
 
         #zoo_extGameTourText {
-        	background: url("{{ASSETSIP}}/assets/img/en_US/external/typo_spieltour.png?__cv=a20a6ee6e719212c7b01fb77efbaae00");
+        	background: url("{{ SITE.assets_url }}/assets/img/en_US/external/typo_spieltour.png?__cv=a20a6ee6e719212c7b01fb77efbaae00");
         }
 
         #zoo_extBoardLinkText {
-        	background: url("{{ASSETSIP}}/assets/img/en_US/external/typo_zm_frm.png?__cv=50263bf843484963615c50dbe97f6600");
+        	background: url("{{ SITE.assets_url }}/assets/img/en_US/external/typo_zm_frm.png?__cv=50263bf843484963615c50dbe97f6600");
         }
 
         table.support .support_submit, #suggest_submit {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/submit.png?__cv=8ef4ca8ee6f2b271a8289824e0a50700") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/submit.png?__cv=8ef4ca8ee6f2b271a8289824e0a50700") no-repeat;
         }
 
         table.support .support_submit:hover, #suggest_submit:hover {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/submit_hover.png?__cv=2da46a082966fefeed806827c23bd000") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/submit_hover.png?__cv=2da46a082966fefeed806827c23bd000") no-repeat;
         }
 
         table .signup_right .signup_back {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/back.png?__cv=1dd3368a03f5117b802ae533772cb200") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/back.png?__cv=1dd3368a03f5117b802ae533772cb200") no-repeat;
         }
 
         table .signup_right .signup_back:hover {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/back_hover.png?__cv=3224e459b1171f2c50c23f9139994700") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/back_hover.png?__cv=3224e459b1171f2c50c23f9139994700") no-repeat;
         }
 
         table .signup_left .signup_back {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/back.png?__cv=1dd3368a03f5117b802ae533772cb200") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/back.png?__cv=1dd3368a03f5117b802ae533772cb200") no-repeat;
         }
 
         table .signup_left .signup_back:hover {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/back_hover.png?__cv=3224e459b1171f2c50c23f9139994700") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/back_hover.png?__cv=3224e459b1171f2c50c23f9139994700") no-repeat;
         }
 
         table .verifyEmail .signup_back {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/back.png?__cv=1dd3368a03f5117b802ae533772cb200") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/back.png?__cv=1dd3368a03f5117b802ae533772cb200") no-repeat;
         }
 
         table .verifyEmail .signup_back:hover {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/back_hover.png?__cv=3224e459b1171f2c50c23f9139994700") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/back_hover.png?__cv=3224e459b1171f2c50c23f9139994700") no-repeat;
         }
 
         table .signup_right .change_resendSubmit {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/btn_next.png?__cv=4d7fce38b972a52401c46aef8b26b000") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_next.png?__cv=4d7fce38b972a52401c46aef8b26b000") no-repeat;
         }
 
         table .signup_right .change_resendSubmit:hover {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/btn_next_hover.png?__cv=8a4138198a73a3785ea63a2848215b00") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_next_hover.png?__cv=8a4138198a73a3785ea63a2848215b00") no-repeat;
         }
 
         table .signup_right .signup_submit {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/btn_register.png?__cv=9697325edcd855d48d41bd143f201000") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_register.png?__cv=9697325edcd855d48d41bd143f201000") no-repeat;
         }
         table .signup_right .signup_submit:hover {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/btn_register_hover.png?__cv=9ec1fea8c542ad1eab1688be4d9b6800") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_register_hover.png?__cv=9ec1fea8c542ad1eab1688be4d9b6800") no-repeat;
         }
 
         #forgotPass table .signup_right .signup_submit, #verify .signup_submit {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/btn_request.png?__cv=005989d9227a04d2d3b0b7a55baa8900") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_request.png?__cv=005989d9227a04d2d3b0b7a55baa8900") no-repeat;
         }
 
         #forgotPass table .signup_right .signup_submit:hover {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/btn_request_hover.png?__cv=9ee683ef1e1e5d827a7325963975f800") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_request_hover.png?__cv=9ee683ef1e1e5d827a7325963975f800") no-repeat;
         }
 
         #forgotPass table .signup_right .signup_submit:hover, #verify .signup_submit:hover {
-          background:url("{{ASSETSIP}}/assets/img/en_US/btn/btn_request_hover.png?__cv=9ee683ef1e1e5d827a7325963975f800") no-repeat;
+          background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_request_hover.png?__cv=9ee683ef1e1e5d827a7325963975f800") no-repeat;
         }
 
         #logout .buttonGameLink {
-        	background:url("{{ASSETSIP}}/assets/img/en_US/btn/game_back.png?__cv=2c4628cf537442fc8b7ddb0950eb4b00") no-repeat;
+        	background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/game_back.png?__cv=2c4628cf537442fc8b7ddb0950eb4b00") no-repeat;
         }
 
         #logout .buttonGameLink:hover {
-        	background:url("{{ASSETSIP}}/assets/img/en_US/btn/game_back_hover.png?__cv=1154e281b35e548284a2973ddf444700") no-repeat;
+        	background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/game_back_hover.png?__cv=1154e281b35e548284a2973ddf444700") no-repeat;
         }
 
         #logout .buttonPortalLink {
-        	background:url("{{ASSETSIP}}/assets/img/en_US/btn/portal_back.png?__cv=eb2549b83e9042f4675cb5811b475300") no-repeat;
+        	background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/portal_back.png?__cv=eb2549b83e9042f4675cb5811b475300") no-repeat;
         }
 
         #logout .buttonPortalLink:hover {
-        	background:url("{{ASSETSIP}}/assets/img/en_US/btn/portal_back_hover.png?__cv=d25cd3433da28b8a08d71c2a1ee59000") no-repeat;
+        	background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/portal_back_hover.png?__cv=d25cd3433da28b8a08d71c2a1ee59000") no-repeat;
         }
 
         .change_submit {
-        	background:url("{{ASSETSIP}}/assets/img/en_US/btn/btn_change.png?__cv=495e813e74a1957f4e4bc02242eed800") no-repeat;
+        	background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_change.png?__cv=495e813e74a1957f4e4bc02242eed800") no-repeat;
         }
 
         .change_submit:hover {
-        	background:url("{{ASSETSIP}}/assets/img/en_US/btn/btn_change_hover.png?__cv=57e9abe7efab7b00e7260373b4307f00") no-repeat;
+        	background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_change_hover.png?__cv=57e9abe7efab7b00e7260373b4307f00") no-repeat;
         }
 
         /*
 		#bgc_signup_container .bgc_signup_container_form fieldset.bgc_signup_form_buttons input.bgc_signup_form_back
 		{
-		    background:url("{{ASSETSIP}}/assets/img/en_US/btn/back.png?__cv=1dd3368a03f5117b802ae533772cb200") no-repeat;
+		    background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/back.png?__cv=1dd3368a03f5117b802ae533772cb200") no-repeat;
 		}
 		#bgc_signup_container .bgc_signup_container_form fieldset.bgc_signup_form_buttons input.bgc_signup_form_back:hover
 		{
-		    background:url("{{ASSETSIP}}/assets/img/en_US/btn/back_hover.png?__cv=3224e459b1171f2c50c23f9139994700") no-repeat;
+		    background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/back_hover.png?__cv=3224e459b1171f2c50c23f9139994700") no-repeat;
 		}
 
 		#bgc_signup_container .bgc_signup_container_form fieldset.bgc_signup_form_buttons input.bgc_signup_form_register
 		{
-		    background:url("{{ASSETSIP}}/assets/img/en_US/btn/btn_register.png?__cv=9697325edcd855d48d41bd143f201000") no-repeat;
+		    background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_register.png?__cv=9697325edcd855d48d41bd143f201000") no-repeat;
 		}
 		#bgc_signup_container .bgc_signup_container_form fieldset.bgc_signup_form_buttons input.bgc_signup_form_register:hover
 		{
-		    background:url("{{ASSETSIP}}/assets/img/en_US/btn/btn_register_hover.png?__cv=9ec1fea8c542ad1eab1688be4d9b6800") no-repeat;
+		    background:url("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_register_hover.png?__cv=9ec1fea8c542ad1eab1688be4d9b6800") no-repeat;
 		}
         */
 
@@ -245,7 +245,7 @@
             position: fixed;
             display: inline-block;
             pointer-events: none;
-            background-image: url("{{ASSETSIP}}/assets/img/global/special/disco_light.png?__cv=80e7f4045f8d528991f51f86bf573600");
+            background-image: url("{{ SITE.assets_url }}/assets/img/global/special/disco_light.png?__cv=80e7f4045f8d528991f51f86bf573600");
             width: 236px;
             height: 996px;
             top: 20px;
@@ -263,7 +263,7 @@
             position: fixed;
             display: inline-block;
             pointer-events: none;
-            background-image: url("{{ASSETSIP}}/assets/img/global/special/disco_light.png?__cv=80e7f4045f8d528991f51f86bf573600");
+            background-image: url("{{ SITE.assets_url }}/assets/img/global/special/disco_light.png?__cv=80e7f4045f8d528991f51f86bf573600");
             width: 236px;
             height: 996px;
             top: 20px;
@@ -346,7 +346,7 @@
             position: fixed;
             display: inline-block;
             pointer-events: none;
-            background-image: url("{{ASSETSIP}}/assets/img/global/special/disco_animal1.png?__cv=3f2f7086a48e928abe2661ea2fee8300");
+            background-image: url("{{ SITE.assets_url }}/assets/img/global/special/disco_animal1.png?__cv=3f2f7086a48e928abe2661ea2fee8300");
             width: 109px;
             height: 169px;
             top: 405px;
@@ -382,7 +382,7 @@
             position: fixed;
             display: inline-block;
             pointer-events: none;
-            background-image: url("{{ASSETSIP}}/assets/img/global/special/disco_animal2.png?__cv=861080d78ea8cd5eecc30764d8661500");
+            background-image: url("{{ SITE.assets_url }}/assets/img/global/special/disco_animal2.png?__cv=861080d78ea8cd5eecc30764d8661500");
             width: 199px;
             height: 280px;
             top: 500px;
@@ -418,7 +418,7 @@
             position: fixed;
             display: inline-block;
             pointer-events: none;
-            background-image: url("{{ASSETSIP}}/assets/img/global/special/disco_animal2_head.png?__cv=86a5a393f16e5cccfc758b7f8a447a00");
+            background-image: url("{{ SITE.assets_url }}/assets/img/global/special/disco_animal2_head.png?__cv=86a5a393f16e5cccfc758b7f8a447a00");
             width: 88px;
             height: 88px;
             top: 462px;
@@ -473,18 +473,18 @@
 
         <script type="text/javascript">
         var imageList = new Array();
-        imageList.push("{{ASSETSIP}}/assets/img/global/btn/btn_reg_login_hov.png?__cv=b3fb9d87cc683b9541ff3893468cb100");
-        imageList.push("{{ASSETSIP}}/assets/img/global/register_hover.png?__cv=4112bd9898aa4378fb1b4605f3afa100");
-        imageList.push("{{ASSETSIP}}/assets/img/global/btn/btn_ext_right_hov.png?__cv=e94a191363f4d16a1ee1b80430aba900");
-        imageList.push("{{ASSETSIP}}/assets/img/global/btn/btn_ext_left_hov.png?__cv=a8843dd88104deac5fcae34f266e1200");
-        imageList.push("{{ASSETSIP}}/assets/img/en_US/btn/submit_hover.png?__cv=2da46a082966fefeed806827c23bd000");
-        imageList.push("{{ASSETSIP}}/assets/img/en_US/btn/back_hover.png?__cv=3224e459b1171f2c50c23f9139994700");
-        imageList.push("{{ASSETSIP}}/assets/img/en_US/btn/btn_next_hover.png?__cv=8a4138198a73a3785ea63a2848215b00");
-        imageList.push("{{ASSETSIP}}/assets/img/en_US/btn/btn_register_hover.png?__cv=9ec1fea8c542ad1eab1688be4d9b6800");
-        imageList.push("{{ASSETSIP}}/assets/img/en_US/btn/btn_request_hover.png?__cv=9ee683ef1e1e5d827a7325963975f800");
-        imageList.push("{{ASSETSIP}}/assets/img/en_US/btn/game_back_hover.png?__cv=1154e281b35e548284a2973ddf444700");
-        imageList.push("{{ASSETSIP}}/assets/img/en_US/btn/portal_back_hover.png?__cv=d25cd3433da28b8a08d71c2a1ee59000");
-        imageList.push("{{ASSETSIP}}/assets/img/en_US/btn/btn_change_hover.png?__cv=57e9abe7efab7b00e7260373b4307f00");
+        imageList.push("{{ SITE.assets_url }}/assets/img/global/btn/btn_reg_login_hov.png?__cv=b3fb9d87cc683b9541ff3893468cb100");
+        imageList.push("{{ SITE.assets_url }}/assets/img/global/register_hover.png?__cv=4112bd9898aa4378fb1b4605f3afa100");
+        imageList.push("{{ SITE.assets_url }}/assets/img/global/btn/btn_ext_right_hov.png?__cv=e94a191363f4d16a1ee1b80430aba900");
+        imageList.push("{{ SITE.assets_url }}/assets/img/global/btn/btn_ext_left_hov.png?__cv=a8843dd88104deac5fcae34f266e1200");
+        imageList.push("{{ SITE.assets_url }}/assets/img/en_US/btn/submit_hover.png?__cv=2da46a082966fefeed806827c23bd000");
+        imageList.push("{{ SITE.assets_url }}/assets/img/en_US/btn/back_hover.png?__cv=3224e459b1171f2c50c23f9139994700");
+        imageList.push("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_next_hover.png?__cv=8a4138198a73a3785ea63a2848215b00");
+        imageList.push("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_register_hover.png?__cv=9ec1fea8c542ad1eab1688be4d9b6800");
+        imageList.push("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_request_hover.png?__cv=9ee683ef1e1e5d827a7325963975f800");
+        imageList.push("{{ SITE.assets_url }}/assets/img/en_US/btn/game_back_hover.png?__cv=1154e281b35e548284a2973ddf444700");
+        imageList.push("{{ SITE.assets_url }}/assets/img/en_US/btn/portal_back_hover.png?__cv=d25cd3433da28b8a08d71c2a1ee59000");
+        imageList.push("{{ SITE.assets_url }}/assets/img/en_US/btn/btn_change_hover.png?__cv=57e9abe7efab7b00e7260373b4307f00");
         preloadImages(imageList);
         </script>
 
@@ -563,7 +563,7 @@ Privacy Policy. Afterwards, you may continue with your registration.</div>
 			</div>
 
 			<div id="zoo_extCobrand">
-				<img id="PartnerCobrandLogo" src="{{ASSETSIP}}/templates/styles/0_441_1.png">			</div>
+				<img id="PartnerCobrandLogo" src="{{ SITE.assets_url }}/templates/styles/0_441_1.png">			</div>
 		</div>
 	</td>
 	<td id="zoo_extHomeRight">
@@ -601,7 +601,7 @@ Privacy Policy. Afterwards, you may continue with your registration.</div>
 </script>
 
 <!-- affiliateEndTag -->
-<!-- BPID --><script language="javascript">window.bpid=window.bpid||{};window.bpid.callbacks=window.bpid.callbacks||[];window.bpid.callbacks.push(function(bpid) {document.cookie="__bpid="+bpid+";path=/;domain=.zoomumba.com;max-age=31536000;secure;samesite=none;";if (bpid != null) {try {var xhr = new XMLHttpRequest();xhr.open("GET", "\/GameAPI.php?action=core.bpid&bpid="+bpid, true);xhr.send(null);} catch(e) {}}});</script><script language="javascript" src="{{ASSETSIP}}/templates/styles/bpid.js" defer="defer"></script><!-- /BPID --><script type="text/javascript" language="javascript">
+<!-- BPID --><script language="javascript">window.bpid=window.bpid||{};window.bpid.callbacks=window.bpid.callbacks||[];window.bpid.callbacks.push(function(bpid) {document.cookie="__bpid="+bpid+";path=/;domain=.zoomumba.com;max-age=31536000;secure;samesite=none;";if (bpid != null) {try {var xhr = new XMLHttpRequest();xhr.open("GET", "\/GameAPI.php?action=core.bpid&bpid="+bpid, true);xhr.send(null);} catch(e) {}}});</script><script language="javascript" src="{{ SITE.assets_url }}/templates/styles/bpid.js" defer="defer"></script><!-- /BPID --><script type="text/javascript" language="javascript">
             var SemTmLocale   = 'US';
             var SemTmAid      = '0';
             var SemTmAip      = '';
