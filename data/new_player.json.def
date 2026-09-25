@@ -16,10 +16,10 @@
       "eBuildingId": 1,
       "zooGatePosX": 31,
       "zooGatePosY": 89,
-      "minHorizontal": 98,
+      "minHorizontal": 100,
       "maxHorizontal": 120,
       "minVertical": -60,
-      "maxVertical": -38
+      "maxVertical": -40
     }
   },
   "actFId": "01PLACEHOLDER_USERID",
