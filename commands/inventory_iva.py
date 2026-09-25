@@ -1,4 +1,4 @@
-from utils import trashbinUtils, fieldItemUtils as items
+from utils import trashbinUtils, dropUtils, fieldItemUtils as items
 from utils.trashbinUtils import INVENTORY_FIELD
 from utils.zooErrors import ZooError, INVALID_REQUEST, NOT_IMPLEMENTED
 
@@ -227,7 +227,9 @@ def animal_to_cage(request, user_id, obj, json_data, config_data, current_field_
     animal.update({"fId": current_field_id, "cId": cage["id"]})
     items.get_cage_animals(json_data, current_field_id, cage["id"])[str(animal["id"])] = animal
     cage[items.cage_count_field(animal_config)] += 1
-    cage["sId"] = animal["sId"]
+    if cage["sId"] != animal["sId"]:
+        cage["sId"] = animal["sId"]
+        dropUtils.roll_collectables(config_data, cage)
     if empty:
         species = config_data["gameItems"]["animalsSpecies"][str(animal["sId"])]
         t = items.now()
