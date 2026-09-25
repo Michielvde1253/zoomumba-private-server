@@ -1,6 +1,7 @@
 from pathlib import Path
 import os
 import json
+import copy
 
 empty_cage = {"id":-1,"uId":0,"fId":0,"cId":1,"sId":0,"act":0,"level":1,"x":34,"y":84,"r":0,"male":0,"female":0,"child":0,"build":1605824682,"breed":0,"clean":0,"feed":0,"water":0,"cuddle":0,"sick":0,"health":0,"sfeed":0,"eventId":0,"evEnd":0,"drops":{"cu":{"col":0,"eItem":0,"eCol":0},"cl":{"col":{"id":244,"amount":1},"eItem":0,"eCol":0},"wa":{"col":0,"eItem":0,"eCol":0},"fe":{"col":0,"pp":2,"pl":0,"eItem":0,"eCol":0},"sf":{"col":0,"pp":2,"pl":0,"eItem":0},"pf":{"col":0,"pp":2,"pl":0,"eItem":0},"hl":{"pp":2,"pl":0},"sh":{"pp":3,"pl":0},"eb":{"pp":2,"pl":0},"db":{"pp":2,"pl":0}}}
 empty_animal = {"id":-1,"uId":0,"aId":0,"sId":0,"cId":0,"fId":0,"fTime":0,"act":0}
@@ -31,19 +32,19 @@ def generate_cvs():
         CVS[lang] = json.loads(cv_str.replace("{PLACEHOLDER_LANG}", lang))
 
 def get_empty_cage():
-    return empty_cage.copy()
+    return copy.deepcopy(empty_cage)
 
 def get_empty_animal():
-    return empty_animal.copy()
+    return copy.deepcopy(empty_animal)
 
 def get_empty_road():
-    return empty_road.copy()
+    return copy.deepcopy(empty_road)
 
 def get_empty_deco():
-    return empty_deco.copy()
+    return copy.deepcopy(empty_deco)
 
 def get_empty_store():
-    return empty_store.copy()
+    return copy.deepcopy(empty_store)
 
 def get_empty_powerup():
-    return empty_powerup.copy()
+    return copy.deepcopy(empty_powerup)

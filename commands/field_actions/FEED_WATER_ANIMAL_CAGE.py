@@ -1,5 +1,5 @@
 import time
-from utils import shopUtils
+from utils import shopUtils, dropUtils
 
 def handle_feedWaterAnimalCage(request, user_id, obj, json_data, config_data, current_field_id):
     current_time = int(time.time())
@@ -39,6 +39,7 @@ def handle_feedWaterAnimalCage(request, user_id, obj, json_data, config_data, cu
             cage["water"] = current_time + config_data_for_species["waterTime"]
 
         json_data["res"][str(food_id)]["cnt"] -= total_food_cost
+        dropUtils.pay_cage_action(json_data, config_data, cage, request["fia"])
 
     obj["uObj"] = json_data["uObj"]
     if "fObj" not in obj:
