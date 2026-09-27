@@ -16,3 +16,5 @@ def handle_getUser(request, user_id, obj, json_data, config_data):
     handle_pushGet(request, user_id, obj, json_data, config_data)
 
     obj.update(json_data)
+    # The saved sData has an old time; the client syncs its clock from sData.time
+    obj["sData"] = dict(json_data.get("sData") or {}, time=int(time.time()))
