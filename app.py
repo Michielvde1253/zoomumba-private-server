@@ -33,6 +33,8 @@ print(" [+] Loading server...")
 # Setup list of game commands #
 ###############################
 
+ZERO_SENSITIVE_FIELDS = ("uCv", "uCr", "pPaw", "pearls", "uEp")
+
 available_commands = {
     "config.getCv": handle_getCv,
     "config.getConfig": handle_getConfig,
@@ -478,6 +480,12 @@ def handle_request():
     if playfieldUtils.grant_free_fields(json_data, config_data, json_data["uObj"].get("uId", user_id)):
         obj["fIds"] = json_data["fIds"]
         obj["pfObj"] = json_data["pfObj"]
+
+    # The client ignores currency fields that are 0 (UserProxy: if(Boolean(param1.pPaw)...)),
+    # so a counter that drops to 0 would keep showing its old value. A string "0" passes
+    # that test and still becomes 0 on the client.
+    if isinstance(obj.get("uObj"), dict):
+        obj["uObj"] = {k: ("0" if k in ZERO_SENSITIVE_FIELDS and v == 0 else v) for k, v in obj["uObj"].items()}
 
     total_response["obj"] = obj
 

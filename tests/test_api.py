@@ -363,7 +363,7 @@ cv0 = cv(); q, rid = rq("field.fia", fia="bIr", irId=1, cnt=6, cR=0); st, r, _ =
 check("buying more than fits -> invalidRequest, not charged, res resent", r["callstack"][rid][0]["v"] == "zoo.error.invalidRequest" and cv() == cv0 and "res" in r["obj"] and doc()["res"]["1"]["cnt"] == doc()["res"]["1"]["mCnt"] - 5)
 q, rid = rq("field.fia", fia="bIr", irId=1, cnt=5, cR=0); st, r, _ = call(q)
 check("buying exactly what fits works", r["callstack"][rid] == [{"t":1,"v":""}] and doc()["res"]["1"]["cnt"] == doc()["res"]["1"]["mCnt"] and cv() < cv0)
-A.data_db.update_one({"id": uid}, {"$set": {"zoo.res.2.cnt": doc()["res"]["2"]["mCnt"] - 3, "zoo.uTObj.r": {str(i): {"type": "resources", "id": 2, "cnt": 40} for i in range(1, 9)}}})
+A.data_db.update_one({"id": uid}, {"$set": {"zoo.res.2.cnt": doc()["res"]["2"]["mCnt"] - 3, "zoo.uTObj.r": {str(i): {"type": "resources", "id": 2, "cnt": 40} for i in range(1, 9)}, "zoo.uTObj.t": 1}})
 q, rid = rq("tombola.rTT"); st, r, _ = call(q)
 check("tombola resource prize capped at mCnt", r["callstack"][rid] == [{"t":1,"v":""}] and doc()["res"]["2"]["cnt"] == doc()["res"]["2"]["mCnt"])
 m33 = doc()["mat"].get("33", {"cnt": 0, "mCnt": 250})
@@ -647,6 +647,28 @@ check("rare chance roll sanity (10% for 5 units)", 60 < sum(rolls) < 140)
 cr0 = doc()["uObj"]["uCr"]; q, rid = rq("item.buySB", id=2); st, r, _ = call(q)
 got = list(r["obj"].get("itemLayer", {}).get("items", {}).get("0", {}).values())
 check("buySB: box paid, 4 material stacks given", r["callstack"][rid] == [{"t":1,"v":""}] and doc()["uObj"]["uCr"] == cr0 - 20 and len(got) == 4 and r["obj"]["itemLayer"]["type"] == "surpriseBox")
+
+# ---- play-test fixes (capture 9/26) ----
+A.data_db.update_one({"id": uid}, {"$set": {"zoo.uTObj.t": 0, "zoo.uObj.uCr": 100}})
+q, rid = rq("tombola.rTT"); st, r, _ = call(q)
+check("wheel: no spin without a ticket", r["callstack"][rid][0]["v"] == "zoo.error.invalidRequest" and "uTObj" in r["obj"])
+st, r, _ = call({"tombola.bTT": []}); q, rid = rq("tombola.rTT"); st, r, _ = call(q)
+check("wheel: one ticket = one spin, t back to 0", r["callstack"][rid] == [{"t":1,"v":""}] and r["obj"]["uTObj"]["t"] == 0)
+q, rid = rq("tombola.rTT"); st, r, _ = call(q)
+check("wheel: second spin refused", r["callstack"][rid][0]["t"] == 0)
+for prize, where in (({"type": "cages", "id": "7", "cnt": 1}, lambda d: any(c["cId"] == 7 for c in d["fObj"]["cages"]["0"].values())),
+                     ({"type": "animals", "id": "85", "cnt": 1}, lambda d: any(a["aId"] == 85 for a in d["animals"]["0"]["0"].values())),
+                     ({"type": "assists", "id": 3, "cnt": 1}, lambda d: int(d["asObj"]["3"]["end"]) >= int(time.time()) + 3500),
+                     ({"type": "decos", "id": 40, "cnt": 1}, lambda d: any(x["dId"] == 40 for x in d["fObj"]["decos"]["0"].values()))):
+    A.data_db.update_one({"id": uid}, {"$set": {"zoo.uTObj.t": 1, "zoo.uTObj.r": {str(i): prize for i in range(1, 9)}, "zoo.asObj.3": {"asId": "3", "end": "0", "nL": "1"}}})
+    q, rid = rq("tombola.rTT"); st, r, _ = call(q)
+    check(f"wheel prize {prize['type']} lands in the player's data", r["callstack"][rid] == [{"t":1,"v":""}] and where(doc()))
+A.data_db.update_one({"id": uid}, {"$set": {"zoo.uObj.pPaw": 0}})
+st, r, _ = call({"push.get": []})
+check("uObj counters at 0 are sent as \"0\" (the client ignores a plain 0)", r["obj"]["uObj"]["pPaw"] == "0" and doc()["uObj"]["pPaw"] == 0)
+q, rid = rq("init.getUser"); st, r, _ = call(q)
+check("init.getUser sends the current server time", abs(r["obj"]["sData"]["time"] - int(time.time())) < 60)
+fid = doc()["uObj"]["current_field"]
 
 # token check (non-dev mode)
 A.LOCAL_DEV_MODE = False
