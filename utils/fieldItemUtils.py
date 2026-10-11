@@ -102,9 +102,41 @@ def get_inventory_animals(json_data):
 
 
 def get_stored_cage_animals(json_data, cage_id):
-    """Animals of a cage that is in the inventory. The client only reads
-    animals."0"."0", so keeping them under animals."0".<cageId> hides them."""
+    """Legacy animals of a stored cage, migrated to loose inventory on login."""
     return get_cage_animals(json_data, INVENTORY_FIELD, cage_id)
+
+
+def release_stored_cage_animals(json_data, cage_id, cage=None):
+    """Move legacy cage-attached inventory animals into the visible animal tab."""
+    animals = json_data.setdefault("animals", {})
+    inventory_field = animals[INVENTORY_FIELD] = _as_dict(animals.get(INVENTORY_FIELD))
+    cage_id = str(cage_id)
+    stored = _as_dict(inventory_field.pop(cage_id, {}))
+    if not stored:
+        return []
+
+    visible_inventory = _as_dict(inventory_field.get("0"))
+    inventory_field["0"] = visible_inventory
+    released = []
+    for animal_id, animal in stored.items():
+        animal.update({"fId": 0, "cId": 0})
+        visible_inventory[str(animal_id)] = animal
+        released.append(animal)
+
+    if cage is None:
+        cage = get_items(json_data, "cages", INVENTORY_FIELD).get(cage_id)
+    if isinstance(cage, dict):
+        cage.update({"male": 0, "female": 0, "child": 0, "sId": 0})
+    return released
+
+
+def migrate_stored_cage_animals(json_data):
+    """Repair old saves that hid animals under their stored cage id."""
+    cages = get_items(json_data, "cages", INVENTORY_FIELD)
+    changed = False
+    for cage_id, cage in list(cages.items()):
+        changed |= bool(release_stored_cage_animals(json_data, cage_id, cage))
+    return changed
 
 
 def send_animal(obj, field_id, cage_id, animal):

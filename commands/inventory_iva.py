@@ -32,13 +32,18 @@ def trashbin_to_inventory(request, user_id, obj, json_data, config_data, current
     if trashbin is None:
         raise ZooError(INVALID_REQUEST, f"no trashbin {request['id']} on field {field_id}")
 
+    # Keep the source field id on the removal event. The live record below is
+    # stored with fId=0, but the client needs the old fId to clear its sprite.
+    removed_from_field = trashbinUtils.deleted_copy(trashbin, to_inventory=True)
+
     trashbinUtils.link_road(json_data, field_id, None, None, trashbin["id"])
     trashbin["fId"] = 0
     trashbinUtils.get_trashbins(json_data, INVENTORY_FIELD)[str(trashbin["id"])] = trashbin
     trashbinUtils.clamp_bin_trash(json_data, config_data, field_id)  # its trash is lost
 
     # del=1 removes it from the field, inv=1 makes the client put it in the inventory
-    trashbinUtils.send_trashbin(obj, current_field_id, trashbinUtils.deleted_copy(trashbin, to_inventory=True))
+    trashbinUtils.send_trashbin(obj, current_field_id, removed_from_field)
+    trashbinUtils.send_trashbin(obj, INVENTORY_FIELD, trashbin)
     obj["pfObj"] = json_data["pfObj"]
 
 
@@ -92,24 +97,27 @@ def _key(request):
 def item_to_inventory(request, user_id, obj, json_data, config_data, current_field_id):
     key = _key(request)
     item = items.get_item(json_data, key, current_field_id, request["id"])
+    if key == "cages":
+        cage_animals = items.get_cage_animals(json_data, current_field_id, item["id"])
+        if cage_animals:
+            animals_to_inventory(
+                {"p": [{"id": int(animal_id), "cId": item["id"]} for animal_id in cage_animals]},
+                user_id, obj, json_data, config_data, current_field_id,
+            )
     del items.get_items(json_data, key, current_field_id)[str(item["id"])]
+    # The deletion update must still identify the field the client is clearing.
+    # The saved inventory record is changed to fId=0 separately below.
+    removed_from_field = items.deleted_copy(item, to_inventory=True)
 
     if key == "cages":
-        # The animals stay with the cage, hidden from the client, and the
-        # cage's timers stop until it is placed again.
-        field_animals = items.get_cage_animals(json_data, current_field_id, item["id"])
-        stored = items.get_stored_cage_animals(json_data, item["id"])
-        for animal_id, animal in list(field_animals.items()):
-            items.send_animal(obj, current_field_id, item["id"], items.deleted_copy(animal))
-            animal["fId"] = 0
-            stored[animal_id] = animal
-        del json_data["animals"][str(current_field_id)][str(item["id"])]
+        # Pause the empty cage's timers while it is in storage.
         json_data.setdefault("inventoryTimes", {})[str(item["id"])] = items.now()
 
     item["fId"] = 0
     item["act"] = 0
     items.get_items(json_data, key, INVENTORY_FIELD)[str(item["id"])] = item
-    items.send_item(obj, key, current_field_id, items.deleted_copy(item, to_inventory=True))
+    items.send_item(obj, key, current_field_id, removed_from_field)
+    items.send_item(obj, key, INVENTORY_FIELD, item)
 
     if key == "roads":
         items.refresh_activity(obj, json_data, config_data, current_field_id, item["x"], item["y"])
@@ -137,13 +145,11 @@ def item_to_field(request, user_id, obj, json_data, config_data, current_field_i
             for timer in items.CAGE_TIMERS:
                 if item.get(timer, 0) > stored_at:
                     item[timer] += paused
-        stored = json_data.get("animals", {}).get(INVENTORY_FIELD, {})
-        stored = stored.pop(str(item["id"]), {}) if isinstance(stored, dict) else {}
-        field_animals = items.get_cage_animals(json_data, current_field_id, item["id"])
-        for animal_id, animal in stored.items():
-            animal["fId"] = current_field_id
-            field_animals[animal_id] = animal
-            items.send_animal(obj, current_field_id, item["id"], animal)
+        # Convert any pre-fix save as it is placed, but do not put its animals
+        # back inside. They remain available in the animal inventory tab.
+        for animal in items.release_stored_cage_animals(json_data, item["id"], item):
+            items.send_animal(obj, INVENTORY_FIELD, "0", animal)
+        item.update({"male": 0, "female": 0, "child": 0, "sId": 0})
 
     items.send_item(obj, key, current_field_id, item)
 
@@ -158,12 +164,14 @@ def sell_items_from_inventory(request, user_id, obj, json_data, config_data, cur
 
     for item_id in ids:
         item = inventory.pop(item_id)
+        if key == "cages":
+            # Release animals hidden by the old storage format before pricing
+            # the cage, so the cage sale does not sell animals that we keep.
+            for animal in items.release_stored_cage_animals(json_data, item_id, item):
+                items.send_animal(obj, INVENTORY_FIELD, "0", animal)
         items.check_sellable(items.item_config(config_data, key, item), key)
         items.pay_out(json_data, *items.sell_price(config_data, key, item))
         if key == "cages":
-            stored = json_data.get("animals", {}).get(INVENTORY_FIELD)
-            if isinstance(stored, dict):
-                stored.pop(item_id, None)
             json_data.get("inventoryTimes", {}).pop(item_id, None)
         items.send_item(obj, key, INVENTORY_FIELD, items.deleted_copy(item))
 
@@ -196,6 +204,7 @@ def animals_to_inventory(request, user_id, obj, json_data, config_data, current_
         items.send_animal(obj, current_field_id, cage["id"], items.deleted_copy(animal, to_inventory=True))
         animal.update({"fId": 0, "cId": 0})
         inventory[str(animal["id"])] = animal
+        items.send_animal(obj, INVENTORY_FIELD, "0", animal)
 
     for cage_id in touched_cages:
         items.send_item(obj, "cages", current_field_id, items.get_item(json_data, "cages", current_field_id, cage_id))
