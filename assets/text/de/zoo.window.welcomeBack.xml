@@ -2,7 +2,7 @@
 <language>
   <category name="zoo.window.welcomeBack">
     <item name="zoo.window.welcomeBack.title"><![CDATA[Willkommen zurück, %username%!]]></item>
-    <item name="zoo.window.welcomeBack.info"><![CDATA[Wie schön, dass du wieder da bist! Also, ran an die Arbeit! Deine Tiere warten schon ungeduldig auf dich. Es wird wieder richtig wild! Noch mehr niedliche Neuzugänge, noch mehr außergewöhnliche Vögel und jede Menge begeisterte Besucher. <br><br>Und du wirst auch genießen, was der Zoo sonst noch für dich bereithält:]]></item>
-    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Juhu! Schnell, verpasst nicht den Wahnsinnsansturm!]]></item>
+    <item name="zoo.window.welcomeBack.info"><![CDATA[Wie schön, dass du wieder da bist! Also ran an die Arbeit! Deine Tiere warten schon ungeduldig auf dich. Es wird wieder richtig wild! Noch mehr niedliche Neuzugänge, noch mehr außergewöhnliche Vögel und jede Menge begeisterte Besucher. <br><br>Und auch du wirst genießen, was der Zoo so alles bereithält:]]></item>
+    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Jippie! Schnell, verpass nicht den Wahnsinnsansturm!]]></item>
   </category>
 </language>
