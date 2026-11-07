@@ -9,7 +9,7 @@
     <category name="zoo.window.infoLayers.itemreward">
       <item name="zoo.window.infoLayers.itemreward.recycling.title"><![CDATA[Recycling was successful!]]></item>
       <item name="zoo.window.infoLayers.itemreward.recycling.info"><![CDATA[Great, that was worth it! You recycled these materials from the trash. You'll find them in your inventory.]]></item>
-      <item name="zoo.window.infoLayers.itemreward.surpriseBox.title"><![CDATA[Surprise box]]></item>
+      <item name="zoo.window.infoLayers.itemreward.surpriseBox.title"><![CDATA[Mystery box]]></item>
       <item name="zoo.window.infoLayers.itemreward.surpriseBox.info"><![CDATA[Hooray! Your surprise box has been filled with the above materials, which you can use for further processing. You can find them in your inventory.]]></item>
     </category>
     <category name="zoo.window.infoLayers.breedingLabNursery">
@@ -132,7 +132,7 @@
     </category>
     <category name="zoo.window.infoLayers.easter2012">
       <item name="zoo.window.infoLayers.easter2012.limit"><![CDATA[You don't have enough Easter eggs.]]></item>
-      <item name="zoo.window.infoLayers.easter2012.success1"><![CDATA[Yay! You have earned the following reward:]]></item>
+      <item name="zoo.window.infoLayers.easter2012.success1"><![CDATA[Yupiee! You have earned the following reward:]]></item>
       <item name="zoo.window.infoLayers.easter2012.success2"><![CDATA[Good luck finding eggs!]]></item>
     </category>
     <category name="zoo.window.infoLayers.avatar">
@@ -151,7 +151,7 @@
       <item name="zoo.window.infoLayers.doublexp.specialitems"><![CDATA[Grab extra experience points! These animals will give you a double dose of BZ:]]></item>
     </category>
     <category name="zoo.window.infoLayers.specialShopItem">
-      <item name="zoo.window.infoLayers.specialShopItem.title"><![CDATA[Super offer: Only for a short time!]]></item>
+      <item name="zoo.window.infoLayers.specialShopItem.title"><![CDATA[Super offer: Only for a limited time!]]></item>
       <item name="zoo.window.infoLayers.specialShopItem.infotext"><![CDATA[Today is a special day for special animals: We're celebrating their birthdays! Available in the store for a short time only:]]></item>
     </category>
     <category name="zoo.window.infoLayers.frog2012">
@@ -458,7 +458,7 @@
         <item name="zoo.window.infoLayers.cambodia2017Comic.layer1.bubble"><![CDATA[Travel with us to Cambodia and venture into the depths of the tropical forests. Collect khon masks and discover the secrets of ancient Khmer temples. Riches and adventure await you!]]></item>
         <item name="zoo.window.infoLayers.cambodia2017Comic.layer2.content"><![CDATA[Take care of your animals as usual and collect khon masks that will pop out of your enclosures. Travel around the game board and collect prizes.]]></item>
         <item name="zoo.window.infoLayers.cambodia2017Comic.layer3.content"><![CDATA[Once you finish the game, the board will reset and you can start over! Khon masks will pop up until the end of the event. After that, you will have 24 hours to use them.]]></item>
-        <item name="zoo.window.infoLayers.cambodia2017Comic.info.over"><![CDATA[For this step you still need khon masks (number: %count% )!]]></item>
+        <item name="zoo.window.infoLayers.cambodia2017Comic.info.over"><![CDATA[For this step you still need khon masks (amount: %count% )!]]></item>
         <item name="zoo.window.infoLayers.cambodia2017Comic.info.default"><![CDATA[Submit your khon masks here and win great prizes!]]></item>
       </category>
       <category name="zoo.window.infoLayers.cambodia2017Board">

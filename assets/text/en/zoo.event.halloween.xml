@@ -2,41 +2,41 @@
 <language>
   <category name="zoo.event.halloween">
     <category name="zoo.event.halloween.layer">
-      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Hi! I'm Lucka and I love bats! But especially their cute babies. Bring me as many babies as possible, then I'll have some really nice Halloween items for you. Simply swap sweet ones to get the items on the left or sour ones to get the items on the right.]]></item>
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Hi! I'm Lucy and I love bats! But especially their cute babies. Bring me as many babies as possible, then I'll have some really nice Halloween items for you. Simply swap sweets to get the items on the left or sours to get the items on the right.]]></item>
       <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Inventory]]></item>
       <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Choose how many %species% babies you want to move to your inventory.]]></item>
-      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[We apologize!]]></item>
+      <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[We're sorry!]]></item>
       <item name="zoo.event.halloween.layer.noSuccess.text"><![CDATA[Unfortunately, you don't have enough baby bats in your inventory. Breed baby bats and move them to your inventory to purchase this item.]]></item>
     </category>
     <category name="zoo.event.halloween.tooltip">
-      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Small bats in inventory]]></item>
-      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Exchange small bats for sweets]]></item>
-      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Swap small bats for sour ones]]></item>
-      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Number: Sweet]]></item>
+      <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Baby bats in inventory]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Exchange baby bats for sweets]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Swap small bats for sours]]></item>
+      <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Number of: Sweets]]></item>
       <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Invest %x% sweets to unlock this item]]></item>
-      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Invest %x% sour to unlock this item]]></item>
-      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Number: Sour]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Invest %x% sours to unlock this item]]></item>
+      <item name="zoo.event.halloween.tooltip.tricks"><![CDATA[Number of: Sour]]></item>
       <item name="zoo.event.halloween.tooltip.help"><![CDATA[Help]]></item>
       <item name="zoo.event.halloween.tooltip.babyToInventory"><![CDATA[Move baby bats to inventory]]></item>
     </category>
     <category name="zoo.event.halloween.comic">
       <item name="zoo.event.halloween.comic.1"><![CDATA[Welcome to the Halloween event!<br> From <b>October 25th to November 1st</b>, a spooky party is starting in your zoo! Lots of gifts and surprises are waiting for you. In the next step, you will see how everything will work.]]></item>
-      <item name="zoo.event.halloween.comic.2"><![CDATA[Collect as many <b>sweet</b> and <b>sour</b> as you can! You need the sweet and sour to activate the ghost trailers! You'll find out how it all works on the next page.]]></item>
-      <item name="zoo.event.halloween.comic.3"><![CDATA[If you have enough sweet and sour, you can use them to activate <b>items</b>. But be careful: Sweets will make you look with your eye to the left, sours with your eye to the right. The eye will show you which side the items are activated on.]]></item>
-      <item name="zoo.event.halloween.comic.4"><![CDATA[You can get activated items by exchanging them for <b>baby bats</b>. Raise lots of cute bats. A new button in the enclosure menu will help you save the babies to your inventory quickly and easily.]]></item>
-      <item name="zoo.event.halloween.comic.5"><![CDATA[Have fun in the spooky shop!<br> For all the impatient: Sweet and sour can be exchanged for baby bats in the shop. More surprises await you in the shop.<br> <br>Have fun at Halloween this year!]]></item>
+      <item name="zoo.event.halloween.comic.2"><![CDATA[Collect as many <b>sweets</b> and <b>sours</b> as you can! You need the sweets and sours to activate the ghost trailers! You'll find out how it all works on the next page.]]></item>
+      <item name="zoo.event.halloween.comic.3"><![CDATA[If you have enough sweets and sours, you can use them to activate <b>items</b>. But be careful: Sweets will make you look with your eye to the left, sours with your eye to the right. The eye will show you which side the items are activated on.]]></item>
+      <item name="zoo.event.halloween.comic.4"><![CDATA[You can get activated items by exchanging them for <b>baby bats</b>. Breed lots of cute bats. A new button in the enclosure menu will help you save the babies to your inventory quickly and easily.]]></item>
+      <item name="zoo.event.halloween.comic.5"><![CDATA[Have fun in the spooky shop!<br> For all the impatient: Sweets and sours can be exchanged for baby bats in the shop. More surprises await you in the shop.<br> <br>Have fun at Halloween this year!]]></item>
     </category>
     <category name="zoo.event.halloween2012.comicSinglePlayer">
       <item name="zoo.event.halloween2012.comicSinglePlayer.1"><![CDATA[It's time for some spooky fun!<br>From <b>October 31st to November 6th</b>, there will be a Halloween party at your zoo!]]></item>
-      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Collect as many <b>pumpkins</b> as you can! They'll pop out of the enclosures as you take care of your animals.]]></item>
-      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Add them to the big pumpkin basket for our <b>Pumpkin Battle</b>. The more pumpkins you deliver, the more terrifying rewards you can win.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.2"><![CDATA[Collect as many <b>pumpkins</b> as you can! They'll pop out of the habitats as you take care of your animals.]]></item>
+      <item name="zoo.event.halloween2012.comicSinglePlayer.3"><![CDATA[Add them to the big pumpkin basket for our <b>Pumpkin Battle</b>. The more pumpkins you deliver, the spookier rewards you can win.]]></item>
     </category>
     <category name="zoo.event.halloween2012.comicMultiPlayer">
       <item name="zoo.event.halloween2012.comicMultiPlayer.1"><![CDATA[As you care for your animals, treats will pop out of the enclosures. You can all collect them together. The action bar will fill up and a floating eye will show you which spooky prizes are available for everyone. Click on the reward once it's activated.]]></item>
     </category>
     <category name="zoo.event.halloween2012.bubble">
       <item name="zoo.event.halloween2012.bubble.SinglePlayer"><![CDATA[Collect pumpkins for the big pumpkin battle. The more you collect, the more prizes you can win.]]></item>
-      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Everyone plays together! Goodies from all the zoos will fill the meter and automatically unlock prizes for everyone!]]></item>
+      <item name="zoo.event.halloween2012.bubble.MultiPlayer"><![CDATA[Everyone plays together! Treats from all the zoos will fill the meter and automatically unlock prizes for everyone!]]></item>
     </category>
   </category>
 </language>

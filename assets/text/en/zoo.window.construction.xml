@@ -2,8 +2,8 @@
 <language>
   <category name="zoo.window.construction">
     <item name="zoo.window.construction.title"><![CDATA[Construction]]></item>
-    <item name="zoo.window.construction.info"><![CDATA[About]]></item>
-    <item name="zoo.window.construction.buildinginfo"><![CDATA[Almost done! Just:]]></item>
+    <item name="zoo.window.construction.info"><![CDATA[Info]]></item>
+    <item name="zoo.window.construction.buildinginfo"><![CDATA[Almost done! Remaining:]]></item>
     <item name="zoo.window.construction.buildinginfo2"><![CDATA[Or get the item immediately (without building):]]></item>
     <item name="zoo.window.construction.button.buydirectly"><![CDATA[Buy now]]></item>
   </category>

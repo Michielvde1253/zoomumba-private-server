@@ -3,7 +3,7 @@
   <category name="zoo.quests">
     <category name="zoo.quests.tabs">
       <item name="zoo.quests.tabs.daily"><![CDATA[Daily tasks]]></item>
-      <item name="zoo.quests.tabs.achievements"><![CDATA[Honors]]></item>
+      <item name="zoo.quests.tabs.achievements"><![CDATA[Achievements]]></item>
       <item name="zoo.quests.tabs.collectables"><![CDATA[Collections]]></item>
     </category>
     <category name="zoo.quests.daily">
@@ -12,10 +12,10 @@
       <item name="zoo.quests.daily.refreshTitle"><![CDATA[Daily tasks]]></item>
       <item name="zoo.quests.daily.refreshQuestion"><![CDATA[For a small fee you can get new daily tasks. Would you like to?]]></item>
       <item name="zoo.quests.daily.taskTitle"><![CDATA[Task]]></item>
-      <item name="zoo.quests.daily.rewardTitle"><![CDATA[Remuneration]]></item>
-      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Start\task]]></item>
+      <item name="zoo.quests.daily.rewardTitle"><![CDATA[Reward]]></item>
+      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Start\ntask]]></item>
       <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Get\nreward]]></item>
-      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Abort\task]]></item>
+      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Abort\ntask]]></item>
       <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Task]]></item>
       <item name="zoo.quests.daily.window.activequest.info"><![CDATA[You are already doing another task. Please complete the active task before starting the next one.]]></item>
       <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Cancel]]></item>
@@ -25,7 +25,7 @@
     </category>
     <category name="zoo.quests.help">
       <item name="zoo.quests.help.daily.title"><![CDATA[Reading examples]]></item>
-      <item name="zoo.quests.help.daily.description"><![CDATA[Example 1: Give 50 bales of food to any animals.<br>Example 2: Raise 2 lion cubs.]]></item>
+      <item name="zoo.quests.help.daily.description"><![CDATA[Example 1: Split 50 bales of food between any animals.<br>Example 2: Raise 2 lion cubs.]]></item>
     </category>
     <category name="zoo.quests.achievements.individual">
       <item name="zoo.quests.achievements.individual.info.congrats"><![CDATA[Great! You have successfully completed the following task:]]></item>
@@ -33,7 +33,7 @@
       <item name="zoo.quests.achievements.individual.2.title"><![CDATA[Animal friend]]></item>
       <item name="zoo.quests.achievements.individual.3.title"><![CDATA[Breeding expert]]></item>
       <item name="zoo.quests.achievements.individual.4.title"><![CDATA[Merchant/tradeswoman]]></item>
-      <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Steak Master]]></item>
+      <item name="zoo.quests.achievements.individual.5.title"><![CDATA[Steak master]]></item>
       <item name="zoo.quests.achievements.individual.6.title"><![CDATA[There must be order.]]></item>
       <item name="zoo.quests.achievements.individual.7.title"><![CDATA[Whole grain fan]]></item>
       <item name="zoo.quests.achievements.individual.8.title"><![CDATA[Well done]]></item>

@@ -11,10 +11,11 @@
     </category>
     <category name="zoo.safari.regionWindow">
       <item name="zoo.safari.startWindow.infoTitle"><![CDATA[Choose a region]]></item>
-      <item name="zoo.safari.startWindow.infoText"><![CDATA[Which region do you want to start your safari in? Choose it here: In each region there are 3 areas that you can activate depending on your level.]]></item>
+      <item name="zoo.safari.startWindow.infoText"><![CDATA[Which region do you want to start your safari in? Choose it here: In each region there are 3 areas that you can activate depending on your level.
+]]></item>
     </category>
     <category name="zoo.safari.shopWindow">
-      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Hey adventurer! Go on a real safari. Use the jokers to make your way into the wilderness easier.<br><br>Important: Choose only one of each type of joker for your journey!]]></item>
+      <item name="zoo.safari.shopWindow.sonjaBubble"><![CDATA[Heyyy adventurer! Come on a real safari. Use the jokers to make your way into the wilderness easier.<br><br>Important: Choose only one of each type of joker for your journey!]]></item>
       <item name="zoo.safari.shopWindow.skipTimerConfirmation"><![CDATA[Do you want to invest %skipTimerCost% zoodollars and start your safari right away?]]></item>
       <item name="zoo.safari.shopWindow.infoText"><![CDATA[Are you ready for a safari? Here's how it works: In the next step, you'll see a game: it consists of 9 to 25 face-down cards. The cards hide rewards or animal tracks that you'll follow to get the main prize. But be careful: each card can also hide a trap!<br /><br />See that gas canister at the bottom right? It shows you how much gas is left in your jeep's tank. As soon as you reveal a card, you'll use up some gas.<br /><br />And now for the rules of the game: At the beginning, you can only choose cards from the bottom row. Click on a card and it will turn over. This way you can see if you've found something and if so, what it is. Then you can choose cards that are above or below the last card, as well as to the right or left of it. The game ends if you find an animal, but it also ends when you run out of gas.<br /> <br />Increase your chances of a great find with the joker(?) from the store. There are 2 types of jokers: Card and Navigation. Let the Card Joker help you uncover your cards - it will reveal extra cards for you. The Navigation Joker will guide you in the right direction thanks to its compass.<br /><br />You can take one joker of each type with you on safari. Whether you used the joker or not, you lose it at the end of the safari.]]></item>
     </category>
@@ -31,7 +32,7 @@
     <category name="zoo.safari.minigameInfo">
       <item name="zoo.safari.minigameInfo.title"><![CDATA[Instructions]]></item>
       <item name="zoo.safari.minigameInfo.1"><![CDATA[Welcome to your safari!<br /> Discover unusual animals and great treasures. But watch where your steps lead. Traps lurk everywhere. Depending on the type of terrain, you will use different amounts of gasoline.<br /><br />The safari is over as soon as your tank is empty or if you find an animal.]]></item>
-      <item name="zoo.safari.minigameInfo.2"><![CDATA[You can enter the wilderness by clicking on one of the lower boxes.]]></item>
+      <item name="zoo.safari.minigameInfo.2"><![CDATA[You can enter the wilderness by clicking on one of the lower buttons.]]></item>
       <item name="zoo.safari.minigameInfo.3"><![CDATA[Move in straight lines north, south, west, and east.]]></item>
       <item name="zoo.safari.minigameInfo.4"><![CDATA[You can activate your jokers at any time. They have valuable tips for you that will lead you to your goal faster.]]></item>
       <item name="zoo.safari.minigameInfo.terains"><![CDATA[The following terrain types are available:<br />]]></item>
@@ -57,7 +58,7 @@
       <item name="zoo.safari.jokers.titel_1"><![CDATA[Monkey, the advisor]]></item>
       <item name="zoo.safari.jokers.titel_2"><![CDATA[Sonya, the advisor]]></item>
       <item name="zoo.safari.jokers.titel_3"><![CDATA[Compass]]></item>
-      <item name="zoo.safari.jokers.titel_4"><![CDATA[Fast travelling]]></item>
+      <item name="zoo.safari.jokers.titel_4"><![CDATA[Fast travel]]></item>
       <item name="zoo.safari.jokers.text_1"><![CDATA[Everyone needs a little help from time to time. If you let the monkey help, you can reveal one randomly chosen card.<br /><br />Are you curious? Let's get to it!]]></item>
       <item name="zoo.safari.jokers.text_2"><![CDATA[Do you want to reveal a certain card and advance in the safari?<br /><br /><br /> Use the help of the advisor Sonia. With her help, you will reveal the card of your choice. This will help you reach your goal faster. Good luck!]]></item>
       <item name="zoo.safari.jokers.text_3"><![CDATA[Need help? Use the compass as a joker to mark a card for you. You will find the animal you are looking for or a trap on it. Are you eager to find out what is hidden on it? So hurry up and find out!]]></item>
