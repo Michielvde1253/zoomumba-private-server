@@ -3,12 +3,12 @@
   <category name="zoo.collectables">
     <category name="zoo.collectables.forgottenZoo">
       <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Herramientas]]></item>
-      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Reúne herramientas y cámbialas por expansiones para tu zoológico oculto.<br><br>Consigues herramientas en el safari y en la rueda de la fortuna. Luego, ve a la tienda y cámbialas.<br><br>Hasta ahora tienes estas herramientas:]]></item>
-      <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[¿Quieres ampliar tu zoológico oculto para obtener %tools% herramientas y %zd% zoodólares?]]></item>
+      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Reúne herramientas y cámbialas por expansiones para tu zoológico oculto.<br> <br>Consigues herramientas en el safari o en la rueda de la fortuna, Después ve a la tienda y intercámbialas.<br> <br>Ahora tienes estas herramientas:]]></item>
+      <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[¿Quieres ampliar tu zoológico oculto por %tools% herramientas y %zd% zoodólares?]]></item>
     </category>
     <category name="zoo.collectables.easterEvent">
-      <item name="zoo.collectables.easterEvent.title"><![CDATA[huevos de Pascua]]></item>
-      <item name="zoo.collectables.easterEvent.text"><![CDATA[Del 21 al 27 de abril, ¡disfrutarás de un montón de huevos de Pascua! Recógelos y cámbialos por decoraciones, conejitos y cajas de Pascua. Estado actual de tus huevos de Pascua:]]></item>
+      <item name="zoo.collectables.easterEvent.title"><![CDATA[Huevos de Pascua]]></item>
+      <item name="zoo.collectables.easterEvent.text"><![CDATA[Del 21 al 27 de abril, ¡habrá una inundación de huevos de Pascua! Recógelos y cámbialos por decoraciones, conejos y recintos de Pascua. Tu recuento actual de huevos de Pascua:]]></item>
     </category>
     <category name="zoo.collectables.meadow">
       <item name="zoo.collectables.meadow.main.title"><![CDATA[Prado]]></item>
