@@ -2,7 +2,7 @@
 <language>
   <category name="zoo.event.halloween">
     <category name="zoo.event.halloween.layer">
-      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Cześć! Jestem Lucka i uwielbiam nietoperze! A szczególnie ich urocze maluchy. Przynieś mi jak najwięcej maluchów, a będę miała dla ciebie kilka naprawdę fajnych halloweenowych gadżetów. Po prostu zamień słodkie, żeby dostać te po lewej, albo kwaśne, żeby dostać te po prawej.]]></item>
+      <item name="zoo.event.halloween.layer.prizes"><![CDATA[Cześć! Jestem Łucja i uwielbiam nietoperze! A szczególnie ich urocze maluchy. Przynieś mi jak najwięcej maluchów, a będę miała dla ciebie kilka naprawdę fajnych halloweenowych gadżetów. Po prostu zamień słodycze: słodkie, żeby dostać te po lewej, albo kwaśne, żeby dostać te po prawej.]]></item>
       <item name="zoo.event.halloween.layer.confirmBabyMove.title"><![CDATA[Spis]]></item>
       <item name="zoo.event.halloween.layer.confirmBabyMove.text"><![CDATA[Wybierz, ile %species% młodych osobników chcesz przenieść do swojego ekwipunku.]]></item>
       <item name="zoo.event.halloween.layer.noSuccess.title"><![CDATA[Przepraszamy!]]></item>
@@ -10,8 +10,8 @@
     </category>
     <category name="zoo.event.halloween.tooltip">
       <item name="zoo.event.halloween.tooltip.bats"><![CDATA[Małe nietoperze w ekwipunku]]></item>
-      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Wymień małe nietoperze na słodycze]]></item>
-      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Zamień małe nietoperze na kwaśne]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTreats"><![CDATA[Wymień małe nietoperze na słodycze slodkie]]></item>
+      <item name="zoo.event.halloween.tooltip.batsTricks"><![CDATA[Zamień małe nietoperze na słodycze kwaśne]]></item>
       <item name="zoo.event.halloween.tooltip.treats"><![CDATA[Numer: Słodki]]></item>
       <item name="zoo.event.halloween.tooltip.treats.missing"><![CDATA[Zainwestuj %x% słodyczy, aby odblokować ten przedmiot]]></item>
       <item name="zoo.event.halloween.tooltip.tricks.missing"><![CDATA[Zainwestuj %x%, aby odblokować ten przedmiot]]></item>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.inventory">
-    <item name="zoo.inventory.sell.title"><![CDATA[Sprzedać]]></item>
+    <item name="zoo.inventory.sell.title"><![CDATA[Sprzedaj]]></item>
     <item name="zoo.inventory.sell.info"><![CDATA[Ile chcesz sprzedać?]]></item>
-    <item name="zoo.inventory.store.error.title"><![CDATA[WAŻNY]]></item>
+    <item name="zoo.inventory.store.error.title"><![CDATA[WAŻNE]]></item>
     <item name="zoo.inventory.store.error.info"><![CDATA[Jeśli chcesz przenieść zwierzęta wraz z wybiegami do swojego inwentarza, muszą one być najpierw zdrowe i zadowolone.]]></item>
     <category name="zoo.inventory.tabs">
       <item name="zoo.inventory.tabs.gifts"><![CDATA[Prezenty]]></item>
-      <item name="zoo.inventory.tabs.inventory"><![CDATA[Spis]]></item>
+      <item name="zoo.inventory.tabs.inventory"><![CDATA[Ekwipunek]]></item>
       <item name="zoo.inventory.tabs.pawprints"><![CDATA[Łapy]]></item>
       <item name="zoo.inventory.tabs.pearls"><![CDATA[Perły]]></item>
       <item name="zoo.inventory.tabs.specials"><![CDATA[Akcesoria]]></item>
@@ -25,22 +25,22 @@
     </category>
     <category name="zoo.inventory.inventory">
       <item name="zoo.inventory.inventory.empty"><![CDATA[WSZĘDZIE JEST PUSTO?<br>Twój ekwipunek jest obecnie pusty.<br>Dlaczego nie zajrzysz do sklepu lub nie wybierzesz się na safari?]]></item>
-      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Używać]]></item>
+      <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Użyj]]></item>
     </category>
     <category name="zoo.inventory.gifts">
       <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Nazwa gracza]]></item>
       <item name="zoo.inventory.gifts.headerUserID"><![CDATA[ID gracza]]></item>
       <item name="zoo.inventory.gifts.received"><![CDATA[Jak pięknie! Twój przyjaciel przysłał Ci prezent. Szybko go rozpakuj!]]></item>
-      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Zwiększać]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Powiększ]]></item>
       <item name="zoo.inventory.gifts.none"><![CDATA[Szkoda! Na razie nie masz żadnych nowych prezentów... Ale nie smuć się, coś wkrótce się pojawi.]]></item>
     </category>
     <category name="zoo.inventory.move">
-      <item name="zoo.inventory.move.title"><![CDATA[Płacić]]></item>
+      <item name="zoo.inventory.move.title"><![CDATA[Zapłać]]></item>
       <item name="zoo.inventory.move.info"><![CDATA[Za ile zwierząt chcesz zapłacić?]]></item>
     </category>
     <category name="zoo.inventory.allin">
       <item name="zoo.inventory.allin.title"><![CDATA[Wyślij wszystko do ekwipunku]]></item>
-      <item name="zoo.inventory.allin.confirmation"><![CDATA[Czy na pewno chcesz wysłać wszystko do inwentarza? Ostrzeżenie: Twoje zwierzęta muszą być czyste, nakarmione i szczęśliwe, zanim to zrobisz.]]></item>
+      <item name="zoo.inventory.allin.confirmation"><![CDATA[Czy na pewno chcesz wysłać wszystko do ekwipunku? Ostrzeżenie: Twoje zwierzęta muszą być czyste, nakarmione i szczęśliwe, zanim to zrobisz.]]></item>
     </category>
   </category>
 </language>
