@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.shopCageInfo">
-    <item name="zoo.window.shopCageInfo.titel_1"><![CDATA[Prado]]></item>
+    <item name="zoo.window.shopCageInfo.titel_1"><![CDATA[Pradera]]></item>
     <item name="zoo.window.shopCageInfo.text_1"><![CDATA[Hermosos y verdes mechones de hierba en una agradable pradera de verano. Todos los animales que disfrutan de la hierba y descansan al sol se sienten a gusto aquí.]]></item>
-    <item name="zoo.window.shopCageInfo.titel_2"><![CDATA[Agua]]></item>
+    <item name="zoo.window.shopCageInfo.titel_2"><![CDATA[Laguna]]></item>
     <item name="zoo.window.shopCageInfo.text_2"><![CDATA[¡Chapoteo! El recinto con la piscina está lleno de vida. No solo los flamencos, sino también otros animales acuáticos y diversos tipos de peces se divierten allí. ¡El recinto con la superficie del agua es el lugar de fiesta entre todos los recintos!]]></item>
-    <item name="zoo.window.shopCageInfo.titel_3"><![CDATA[Hielo]]></item>
+    <item name="zoo.window.shopCageInfo.titel_3"><![CDATA[Glaciar]]></item>
     <item name="zoo.window.shopCageInfo.text_3"><![CDATA[Pingüinos, osos polares y compañía se sienten de maravilla en el paisaje glacial artificial del recinto invernal. ¡Brrr! Asegúrate de llevar pescado fresco y una manta abrigada.]]></item>
     <item name="zoo.window.shopCageInfo.titel_4"><![CDATA[Sabana]]></item>
     <item name="zoo.window.shopCageInfo.text_4"><![CDATA[Las altas temperaturas que prevalecen en la sabana brindan condiciones ideales para los animales del continente africano. ¡Disfrutan del calor!]]></item>
     <item name="zoo.window.shopCageInfo.titel_5"><![CDATA[Desierto]]></item>
     <item name="zoo.window.shopCageInfo.text_5"><![CDATA[¿Dónde está el oasis más cercano? El desierto es muy caluroso durante el día y refresca rápidamente por la noche. Los animales del desierto están contentos, pero ¿y los visitantes?]]></item>
-    <item name="zoo.window.shopCageInfo.titel_6"><![CDATA[Rocas]]></item>
+    <item name="zoo.window.shopCageInfo.titel_6"><![CDATA[Peñasco]]></item>
     <item name="zoo.window.shopCageInfo.text_6"><![CDATA[Los animales pequeños pueden esconderse fácilmente entre las rocas. A los animales más grandes les cuesta más. Al menos pueden encontrar presas sabrosas entre las rocas.]]></item>
     <item name="zoo.window.shopCageInfo.titel_7"><![CDATA[Bosque de bambú]]></item>
     <item name="zoo.window.shopCageInfo.text_7"><![CDATA[El hogar de tus animales ahora es un elegante bosque de bambú. Este recinto te proporcionará aún más puntos de experiencia de lo habitual.]]></item>
-    <item name="zoo.window.shopCageInfo.titel_8"><![CDATA[Pantano]]></item>
+    <item name="zoo.window.shopCageInfo.titel_8"><![CDATA[Ciénaga]]></item>
     <item name="zoo.window.shopCageInfo.text_8"><![CDATA[Un pantano como este está repleto de animales. A algunos les gusta revolcarse en el lodo, otros cazan insectos y gusanos de la sustancia viscosa. Este recinto te hará ganar aún más puntos de experiencia de lo habitual.]]></item>
     <item name="zoo.window.shopCageInfo.titel_9"><![CDATA[Tundra]]></item>
     <item name="zoo.window.shopCageInfo.text_9"><![CDATA[La vida en la tundra es dura, pero los animales se han adaptado de maravilla. Hace frío aquí, ¡pero los musgos y líquenes de la tundra tienen un sabor delicioso!]]></item>
-    <item name="zoo.window.shopCageInfo.titel_10"><![CDATA[Nieve]]></item>
+    <item name="zoo.window.shopCageInfo.titel_10"><![CDATA[Coto nevado]]></item>
     <item name="zoo.window.shopCageInfo.text_10"><![CDATA[¡Invierno, invierno, nieva! Sobre todo los animales con pelaje denso se sienten de maravilla en un recinto nevado.]]></item>
-    <item name="zoo.window.shopCageInfo.titel_11"><![CDATA[Yermo]]></item>
+    <item name="zoo.window.shopCageInfo.titel_11"><![CDATA[Erial]]></item>
     <item name="zoo.window.shopCageInfo.text_11"><![CDATA[No te lo vas a creer: Muchos animales también se sienten bien en el desierto, y no siempre tiene que ser una naturaleza hermosa. Los animales que sobreviven en el desierto se han adaptado perfectamente.]]></item>
     <item name="zoo.window.shopCageInfo.titel_12"><![CDATA[Víspera de Todos los Santos]]></item>
     <item name="zoo.window.shopCageInfo.text_12"><![CDATA[Viscoso, viscoso y aterrador: En las noches de terror, el páramo se transforma en un paisaje inhóspito donde vagan personajes aterradores. Nunca antes había habido tantos puntos de experiencia: Este recinto está al máximo nivel desde el principio.]]></item>
@@ -170,7 +170,7 @@
     <item name="zoo.window.shopCageInfo.titel_85"><![CDATA[Cueva de la araña]]></item>
     <item name="zoo.window.shopCageInfo.text_85"><![CDATA[¿Te atreves a entrar en esta cueva oscura? No te preocupes. La araña que vive allí es muy amigable y solo quiere darte un abrazo.]]></item>
     <item name="zoo.window.shopCageInfo.titel_86"><![CDATA[Polo norte]]></item>
-    <item name="zoo.window.shopCageInfo.text_86"><![CDATA[¡Visita la casa de Papá Noel en el Polo Norte! ¡Tus animales se divertirán mucho construyendo muñecos de nieve y creando ángeles de nieve!]]></item>
+    <item name="zoo.window.shopCageInfo.text_86"><![CDATA[¡Visita la casa de Papá Noel en el Polo Norte! ¡Tus animales se divertirán mucho construyendo muñecos de nieve!]]></item>
     <item name="zoo.window.shopCageInfo.titel_87"><![CDATA[Embalse romántico]]></item>
     <item name="zoo.window.shopCageInfo.text_87"><![CDATA[¡Hasta los peces anhelan amor! Coloca este romántico acuario en el Mundo Subacuático y haz felices a tus criaturas acuáticas.]]></item>
     <item name="zoo.window.shopCageInfo.titel_88"><![CDATA[Ruinas del templo]]></item>

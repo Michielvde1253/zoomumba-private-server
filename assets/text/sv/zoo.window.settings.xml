@@ -17,12 +17,12 @@
     <item name="zoo.window.settings.title.sound"><![CDATA[Ljud]]></item>
     <item name="zoo.window.settings.title.sound.background"><![CDATA[Musik]]></item>
     <item name="zoo.window.settings.title.sound.effects"><![CDATA[Ljudeffekter]]></item>
-    <item name="zoo.window.settings.button.account"><![CDATA[att justera]]></item>
+    <item name="zoo.window.settings.button.account"><![CDATA[Justera]]></item>
     <item name="zoo.window.settings.tab.account"><![CDATA[konto]]></item>
     <item name="zoo.window.settings.tab.config"><![CDATA[Konfiguration]]></item>
     <item name="zoo.window.settings.tab.buildings"><![CDATA[Huvudbyggnaden]]></item>
     <item name="zoo.window.settings.buildings.info"><![CDATA[Välj djurparkens entrébyggnad efter din smak. Du har huvudbyggnaderna tillgängliga beroende på din nivå.<br>På så sätt kommer ditt djurpark att bli mer och mer anpassat till dig!]]></item>
-    <item name="zoo.window.settings.anim.title"><![CDATA[Animation]]></item>
+    <item name="zoo.window.settings.anim.title"><![CDATA[Animationer]]></item>
     <item name="zoo.window.settings.anim.info"><![CDATA[Antal djuranimationer]]></item>
     <item name="zoo.window.settings.saveAssets"><![CDATA[Buffertminne]]></item>
   </category>

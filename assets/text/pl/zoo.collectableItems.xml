@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.collectableItems">
-    <item name="zoo.collectableItems.name.3"><![CDATA[Dzika łąka]]></item>
-    <item name="zoo.collectableItems.setInfo.3"><![CDATA[Jeśli przez długi czas nikt nie będzie dbał o „łąkę przejściową”, wkrótce znów wyrośnie na niej dziki las.]]></item>
+    <item name="zoo.collectableItems.name.3"><![CDATA[Dzikie pole]]></item>
+    <item name="zoo.collectableItems.setInfo.3"><![CDATA[Jeśli nikt sie nie zaopiekuje "tymczasową łąką" przez dłuższy czas, wyrośnie na niej ponownie dziki las.]]></item>
     <item name="zoo.collectableItems.name.4"><![CDATA[Kwiaty]]></item>
-    <item name="zoo.collectableItems.setInfo.4"><![CDATA[Wiosną łąki zamieniają się w morze dzikich kwiatów. A Twoje zwierzęta je uwielbiają!]]></item>
-    <item name="zoo.collectableItems.name.5"><![CDATA[Kikut]]></item>
-    <item name="zoo.collectableItems.setInfo.5"><![CDATA[Łąka przejściowa powstaje poprzez wycinkę drzew. Po usunięciu lasu najpierw wyrosną tam małe pędy trawy.]]></item>
-    <item name="zoo.collectableItems.name.6"><![CDATA[Grzyby]]></item>
-    <item name="zoo.collectableItems.setInfo.6"><![CDATA[Grzyby są smacznymi grzybami i rosną na przykład w Ameryce Północnej.]]></item>
-    <item name="zoo.collectableItems.name.7"><![CDATA[Psotny]]></item>
-    <item name="zoo.collectableItems.setInfo.7"><![CDATA[Łąki są również często domem dla elfów, które nocą wychodzą ze swoich kryjówek. Te płochliwe, ale przyjazne stworzenia często dzielą swoje domostwa z zającami.]]></item>
+    <item name="zoo.collectableItems.setInfo.4"><![CDATA[Podczas wiosny, niektóre łąki pokryją się dzikimi kwiatami. Pyszny przysmak dla zwierząt, które tam żyją.]]></item>
+    <item name="zoo.collectableItems.name.5"><![CDATA[Pień]]></item>
+    <item name="zoo.collectableItems.setInfo.5"><![CDATA[Przejściowe łąki to tymczasowe łąki, które powstały poprzez ścięcie drzew, umożliwiając wzrost trawy.]]></item>
+    <item name="zoo.collectableItems.name.6"><![CDATA[Grzyby łączne]]></item>
+    <item name="zoo.collectableItems.setInfo.6"><![CDATA[Grzyby łączne to jadalny rodzaj grzybów, występujących w Półmocnej Ameryce.]]></item>
+    <item name="zoo.collectableItems.name.7"><![CDATA[Gnomy]]></item>
+    <item name="zoo.collectableItems.setInfo.7"><![CDATA[Łąki są również zamieszałe przez tycie gnomy, które pojawiają się wyłącznie w nocy. Te nieśmiałe i łagodne stworzonka często współdzielą domki z królikami.]]></item>
     <item name="zoo.collectableItems.name.8"><![CDATA[Sople]]></item>
-    <item name="zoo.collectableItems.setInfo.8"><![CDATA[Lśniące sople tworzą się w mroźnych temperaturach. Oczywiście ciepło słońca je ponownie topi.]]></item>
-    <item name="zoo.collectableItems.name.9"><![CDATA[Lody na patyku]]></item>
-    <item name="zoo.collectableItems.setInfo.9"><![CDATA[Mało kto wie, że pingwiny lubią też lody na patyku i czasami kradną je turystom.]]></item>
+    <item name="zoo.collectableItems.setInfo.8"><![CDATA[Lśniące sople powstają w ujemnych temperaturach. Oczywiście, ciepło słońca roztapia je.]]></item>
+    <item name="zoo.collectableItems.name.9"><![CDATA[Lizak]]></item>
+    <item name="zoo.collectableItems.setInfo.9"><![CDATA[Niewiele osób jest świadomych, że pingwiny również jedzą lizaki i czasami podkradają je turystom.]]></item>
     <item name="zoo.collectableItems.name.10"><![CDATA[Kostki lodu]]></item>
-    <item name="zoo.collectableItems.setInfo.10"><![CDATA[Kostki lodu to idealny sposób na schłodzenie gorącego napoju. Zapewniają orzeźwienie w upalny letni dzień.]]></item>
-    <item name="zoo.collectableItems.name.11"><![CDATA[Łyżwa]]></item>
-    <item name="zoo.collectableItems.setInfo.11"><![CDATA[Łyżwiarstwo to niesamowity sport. Historycy uważają, że został wynaleziony około 4000 lat temu. Prawdopodobnie Finowie przyczynili się do jego wynalezienia.]]></item>
-    <item name="zoo.collectableItems.name.12"><![CDATA[Igloo]]></item>
-    <item name="zoo.collectableItems.setInfo.12"><![CDATA[Dla Eskimosów, pierwotnych mieszkańców Ameryki Północnej, igloo oznacza dom.]]></item>
-    <item name="zoo.collectableItems.name.13"><![CDATA[Skrzydła bambusowe]]></item>
+    <item name="zoo.collectableItems.setInfo.10"><![CDATA[Kostki lodu to idealny sposób na schłodzenie gorącego napoju. Dostarczają orzeźwienie w upalne dni lata.]]></item>
+    <item name="zoo.collectableItems.name.11"><![CDATA[Łyżwy]]></item>
+    <item name="zoo.collectableItems.setInfo.11"><![CDATA[Łyżwiarstwo jest niesamowitym sportem. Historycy twierdzą, że wymyślono je około 4,000 lat temu. Prawdopodobnie Finowie przyłożyli się do tego odkrycia.]]></item>
+    <item name="zoo.collectableItems.name.12"><![CDATA[Iglo]]></item>
+    <item name="zoo.collectableItems.setInfo.12"><![CDATA[Iglo oznacza dom dla Eskimosów, którzy oryginalnie zamieszkiwali Amerykę Północną.]]></item>
+    <item name="zoo.collectableItems.name.13"><![CDATA[Skrzydła z bambusa]]></item>
     <item name="zoo.collectableItems.setInfo.13"><![CDATA[Ludzie od dawna wytwarzają skrzydła z bambusa. Ten lekki, a zarazem wytrzymały materiał pozwala im osiągać niesamowite wysokości.]]></item>
     <item name="zoo.collectableItems.name.14"><![CDATA[Gałąź bambusa]]></item>
     <item name="zoo.collectableItems.setInfo.14"><![CDATA[Bambus to zbiorcza nazwa kilku rodzajów traw drzewiastych.]]></item>
@@ -1950,15 +1950,22 @@
     <item name="zoo.collectableItems.setInfo.1019"><![CDATA[Nazwa żaby strzałkowate pochodzi od imion tubylców, którzy wykorzystywali trujące wydzieliny niektórych gatunków do odpędzania strzał.]]></item>
     <category name="zoo.collectableItems.forgottenZoo">
       <item name="zoo.collectableItems.forgottenZoo.title"><![CDATA[Narzędzia]]></item>
-      <item name="zoo.collectableItems.forgottenZoo.text"><![CDATA[Zbieraj narzędzia i wymieniaj je na rozszerzenia do swojego ukrytego zoo.<br><br>Narzędzia zdobywasz na safari i w kole fortuny. Następnie zanieś je do sklepu i wymień.<br><br>Obecnie posiadasz następującą liczbę narzędzi:]]></item>
-      <item name="zoo.collectableItems.forgottenZooTools.title"><![CDATA[Narzędzia]]></item>
-      <item name="zoo.collectableItems.forgottenZooTools.text.1"><![CDATA[Trzecie rozszerzenie zoo da ci dostęp do ukrytego zoo. Nie wygląda na bardzo duże rozszerzenie, ale możesz je rozbudować za pomocą narzędzi. A oto jak to działa:]]></item>
-      <item name="zoo.collectableItems.forgottenZooTools.text.2"><![CDATA[<ol><li>Wejdź do ukrytego zoo, przejdź do sklepu i kliknij „Dodatki”.</li><li>Otrzymasz 2 karty, aby rozbudować zoo – jedną w zamian za narzędzia, drugą za zoodolary.</li><li>Zbierz wystarczającą liczbę narzędzi na kole fortuny lub na safari i wymień je na mapę.</li></ol>]]></item>
-      <item name="zoo.collectableItems.forgottenZooTools.text.3"><![CDATA[Rozszerz swoje zoo, korzystając z obu map - wystarczy narzędzia i zoodolary.<br> Masz dokładnie tyle narzędzi, ile potrzebujesz:]]></item>
+      <item name="zoo.collectableItems.forgottenZoo.text"><![CDATA[Zbieraj narzędzia i wymieniaj je na ulepszenia dla twojego tajemniczego Zoo.
+<br><br>Narzędzia otrzymasz na safari i jako nagrody w kole fortuny. Zdobyte
+narzędzia wymienisz w sklepie. <br><br> Ilość narzędzi które posiadasz:]]></item>
+      <item name="zoo.collectableItems.forgottenZooTools.title"><![CDATA[Narzędzia ]]></item>
+      <item name="zoo.collectableItems.forgottenZooTools.text.1"><![CDATA[Trzecie rozszerzenie zoo da ci dostęp do tajemniczego zoo. Nie wygląda na bardzo duże rozszerzenie, ale możesz je rozbudować za pomocą narzędzi. A oto jak to działa:]]></item>
+      <item name="zoo.collectableItems.forgottenZooTools.text.2"><![CDATA[<ol><li> Wejdź do tajemniczego zoo, przejdź do sklepu i kliknij na "Dodatki".
+</li><li> Zdobędziesz 2 karty by ulepszyć zoo - jedną do wymiany na narzędzia,
+a drugą do wymiany na misiogrosze. </li><li> Zdobądź wystarczająco narzędzi na
+kole fortuny lub na safari, by wymienić ję na mapę </li><ol>
+]]></item>
+      <item name="zoo.collectableItems.forgottenZooTools.text.3"><![CDATA[Rozszerz swoje zoo używając obu map - wystarczą narzędzia i misiogrosze. <br>
+Posiadasz dokładnie tyle narzędzi ile trzeba.]]></item>
     </category>
     <category name="zoo.collectableItems.easterEvent">
-      <item name="zoo.collectableItems.easterEvent.title"><![CDATA[pisanki]]></item>
-      <item name="zoo.collectableItems.easterEvent.text"><![CDATA[Od 21 do 27 kwietnia czeka Cię wysyp pisanek! Zbierz je i wymień na wielkanocne dekoracje do zagrody, wielkanocne zajączki i zagrody. Twój aktualny status pisanek:]]></item>
+      <item name="zoo.collectableItems.easterEvent.title"><![CDATA[Wielkanocne Jajko]]></item>
+      <item name="zoo.collectableItems.easterEvent.text"><![CDATA[Między 21-27 kwietnia doświadczysz szturmu wielkanocnych jajek! Zbierz je i wymień na Wielkanocne dekoracje wybiegów, Wielkanocne króliczki oraz wybiegi. Aktualny stan twoich Wielkanocnych jajek:]]></item>
     </category>
     <category name="zoo.collectableItems.book">
       <item name="zoo.collectableItems.book.tab.animals"><![CDATA[Zwierzęta]]></item>
@@ -1968,11 +1975,11 @@
       <item name="zoo.collectableItems.book.more"><![CDATA[Więcej...]]></item>
     </category>
     <category name="zoo.collectableItems.rewards">
-      <item name="zoo.collectableItems.book.rewards.unlocked.title"><![CDATA[Wygrać!]]></item>
+      <item name="zoo.collectableItems.book.rewards.unlocked.title"><![CDATA[Wygrana!]]></item>
       <item name="zoo.collectableItems.book.rewards.unlocked.text"><![CDATA[Wybierz swoją cenę:]]></item>
       <item name="zoo.collectableItems.book.rewards.locked.title"><![CDATA[Kontynuuj kolekcjonowanie...]]></item>
       <item name="zoo.collectableItems.book.rewards.locked.text"><![CDATA[... otrzymasz:]]></item>
-      <item name="zoo.collectableItems.book.rewards.button"><![CDATA[Wybierać]]></item>
+      <item name="zoo.collectableItems.book.rewards.button"><![CDATA[Wybierz ]]></item>
     </category>
   </category>
 </language>

@@ -3,17 +3,17 @@
   <category name="zoo.shop">
     <category name="zoo.shop.category">
       <item name="zoo.shop.category.animals"><![CDATA[Animales]]></item>
-      <item name="zoo.shop.category.cages"><![CDATA[Hábitats]]></item>
+      <item name="zoo.shop.category.cages"><![CDATA[Recintos]]></item>
       <item name="zoo.shop.category.stores"><![CDATA[Edificios]]></item>
-      <item name="zoo.shop.category.deco"><![CDATA[Decoraciones]]></item>
-      <item name="zoo.shop.category.resources"><![CDATA[Alimentar]]></item>
+      <item name="zoo.shop.category.deco"><![CDATA[Decoración]]></item>
+      <item name="zoo.shop.category.resources"><![CDATA[Comida]]></item>
       <item name="zoo.shop.category.assistants"><![CDATA[Asistentes]]></item>
-      <item name="zoo.shop.category.specials"><![CDATA[Accesorios]]></item>
-      <item name="zoo.shop.category.roads"><![CDATA[Carreteras]]></item>
-      <item name="zoo.shop.category.material"><![CDATA[Material]]></item>
+      <item name="zoo.shop.category.specials"><![CDATA[Especiales]]></item>
+      <item name="zoo.shop.category.roads"><![CDATA[Caminos]]></item>
+      <item name="zoo.shop.category.material"><![CDATA[Materiales]]></item>
     </category>
     <category name="zoo.shop.tabbar">
-      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Así es como se llega al taller.]]></item>
+      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Por aquí se va al taller]]></item>
     </category>
   </category>
 </language>

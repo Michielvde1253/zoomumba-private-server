@@ -4,7 +4,7 @@
     <category name="zoo.error.user">
       <item name="zoo.error.user.unknown"><![CDATA[This player doesn't exist.]]></item>
       <item name="zoo.error.user.notEnoughCr"><![CDATA[You don't have enough zoodolars for that.]]></item>
-      <item name="zoo.error.user.notEnoughCv"><![CDATA[You don't have enough zoogros for that.]]></item>
+      <item name="zoo.error.user.notEnoughCv"><![CDATA[You don't have enough petpennies for that.]]></item>
       <item name="zoo.error.user.notRequiredLevel"><![CDATA[You haven't reached the necessary level.]]></item>
     </category>
     <category name="zoo.error.login">

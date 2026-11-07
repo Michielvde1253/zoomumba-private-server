@@ -3,14 +3,14 @@
   <category name="zoo.shop">
     <category name="zoo.shop.category">
       <item name="zoo.shop.category.animals"><![CDATA[Zwierzęta]]></item>
-      <item name="zoo.shop.category.cages"><![CDATA[Siedliska]]></item>
-      <item name="zoo.shop.category.stores"><![CDATA[Zabudowania]]></item>
+      <item name="zoo.shop.category.cages"><![CDATA[Zagrody]]></item>
+      <item name="zoo.shop.category.stores"><![CDATA[Budynki]]></item>
       <item name="zoo.shop.category.deco"><![CDATA[Dekoracje]]></item>
-      <item name="zoo.shop.category.resources"><![CDATA[Karmić]]></item>
+      <item name="zoo.shop.category.resources"><![CDATA[Jedzenie]]></item>
       <item name="zoo.shop.category.assistants"><![CDATA[Asystenci]]></item>
       <item name="zoo.shop.category.specials"><![CDATA[Akcesoria]]></item>
-      <item name="zoo.shop.category.roads"><![CDATA[Drogi]]></item>
-      <item name="zoo.shop.category.material"><![CDATA[Tworzywo]]></item>
+      <item name="zoo.shop.category.roads"><![CDATA[Ścieżki]]></item>
+      <item name="zoo.shop.category.material"><![CDATA[Materiały]]></item>
     </category>
     <category name="zoo.shop.tabbar">
       <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[Oto jak dotrzesz do warsztatu.]]></item>

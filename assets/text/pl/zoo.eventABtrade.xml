@@ -2,11 +2,11 @@
 <language>
   <category name="zoo.eventABtrade">
     <category name="zoo.eventABtrade.button">
-      <item name="zoo.eventABtrade.button.trade"><![CDATA[Giełda]]></item>
+      <item name="zoo.eventABtrade.button.trade"><![CDATA[Wmiana]]></item>
     </category>
     <category name="zoo.eventABtrade.layer">
-      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Cześć, nazywam się Lukáš i jestem dyrektorem zoo w sąsiednim mieście. Słyszałem, że Państwa opiekunka zwierząt, Soňa Starostlivá, hoduje nowe gatunki zwierząt, którymi bardzo się interesuję. Za każdego samca gatunku %priceSpecies% dam Państwu samca gatunku %rewardSpecies% lub samicę za samicę. Podczas mojej obecności czas inkubacji Państwa gatunku %priceGenus%s zostanie skrócony z 20 do 2 godzin! To jak, jesteście chętni?]]></item>
-      <item name="zoo.eventABtrade.layer.end"><![CDATA[Wracam właśnie do mojego zoo. Dziękuję bardzo i mam nadzieję, że wkrótce się zobaczymy!]]></item>
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Cześć! Mam na imię Łukasz i jestem dyrektorem zoo w sąsiednim mieście. Słyszałem, że Twoja pielęgniarka, Sonia Staranna, hoduje nowe gatunki zwierząt, którymi jestem zainteresowany. Za każdego samca jednego gatunku, dostaniesz ode mnie samca innego gatunku (once again problem with the %% - i need more context to translate it accurately) lub samicę za samicę. Podczas mojej obecności czas inkubacji Twojego gatunku będzie zmniejszony z 20 do 2 godzin! To jak, wchodzisz w to?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Teraz wracam już do swojego zoo. Dziękuję bardzo i mam nadzieję, że wkrótce się spotkamy!]]></item>
     </category>
   </category>
 </language>

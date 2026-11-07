@@ -5,8 +5,8 @@
       <item name="zoo.eventABtrade.button.trade"><![CDATA[Austausch]]></item>
     </category>
     <category name="zoo.eventABtrade.layer">
-      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Hallo, ich bin Lukáš, der Direktor des Zoos im Nachbarort. Ich habe gehört, dass Ihre Tierpflegerin, Soňa Starostlivá, neue Tierarten züchtet, an denen ich sehr interessiert bin. Für jedes Männchen der Art %priceSpecies% erhalten Sie von mir ein Männchen der Art %rewardSpecies% oder ein Weibchen für ein Weibchen. Während meiner Anwesenheit verkürzt sich die Brutzeit Ihrer Tiere der Art %priceGenus%s von 20 auf 2 Stunden! Sind Sie dabei?]]></item>
-      <item name="zoo.eventABtrade.layer.end"><![CDATA[Ich kehre nun in meinen Zoo zurück. Vielen Dank und ich hoffe, wir sehen uns bald wieder!]]></item>
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Hallo, ich bin Lukas, der Zoodirektor aus der Nachbarstadt. Ich habe gehört, dass Ihre Tierpflegerin Sonja Kuschel neue Tierarten züchtet, an denen ich sehr interessiert bin. Für jedes Tier der Art %priceSpecies% bekommst du im Austausch von mir ein Tier der Art %rewardSpecies% des selben Geschlechts. Während ich hier bin verkürzt sich die Zuchtzeit deiner Tiere der Art %priceGenus%s von 20 auf 2 Stunden! Na, bist du dabei?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Ich mache mich jetzt wieder auf den Weg zu meinem Zoo. Danke dir und ich hoffe, wir sehen uns bald wieder!]]></item>
     </category>
   </category>
 </language>

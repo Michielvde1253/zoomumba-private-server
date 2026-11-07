@@ -2,7 +2,7 @@
 <language>
   <category name="zoo.window.buyassistance">
     <item name="zoo.window.buyassistance.title"><![CDATA[Ayuda]]></item>
-    <item name="zoo.window.buyassistance.info"><![CDATA[Tu contrato de trabajo con la limpiadora ha expirado.<br>¿Quieres volver a contratar a Slávko?]]></item>
+    <item name="zoo.window.buyassistance.info"><![CDATA[El contrato con el limpiador ha terminado.<br>¿Quieres volver a contratarlo?]]></item>
     <item name="zoo.window.buyassistance.empty"><![CDATA[#VALUE!]]></item>
   </category>
 </language>

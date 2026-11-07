@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.event.circus">
-    <item name="zoo.event.circus.bubble"><![CDATA[Welcome to the traveling circus! Introducing the Mystery Box! Buy one box and get one of 10 animals. You can have up to 20 boxes at a time, and each box can be opened in up to 5 hours. Have fun!]]></item>
+    <item name="zoo.event.circus.bubble"><![CDATA[Welcome to the traveling circus! Introducing the Mystery Box! Buy one box and get one of 10 animals. You can have up to 20 boxes at a time, and each box can be opened after 5 hours. Have fun!]]></item>
     <item name="zoo.event.circus.prizes"><![CDATA[Animals:]]></item>
-    <item name="zoo.event.circus.infoTitle"><![CDATA[Hearty congratulations!]]></item>
-    <item name="zoo.event.circus.infoText"><![CDATA[The following animals have been added to your inventory: %animal%. Get even more mysterious crates to get even more unique animals!]]></item>
+    <item name="zoo.event.circus.infoTitle"><![CDATA[Heartfelt congratulations!]]></item>
+    <item name="zoo.event.circus.infoText"><![CDATA[The following animals have been added to your inventory: %animal%. Get even more Mystery Boxes to get even more unique animals!]]></item>
     <item name="zoo.event.circus.warningTitle"><![CDATA[Oh, we're sorry!]]></item>
-    <item name="zoo.event.circus.warningText"><![CDATA[You already have 20 mysterious chests. Wait until one of them opens and then get another chest.]]></item>
-    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[The mystery box will open for: %amount%]]></item>
+    <item name="zoo.event.circus.warningText"><![CDATA[You already have 20 Mystery Boxes. Wait until one of them opens and then get another one.]]></item>
+    <item name="zoo.event.circus.tooltipClosedBox"><![CDATA[The Mystery Box will open in: %amount%]]></item>
     <item name="zoo.event.circus.tooltipOpenedBox"><![CDATA[Click to view your animals]]></item>
     <item name="zoo.event.circus.autoBookTitle"><![CDATA[Welcome back!]]></item>
-    <item name="zoo.event.circus.autoBookText"><![CDATA[While you were away, your animals got thirsty from the mysterious crate. Breeder Sonia took care of them and brought them to her inventory. Take a quick look!]]></item>
+    <item name="zoo.event.circus.autoBookText"><![CDATA[While you were away, your animals from the Mystery Box got thirsty. Keeper Sonja took care of them and brought them to her inventory. Quickly, take a look!]]></item>
   </category>
 </language>

@@ -5,8 +5,8 @@
       <item name="zoo.eventABtrade.button.trade"><![CDATA[Intercambio]]></item>
     </category>
     <category name="zoo.eventABtrade.layer">
-      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Hola, soy Lukáš, director del zoológico del pueblo vecino. He oído que su cuidadora de animales, Soňa Starostlivá, está criando nuevas especies animales que me interesan mucho. Por cada macho de la especie %priceSpecies%, les daré un macho de la especie %rewardSpecies% o una hembra por una hembra. Durante mi presencia, el tiempo de incubación de su especie %priceGenus%s se reducirá de 20 a 2 horas. ¿Se apuntan?]]></item>
-      <item name="zoo.eventABtrade.layer.end"><![CDATA[Ya vuelvo a mi zoológico. ¡Muchas gracias y espero verlos pronto!]]></item>
+      <item name="zoo.eventABtrade.layer.intro"><![CDATA[Hola, soy Lukas, director del zoológico del pueblo vecino. He oído que tu cuidadora de animales, Sonja, está criando nuevas especies que me interesan mucho. Por cada macho de la especie %priceSpecies%, les daré un macho de la especie %rewardSpecies% o una hembra por una hembra. Durante mi presencia, el tiempo de incubación de la especie %priceGenus%s se reducirá de 20 a 2 horas. ¿Te apuntas?]]></item>
+      <item name="zoo.eventABtrade.layer.end"><![CDATA[Ya vuelvo a mi zoológico.¡Muchas gracias, espero verte pronto!]]></item>
     </category>
   </category>
 </language>
