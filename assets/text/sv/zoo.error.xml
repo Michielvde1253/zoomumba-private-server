@@ -3,9 +3,9 @@
   <category name="zoo.error">
     <category name="zoo.error.user">
       <item name="zoo.error.user.unknown"><![CDATA[Den här spelaren finns inte.]]></item>
-      <item name="zoo.error.user.notEnoughCr"><![CDATA[Du har inte tillräckligt med zoodolarer för det.]]></item>
-      <item name="zoo.error.user.notEnoughCv"><![CDATA[Du har inte tillräckligt med zoogros för det.]]></item>
-      <item name="zoo.error.user.notRequiredLevel"><![CDATA[Du har inte nått den nödvändiga nivån.]]></item>
+      <item name="zoo.error.user.notEnoughCr"><![CDATA[Du har inte tillräckligt med ZooDollar för det.]]></item>
+      <item name="zoo.error.user.notEnoughCv"><![CDATA[Du har inte tillräckligt med DjurMynt för det.]]></item>
+      <item name="zoo.error.user.notRequiredLevel"><![CDATA[Du har inte nått den nödvändiga spelarnivån.]]></item>
     </category>
     <category name="zoo.error.login">
       <item name="zoo.error.login.head"><![CDATA[Inloggningsfel]]></item>
@@ -20,8 +20,8 @@
       <item name="zoo.error.conf.notEvent"><![CDATA[Artikeln är inte tillämplig för närvarande]]></item>
     </category>
     <category name="zoo.error.badData">
-      <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Vi är ledsna!]]></item>
-      <item name="zoo.error.badData.dailyQuests.text"><![CDATA[Oj! Ett fel uppstod. Problemet har rapporterats till teamet!]]></item>
+      <item name="zoo.error.badData.dailyQuests.title"><![CDATA[Vi ber om ursäkt!]]></item>
+      <item name="zoo.error.badData.dailyQuests.text"><![CDATA[Oj, ett fel uppstod! Problemet har rapporterats till spelutvecklarna!]]></item>
     </category>
     <category name="zoo.error.field">
       <item name="zoo.error.field.unknownObj"><![CDATA[Objektet är inte tillgängligt i spelet.]]></item>
@@ -29,8 +29,8 @@
       <item name="zoo.error.field.breedFailed"><![CDATA[Aveln misslyckades. Tyvärr producerade dina djur ingen avkomma.]]></item>
       <item name="zoo.error.field.wrongSpecies"><![CDATA[Olämpligt djur för detta inhägnad.]]></item>
       <item name="zoo.error.field.maxChildReached"><![CDATA[Du har nått det maximala antalet valpar.]]></item>
-      <item name="zoo.error.field.maleAdultNeeded"><![CDATA[Du behöver en man för det.]]></item>
-      <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[Du behöver en kvinna för det.]]></item>
+      <item name="zoo.error.field.maleAdultNeeded"><![CDATA[Du behöver en hane för det.]]></item>
+      <item name="zoo.error.field.femaleAdultNeeded"><![CDATA[Du behöver en hona för det.]]></item>
       <item name="zoo.error.field.maxAdultReached"><![CDATA[Du har nått det maximala antalet vuxna.]]></item>
       <item name="zoo.error.field.buildingNotFinished"><![CDATA[Denna byggnad är fortfarande under uppbyggnad.]]></item>
     </category>
