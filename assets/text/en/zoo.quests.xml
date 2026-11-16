@@ -13,9 +13,9 @@
       <item name="zoo.quests.daily.refreshQuestion"><![CDATA[For a small fee you can get new daily tasks. Would you like to?]]></item>
       <item name="zoo.quests.daily.taskTitle"><![CDATA[Task]]></item>
       <item name="zoo.quests.daily.rewardTitle"><![CDATA[Reward]]></item>
-      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Start\ntask]]></item>
-      <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Get\nreward]]></item>
-      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Abort\ntask]]></item>
+      <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Start task]]></item>
+      <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Get reward]]></item>
+      <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Abort task]]></item>
       <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Task]]></item>
       <item name="zoo.quests.daily.window.activequest.info"><![CDATA[You are already doing another task. Please complete the active task before starting the next one.]]></item>
       <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Cancel]]></item>
