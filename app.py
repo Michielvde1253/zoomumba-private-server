@@ -94,6 +94,8 @@ port = 5050
 
 app = Flask(__name__, template_folder=TEMPLATES_DIR)
 
+app.secret_key = os.getenv('FLASK_SECRET_KEY')
+
 # Public URLs (PUBLIC_URL / ASSETS_URL / TRUST_PROXY) - see utils/siteConfig.py
 if siteConfig.trust_proxy():
     app.wsgi_app = ProxyFix(app.wsgi_app, x_proto=1, x_host=1)
@@ -516,6 +518,4 @@ def error_response(code):
 
 if __name__ == '__main__':
     print(" [+] Running server...")
-
-    app.secret_key = os.getenv('FLASK_SECRET_KEY')
     app.run(host=host, port=port, debug=False)
