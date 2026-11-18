@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.upgrade">
-    <item name="zoo.window.upgrade.info"><![CDATA[Modernisieren Sie Ihre Gehege, verschönern Sie sie und machen Sie Ihren Zoo noch attraktiver.]]></item>
+    <item name="zoo.window.upgrade.info"><![CDATA[Modernisiere deine Gehege, verschönere sie und mach deinen Zoo noch attraktiver.]]></item>
     <item name="zoo.window.upgrade.button"><![CDATA[Upgrade]]></item>
-    <item name="zoo.window.upgrade.easter.info"><![CDATA[Vom 21. bis 27. April hoppelt der Osterhase durch deinen Zoo und legt Eier. Sammle sie und tausche sie gegen Ostergehege-Dekorationen, Osterhasen und Gehege ein.]]></item>
+    <item name="zoo.window.upgrade.easter.info"><![CDATA[Zur Ostersaison hoppelt der Osterhase durch deinen Zoo und hinterlässt Eier. Sammle sie und tausche sie gegen Osterbelohnungen ein.]]></item>
   </category>
 </language>

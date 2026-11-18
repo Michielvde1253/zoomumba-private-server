@@ -2,16 +2,16 @@
 <language>
   <category name="zoo.window.bonus">
     <item name="zoo.window.bonus.main.title"><![CDATA[Bonuscode]]></item>
-    <item name="zoo.window.bonus.main.info"><![CDATA[Hast du einen ZooMumba-Bonuscode? Gib ihn einfach hier ein und erhalte deinen Bonus sofort!]]></item>
-    <item name="zoo.window.bonus.success.title"><![CDATA[Glückwunsch,]]></item>
-    <item name="zoo.window.bonus.success.info"><![CDATA[Super, Sie haben den Bonuscode korrekt eingegeben und Ihre Prämie erhalten. Wir wünschen Ihnen viel Spaß!]]></item>
+    <item name="zoo.window.bonus.main.info"><![CDATA[Hast du einen ZooMumba Bonuscode? Gib ihn einfach hier ein und erhalte sofort deinen Bonus!]]></item>
+    <item name="zoo.window.bonus.success.title"><![CDATA[Herzlichen Glückwunsch,]]></item>
+    <item name="zoo.window.bonus.success.info"><![CDATA[Super, du hast den Bonuscode korrekt eingegeben und deine Prämie erhalten. Viel Spaß damit!]]></item>
     <category name="zoo.window.bonus.error">
       <item name="zoo.window.bonus.error.invalid.title"><![CDATA[Fehler]]></item>
-      <item name="zoo.window.bonus.error.invalid.info"><![CDATA[Leider ist der Bonuscode ungültig. Bitte überprüfen Sie den Code und versuchen Sie es erneut.]]></item>
+      <item name="zoo.window.bonus.error.invalid.info"><![CDATA[Leider stimmt der Bonuscode nicht. Bitte überprüf den Code und versuch es noch einmal.]]></item>
       <item name="zoo.window.bonus.error.participated.title"><![CDATA[Fehler]]></item>
-      <item name="zoo.window.bonus.error.participated.info"><![CDATA[Sie haben diesen Bonuscode bereits eingelöst.]]></item>
+      <item name="zoo.window.bonus.error.participated.info"><![CDATA[Du hast diesen Bonuscode bereits eingelöst.]]></item>
       <item name="zoo.window.bonus.error.bruteforce.title"><![CDATA[Fehler]]></item>
-      <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[Sie haben den Bonuscode zu oft falsch eingegeben. Bitte warten Sie einige Minuten, bevor Sie es erneut versuchen.]]></item>
+      <item name="zoo.window.bonus.error.bruteforce.info"><![CDATA[Du hast den Bonuscode zu oft falsch eingegeben. Bitte warte ein paar Minuten, bevor du es erneut probierst.]]></item>
     </category>
   </category>
 </language>

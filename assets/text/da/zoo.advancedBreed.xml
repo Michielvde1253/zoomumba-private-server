@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.advancedBreed">
-    <item name="zoo.advancedBreed.info.1"><![CDATA[Hej! Jeg er Soňa Starostlivá, og jeg er sygeplejerske her i zoologisk have. Glæder du dig til at avle de nye søde unger? Jeg vil forklare, hvordan det fungerer! Først skal du beslutte, hvilken dyreart du vil avle.]]></item>
-    <item name="zoo.advancedBreed.info.2"><![CDATA[Vælg to voksne dyr fra din inventar til at blive forældre. Jo sjældnere de er, desto større er sandsynligheden for, at de får en endnu sjældnere unge. Forældrene skal dog forblive hos mig under denne avl.]]></item>
-    <item name="zoo.advancedBreed.info.3"><![CDATA[Brug af yderligere indsamlede genstande, stærkt foder, superfoder eller supermedicin vil øge dine chancer for at opfostre en særlig sjælden baby. Jo flere hjerter genstanden har, desto bedre er chancen!]]></item>
-    <item name="zoo.advancedBreed.info.4"><![CDATA[Du er næsten færdig med forberedelserne! Dobbelttjek dine valg, inden det hele går i gang. Vil du ændre noget? Intet problem, bare brug knappen "Tilbage"!]]></item>
-    <item name="zoo.advancedBreed.summary"><![CDATA[Avlsforsøget anvendte følgende dyr og genstande:]]></item>
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Hej! Jeg er Sonja Hjertegod, og jeg er sygeplejerske i denne zoologiske have. Ser du frem til at avle nogle nye søde unger? Jeg vil forklare hvordan det fungerer! Først skal du beslutte hvilken dyreart du har lyst til at avle.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Vælg to voksen dyr fra dit inventar til at blive forældre. Jo sjældnere de er, desto højere er sandsynligheden for at få en endu sjældnere unge. Men forældrene skal blive hos mig under avl.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[Ved at bruge yderligere samlede ting, stærk foder, super foder, eller super medicin kan du øge chancerne for en ekstra sjælden unge. Jo flere hjerter tingen har, jo bedre chance!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[Du er næsten færdig med forberedelserne! Dobbeltjek dine valg før det hele går igang. Har du lyst til at ændre noget? Intet problem, bare brug 'Tilbage' knappen!]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[Avl eksperimentet brugte de følgende dyr og ting:]]></item>
     <category name="zoo.advancedBreed.tooltip">
       <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Avlsstationen er klar]]></item>
       <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Det er her, den opdrættes]]></item>
-      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[En baby er født!]]></item>
-      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Babyerne er her!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[En unge er født!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[Ungerne er her!]]></item>
     </category>
     <category name="zoo.advancedBreed.button">
       <item name="zoo.advancedBreed.button.start"><![CDATA[Start avl]]></item>
       <item name="zoo.advancedBreed.button.elixir"><![CDATA[Brug essens]]></item>
     </category>
     <category name="zoo.advancedBreed.layer">
-      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Vil du virkelig begynde at avle uden kosttilskud? Tænk dig grundigt om – med kosttilskud har du en bedre chance for at få et sjældent afkom.]]></item>
-      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Du er midt i forberedelserne. Vil du virkelig forlade ynglepladsen?]]></item>
-      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Avlsstation]]></item>
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[Har du virkelig lyst til at begynde at avle uden kosttilskud? Tænk dig grundigt om - med kosttilskud har du en bedre chance for at få sjældent afkom.]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Du er midt i forberedelserne. Er du sikker på du vil forlade avlstationen?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Avlstation]]></item>
       <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Disse dyr får unger lige nu:]]></item>
-      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Resterende tid:]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Tid tilbage:]]></item>
       <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Tolijas essens]]></item>
-      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Tolija-essens forkorter yngletiden med 50%.]]></item>
-      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hurra - du har fået en baby! Du kan finde denne søde lille guldklump i dit inventar:]]></item>
-      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hurra - du har fået et barn! Du kan finde denne søde djævel i dit inventar:]]></item>
-      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Flyt den lille til dyrehaven, så han kan vokse op.]]></item>
-      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Tag de små med i dyrehaven, så de kan vokse op.]]></item>
-      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Advarsel: Avl er i øjeblikket i gang! Hvis du flytter stationen til dit inventar nu, vil processen blive afbrudt, og du vil miste alle dyr og kosttilskud. Er du sikker på, at du vil flytte den nu?]]></item>
-      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Advarsel: Avl er i øjeblikket i gang! Hvis du sælger stationen nu, vil processen blive afbrudt, og alle dyr og kosttilskud vil gå tabt. Er du sikker på, at du vil sælge stationen nu?]]></item>
-      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Hvis avlsprocessen er afsluttet efter begivenhedens afslutning, vil du kun modtage 1 unge.]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Tolijas essens forkorter avletiden med 50%.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hurra - Du har en unge! Du kan finde denne sødde lille en i dit inventar:]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hurra - Du har en unge! Du kan finde denne sødde lille djævel i dit inventar:]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Flyt den lille en til dyrebørnehaven så de kan vokse op.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Tag de små til dyrebørnehaven så de kan vokse op.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Advarsel: Avl er i øjeblikket undervejs! Hvis du rykker stationen til dit inventar nu, så vil processen blive afbrudt og du vil miste alle dyr og kosttilskud. Er du sikker på, at du vil rykke den nu?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Advarsel: Avl er i øjeblikket undervejs! Hvis du sælger denne station nu, så vil processen blive afbrudt og du vil miste alle dyr og kosttilskud. Er du sikker på, at du vil sælge stationen nu?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Hvis avlprocessen er afsluttet efter begivenheden slutter, vil du kun få 1 unge.]]></item>
     </category>
   </category>
 </language>

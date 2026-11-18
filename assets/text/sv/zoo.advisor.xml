@@ -3,10 +3,10 @@
   <category name="zoo.advisor">
     <category name="zoo.advisor.buttons">
       <item name="zoo.advisor.buttons.1"><![CDATA[Djurarter]]></item>
-      <item name="zoo.advisor.buttons.2"><![CDATA[Tillfredsställelse]]></item>
+      <item name="zoo.advisor.buttons.2"><![CDATA[Belåtenhet]]></item>
       <item name="zoo.advisor.buttons.3"><![CDATA[Dekoration]]></item>
       <item name="zoo.advisor.buttons.4"><![CDATA[Djuravel]]></item>
-      <item name="zoo.advisor.buttons.5"><![CDATA[Skräp]]></item>
+      <item name="zoo.advisor.buttons.5"><![CDATA[Sopor]]></item>
     </category>
     <category name="zoo.advisor.descriptions">
       <item name="zoo.advisor.descriptions.1.A"><![CDATA[Toppen! Ingen kan egentligen klaga på bristen på variation i ert zoo. Fortsätt så!]]></item>
@@ -52,13 +52,13 @@
       <item name="zoo.advisor.help.14"><![CDATA[Du kan för närvarande inte flytta några djur till andra inhägnader.]]></item>
       <item name="zoo.advisor.help.15"><![CDATA[Om du säljer hägnet säljer du även djuret i det.]]></item>
       <item name="zoo.advisor.help.16"><![CDATA[Det finns två typer av meerkater i spelet - den vanliga och den grå meerkaten Beda. Beda dyker bara upp under vissa evenemang och kan bara köpas på speciella dagar.]]></item>
-      <item name="zoo.advisor.help.17"><![CDATA[Om du klickar på "adoptera för zoodollars" är du 100% säker på ett nytt tillskott och du behöver inte vänta på det.]]></item>
+      <item name="zoo.advisor.help.17"><![CDATA[Om du klickar på "Adoptera för ZooDollars" så får du garanterat ett nytt tillskott, utan någon väntetid!]]></item>
       <item name="zoo.advisor.help.18"><![CDATA[Du kan spara dina ZooMumba-vänner i din adressbok. Tyvärr kan du inte bjuda in några grannar för tillfället.]]></item>
-      <item name="zoo.advisor.help.19"><![CDATA[Ju fler butiker du äger, desto mer zoogros tjänar du.]]></item>
+      <item name="zoo.advisor.help.19"><![CDATA[Ju fler butiker du har i ditt zoo, desto mer Djur-Mynt tjänar du!]]></item>
       <item name="zoo.advisor.help.20"><![CDATA[Har du inte tid? Anlita då assistenter. Kom ihåg att assistenter bara fungerar när du klickar på dem (de fungerar inte automatiskt).]]></item>
       <item name="zoo.advisor.help.21"><![CDATA[Om du anställer en kassör, ​​Kešík, kommer du att öka din inkomst.]]></item>
       <item name="zoo.advisor.help.22"><![CDATA[Att använda assistenter är värt det: du kommer att få fler erfarenhetspoäng.]]></item>
-      <item name="zoo.advisor.help.23"><![CDATA[Om du har alla assistenter aktiverar du Davids representant – han kan få alla assistenter att arbeta med bara ett klick.]]></item>
+      <item name="zoo.advisor.help.23"><![CDATA[Om du har alla 6 assistenter i personalen kommer David, vice-direktören, att vara tillgänglig! Klicka på Dave för att få alla dina assistenter att börja arbeta samtidigt.]]></item>
       <item name="zoo.advisor.help.24"><![CDATA[Ju mer avfall du sorterar på djurparken, desto mindre hamnar det på gatorna.]]></item>
       <item name="zoo.advisor.help.25"><![CDATA[Köp en hane och en hona av samma art så får du snart söta ungar i djurparken.]]></item>
       <item name="zoo.advisor.help.26"><![CDATA[Du kan bara förvara en viss mängd inträdespengar i huvudbyggnaden, så se till att hämta ut dem regelbundet.]]></item>

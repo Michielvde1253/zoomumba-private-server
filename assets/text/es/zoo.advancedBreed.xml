@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.advancedBreed">
-    <item name="zoo.advancedBreed.info.1"><![CDATA[¡Hola! Soy Soňa Starostlivá, enfermera del zoológico. ¿Tienen ganas de criar a los nuevos y adorables cachorros? ¡Les explicaré cómo funciona! Primero, deben decidir qué especie animal quieren criar.]]></item>
-    <item name="zoo.advancedBreed.info.2"><![CDATA[Elige dos animales adultos de tu inventario para que se conviertan en padres. Cuanto más raros sean, más probable será que tengan una cría aún más rara. Sin embargo, los padres deben permanecer conmigo durante esta crianza.]]></item>
-    <item name="zoo.advancedBreed.info.3"><![CDATA[Usar objetos adicionales, alimento fuerte, superalimento o supermedicina aumentará tus posibilidades de criar un bebé excepcional. ¡Cuantos más corazones tenga el objeto, más probabilidades tendrás!]]></item>
-    <item name="zoo.advancedBreed.info.4"><![CDATA[¡Ya casi terminas los preparativos! Revisa tus elecciones antes de que empiece todo. ¿Quieres cambiar algo? ¡No hay problema, solo usa el botón "Atrás"!]]></item>
-    <item name="zoo.advancedBreed.summary"><![CDATA[En el experimento de cría se utilizaron los siguientes animales y elementos:]]></item>
+    <item name="zoo.advancedBreed.info.1"><![CDATA[¡Hola! Soy Sonia, la enfermera del zoológico. ¿Tienes ganas de ver nacer adorables crías? ¡Te explicaré cómo funciona! Primero, tienes que decidir qué animales quieres cruzar.]]></item>
+    <item name="zoo.advancedBreed.info.2"><![CDATA[Elige dos animales adultos de tu inventario para que se conviertan en padres. Cuanto más raros sean, más posibilidades tendrán de tener una cría incluso más exótica. Sin embargo, los padres deben quedarse para la crianza.]]></item>
+    <item name="zoo.advancedBreed.info.3"><![CDATA[¡Usar objetos adicionales como alimento prémium, superalimento o supermedicina aumentará tus probabilidades de obtener una cría excepcional! ¡Cuantos más corazones tenga el objeto, mayor será la posibilidad!]]></item>
+    <item name="zoo.advancedBreed.info.4"><![CDATA[¡Ya casi has terminado los preparativos! Comprueba tus elecciones antes de empezar todo. ¿Quieres cambiar algo? ¡No hay problema, solo tienes que usar el botón "Atrás".]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[En el intento de cría se han utilizado los siguientes animales y objetos:]]></item>
     <category name="zoo.advancedBreed.tooltip">
-      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Estación de cría lista]]></item>
-      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Aquí es donde se cría]]></item>
-      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[¡Ha nacido un bebé!]]></item>
-      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[¡Los bebés están aquí!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[¡La guardería está lista!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[Aquí es donde nace la cría]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDone"><![CDATA[¡Ya nació la cría!]]></item>
+      <item name="zoo.advancedBreed.tooltip.labDoneTwins"><![CDATA[¡Aquí están los pequeñines!]]></item>
     </category>
     <category name="zoo.advancedBreed.button">
-      <item name="zoo.advancedBreed.button.start"><![CDATA[Empezar a criar]]></item>
+      <item name="zoo.advancedBreed.button.start"><![CDATA[Empezar a reproducir]]></item>
       <item name="zoo.advancedBreed.button.elixir"><![CDATA[Usar esencia]]></item>
     </category>
     <category name="zoo.advancedBreed.layer">
-      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[¿De verdad quieres empezar a criar sin suplementos? Piénsalo bien: con suplementos, tienes más posibilidades de obtener una descendencia excepcional.]]></item>
-      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Estás en plenos preparativos. ¿De verdad quieres dejar la estación de cría?]]></item>
-      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Estación de cría]]></item>
-      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Estos animales están teniendo crías ahora mismo:]]></item>
+      <item name="zoo.advancedBreed.layer.noItems"><![CDATA[¿De verdad quieres empezar a reproducir sin suplementos? Piénsalo bien, ¡si los usas tendrás una mayor posibilidad de obtener crías excepcionales!]]></item>
+      <item name="zoo.advancedBreed.layer.abort"><![CDATA[Estas en mitad de los preparativos. ¿De verdad quieres dejar la guarderia?]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Guarderia]]></item>
+      <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[Los siguientes animales estan teniendo crías:]]></item>
       <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Tiempo restante:]]></item>
-      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Esencia de Tolija]]></item>
-      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[La esencia de Tolija acorta el tiempo de cría en un 50%.]]></item>
-      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[¡Hurra! ¡Tienes un bebé! Puedes encontrar a este adorable pequeñín en tu inventario:]]></item>
-      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[¡Hurra! ¡Tienes un hijo! Puedes encontrar a este adorable duende en tu inventario:]]></item>
-      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Traslada al pequeño a la guardería de animales para que crezca.]]></item>
-      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Lleva a los más pequeños a la guardería de animales para que puedan crecer.]]></item>
-      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Advertencia: ¡La crianza está en curso! Si mueves la estación a tu inventario ahora, el proceso se interrumpirá y perderás todos los animales y suplementos. ¿Seguro que quieres moverla ahora?]]></item>
-      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Advertencia: ¡La cría está en curso! Si vendes la estación ahora, el proceso se interrumpirá y perderás todos los animales y suplementos. ¿Seguro que quieres vender la estación ahora?]]></item>
-      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Si el proceso de cría se completa una vez finalizado el evento, solo recibirás 1 bebé.]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Elíxir de amor]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[El elíxir de amor acorta el tiempo de cría un 50%]]></item>
+      <item name="zoo.advancedBreed.layer.success.1"><![CDATA[¡Hurra! ¡Has conseguido una cría! Puedes encontrar a este adorable pequeñin en tu inventario.]]></item>
+      <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[¡Hurra! ¡Has conseguido una cría! Puedes encontrar a esta adorable criatura en tu inventario.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Mueve a las crías a la guardería de animales para que crezcan.]]></item>
+      <item name="zoo.advancedBreed.layer.success.2Twins"><![CDATA[Lleva a las crías a la guardería de animales para que puedan crecer.]]></item>
+      <item name="zoo.advancedBreed.layer.inventorize"><![CDATA[Advertencia: ¡El proceso de cría esta en curso! Si mueves el recinto ahora, el proceso se interumpira y se perderan todos los animales y suplementos. ¿De verdad quieres mover el recinto?]]></item>
+      <item name="zoo.advancedBreed.layer.sellLab"><![CDATA[Advertencia: ¡El proceso de cría esta en curso! Si vendes el recinto  ahora, el proceso se interumpira y se perderan todos los animales y suplementos. ¿De verdad quieres vender el recinto?]]></item>
+      <item name="zoo.advancedBreed.layer.startTwinsLate"><![CDATA[Si el proceso de cría se completa una vez finalizado el evento, solo recibiras 1 cría.]]></item>
     </category>
   </category>
 </language>

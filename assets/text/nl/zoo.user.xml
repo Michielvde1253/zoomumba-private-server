@@ -3,7 +3,7 @@
   <category name="zoo.user">
     <item name="zoo.user.name"><![CDATA[Gebruikersnaam]]></item>
     <item name="zoo.user.id"><![CDATA[Gebruikers-ID]]></item>
-    <item name="zoo.user.notAuth.title"><![CDATA[Verificatie]]></item>
-    <item name="zoo.user.notAuth.info"><![CDATA[Verificatie mislukt. Log opnieuw in.]]></item>
+    <item name="zoo.user.notAuth.title"><![CDATA[Vereficatie]]></item>
+    <item name="zoo.user.notAuth.info"><![CDATA[Verificatie is mislukt. Log opnieuw in. ]]></item>
   </category>
 </language>

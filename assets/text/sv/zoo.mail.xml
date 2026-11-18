@@ -11,9 +11,9 @@
       <item name="zoo.mail.general.pagination"><![CDATA[Sida %x% av %y%]]></item>
       <item name="zoo.mail.general.message"><![CDATA[Meddelande]]></item>
       <item name="zoo.mail.general.send"><![CDATA[Skicka]]></item>
-      <item name="zoo.mail.general.close"><![CDATA[Nära]]></item>
-      <item name="zoo.mail.general.userWrote"><![CDATA[%användare% skrev:]]></item>
-      <item name="zoo.mail.general.userSent"><![CDATA[Du skrev till spelaren %user%:]]></item>
+      <item name="zoo.mail.general.close"><![CDATA[Stäng]]></item>
+      <item name="zoo.mail.general.userWrote"><![CDATA[%user% skrev:]]></item>
+      <item name="zoo.mail.general.userSent"><![CDATA[Du skrev till %user%:]]></item>
     </category>
     <category name="zoo.mail.column">
       <item name="zoo.mail.column.action"><![CDATA[Handling]]></item>

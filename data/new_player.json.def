@@ -69,7 +69,7 @@
   },
   "uObj": {
     "uId": "PLACEHOLDER_USERID",
-    "uName": "Michielvde",
+    "uName": "Player",
     "uPremium1": 0,
     "uPremium2": 0,
     "uCv": 5000,
@@ -1203,12 +1203,12 @@
     },
     "watertower": {
       "builded": 0,
-      "level": 8,
+      "level": 0,
       "attentionState": 0
     },
     "storage": {
       "builded": 0,
-      "level": 8,
+      "level": 0,
       "attentionState": 0
     },
     "cinema": {
@@ -1223,7 +1223,7 @@
     },
     "recycling": {
       "builded": 0,
-      "level": 8,
+      "level": 0,
       "attentionState": 0,
       "newbie": 0
     },
@@ -1609,7 +1609,7 @@
       "uId": "PLACEHOLDER_USERID",
       "id": 13,
       "cnt": 0,
-      "mCnt": 255
+      "mCnt": 700
     },
     "14": {
       "uId": "PLACEHOLDER_USERID",

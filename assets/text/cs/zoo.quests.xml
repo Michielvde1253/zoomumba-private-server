@@ -12,12 +12,9 @@
   <item name="zoo.quests.daily.refreshQuestion"><![CDATA[Za malý poplatek tady můžeš získat nové denní úkoly. Chtěl bys?]]></item>
   <item name="zoo.quests.daily.taskTitle"><![CDATA[Úkol]]></item>
   <item name="zoo.quests.daily.rewardTitle"><![CDATA[Odměna]]></item>
-  <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Zahájit
-úkol]]></item>
-  <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Získat
-odměnu]]></item>
-  <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Přerušit
-úkol]]></item>
+  <item name="zoo.quests.daily.startQuestBtn"><![CDATA[Zahájit úkol]]></item>
+  <item name="zoo.quests.daily.finishQuestBtn"><![CDATA[Získat odměnu]]></item>
+  <item name="zoo.quests.daily.abortQuestBtn"><![CDATA[Přerušit úkol]]></item>
   <item name="zoo.quests.daily.window.activequest.title"><![CDATA[Úkol]]></item>
   <item name="zoo.quests.daily.window.activequest.info"><![CDATA[Plníš už jiný úkol. Uzavři nejprve aktivní úkol, než se pustíš do dalšího.]]></item>
   <item name="zoo.quests.daily.window.abortquest.title"><![CDATA[Storno]]></item>

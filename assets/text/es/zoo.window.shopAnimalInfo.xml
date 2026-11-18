@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.shopAnimalInfo">
-    <item name="zoo.window.shopAnimalInfo.titel_1"><![CDATA[Guacamayo]]></item>
-    <item name="zoo.window.shopAnimalInfo.text_1"><![CDATA[¡Estos alegres loros son muy habladores! Mantenlos siempre en pareja o en grupo. ¡A los visitantes les encantan estos inteligentes loros con sus plumas de colores brillantes!]]></item>
+    <item name="zoo.window.shopAnimalInfo.titel_1"><![CDATA[Guacamayo rojo]]></item>
+    <item name="zoo.window.shopAnimalInfo.text_1"><![CDATA[Los sociales papagayos son animales llamativos y parlanchines.Mantenlos siempre en parejas o en bandadas.¡ A los visitantes les encantan estos pilluelos de coloridas plumas!]]></item>
     <item name="zoo.window.shopAnimalInfo.titel_2"><![CDATA[Suricata]]></item>
     <item name="zoo.window.shopAnimalInfo.text_2"><![CDATA[¿Ya no tienes a estos pequeños erizos en tu zoológico? ¡Todos adoran a estas criaturas inquietas que siempre están haciendo travesuras! Un zoológico sin suricatas debe ser bastante aburrido...]]></item>
     <item name="zoo.window.shopAnimalInfo.titel_3"><![CDATA[Zarigüeya]]></item>

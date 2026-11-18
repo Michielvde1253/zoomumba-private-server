@@ -2,12 +2,12 @@
 <language>
   <category name="zoo.premium">
     <category name="zoo.premium.title">
-      <item name="zoo.premium.title.0"><![CDATA[Representative David]]></item>
-      <item name="zoo.premium.title.1"><![CDATA[Krmic Honza]]></item>
-      <item name="zoo.premium.title.2"><![CDATA[Power supply Pavel]]></item>
+      <item name="zoo.premium.title.0"><![CDATA[Dave the Co-Director]]></item>
+      <item name="zoo.premium.title.1"><![CDATA[Jim the Animal Feeder]]></item>
+      <item name="zoo.premium.title.2"><![CDATA[Doug the Drink Supplier]]></item>
       <item name="zoo.premium.title.3"><![CDATA[Cleaner Slavek]]></item>
-      <item name="zoo.premium.title.4"><![CDATA[Breeder Soňa]]></item>
-      <item name="zoo.premium.title.5"><![CDATA[Garbage collector Jirka]]></item>
+      <item name="zoo.premium.title.4"><![CDATA[Zookeeper Sonja]]></item>
+      <item name="zoo.premium.title.5"><![CDATA[Gus the Garbage Man]]></item>
       <item name="zoo.premium.title.6"><![CDATA[Cashier Kešík]]></item>
       <item name="zoo.premium.title.7"><![CDATA[Dr. Lynn]]></item>
       <item name="zoo.premium.title.11"><![CDATA[Larger zoo]]></item>
@@ -77,8 +77,8 @@
       <item name="zoo.premium.window.renew.text"><![CDATA[Oh! The employment contract with this assistant has expired. Do you want to extend the contract?]]></item>
     </category>
     <category name="zoo.premium.elixir">
-      <item name="zoo.premium.elixir.title"><![CDATA[Essence of Tolija]]></item>
-      <item name="zoo.premium.elixir.text"><![CDATA[Secret recipe used in breeding shortens the breeding process by 50%]]></item>
+      <item name="zoo.premium.elixir.title"><![CDATA[Sweetheart Potion]]></item>
+      <item name="zoo.premium.elixir.text"><![CDATA[This secret recipe used in breeding stations shortens the breeding process by 50%]]></item>
     </category>
     <category name="zoo.premium.breedingLab">
       <item name="zoo.premium.breedingLab.title"><![CDATA[Breeding station]]></item>
@@ -89,12 +89,12 @@
       <item name="zoo.premium.nursery.text"><![CDATA[Place a breeding station in your main or secret zoo so your babies have somewhere to grow up.]]></item>
     </category>
     <category name="zoo.premium.assist.title">
-      <item name="zoo.premium.assist.title.0"><![CDATA[Representative David]]></item>
-      <item name="zoo.premium.assist.title.1"><![CDATA[Krmic Honza]]></item>
-      <item name="zoo.premium.assist.title.2"><![CDATA[Power supply Pavel]]></item>
+      <item name="zoo.premium.assist.title.0"><![CDATA[Dave the Co-Director]]></item>
+      <item name="zoo.premium.assist.title.1"><![CDATA[Jim the Animal Feeder]]></item>
+      <item name="zoo.premium.assist.title.2"><![CDATA[Doug the Drink Supplier]]></item>
       <item name="zoo.premium.assist.title.3"><![CDATA[Cleaner Slavek]]></item>
-      <item name="zoo.premium.assist.title.4"><![CDATA[Breeder Soňa]]></item>
-      <item name="zoo.premium.assist.title.5"><![CDATA[Garbage collector Jirka]]></item>
+      <item name="zoo.premium.assist.title.4"><![CDATA[Zookeeper Sonja]]></item>
+      <item name="zoo.premium.assist.title.5"><![CDATA[Gus the Garbage Man]]></item>
       <item name="zoo.premium.assist.title.6"><![CDATA[Cashier, financial assistant]]></item>
       <item name="zoo.premium.assist.title.7"><![CDATA[Dr. Lynn]]></item>
       <item name="zoo.premium.assist.title.8"><![CDATA[Jindra]]></item>

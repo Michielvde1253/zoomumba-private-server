@@ -14,7 +14,7 @@
     </category>
     <category name="zoo.nursery.layer">
       <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Animal breeding]]></item>
-      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[Tento prcek bude ihned odchován:]]></item>
+      <item name="zoo.nursery.layer.inProgress.text"><![CDATA[This baby will be bred immediately:]]></item>
       <item name="zoo.nursery.layer.inProgress.time"><![CDATA[Time remaining:]]></item>
       <item name="zoo.nursery.layer.instantRaise.title"><![CDATA[Raise immediately]]></item>
       <item name="zoo.nursery.layer.instantRaise.text"><![CDATA[Before you know it, your little one will be an adult!]]></item>

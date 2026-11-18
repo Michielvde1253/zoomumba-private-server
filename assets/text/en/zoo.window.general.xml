@@ -2,28 +2,28 @@
 <language>
   <category name="zoo.window.general">
     <item name="zoo.window.general.error"><![CDATA[Error]]></item>
-    <item name="zoo.window.general.petPenny_singular"><![CDATA[Zoogros]]></item>
-    <item name="zoo.window.general.petPenny_plural"><![CDATA[Zoogros]]></item>
+    <item name="zoo.window.general.petPenny_singular"><![CDATA[Petpenny]]></item>
+    <item name="zoo.window.general.petPenny_plural"><![CDATA[Petpennies]]></item>
     <item name="zoo.window.general.petPaw_singular"><![CDATA[Paw]]></item>
-    <item name="zoo.window.general.petPaw_plural"><![CDATA[Paw]]></item>
+    <item name="zoo.window.general.petPaw_plural"><![CDATA[Paws]]></item>
     <item name="zoo.window.general.zooDollar_singular"><![CDATA[Zoodollar]]></item>
     <item name="zoo.window.general.zooDollar_plural"><![CDATA[Zoodollars]]></item>
-    <item name="zoo.window.general.xp_singular"><![CDATA[Experience point]]></item>
-    <item name="zoo.window.general.xp_plural"><![CDATA[Experience points]]></item>
-    <item name="zoo.window.general.attractivity_singular"><![CDATA[Attractiveness]]></item>
+    <item name="zoo.window.general.xp_singular"><![CDATA[XP]]></item>
+    <item name="zoo.window.general.xp_plural"><![CDATA[XPs]]></item>
+    <item name="zoo.window.general.attractivity_singular"><![CDATA[Attractivity]]></item>
     <item name="zoo.window.general.start"><![CDATA[Start]]></item>
     <item name="zoo.window.general.skip"><![CDATA[Skip]]></item>
-    <item name="zoo.window.general.next"><![CDATA[Other]]></item>
+    <item name="zoo.window.general.next"><![CDATA[Next]]></item>
     <item name="zoo.window.general.prev"><![CDATA[Back]]></item>
     <item name="zoo.window.general.first"><![CDATA[First]]></item>
     <item name="zoo.window.general.last"><![CDATA[Last]]></item>
-    <item name="zoo.window.general.congrats"><![CDATA[Hearty congratulations!]]></item>
-    <item name="zoo.window.general.specialOffer"><![CDATA[Action!]]></item>
+    <item name="zoo.window.general.congrats"><![CDATA[Our warmest congratulations!]]></item>
+    <item name="zoo.window.general.specialOffer"><![CDATA[Sale!]]></item>
     <item name="zoo.window.general.attention"><![CDATA[Attention!]]></item>
-    <item name="zoo.window.general.sorry"><![CDATA[We apologize.]]></item>
+    <item name="zoo.window.general.sorry"><![CDATA[We apologize]]></item>
     <item name="zoo.window.general.goodbye"><![CDATA[Goodbye!]]></item>
     <item name="zoo.window.general.thankyou"><![CDATA[Thanks!]]></item>
-    <item name="zoo.window.general.second"><![CDATA[sec]]></item>
+    <item name="zoo.window.general.second"><![CDATA[second]]></item>
     <item name="zoo.window.general.seconds"><![CDATA[seconds]]></item>
     <item name="zoo.window.general.minute"><![CDATA[minute]]></item>
     <item name="zoo.window.general.minutes"><![CDATA[min.]]></item>
@@ -36,6 +36,6 @@
     <item name="zoo.window.general.month"><![CDATA[month]]></item>
     <item name="zoo.window.general.months"><![CDATA[months]]></item>
     <item name="zoo.window.general.year"><![CDATA[year]]></item>
-    <item name="zoo.window.general.years"><![CDATA[flight]]></item>
+    <item name="zoo.window.general.years"><![CDATA[years]]></item>
   </category>
 </language>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.shopTrashbinInfo">
-    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Vuilnisbak]]></item>
-    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Mensen laten afval achter! Hoe meer vuilnisbakken je in je dierentuin hebt, hoe minder je hoeft op te ruimen na de bezoekers.]]></item>
-    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Mummie Prullenbak]]></item>
-    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Bah... ik wil afval!]]></item>
-    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Vuilnisbakspook]]></item>
-    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuhhuuuuu... Vuilnis]]></item>
-    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Vuilnisbakvampier]]></item>
-    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Ik heb iets nodig om op te bijten. Geef me je afval!]]></item>
-    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Vuilnisbakmonster]]></item>
-    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmm... Lekker afval!]]></item>
-    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Prullenbak voor verjaardagen]]></item>
-    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmmm, inpakpapier!]]></item>
-    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Walvis vuilnisbak]]></item>
-    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA["Ik slik al je rotzooi door!"]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_1"><![CDATA[Prullenbakken]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_1"><![CDATA[Mensen laten afval achter! Hoe meer prullenbakken je in je dierentuin hebt, des te minder je achter je bezoekers hoeft op te ruimen.]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_5"><![CDATA[Mummie prullenbak]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_5"><![CDATA[Ughhh... Ik wil afval!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_6"><![CDATA[Geestenprullenbak]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_6"><![CDATA[Huuuuuhuuuu....... afval]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_7"><![CDATA[Vampierenprullenbak]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_7"><![CDATA[Ik heb iets nodig om in te bijten. Geef mij jou afval!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_8"><![CDATA[Prullenbakkenmonster]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_8"><![CDATA[Mmmmm... Afval goed!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_9"><![CDATA[Verjaardagsprullenbak]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_9"><![CDATA[Mmmmm.... inpakpapier!]]></item>
+    <item name="zoo.window.shopTrashbinInfo.titel_10"><![CDATA[Walvisprullenbak]]></item>
+    <item name="zoo.window.shopTrashbinInfo.text_10"><![CDATA[Ik slik al je afval door!]]></item>
   </category>
 </language>

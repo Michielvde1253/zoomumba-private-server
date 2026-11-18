@@ -3,7 +3,7 @@
   <category name="zoo.quests">
     <category name="zoo.quests.tabs">
       <item name="zoo.quests.tabs.daily"><![CDATA[Dagliga uppgifter]]></item>
-      <item name="zoo.quests.tabs.achievements"><![CDATA[Högsta betyg]]></item>
+      <item name="zoo.quests.tabs.achievements"><![CDATA[Prestationer]]></item>
       <item name="zoo.quests.tabs.collectables"><![CDATA[Samlingar]]></item>
     </category>
     <category name="zoo.quests.daily">

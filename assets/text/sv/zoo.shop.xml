@@ -3,13 +3,13 @@
   <category name="zoo.shop">
     <category name="zoo.shop.category">
       <item name="zoo.shop.category.animals"><![CDATA[Djur]]></item>
-      <item name="zoo.shop.category.cages"><![CDATA[Habitat]]></item>
-      <item name="zoo.shop.category.stores"><![CDATA[Bebyggelse]]></item>
+      <item name="zoo.shop.category.cages"><![CDATA[Inhängnader]]></item>
+      <item name="zoo.shop.category.stores"><![CDATA[Byggnader]]></item>
       <item name="zoo.shop.category.deco"><![CDATA[Dekorationer]]></item>
       <item name="zoo.shop.category.resources"><![CDATA[Foder]]></item>
-      <item name="zoo.shop.category.assistants"><![CDATA[Assistenter]]></item>
+      <item name="zoo.shop.category.assistants"><![CDATA[Assistanter]]></item>
       <item name="zoo.shop.category.specials"><![CDATA[Tillbehör]]></item>
-      <item name="zoo.shop.category.roads"><![CDATA[Vägar]]></item>
+      <item name="zoo.shop.category.roads"><![CDATA[Stigar]]></item>
       <item name="zoo.shop.category.material"><![CDATA[Material]]></item>
     </category>
     <category name="zoo.shop.tabbar">

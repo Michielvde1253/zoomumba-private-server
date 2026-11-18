@@ -2,19 +2,19 @@
 <language>
   <category name="zoo.eventValentine">
     <category name="zoo.eventValentine.comic">
-      <item name="zoo.eventValentine.comic.1"><![CDATA[Herzlich willkommen zu unserem Valentinstags-Event! Vom 8. bis 15. Februar erwartet euch eine romantische Atmosphäre! Viel Spaß beim Spielen unseres Valentinstags-Spiels und freut euch auf tolle Preise!]]></item>
-      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Hier erfahren Sie, wie es geht:]]></item>
-      <item name="zoo.eventValentine.comic.2"><![CDATA[Kümmere dich um deine Tiere und sammle Valentinstags-Gegenstände: Herzen, Liebesbotschaften und Amors Pfeil und Bogen. Nutze sie, um im romantischen Valentinstagsspiel bezaubernde Überraschungen zu gewinnen!]]></item>
-      <item name="zoo.eventValentine.comic.3"><![CDATA[Mit den gesammelten Gegenständen kannst du dich auf dem Spielfeld bewegen und Preise einsammeln: Majestätische Hirsche sowie Vorräte an Tolija-Essenz und Wachstumstränken erwarten dich!]]></item>
-      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Schaut auch im Shop vorbei – dort findet ihr nützliche Booster, die euch noch mehr Erfolg und Spielspaß garantieren!]]></item>
+      <item name="zoo.eventValentine.comic.1"><![CDATA[Willkommen zum Valentinstags-Event! Vom 8. bis zum 15. Februar wird es im Zoo romantisch. Viel Spaß bei unserem Valentinstags-Spiel. Du kannst dich schon mal auf tolle Preise freuen!]]></item>
+      <item name="zoo.eventValentine.comic.1.1"><![CDATA[Schau dir an, wie es geht:]]></item>
+      <item name="zoo.eventValentine.comic.2"><![CDATA[Kümmere dich um deine Tiere und sammle Valentinstags-Items: Herzen, Liebesbriefe und Armors Bogen und Pfeile. Nutze sie, um im Valentinstags-Spiel die herzallerliebsten Überraschungen zu gewinnen!]]></item>
+      <item name="zoo.eventValentine.comic.3"><![CDATA[Mit deinen gesammelten Gegenständen kannst du dich auf dem Spielfeld fortbewegen und Preise einsammeln: Dich erwarten majestätische Hirsche sowie Liebes- und Wachstumstränke!]]></item>
+      <item name="zoo.eventValentine.comic.3.1"><![CDATA[Schau auch im Shop vorbei! Dort kannst du hilfreiche Booster finden, die dir noch mehr Erfolg und Spaß im Spiel bringen!]]></item>
     </category>
     <category name="zoo.eventValentine.tooltip">
-      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Verdoppelt die Anzahl der Valentinstagsartikel für 1 Stunde.]]></item>
-      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Starte das Brettspiel neu.]]></item>
+      <item name="zoo.eventValentine.tooltip.powerUp"><![CDATA[Verdoppelt die Anzahl der Valentinstags-Gegenstände für eine Stunde.]]></item>
+      <item name="zoo.eventValentine.tooltip.restart"><![CDATA[Starte das Brettspiel neu]]></item>
     </category>
     <category name="zoo.eventValentine.layer">
-      <item name="zoo.eventValentine.layer.end"><![CDATA[Unser Valentinstag-Event ist fast vorbei! Ihr erhaltet keine Schleifen, Briefe oder Herzen mehr. Aber gebt nicht auf! Ihr habt noch so viel Zeit, um Valentinstags-Belohnungen zu gewinnen:]]></item>
-      <item name="zoo.eventValentine.layer.restart"><![CDATA[Nachdem du nun Hirsch und Hirschkuh gewonnen hast, kannst du das Brettspiel von vorne beginnen! Klicke einfach auf das grüne Häkchen oder den „Neu“-Button auf dem Spielbrett!]]></item>
+      <item name="zoo.eventValentine.layer.end"><![CDATA[Unser Valentinstags-Event ist fast vorbei! Du wirst keine weiteren Bogen, Briefe oder Herzen gewinnen, aber gib nicht auf! Du hast noch so lange Zeit, um die Valentinstagspreise zu gewinnen:]]></item>
+      <item name="zoo.eventValentine.layer.restart"><![CDATA[Nun da du sowohl den männlichen Hirsch als auch die Hirschkuh gewonnen hast, kannst du das Brettspiel neustarten! Klicke einfach auf das grüne Häkchen oder den Neustart-Button auf dem Spielfeld!]]></item>
     </category>
   </category>
 </language>

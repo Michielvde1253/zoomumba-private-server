@@ -10,7 +10,7 @@
     <category name="zoo.nursery.button">
       <item name="zoo.nursery.button.raise"><![CDATA[Höja]]></item>
       <item name="zoo.nursery.button.elixir"><![CDATA[Använd essens]]></item>
-      <item name="zoo.nursery.button.instantRaise"><![CDATA[Höj omedelbart]]></item>
+      <item name="zoo.nursery.button.instantRaise"><![CDATA[Uppfostra omedelbart]]></item>
     </category>
     <category name="zoo.nursery.layer">
       <item name="zoo.nursery.layer.inProgress.title"><![CDATA[Djuravel]]></item>

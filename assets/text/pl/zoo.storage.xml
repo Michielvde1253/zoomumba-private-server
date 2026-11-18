@@ -16,10 +16,10 @@
       <item name="zoo.storage.buy.maxFood"><![CDATA[Masz do dyspozycji %pojemności% swojej pojemności magazynowej. Nie możesz już jej przechowywać. Ten budynek nie zwiększy Twojej pojemności. Czy nadal chcesz go kupić?]]></item>
     </category>
     <category name="zoo.storage.capacity">
-      <item name="zoo.storage.capacity.title"><![CDATA[Pojemność pamięci masowej]]></item>
+      <item name="zoo.storage.capacity.title"><![CDATA[Miejsce w magazynie]]></item>
       <item name="zoo.storage.capacity.text"><![CDATA[Twoje zwierzęta potrzebują dużo paszy i wody. Tutaj możesz sprawdzić, ile masz dostępnych pasz i ile możesz zwiększyć.]]></item>
       <item name="zoo.storage.capacity.water"><![CDATA[Woda - pojemność]]></item>
-      <item name="zoo.storage.capacity.food"><![CDATA[Podawanie - pojemność]]></item>
+      <item name="zoo.storage.capacity.food"><![CDATA[Jedzenie - pojemność]]></item>
     </category>
   </category>
 </language>

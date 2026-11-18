@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.advancedBreed">
-    <item name="zoo.advancedBreed.info.1"><![CDATA[Hi! I'm Soňa Starostlivá, a nurse here at the zoo. Are you looking forward to breeding the new cute cubs? I'll explain how it works! First, you have to decide which animal species you want to breed.]]></item>
+    <item name="zoo.advancedBreed.info.1"><![CDATA[Hi! I'm Sonja Starostlivá, a nurse here at the zoo. Are you looking forward to breeding the new cute cubs? I'll explain how it works! First, you have to decide which animal species you want to breed.]]></item>
     <item name="zoo.advancedBreed.info.2"><![CDATA[Choose two adult animals from your inventory to become parents. The rarer they are, the more likely they are to have an even rarer baby. However, the parents must remain with me for this breeding.]]></item>
     <item name="zoo.advancedBreed.info.3"><![CDATA[Using additional collected items, strong feed, super feed, or super medicine will increase your chances of raising a particularly rare baby. The more hearts the item has, the better the chance!]]></item>
     <item name="zoo.advancedBreed.info.4"><![CDATA[You're almost done with preparations! Double-check your choices before it all kicks off. Want to change something? No problem, just use the "Back" button!]]></item>
-    <item name="zoo.advancedBreed.summary"><![CDATA[The breeding experiment used the following animals and items:]]></item>
+    <item name="zoo.advancedBreed.summary"><![CDATA[The breeding attempt used the following animals and items:]]></item>
     <category name="zoo.advancedBreed.tooltip">
       <item name="zoo.advancedBreed.tooltip.labEmpty"><![CDATA[Breeding station ready]]></item>
       <item name="zoo.advancedBreed.tooltip.labBreeding"><![CDATA[This is where it is bred]]></item>
@@ -22,8 +22,8 @@
       <item name="zoo.advancedBreed.layer.inProgress.title"><![CDATA[Breeding station]]></item>
       <item name="zoo.advancedBreed.layer.inProgress.text"><![CDATA[These animals are having babies right now:]]></item>
       <item name="zoo.advancedBreed.layer.inProgress.time"><![CDATA[Time remaining:]]></item>
-      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Essence of Tolija]]></item>
-      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[Tolija essence shortens the breeding time by 50%.]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.title"><![CDATA[Sweetheart Potion]]></item>
+      <item name="zoo.advancedBreed.layer.elixir.text"><![CDATA[A Sweetheart Potion shortens the breeding time by 50%.]]></item>
       <item name="zoo.advancedBreed.layer.success.1"><![CDATA[Hooray - you have a baby! You can find this cute little one in your inventory:]]></item>
       <item name="zoo.advancedBreed.layer.success.1Twins"><![CDATA[Hooray - you have a child! You can find this cute imp in your inventory:]]></item>
       <item name="zoo.advancedBreed.layer.success.2"><![CDATA[Move the little one to the animal nursery to grow up.]]></item>

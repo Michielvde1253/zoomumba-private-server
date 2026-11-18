@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.waterstorehouse">
-    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Wieża ciśnień]]></item>
-    <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Budynek magazynowy]]></item>
+    <item name="zoo.window.waterstorehouse.titel.water"><![CDATA[Wieża ciśnień ]]></item>
+    <item name="zoo.window.waterstorehouse.titel.store"><![CDATA[Magazyn]]></item>
     <item name="zoo.window.waterstorehouse.text.water"><![CDATA[Zwierzęta potrzebują dużo wody. Ulepszaj swoją wieżę ciśnień poziom po poziomie i upewnij się, że masz wystarczająco dużo wody dla wszystkich, gdy Twoje zoo się rozrasta.]]></item>
     <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Twoje zwierzęta potrzebują dużo jedzenia. Zwiększaj zapasy o poziom i upewnij się, że starczy jedzenia dla wszystkich, gdy Twoje zoo się rozrośnie.]]></item>
     <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Brawo! Udało Ci się maksymalnie rozbudować magazyn.]]></item>

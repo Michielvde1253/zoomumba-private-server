@@ -15,9 +15,9 @@
     </category>
     <category name="zoo.news.text">
       <item name="zoo.news.text.subheader"><![CDATA[Noticias]]></item>
-      <item name="zoo.news.text.welcome.login"><![CDATA[¡Bienvenido de nuevo, %username%!<br>¡Tu zoológico está muy ocupado nuevamente!]]></item>
-      <item name="zoo.news.text.welcome.general"><![CDATA[¡Hola %username%!<br>¡Tu zoológico está más ocupado que nunca!]]></item>
-      <item name="zoo.news.text.upgrade"><![CDATA[Con las patas, puedes embellecer tus recintos y hacerlos aún más valiosos.]]></item>
+      <item name="zoo.news.text.welcome.login"><![CDATA[¡Bienvenido de nuevo, %username%!<br>¡Tu zoológico está lleno de vida nuevamente!]]></item>
+      <item name="zoo.news.text.welcome.general"><![CDATA[¡Hola %username%!<br>¡Tu zoológico está más lleno de vida que nunca!]]></item>
+      <item name="zoo.news.text.upgrade"><![CDATA[Con las huellas, puedes mejorar tus recintos y hacerlos aún más bonitos.]]></item>
       <item name="zoo.news.text.safari"><![CDATA[¡Genial! Sumérgete en la naturaleza: desde el nivel 7, ¡el safari está aquí para ti! ¡Descubre animales inusuales y gana premios increíbles!]]></item>
       <item name="zoo.news.text.valentines_1"><![CDATA[Exclusivamente del 11 al 18/2/11 CET]]></item>
       <item name="zoo.news.text.valentines_2"><![CDATA[50% de descuento en intentos de adición]]></item>
@@ -115,7 +115,7 @@
       <item name="zoo.news.text.123"><![CDATA[No te pierdas la gran fiesta de cumpleaños en Zoomumba: del 19 de agosto al 2 de septiembre, ¡celebraremos nuestro 4.º cumpleaños! ¡Reúne globos y canjéalos por premios zootásticos!]]></item>
       <item name="zoo.news.text.124"><![CDATA[¿A tus animales les encantan los dulces? ¡Conviértete en el dueño de Sugar Land hoy mismo con 5 niveles de construcción y una selección de recintos favoritos!]]></item>
       <item name="zoo.news.text.130"><![CDATA[¡Sigue a los bichos de baba por el Pantano de Halloween! ¡Gana premios espeluznantes durante las festividades de Halloween del 30 de octubre al 10 de noviembre!]]></item>
-      <item name="zoo.news.text.131"><![CDATA[¡Gran inauguración! Descubre una nueva instalación de reciclaje y taller en la ciudad. Recoge basura, recíclala y usa los recursos para crear nuevas decoraciones para las áreas temáticas de tu zoológico.]]></item>
+      <item name="zoo.news.text.131"><![CDATA[¡Gran inauguración! Descubre la Planta de reciclaje i el Taller en el centro de dirección. Recoge basura, recíclala y usa los recursos para crear nuevas decoraciones temáticas para tu zoológico.]]></item>
       <item name="zoo.news.text.132"><![CDATA[Ayuda a los pingüinos a decorar el zoológico para Navidad. Del 11 al 29 de diciembre, saldrán golosinas de tus recintos. ¡Canjéalas por premios navideños!]]></item>
       <item name="zoo.news.text.133"><![CDATA[Ayuda a los pingüinos a decorar el zoológico para Navidad. Del 11 al 29 de diciembre, saldrán golosinas de tus recintos. ¡Canjéalas por premios navideños!]]></item>
       <item name="zoo.news.text.134"><![CDATA[Celebra con nosotros el Día de la República India el 26 de enero. Para jugadores de nivel 86 o superior, ¡el Bistro Indio ya está disponible en la tienda por zoogrosh!]]></item>

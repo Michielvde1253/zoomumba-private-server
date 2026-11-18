@@ -3,7 +3,7 @@
 #######################
 from bundle import TEMPLATES_DIR, STUB_DIR, STYLES_DIR, ASSETS_DIR
 from commands import *
-from utils import constantsUtils, configUtils, expansionUtils, siteConfig, playfieldUtils
+from utils import constantsUtils, configUtils, expansionUtils, siteConfig, playfieldUtils, managementCenterUtils
 import utils.zooErrors as zooErrors
 import utils.userUtils as userUtils
 import utils.attractionUtils as attractionUtils
@@ -33,6 +33,8 @@ print(" [+] Loading server...")
 # Setup list of game commands #
 ###############################
 
+ZERO_SENSITIVE_FIELDS = ("uCv", "uCr", "pPaw", "pearls", "uEp")
+
 available_commands = {
     "config.getCv": handle_getCv,
     "config.getConfig": handle_getConfig,
@@ -43,6 +45,7 @@ available_commands = {
     "gameitems.get": handle_gameitemsGet,
     "swfOpt.set": handle_swfOptSet,
     "managementCenter.get": handle_managementCenterGet,
+    "managementCenter.upgrade": handle_managementCenterUpgrade,
     "init.sP": handle_switchPlayfield,
     "push.get": handle_pushGet,
     "coupon.redeem": handle_couponRedeem,
@@ -479,6 +482,24 @@ def handle_request():
         obj["fIds"] = json_data["fIds"]
         obj["pfObj"] = json_data["pfObj"]
 
+
+    # Apply any management-center unlocks reached by this account. This also
+    # handles level jumps (such as developer testing) and sends the result to
+    # the client immediately.
+    if managementCenterUtils.apply_level_unlocks(json_data):
+        obj["managementCenterData"] = json_data["managementCenterData"]
+    if managementCenterUtils.sync_storage_capacity(json_data):
+        obj["res"] = json_data["res"]
+    if managementCenterUtils.sync_water_tower_capacity(json_data):
+        obj["res"] = json_data["res"]
+    if managementCenterUtils.sync_recycling_capacity(json_data):
+        obj["res"] = json_data["res"]
+
+    # The client ignores currency fields that are 0 (UserProxy: if(Boolean(param1.pPaw)...)),
+    # so a counter that drops to 0 would keep showing its old value. A string "0" passes
+    # that test and still becomes 0 on the client.
+    if isinstance(obj.get("uObj"), dict):
+        obj["uObj"] = {k: ("0" if k in ZERO_SENSITIVE_FIELDS and v == 0 else v) for k, v in obj["uObj"].items()}
     total_response["obj"] = obj
 
     # Save to database

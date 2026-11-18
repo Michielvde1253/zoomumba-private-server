@@ -1,6 +1,7 @@
 import random
 import time
-from utils import constantsUtils, fieldItemUtils, resourceUtils
+from utils import constantsUtils, fieldItemUtils, resourceUtils, rewardUtils
+from utils.zooErrors import ZooError, INVALID_REQUEST
 from utils.shopUtils import reduce_real_currency
 from utils.constantsUtils import TOMBOLA_TICKET_PRICE
 
@@ -39,78 +40,25 @@ def reshuffle_tombola_rewards(json_data, config_data):
     json_data["uTObj"]["r"]["2"] = {"type": "resources", "id": random_id, "cnt": max(1, int(max_count * percentage_of_max))}
 
 def handle_tombolaRedeemTicket(request, user_id, obj, json_data, config_data):
+    # One spin per ticket (uTObj.t, bought with tombola.bTT). The client shows
+    # the spin button while t > 0, so t has to go down, or it keeps spinning.
+    tombola = json_data["uTObj"]
+    if int(tombola.get("t", 0)) <= 0:
+        raise ZooError(INVALID_REQUEST, "no fortune wheel ticket", resync=("uTObj", "uObj"))
+    tombola["t"] = int(tombola["t"]) - 1
+
     result_slot = random.choices(SLOTS, weights=constantsUtils.TOMBOLA_WEIGHTS, k=1)[0]
-    result = json_data["uTObj"]["r"][result_slot]
-    
-    json_data["uTObj"]["p"] = result
+    result = tombola["r"][result_slot]
+    tombola["p"] = result
 
-    # Give rewards
-    if result["type"] == "resources":
-        resourceUtils.add_resource(json_data, result["id"], result["cnt"], user_id)
+    # Every prize type the wheel offers (decos, cages, animals, resources,
+    # user = coins/real/xp, powerUps, assists) goes through the shared reward
+    # code: items land in the inventory, resources stop at the storage limit.
+    rewardUtils.give_reward({"type": result["type"], "id": result["id"], "cnt": result.get("cnt", 1)},
+                            user_id, obj, json_data, config_data)
+    if result["type"] in ("resources", "resource"):
         obj["res"] = json_data["res"]
-
-    elif result["type"] == "decos":
-        new_deco = constantsUtils.get_empty_deco()
-        new_deco["id"] = json_data["next_object_id"]
-        new_deco["uId"] = user_id
-        new_deco["fId"] = 0 # Inventory
-        new_deco["dId"] = result["id"]
-        new_deco["x"] = 0
-        new_deco["y"] = 0
-        new_deco["r"] = 0
-        new_deco["build"] = 0
-    
-        json_data["next_object_id"] += 1
-        json_data["fObj"]["decos"]["0"][str(new_deco["id"])] = new_deco
-        obj["fObj"] = json_data["fObj"]
-
-    elif result["type"] == "user":
-        if result["id"] == "0": # Virtual currency
-            json_data["uObj"]["uCv"] += result["cnt"]
-        elif result["id"] == "1": # Real currency
-            json_data["uObj"]["uCr"] += result["cnt"]
-        elif result["id"] == "2": # XP
-            json_data["uObj"]["uEp"] += result["cnt"]
-        obj["uObj"] = json_data["uObj"]
-
-    elif result["type"] == "animals":
-        new_animal = constantsUtils.get_empty_animal()
-        new_animal["id"] = json_data["next_object_id"]
-        new_animal["uId"] = user_id
-        new_animal["fId"] = 0 # Inventory
-        new_animal["cId"] = 0
-        new_animal["aId"] = result["id"]
-        new_animal["sId"] = config_data["gameItems"]["animals"][str(result["id"])]["speciesId"]
-
-        json_data["next_object_id"] += 1
-        # Inventory animals live under animals."0"."0" (animals."0" is [{}] for new players)
-        fieldItemUtils.get_inventory_animals(json_data)[str(new_animal["id"])] = new_animal
-        obj["animals"] = json_data["animals"]
-
-    elif result["type"] == "powerUps":
-        current_time = time.time()
-        found = False
-        for p in json_data["pwrUp"]:
-            if p["pId"] == result["id"] and p["endTime"] > current_time:
-                # If user already has this powerup and it's still active, extend the time
-                found = True
-                p["lastActivated"] = current_time
-                p["endTime"] += config_data["gameItems"]["pwrUpConf"][str(result["id"])]["time"]
-                break
-
-        if not found:
-            new_powerup = constantsUtils.get_empty_powerup()
-            new_powerup["id"] = json_data["next_object_id"]
-            new_powerup["uId"] = user_id
-            new_powerup["pId"] = result["id"]
-            new_powerup["inUse"] = 0
-            new_powerup["lastActivated"] = current_time
-            new_powerup["endTime"] = current_time + config_data["gameItems"]["pwrUpConf"][str(result["id"])]["time"]
-
-            json_data["next_object_id"] += 1
-            json_data["pwrUp"].append(new_powerup)
-            
-        obj["pwrUp"] = json_data["pwrUp"]
+    obj["uObj"] = json_data["uObj"]
 
     reshuffle_tombola_rewards(json_data, config_data)
 

@@ -31,9 +31,9 @@
       <item name="zoo.wheel.assistant.6.hour.3"><![CDATA[Kasjer Cashy na 3 godziny]]></item>
     </category>
     <category name="zoo.wheel.extra">
-      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[30% premii EP za pełne 8 godzin!]]></item>
-      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100% bonusu EP przez pełne 8 godzin!]]></item>
-      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50% premii za łapki przez pełne 5 godzin!]]></item>
+      <item name="zoo.wheel.extra.30.xpPowerUp"><![CDATA[30% premii XP za pełne 8 godzin!]]></item>
+      <item name="zoo.wheel.extra.100.xpPowerUp"><![CDATA[100% bonusu XP przez pełne 8 godzin!]]></item>
+      <item name="zoo.wheel.extra.50.pawprintPowerUp"><![CDATA[50% premii na łapki przez pełne 5 godzin!]]></item>
     </category>
   </category>
 </language>

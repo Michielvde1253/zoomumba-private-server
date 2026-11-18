@@ -1950,14 +1950,14 @@
     <item name="zoo.collectableItems.setInfo.1019"><![CDATA[Pilfrøer fik deres navn fra indfødte, der brugte giftige sekreter fra nogle arter til at afværge deres pile.]]></item>
     <category name="zoo.collectableItems.forgottenZoo">
       <item name="zoo.collectableItems.forgottenZoo.title"><![CDATA[Værktøjer]]></item>
-      <item name="zoo.collectableItems.forgottenZoo.text"><![CDATA[Saml værktøj og byt dem til udvidelser til din skjulte zoo.<br><br>Du får værktøj i safari og på lykkehjulet. Tag dem derefter med til butikken og byt dem.<br><br>Det nuværende antal værktøjer, du ejer, er:]]></item>
+      <item name="zoo.collectableItems.forgottenZoo.text"><![CDATA[Saml værktøj og byt dem for udvidelser af din skjulte zoogiske have. <br> <br> Du får værktøjer i safari og lykkehjulet. Tag dem derefter hen til butikken og byt dem. <br> <br> Det nuværende antal af værktøj du ejer er:]]></item>
       <item name="zoo.collectableItems.forgottenZooTools.title"><![CDATA[Værktøjer]]></item>
-      <item name="zoo.collectableItems.forgottenZooTools.text.1"><![CDATA[Den 3. zoo-udvidelse giver dig adgang til den skjulte zoo. Det ser ikke ud til at være en særlig stor udvidelse, men du kan udvide den ved hjælp af værktøjer. Og sådan fungerer det:]]></item>
-      <item name="zoo.collectableItems.forgottenZooTools.text.2"><![CDATA[<ol><li>Gå ind i den skjulte zoologiske have, gå til butikken og klik på "tilføjelser".</li><li>Du får 2 kort til at udvide zoologisk have - et i bytte for værktøj, det andet for zoodollars.</li><li>Saml nok værktøj på lykkehjulet eller på safari og bytt dem til et kort.</li></ol>]]></item>
-      <item name="zoo.collectableItems.forgottenZooTools.text.3"><![CDATA[Udvid din zoologisk have ved hjælp af begge kort - blot med værktøjer og zoodollars.<br> Du ejer præcis så mange værktøjer, som du har brug for:]]></item>
+      <item name="zoo.collectableItems.forgottenZooTools.text.1"><![CDATA[Den 3. zoo-udvidelse giver dig adgang til den skjulte zoo. Det ser ikke ud som en særlig stor udvidelse, men den kan gøres større ved hjælp af værktøjer. Og her er hvordan det fungere:]]></item>
+      <item name="zoo.collectableItems.forgottenZooTools.text.2"><![CDATA[<ol><li>Gå ind i den skjulte zoologiske have, gå til butikken og klik på "tilføjelser", </li><li> Du modtager 2 kort til af udvide den zoologiske have - én i bytte for værktøjer, den anden for zoodollars. </li><li>Saml nok værktøjer på lykkehjulet eller på safari og byt dem til et kort.]]></item>
+      <item name="zoo.collectableItems.forgottenZooTools.text.3"><![CDATA[Udvid din zoologiske have ved brug af begge kort - blot med værktøjer og zoodollars.<br> Du ejer præcis så mange værktøjer, som dy har brug for:]]></item>
     </category>
     <category name="zoo.collectableItems.easterEvent">
-      <item name="zoo.collectableItems.easterEvent.title"><![CDATA[påskeæg]]></item>
+      <item name="zoo.collectableItems.easterEvent.title"><![CDATA[Easter eggs]]></item>
       <item name="zoo.collectableItems.easterEvent.text"><![CDATA[Fra den 21. april til den 27. april vil du opleve en strøm af påskeæg! Saml dem og byt dem til påskeindhegningspynt, påskeharer og indhegninger. Din nuværende status for påskeæg:]]></item>
     </category>
     <category name="zoo.collectableItems.book">

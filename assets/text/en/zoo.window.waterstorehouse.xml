@@ -7,13 +7,13 @@
     <item name="zoo.window.waterstorehouse.text.store"><![CDATA[Your animals need a lot of food. Expand your storage level by level and make sure you have enough food for everyone as your zoo grows.]]></item>
     <item name="zoo.window.waterstorehouse.textmax.store"><![CDATA[Bravo! You've expanded the warehouse to the maximum level.]]></item>
     <item name="zoo.window.waterstorehouse.textmax.water"><![CDATA[Bravo! You've extended the water tower to the maximum level.]]></item>
-    <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Aktuální stupeň rozšíření: %have% / %max%]]></item>
+    <item name="zoo.window.waterstorehouse.leveltext"><![CDATA[Current expansion level: %have% / %max%]]></item>
     <item name="zoo.window.waterstorehouse.bartext.water"><![CDATA[Current capacity of the water tower]]></item>
     <item name="zoo.window.waterstorehouse.bartext.store"><![CDATA[Current capacity of the storage]]></item>
     <item name="zoo.window.waterstorehouse.buy.titel"><![CDATA[Expand]]></item>
     <item name="zoo.window.waterstorehouse.buy.text"><![CDATA[Would you like to<br>expand your zoo?]]></item>
     <item name="zoo.window.waterstorehouse.buy.upgraderc"><![CDATA[Expand for zoodollars]]></item>
-    <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Expand for zoogrosh]]></item>
+    <item name="zoo.window.waterstorehouse.buy.upgradevc"><![CDATA[Expand for petpennies]]></item>
     <item name="zoo.window.waterstorehouse.buy.nextcap"><![CDATA[New size:]]></item>
   </category>
 </language>

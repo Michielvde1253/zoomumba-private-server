@@ -13,7 +13,7 @@
       <item name="zoo.shop.category.material"><![CDATA[Material]]></item>
     </category>
     <category name="zoo.shop.tabbar">
-      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[This is how you get to the workshop.]]></item>
+      <item name="zoo.shop.tabbar.ocean.empty"><![CDATA[This way you can get to the workshop]]></item>
     </category>
   </category>
 </language>

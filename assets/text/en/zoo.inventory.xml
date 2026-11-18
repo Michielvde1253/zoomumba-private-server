@@ -14,7 +14,7 @@
       <item name="zoo.inventory.tabs.trash"><![CDATA[Trash]]></item>
     </category>
     <category name="zoo.inventory.trash">
-      <item name="zoo.inventory.trash.info"><![CDATA[Environmental protection with reuse: Recycle waste at a recycling facility and use the raw materials to make something needed.]]></item>
+      <item name="zoo.inventory.trash.info"><![CDATA[Reusable environmental protection: Recycle waste at a recycling facility and use the raw materials to make something needed.]]></item>
       <item name="zoo.inventory.trash.amount"><![CDATA[Amount of trash:]]></item>
     </category>
     <category name="zoo.inventory.pawprints">
@@ -24,14 +24,14 @@
       <item name="zoo.inventory.tabs.pearls.info"><![CDATA[The more you take care of your animals, the more pearls you will earn to beautify your habitats.<br><br>Current pearl status:]]></item>
     </category>
     <category name="zoo.inventory.inventory">
-      <item name="zoo.inventory.inventory.empty"><![CDATA[EVERYWHERE IS EMPTY?<br>Your inventory is currently empty.<br>Why don't you check out the store or go on a safari?]]></item>
+      <item name="zoo.inventory.inventory.empty"><![CDATA[EVERYTHING IS EMPTY?<br>Your inventory is currently empty.<br>Why don't you check out the store or go on a safari?]]></item>
       <item name="zoo.inventory.inventory.item.button.action"><![CDATA[Use]]></item>
     </category>
     <category name="zoo.inventory.gifts">
       <item name="zoo.inventory.gifts.headerUsername"><![CDATA[Player name]]></item>
       <item name="zoo.inventory.gifts.headerUserID"><![CDATA[Player ID]]></item>
       <item name="zoo.inventory.gifts.received"><![CDATA[How beautiful! Your friend sent you a gift. Quickly, unwrap it!]]></item>
-      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Expand]]></item>
+      <item name="zoo.inventory.gifts.received.button.unwrap"><![CDATA[Unwrap]]></item>
       <item name="zoo.inventory.gifts.none"><![CDATA[What a shame! You don't have any new gifts at the moment... But don't be sad, something will come soon.]]></item>
     </category>
     <category name="zoo.inventory.move">

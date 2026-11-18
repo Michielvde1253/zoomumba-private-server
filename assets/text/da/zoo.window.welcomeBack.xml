@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
   <category name="zoo.window.welcomeBack">
-    <item name="zoo.window.welcomeBack.title"><![CDATA[Velkommen tilbage, %brugernavn%!]]></item>
-    <item name="zoo.window.welcomeBack.info"><![CDATA[Hvor dejligt, at du er tilbage! Så lad os komme i gang! Dine dyr venter ivrigt på dig. Det bliver vildt igen! Flere nuttede tilføjelser, flere usædvanlige fugle og masser af begejstrede besøgende. <br><br>Og du vil også nyde, hvad zoologisk have har i vente til dig:]]></item>
-    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Hurra! Gå ikke glip af det vilde sus!]]></item>
+    <item name="zoo.window.welcomeBack.title"><![CDATA[Velkommen tilbage, %username%!]]></item>
+    <item name="zoo.window.welcomeBack.info"><![CDATA[Hvor dejligt, at du er tilbage! Lad os komme i gang! Dine dyr venter ivrigt på dig. Det bliver vildt igen! Flere nuttede tilføjelser, flere besynderlige fugle, og en masse gæster der glæder sig <br> <br> Og du kommer også til at nyde hvad den zoologiske have har i vente til dig:]]></item>
+    <item name="zoo.window.welcomeBack.welcomeMessage"><![CDATA[Jubbi! Skynd dig, gå ikke glip af det vilde sus!]]></item>
   </category>
 </language>

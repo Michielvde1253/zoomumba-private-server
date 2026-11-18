@@ -88,8 +88,18 @@ def give_reward(reward, user_id, obj, json_data, config_data):
             inventory[str(item["id"])] = item
             items.send_item(obj, key, items.INVENTORY_FIELD, item)
 
-    elif kind == "assist":
-        # amount is hours (CollectionSetRewordWindowMediator shows count * 3600 s)
+    elif kind in ("animal", "animals"):
+        config = config_data["gameItems"]["animals"][str(reward_id)]
+        for _ in range(amount):
+            animal = {"id": json_data["next_object_id"], "uId": user_id, "aId": int(reward_id), "sId": config["speciesId"],
+                      "cId": 0, "fId": 0, "fTime": int(time.time()), "act": 0}
+            json_data["next_object_id"] += 1
+            items.get_inventory_animals(json_data)[str(animal["id"])] = animal
+            items.send_animal(obj, items.INVENTORY_FIELD, "0", animal)
+
+    elif kind in ("assist", "assists"):
+        # amount is hours (CollectionSetRewordWindowMediator shows count * 3600 s,
+        # the wheel's texts say "zoo.wheel.assistant.<id>.hour.<count>")
         now = int(time.time())
         assistants = json_data.setdefault("asObj", {})
         entry = assistants.setdefault(str(reward_id), {"asId": str(reward_id), "end": "0", "nL": "1"})

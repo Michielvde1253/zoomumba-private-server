@@ -2,16 +2,16 @@
 <language>
   <category name="zoo.collectables">
     <category name="zoo.collectables.forgottenZoo">
-      <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Narzędzia]]></item>
-      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Zbieraj narzędzia i wymieniaj je na rozszerzenia do swojego ukrytego zoo.<br> <br>Narzędzia zdobywasz na Safari i w Kole Fortuny. Następnie udaj się do sklepu i wymień je.<br> <br>Do tej pory posiadasz tyle narzędzi:]]></item>
+      <item name="zoo.collectables.forgottenZoo.title"><![CDATA[Narzędzia/Przedmioty]]></item>
+      <item name="zoo.collectables.forgottenZoo.text"><![CDATA[Zbieraj przedmioty i wymieniaj je na powiększenie swojego ukrytego zoo.<br> <br>Przedmioty zdobywasz na Safari i w Kole Fortuny. Następnie udaj się do sklepu i wymień je.<br> <br>Do tej pory posiadasz tyle narzędzi:]]></item>
       <item name="zoo.collectables.forgottenZoo.extension"><![CDATA[Chcesz powiększyć swoje ukryte zoo o narzędzia %tools% i zoodolary %zd%?]]></item>
     </category>
     <category name="zoo.collectables.easterEvent">
       <item name="zoo.collectables.easterEvent.title"><![CDATA[pisanki]]></item>
-      <item name="zoo.collectables.easterEvent.text"><![CDATA[Od 21 do 27 kwietnia czeka Cię wysyp pisanek! Zbierz je i wymień na wielkanocne dekoracje do zagrody, wielkanocne zajączki i zagrody. Twój aktualny status pisanek:]]></item>
+      <item name="zoo.collectables.easterEvent.text"><![CDATA[Od 21 do 27 kwietnia czeka Cię wysyp pisanek! Zbierz je i wymień na wielkanocne oferty. Twój aktualny status pisanek:]]></item>
     </category>
     <category name="zoo.collectables.meadow">
-      <item name="zoo.collectables.meadow.main.title"><![CDATA[Łąka]]></item>
+      <item name="zoo.collectables.meadow.main.title"><![CDATA[Łąka ]]></item>
       <item name="zoo.collectables.meadow.main.text"><![CDATA[Na pięknej, kolorowej łące rośnie mnóstwo traw, kwiatów i soczystych koniczyn.]]></item>
       <item name="zoo.collectables.meadow.flower.title"><![CDATA[Kwiaty]]></item>
       <item name="zoo.collectables.meadow.flower.text"><![CDATA[Wiosną łąki zamieniają się w morze dzikich kwiatów. A Twoje zwierzęta je uwielbiają!]]></item>
@@ -20,16 +20,16 @@
       <item name="zoo.collectables.meadow.gnome.title"><![CDATA[Psotny]]></item>
       <item name="zoo.collectables.meadow.gnome.text"><![CDATA[Łąki są również często domem dla elfów, które nocą wychodzą ze swoich kryjówek. Te płochliwe, ale przyjazne stworzenia często dzielą swoje domostwa z zającami.]]></item>
       <item name="zoo.collectables.meadow.mushroom.title"><![CDATA[Grzyby]]></item>
-      <item name="zoo.collectables.meadow.mushroom.text"><![CDATA[Grzyby są smacznymi grzybami i rosną na przykład w Ameryce Północnej.]]></item>
+      <item name="zoo.collectables.meadow.mushroom.text"><![CDATA[Grzyby są smaczne i rosną na przykład w Ameryce Północnej.]]></item>
       <item name="zoo.collectables.meadow.sign.title"><![CDATA[Dzika łąka]]></item>
       <item name="zoo.collectables.meadow.sign.text"><![CDATA[Jeśli przez długi czas nikt nie będzie dbał o „łąkę przejściową”, wkrótce znów wyrośnie na niej dziki las.]]></item>
     </category>
     <category name="zoo.collectables.ice">
-      <item name="zoo.collectables.ice.main.title"><![CDATA[Lód]]></item>
+      <item name="zoo.collectables.ice.main.title"><![CDATA[Lód ]]></item>
       <item name="zoo.collectables.ice.main.text"><![CDATA[Nie tylko pingwiny i niedźwiedzie polarne lubią zimny klimat, ale lis polarny również uwielbia lód i śnieg!]]></item>
       <item name="zoo.collectables.ice.popsicle.title"><![CDATA[Lody na patyku]]></item>
       <item name="zoo.collectables.ice.popsicle.text"><![CDATA[Mało kto wie, że pingwiny lubią też lody na patyku i czasami kradną je turystom.]]></item>
-      <item name="zoo.collectables.ice.cubes.title"><![CDATA[Kostki lodu]]></item>
+      <item name="zoo.collectables.ice.cubes.title"><![CDATA[Kostki Lodu ]]></item>
       <item name="zoo.collectables.ice.cubes.text"><![CDATA[Kostki lodu to idealny sposób na schłodzenie gorącego napoju. Zapewniają orzeźwienie w upalny letni dzień.]]></item>
       <item name="zoo.collectables.ice.skates.title"><![CDATA[Łyżwa]]></item>
       <item name="zoo.collectables.ice.skates.text"><![CDATA[Łyżwiarstwo to niesamowity sport. Historycy uważają, że został wynaleziony około 4000 lat temu. Prawdopodobnie Finowie przyczynili się do jego wynalezienia.]]></item>
