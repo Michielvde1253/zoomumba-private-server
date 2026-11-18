@@ -1,10 +1,3 @@
-"""
-Loads the global game configuration (data/global_config_data.json.def) once
-and keeps it in memory. It used to be read and parsed from disk on every
-ZooApi.php request (7.5 MB of JSON).
-
-The returned dict is shared between requests: treat it as read-only.
-"""
 import json
 from pathlib import Path
 

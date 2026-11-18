@@ -10,12 +10,25 @@ empty_deco = {"id": -1,"uId": 0,"fId": 0,"dId": 76,"act": 0,"x": 37,"y": 82,"r":
 empty_store = {"id": -1,"uId": 0,"fId": 0,"stId": 1,"act": 0,"x": 32,"y": 86,"r": 0,"build": 1313749616,"collect": 1387812591,"fTime": 1387796606}
 empty_powerup = {"id": -1,"uId": 0,"pId": 0, "inUse": 0, "lastActivated": 0, "endTime": 0}
 
+# Tombola
 TOMBOLA_TICKET_PRICE = 2  # hardcoded because so does the client
 TOMBOLA_WEIGHTS = [1, 49, 49, 28, 1, 49, 49, 28]
 
+# Translations
 LANGUAGES = ["bg", "br", "cs", "da", "de", "el", "en", "es", "fi", "fr", "hu", "it", "nl", "no", "pl", "pt", "ro", "ru", "sk", "sv", "tr"]
-
 CVS = {}
+
+# Resources
+PET_PAWS, PEARLS = 3, 4
+WATER, MEDICINE, SUPERFOOD, SUPERMEDICINE, POWERFOOD = 1, 7, 8, 9, 10
+OCEAN_SUPERFOOD, OCEAN_POWERFOOD = 21, 22
+
+# Super and power feed only once food bar is below this threshold (MainConfig.PERCENTAGE_FOR_SUPER_ACTIONS)
+SUPER_ACTION_THRESHOLD = 0.8
+
+# Field types
+OCEAN_FIELD_TYPE = 6
+
 
 def get_cv(lang):
     if lang in CVS:

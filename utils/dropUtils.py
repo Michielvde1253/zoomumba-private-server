@@ -1,34 +1,26 @@
-"""
-Paws (uObj.pPaw), pearls (uObj.pearls) and collection items (collItems)
-from cage actions.
+# paws, pearls and collection items
 
-Every cage carries pre-rolled rewards per action in cage.drops.<key>
-("pp" = paws, "pl" = pearls). When the player acts on a cage the client shows
-a paw drop worth that amount straight away (GenerateDropsCommand), but it
-never adds it to its paw counter itself: the counter only changes when the
-server sends uObj.pPaw. So the server has to pay out the same amount and roll
-the next one, which reaches the client with the cage.
-"""
 import math
 import random
 import time
+import constantsUtils
 
-# field.fia action -> (cage.drops key, action multiplier from GenerateDropsCommand)
+# converts fia to (name in config, multiplier)
 CAGE_ACTION_DROPS = {
-    "fAC": ("fe", 1),
-    "wAC": ("wa", 1),
-    "cAC": ("cl", 1),
-    "cuAC": ("cu", 1),
-    "hAC": ("hl", 1),
-    "beAC": ("eb", 1),
-    "bdAC": ("db", 2),   # instant breed counts as SUPERBREAD
-    "sfAC": ("sf", 1),
+    "fAC": ("fe", 1),    # feed
+    "wAC": ("wa", 1),    # water
+    "cAC": ("cl", 1),    # clean
+    "cuAC": ("cu", 1),   # cuddle
+    "hAC": ("hl", 1),    # heal
+    "beAC": ("eb", 1),   # breed
+    "bdAC": ("db", 2),   # direct breed
+    "sfAC": ("sf", 1),   # super feed
     "pfAC": ("pf", 4),   # power feed
     "shAC": ("sh", 2),   # super heal
 }
 
 # UserResources.as
-PET_PAWS, PEARLS = 3, 4
+
 
 # Chance that an action's next drop carries a collection item. Rough rates
 # from the HAR capture (57 cages): clean ~19%, the others 2-9%.
@@ -63,10 +55,10 @@ def pay_cage_action(json_data, config_data, cage, fia):
 
     paws = pearls = 0
     if drop.get("pp"):
-        paws = math.ceil(int(drop["pp"]) * multiplier * (1 + powerup_bonus(json_data, config_data, PET_PAWS)))
+        paws = math.ceil(int(drop["pp"]) * multiplier * (1 + powerup_bonus(json_data, config_data, constantsUtils.PET_PAWS)))
         json_data["uObj"]["pPaw"] = json_data["uObj"].get("pPaw", 0) + paws
     if drop.get("pl"):
-        pearls = math.ceil(int(drop["pl"]) * multiplier * (1 + powerup_bonus(json_data, config_data, PEARLS)))
+        pearls = math.ceil(int(drop["pl"]) * multiplier * (1 + powerup_bonus(json_data, config_data, constantsUtils.PEARLS)))
         json_data["uObj"]["pearls"] = json_data["uObj"].get("pearls", 0) + pearls
 
     collected = None

@@ -1,30 +1,7 @@
-"""
-Caring for one cage: feed, water, clean, cuddle, heal, super/power feed and
-super heal. Used by the manual actions and by the assistants, which run the
-same thing over every cage of the zoo that needs it.
-
-Timestamps on a cage are "good until": feed/water/clean/cuddle run out at
-that time, and the animals get sick once `health` has passed. Heal and super
-heal follow CageHealActionCommand / CageInstantHealActionCommand:
-  heal:       sick = now + sickTime, health = now + healthTime + sickTime
-  super heal: sick = 0,              health = now + healthTime + 2 * sickTime
-Super and power feed cost one superfood / powerfood (super_fishfood /
-power_fishfood in the ocean zoo) and refill `feed` with the normal feedTime;
-the config has no superFeedTime/powerFeedTime, so the client uses feedTime too.
-"""
 import time
 
-from utils import shopUtils, dropUtils, questUtils
+from utils import shopUtils, dropUtils, questUtils, constantsUtils
 
-# Resource ids (gameItems.resources)
-WATER, MEDICINE, SUPERFOOD, SUPERMEDICINE, POWERFOOD = 1, 7, 8, 9, 10
-OCEAN_SUPERFOOD, OCEAN_POWERFOOD = 21, 22
-OCEAN_FIELD_TYPE = 6  # PlayFieldsTypes.FIELD_TYPE_OCEANWORLD_ZOO
-
-# Super/power feed only once food is below this share (MainConfig.PERCENTAGE_FOR_SUPER_ACTIONS)
-SUPER_ACTION_THRESHOLD = 0.8
-
-# action -> (fia used for drops/quests, xp action name for shopUtils.get_cage_calculated_xp)
 ACTION_INFO = {
     "feed": ("fAC", "feed"),
     "water": ("wAC", "water"),
@@ -50,7 +27,7 @@ def species_config(config_data, cage):
 
 
 def is_ocean(json_data, field_id):
-    return int(json_data.get("pfObj", {}).get(str(field_id), {}).get("fType", 1)) == OCEAN_FIELD_TYPE
+    return int(json_data.get("pfObj", {}).get(str(field_id), {}).get("fType", 1)) == constantsUtils.OCEAN_FIELD_TYPE
 
 
 def is_sick(cage):
@@ -62,24 +39,23 @@ def food_left(cage, species):
 
 
 def cost_of(json_data, config_data, cage, action, field_id):
-    """[(resource id, amount)] the action uses on this cage."""
     species = species_config(config_data, cage)
     count = animal_count(cage)
     ocean = is_ocean(json_data, field_id)
     return {
         "feed": [(species["foodId"], species["foodPerAnimal"] * count)],
-        "water": [(WATER, species["waterPerAnimal"] * count)],
+        "water": [(constantsUtils.WATER, species["waterPerAnimal"] * count)],
         "clean": [],
         "cuddle": [],
-        "heal": [(MEDICINE, count)],
-        "superfeed": [(OCEAN_SUPERFOOD if ocean else SUPERFOOD, 1)],
-        "powerfeed": [(OCEAN_POWERFOOD if ocean else POWERFOOD, 1)],
-        "superheal": [(SUPERMEDICINE, 1)],
+        "heal": [(constantsUtils.MEDICINE, count)],
+        "superfeed": [(constantsUtils.OCEAN_SUPERFOOD if ocean else constantsUtils.SUPERFOOD, 1)],
+        "powerfeed": [(constantsUtils.OCEAN_POWERFOOD if ocean else constantsUtils.POWERFOOD, 1)],
+        "superheal": [(constantsUtils.SUPERMEDICINE, 1)],
     }[action]
 
 
+# for assistants to check if a cage needs smth
 def needs(config_data, cage, action):
-    """Does an assistant have anything to do on this cage?"""
     species = species_config(config_data, cage)
     if species is None or animal_count(cage) == 0 or cage.get("build", 0) > now():
         return False
@@ -87,7 +63,7 @@ def needs(config_data, cage, action):
     if action in ("feed", "water", "clean", "cuddle"):
         return cage.get(action, 0) <= t
     if action in ("superfeed", "powerfeed"):
-        return food_left(cage, species) < SUPER_ACTION_THRESHOLD
+        return food_left(cage, species) < constantsUtils.SUPER_ACTION_THRESHOLD
     if action in ("heal", "superheal"):
         return is_sick(cage)
     return False
@@ -98,7 +74,6 @@ def can_afford(json_data, costs):
 
 
 def perform(obj, json_data, config_data, cage, action, field_id, xp_bonus=0.0):
-    """Do `action` on the cage if the player has what it costs. Returns True if done."""
     species = species_config(config_data, cage)
     if species is None or animal_count(cage) == 0:
         return False

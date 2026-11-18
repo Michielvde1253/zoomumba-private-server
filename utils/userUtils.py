@@ -8,10 +8,8 @@ def set_total_user_count(count):
 def get_zoo_from_db_by_userid(data_db, userid):
     return data_db.find_one({'id': userid})
 
+# used for new_player.json
 def replace_placeholders(json_file, placeholder_value, replacement_value):
-    """
-    Replaces the placeholders in the new_player.json file.
-    """
     data = json_file
     
     # Recursive function to replace placeholders
@@ -28,9 +26,6 @@ def replace_placeholders(json_file, placeholder_value, replacement_value):
     return replace_values(data)
 
 def get_differences(old_dict, new_dict):
-    """
-    Compares two dictionaries and returns the differences.
-    """
     added = {k: new_dict[k] for k in new_dict if k not in old_dict}
     removed = {k: old_dict[k] for k in old_dict if k not in new_dict}
     modified = {k: new_dict[k] for k in new_dict if k in old_dict and old_dict[k] != new_dict[k]}
@@ -38,9 +33,6 @@ def get_differences(old_dict, new_dict):
     return added, removed, modified
 
 def save_zoo(collection, user_id, added, removed, modified):
-    """
-    Updates only the changed fields in the MongoDB document.
-    """
     update_query = {}
     if added or modified:
         update_query["$set"] = {f"zoo.{k}": v for k, v in {**added, **modified}.items()}

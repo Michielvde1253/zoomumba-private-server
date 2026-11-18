@@ -6,7 +6,7 @@ Discord server: https://discord.gg/ukC5bEnqaC
 
 ## Legal Issues
 
-This repository is made by Zoomumba fans, for Zoomumba fans. It's made out of nostalgia and will not be monetized in any way. Contact us for any legal problems, and we'll take appropriate action.
+This repository is made by Zoomumba fans, for Zoomumba fans. It's made out of nostalgia and will not be monetized in any way. Please contact us for any legal problems, and we'll take appropriate action.
 
 ## How to play
 
@@ -27,7 +27,7 @@ We're still looking for some of Zoomumba's assets. If you have them or know how 
 ## List of game commands
 
 This is a list of all the commands that the client mentions in its `Net.as` file and that the server should be able to handle.
-For developers: you can regenerate this list with `python tools/command_status.py <NET.as>`.
+For developers: you can regenerate this list with `python dev_trash_folder/command_status.py <NET.as>`.
 
 ### Implemented
 
