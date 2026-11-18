@@ -18,33 +18,16 @@ Install the libraries from requirements.txt, set up a MongoDB database and creat
 
 You will need a browser that supports Flash (and Flash Player itself) to run the game. Alternatively, you can use [Flash Browser](https://github.com/radubirsan/FlashBrowser).
 
+## AI disclaimer
+Parts of the code in this repository has been written by AI. While we're not fully against this, it is really important that any code you submit has been read and understood by a human and is of decent quality.
+
 ## Assets
 We're still looking for some of Zoomumba's assets. If you have them or know how to get them, feel free to contact us!
 
-## Running the tests
-
-`tests/test_api.py` plays through the API the way the client does (register, buy, feed, breed, quests, inventory, ...) against an in-memory MongoDB, and checks both the answers and the saved player data:
-
-```
-pip install -r requirements.txt -r requirements-dev.txt
-python tests/test_api.py
-```
-
-It exits non-zero if a check fails. It can't see what the Flash client does with the answers, so after bigger changes also run through [docs/PLAYTEST.md](docs/PLAYTEST.md) in the real client.
-
-## How the server works
-
-- **Transport:** the client POSTs to `/ZooApi.php?uId=&sid=&secTok=` with a form field `json` = `{"callstack": [{"<service>.<method>": {..., "req:": <request id>}}]}`. The answer is `{"callstack": {"<request id>": [{"t": 1|0, "v": <error code>}]}, "obj": {<state blocks>}}`. The client is state driven: whatever blocks come back in `obj` (`uObj`, `fObj`, `pfObj`, `res`, `animals`, `qObj`, ...) replace what it had.
-- **Commands:** `app.py` maps each `service.method` to a handler in `commands/`; `field.fia` actions are in `commands/field_actions/` (registered in `commands/field_fia.py`), inventory actions in `commands/inventory_iva.py`. Shared game rules live in `utils/` (e.g. `cageCareUtils`, `dropUtils`, `questUtils`, `rewardUtils`, `resourceUtils`, `expansionUtils`, `fieldItemUtils`).
-- **Field items:** `fObj.<type>.<fieldId>.<uniqueId>`, where field `"0"` is the inventory. Animals are `animals.<fieldId>.<cageId>.<uniqueId>`, inventory animals `animals."0"."0".<uniqueId>`. An item sent back with `del: 1` is removed on the client, with `del: 1, inv: 1` it moves to the inventory.
-- **Optimistic client:** for most actions the client already changed its own numbers (money, resources, xp) before the answer arrives, so handlers always send back the authoritative blocks they changed.
-- **Errors:** a handler can `raise ZooError(code)` (`utils/zooErrors.py`). The server rolls back that handler's changes to the player data, answers the call with `t:0`, and re-sends `uObj` (or the blocks named in `resync`) so the client drops its optimistic changes. Unexpected exceptions do the same with `zoo.error.internal`, so one broken handler never turns the whole request into an HTTP 500.
-- **Stubs:** commands without a real implementation fall back to `commands/stubs.py`: "get" style calls answer `t:1` with whatever matching data the player document has, seasonal event calls answer `t:0 zoo.error.event.notRunning` (like the original server for inactive events), and anything else answers `t:0 zoo.error.notImplemented`.
-- **Login repairs:** `init.getUser` fixes things older saves can have wrong: animal records that don't match the cage counters, zoo grid bounds that don't match the zoo size, and level-based expansions that were never granted.
-
 ## List of game commands
 
-Every command in the client's `NET.as`: 101 implemented, 14 stubbed, 36 seasonal event commands (answer "event not running"), 22 not implemented yet. Regenerate with `python tools/command_status.py <NET.as>`.
+This is a list of all the commands that the client mentions in its `Net.as` file and that the server should be able to handle.
+For developers: you can regenerate this list with `python tools/command_status.py <NET.as>`.
 
 ### Implemented
 
@@ -150,7 +133,7 @@ Every command in the client's `NET.as`: 101 implemented, 14 stubbed, 36 seasonal
 - [x] tombola.rTT - REDEEM_FORTUNE_WHEEL_TICKET
 - [x] tutorial.rS - TUTORIAL_STORE_STATS
 
-### Stubbed (the client gets an answer, nothing is changed)
+### Stubbed
 
 - [ ] achievement.ga - GET_ACHIEVEMENTS — stub: returns saved data
 - [ ] avatar.get - AVATAR_GET — stub: returns saved data
@@ -169,64 +152,64 @@ Every command in the client's `NET.as`: 101 implemented, 14 stubbed, 36 seasonal
 
 ### Not implemented yet
 
-- [ ] avatar.set - AVATAR_SAVE — not implemented
-- [ ] friends.aFbI - FRIENDS_ACCEPT_FRIEND — not implemented
-- [ ] friends.cFbI - FRIENDS_CANCEL_FRIENDSHIP — not implemented
-- [ ] friends.dFbI - FRIENDS_DECLINE_FRIEND — not implemented
-- [ ] friends.iFbI - FRIENDS_INVITE_FRIEND — not implemented
-- [ ] gifts.redeem - REDEEM_GIFT — not implemented
-- [ ] init.getNeighbour - GET_NEIGHBOUR — not implemented
-- [ ] item.buyPU - BUY_POWERUP_SHOP — not implemented
-- [ ] mail.dm - MAIL_DELETE_ITEM — not implemented
-- [ ] mail.rm - MAIL_IS_READ — not implemented
-- [ ] mail.sm - MAIL_SEND_BY_ID — not implemented
-- [ ] managementCenter.upgrade - MANAGMENTCENTER_UPGRADE — not implemented
-- [ ] packs.buy - BUY_PROMO_PACK — not implemented
-- [ ] safari.bG - BUY_SAFARI_FUEL — not implemented
-- [ ] safari.bJ - SAFARI_BUY_JOKER — not implemented
-- [ ] safari.eA - EXPLORE_SAFARI_TILE — not implemented
-- [ ] safari.eG - SAFARI_END — not implemented
-- [ ] safari.sS - START_SAFARI — not implemented
-- [ ] safari.sT - SKIP_SAFARI_TIMER — not implemented
-- [ ] safari.uJ - USE_SAFARI_JOKER — not implemented
-- [ ] user.swap - SWAP_CURRENCY — not implemented
-- [ ] user.uBN - SEARCH_USER_BY_NAME — not implemented
+- [ ] avatar.set - AVATAR_SAVE
+- [ ] friends.aFbI - FRIENDS_ACCEPT_FRIEND
+- [ ] friends.cFbI - FRIENDS_CANCEL_FRIENDSHIP
+- [ ] friends.dFbI - FRIENDS_DECLINE_FRIEND
+- [ ] friends.iFbI - FRIENDS_INVITE_FRIEND
+- [ ] gifts.redeem - REDEEM_GIFT
+- [ ] init.getNeighbour - GET_NEIGHBOUR
+- [ ] item.buyPU - BUY_POWERUP_SHOP
+- [ ] mail.dm - MAIL_DELETE_ITEM
+- [ ] mail.rm - MAIL_IS_READ
+- [ ] mail.sm - MAIL_SEND_BY_ID
+- [ ] managementCenter.upgrade - MANAGMENTCENTER_UPGRADE
+- [ ] packs.buy - BUY_PROMO_PACK
+- [ ] safari.bG - BUY_SAFARI_FUEL
+- [ ] safari.bJ - SAFARI_BUY_JOKER
+- [ ] safari.eA - EXPLORE_SAFARI_TILE
+- [ ] safari.eG - SAFARI_END
+- [ ] safari.sS - START_SAFARI
+- [ ] safari.sT - SKIP_SAFARI_TIMER
+- [ ] safari.uJ - USE_SAFARI_JOKER
+- [ ] user.swap - SWAP_CURRENCY
+- [ ] user.uBN - SEARCH_USER_BY_NAME
 
-### Seasonal events (answer "event not running")
+### Unimplemented event commands
 
-- [ ] advBreedEvt.getConfig - ADVANCED_BREEDING_EVENT_CONFIG — event not running
-- [ ] advBreedEvt.redeem - ADVANCED_BREEDING_EVENT_REDEEM — event not running
-- [ ] boardgame.buy - BOARDGAME_BUY — event not running
-- [ ] boardgame.explodeBallon - EXPLODE_BALLONS — event not running
-- [ ] boardgame.explodeBallon - EXPLODE_BALLONS_TYPE — event not running
-- [ ] boardgame.get - BOARDGAME_GET — event not running
-- [ ] boardgame.put - BOARDGAME_PUT — event not running
-- [ ] boardgame.put - BOARDGAME_PUT_INSTANT_BUY — event not running
-- [ ] caravan.redeem - BABY_EVENT_REDEEM — event not running
-- [ ] caravan.wTp - BABY_EVENT_TRADE_COLLECTABLE — event not running
-- [ ] circus.bMc - CIRCUS_BUY_BOX — event not running
-- [ ] circus.oMb - CIRCUS_OPEN_BOX — event not running
-- [ ] communityPayin.getEvent - COMMUNITY_PAYIN_GET_EVENT — event not running
-- [ ] communityPayin.putDrop - COMMUNITY_PAYIN_PUTDROP — event not running
-- [ ] communityPayin.redeem - COMMUNITY_PAYIN_REDEEM — event not running
-- [ ] easter.buyEgg - EASTER_BUY_EGG — event not running
-- [ ] easter.getEvent - EASTER_GET_EVENT — event not running
-- [ ] easter.putEgg - EASTER_PUT_EGG — event not running
-- [ ] frog.buyDrop - FROG_BUY_DROPICON — event not running
-- [ ] frog.getEvent - FROG_GET_EVENT — event not running
-- [ ] frog.putDrop - FROG_PUT_DROPICON — event not running
-- [ ] frog.swapBalloons - FROG_BUY_ANNIVERSARY — event not running
-- [ ] halloween2012.buyDrop - HALLOWEEN2012_BUY_DROPICON — event not running
-- [ ] halloween2012.getEvent - HALLOWEEN2012_GET_EVENT — event not running
-- [ ] halloween2012.putDrop - HALLOWEEN2012_PUT_DROPICON — event not running
-- [ ] loan.dI - BABY_CARAVAN_FINISH — event not running
-- [ ] loan.gI - BABY_CARAVAN_DO_LOAN — event not running
-- [ ] valentine.getConfig - VALENTINES_GET_CONFIG — event not running
-- [ ] valentine.move - VALENTINES_MAKE_A_MOVE — event not running
-- [ ] valentine.redeem - VALENTINES_REDEEM — event not running
-- [ ] valentine.reset - VALENTINES_RESET — event not running
-- [ ] xmas.dR - XMAS_GIVE_REINDEED_TO_SANTA_CLAUS — event not running
-- [ ] xmas.redeem - XMAS_REDEEM_TREE — event not running
-- [ ] xmas2012.buyDrop - XMAS2012_BUY_DROPICON — event not running
-- [ ] xmas2012.getEvent - XMAS2012_GET_EVENT — event not running
-- [ ] xmas2012.putDrop - XMAS2012_PUT_DROP — event not running
+- [ ] advBreedEvt.getConfig - ADVANCED_BREEDING_EVENT_CONFIG
+- [ ] advBreedEvt.redeem - ADVANCED_BREEDING_EVENT_REDEEM
+- [ ] boardgame.buy - BOARDGAME_BUY
+- [ ] boardgame.explodeBallon - EXPLODE_BALLONS
+- [ ] boardgame.explodeBallon - EXPLODE_BALLONS_TYPE
+- [ ] boardgame.get - BOARDGAME_GET
+- [ ] boardgame.put - BOARDGAME_PUT
+- [ ] boardgame.put - BOARDGAME_PUT_INSTANT_BUY
+- [ ] caravan.redeem - BABY_EVENT_REDEEM
+- [ ] caravan.wTp - BABY_EVENT_TRADE_COLLECTABLE
+- [ ] circus.bMc - CIRCUS_BUY_BOX
+- [ ] circus.oMb - CIRCUS_OPEN_BOX
+- [ ] communityPayin.getEvent - COMMUNITY_PAYIN_GET_EVENT
+- [ ] communityPayin.putDrop - COMMUNITY_PAYIN_PUTDROP
+- [ ] communityPayin.redeem - COMMUNITY_PAYIN_REDEEM
+- [ ] easter.buyEgg - EASTER_BUY_EGG
+- [ ] easter.getEvent - EASTER_GET_EVENT
+- [ ] easter.putEgg - EASTER_PUT_EGG
+- [ ] frog.buyDrop - FROG_BUY_DROPICON
+- [ ] frog.getEvent - FROG_GET_EVENT
+- [ ] frog.putDrop - FROG_PUT_DROPICON
+- [ ] frog.swapBalloons - FROG_BUY_ANNIVERSARY
+- [ ] halloween2012.buyDrop - HALLOWEEN2012_BUY_DROPICON
+- [ ] halloween2012.getEvent - HALLOWEEN2012_GET_EVENT
+- [ ] halloween2012.putDrop - HALLOWEEN2012_PUT_DROPICON
+- [ ] loan.dI - BABY_CARAVAN_FINISH
+- [ ] loan.gI - BABY_CARAVAN_DO_LOAN
+- [ ] valentine.getConfig - VALENTINES_GET_CONFIG
+- [ ] valentine.move - VALENTINES_MAKE_A_MOVE
+- [ ] valentine.redeem - VALENTINES_REDEEM
+- [ ] valentine.reset - VALENTINES_RESET
+- [ ] xmas.dR - XMAS_GIVE_REINDEED_TO_SANTA_CLAUS
+- [ ] xmas.redeem - XMAS_REDEEM_TREE
+- [ ] xmas2012.buyDrop - XMAS2012_BUY_DROPICON
+- [ ] xmas2012.getEvent - XMAS2012_GET_EVENT
+- [ ] xmas2012.putDrop - XMAS2012_PUT_DROP
