@@ -103,8 +103,6 @@ def inject_site_config():
     # Makes {{ SITE.server_url }}, {{ SITE.assets_url }}, {{ SITE.api_host }}, ... available in every template
     return {"SITE": siteConfig.get_site_config(request)}
 
-app.secret_key = 'my-zoomumba-key'
-
 # Used for the account emulation panel
 auth = HTTPBasicAuth()
 @auth.verify_password
@@ -519,5 +517,5 @@ def error_response(code):
 if __name__ == '__main__':
     print(" [+] Running server...")
 
-    app.secret_key = 'my-zoomumba-key'
-    app.run(host=host, port=port, debug=True)
+    app.secret_key = os.getenv('FLASK_SECRET_KEY')
+    app.run(host=host, port=port, debug=False)
