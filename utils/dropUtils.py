@@ -3,7 +3,7 @@
 import math
 import random
 import time
-import constantsUtils
+from utils import constantsUtils
 
 # converts fia to (name in config, multiplier)
 CAGE_ACTION_DROPS = {

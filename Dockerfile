@@ -1,4 +1,4 @@
-FROM python:3-bookworm
+FROM python:3.11-bookworm
 
 ADD . /project
 WORKDIR /project
